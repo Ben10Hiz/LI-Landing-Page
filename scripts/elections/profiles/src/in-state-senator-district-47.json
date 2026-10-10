@@ -1,0 +1,117 @@
+{
+ "race_id": "in-state-senator-district-47",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_senate",
+ "incumbent": {
+  "name": "Gary Byrne",
+  "party": "Republican",
+  "summary": "Gary Byrne, a Republican from Byrneville, has represented Senate District 47 since February 2022, when he was chosen to succeed Erin Houchin, and won a full term in November 2022 {wiki_byrne}. He is president of Byrne Satellite and serves on the Senate committees on Agriculture, Commerce and Technology, Education and Career Development, Homeland Security and Transportation, Natural Resources, Utilities, and Veterans Affairs and the Military, according to the Senate Republican caucus {byrne_caucus}.",
+  "record": [
+   "2025: Authored Senate Enrolled Act 95, which lets governments recover training costs when a newly trained police officer leaves for another employer within three years; Byrne said it addresses a statewide shortage of officers {byrne_sea95}.",
+   "April 2025: As author of Senate Bill 442 on sex-education transparency, sought in conference committee to remove House-added language requiring instruction on consent, then approved a report keeping it after objections from Democratic lawmakers and advocates; Byrne said the bill's primary goal was \"to promote transparency in sexual education curriculum\" {wndu_consent}.",
+   "May 2025: Authored SEA 287, which lets school board candidates list a party affiliation on the general-election ballot; educators and advocates opposing it said partisan politics would distract school boards from their main duties {byrne_sea287} {chalkbeat_sea287}. Byrne said \"voters should know where candidates for office stand on the issues\" {byrne_sea287}.",
+   "October 27, 2025: Issued a statement supporting the governor's special session on congressional redistricting {byrne_redistricting}. He sponsored HB 1032 and voted yes on December 11, 2025, when the Senate defeated it 31–19, later saying \"we missed it\" {bt50_byrne} {wish_rollcall} {lpm_redist_after}.",
+   "2026 session: Authored SEA 88, which requires public schools to teach the \"success sequence\" (finishing school, working full time, and marrying before having children); it passed the Senate 39–9 with all nine no votes from Democrats {nbc_sea88}. Sen. Shelli Yoder said it could make students from single-parent families feel their families are lacking; Byrne called it a way out of poverty {nbc_sea88}. It was ceremonially signed April 14, 2026 {byrne_caucus}.",
+   "January 2026: Authored Senate Bill 8, requiring elected county or city councils to review library budgets that rise sharply; it passed the Senate 31–13 {byrne_sb8}.",
+   "2026 session: BillTrack50 records him voting yes on the final votes for SB 1 (SNAP and Medicaid eligibility checks), SB 76 (immigration), and SB 256 (foreign-adversary restrictions), and no on SB 91 (syringe exchange programs) {bt50_byrne}."
+  ]
+ },
+ "race_context": [
+  "Senate District 47 covers Harrison and Washington counties and most of Floyd County {byrne_caucus}.",
+  "Byrne and Ethan Sweetland-May were the only candidates in their parties' May 5, 2026 primaries {lpm_feb2026} {lpm_jan2026}.",
+  "In 2022 Byrne won the seat with 66.8% of the vote over Democrat Katie Forte {wiki_byrne}.",
+  "No debates have been scheduled; Sweetland-May's campaign says Byrne has declined debate requests, according to a September 2026 podcast summary; no response from Byrne was found {hoosleft_esm2}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Ethan Sweetland-May",
+   "summary": "Ethan Sweetland-May, the Democratic nominee, is a Floyd County resident who worked 11 years as a garbage collector across the district {esm_home} {hoosleft_esm2}.",
+   "website": "https://www.ethanforstatesenate.com/",
+   "background": [
+    "Worked about 11 years as a sanitation worker on routes from Mauckport to Salem and Corydon to New Albany, according to his campaign {esm_home} {hoosleft_esm2}.",
+    "Grew up in Terre Haute and lives in Floyd County, where he moved in 2009 {hoosleft_esm2}."
+   ],
+   "path_to_ballot": [
+    "Was the only Democrat to file for the seat and is the party's nominee on the November ballot {lpm_feb2026} {in_list}."
+   ],
+   "positions": [
+    {"topic": "Health care", "items": ["His platform opposes the 2025 Medicaid law (SEA 2), which it says Byrne backed, and calls for limiting further Medicaid work requirements, state support for rural hospitals, and continuous coverage for children and postpartum mothers {esm_priorities}."]},
+    {"topic": "Education", "items": ["Criticizes the 2025 property-tax law for cutting school and pre-K funding; calls for fully funding pre-K, capping child-care costs at 7% of family income, and raising teacher pay {esm_priorities}."]},
+    {"topic": "Housing", "items": ["Supports restricting corporate bulk purchases of single-family homes and creating an implied warranty of habitability for rentals {esm_priorities}."]},
+    {"topic": "Energy & utilities", "items": ["Proposes banning utility reconnection fees, as summarized by a podcast host {hoosleft_esm2}."]},
+    {"topic": "Economy & jobs", "items": ["Supports apprenticeships and clean-energy jobs and notes Indiana has not raised its minimum wage since 2009 {esm_priorities}."]}
+   ],
+   "on_incumbent": [
+    "Criticizes Byrne's votes for the 2025 property-tax law and for SB 518, which he says would have required public schools to share operating funds with charter schools, as summarized by a podcast host {hoosleft_esm2}.",
+    "His platform says Byrne backed SEA 2's Medicaid changes, which it says add paperwork barriers to coverage {esm_priorities}."
+   ],
+   "plans": [
+    "Proposes a $35-per-month statewide cap on insulin costs, as summarized by a podcast host {hoosleft_esm2}. His platform also proposes a Reproductive Privacy Act and statewide nondiscrimination protections {esm_priorities}."
+   ],
+   "endorsements_finance": [
+    "No endorsements are listed on his campaign website {esm_home}. A podcast host reported his campaign has raised nearly double what the 2022 race for the seat raised {hoosleft_esm2}."
+   ],
+   "gaps": [
+    "No mainstream news coverage of his campaign beyond candidate lists was found.",
+    "Podcast statements are the host's summaries, not transcripts.",
+    "Fundraising was not verified against state campaign finance filings."
+   ]
+  },
+  {
+   "ballot_name": "Gary Byrne",
+   "summary": "Gary Byrne, the Republican incumbent, is a Harrison County business owner and farmer first chosen for the seat in 2022 {byrne_caucus} {wiki_byrne}.",
+   "website": null,
+   "background": [
+    "Co-owner and president of Byrne Satellite; lives on his family farm in Byrneville {byrne_caucus}.",
+    "Previously served on the North Harrison School Board, the Harrison County Council, and the Harrison County Economic Development Board {byrne_caucus}."
+   ],
+   "path_to_ballot": [
+    "Was the only Republican to file for the seat and is the party's nominee on the November ballot {lpm_feb2026} {in_list}."
+   ],
+   "positions": [
+    {"topic": "Education", "items": ["Authored the 2026 \"success sequence\" law and a 2025 sex-education transparency bill {nbc_sea88} {wndu_consent}."]},
+    {"topic": "Public safety", "items": ["Authored SEA 95 (2025) on recovering police training costs {byrne_sea95}."]},
+    {"topic": "Elections & redistricting", "items": ["Supported 2025 congressional redistricting, saying \"We need to redistrict Indiana, so our congressional votes do not get watered down by Democrat states\" {lpm_redist_before}.", "Authored SEA 287 (2025) allowing party labels in school board races {byrne_sea287}."]},
+    {"topic": "Property taxes", "items": ["Authored SB 8 (2026), saying it \"would make sure the people's voices are heard in how their tax dollars are spent\" on library budgets {byrne_sb8}."]}
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No statements by Byrne about Sweetland-May were found {byrne_caucus}."
+   ],
+   "plans": [
+    "In 2022, he listed his priorities as stopping what he called indoctrination of children in schools, reining in unelected bureaucrats, and election integrity including paper ballots {wave_2022}."
+   ],
+   "endorsements_finance": [
+    "In 2022 he said he accepted no lobbyist or PAC money {wave_2022}. His caucus biography lists a 2022 Champion for Life award from Indiana Right to Life {byrne_caucus}."
+   ],
+   "gaps": [
+    "No campaign website or 2026 campaign statements were found.",
+    "Individual votes on the 2025 property-tax law, the 2025 budget, and SB 518 were not verified.",
+    "Final status of SB 8 (2026) was not verified.",
+    "No 2026 campaign finance totals were found."
+   ]
+  }
+ ],
+ "sources": {
+  "wiki_byrne": ["Gary Byrne (politician)", "Wikipedia", "accessed 2026-10-10", "https://en.wikipedia.org/wiki/Gary_Byrne_(politician)"],
+  "byrne_caucus": ["Sen. Gary Byrne biography and news releases", "Indiana Senate Republicans", "accessed 2026-10-10", "https://www.indianasenaterepublicans.com/byrne"],
+  "byrne_sea95": ["Byrne's public safety bill heads to governor's desk", "Indiana Senate Republicans", "2025-03-25", "https://indianasenaterepublicans.com/byrne-s-public-safety-bill-heads-to-governor-s-desk"],
+  "wndu_consent": ["Requirement to teach consent returns to sex education bill at Indiana Statehouse", "WNDU", "2025-04-23", "https://www.wndu.com/2025/04/23/requirement-teach-consent-returns-sex-education-bill-indiana-statehouse/"],
+  "byrne_sea287": ["Byrne: Governor Signs SEA 287 (2025)", "Indiana Senate Republicans", "2025-05-07", "https://www.indianasenaterepublicans.com/byrne-governor-signs-sea-287-2025"],
+  "chalkbeat_sea287": ["Indiana bill to allow party affiliation in school board elections heads to governor's desk", "Chalkbeat Indiana", "2025-04-24", "https://www.chalkbeat.org/indiana/2025/04/24/partisan-school-board-election-bill-passes"],
+  "byrne_redistricting": ["Statement from State Sen. Gary Byrne on redistricting", "Indiana Senate Republicans", "2025-10-27", "https://www.indianasenaterepublicans.com/statement-from-state-sen-gary-byrne-on-redistricting"],
+  "bt50_byrne": ["Gary Byrne legislator scorecard", "BillTrack50", "accessed 2026-10-10", "https://www.billtrack50.com/public/scorecard/legislator/TNvEht1gV0ilLkxyi9h0rQ/26209"],
+  "wish_rollcall": ["How senators voted in keeping Indiana's congressional map unchanged", "WISH-TV", "2025-12-11", "https://www.wishtv.com/news/politics/how-senators-voted-in-keeping-indianas-congressional-map-unchanged/"],
+  "lpm_redist_after": ["Southern Indiana lawmakers speak out on failed redistricting vote", "Louisville Public Media", "2025-12-12", "https://www.lpm.org/news/2025-12-12/southern-indiana-lawmakers-speak-out-on-failed-redistricting-vote"],
+  "lpm_redist_before": ["State lawmakers representing Southern Indiana split on redistricting", "Louisville Public Media", "2025-12-04", "https://www.lpm.org/news/2025-12-04/state-lawmakers-representing-southern-indiana-split-on-redistricting"],
+  "nbc_sea88": ["A bill to require schools to promote marriage before having kids has divided Indiana", "NBC News", "2026-02-05", "https://www.nbcnews.com/news/us-news/indiana-divided-bill-requiring-schools-promote-marriage-kids-rcna257393"],
+  "byrne_sb8": ["Byrne authors bill to require more oversight of library budgets", "Indiana Senate Republicans", "2026-01-27", "https://www.indianasenaterepublicans.com/byrne-authors-bill-to-require-more-oversight-of-library-budgets"],
+  "lpm_feb2026": ["2026 primary elections: Here's who's running in Clark, Floyd Counties", "Louisville Public Media", "2026-02-09", "https://www.lpm.org/news/2026-02-09/2026-primary-elections-heres-whos-running-in-clark-floyd-counties"],
+  "lpm_jan2026": ["Here's who's filed for the primary in Southern Indiana so far", "Louisville Public Media", "2026-01-15", "https://www.lpm.org/news/2026-01-15/heres-whos-filed-for-the-primary-in-southern-indiana-so-far"],
+  "wave_2022": ["Redistricted Indiana 47th pits two incumbent state senators in the primary", "WAVE", "2022-05-02", "https://www.wdrbwave.com/2022/05/02/redistricted-indiana-47th-pits-two-incumbent-state-senators-primary"],
+  "esm_home": ["Sweetland-May for Indiana Senate District 47", "Ethan Sweetland-May campaign", "accessed 2026-10-10", "https://www.ethanforstatesenate.com/"],
+  "esm_priorities": ["Priorities", "Ethan Sweetland-May campaign", "accessed 2026-10-10", "https://www.ethanforstatesenate.com/priorities"],
+  "hoosleft_esm2": ["HoosLeft Podcast #146 - LIVE w/ Ethan Sweetland-May for SD47", "Progressive Indiana Network", "2026-09-30", "https://www.progressiveindiana.net/p/hoosleft-podcast-live-w-ethan-sweetland"]
+ }
+}

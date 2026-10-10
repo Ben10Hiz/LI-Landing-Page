@@ -1,0 +1,181 @@
+# Indiana State Senator — 2026 race profile
+
+_Researched 2026-10-10 · status: draft._ Pending editorial review.
+
+## About the office
+
+Members of the Indiana Senate write and vote on state laws as part of the Indiana General Assembly. The Senate has 50 members, each representing one district for a four-year term; about half the seats are elected every two years [1].
+
+- **Term:** 4 years [1]
+- **Term limit:** None [1]
+- **Seats:** 50 [1]
+- **On the 2026 ballot:** 25 districts [2]
+
+### What the office does
+
+- Introduces and votes on state legislation as one of the two chambers of the Indiana General Assembly [1].
+- Must be at least 25 years old when taking office and have lived in the district for at least a year, under Article 4 of the Indiana Constitution [1].
+
+### Recent changes to the office
+
+
+## Current officeholder: Jeff Raatz (Republican)
+
+Jeff Raatz, a Republican from Richmond, was elected to the Senate in 2014; the Senate Republican caucus lists him as chair of the Senate Committee on Education and Career Development and a member of the Appropriations Committee and its School Funding Subcommittee [3]. He is seeking a fourth term [4].
+
+- February 2024: Two bills he wrote passed the House: Senate Enrolled Act 6, requiring the Department of Education to develop a way for schools to identify and support students in grades 4 through 8 at risk of not reading proficiently, and Senate Enrolled Act 185, requiring schools to adopt policies limiting cellphone use in classrooms, according to the Senate Republican caucus [5].
+- May 2024: Ran in the Republican primary for Indiana's 6th Congressional District and received 8.9% of the vote; Jefferson Shreve won the nomination [4].
+- December 2025: Western Wayne News reported that he said he planned to vote yes on mid-decade congressional redistricting, summarizing his statement as saying redistricting was "necessary to offset the influence of voters and district maps in other states" [6]. Wikipedia's race page lists him among senators who voted for the bill, which the Senate rejected 31-19 on December 11, 2025 [7].
+- January 2026: The Senate passed his Senate Bill 78, a school-day ban on student cellphone use, 28-19, with 8 Democrats and 11 Republicans voting no; he said, "It's proven statistically that kids need a distraction-free day in school," while Sen. Shelli Yoder (D-Bloomington) called the bill "government overreach and an unfunded mandate" and other senators raised cost, enforcement and emergency-contact concerns [8].
+- February 2026: Social media restrictions for users under 16 that began in his Senate Bill 199 were added to House Bill 1408 in an end-of-session compromise, which passed the Senate 49-1 [9]. The caucus describes him as the Senate sponsor of the resulting House Enrolled Act 1408 [10].
+- March 5, 2026: Gov. Mike Braun signed Senate Enrolled Act 78, the "bell-to-bell" school cellphone law Raatz wrote, which took effect July 1, 2026 [11, 12].
+- March 2026: The caucus said he had a 99% voting record for the 2026 session and listed laws he supported, including Senate Enrolled Act 243, which links Indiana's tax code to federal tax exemptions for tips and overtime, and House Enrolled Act 1002 on electric utility ratemaking [10].
+- 2026: Is vice chair of the Interim Study Committee on Education, according to the caucus [3].
+
+## This race
+
+- Senate District 27 includes Henry, Union and Wayne counties and part of Franklin County [3, 4].
+- Raatz has held the seat since 2014 and defeated Democrat Ron Itnyre in 2022 with 71% of the vote [4].
+- In the May 5, 2026 Republican primary, Raatz won 9,329 votes (69.3%) to Anthony Lee Jones's 4,128 (30.7%), according to Wikipedia's results table; Itnyre is listed as the Democratic nominee without a primary opponent [7].
+- On April 29, 2026, Raatz and Itnyre took part in a forum at Earlham College in Richmond hosted by the NAACP Richmond branch, the Wayne County League of Women Voters, Wayne County Indivisible and Earlham College departments; topics included taxes, education funding, economic revitalization and transparency [13].
+- At the forum, the candidates differed on education funding, state tax policy and how legislative districts are drawn [13].
+- No general-election debate or forum since the primary was found in available coverage as of October 10, 2026.
+
+## Jeff Raatz
+
+Jeff Raatz, the Republican incumbent from Richmond, chairs the Senate education committee and wrote the 2026 law barring student cellphone use during the school day [3, 11].
+
+Campaign website: https://www.jeffraatz.com/
+
+### Background
+
+- Served in the U.S. Army and owns Raatz LLC; the caucus also lists him as assistant director of the Eastern Indiana Regional Planning Commission [3].
+- Has taught as an adjunct college instructor and worked in K-12 education, and his business-coaching firm consults on business practices, finances and IT, according to Western Wayne News [4].
+- Lives in Richmond, where his family moved in 1998, according to his campaign [14].
+
+### Path to the ballot
+
+- Won the May 5, 2026 Republican primary over Anthony Lee Jones, 69.3% to 30.7%, according to Wikipedia's results table [7].
+
+### Positions & plans
+
+**Education**
+
+- His campaign credits him with record school funding and reforms it links to five straight years of literacy gains [14].
+- At the April 2026 forum, he defended education policies he has advanced, including some that direct state money to charter and private schools, according to Western Wayne News [13].
+- On school cellphone limits, he said, "In the perfect world, no cellphone will get past the front door of the school" [11].
+
+**Property taxes**
+
+- At the forum, he said he did not like parts of the recent property-tax legislation and supported raising taxes for services as "close to the taxpayer" as possible [13].
+- His campaign says he voted to cut state taxes, including eliminating state taxes on tips and overtime [14].
+
+**Economy & jobs**
+
+- At the forum, described Indiana's finances as strong, calling it "about as good a state as you can be with the economy" [13].
+
+**Agriculture**
+
+- His campaign says he stands with Hoosier farmers and rural Indiana [14].
+
+**Public safety**
+
+- His campaign says he is focused on reducing crime and illegal immigration [14].
+
+**Elections & redistricting**
+
+- At the forum, said legislative districts are drawn to represent Hoosier voters' preferences, according to Western Wayne News's summary [13].
+
+### On the current officeholder
+
+- Is the current officeholder.
+- When Itnyre filed in February 2026, Raatz had not issued a statement about the challenge, according to Western Wayne News [4]. No later statements by Raatz about Itnyre were found.
+
+### How they say they'd run the office
+
+- In January 2026, said he looked forward to working with Gov. Braun on education as chair of the Senate education committee [15].
+- Is vice chair of the 2026 Interim Study Committee on Education ahead of the 2027 session [3].
+
+### Endorsements & fundraising
+
+- His campaign says he earned the endorsement of the Indiana Farm Bureau [14].
+- Wikipedia's race page also lists primary endorsements from President Donald Trump, Gov. Mike Braun, the NFIB Indiana PAC and the NRA Political Victory Fund [7].
+
+### What we couldn't verify
+
+- No campaign finance totals were found for either candidate.
+- His recorded votes on the 2025 property-tax law (SEA 1) and the 2025 state budget could not be verified; Indiana General Assembly roll calls were not readable.
+- His December 11, 2025 floor vote on redistricting is sourced to Wikipedia; contemporaneous reporting found only his stated plan to vote yes.
+- Sources differ on who authored HEA 1408: the caucus describes Raatz as sponsor, while news coverage credits Rep. Jake Teshka as the House author, with Raatz's SB 199 as the origin of the social media language.
+
+## Ronald Itnyre
+
+Ronald (Ron) Itnyre, the Democratic nominee from Richmond, is a senior lecturer in biology and director of the Office of Sustainability at Indiana University East; he lost to Raatz in 2022 [4].
+
+### Background
+
+- Is a senior lecturer in biology and director of the Office of Sustainability at Indiana University East [4, 16].
+- Grew up on a 300-acre corn and beef farm, earned a doctorate in plant pathology and worked 13 years as a corn breeder, according to Western Wayne News [4].
+- Has served on the Wayne Union Recycling and Solid Waste Board and the Richmond Street Tree Commission and as treasurer of the Wayne County Food Council [16].
+- Lives in Richmond [4].
+
+### Path to the ballot
+
+- Filed on February 2, 2026 [4].
+- Is listed as the Democratic nominee with no primary opponent on Wikipedia's race page [7].
+- Was the Democratic nominee for this seat in 2022 and lost to Raatz, who received 71% [4].
+
+### Positions & plans
+
+**Property taxes**
+
+- Opposes recent state tax legislation, which he says has hurt local communities [16, 4].
+- At the April 2026 forum, called for a "smart taxes" approach to funding challenges [13].
+
+**Education**
+
+- Said at the forum that he supports strong public schools [13].
+- Opposes state government overriding local schools, ordinances and economies [16, 4].
+
+**Agriculture**
+
+- At the forum, expressed concern about how state tax and education legislation affects communities, especially farmers [13].
+
+**Elections & redistricting**
+
+- At the forum, said legislative districts were drawn to ensure Republican control, according to Western Wayne News's summary [13].
+
+### On the current officeholder
+
+- Said the district's senator is "heavily influenced by major lobby groups and think tanks," which he argues produces policies favoring special interests [4, 16].
+- In his campaign announcement, said, "Right now, our state government is being dominated by political maneuvering and special interests" [16].
+
+### How they say they'd run the office
+
+- His announcement said he supports fair, sustainable policies, economic growth and a stronger voice for residents in the legislature [16].
+
+### What we couldn't verify
+
+- No endorsements or campaign finance totals were found.
+- No campaign website was found; iVoterGuide lists a Facebook page (facebook.com/ItnyreforIndiana), which could not be viewed.
+- Little coverage beyond his filing announcement and the April 2026 forum was found; detailed positions on health care, energy and data centers were not found.
+- Search snippets attributed to The Courier-Times said he named rising fuel costs and threats to family farms as top challenges; the page could not be fetched, so this is unverified.
+
+## Sources
+
+1. [Indiana Senate](https://en.wikipedia.org/wiki/Indiana_Senate) — Wikipedia, accessed 2026-10-10
+2. [2026 General Election Candidate List](https://www.in.gov/sos/elections/candidate-information/) — Indiana Election Division, 2026-09-22
+3. [State Senator Jeff Raatz, District 27](https://www.indianasenaterepublicans.com/raatz) — Indiana Senate Republicans, 2026-10-10
+4. [New candidates emerge for Indiana House, Senate races](https://westernwaynenews.com/?p=141639) — Western Wayne News, 2026-02-04
+5. [Raatz bills to address students' literacy, attention skills move to the governor's desk](https://www.indianasenaterepublicans.com/raatz-bills-to-address-students-literacy-attention-skills-move-to-the-governor-s-desk) — Indiana Senate Republicans, 2024-02-20
+6. [Barrett, Raatz support redistricting](https://westernwaynenews.com/barrett-raatz-support-redistricting) — Western Wayne News, 2025-12-08
+7. [2026 Indiana Senate election](https://en.wikipedia.org/wiki/2026_Indiana_Senate_election) — Wikipedia, 2026-10-10
+8. [Indiana Senate advances bell-to-bell school cellphone limits despite bipartisan concerns](https://www.ipm.org/news/2026-01-21/indiana-senate-advances-bell-to-bell-school-cellphone-limits-despite-bipartisan-concerns) — Indiana Capital Chronicle via IPM, 2026-01-21
+9. [Indiana youth social media crackdown advances to governor's desk](https://indianapublicradio.org/news/2026/02/indiana-youth-social-media-crackdown-advances-to-governors-desk/) — Indiana Capital Chronicle via Indiana Public Radio, 2026-02-27
+10. [Raatz achieves 99% voting record in Senate](https://www.indianasenaterepublicans.com/raatz-achieves-99-voting-record-in-senate) — Indiana Senate Republicans, 2026-03-24
+11. [Indiana schools face stricter cellphone rules under new 'bell-to-bell' law starting July 1](https://www.route-fifty.com/management/2026/05/indiana-schools-face-stricter-cellphone-rules-under-new-bell-bell-law-starting-july-1/413535/) — Indiana Capital Chronicle via Route Fifty, 2026-05-14
+12. [Indiana Gov. Braun signs 'bell-to-bell' school cellphone ban bill](https://www.wndu.com/2026/05/13/indiana-gov-braun-signs-bell-to-bell-school-cellphone-ban-bill/) — WNDU, 2026-05-13
+13. [Candidates share views in election forum](https://westernwaynenews.com/?p=144380) — Western Wayne News, 2026-04-30
+14. [Jeff Raatz for State Senate](https://www.jeffraatz.com/) — Raatz campaign, 2026-10-10
+15. [Statement from State Sen. Jeff Raatz in response to the 2026 State of the State address](https://www.indianasenaterepublicans.com/statement-from-state-sen-jeff-raatz-in-response-to-the-2026-state-of-the-state-address) — Indiana Senate Republicans, 2026-01-14
+16. [Dr. Ron Itnyre announces candidacy for Indiana State Senate](https://www.thecouriertimes.com/government/dr-ron-itnyre-announces-candidacy-for-indiana-state-senate/article_0da1dcde-96ee-5cea-870c-599f30d02c0c.html) — The Courier-Times, 2026-02-06

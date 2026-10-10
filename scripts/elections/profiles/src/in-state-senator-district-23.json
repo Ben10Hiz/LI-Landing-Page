@@ -1,0 +1,168 @@
+{
+ "race_id": "in-state-senator-district-23",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_senate",
+ "incumbent": {
+  "name": "Spencer Deery",
+  "party": "Republican",
+  "summary": "Spencer Deery, a West Lafayette Republican and higher-education consultant, was first elected in 2022 and is seeking a second term {wfyi_guide23} {caucus_deery}. He kept his place on the November ballot after the Indiana Supreme Court ruled on Sept. 10, 2026, that he won a disputed Republican primary by three votes {ipm_scotus}.",
+  "record": [
+   "Committees: Commerce and Technology; Corrections and Criminal Law; Education and Career Development; Health and Provider Services; and Utilities, according to the Senate Republican caucus {caucus_deery}.",
+   "2023: Authored a bill limiting \"transcript ransom\" practices at colleges, which the caucus describes as signed into law (SB 404) {caucus_deery}.",
+   "March 31, 2025: Senate Enrolled Act 249, which Deery authored, went to the governor; it lets schools fund extra pay for teachers in high-need areas before collective bargaining. Deery said schools \"deserve every tool in the toolbox\" for recruiting and keeping teachers {caucus_deery_sea249}.",
+   "April 15, 2025: Voted no when the Senate gave final approval (27-22) to SEA 1, the 2025 property-tax law {rc_sea1_417}. He later said he opposed it because \"it was the wrong solution to the serious problem of rising property taxes\" {citizen_sd23}.",
+   "April 25, 2025: Voted yes on the conference report for the 2025 state budget (HEA 1001), which passed the Senate 39-11 {rc_hb1001_538}.",
+   "Aug. 13, 2025: Said he would oppose mid-decade congressional redistricting, calling the argument that Democrats also gerrymander \"an empty and irrelevant excuse\" {caucus_deery_redistricting}. Dec. 11, 2025: Voted no on HB 1032, the redistricting bill, which the Senate defeated 19-31 {rc_hb1032_8}; in floor debate he said his opposition was \"not in contrast with my conservative principles\" {citizen_redistricting}.",
+   "Nov. 20, 2025: Said West Lafayette police stopped an attempted \"swatting\" call targeting his home, a day after an unpaid pizza delivery was sent to his address, and said such tactics should be \"condemned and never normalized\" {caucus_deery_swatting}.",
+   "Feb. 25-26, 2026: SEA 160, which Deery authored, passed the Senate unanimously; it makes committing a crime while concealing one's face a sentencing aggravator and makes malicious littering meant to cause fear a Class A misdemeanor {caucus_deery_sea160}.",
+   "2026 session: The caucus says Deery's SB 7, which would have given local officials a voice on carbon-sequestration projects bringing in carbon from other counties, passed the Senate but died in the House, and that he worked against HB 1333, which would have limited local regulation of data centers and other large developments {caucus_deery_2026}."
+  ]
+ },
+ "race_context": [
+  "Senate District 23 covers parts of Tippecanoe, Montgomery, Vermillion, Parke, Warren and Fountain counties in west-central Indiana, between Lafayette and Terre Haute {wfyi_guide23} {ipm_scotus}. The Senate Republican caucus lists all of Fountain, Parke, Vermillion and Warren counties and parts of Montgomery and Tippecanoe {caucus_deery}.",
+  "May 5, 2026 Republican primary: Deery faced Paula Copenhaver, a staffer in Lt. Gov. Micah Beckwith's office whom President Trump endorsed after Deery voted against mid-decade redistricting; Deery had also beaten Copenhaver in the 2022 primary {wfyi_april}. After provisional ballots were counted, Deery led by three votes {ipm_recount_call}.",
+  "Recount: Copenhaver sought a recount, saying her campaign had \"documented evidence of illegal voting by unqualified voters\" {ipm_recount_call}; she also challenged ballots, sought to subpoena voters, and said Democrats who crossed over had voted for Deery {lakeshore_scotus}. In August the Indiana Recount Commission voted 2-1, with its two Republican members (Secretary of State Diego Morales, who chairs it, and attorney Paul Mullin) in the majority, to disallow six ballots cast for Deery that lacked a county clerk's stamp or signature; that put Copenhaver ahead 6,332 to 6,329 {ipm_scotus}.",
+  "Both sides' arguments: Deery's attorney argued voters should not lose their votes because of election officials' mistakes, while Copenhaver's attorney argued the clerk's seal and election workers' initials are safeguards against absentee-ballot fraud {ipm_scotus}. Deery said \"nobody is really saying\" the voters were invalid and raised concerns about possible political motivation {wthi_appeal}. After the ruling, Copenhaver said state law sets ballot-authentication requirements and that the commission had been consistent in its decisions {ipm_scotus}.",
+  "Sept. 10, 2026: The Indiana Supreme Court, in a one-page order by a majority of the five justices, told the commission to certify Deery the winner 6,335 to 6,332 and resume ballot preparations with his name {ipm_scotus}. At oral argument, Justice Christopher Goff said he found no statutory basis to exclude ballots missing only a clerk's stamp or signature {ipm_scotus}; Justice Derek Molter called it problematic that the secretary of state had said before the election such ballots would count and then changed course {lakeshore_scotus}.",
+  "The recount also came up in the 2026 Secretary of State race: independent candidate Greg Ballard attended the hearing and said the case \"goes to voter intent\" and the commission needs to change, while Republican candidate Max Engling called for closed primaries after the crossover-voting concerns {lakeshore_scotus}.",
+  "General election: Democrat David Sanders was unopposed in his primary {wfyi_april}, and independent Joshua Brant was approved for the ballot in late July {wfyi_guide23}. In an April written Q&A, Deery and Sanders both opposed state tax breaks for data centers and both criticized SEA 1, but offered different alternatives {citizen_sd23}. No debate or forum among the three general-election candidates was found."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "David A Sanders",
+   "summary": "David Sanders is a Purdue University biology professor and West Lafayette city councilor making his second run for the seat {wfyi_guide23} {sanders_about}. He centers his campaign on government accountability, home rule, water protection and public education {wfyi_guide23}.",
+   "website": "https://davidsandersindiana.com",
+   "background": [
+    "Associate professor of biological sciences at Purdue University; holds a B.S. from Yale and a Ph.D. in biochemistry from UC Berkeley, according to his campaign {sanders_about}.",
+    "Democratic member of the West Lafayette City Council since 2016, according to his campaign {sanders_about}.",
+    "Founded the \"Stop the Water Steal\" effort that opposed a pipeline to move water to the LEAP Lebanon district {wfyi_guide23}.",
+    "Lives in West Lafayette; age 65 {wfyi_guide23}."
+   ],
+   "path_to_ballot": [
+    "Unopposed in the May 5, 2026 Democratic primary {wfyi_april}.",
+    "Also ran for this seat in 2022 {wfyi_guide23}."
+   ],
+   "positions": [
+    {"topic": "Property taxes", "items": ["Says SEA 1 \"simultaneously raised net property taxes for lower-assessed homes\" and wants the state tax system reconsidered {citizen_sd23}; told WFYI the law also hurt schools and municipalities {wfyi_guide23}."]},
+    {"topic": "Data centers", "items": ["Says \"Tax incentives should not be provided to data centers\" and wants communities to control siting {citizen_sd23}; also opposes state incentives for semiconductor plants and carbon-dioxide storage {wfyi_guide23}."]},
+    {"topic": "Water", "items": ["Opposes large-scale water transfers, including the LEAP Lebanon project {citizen_sd23} {wfyi_guide23}."]},
+    {"topic": "Local control", "items": ["Supports home rule and opposes state preemption of local government {wfyi_guide23} {sanders_issues}."]},
+    {"topic": "Education", "items": ["Says improvements \"will not occur because of 'merit pay' or lowering standards for teachers\" and wants public funds directed to public schools {citizen_sd23}."]},
+    {"topic": "Health care", "items": ["Supports rural broadband for telehealth, medical-debt reform and keeping rural hospitals open {citizen_sd23}; opposes cuts to SNAP, Medicaid and school lunches {wfyi_guide23}."]},
+    {"topic": "Child care", "items": ["Supports paid parental leave for all Indiana workers and investment in the child-care workforce {citizen_sd23}."]},
+    {"topic": "Elections & redistricting", "items": ["Calls for a ban on mid-decade redistricting and a nonpartisan redistricting commission {wfyi_guide23}."]},
+    {"topic": "Privacy", "items": ["Says he opposes government surveillance and \"government interference in marriage and childbearing decisions\" {sanders_issues}."]}
+   ],
+   "on_incumbent": [
+    "Has criticized SEA 1 as \"disastrous\" {wfyi_guide23}; Deery also voted against the law's final passage {rc_sea1_417}. No direct statements by Sanders about Deery's record were found."
+   ],
+   "plans": [
+    "Says he will \"continue to fight for clean water and against large-scale transfers of water\" {citizen_sd23}.",
+    "Says he will keep fighting state preemption of local self-rule {sanders_issues}."
+   ],
+   "endorsements_finance": [
+    "Top donors listed by WFYI from Transparency USA data are individuals; no totals were given {wfyi_guide23}.",
+    "His campaign site claims \"Three million dollars was spent by the other candidates in the primary\" (unsourced campaign claim) {sanders_home}."
+   ],
+   "gaps": [
+    "No endorsements or fundraising totals found.",
+    "A WLFI profile of Sanders (emphasizing transparency and local control) appeared in search results but the page could not be loaded."
+   ]
+  },
+  {
+   "ballot_name": "Joshua Brant",
+   "summary": "Joshua Brant is a self-employed West Lafayette veteran running as an independent {wfyi_guide23}. He lists government transparency, education reform and cost of living as priorities {wfyi_guide23}.",
+   "website": "https://electjoshuabrant.org",
+   "background": [
+    "Self-employed; lives in West Lafayette; age 44; a veteran {wfyi_guide23}."
+   ],
+   "path_to_ballot": [
+    "Running as an independent; approved for the ballot in late July 2026 {wfyi_guide23}."
+   ],
+   "positions": [
+    {"topic": "Taxes & cost of living", "items": ["Proposes a tax restructuring plan meant to ease family costs and support agricultural and small-business markets {wfyi_guide23}."]},
+    {"topic": "Health care", "items": ["Proposes holding insurers accountable, more price transparency and a nonprofit public option {wfyi_guide23}."]},
+    {"topic": "Data centers", "items": ["Opposes unchecked data center development {wfyi_guide23}."]},
+    {"topic": "Public safety", "items": ["Opposes Flock license-plate cameras {wfyi_guide23}."]},
+    {"topic": "Elections & redistricting", "items": ["Opposes gerrymandering by either party and says he would vote for a fair, transparent redistricting process; told WFYI \"Politicians should never choose their voters\" {wfyi_guide23}."]},
+    {"topic": "Government ethics", "items": ["His campaign lists proposals titled the \"Indiana Anti-Corruption and Accountability Act\" and \"The Peoples' Veto\" {brant_proposals}."]}
+   ],
+   "on_incumbent": [
+    "No statements by Brant about Deery or the seat's record were found; a campaign post on the District 23 ballot case described the court schedule without taking sides {brant_primary_post}."
+   ],
+   "plans": [
+    "Campaign lists proposals on education, tax restructuring, health care reform and a \"Bad Neighbor Doctrine\"; their details could not be read {brant_proposals}."
+   ],
+   "endorsements_finance": [
+    "Says he has pledged not to take corporate PAC or out-of-state donations; top donors listed by WFYI include himself {wfyi_guide23}."
+   ],
+   "gaps": [
+    "Ballotpedia (seen only in search snippets) says he served in the U.S. Marine Corps from 2002 to 2007 and holds an Ivy Tech associate degree; unverified.",
+    "Detailed proposal pages on his website were not readable; no endorsements, fundraising totals or news coverage found."
+   ]
+  },
+  {
+   "ballot_name": "Spencer R. Deery",
+   "summary": "Spencer Deery is the incumbent, first elected in 2022, and won the 2026 Republican primary by three votes after an Indiana Supreme Court ruling {ipm_scotus}. He names affordability as his top priority, along with teacher recruitment and retention {wfyi_april}.",
+   "website": "https://spencerdeery.com",
+   "background": [
+    "Higher-education consultant; age 43; lives in West Lafayette {wfyi_guide23}.",
+    "Former deputy chief of staff in the Purdue University president's office and special assistant to Purdue President Emeritus Mitch Daniels, according to the caucus; degrees from Brigham Young University and George Washington University (MPA) {caucus_deery}.",
+    "Elected in 2022 in his first bid for office {deery_site}."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Republican primary over Paula Copenhaver, 6,335 to 6,332, as certified under the Indiana Supreme Court's Sept. 10 order, after the Recount Commission had briefly declared Copenhaver the winner {ipm_scotus}."
+   ],
+   "positions": [
+    {"topic": "Property taxes", "items": ["Opposed SEA 1 as \"the wrong solution\" and argues property taxes are not tied to ability to pay {citizen_sd23}."]},
+    {"topic": "Data centers", "items": ["Says \"We should first eliminate the sales tax exemption the state gives these companies\" and opposes data centers that raise utility rates or get state subsidies {citizen_sd23}."]},
+    {"topic": "Education", "items": ["Focuses on teacher pay and retention and says Indiana needs growth in \"math, civics, and postsecondary attainment\" {citizen_sd23}."]},
+    {"topic": "Health care", "items": ["Supports telehealth access, more independence for health professionals and price transparency {citizen_sd23}."]},
+    {"topic": "Child care", "items": ["Says more home-based child care is \"the most affordable way to expand access\" and backs employer tax incentives {citizen_sd23}."]},
+    {"topic": "Hemp", "items": ["Supported bills to end sales of intoxicating Delta-8 products to minors, which he says the House killed {citizen_sd23}."]},
+    {"topic": "Elections & redistricting", "items": ["Opposes mid-cycle redistricting, saying candidates should win on their ideas rather than \"their ability to choose new voters\" {caucus_deery_redistricting}. After the court ruling he said if voters do everything right, \"your vote should count\" {lakeshore_scotus}."]}
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. On the recount, said the disputed voters cast valid ballots and that the rejection came from a clerical error, and raised concerns that an appointee involved had ties to a politician who financed his opponent's campaign {wthi_appeal}."
+   ],
+   "plans": [
+    "Says \"Affordability must be our top focus,\" including housing, health care, gas and electricity costs {citizen_sd23} {wfyi_april}."
+   ],
+   "endorsements_finance": [
+    "Top donors listed by WFYI from Transparency USA data: Senate Majority Campaign Committee, Indiana Realtors PAC, Indiana Business for Responsive Government, Indiana Multi Family Housing PAC and Indiana BANKPAC; no totals given {wfyi_guide23}."
+   ],
+   "gaps": [
+    "Did not respond to WFYI's 2026 candidate survey.",
+    "No general-election fundraising totals or endorsements found.",
+    "The court's written opinion explaining the Sept. 10 order had not been located."
+   ]
+  }
+ ],
+ "sources": {
+  "wfyi_guide23": ["2026 Voter Guide: Indiana Senate District 23", "WFYI Public Media", "2026-09-22", "https://www.wfyi.org/statewide/2026-09-22/2026-voter-guide-indiana-senate-district-23"],
+  "wfyi_april": ["After rejecting Trump's redistricting push, here's who is challenging State Sen. Spencer Deery", "WFYI Public Media (via WVXU)", "2026-04-17", "https://www.wvxu.org/2026-04-17/after-rejecting-trumps-redistricting-push-heres-who-is-challenging-state-sen-spencer-deery"],
+  "citizen_sd23": ["Based in Lafayette Story: Senate District 23 candidates discuss property taxes, health care and other issues", "Based in Lafayette (via The Indiana Citizen)", "2026-04-17", "https://indianacitizen.org/based-in-lafayette-story-senate-district-23-candidates-discuss-property-taxes-health-care-and-other-issues/"],
+  "ipm_scotus": ["Indiana Supreme Court rules Sen. Spencer Deery winner in 3-vote primary", "Indiana Capital Chronicle (via Indiana Public Media)", "2026-09-10", "https://www.ipm.org/2026-09-10/indiana-supreme-court-rules-sen-spencer-deery-winner-in-3-vote-primary"],
+  "lakeshore_scotus": ["Indiana Supreme Court declares winner in contentious Republican primary race", "WFYI Public Media (via Lakeshore Public Media)", "2026-09-10", "https://www.lakeshorepublicmedia.org/2026-09-10/indiana-supreme-court-declares-winner-in-contentious-republican-primary-race"],
+  "ipm_recount_call": ["Trump-backed candidate calls for recount in state Senate District 23 race", "WFYI Public Media (via Indiana Public Media)", "2026-05-18", "https://www.ipm.org/news/2026-05-18/trump-backed-candidate-calls-for-recount-in-state-senate-district-23-race"],
+  "wthi_appeal": ["Deery asks Indiana Supreme Court to intervene in District 23 recount", "WTHI-TV", "2026-08-20", "https://www.wthitv.com/2026/08/20/deery-asks-indiana-supreme-court-intervene-district-23-recount/"],
+  "caucus_deery": ["Sen. Spencer Deery: biography, committees and news releases", "Indiana Senate Republican Caucus", "accessed 2026-10-10", "https://www.indianasenaterepublicans.com/deery"],
+  "caucus_deery_sea249": ["Deery bill to empower schools to increase pay for high-need teachers heads to governor's desk", "Indiana Senate Republican Caucus", "2025-03-31", "https://www.indianasenaterepublicans.com/deery-bill-to-empower-schools-to-increase-pay-for-high-need-teachers-heads-to-governor-s-desk"],
+  "caucus_deery_sea160": ["Deery's public safety bill heads to governor's desk", "Indiana Senate Republican Caucus", "2026-02-26", "https://www.indianasenaterepublicans.com/deery-s-public-safety-bill-heads-to-governor-s-desk"],
+  "caucus_deery_2026": ["2026 Deery legislative updates", "Indiana Senate Republican Caucus", "2026", "https://www.indianasenaterepublicans.com/2026-deery-legislative-updates"],
+  "caucus_deery_redistricting": ["State Sen. Spencer Deery statement on redistricting", "Indiana Senate Republican Caucus", "2025-08-13", "https://www.indianasenaterepublicans.com/state-sen-spencer-deery-statement-on-redistricting"],
+  "caucus_deery_swatting": ["Statement from Sen. Spencer Deery regarding attempted swatting incident", "Indiana Senate Republican Caucus", "2025-11-20", "https://www.indianasenaterepublicans.com/statement-from-sen-spencer-deery-regarding-attempted-swatting-incident"],
+  "citizen_redistricting": ["Redistricting defeated: Indiana Senate votes against redrawing congressional map", "TheStatehouseFile.com and The Indiana Citizen", "2025-12-11", "https://indianacitizen.org/redistricting-defeated-indiana-senate-votes-against-redrawing-congressional-map/"],
+  "rc_hb1032_8": ["Senate Roll Call 8: HB 1032 (Redistricting), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-12-11", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-8-S-pdf.pdf"],
+  "rc_sea1_417": ["Senate Roll Call 417: SB 1 (Local government finance), concurrence", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-04-15", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-417-S-pdf.pdf"],
+  "rc_hb1001_538": ["Senate Roll Call 538: HB 1001 (State budget), conference committee report", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-04-25", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-538-S-pdf.pdf"],
+  "sanders_about": ["About David", "David Sanders for Indiana (campaign)", "accessed 2026-10-10", "https://davidsandersindiana.com/about-david"],
+  "sanders_issues": ["On the Issues", "David Sanders for Indiana (campaign)", "accessed 2026-10-10", "https://davidsandersindiana.com/on-the-issues"],
+  "sanders_home": ["David Sanders for Indiana", "David Sanders for Indiana (campaign)", "accessed 2026-10-10", "https://davidsandersindiana.com"],
+  "brant_proposals": ["Current Proposals", "Committee to Elect Joshua Brant (campaign)", "accessed 2026-10-10", "https://electjoshuabrant.org/current-proposals/"],
+  "brant_primary_post": ["The Republican Primary Fight Continues", "Committee to Elect Joshua Brant (campaign)", "2026-09-10", "https://electjoshuabrant.org/2026/09/10/the-republican-primary-fight-continues/"],
+  "deery_site": ["Spencer Deery for State Senate", "Deery campaign", "accessed 2026-10-10", "https://spencerdeery.com"]
+ }
+}
