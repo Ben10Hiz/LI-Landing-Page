@@ -45,10 +45,10 @@ Jefferson Shreve, a Republican, was first elected to the 6th District seat in 20
 ## This race
 
 - The 6th District covers 11 counties in central and eastern Indiana, including the cities of Greenwood, Columbus and Richmond [27], and has a population of nearly 800,000 [3].
-- In the May 5, 2026 Republican primary, Shreve narrowly defeated challenger Sarah Janisse Brown [27]; Hoodline reported he received 53% of the vote [28]. In Wayne County, Shreve received 3,285 votes (57.73%) to Brown's 2,405 (42.27%) [29].
-- In the four-candidate Democratic primary, Cinde Wirth defeated William Kory Amyx, Nick Baker and David Lawrence Boyd [3, 27]; Hoodline reported she received 59% of the vote [28].
-- The race is a rematch: Shreve defeated Wirth in the 2024 general election by more than 30 percentage points [3], 63.9% to 31.7%, according to Hoodline [28].
-- In August 2026, a coalition of 13 nonpartisan groups canceled a planned candidate forum, saying Shreve's campaign never responded to invitations while Wirth's campaign did, according to Hoodline, which cited reporting by The Republic [28]. Shreve campaign spokesman Kory Wood described the event as "a far-left rally masquerading as a nonpartisan forum"; the coalition disputed that characterization [28].
+- In the May 5, 2026 Republican primary, Shreve narrowly defeated challenger Sarah Janisse Brown [27]. In Wayne County, Shreve received 3,285 votes (57.73%) to Brown's 2,405 (42.27%) [28].
+- In the four-candidate Democratic primary, Cinde Wirth defeated William Kory Amyx, Nick Baker and David Lawrence Boyd [3, 27].
+- The race is a rematch: Shreve defeated Wirth in the 2024 general election by more than 30 percentage points [3].
+- In August 2026, a coalition of local groups canceled a planned candidate forum, saying Shreve's campaign did not respond to invitations while Wirth's campaign accepted, according to Hoodline's account of reporting by The Republic [29]. Shreve's campaign said it did not consider the event nonpartisan; the coalition disputed that [29].
 - Both candidates have described affordability and health care as priorities: Shreve's campaign lists making life affordable, border security, cutting government spending and supporting farmers among its issues [30], while Wirth lists Medicare for All, affordability, and reducing corporate influence [31].
 
 ## Jefferson Shreve
@@ -66,7 +66,7 @@ Campaign website: https://shreveforcongress.com
 
 ### Path to the ballot
 
-- Won the May 5, 2026 Republican primary over Sarah Janisse Brown [27], with 53% of the vote according to Hoodline [28].
+- Won the May 5, 2026 Republican primary over Sarah Janisse Brown [27].
 
 ### Positions & plans
 
@@ -101,7 +101,7 @@ Campaign website: https://shreveforcongress.com
 ### On the current officeholder
 
 - Is the current officeholder.
-- His campaign spokesman, Kory Wood, described a canceled August 2026 candidate forum to which Wirth had agreed as "a far-left rally masquerading as a nonpartisan forum" [28].
+- His campaign said it did not consider the canceled August 2026 candidate forum to be nonpartisan [29].
 
 ### How they say they'd run the office
 
@@ -115,12 +115,12 @@ Campaign website: https://shreveforcongress.com
 ### What we couldn't verify
 
 - Search-result snippets (Roll Call, unverified) said Shreve had President Trump's endorsement in the 2026 primary and loaned his campaign $2 million; not confirmed on a fetched page.
-- Certified district-wide primary vote totals were not found; the 53% figure comes from Hoodline and Wikipedia, not official results.
-- Hoodline gives his 2024 vote total as 201,357 while Wikipedia lists 200,494; raw totals omitted.
 - No public statements by Shreve about Wirth were found, and no reason was found for his missed September 19, 2025 continuing-resolution vote.
 - The issue text on his campaign site did not load beyond headings; detailed campaign positions were not available.
 - The House Clerk vote data reviewed ended September 16, 2026; any later votes are not included.
 - Whether any bill Shreve sponsored has become law was not confirmed (congress.gov was not accessible).
+- Certified district-wide primary totals were not found.
+- The account of the canceled August forum comes from Hoodline's summary of The Republic's reporting; The Republic's article could not be opened.
 
 ## Cynthia (Cinde) Wirth
 
@@ -137,7 +137,7 @@ Campaign website: https://wirth4congress.com
 
 ### Path to the ballot
 
-- Won the May 5, 2026 Democratic primary over three opponents [27, 3], with 59% of the vote according to Hoodline [28]. In Wayne County she received 883 votes (48.17%) [29].
+- Won the May 5, 2026 Democratic primary over three opponents [27, 3]. In Wayne County she received 883 votes (48.17%) [28].
 
 ### Positions & plans
 
@@ -156,7 +156,7 @@ Campaign website: https://wirth4congress.com
 - Proposes asking wealthy individuals and corporations to pay more, closing tax loopholes, and funding single-payer health care through a progressive payroll tax [31].
 - Supports raising the minimum wage, expanding paid family leave, and federal investment in child care [36].
 - Supports incentives for first-time homebuyers and criticizes private investors buying homes and raising rents [36].
-- Argued that tariffs harm farmers and that the power to levy them belongs to Congress, according to a summary of a September 2026 virtual town hall [37].
+- Argued that tariffs harm farmers and that the power to levy them belongs to Congress, according to the Progressive Indiana Network's summary of the event it hosted [37].
 
 **Education**
 
@@ -166,11 +166,11 @@ Campaign website: https://wirth4congress.com
 **Energy & environment**
 
 - Supports investment in solar and wind power and restoring federal environmental protections and agency funding [39].
-- Opposes data centers on rural land [39], and supports a federal moratorium on new data centers pending more transparency and environmental safeguards, according to a September 2026 town hall summary [37].
+- Opposes data centers on rural land [39], and supports a federal moratorium on new data centers pending more transparency and environmental safeguards, according to the Progressive Indiana Network's summary of the event it hosted [37].
 
 **Immigration**
 
-- Reaffirmed support for abolishing ICE at a September 2026 virtual town hall, according to the organizer's summary [37].
+- Reaffirmed support for abolishing ICE at a September 2026 virtual town hall, according to the Progressive Indiana Network's summary of the event it hosted [37].
 
 **Government & ethics**
 
@@ -179,8 +179,8 @@ Campaign website: https://wirth4congress.com
 
 ### On the current officeholder
 
-- At a September 2026 virtual town hall, Wirth said Shreve has refused to hold town halls or debates and will not use congressional oversight tools to check the executive branch, according to the organizer's summary [37].
-- Her campaign agreed to the August 2026 candidate forum that was canceled after Shreve's campaign did not respond, according to Hoodline [28].
+- At a September 2026 virtual town hall, Wirth said Shreve has refused to hold town halls or debates and will not use congressional oversight tools to check the executive branch, according to the Progressive Indiana Network's summary of the event it hosted [37].
+- Her campaign accepted the August 2026 candidate forum that was later canceled [29].
 
 ### How they say they'd run the office
 
@@ -196,10 +196,10 @@ Campaign website: https://wirth4congress.com
 
 - Coverage of Wirth's 2026 campaign is thin; most statements come from her campaign website, a Western Wayne News Q&A, and an advocacy group's summary of a town hall rather than independent news reporting.
 - The Western Wayne News Q&A labels the office as 'Indiana House District 6' even though her answers concern Congress.
-- Certified district-wide Democratic primary totals were not found; the 59% figure comes from Hoodline.
-- Statements attributed to Wirth from the Progressive Indiana Network town hall are the organizer's paraphrase, not a transcript.
 - No endorsements were found.
 - No debate or joint forum between the two candidates was found in coverage reviewed through October 10, 2026.
+- Certified district-wide primary totals were not found.
+- Statements from her September 2026 virtual town hall come from a summary published by the Progressive Indiana Network, an advocacy group that hosted the event, not a transcript.
 
 ## Sources
 
@@ -230,8 +230,8 @@ Campaign website: https://wirth4congress.com
 25. [Shreve Bill to Strengthen American Mineral Supply Chains Passes House](https://shreve.house.gov/media/press-releases/shreve-bill-strengthen-american-mineral-supply-chains-passes-house-1) — Office of Rep. Jefferson Shreve (house.gov), 2026-09-02
 26. [Shreve Introduces Bill to Ban Scam Call Machines](https://shreve.house.gov/media/press-releases/shreve-introduces-bill-ban-scam-call-machines) — Office of Rep. Jefferson Shreve (house.gov), 2026-10-01
 27. [Shreve and Wirth to face off in Indiana's 6th Congressional District](https://indianapublicradio.org/news/2026/05/shreve-and-wirth-to-face-off-in-indianas-6th-congressional-district/) — WFYI via Indiana Public Radio, 2026-05-06
-28. [Shreve's Silence Sinks 6th District Candidate Forum, Coalition Says](https://hoodline.com/2026/08/shreve-s-silence-sinks-6th-district-candidate-forum-coalition-says/) — Hoodline, 2026-08-15
-29. [2026 primary election results](https://westernwaynenews.com/2026-primary-election-results/) — Western Wayne News, 2026-05-05
+28. [2026 primary election results](https://westernwaynenews.com/2026-primary-election-results/) — Western Wayne News, 2026-05-05
+29. [Shreve's Silence Sinks 6th District Candidate Forum, Coalition Says](https://hoodline.com/2026/08/shreve-s-silence-sinks-6th-district-candidate-forum-coalition-says/) — Hoodline, 2026-08-15
 30. [Team Shreve (campaign home page)](https://shreveforcongress.com) — Shreve for Congress, accessed 2026-10-10
 31. [Candidate Q&A: Cinde Wirth](https://westernwaynenews.com/election-2026-general-cinde-wirth/) — Western Wayne News, 2026-10-07
 32. [About Jefferson Shreve](https://shreve.house.gov/about) — Office of Rep. Jefferson Shreve (house.gov), accessed 2026-10-10

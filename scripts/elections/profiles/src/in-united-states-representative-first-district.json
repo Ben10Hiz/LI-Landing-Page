@@ -50,30 +50,48 @@
     "Won the May 5, 2026 Democratic primary with 80.2% of the vote over LaVetta Sparks-Wade {nbc_results}."
    ],
    "positions": [
-    {"topic": "Economy & jobs", "items": [
-     "Says \"I will continue to do all I can to defend the workers of the Northwest Indiana steel industry\" {wfyi_guide}.",
-     "Supports Section 232 steel tariffs and closing transshipment loopholes for Chinese steel {mrvan_steel}.",
-     "Sponsored the PRO-WORK Act to bar companies that lock out workers from federal funds and tax credits {mrvan_prowork}."
-    ]},
-    {"topic": "Cost of living", "items": [
-     "Pledges to lower energy and health care costs, make housing more affordable, support child care, reduce education costs, and raise wages {wfyi_guide}.",
-     "Introduced a bill to limit Energy Department emergency orders that keep power plants open and to show their cost on utility bills, saying \"Families deserve to know when government policies are increasing their utility bills\" {mrvan_utility}."
-    ]},
-    {"topic": "Health care", "items": [
-     "Supported a three-year extension of enhanced ACA premium tax credits (January 2026) {mrvan_aca}.",
-     "Lists protecting access to reproductive health care among his priorities {wfyi_primary_guide}."
-    ]},
-    {"topic": "Government spending", "items": [
-     "Voted against the 2025 reconciliation law (H.R. 1) and the November 2025 continuing resolution, citing health care and other cuts {clerk_obbba} {clerk_cr_nov} {mrvan_cr_statement}.",
-     "Secured community project funding requests in FY2026 spending measures, such as $850,000 for an air cargo apron at Gary/Chicago International Airport {mrvan_thud}."
-    ]},
-    {"topic": "Immigration & border", "items": [
-     "Says border security matters because of illegal drugs moving through an international port in the district {wfyi_primary_guide}.",
-     "Opposed a proposed ICE detention facility in Merrillville (February 2026) {mrvan_ice}."
-    ]},
-    {"topic": "Utilities & infrastructure", "items": [
-     "Requested a federal FERC–NERC review of NIPSCO outages after the August 2026 derecho, writing that \"Northwest Indiana residents deserve to know why they experienced outages of this magnitude and duration\" {mrvan_outage}."
-    ]}
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Says \"I will continue to do all I can to defend the workers of the Northwest Indiana steel industry\" {wfyi_guide}.",
+      "Supports Section 232 steel tariffs and closing transshipment loopholes for Chinese steel {mrvan_steel}.",
+      "Sponsored the PRO-WORK Act to bar companies that lock out workers from federal funds and tax credits {mrvan_prowork}."
+     ]
+    },
+    {
+     "topic": "Cost of living",
+     "items": [
+      "Pledges to lower energy and health care costs, make housing more affordable, support child care, reduce education costs, and raise wages {wfyi_guide}.",
+      "Introduced a bill to limit Energy Department emergency orders that keep power plants open and to show their cost on utility bills, saying \"Families deserve to know when government policies are increasing their utility bills\" {mrvan_utility}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Supported a three-year extension of enhanced ACA premium tax credits (January 2026) {mrvan_aca}.",
+      "Lists protecting access to reproductive health care among his priorities {wfyi_primary_guide}."
+     ]
+    },
+    {
+     "topic": "Government spending",
+     "items": [
+      "Voted against the 2025 reconciliation law (H.R. 1) and the November 2025 continuing resolution, citing health care and other cuts {clerk_obbba} {clerk_cr_nov} {mrvan_cr_statement}.",
+      "Secured community project funding requests in FY2026 spending measures, such as $850,000 for an air cargo apron at Gary/Chicago International Airport {mrvan_thud}."
+     ]
+    },
+    {
+     "topic": "Immigration & border",
+     "items": [
+      "Says border security matters because of illegal drugs moving through an international port in the district {wfyi_primary_guide}.",
+      "Opposed a proposed ICE detention facility in Merrillville (February 2026) {mrvan_ice}."
+     ]
+    },
+    {
+     "topic": "Utilities & infrastructure",
+     "items": [
+      "Requested a federal FERC–NERC review of NIPSCO outages after the August 2026 derecho, writing that \"Northwest Indiana residents deserve to know why they experienced outages of this magnitude and duration\" {mrvan_outage}."
+     ]
+    }
    ],
    "on_incumbent": [
     "Is the current officeholder {mrvan_about}.",
@@ -108,27 +126,45 @@
     "Became the most prominent Republican in the primary after Jennifer-Ruth Green withdrew in February 2026 {ipm_green}."
    ],
    "positions": [
-    {"topic": "Immigration & border", "items": [
-     "Lists border security and immigration reform as a top issue {wfyi_guide}.",
-     "Supports securing the border {wfyi_primary_guide}."
-    ]},
-    {"topic": "Public safety", "items": [
-     "Supports law enforcement and ending \"catch-and-release\" policies {wfyi_primary_guide}.",
-     "Lists gun rights among her priorities {wfyi_guide}."
-    ]},
-    {"topic": "Government spending", "items": [
-     "Wants to reduce federal spending and the national debt {wfyi_primary_guide}."
-    ]},
-    {"topic": "Elections", "items": [
-     "Her platform calls for in-person voting and watermarked paper ballots {wfyi_primary_guide}."
-    ]},
-    {"topic": "Education", "items": [
-     "Wants schools refocused on \"how to think, not what to think\" {wfyi_primary_guide}.",
-     "Would reserve girls' sports and facilities for \"biological females\" {wfyi_primary_guide}."
-    ]},
-    {"topic": "Cost of living", "items": [
-     "Lists affordability among her priorities, along with education and national security {wfyi_guide}."
-    ]}
+    {
+     "topic": "Immigration & border",
+     "items": [
+      "Lists border security and immigration reform as a top issue {wfyi_guide}.",
+      "Supports securing the border {wfyi_primary_guide}."
+     ]
+    },
+    {
+     "topic": "Public safety",
+     "items": [
+      "Supports law enforcement and ending \"catch-and-release\" policies {wfyi_primary_guide}.",
+      "Lists gun rights among her priorities {wfyi_guide}."
+     ]
+    },
+    {
+     "topic": "Government spending",
+     "items": [
+      "Wants to reduce federal spending and the national debt {wfyi_primary_guide}."
+     ]
+    },
+    {
+     "topic": "Elections",
+     "items": [
+      "Her platform calls for in-person voting and watermarked paper ballots {wfyi_primary_guide}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Wants schools refocused on \"how to think, not what to think\" {wfyi_primary_guide}.",
+      "Would reserve girls' sports and facilities for \"biological females\" {wfyi_primary_guide}."
+     ]
+    },
+    {
+     "topic": "Cost of living",
+     "items": [
+      "Lists affordability among her priorities, along with education and national security {wfyi_guide}."
+     ]
+    }
    ],
    "on_incumbent": [
     "No statement by Regnitz about Mrvan's specific votes or actions was found in the sources reviewed; she did not respond to WFYI's candidate survey {wfyi_guide}."
@@ -138,7 +174,7 @@
    ],
    "endorsements_finance": [
     "Endorsed by President Trump {wfyi_guide} {rollcall_maga}.",
-    "Added in July 2026 to the National Republican Congressional Committee's \"MAGA Majority\" program for candidates in targeted districts {rollcall_maga}.",
+    "Added in July 2026 to a National Republican Congressional Committee program supporting candidates in targeted districts {rollcall_maga}.",
     "Endorsed by Maggie's List, which states that both of Indiana's U.S. senators have endorsed her {maggies_list}.",
     "Loaned her campaign $1.5 million and ended 2025 with more than $1.4 million in her campaign account {ipm_green}.",
     "Raised $2,376,255 as of June 30, 2026 (FEC, as reported by WFYI) {wfyi_guide}."
@@ -192,26 +228,131 @@
   }
  ],
  "sources": {
-  "wfyi_guide": ["2026 Voter Guide: Indiana's 1st Congressional District", "WFYI Public Media (Jill Sheridan)", "2026-09-21", "https://www.wfyi.org/statewide/2026-09-21/2026-voter-guide-indianas-1st-congressional-district"],
-  "wfyi_primary_guide": ["Candidates are running in the primary for Indiana's 1st Congressional District. Here's your guide", "WFYI Public Media via Lakeshore Public Media (Benjamin Thorp)", "2026-04-17", "https://www.lakeshorepublicmedia.org/2026-04-17/six-candidates-are-running-in-the-primary-for-indianas-1st-congressional-district-heres-your-guide"],
-  "ipm_green": ["Ex-Braun official Jennifer-Ruth Green drops bid to challenge U.S. Rep. Mrvan", "Indiana Capital Chronicle via Indiana Public Media (Tom Davies)", "2026-02-05", "https://www.ipm.org/news/2026-02-05/ex-braun-official-jennifer-ruth-green-drops-bid-to-challenge-us-rep-mrvan"],
-  "nbc_results": ["Indiana House District 1 Primary Election Results 2026", "NBC News", "2026-05-05", "https://www.nbcnews.com/politics/2026-primary-elections/indiana-us-house-district-1-results"],
-  "rollcall_maga": ["NRCC adds 7 more candidates to 'MAGA Majority' program", "Roll Call (Mary Ellen McIntire)", "2026-07-15", "https://rollcall.com/2026/07/15/nrcc-adds-7-more-candidates-to-maga-majority-program/"],
-  "maggies_list": ["Barb Regnitz", "Maggie's List", "accessed 2026-10-10", "https://maggieslist.org/?p=2641"],
-  "mrvan_about": ["About Frank", "Office of Rep. Frank J. Mrvan (mrvan.house.gov)", "accessed 2026-10-10", "https://mrvan.house.gov/about"],
-  "congress_sponsored": ["Rep. Frank J. Mrvan: Sponsored Legislation (119th Congress)", "Congress.gov", "accessed 2026-10-10", "https://www.congress.gov/member/frank-mrvan/M001214"],
-  "clerk_obbba": ["Roll Call 190: H.R. 1, On Motion to Concur in the Senate Amendment", "Office of the Clerk, U.S. House", "2025-07-03", "https://clerk.house.gov/Votes/2025190"],
-  "nwit_obbba": ["Mrvan votes against 'reckless and cruel' Trump tax and spending cuts", "The Times of Northwest Indiana (reposted by mrvan.house.gov)", "2025-08-04", "https://mrvan.house.gov/media/in-the-news/mrvan-votes-against-reckless-and-cruel-trump-tax-and-spending-cuts"],
-  "clerk_cr_nov": ["Roll Call 285: H.R. 5371, On Motion to Concur in the Senate Amendment", "Office of the Clerk, U.S. House", "2025-11-12", "https://clerk.house.gov/Votes/2025285"],
-  "mrvan_cr_statement": ["Mrvan expressed opposition to Republican Majority's Continuing Resolution", "Lakeshore Public Media (reposted by mrvan.house.gov)", "2025-11-13", "https://mrvan.house.gov/media/in-the-news/mrvan-expressed-opposition-republican-majoritys-continuing-resolution"],
-  "mrvan_shutdown_sept": ["Congressman Mrvan Statement on the Potential Lapse in Federal Government Funding", "Office of Rep. Frank J. Mrvan", "2025-09-30", "https://mrvan.house.gov/media/press-releases/congressman-mrvan-statement-potential-lapse-federal-government-funding"],
-  "mrvan_aca": ["Mrvan Statement on House Passage of Health Care Legislation", "Office of Rep. Frank J. Mrvan", "2026-01-08", "https://mrvan.house.gov/media/press-releases/mrvan-statement-house-passage-health-care-legislation"],
-  "mrvan_redistricting": ["Mrvan Statement on Redistricting", "Office of Rep. Frank J. Mrvan", "2025-12-11", "https://mrvan.house.gov/media/press-releases/mrvan-statement-redistricting-1"],
-  "mrvan_ice": ["Mrvan Sends Letter in Opposition to Potential ICE Detention Facility in Merrillville", "Office of Rep. Frank J. Mrvan", "2026-02-05", "https://mrvan.house.gov/media/press-releases/mrvan-sends-letter-opposition-potential-ice-detention-facility-merrillville-0"],
-  "mrvan_thud": ["Mrvan's FY 2026 Transportation and Housing Community Project Funding Requests Included in Final House-Approved Measure", "Office of Rep. Frank J. Mrvan", "2026-01-22", "https://mrvan.house.gov/media/press-releases/mrvans-fy-2026-transportation-and-housing-community-project-funding-requests"],
-  "mrvan_steel": ["Mrvan Statement at Congressional Steel Caucus Hearing on the State of the Steel Industry", "Office of Rep. Frank J. Mrvan", "2026-01-14", "https://mrvan.house.gov/media/press-releases/mrvan-statement-congressional-steel-caucus-hearing-state-steel-industry-0"],
-  "mrvan_utility": ["Rep. Frank J. Mrvan Introduces Utility Affordability and Transparency Act", "Office of Rep. Frank J. Mrvan", "2026-10-02", "https://mrvan.house.gov/media/press-releases/rep-frank-j-mrvan-introduces-utility-affordability-and-transparency-act"],
-  "mrvan_prowork": ["Mrvan Introduces the PRO-WORK Act to Prevent Companies that Lock Out Workers from Receiving Federal Funds", "Office of Rep. Frank J. Mrvan", "2026-08-31", "https://mrvan.house.gov/media/press-releases/mrvan-introduces-pro-work-act-prevent-companies-lock-out-workers-receiving"],
-  "mrvan_outage": ["Mrvan Requests Federal Investigation into NWI Power Outages", "Office of Rep. Frank J. Mrvan", "2026-09-10", "https://mrvan.house.gov/media/press-releases/mrvan-requests-federal-investigation-nwi-power-outages"]
+  "wfyi_guide": [
+   "2026 Voter Guide: Indiana's 1st Congressional District",
+   "WFYI Public Media (Jill Sheridan)",
+   "2026-09-21",
+   "https://www.wfyi.org/statewide/2026-09-21/2026-voter-guide-indianas-1st-congressional-district"
+  ],
+  "wfyi_primary_guide": [
+   "Candidates are running in the primary for Indiana's 1st Congressional District. Here's your guide",
+   "WFYI Public Media via Lakeshore Public Media (Benjamin Thorp)",
+   "2026-04-17",
+   "https://www.lakeshorepublicmedia.org/2026-04-17/six-candidates-are-running-in-the-primary-for-indianas-1st-congressional-district-heres-your-guide"
+  ],
+  "ipm_green": [
+   "Ex-Braun official Jennifer-Ruth Green drops bid to challenge U.S. Rep. Mrvan",
+   "Indiana Capital Chronicle via Indiana Public Media (Tom Davies)",
+   "2026-02-05",
+   "https://www.ipm.org/news/2026-02-05/ex-braun-official-jennifer-ruth-green-drops-bid-to-challenge-us-rep-mrvan"
+  ],
+  "nbc_results": [
+   "Indiana House District 1 Primary Election Results 2026",
+   "NBC News",
+   "2026-05-05",
+   "https://www.nbcnews.com/politics/2026-primary-elections/indiana-us-house-district-1-results"
+  ],
+  "rollcall_maga": [
+   "NRCC adds 7 more candidates to 'MAGA Majority' program",
+   "Roll Call (Mary Ellen McIntire)",
+   "2026-07-15",
+   "https://rollcall.com/2026/07/15/nrcc-adds-7-more-candidates-to-maga-majority-program/"
+  ],
+  "maggies_list": [
+   "Barb Regnitz",
+   "Maggie's List",
+   "accessed 2026-10-10",
+   "https://maggieslist.org/?p=2641"
+  ],
+  "mrvan_about": [
+   "About Frank",
+   "Office of Rep. Frank J. Mrvan (mrvan.house.gov)",
+   "accessed 2026-10-10",
+   "https://mrvan.house.gov/about"
+  ],
+  "congress_sponsored": [
+   "Rep. Frank J. Mrvan: Sponsored Legislation (119th Congress)",
+   "Congress.gov",
+   "accessed 2026-10-10",
+   "https://www.congress.gov/member/frank-mrvan/M001214"
+  ],
+  "clerk_obbba": [
+   "Roll Call 190: H.R. 1, On Motion to Concur in the Senate Amendment",
+   "Office of the Clerk, U.S. House",
+   "2025-07-03",
+   "https://clerk.house.gov/Votes/2025190"
+  ],
+  "nwit_obbba": [
+   "Mrvan votes against 'reckless and cruel' Trump tax and spending cuts",
+   "The Times of Northwest Indiana (reposted by mrvan.house.gov)",
+   "2025-08-04",
+   "https://mrvan.house.gov/media/in-the-news/mrvan-votes-against-reckless-and-cruel-trump-tax-and-spending-cuts"
+  ],
+  "clerk_cr_nov": [
+   "Roll Call 285: H.R. 5371, On Motion to Concur in the Senate Amendment",
+   "Office of the Clerk, U.S. House",
+   "2025-11-12",
+   "https://clerk.house.gov/Votes/2025285"
+  ],
+  "mrvan_cr_statement": [
+   "Mrvan expressed opposition to Republican Majority's Continuing Resolution",
+   "Lakeshore Public Media (reposted by mrvan.house.gov)",
+   "2025-11-13",
+   "https://mrvan.house.gov/media/in-the-news/mrvan-expressed-opposition-republican-majoritys-continuing-resolution"
+  ],
+  "mrvan_shutdown_sept": [
+   "Congressman Mrvan Statement on the Potential Lapse in Federal Government Funding",
+   "Office of Rep. Frank J. Mrvan",
+   "2025-09-30",
+   "https://mrvan.house.gov/media/press-releases/congressman-mrvan-statement-potential-lapse-federal-government-funding"
+  ],
+  "mrvan_aca": [
+   "Mrvan Statement on House Passage of Health Care Legislation",
+   "Office of Rep. Frank J. Mrvan",
+   "2026-01-08",
+   "https://mrvan.house.gov/media/press-releases/mrvan-statement-house-passage-health-care-legislation"
+  ],
+  "mrvan_redistricting": [
+   "Mrvan Statement on Redistricting",
+   "Office of Rep. Frank J. Mrvan",
+   "2025-12-11",
+   "https://mrvan.house.gov/media/press-releases/mrvan-statement-redistricting-1"
+  ],
+  "mrvan_ice": [
+   "Mrvan Sends Letter in Opposition to Potential ICE Detention Facility in Merrillville",
+   "Office of Rep. Frank J. Mrvan",
+   "2026-02-05",
+   "https://mrvan.house.gov/media/press-releases/mrvan-sends-letter-opposition-potential-ice-detention-facility-merrillville-0"
+  ],
+  "mrvan_thud": [
+   "Mrvan's FY 2026 Transportation and Housing Community Project Funding Requests Included in Final House-Approved Measure",
+   "Office of Rep. Frank J. Mrvan",
+   "2026-01-22",
+   "https://mrvan.house.gov/media/press-releases/mrvans-fy-2026-transportation-and-housing-community-project-funding-requests"
+  ],
+  "mrvan_steel": [
+   "Mrvan Statement at Congressional Steel Caucus Hearing on the State of the Steel Industry",
+   "Office of Rep. Frank J. Mrvan",
+   "2026-01-14",
+   "https://mrvan.house.gov/media/press-releases/mrvan-statement-congressional-steel-caucus-hearing-state-steel-industry-0"
+  ],
+  "mrvan_utility": [
+   "Rep. Frank J. Mrvan Introduces Utility Affordability and Transparency Act",
+   "Office of Rep. Frank J. Mrvan",
+   "2026-10-02",
+   "https://mrvan.house.gov/media/press-releases/rep-frank-j-mrvan-introduces-utility-affordability-and-transparency-act"
+  ],
+  "mrvan_prowork": [
+   "Mrvan Introduces the PRO-WORK Act to Prevent Companies that Lock Out Workers from Receiving Federal Funds",
+   "Office of Rep. Frank J. Mrvan",
+   "2026-08-31",
+   "https://mrvan.house.gov/media/press-releases/mrvan-introduces-pro-work-act-prevent-companies-lock-out-workers-receiving"
+  ],
+  "mrvan_outage": [
+   "Mrvan Requests Federal Investigation into NWI Power Outages",
+   "Office of Rep. Frank J. Mrvan",
+   "2026-09-10",
+   "https://mrvan.house.gov/media/press-releases/mrvan-requests-federal-investigation-nwi-power-outages"
+  ]
  }
 }
