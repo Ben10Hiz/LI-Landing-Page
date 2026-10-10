@@ -12,6 +12,7 @@ Candidate lists for the Legal Insights elections / virtual ballot app.
 | `indiana/candidates.json` | Same as above, JSON | 7,394 |
 | `indiana/offices.csv` | One row per Indiana race (seats, # candidates, contested?) | 4,074 races |
 | `indiana/source/` | The official spreadsheet these were built from | — |
+| `app/` | Compact JSON for the Legal Insights Elections page (copy to the React app's `public/elections/2026/`) | 50 states, 92 counties, 448 towns/school districts |
 
 ## Sources
 
@@ -54,7 +55,12 @@ pip install openpyxl
 python3 scripts/elections/build_congress_2026.py   # refetch Wikipedia → us-*.csv, congress.json
 python3 scripts/elections/build_indiana_2026.py    # Indiana list (+ incumbents) → indiana/*
 python3 scripts/elections/build_workbook_2026.py   # → candidates-2026.xlsx
+python3 scripts/elections/build_app_bundle_2026.py # → app/ (Elections page data)
 ```
+
+In `app/`, candidate names filed in ALL CAPS are shown in title case and
+office numbers are unpadded ("District 096" → "District 96"); the CSVs keep the
+names and titles exactly as filed.
 
 To use a newer Indiana list, download it from the Candidate Information page
 and pass its path: `build_indiana_2026.py path/to/list.xlsx`.
