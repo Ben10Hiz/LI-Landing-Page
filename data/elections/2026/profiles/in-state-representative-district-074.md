@@ -63,7 +63,6 @@ Campaign website: https://www.hoosiersfirst.com/
 - Campaign website (hoosiersfirst.com) showed only a "Coming Soon" page when checked; Facebook and Instagram pages were not readable.
 - No news coverage was found in Perry, Spencer or Dubois county outlets reviewed.
 - How she reached the ballot (likely a Democratic ballot-vacancy caucus after the primary) is unconfirmed.
-- Unverified: a May 2025 Change.org petition seeking a traffic light at the Highway 37/237 intersection in Tell City was started by a Lena Goffinet; a 2022 state licensing-board agenda lists a Lena Goffinet as a licensed social worker. Neither was confirmed to be the candidate.
 - No fundraising totals were found.
 
 ## Stephen R. Bartels

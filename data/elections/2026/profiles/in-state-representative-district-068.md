@@ -101,7 +101,7 @@ Democratic nominee from Aurora; a warehouse lead at Amazon Air and Teamsters Loc
 
 ### Positions & plans
 
-**Property taxes**
+**Taxes**
 
 - His campaign announcement listed lowering taxes as a focus [15].
 
