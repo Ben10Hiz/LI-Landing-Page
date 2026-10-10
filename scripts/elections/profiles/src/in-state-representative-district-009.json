@@ -1,0 +1,152 @@
+{
+ "race_id": "in-state-representative-district-009",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Randy Novak",
+  "party": "Democratic",
+  "summary": "Randy Novak, a Democrat and former Michigan City fire chief, has held the District 9 seat since October 22, 2025, when he was sworn in after a Democratic precinct-committee caucus chose him to finish the term of Rep. Pat Boy, who retired; he is seeking his first full term {citizen_novak} {hdc_novak_sworn}.",
+  "record": [
+   "October 2025: Rep. Pat Boy, who had held the seat since 2018, announced she would leave office, saying \"I am self-limiting my term. Twenty-two years of public service will suffice\" and that she wanted more time with family; she endorsed Novak as her successor {indems_boy}. She retired October 17, and Novak was chosen unopposed at an October 18 caucus {citizen_novak}.",
+   "Shortly after taking office, Novak joined Sen. Rodney Pol Jr. for an October 25, 2025 town hall on redistricting in Michigan City {hdc_novak_sworn}; on December 5, 2025 he voted no on House Bill 1032, the mid-decade congressional redistricting bill, which passed the House 57–41 {bt50_novak} {alive21_hb1032}.",
+   "2026 session (per BillTrack50's vote record): voted yes on House Bill 1302 (labor and safety matters) and House Bill 1177 (child care assistance); voted no on Senate Bill 12 (prohibiting ranked-choice voting), Senate Bill 76 (immigration matters) and Senate Bill 285 (housing matters) {bt50_novak}.",
+   "August–September 2026: after the Aug. 11 derecho, joined Northwest Indiana House Democrats in asking Speaker Todd Huston for a legislative investigation of NIPSCO's storm response, and called for the state attorney general to challenge a federal order keeping coal plants open {hdc_nipsco_letter} {hdc_novak_utility} {hdc_novak_coal}."
+  ]
+ },
+ "race_context": [
+  "House District 9 covers Michigan City, northern LaPorte County and portions of eastern Porter County, according to the House Democratic Caucus {hdc_novak}.",
+  "The official candidate list does not mark either candidate as an incumbent, but Novak has held the seat by caucus appointment since October 2025 after Rep. Pat Boy retired; this is his first election to the seat {in_list} {citizen_novak}.",
+  "Both candidates were unopposed in their May 5, 2026 primaries; in the LaPorte County portion of the district, Novak received 2,619 Democratic votes and Chris Cleveland 1,386 Republican votes {laporte_primary}.",
+  "At a La Porte County League of Women Voters forum on March 26, 2026, at Michigan City City Hall, Novak attended and Cleveland did not {lphd_forum}. No general-election debate was found as of October 10, 2026.",
+  "Both candidates have criticized NIPSCO: Novak has called for public hearings and utility legislation after the August 2026 storm outages, while Cleveland's campaign calls for auditing utilities {hdc_novak_utility} {cleveland_site}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Chris Cleveland",
+   "summary": "Chris Cleveland, a Republican software entrepreneur, says on his campaign site he previously chaired the Chicago Republican Party; he is running on cutting the cost of government, auditing utilities and health-care price transparency {cleveland_site} {ballotready_cleveland}.",
+   "website": "https://clevelandforindiana.com/",
+   "background": [
+    "Founder and CEO of software companies RelevantDB (2021–present) and Dieselpoint, Inc. (1999–present), according to his BallotReady profile {ballotready_cleveland}.",
+    "Holds a bachelor's degree in politics from Princeton University (1984) and an MBA from the University of Chicago (1990); was a legislative assistant to U.S. Rep. Fred Eckert (1984–1986) {ballotready_cleveland}.",
+    "His campaign site says he was elected chairman of the Chicago Republican Party and pursued legal cases against Chicago officials and the Board of Elections, including a redistricting case {cleveland_site}."
+   ],
+   "path_to_ballot": [
+    "Was unopposed in the May 5, 2026 Republican primary, receiving 1,386 votes in LaPorte County {laporte_primary}."
+   ],
+   "positions": [
+    {
+     "topic": "Taxes & government spending",
+     "items": [
+      "Under the heading \"Reduce the Cost of Government,\" says \"This legislature has passed a municipal local income tax, wheel tax, tolls on the interstates, and a restaurant tax\" and \"Enough is enough\" {ballotready_cleveland}."
+     ]
+    },
+    {
+     "topic": "Energy & utilities",
+     "items": [
+      "Says \"Utilities like NIPSCO are monopolies, and when they raise prices, there's nothing you can do about it,\" and that they \"need to be audited and gotten under control\" {ballotready_cleveland}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Says \"Hospitals and insurance companies conspire to keep prices secret so you pay more\" and \"I will lower the cost of healthcare by forcing them to publish prices and stick to them\" {ballotready_cleveland}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Says \"I will support legislation to give you full visibility into what they're teaching your kid,\" and supports giving parents more power to change curriculum {ballotready_cleveland} {cleveland_site}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "His campaign site does not name Rep. Novak; it criticizes the legislature generally for recent tax measures {cleveland_site}."
+   ],
+   "plans": [
+    "Would require hospitals and insurers to publish and honor prices, and seek audits of utilities such as NIPSCO {cleveland_site}."
+   ],
+   "endorsements_finance": [
+    "His campaign site lists no endorsements {cleveland_site}."
+   ],
+   "gaps": [
+    "Search-result snippets from an Indiana Capital Chronicle voter guide (site returned 403) said he chaired the Chicago Republican Party from 2015 to 2020 and chaired Ted Cruz's Illinois presidential campaign — unverified.",
+    "When he moved to LaPorte County and where he lives was not confirmed from a read source.",
+    "Did not attend the March 2026 League of Women Voters forum; no news coverage of his campaign was found.",
+    "No campaign-finance reports were reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Randy Novak",
+   "summary": "Randy Novak, a Democrat, former Michigan City fire chief and former LaPorte County Council president, was appointed to the seat in October 2025 and is seeking a full term {citizen_novak} {hdc_novak}.",
+   "website": null,
+   "background": [
+    "Career with the Michigan City Fire Department, where he became chief; licensed real estate broker since 1998 {hdc_novak}. Wikipedia says he was appointed fire chief in 2015 and retired in 2020 {wiki_novak}.",
+    "Former LaPorte County Council president; former chairman of the LaPorte County Fire Chiefs Association; former president of the LaPorte County Redevelopment Commission and of Michigan City Firefighters Local #475; served on the Michiana Shores Town Council (1991–1996) {hdc_novak}.",
+    "Previously served as a lay member of the General Assembly's Pension Management Oversight Commission {citizen_novak}.",
+    "Lives in Michigan City {hdc_novak}."
+   ],
+   "path_to_ballot": [
+    "Was unopposed in the May 5, 2026 Democratic primary, receiving 2,619 votes in LaPorte County {laporte_primary}."
+   ],
+   "positions": [
+    {
+     "topic": "Energy & utilities",
+     "items": [
+      "After the August 2026 storm outages, said \"the General Assembly needs to prioritize legislation regulating utilities\" and called for public hearings, arguing \"a revolving door is not going to solve our problems with utility companies\" {hdc_novak_utility}.",
+      "In September 2026 urged the Indiana attorney general to challenge a federal order keeping coal plants open, citing NIPSCO's request to recover $38 million from ratepayers for the Schahfer plant, and said \"These new deregulation pushes are ludicrous\" {hdc_novak_coal}."
+     ]
+    },
+    {
+     "topic": "Data centers",
+     "items": [
+      "At the March 2026 forum said \"We introduced amendments to make data centers pay their share taxes on their energy bills,\" and said the state offered \"$42 million worth of incentives\" for Michigan City's Project Maize without consulting city government {lphd_forum}."
+     ]
+    },
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "Opposed the 2025 mid-decade congressional redistricting effort and voted against HB 1032 {wiki_novak} {bt50_novak}."
+     ]
+    },
+    {
+     "topic": "Taxes & government spending",
+     "items": [
+      "On being sworn in, pledged to provide \"the highest level of service at the lowest possible cost to taxpayers\" {hdc_novak_sworn}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder (appointed October 2025). No statements by Novak about his challenger were found."
+   ],
+   "plans": [
+    "Wants the legislature to take up utility-regulation legislation and hold public hearings in Northwest Indiana on NIPSCO's storm response {hdc_novak_utility} {hdc_nipsco_letter}."
+   ],
+   "endorsements_finance": [
+    "Was endorsed by Rep. Pat Boy as her successor in 2025; the Professional Fire Fighters Union of Indiana praised his selection {indems_boy} {citizen_novak}."
+   ],
+   "gaps": [
+    "No campaign website was found; no 2026 committee assignments were listed on his caucus page.",
+    "No bills he authored that became law were identified; his 2026 resolutions surfaced in search results were ceremonial and not reviewed.",
+    "No campaign-finance reports were reviewed."
+   ]
+  }
+ ],
+ "sources": {
+  "hdc_novak": ["State Rep. Randy Novak", "Indiana House Democratic Caucus", "accessed 2026-10-10", "https://www.indianahousedemocrats.org/members/randy-novak"],
+  "hdc_novak_sworn": ["Novak sworn in as Indiana State Representative for District 9", "Indiana House Democratic Caucus", "2025-10-22", "https://www.indianahousedemocrats.org/news/novak-sworn-in-as-indiana-state-representative-for-district-9"],
+  "hdc_novak_utility": ["Novak calls for public hearings, legislative action on utility regulation", "Indiana House Democratic Caucus", "2026-08-26", "https://www.indianahousedemocrats.org/news/6tt6oj8hikr8fwikkgrhd8kpirb3zv"],
+  "hdc_novak_coal": ["Novak calls for closure of expensive coal plants, condemns deregulation push", "Indiana House Democratic Caucus", "2026-09-15", "https://www.indianahousedemocrats.org/news/novak-calls-for-closure-of-expensive-coal-plants-condemns-deregulation-push"],
+  "hdc_nipsco_letter": ["Northwest Indiana lawmakers call for legislative investigation into NIPSCO's storm response", "Indiana House Democratic Caucus", "2026-08-26", "https://www.indianahousedemocrats.org/news/northwest-indiana-lawmakers-call-for-legislative-investigation-into-nipscos-storm-response"],
+  "citizen_novak": ["NEW LEGISLATOR: Rep. Randy Novak sworn in to fill Pat Boy's remaining term", "The Indiana Citizen", "2025-10-22", "https://indianacitizen.org/?p=21194"],
+  "indems_boy": ["Indiana Democratic Party Thanks Rep. Pat Boy, Prepares Call to Caucus for Replacement in Office", "Indiana Democratic Party", "2025-10-09", "https://indems.org/press-release/indiana-democratic-party-thanks-rep-pat-boy-prepares-call-to-caucus-for-replacement-in-office/"],
+  "wiki_novak": ["Randy Novak", "Wikipedia", "accessed 2026-10-10", "https://en.wikipedia.org/wiki/Randy_Novak"],
+  "bt50_novak": ["Legislator Detail: Randy Novak (vote record)", "BillTrack50", "accessed 2026-10-10", "https://www.billtrack50.com/public/scorecard/legislator/TNvEht1gV0ilLkxyi9h0rQ/30629"],
+  "alive21_hb1032": ["Indiana redistricting bill passes the House", "21Alive (WPTA)", "2025-12-05", "https://www.21alivenews.com/2025/12/05/indiana-redistricting-bill-passes-house"],
+  "laporte_primary": ["2026 Primary Election Summary Report", "LaPorte County, Indiana", "2026-05-05", "https://laporteco.in.gov/wp-content/uploads/2026/05/20260505203024.pdf"],
+  "lphd_forum": ["State Senate, House hopefuls discuss data center regulations", "La Porte County Herald-Dispatch", "2026-04-13", "https://www.lpheralddispatch.com/news/local/state-senate-house-hopefuls-discuss-data-center-regulations/article_f7a47ddf-c9b5-58ea-8a1b-2b084ac8d46b.html"],
+  "cleveland_site": ["Chris Cleveland for State Representative", "Cleveland for Indiana (campaign)", "accessed 2026-10-10", "https://clevelandforindiana.com/"],
+  "ballotready_cleveland": ["Chris Cleveland", "BallotReady", "accessed 2026-10-10", "https://www.ballotready.org/people/chris-cleveland"]
+ }
+}
