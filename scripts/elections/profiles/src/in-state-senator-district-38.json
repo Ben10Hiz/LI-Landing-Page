@@ -1,0 +1,209 @@
+{
+ "race_id": "in-state-senator-district-38",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_senate",
+ "incumbent": {
+  "name": "Greg Goode",
+  "party": "Republican",
+  "summary": "Sen. Greg Goode (R-Terre Haute) won a 2023 Republican caucus to succeed Sen. Jon Ford and was sworn in Nov. 1, 2023 {goode_sworn} {ipm_sd38}. The Senate Republican caucus lists him as ranking member of the Education and Career Development Committee and a member of the Appropriations, Elections, and Family and Children Services committees and the School Funding Subcommittee {goode_bio}. He is also state director for U.S. Sen. Todd Young {ipm_sd38}.",
+  "record": [
+   "April 25, 2025: Language Goode authored creating a local oversight board for county resources used for Vigo County school improvements was included in House Enrolled Act 1515, sent to the governor; Goode said it would allow improvements \"without raising property taxes\" {goode_hea1515}.",
+   "July 2025: Senate Enrolled Act 448, authored by Goode, giving the Commission for Higher Education authority to approve and review public university programs, was ceremonially signed {goode_sea448}. Goode also sponsored House Enrolled Act 1391 modernizing area agencies on aging and allowing a Medicaid diversion pilot in western Indiana {goode_hea1391}.",
+   "December 11, 2025: Voted against House Bill 1032, the mid-decade congressional redistricting bill, which the Senate rejected 31–19 {wtwo_goode_redistricting}. He said the map would split Wabash Valley counties between two districts and that Clay County residents objected to being placed with Indianapolis-area suburbs: \"My job as state senator is to best represent District 38 and the Hoosiers who call it home\" {wtwo_goode_redistricting}.",
+   "After the vote, President Trump called Goode a \"RINO,\" and police responded to his home after a false report, one of several \"swatting\" incidents against legislators during the debate, according to the Indiana Capital Chronicle {ipm_sd38}. Goode said he felt \"very much at peace\" with his vote {ipm_sd38}.",
+   "2026 session: Authored Senate Enrolled Act 254, updating Ivy Tech Community College's governance and adding dual credit to its mission, and sponsored House Enrolled Act 1268, adding legislative appointees and the Indiana National Guard's adjutant general to the Defense Task Force; both were ceremonially signed {goode_sea254} {goode_hea1268}."
+  ]
+ },
+ "race_context": [
+  "Senate District 38 covers all of Vigo and Clay counties and part of Sullivan County {ipm_sd38} {goode_bio}.",
+  "Goode is the incumbent on the ballot. In the May 5, 2026 Republican primary he received 6,631 votes (53.5%) to 4,471 (36.1%) for Vigo County Councilwoman Brenda Wilson, who was endorsed by President Trump and Gov. Mike Braun, and 1,289 (10.4%) for Alexandra Wilson, per Wikipedia's compilation {wiki_2026_in_senate} {ipm_sd38}.",
+  "Outside groups spent six figures or more supporting Brenda Wilson; through April 10 Goode had raised nearly $520,000, more than half from the Senate Republican campaign organization and fellow senators {ipm_sd38}.",
+  "Democrat Kacey Blundell was unopposed in her primary {ipm_sd38}.",
+  "No general-election debate or forum between Goode and Blundell was found in reviewed coverage."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Greg Goode",
+   "summary": "Goode, the incumbent since 2023, is a former Indiana State University government relations executive and 2008 Republican nominee for Congress in the 8th District who won a contested 2026 primary {indcit_caucus} {ipm_sd38}.",
+   "website": null,
+   "background": [
+    "State director for U.S. Sen. Todd Young since January 2023; previously executive director of government relations and university communication at Indiana State University {indcit_caucus}.",
+    "Won the 2008 Republican nomination for the 8th Congressional District and lost the general election to Democrat Brad Ellsworth {indcit_caucus}.",
+    "Studied political science and history at Indiana State University and is a doctoral student at Virginia Tech, according to the Senate Republican caucus {goode_bio}. Lives in Terre Haute {ipm_sd38}."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Republican primary with 53.5% over Brenda Wilson and Alexandra Wilson {wiki_2026_in_senate}."
+   ],
+   "positions": [
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "Opposed the 2025 congressional redistricting bill, citing constituent opposition, the split of Wabash Valley counties and Clay County's placement {wtwo_goode_redistricting}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Authored laws on public university program review (SEA 448, 2025) and Ivy Tech's workforce mission (SEA 254, 2026) {goode_sea448} {goode_sea254}."
+     ]
+    },
+    {
+     "topic": "Energy & utilities",
+     "items": [
+      "Says he is focused on blocking possible diversion of Wabash River water {ipm_sd38}."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Has raised concerns about proposed Interstate 70 tolls {ipm_sd38}; said HEA 1268 would help \"attract new jobs and developments to Indiana\" in the defense sector {goode_hea1268}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No statements by Goode about Blundell were found. Of the primary, he said he expected a \"barrage of wrath from outside the state of Indiana\" over his redistricting vote {ipm_sd38}."
+   ],
+   "plans": [
+    "No published general-election agenda was found; the Capital Chronicle reported his focus on local issues including Wabash River water and I-70 tolls {ipm_sd38}."
+   ],
+   "endorsements_finance": [
+    "Raised nearly $520,000 through April 10, 2026, more than half from the Senate Republican campaign organization and fellow senators; spent more than $500,000 in the primary {ipm_sd38}.",
+    "Named 2026 Legislator of the Year by the Indiana Association of Area Agencies on Aging and Aviation Indiana's 2024 Senator of the Year, per the caucus {goode_bio}."
+   ],
+   "gaps": [
+    "Votes on the 2025 property-tax law (SEA 1) and the 2025 state budget not verified (iga.in.gov unreadable).",
+    "Search snippets report endorsements from Indiana Farm Bureau ELECT, NFIB Indiana PAC and the NRA Political Victory Fund, and a 56–18 caucus win over John Waterman in 2023; unverified.",
+    "Tribune-Star primary-night coverage was paywalled/unavailable.",
+    "No campaign website located."
+   ]
+  },
+  {
+   "ballot_name": "Kacey Blundell",
+   "summary": "Blundell is a Terre Haute–area civil servant and former Department of Child Services family case manager making her first run for the Senate; she was unopposed in the Democratic primary {thv_blundell} {ballotready_blundell} {ipm_sd38}.",
+   "website": null,
+   "background": [
+    "Worked as a family case manager for the Indiana Department of Child Services from 2017 to 2021 {ballotready_blundell}; now works in the criminal justice system {thv_blundell}.",
+    "Holds a bachelor's in political science (2011) and a master's in public administration (2015) from Indiana State University {ballotready_blundell}.",
+    "Interned in the State Senate with Democratic Sen. Tim Lanane as an undergraduate, and is an alumna of Hoosier Women Forward, a Democratic leadership training program {thv_blundell}."
+   ],
+   "path_to_ballot": [
+    "Launched her campaign Nov. 7, 2025, in Terre Haute {thv_blundell}; unopposed in the May 5, 2026 Democratic primary {ipm_sd38}."
+   ],
+   "positions": [
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Names cost of living as her main concern: \"Life is not affordable; that's what keeps me up at night\" {thv_blundell}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Lists public education as a main concern; no specific proposals found {thv_blundell}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Lists health care as a main concern; no specific proposals found {thv_blundell}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Asked what distinguishes her from Goode, she said, \"I've spent my entire life in civil service; I know the issues\" {thv_blundell}."
+   ],
+   "plans": [
+    "No detailed legislative plans were found in reviewed coverage."
+   ],
+   "endorsements_finance": [
+    "No endorsements or fundraising totals were found in reviewed coverage."
+   ],
+   "gaps": [
+    "Very limited coverage: no campaign website, policy platform, survey responses, endorsements or finance reports located.",
+    "She reportedly appeared at a March 2026 primary-season forum at the Vigo County Public Library (Tribune-Star listing, paywalled); unverified."
+   ]
+  }
+ ],
+ "sources": {
+  "goode_bio": [
+   "Sen. Greg Goode — Senate District 38",
+   "Indiana Senate Republicans (caucus description)",
+   "accessed 2026-10-10",
+   "https://www.indianasenaterepublicans.com/goode"
+  ],
+  "goode_sworn": [
+   "Goode sworn in as Senate District 38 state senator",
+   "Indiana Senate Republicans",
+   "2023-11-01",
+   "https://www.indianasenaterepublicans.com/goode-sworn-in-as-senate-district-38-state-senator"
+  ],
+  "goode_hea1515": [
+   "Goode: Vigo County school funding legislation headed to governor's desk",
+   "Indiana Senate Republicans",
+   "2025-04-25",
+   "https://www.indianasenaterepublicans.com/goode-vigo-county-school-funding-legislation-headed-to-governor-s-desk"
+  ],
+  "goode_sea448": [
+   "Gov. Braun ceremonially signs Goode's higher education, workforce development bill",
+   "Indiana Senate Republicans",
+   "2025-07-08",
+   "https://www.indianasenaterepublicans.com/gov-braun-ceremonially-signs-goode-s-higher-education-workforce-development-bill"
+  ],
+  "goode_hea1391": [
+   "Gov. Braun signs Goode's bill to modernize area agencies on aging",
+   "Indiana Senate Republicans",
+   "2025-07-02",
+   "https://www.indianasenaterepublicans.com/gov-braun-signs-goode-s-bill-to-modernize-area-agencies-on-aging"
+  ],
+  "goode_sea254": [
+   "Goode's bill to help advance Hoosier success at Ivy Tech ceremonially signed by governor",
+   "Indiana Senate Republicans",
+   "2026-04-23",
+   "https://www.indianasenaterepublicans.com/goode-s-bill-to-help-advance-hoosier-success-at-ivy-tech-ceremonially-signed-by-governor"
+  ],
+  "goode_hea1268": [
+   "Goode's bill to strengthen Indiana's defense sector ceremonially signed by governor",
+   "Indiana Senate Republicans",
+   "2026-05-20",
+   "https://www.indianasenaterepublicans.com/goode-s-bill-to-strengthen-indiana-s-defense-sector-ceremonially-signed-by-governor"
+  ],
+  "wtwo_goode_redistricting": [
+   "Sen. Goode comments on vote against redistricting bill",
+   "WTWO/MyWabashValley",
+   "2025-12-11",
+   "https://digital-release.mywabashvalley.com/?p=2212484"
+  ],
+  "ipm_sd38": [
+   "Trump endorsement just part of the political drama in this Indiana Senate primary",
+   "Indiana Capital Chronicle via Indiana Public Media",
+   "2026-04-24",
+   "https://www.ipm.org/news/2026-04-24/trump-endorsement-just-part-of-the-political-drama-in-this-indiana-senate-primary"
+  ],
+  "indcit_caucus": [
+   "\"Experienced politicians and public servants\" running in caucus for Sen. Jon Ford's seat",
+   "The Indiana Citizen",
+   "2023-10-05",
+   "https://indianacitizen.org/?p=9329"
+  ],
+  "thv_blundell": [
+   "Meet the Candidates: Kacey Blundell, State Senate – District 38",
+   "Terre Haute Vice News",
+   "2025-11-13",
+   "https://terrehautevice.com/2025/11/13/meet-the-candidates-kacey-blundell-state-senate-district-38/"
+  ],
+  "ballotready_blundell": [
+   "Kacey Blundell",
+   "BallotReady",
+   "accessed 2026-10-10",
+   "https://www.ballotready.org/people/kacey-blundell"
+  ],
+  "wiki_2026_in_senate": [
+   "2026 Indiana Senate election",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_Senate_election"
+  ]
+ }
+}

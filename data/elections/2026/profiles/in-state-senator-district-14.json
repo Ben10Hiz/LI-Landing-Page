@@ -1,0 +1,277 @@
+{
+ "race_id": "in-state-senator-district-14",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": {
+  "title": "Indiana State Senator",
+  "summary": "Members of the Indiana Senate write and vote on state laws as part of the Indiana General Assembly. The Senate has 50 members, each representing one district for a four-year term; about half the seats are elected every two years [1].",
+  "facts": [
+   {
+    "label": "Term",
+    "value": "4 years [1]"
+   },
+   {
+    "label": "Term limit",
+    "value": "None [1]"
+   },
+   {
+    "label": "Seats",
+    "value": "50 [1]"
+   },
+   {
+    "label": "On the 2026 ballot",
+    "value": "25 districts [2]"
+   }
+  ],
+  "duties": [
+   "Introduces and votes on state legislation as one of the two chambers of the Indiana General Assembly [1].",
+   "Must be at least 25 years old when taking office and have lived in the district for at least a year, under Article 4 of the Indiana Constitution [1]."
+  ],
+  "recent_changes": []
+ },
+ "incumbent": {
+  "name": "Tyler Johnson",
+  "party": "Republican",
+  "summary": "Tyler Johnson, an emergency room physician from Leo, was elected in 2022 and is seeking a second term; the Senate Republican caucus lists him as assistant majority caucus chair and a member of the Education and Career Development, Elections, Family and Children Services, Health and Provider Services, and Tax and Fiscal Policy committees. [3]",
+  "record": [
+   "2025: Authored Senate Bill 480 on health insurers' prior authorization rules, which passed the Senate 47–2 on 2025-02-20 and took effect as Senate Enrolled Act 480 on 2025-07-01. [4, 5] The caucus says it sets limits on when insurers can require prior authorization, sets response deadlines and defines medically necessary care; Johnson said, \"Reforming Indiana's prior authorization system has been one of my top priorities since being elected to serve in the Senate.\" [4]",
+   "2025-10-29: Issued a statement opposing a proposed relocation of a casino to northeast Indiana near Auburn, saying a state study \"ignores risks to families, schools and public safety\" and calling for an independent review of social, traffic and infrastructure costs. [6] In 2024 he had told a New Haven town hall, \"In my legislative career I've not really been for gambling.\" [7]",
+   "2025-12-11: Voted for the mid-decade congressional redistricting bill, which the Senate defeated. [8] In March 2026, President Trump endorsed him among Republican senators who supported redistricting. [8]",
+   "2023–2026: The caucus lists statements on SEA 480 (2023), which addressed gender transition procedures for minors, and on SCR 17 (2023) condemning physician-assisted suicide, and a 2026 letter he co-signed with Rep. J.D. Prescott urging federal action on the abortion drug mifepristone. [3]"
+  ]
+ },
+ "race_context": [
+  "Senate District 14 covers portions of Allen and DeKalb counties in northeast Indiana. [3]",
+  "Johnson is the incumbent; Democrat Blaine Sefton, a union electrician, is a first-time candidate. [9] Both were their parties' nominees after the May 5, 2026 primary. [1]",
+  "Key differences in stated positions: Sefton's platform calls for repealing Senate Bill 76 (immigration enforcement), a moratorium on new data centers, and ending the private school voucher system; Johnson's record emphasizes health insurance prior authorization changes and opposition to a casino relocation in the district. [10, 4, 6]"
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Blaine Sefton",
+   "summary": "Blaine Sefton is a union electrician and community activist running for office for the first time. [9]",
+   "website": "https://www.blaineforindiana.org/",
+   "background": [
+    "Works as a union electrician and has been active with the Democratic Socialists of Fort Wayne and Indivisible Indiana, according to WBOI. [9]",
+    "His campaign site says he is a member of the International Brotherhood of Electrical Workers and previously worked as a case manager for the Indiana Family and Social Services Administration and at the Social Security Office of Disability Adjudication. [11]",
+    "Describes himself as \"a Worker, a Democratic Socialist.\" [12]"
+   ],
+   "path_to_ballot": [
+    "Filed just before the filing deadline at the start of 2026. [9] Listed as the Democratic nominee after the May 5, 2026 primary. [1]"
+   ],
+   "positions": [
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Campaign platform calls for raising the minimum wage to $20.30 by 2030, supporting unionization and repealing Indiana's right-to-work law. [10]",
+      "Proposes raising the corporate tax rate to 7.5%, incentives for small and local businesses, and a one-time 5% wealth tax on individuals worth $100 million or more. [10]"
+     ]
+    },
+    {
+     "topic": "Housing",
+     "items": [
+      "Would bar companies and private equity firms from buying single-family homes, increase landlord accountability for repairs, and overhaul zoning rules. [10]"
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Proposes a state \"Medicaid-for-all\" plan, requiring employers to cover medical expenses tied to their insurance plans, and reviewing nonprofit status of hospitals when patients are left with bills. [10]"
+     ]
+    },
+    {
+     "topic": "Data centers",
+     "items": [
+      "Calls for a moratorium on new data center construction, restrictions on existing centers' noise, light, water use and emissions, and an end to tax breaks for tech companies. [10]"
+     ]
+    },
+    {
+     "topic": "Energy & utilities",
+     "items": [
+      "Supports rules, modeled on Oregon laws, making large energy users pay full cost and capping rate increases, plus building renewable generation. [10]"
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Would end the private school voucher system and strengthen teachers' unions' bargaining over class size and working conditions. [10]"
+     ]
+    },
+    {
+     "topic": "Immigration & civil rights",
+     "items": [
+      "Calls for repealing Senate Bill 76 and ending state cooperation with ICE, allowing sanctuary cities, repealing the abortion ban, and strengthening anti-discrimination laws. [10]"
+     ]
+    },
+    {
+     "topic": "Marijuana",
+     "items": [
+      "Supports legalizing marijuana and decriminalizing low-level, nonviolent offenses. [10]"
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Told WBOI, \"It is the responsibility of the government to work for everyday people,\" and said he wants to hold accountable systems he feels no longer serve people; he did not name Johnson in the material reviewed. [9]"
+   ],
+   "plans": [
+    "Platform areas listed on his site: housing, health care, workers, child care, rights, data centers, taxes, roads and transit, public schools, utilities and marijuana. [10]",
+    "Child care: cap child care costs, enact paid parental leave, and create incentives for child care workers. [10]"
+   ],
+   "endorsements_finance": [
+    "His campaign site lists endorsements from the Indiana AFL-CIO, MadVoters and the Fort Wayne Democratic Socialists of America. [13]"
+   ],
+   "gaps": [
+    "Unverified (search snippet only): Transparency USA reportedly shows about $500 in contributions to his committee; no fundraising totals were verified.",
+    "Primary details (whether he had an opponent, vote count) were not verified; a Journal Gazette results snippet showed 2,375 votes but the contest was not confirmed.",
+    "A WBOI photo caption lists him in District 22 while the article text says District 14; official listings show District 14.",
+    "No statements about Tyler Johnson by name found; no positions on property taxes or redistricting found.",
+    "No debate or forum for this race found as of 2026-10-10. Little news coverage beyond one WBOI feature."
+   ]
+  },
+  {
+   "ballot_name": "Tyler Johnson",
+   "summary": "Tyler Johnson is the incumbent senator, an emergency room physician from Leo first elected in 2022. [3]",
+   "website": null,
+   "background": [
+    "Emergency room physician; the caucus lists Leo High School and the University of Saint Francis in his education. [3]",
+    "Serves as assistant majority caucus chair. [3]"
+   ],
+   "path_to_ballot": [
+    "Renominated in the May 5, 2026 Republican primary; Trump endorsed him in March 2026, and the Capital Chronicle described him as among senators unopposed or heavy favorites for renomination. [8, 1]"
+   ],
+   "positions": [
+    {
+     "topic": "Health care",
+     "items": [
+      "Has said, \"Too often, prior authorization stands between patients and access to the care their doctor recommends,\" and that SEA 480 \"restores the original intent of prior authorization.\" [5]",
+      "In April 2025 issued a statement supporting the \"Make Indiana Healthy Again\" movement, per the caucus. [3]"
+     ]
+    },
+    {
+     "topic": "Gambling",
+     "items": [
+      "Opposes relocating a casino to northeast Indiana near Auburn. [6]"
+     ]
+    },
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "Voted for the 2025 mid-decade congressional redistricting bill. [8]"
+     ]
+    },
+    {
+     "topic": "Roads",
+     "items": [
+      "The caucus lists his announcements of Community Crossings road grants for the district, including about $6.1 million in March 2025 and more than $1.4 million in July 2026. [3]"
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No statements about Blaine Sefton were found. [3]"
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "Endorsed by President Trump in March 2026. [8]"
+   ],
+   "gaps": [
+    "No current campaign website found (a 2022 site, votedrjohnson.us, returned 404).",
+    "His votes on the 2025 property tax law (SEA 1) and the 2025 state budget were not verified from a readable source.",
+    "No stated 2026 campaign plans or general-election statements found; no fundraising totals verified.",
+    "No debate or forum for this race found as of 2026-10-10."
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": 1,
+   "title": "Indiana Senate",
+   "publisher": "Wikipedia",
+   "date": "accessed 2026-10-10",
+   "url": "https://en.wikipedia.org/wiki/Indiana_Senate"
+  },
+  {
+   "id": 2,
+   "title": "2026 General Election Candidate List",
+   "publisher": "Indiana Election Division",
+   "date": "2026-09-22",
+   "url": "https://www.in.gov/sos/elections/candidate-information/"
+  },
+  {
+   "id": 3,
+   "title": "Dr. Tyler Johnson: Indiana State Senator, District 14",
+   "publisher": "Indiana Senate Republican Caucus",
+   "date": "2026",
+   "url": "https://www.indianasenaterepublicans.com/johnson"
+  },
+  {
+   "id": 4,
+   "title": "Johnson prior authorization bill passes Senate",
+   "publisher": "Indiana Senate Republican Caucus",
+   "date": "2025-02-20",
+   "url": "https://www.indianasenaterepublicans.com/johnson-prior-authorization-bill-passes-senate"
+  },
+  {
+   "id": 5,
+   "title": "Prior authorization law takes effect (SEA 480)",
+   "publisher": "KPC News / The Star",
+   "date": "2025-07-30",
+   "url": "https://www.kpcnews.com/thestar/article_57fcc5b2-7be2-4cbc-81fb-86efb8771873.html"
+  },
+  {
+   "id": 6,
+   "title": "Statement from State Sen. Tyler Johnson on recent study looking at possible casino relocation to NE Indiana",
+   "publisher": "Indiana Senate Republican Caucus",
+   "date": "2025-10-29",
+   "url": "https://www.indianasenaterepublicans.com/statement-from-state-sen-tyler-johnson-on-recent-study-looking-at-possible-casino-relocation-to-ne-indiana"
+  },
+  {
+   "id": 7,
+   "title": "Townhall held to discuss proposed New Haven casino",
+   "publisher": "21Alive (WPTA)",
+   "date": "2024-11-18",
+   "url": "https://www.21alivenews.com/2024/11/19/townhall-held-discuss-proposed-new-haven-casino"
+  },
+  {
+   "id": 8,
+   "title": "Trump endorses Sen. Liz Brown, other Republicans who supported Indiana redistricting",
+   "publisher": "Indiana Capital Chronicle via IPM/WFIU",
+   "date": "2026-03-25",
+   "url": "https://www.ipm.org/news/2026-03-25/trump-endorses-sen-liz-brown-other-republicans-who-supported-indiana-redistricting"
+  },
+  {
+   "id": 9,
+   "title": "Getting in the race: Hoosier Dems find record numbers up and down ballot",
+   "publisher": "WBOI",
+   "date": "2026-08-24",
+   "url": "https://www.wboi.org/government/2026-08-24/getting-in-the-race-hoosier-dems-find-record-numbers-up-and-down-ballot"
+  },
+  {
+   "id": 10,
+   "title": "Platform & Policy",
+   "publisher": "Blaine for Indiana",
+   "date": "2026",
+   "url": "https://www.blaineforindiana.org/platformpolicy"
+  },
+  {
+   "id": 11,
+   "title": "Who I Am",
+   "publisher": "Blaine for Indiana",
+   "date": "2026",
+   "url": "https://www.blaineforindiana.org/whoiam"
+  },
+  {
+   "id": 12,
+   "title": "Blaine for Indiana (campaign website)",
+   "publisher": "Blaine for Indiana",
+   "date": "2026",
+   "url": "https://www.blaineforindiana.org/"
+  },
+  {
+   "id": 13,
+   "title": "Endorsements",
+   "publisher": "Blaine for Indiana",
+   "date": "2026",
+   "url": "https://www.blaineforindiana.org/endorsements"
+  }
+ ]
+}

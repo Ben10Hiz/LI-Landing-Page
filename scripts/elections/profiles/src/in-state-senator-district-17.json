@@ -1,0 +1,250 @@
+{
+ "race_id": "in-state-senator-district-17",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_senate",
+ "incumbent": {
+  "name": "Nick McKinley",
+  "party": "Republican",
+  "summary": "Sen. Nick McKinley (R-Marion) was chosen by a Republican caucus in February 2026 to finish the term of former Sen. Andy Zay, and he lost the May 2026 Republican primary for a full term, so he is not on the November ballot {icitizen_mckinley} {wiki_2026_insen}.",
+  "record": [
+   "Feb. 2026: Sworn in Feb. 9, 2026, after winning a Republican caucus 85–24 over Manchester Community Schools board president Michael Hensley; Zay had resigned effective Jan. 8 after Gov. Mike Braun appointed him to the Indiana Utility Regulatory Commission {icitizen_mckinley} {ipm_mckinley}.",
+   "2026 session: The Senate Republican caucus lists his committee assignments as Environmental Affairs, Commerce and Technology, Pensions and Labor, and Utilities {mckinley_bio}.",
+   "June 30, 2026: According to the Senate Republican caucus, he announced more than $1.6 million in Community Crossings road and bridge grants for District 17 communities {mckinley_bio}.",
+   "Background: Former Marion city councilman (at-large, since 2024), Grant County Republican Party chairman since March 2025, former South Bend police officer, and owner of an insurance agency in Marion {icitizen_mckinley}."
+  ]
+ },
+ "race_context": [
+  "Senate District 17 covers Grant, Huntington, and Wabash counties {icitizen_mckinley} {ipm_mckinley}.",
+  "This is an open seat: Andy Zay resigned in January 2026 to chair the Indiana Utility Regulatory Commission, and caucus-appointed Sen. Nick McKinley lost the May 5, 2026 Republican primary {ipm_mckinley} {wiki_2026_insen}.",
+  "Republican primary (per Wikipedia's compilation of results): Chris Parker 5,667 (46.1%), Nick McKinley 5,113 (41.6%), Michael Hensley 1,512 (12.3%); Cynthia M. Wehr was unopposed for the Democratic nomination with 2,801 votes {wiki_2026_insen}.",
+  "No debate or joint forum between Parker and Wehr was found in available coverage. Parker's campaign calendar lists a Sept. 14, 2026 data-center town hall in Marion among his appearances {parker_connect}.",
+  "Both candidates say they oppose data centers and industrial solar projects in the district; they differ on education funding (Parker supports school choice with funding following the student, Wehr calls for fully funded public schools) and on health care and utility policy {parker_platform} {wehr_home} {wehr_about}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Chris Parker",
+   "summary": "Chris Parker is a Huntington real estate broker and coffee shop owner who previously held church pastoral roles and won the May 2026 Republican primary over Sen. Nick McKinley and Michael Hensley {parker_home} {wiki_2026_insen}.",
+   "website": "https://www.voteforchrisparker.com",
+   "background": [
+    "According to his campaign, Parker moved to Huntington in 1996 to attend Huntington University, earned a B.S. in Youth Ministry in 1999, and served in pastoral leadership at several churches before moving into management and business leadership {parker_home}.",
+    "His campaign says he has worked in real estate in northeastern Indiana for nearly two decades, serves on the Upstate Alliance of Realtors board, and recently opened Coffee Bean Counter in downtown Huntington {parker_home}.",
+    "In an iVoterGuide questionnaire he said he has no prior political experience {parker_ivg}.",
+    "Lives in Huntington County {parker_home}."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Republican primary with 46.1% of the vote over incumbent Nick McKinley (41.6%) and Michael Hensley (12.3%), per Wikipedia's compilation of results {wiki_2026_insen}."
+   ],
+   "positions": [
+    {
+     "topic": "Energy & utilities",
+     "items": [
+      "His platform says he opposes large-scale industrial solar, wind, and carbon-sequestration projects, saying they can undermine property values, local decision-making, and the agricultural economy {parker_platform}.",
+      "In his iVoterGuide responses, he said his base wants moratoriums on data centers, carbon capture and sequestration, industrial solar farms, and wind turbines, and that he would rescind what his response called the 'Holcolmb' agricultural overlay for solar and wind on farmland {parker_ivg}."
+     ]
+    },
+    {
+     "topic": "Property taxes",
+     "items": [
+      "His platform calls for reviewing and expanding the 2025 property-tax changes, focusing on state accountability and local transparency in county property assessments {parker_platform}."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "His campaign says he supports 'Hoosier First' growth focused on local jobs, domestic manufacturing, and local entrepreneurship, and opposes a possible casino relocation to the area {parker_home}.",
+      "He says he supports local home rule and opposes consolidating decision-making in Indianapolis {parker_home}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "His platform says he supports school choice with funding that follows the student and more access to training and apprenticeship programs {parker_platform}."
+     ]
+    },
+    {
+     "topic": "Public safety",
+     "items": [
+      "His platform says he supports Second Amendment rights, law enforcement, and cooperation with federal immigration authorities {parker_platform}.",
+      "In his iVoterGuide responses, he supported allowing qualified teachers to carry guns in schools {parker_ivg}."
+     ]
+    },
+    {
+     "topic": "Abortion & social issues",
+     "items": [
+      "His platform says he will stand for 'the sanctity of life' and for protecting churches, schools, and families from government interference {parker_platform}.",
+      "In his iVoterGuide responses, he strongly opposed legalizing recreational marijuana and opposed adding sexual orientation and gender identity as protected classes in nondiscrimination law {parker_ivg}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "In his iVoterGuide responses, he proposed allowing insurance coverage across state lines, requiring transparent billing, and increasing competition {parker_ivg}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "No statements by Parker about McKinley or the seat's previous record were found in available sources. His questionnaire said he waited for a 'good person' to run before entering the race {parker_ivg}."
+   ],
+   "plans": [
+    "In his iVoterGuide responses, he did not commit to specific bills, saying freshman senators' bills often stall; he said he would prioritize limiting the erosion of home rule and banning foreign projects that monopolize natural resources {parker_ivg}."
+   ],
+   "endorsements_finance": [
+    "iVoterGuide lists endorsements from Indiana Right to Life and Right to Life of Northeast Indiana {parker_ivg}.",
+    "Wikipedia's results compilation lists a post-primary endorsement from Indiana Farm Bureau's AgELECT PAC {wiki_2026_insen}."
+   ],
+   "gaps": [
+    "No fundraising totals were found; the Indiana campaign finance portal was not reviewed.",
+    "His campaign site's endorsement section lists Lt. Gov. Micah Beckwith, Rep. Lorissa Sweet, and the Coalition for a Better Indiana, but that section also contains text naming another candidate ('Mike Thompson') and appears to be unedited template content, so these endorsements were not confirmed.",
+    "Primary vote totals come from Wikipedia's compilation; a news article with final certified totals could not be read. A search snippet attributed to the Indiana Capital Chronicle (May 6, 2026; 403 to fetch) gave 46% / 42% / 12%.",
+    "No local news interview or candidate Q&A with Parker was found; search budget ran out before a debate/forum search could be completed."
+   ]
+  },
+  {
+   "ballot_name": "Cynthia M. Wehr",
+   "summary": "Cynthia 'Cyndi' Wehr is a former operating-room nurse, small-business owner, and co-founder of a Huntington County child advocacy center who was unopposed for the Democratic nomination {wehr_about} {wiki_2026_insen}.",
+   "website": "https://wehrforindiana.com",
+   "background": [
+    "According to her campaign, she spent two decades as an operating-room nurse, co-founded Mackenzie's Hope, a nonprofit child advocacy center that coordinates responses to child abuse and neglect, and has run a small business {wehr_about}.",
+    "Her campaign says she grew up on a farm and has deep roots in Huntington County {wehr_about}."
+   ],
+   "path_to_ballot": [
+    "Unopposed in the May 5, 2026 Democratic primary, receiving 2,801 votes per Wikipedia's results compilation {wiki_2026_insen}."
+   ],
+   "positions": [
+    {
+     "topic": "Health care",
+     "items": [
+      "Her campaign lists equal access to health care and says she would expand access to quality care and lower costs, with support for providers and caregivers {wehr_home} {wehr_issues}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Her campaign calls for fully funded public education and investment 'in students, teachers, and classrooms' {wehr_home} {wehr_issues}."
+     ]
+    },
+    {
+     "topic": "Energy & utilities",
+     "items": [
+      "Her campaign site lists a utility rate cap among her priorities {wehr_home}."
+     ]
+    },
+    {
+     "topic": "Data centers",
+     "items": [
+      "Her campaign site states 'No data centers, no solar farms!' and says she opposes data centers and industrial solar projects {wehr_home} {wehr_about}."
+     ]
+    },
+    {
+     "topic": "Agriculture",
+     "items": [
+      "Her campaign says she would protect family farms and local agriculture and Indiana's land, water, and ecosystems {wehr_issues}."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Her campaign lists support for small businesses, job training, local economic growth, affordable housing, and accessible child care; her fundraising page cites fair wages {wehr_issues} {wehr_home} {wehr_actblue}."
+     ]
+    },
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "Her campaign says she supports fair elections and accessible polling places {wehr_issues}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "No statements by Wehr about McKinley, Parker, or the seat's previous record were found; her site refers generally to transparency, accountability, and listening to constituents {wehr_home}."
+   ],
+   "plans": [
+    "Her campaign lists government accountability goals including transparency and responsible budgeting {wehr_issues}."
+   ],
+   "endorsements_finance": [
+    "No endorsements are listed on her campaign site {wehr_home}."
+   ],
+   "gaps": [
+    "Search snippets (Blue Voter Guide) listed endorsements from the Indiana Reproductive Freedom PAC, the Indiana Third District Democratic Party, and MADVoters; not verified on a fetched page.",
+    "No fundraising totals were found; Transparency USA returned 403 and the state portal was not reviewed.",
+    "A 'Garage Talk' podcast episode featuring Wehr exists but was not reviewed.",
+    "No local news coverage of her candidacy was found."
+   ]
+  }
+ ],
+ "sources": {
+  "icitizen_mckinley": [
+   "New state senator: GOP's McKinley sworn in for District 17 seat, replacing Zay",
+   "The Indiana Citizen",
+   "2026-02-10",
+   "https://indianacitizen.org/new-state-senator-gops-mckinley-sworn-in-for-district-17-seat-replacing-zay/"
+  ],
+  "ipm_mckinley": [
+   "New senator takes office for final weeks of Indiana legislative session",
+   "Indiana Capital Chronicle via IPM",
+   "2026-02-09",
+   "https://www.ipm.org/news/2026-02-09/new-senator-takes-office-for-final-weeks-of-indiana-legislative-session"
+  ],
+  "mckinley_bio": [
+   "Sen. Nick McKinley",
+   "Indiana Senate Republicans",
+   "accessed 2026-10-10",
+   "https://www.indianasenaterepublicans.com/mckinley"
+  ],
+  "wiki_2026_insen": [
+   "2026 Indiana Senate election",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_Senate_election"
+  ],
+  "parker_home": [
+   "About Chris",
+   "Chris Parker for State Senate (campaign site)",
+   "accessed 2026-10-10",
+   "https://www.voteforchrisparker.com/"
+  ],
+  "parker_platform": [
+   "Platform",
+   "Chris Parker for State Senate (campaign site)",
+   "accessed 2026-10-10",
+   "https://www.voteforchrisparker.com/platform"
+  ],
+  "parker_connect": [
+   "Connect",
+   "Chris Parker for State Senate (campaign site)",
+   "accessed 2026-10-10",
+   "https://www.voteforchrisparker.com/issues"
+  ],
+  "parker_ivg": [
+   "Chris Parker candidate profile",
+   "iVoterGuide",
+   "accessed 2026-10-10",
+   "https://ivoterguide.com/candidate/90920/race/30616/election/1456"
+  ],
+  "wehr_home": [
+   "Cynthia Wehr for Indiana State Senate",
+   "Wehr campaign site",
+   "accessed 2026-10-10",
+   "https://wehrforindiana.com/"
+  ],
+  "wehr_about": [
+   "About",
+   "Wehr campaign site",
+   "accessed 2026-10-10",
+   "https://wehrforindiana.com/about/"
+  ],
+  "wehr_issues": [
+   "Issues",
+   "Wehr campaign site",
+   "accessed 2026-10-10",
+   "https://wehrforindiana.com/issues"
+  ],
+  "wehr_actblue": [
+   "Donate to Cynthia Wehr",
+   "ActBlue",
+   "accessed 2026-10-10",
+   "https://secure.actblue.com/donate/Cynthiawehr17"
+  ]
+ }
+}

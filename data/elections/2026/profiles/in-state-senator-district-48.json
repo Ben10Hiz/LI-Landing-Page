@@ -1,0 +1,343 @@
+{
+ "race_id": "in-state-senator-district-48",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": {
+  "title": "Indiana State Senator",
+  "summary": "Members of the Indiana Senate write and vote on state laws as part of the Indiana General Assembly. The Senate has 50 members, each representing one district for a four-year term; about half the seats are elected every two years [1].",
+  "facts": [
+   {
+    "label": "Term",
+    "value": "4 years [1]"
+   },
+   {
+    "label": "Term limit",
+    "value": "None [1]"
+   },
+   {
+    "label": "Seats",
+    "value": "50 [1]"
+   },
+   {
+    "label": "On the 2026 ballot",
+    "value": "25 districts [2]"
+   }
+  ],
+  "duties": [
+   "Introduces and votes on state legislation as one of the two chambers of the Indiana General Assembly [1].",
+   "Must be at least 25 years old when taking office and have lived in the district for at least a year, under Article 4 of the Indiana Constitution [1]."
+  ],
+  "recent_changes": []
+ },
+ "incumbent": {
+  "name": "Daryl Schmitt",
+  "party": "Republican",
+  "summary": "Daryl Schmitt, a Republican from Jasper, was chosen by a Republican precinct caucus in September 2024 to finish the term of Mark Messmer, who left the Senate after winning the 8th Congressional District primary [3]. He is a fifth-generation family farmer and former Dubois County Council member, and the Senate Republican caucus lists him on the Education and Career Development, Elections, Family and Children Services, Insurance and Financial Institutions, and Local Government committees [4].",
+  "record": [
+   "Sept. 4–10, 2024: Selected by a private Republican precinct caucus and sworn in on Sept. 10 to serve the rest of Messmer's term through November 2026; he had served on the Dubois County Council since January 2023 [3, 5]. At the caucus he said a top priority would be \"driving decisions local\" and pledged to visit every local taxing unit in the district within 12 months [3].",
+   "2025 session: In a caucus column, Schmitt said he voted for the Senate version of Senate Bill 1, the property-tax bill, describing it as relief for all taxpayers with targeted cuts for seniors, disabled veterans, first-time homebuyers and farmers, including a change to the farmland assessment formula [6]. Hochgesang's campaign cites the official Senate roll call showing Schmitt among the 27 yes votes when the Senate gave SEA 1 final approval 27-22 on April 15, 2025 [7].",
+   "2025 session: Said he supported House Enrolled Act 1007, which lets the Indiana Utility Regulatory Commission review whether a utility's plan to retire a power plant leaves adequate capacity [8]. Hochgesang's campaign cites legislative records listing Schmitt as a Senate sponsor of HEA 1007, a co-author of SB 424 (small modular reactor cost recovery), and a yes vote on HB 1601 (tax exemption for qualifying quantum and advanced-computing projects) [7].",
+   "April 25, 2025: In his end-of-session statement, said he was glad to \"help pass a balanced budget that will ensure government accountability and transparency\" [9].",
+   "Oct. 24, 2025: Issued a statement saying the governor \"must call the General Assembly into a special session so we can redraw Indiana's congressional maps,\" citing other states' maps and a census audit [10]. Wikipedia's summary of the Dec. 11, 2025 vote lists him among senators who voted for the redistricting bill, which failed 19-31; Hochgesang's campaign cites the official roll call to the same effect [11, 7].",
+   "Feb. 24–25, 2026: Authored Senate Enrolled Act 112, signed by Gov. Mike Braun, which updates the voter registration of a candidate who withdraws when the address on the withdrawal form differs from the registration; and SEA 113, which would keep election materials for 34 months instead of 22 and require results to be posted on the Election Division website [12, 13].",
+   "2026 session: Said he supported House Enrolled Act 1002, which ties utilities' full return on investment to affordability and reliability goals through performance-based ratemaking [8]. On March 9, 2026, he responded to constituent concerns about HEA 1343, saying the law \"actually places more guardrails around the use of military police for law enforcement than what currently exists today in Indiana\" [14].",
+   "Aug.–Sept. 2026: Scheduled six town halls, one in each county of the district [15]."
+  ]
+ },
+ "race_context": [
+  "Senate District 48 covers Crawford, Dubois, Gibson, Perry, Pike and Spencer counties in southwest Indiana, including Jasper, Huntingburg, Princeton, Petersburg, Tell City and Rockport [5, 16].",
+  "Schmitt is seeking his first full term; he entered the seat through a party caucus in 2024 rather than a district-wide election [3, 5].",
+  "At the close of candidate filing in February 2026, the Dubois County Herald listed Schmitt as the Republican and Bradley Hochgesang as the Democrat filed in the district [17]. Both are on the Nov. 3, 2026 ballot [2].",
+  "Key differences in their public statements: Schmitt has described SEA 1 (2025) as property-tax relief and cites energy laws on plant retirements and performance-based ratemaking, while Hochgesang calls SEA 1 a \"down payment\" and proposes lower caps for farm buildings, a state backstop for rural schools and emergency services, and requiring data centers to supply their own power and pay for their own grid connections [6, 8, 18, 19].",
+  "No debate or joint forum between the two candidates was found in news coverage as of Oct. 10, 2026; Schmitt held individual town halls in each county in August and September [15]."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Bradley (Brad) Hochgesang",
+   "summary": "Hochgesang is a Jasper software engineer and small-business owner who organized opposition to the Mid-States Corridor highway project before running [20]. He is centering his campaign on property taxes, utility costs and data centers, and public input before votes [16].",
+   "website": "https://citizensforhochgesang.org/",
+   "background": [
+    "Says he has worked more than 20 years as a software engineer and runs a company called Ninja Mojo LLC; lives in Jasper [20].",
+    "Says he grew up in Jasper, lived in Chicago from 2010, and returned in September 2023 [16].",
+    "Says he commissioned two professional polls on the Mid-States Corridor, organized 10 corridor town halls and three \"Your Community, Your Say\" events, and presented a withdrawal resolution to the Dubois County Council [20]. A December 2025 Public Policy Polling survey of 636 Dubois County registered voters found 81% opposed the corridor, according to the Dubois County Herald [21]."
+   ],
+   "path_to_ballot": [
+    "Filed as a Democrat for the May 5, 2026 primary; the Dubois County Herald's filing roundup listed no other Democrat in the race [17]. He is the Democratic nominee on the Nov. 3 ballot [2]."
+   ],
+   "positions": [
+    {
+     "topic": "Property taxes",
+     "items": [
+      "Says SEA 1 (2025) delivered about an 11% cut to farmland bills but left out farm buildings, whose assessments rose sharply; proposes moving agricultural buildings from the 3% to the 2% tax cap, smoothing reassessment increases, and requiring regular cost-table updates [18].",
+      "Says relief should be permanent rather than sunsetting in 2027, and should be paired with a state backstop for rural schools and emergency services [18]."
+     ]
+    },
+    {
+     "topic": "Data centers",
+     "items": [
+      "Says he is not against data centers but would require them to bring more new power online than they draw, pay for their own transmission and backup, use closed-loop cooling with metered and capped water use, and show through an independent public analysis that a county comes out ahead before receiving incentives [19]."
+     ]
+    },
+    {
+     "topic": "Energy & utilities",
+     "items": [
+      "Calls for closer scrutiny in utility rate cases, disclosure of executive compensation, protection from paying for canceled projects, and a transition plan for workers at the district's coal plants [19, 22]."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Supports workforce training aligned with employer needs, simpler small-business permitting, and economic development built on existing local industries [22]."
+     ]
+    },
+    {
+     "topic": "Government accountability",
+     "items": [
+      "Pledges to publish facts and costs before major votes, seek out affected residents, publish his reasoning on consequential votes, and hold town halls in every county every year [23]."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "His campaign's \"The Record\" page notes that Schmitt entered office through a party caucus, and cites official roll calls for Schmitt's votes for the 2025 redistricting bill and SEA 1, adding that the state's analysts projected $744.4 million less property-tax revenue for schools over three years [7].",
+    "The same page cites Schmitt's sponsorship or co-authorship of utility and tax-incentive measures (HEA 1007, SB 424, HB 1601), arguing they shift costs or risk to ratepayers and taxpayers [7]."
+   ],
+   "plans": [
+    "Says he would move farm buildings to a lower property-tax cap and make farmland relief permanent [18].",
+    "Says he would put into law a requirement that data centers supply their own power and pay for their own grid connections [19]."
+   ],
+   "endorsements_finance": [
+    "His campaign says it runs on individual contributions rather than PACs and links to its filings on Transparency USA [16]."
+   ],
+   "gaps": [
+    "No independent news profile of Hochgesang's campaign was found; most information comes from his own website and BallotReady questionnaire.",
+    "No endorsements or campaign-finance totals were verified; the Transparency USA page returned an error.",
+    "A search snippet described a letter to the editor in which Hochgesang moderated a Mid-States Corridor meeting and identified himself as a Democratic Senate candidate; not read in full."
+   ]
+  },
+  {
+   "ballot_name": "Daryl Schmitt",
+   "summary": "Schmitt, a Jasper-area farmer and former Dubois County Council member, has held the seat since September 2024 and is seeking his first election to it [5]. His Senate caucus columns emphasize property-tax relief, energy costs and election administration bills [6, 8, 13].",
+   "website": null,
+   "background": [
+    "Fifth-generation family farmer for about 30 years who has also worked in seed sales; holds degrees from Vincennes University and Indiana State University, according to the Senate Republican caucus [5].",
+    "Served on the Dubois County Council from January 2023 to September 2024 and on the Dubois County Regional Sewer District Board; member of the Indiana Farm Bureau [5, 4]."
+   ],
+   "path_to_ballot": [
+    "Chosen by Republican precinct committee members in September 2024 to fill the vacancy [3]. Filed for the May 5, 2026 Republican primary, where the Dubois County Herald's filing roundup listed no other Republican in the race [17]."
+   ],
+   "positions": [
+    {
+     "topic": "Property taxes",
+     "items": [
+      "Wrote in 2025 that SB 1 would provide relief to all property taxpayers and reduce farmland assessments by raising the capitalization rate in the farmland formula from 8% to 9% [6]."
+     ]
+    },
+    {
+     "topic": "Energy & utilities",
+     "items": [
+      "Says he supported HEA 1007 (2025) on reviewing power-plant retirements and HEA 1002 (2026) on performance-based utility ratemaking to address rising energy bills [8]."
+     ]
+    },
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "Authored 2026 laws on candidate voter-registration updates and longer retention of election materials [12, 13].",
+      "Called for a special session to redraw Indiana's congressional map in October 2025 [10]."
+     ]
+    },
+    {
+     "topic": "Public safety",
+     "items": [
+      "Defended HEA 1343 as adding training requirements and guardrails for National Guard military police assisting local police [14]."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No public statements by Schmitt about his opponent were found [4]."
+   ],
+   "plans": [
+    "Said after the 2026 session that he would spend the interim working in the community and has scheduled town halls in all six counties [24, 15]."
+   ],
+   "endorsements_finance": [
+    "Wikipedia's page on the 2026 Indiana Senate elections lists President Donald Trump as endorsing Schmitt [11]."
+   ],
+   "gaps": [
+    "No standalone campaign website was found; BallotReady links a Facebook page (Daryl Schmitt for Indiana) that was not reviewed.",
+    "The official Senate roll calls for HB 1032 (Dec. 11, 2025) and SEA 1 (Apr. 15, 2025) could not be loaded from iga.in.gov; his votes are reported here via Wikipedia and Hochgesang's campaign citations.",
+    "His vote on the 2025 state budget (HEA 1001) was not individually verified; his statement says he helped pass a balanced budget.",
+    "No campaign-finance totals were verified."
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": 1,
+   "title": "Indiana Senate",
+   "publisher": "Wikipedia",
+   "date": "accessed 2026-10-10",
+   "url": "https://en.wikipedia.org/wiki/Indiana_Senate"
+  },
+  {
+   "id": 2,
+   "title": "2026 General Election Candidate List",
+   "publisher": "Indiana Election Division",
+   "date": "2026-09-22",
+   "url": "https://www.in.gov/sos/elections/candidate-information/"
+  },
+  {
+   "id": 3,
+   "title": "Derek Schmitt replaces Mark Messmer in Indiana Senate after private GOP caucus vote",
+   "publisher": "WFYI / Indiana Public Broadcasting",
+   "date": "2024-09",
+   "url": "https://wfyi.org/news/articles/derek-schmitt-replaces-mark-messmer-in-indiana-senate-after-private-gop-caucus-vote"
+  },
+  {
+   "id": 4,
+   "title": "Sen. Daryl Schmitt — Biography and news",
+   "publisher": "Indiana Senate Republicans",
+   "date": "2026-10",
+   "url": "https://www.indianasenaterepublicans.com/schmitt"
+  },
+  {
+   "id": 5,
+   "title": "Schmitt sworn in as Senate District 48 state senator",
+   "publisher": "Indiana Senate Republicans",
+   "date": "2024-09-10",
+   "url": "https://www.indianasenaterepublicans.com/schmitt-sworn-in-as-senate-district-48-state-senator"
+  },
+  {
+   "id": 6,
+   "title": "Statehouse Spotlight with Sen. Schmitt: Supporting property tax relief",
+   "publisher": "Indiana Senate Republicans",
+   "date": "2025-02",
+   "url": "https://www.indianasenaterepublicans.com/statehouse-spotlight-with-sen-schmitt-supporting-property-tax-relief"
+  },
+  {
+   "id": 7,
+   "title": "Claims, documents, and corrections (The Record)",
+   "publisher": "Citizens For Hochgesang (campaign)",
+   "date": "accessed 2026-10-10",
+   "url": "https://citizensforhochgesang.org/facts"
+  },
+  {
+   "id": 8,
+   "title": "Statehouse Spotlight with Sen. Schmitt: Working to lower energy bills",
+   "publisher": "Indiana Senate Republicans",
+   "date": "2026-08",
+   "url": "https://www.indianasenaterepublicans.com/statehouse-spotlight-with-sen-schmitt-working-to-lower-energy-bills"
+  },
+  {
+   "id": 9,
+   "title": "Statement from State Sen. Daryl Schmitt regarding the conclusion of the 2025 legislative session",
+   "publisher": "Indiana Senate Republicans",
+   "date": "2025-04-25",
+   "url": "https://www.indianasenaterepublicans.com/statement-from-state-sen-daryl-schmitt-regarding-the-conclusion-of-the-2025-legislative-session"
+  },
+  {
+   "id": 10,
+   "title": "Statement from State Sen. Daryl Schmitt regarding redistricting",
+   "publisher": "Indiana Senate Republicans",
+   "date": "2025-10-24",
+   "url": "https://www.indianasenaterepublicans.com/statement-from-state-sen-daryl-schmitt-regarding-redistricting"
+  },
+  {
+   "id": 11,
+   "title": "2026 Indiana Senate election",
+   "publisher": "Wikipedia",
+   "date": "accessed 2026-10-10",
+   "url": "https://en.wikipedia.org/wiki/2026_Indiana_Senate_election"
+  },
+  {
+   "id": 12,
+   "title": "Schmitt: Governor signs election bill into law",
+   "publisher": "Indiana Senate Republicans",
+   "date": "2026-02-24",
+   "url": "https://www.indianasenaterepublicans.com/schmitt-governor-signs-election-bill-into-law"
+  },
+  {
+   "id": 13,
+   "title": "Schmitt's election bill heads to governor's desk",
+   "publisher": "Indiana Senate Republicans",
+   "date": "2026-02-25",
+   "url": "https://www.indianasenaterepublicans.com/schmitt-s-election-bill-heads-to-governor-s-desk"
+  },
+  {
+   "id": 14,
+   "title": "Sen. Schmitt addresses misconceptions about military police legislation",
+   "publisher": "Indiana Senate Republicans",
+   "date": "2026-03-09",
+   "url": "https://www.indianasenaterepublicans.com/sen-schmitt-addresses-misconceptions-about-military-police-legislation"
+  },
+  {
+   "id": 15,
+   "title": "Schmitt to host town halls across Senate District 48",
+   "publisher": "Indiana Senate Republicans",
+   "date": "2026-08-10",
+   "url": "https://www.indianasenaterepublicans.com/schmitt-to-host-town-halls-across-senate-district-48"
+  },
+  {
+   "id": 16,
+   "title": "Brad Hochgesang for State Senate (home page)",
+   "publisher": "Citizens For Hochgesang (campaign)",
+   "date": "accessed 2026-10-10",
+   "url": "https://citizensforhochgesang.org/"
+  },
+  {
+   "id": 17,
+   "title": "Candidate filing closes for 2026 primary election",
+   "publisher": "Dubois County Herald",
+   "date": "2026-02",
+   "url": "https://www.duboiscountyherald.com/news/elections/candidate-filing-closes-for-2026-primary-election/article_018b9332-5781-515e-8dd3-e21038b62030.html"
+  },
+  {
+   "id": 18,
+   "title": "Property Taxes & Rural Services",
+   "publisher": "Citizens For Hochgesang (campaign)",
+   "date": "accessed 2026-10-10",
+   "url": "https://citizensforhochgesang.org/platform/property-taxes"
+  },
+  {
+   "id": 19,
+   "title": "Data Centers & Your Electric Bill",
+   "publisher": "Citizens For Hochgesang (campaign)",
+   "date": "accessed 2026-10-10",
+   "url": "https://citizensforhochgesang.org/platform/data-centers"
+  },
+  {
+   "id": 20,
+   "title": "About & Priorities",
+   "publisher": "Citizens For Hochgesang (campaign)",
+   "date": "accessed 2026-10-10",
+   "url": "https://citizensforhochgesang.org/platform"
+  },
+  {
+   "id": 21,
+   "title": "Poll shows strong opposition to Mid-States Corridor among Dubois County voters",
+   "publisher": "Dubois County Herald",
+   "date": "2025-12",
+   "url": "https://www.duboiscountyherald.com/news/local/poll-shows-strong-opposition-to-mid-states-corridor-among-dubois-county-voters/article_fd42ddfb-68e8-5bee-b189-6b6b9545c30a.html"
+  },
+  {
+   "id": 22,
+   "title": "Bradley \"Brad\" Hochgesang — candidate profile",
+   "publisher": "BallotReady",
+   "date": "accessed 2026-10-10",
+   "url": "https://www.ballotready.org/people/bradley-brad-hochgesang"
+  },
+  {
+   "id": 23,
+   "title": "Government Accountability & Transparency",
+   "publisher": "Citizens For Hochgesang (campaign)",
+   "date": "accessed 2026-10-10",
+   "url": "https://citizensforhochgesang.org/platform/accountability"
+  },
+  {
+   "id": 24,
+   "title": "Statement: State Sen. Daryl Schmitt regarding the conclusion of the 2026 legislative session",
+   "publisher": "Indiana Senate Republicans",
+   "date": "2026-02-27",
+   "url": "https://www.indianasenaterepublicans.com/statement-state-sen-daryl-schmitt-r-jasper-made-the-following-statement-regarding-the-conclusion-of-the-2026-legislative-session"
+  }
+ ]
+}
