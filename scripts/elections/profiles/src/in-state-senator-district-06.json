@@ -1,0 +1,141 @@
+{
+ "race_id": "in-state-senator-district-06",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_senate",
+ "incumbent": {
+  "name": "Rick Niemeyer",
+  "party": "Republican",
+  "summary": "Rick Niemeyer, a Republican from Lowell who owns Lowell Livestock Auction, has represented District 6 since 2014 after serving in the Indiana House from 2012 to 2014; he lost the May 5, 2026 Republican primary to Jay Starkey and is not on the November ballot {sr_niemeyer} {wiki_2026_insenate}.",
+  "record": [
+   "Chairs the Senate Environmental Affairs Committee and is ranking member of Local Government, according to the Senate Republican caucus {sr_niemeyer}.",
+   "July 2025: Gov. Mike Braun ceremonially signed Senate Enrolled Act 103, authored by Niemeyer, which directs the Indiana Department of Environmental Management to study air quality in nonattainment areas, with the caucus describing the goal as exploring whether Lake and Porter counties could leave the Chicago nonattainment area {sr_sea103}.",
+   "December 11, 2025: was one of 21 Senate Republicans who voted against the mid-decade congressional redistricting bill, which failed 19–31 {wlos_redistricting} {abc7_niemeyer}. He told ABC7 Chicago the proposed 1st District seemed too gerrymandered, would \"put in seven counties, about 180 miles long,\" and that he was \"confident that I that I made the right decision\" {abc7_niemeyer}.",
+   "January 2026: co-authored Senate Bill 146 with Sen. Dan Dernulc to make affordability the top consideration in electric utility service changes, saying \"Utility bills only continue to go up with no accountability from utility companies\"; the caucus reported the bill did not receive a committee hearing {sr_sb146}."
+  ]
+ },
+ "race_context": [
+  "Senate District 6 includes Benton and Newton counties and portions of Lake and Jasper counties {sr_niemeyer}.",
+  "This is an open seat: Jay Starkey defeated incumbent Rick Niemeyer in the May 5, 2026 Republican primary, 56.1% to 43.9% (6,340 to 4,968 votes, according to Wikipedia's tabulation) {wiki_2026_insenate}. An April 2026 Indiana Capital Chronicle tally listed the race among those where neither President Trump nor Gov. Braun had endorsed {ipm_braun_endorse}.",
+  "Kate-Lynn Holley was unopposed in the Democratic primary {wiki_2026_insenate}.",
+  "No debate or candidate forum for this race was found as of October 10, 2026.",
+  "Starkey's platform emphasizes property tax growth, utility costs tied to data centers, school choice and immigration enforcement; Holley's emphasizes housing costs, health care costs, wages, public school funding and rural infrastructure {starkey_platform} {holley_priorities}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "James (Jay) Starkey",
+   "summary": "Jay Starkey, a Republican, is a construction business owner and project manager and a Republican precinct committeeman who defeated Sen. Rick Niemeyer in the May 2026 primary {ivg_starkey} {wiki_2026_insenate}.",
+   "website": "https://www.jaystarkey4senate.com/",
+   "background": [
+    "Lists his work as owner/president of Rigid Construction since 2012 and project manager at Jason DeYoung Construction since 2021, with earlier jobs as a job foreman, crew leader and estimator {ivg_starkey}.",
+    "Graduated from Hebron High School and attended Purdue North Central {ivg_starkey}.",
+    "Coached track and field at DeMotte Christian from 2013 to 2023 {ivg_starkey}.",
+    "Has served as Republican precinct committeeman for Keener 1 since 2025 {ivg_starkey}."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Republican primary over incumbent Rick Niemeyer, 56.1% to 43.9%, according to Wikipedia's tabulation {wiki_2026_insenate}."
+   ],
+   "positions": [
+    {"topic": "Property taxes", "items": [
+     "His campaign platform supports \"policies that reduce the ridiculous growth of our property taxes\" and proposes changes to the county assessor process {starkey_platform}. In his iVoterGuide questionnaire, he listed structural property tax reform and local spending transparency as his top legislative priority {ivg_starkey}."
+    ]},
+    {"topic": "Energy & utilities", "items": [
+     "Says data centers are raising utility bills and wants companies that invest locally to cover their own power costs; listed greater oversight of utility rate setting as a legislative priority {starkey_platform} {ivg_starkey}."
+    ]},
+    {"topic": "Education", "items": [
+     "Supports school choice with funding following the student, and expanded career and technical training and apprenticeships {starkey_platform}."
+    ]},
+    {"topic": "Public safety", "items": [
+     "Opposes restrictions on gun rights and says he will back police with resources; listed enforcement against violent crime as a legislative priority {starkey_platform} {ivg_starkey}."
+    ]},
+    {"topic": "Immigration", "items": [
+     "Calls for stronger enforcement of existing immigration laws and state cooperation with federal authorities {starkey_platform}."
+    ]},
+    {"topic": "Other issues", "items": [
+     "His campaign site says he will protect life from conception and opposes reintroducing DEI and Critical Race Theory in schools {starkey_site}. He opposes tolls and taxpayer funding for a proposed stadium {starkey_platform}."
+    ]}
+   ],
+   "on_incumbent": [
+    "His platform pledges to resist state Senate leadership that he says has sided with Democrats; the campaign pages reviewed do not mention Niemeyer or redistricting by name {starkey_platform}."
+   ],
+   "plans": [
+    "Listed his legislative priorities, in order, as property tax relief and fiscal accountability, energy affordability and utility oversight, and public safety {ivg_starkey}.",
+    "Signed the U.S. Term Limits pledge {starkey_site}."
+   ],
+   "endorsements_finance": [
+    "His campaign site lists endorsements from Gov. Mike Braun, Lt. Gov. Micah Beckwith, Attorney General Todd Rokita, Americans for Prosperity Indiana, Indiana Right to Life, Indiana Family Action PAC, the Indiana State Police Alliance, the Republican Steelworkers PAC and NFIB Indiana PAC, among others {starkey_site}."
+   ],
+   "gaps": [
+    "His town of residence was not found in sources reviewed.",
+    "An April 16, 2026 Capital Chronicle tally listed no Braun endorsement in this race; Braun's endorsement listed on Starkey's site and on Wikipedia may have come later — timing not confirmed.",
+    "Wikipedia lists NFIB Indiana PAC as backing Niemeyer in the primary; Starkey's site now lists NFIB Indiana PAC — presumably a general-election endorsement, not confirmed.",
+    "No news coverage of his campaign was found; The Ballot Brief cites newsbug.info for his background, which was not reviewed.",
+    "No fundraising totals were found; the Indiana campaign finance portal could not be read."
+   ]
+  },
+  {
+   "ballot_name": "Kate-Lynn Holley",
+   "summary": "Kate-Lynn Holley, a Democrat, is a Northwest Indiana real estate agent and small-business owner, according to her campaign biography {holley_bio}.",
+   "website": "https://www.votekateforstate.com/",
+   "background": [
+    "Describes herself as \"a Northwest Indiana Realtor\" who also runs a small business, and a lifelong Northwest Indiana resident {holley_bio}.",
+    "Graduated from Gavit High School in 2006; her campaign biography says she wrestled professionally in a WWE ring in 2018 and used the earnings to pay for real estate school {holley_bio}.",
+    "Lists volunteer work with the Challenger Learning Center and collecting school supplies for families in need {holley_bio}."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Democratic primary unopposed, according to Wikipedia's tabulation {wiki_2026_insenate}."
+   ],
+   "positions": [
+    {"topic": "Housing", "items": [
+     "Says \"Too many of our neighbors are being pushed out of the places they love\" and wants policies to keep housing within reach for young families, veterans and seniors {holley_priorities}."
+    ]},
+    {"topic": "Health care", "items": [
+     "Says \"No family should ever have to choose between medicine and groceries\" and aims to lower prescription costs and expand access to care {holley_priorities}."
+    ]},
+    {"topic": "Economy & jobs", "items": [
+     "Supports \"fair wages that keep up with the cost of living\" and small businesses {holley_priorities}."
+    ]},
+    {"topic": "Education", "items": [
+     "Proposes fully funding public schools, supporting teachers and expanding early learning {holley_priorities}."
+    ]},
+    {"topic": "Infrastructure", "items": [
+     "Wants safer roads and bridges, reliable internet and water systems, without new tolls {holley_priorities}."
+    ]},
+    {"topic": "Agriculture", "items": [
+     "Says \"Family-run farms are the backbone of our communities\" and plans to support family farms, new markets and rural broadband {holley_priorities}."
+    ]}
+   ],
+   "on_incumbent": [
+    "No public statements by Holley about Niemeyer, Starkey or the seat's record were found."
+   ],
+   "plans": [
+    "Lists six priorities: housing, health care costs, jobs and wages, public schools, infrastructure, and farmers and rural communities {holley_site}."
+   ],
+   "endorsements_finance": [
+    "No endorsements are listed on her campaign site {holley_site}."
+   ],
+   "gaps": [
+    "Blue Voter Guide (search snippet only) lists her among candidates endorsed by the Indiana Rural Summit — unverified.",
+    "Her town of residence was not stated in sources reviewed.",
+    "No news coverage of her campaign was found.",
+    "No fundraising totals were found; the Indiana campaign finance portal could not be read."
+   ]
+  }
+ ],
+ "sources": {
+  "sr_niemeyer": ["Sen. Rick Niemeyer (bio and news releases)", "Indiana Senate Republicans", "2026-10", "https://www.indianasenaterepublicans.com/niemeyer"],
+  "sr_sea103": ["Niemeyer bill to ensure the state's air quality meets federal regulations ceremonially signed into law", "Indiana Senate Republicans", "2025-07-11", "https://www.indianasenaterepublicans.com/niemeyer-bill-to-ensure-the-state-s-air-quality-meets-federal-regulations-ceremonially-signed-into-law"],
+  "sr_sb146": ["Dernulc and Niemeyer author bill to prioritize utility affordability", "Indiana Senate Republicans", "2026-01-23", "https://www.indianasenaterepublicans.com/dernulc-and-niemeyer-author-bill-to-prioritize-utility-affordability"],
+  "wlos_redistricting": ["Indiana Senate votes \"NO\" on congressional redistricting", "WLOS (Sinclair)", "2025-12-11", "https://wlos.com/news/nation-world/campaign-2026-vote-for-indiana-congressional-redistricting-underway-congress"],
+  "abc7_niemeyer": ["Republican state Sen. Niemeyer explains his vote against Indiana redistricting plan backed by Trump", "ABC7 Chicago via Yahoo News", "2025-12-12", "https://www.yahoo.com/news/articles/republican-state-sen-niemeyer-explains-232315897.html"],
+  "wiki_2026_insenate": ["2026 Indiana Senate election", "Wikipedia", "2026-10", "https://en.wikipedia.org/wiki/2026_Indiana_Senate_election"],
+  "ipm_braun_endorse": ["Braun mostly echoes Trump's GOP primary picks in redistricting vote fallout", "Indiana Capital Chronicle via IPM", "2026-04-16", "https://www.ipm.org/news/2026-04-16/braun-mostly-echoes-trumps-gop-primary-picks-in-redistricting-vote-fallout"],
+  "starkey_site": ["Jay Starkey for Indiana Senate", "Starkey campaign", "2026-10", "https://www.jaystarkey4senate.com/"],
+  "starkey_platform": ["Platform", "Starkey campaign", "2026-10", "https://www.jaystarkey4senate.com/platform"],
+  "ivg_starkey": ["James (Jay) Starkey – candidate profile and questionnaire", "iVoterGuide", "2026-10", "https://ivoterguide.com/candidate/90397/race/30605/election/1456"],
+  "holley_site": ["Kate-Lynn Holley for Indiana Senate District 6", "Holley campaign", "2026-10", "https://www.votekateforstate.com/"],
+  "holley_bio": ["Meet Kate", "Holley campaign", "2026-10", "https://www.votekateforstate.com/kate/"],
+  "holley_priorities": ["My Priorities", "Holley campaign", "2026-10", "https://www.votekateforstate.com/my-priorities/"]
+ }
+}

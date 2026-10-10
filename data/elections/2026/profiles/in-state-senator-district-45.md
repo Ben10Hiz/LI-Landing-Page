@@ -37,7 +37,7 @@ Chris Garten, a Republican from Charlestown, has represented Senate District 45 
 
 - Senate District 45 covers Clark County and part of Floyd County in southern Indiana [3].
 - Garten was unopposed in the Republican primary; Nick Marshall won the Democratic nomination in the May 5, 2026 primary, and Larry Mahaney was nominated at the Libertarian Party convention [15, 16].
-- Marshall ran for this seat against Garten in 2022 [17].
+- Marshall also challenged Garten for this seat in the previous cycle, entering the race in October 2021 after redistricting placed Jeffersonville in District 45 [17].
 - The race is drawing attention because Garten is his caucus's choice to lead the Senate starting in 2027 [15].
 - No debates or forums for this race were found in published coverage as of October 10, 2026 [16].
 
@@ -128,7 +128,7 @@ Larry Mahaney is the Libertarian nominee; little public information about his ca
 
 ## Nick Marshall
 
-Nick Marshall, the Democratic nominee, is a foster-care advocate from Jeffersonville making his second run for the seat [17, 22].
+Nick Marshall, the Democratic nominee, is a foster-care advocate from Jeffersonville who also ran for the seat in the previous cycle [17, 22].
 
 Campaign website: https://www.hoosiersfornickmarshall.com/
 
