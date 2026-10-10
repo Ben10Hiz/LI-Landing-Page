@@ -1,0 +1,23 @@
+{
+ "race_id": "in-office-school-board",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review. This race has not been researched individually yet; this page explains the office.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "How the seat is elected: each school corporation's organization plan decides whether members are elected at large or by district, so check whether your ballot lists a district seat or an at-large seat {in_guide}.",
+  "What the board has been deciding: the Open Door Law requires public agencies such as school boards to take official action openly, so the school corporation's board meeting agendas and minutes are a starting point for recent votes on budgets, referendums, policies and contracts {ic_5_14_1_5_1}{pac}.",
+  "Party labels: because there is no school board primary, more than one candidate in a race may list the same party, and a straight-ticket vote does not count for school board races {chalkbeat_2026_primary}.",
+  "Where to compare candidates: the Indiana Election Division publishes the official candidate list, and some local news outlets publish voter guides, such as the Chalkbeat Indiana and WFYI guide to the Indianapolis Public Schools board race, for which the outlets sent survey questions to each candidate {in_list}{chalkbeat_2026_ips_guide}."
+ ],
+ "candidates": [],
+ "sources": {
+  "chalkbeat_2026_ips_guide": [
+   "Voter guide 2026: Meet the 15 candidates vying for 5 seats on the Indianapolis Public Schools board",
+   "Chalkbeat Indiana / WFYI",
+   "2026-09-10",
+   "https://www.chalkbeat.org/indiana/2026/09/10/voter-guide-indianapolis-public-schools-school-board-2026/"
+  ]
+ }
+}
