@@ -1,0 +1,321 @@
+{
+ "race_id": "in-state-representative-district-044",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": {
+  "title": "Indiana State Representative",
+  "summary": "Members of the Indiana House of Representatives write and vote on state laws as part of the Indiana General Assembly. The House has 100 members, each representing one district for a two-year term [1].",
+  "facts": [
+   {
+    "label": "Term",
+    "value": "2 years [1]"
+   },
+   {
+    "label": "Term limit",
+    "value": "None [1]"
+   },
+   {
+    "label": "Seats",
+    "value": "100 [1]"
+   },
+   {
+    "label": "On the 2026 ballot",
+    "value": "All 100 [2]"
+   }
+  ],
+  "duties": [
+   "Introduces and votes on state legislation as one of the two chambers of the Indiana General Assembly [1].",
+   "Must be at least 21 years old when taking office and have lived in the district for at least a year [1]."
+  ],
+  "recent_changes": []
+ },
+ "incumbent": {
+  "name": "Beau Baird",
+  "party": "Republican",
+  "summary": "Beau Baird, a lifelong Putnam County resident, home health agency chief financial officer and horse breeder, has represented House District 44 since he was first elected in 2018 [3]. He chairs the House Environmental Affairs Committee and also serves on the Agriculture and Rural Development and Rules and Legislative Procedures committees [3].",
+  "record": [
+   "Committees: Environmental Affairs (chair since January 2025); Agriculture and Rural Development; Rules and Legislative Procedures; State Fair Advisory Committee [3]. 2026 interim: chairs the Interim Study Committee on Environmental Affairs [3]. Co-chairs the bipartisan Indiana Future Caucus, per the caucus [3].",
+   "2023 session: Authored HEA 1601, letting certified forestry operators who follow DNR best management practices skip certain DNR and IDEM permits in small watersheds; signed in May 2023 [4].",
+   "2025 session: Authored HEA 1555, creating a limited-scope medical license for qualified international medical graduates to practice in rural, underserved areas [5], and HB 1660, allowing excused school absences for FFA and 4-H events; both passed the General Assembly in April 2025, per the caucus [6].",
+   "April 10, 2025: Voted yes when the House passed SEA 1, the 2025 property-tax law, 65-29 [7]. April 25, 2025: Voted yes on the 2025 state budget conference report (HEA 1001), adopted 66-27 [8].",
+   "Dec. 5, 2025: Voted yes when HB 1032, the mid-decade congressional redistricting bill, passed the House 57-41 [9].",
+   "2026 session: Co-authored HEA 1165, which raises pet theft to a felony and strengthens animal cruelty and neglect provisions; ceremonially signed April 29, 2026 [10]."
+  ]
+ },
+ "race_context": [
+  "House District 44 includes all of Putnam County and part of Montgomery County [3, 11]. (Owen County is not part of the district.)",
+  "Baird won the May 5, 2026 Republican primary over Clint Cooper, 3,471 votes (61.5%) to 2,171 (38.5%) [12]. Ahead of the primary, both President Trump and Gov. Mike Braun endorsed Baird [13].",
+  "Kauffman was the only Democrat listed in the primary [14]; both are on the November ballot [2]. Baird was re-elected without opposition in 2024 [14].",
+  "Key differences: Baird voted for the 2025 property-tax law, the 2025 budget and the 2025 redistricting bill [7, 8, 9]; Kauffman criticizes the property-tax changes as favoring corporations, opposes the mid-decade redistricting effort, and opposes requiring sheriffs to assist federal immigration enforcement without funding [15, 16].",
+  "No debate or forum for this race was found."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Beau Baird",
+   "summary": "Beau Baird is the Republican incumbent, first elected in 2018, and chairs the House Environmental Affairs Committee [3]. His recent bills have dealt with rural health care, agriculture education and forestry permitting [5, 6, 4].",
+   "website": null,
+   "background": [
+    "Chief financial officer of Indiana Home Care Plus, a home health agency; owns Baird Ranch, a quarter horse breeding operation near Greencastle [3].",
+    "Greencastle High School and Purdue University graduate; serves on the American Quarter Horse Association international board and chairs the Putnam County Republican Party [3]."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Republican primary over Clint Cooper with 61.5% [12]."
+   ],
+   "positions": [
+    {
+     "topic": "Property taxes",
+     "items": [
+      "Voted for SEA 1 (2025) [7]; said it \"takes meaningful steps to provide relief to homeowners, farmers, veterans and fixed-income seniors\" [17]."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "On HEA 1555: \"Access to quality health care remains a critical issue for Hoosiers, especially in rural communities\" [5]."
+     ]
+    },
+    {
+     "topic": "Agriculture",
+     "items": [
+      "On HB 1660: \"4-H and FFA equip students with essential skills that prepare them for success beyond the classroom\" [6].",
+      "Said HEA 1601 \"will cut red tape for Hoosier loggers\" [4]."
+     ]
+    },
+    {
+     "topic": "Public safety",
+     "items": [
+      "On HEA 1165: \"This gives law enforcement the tools they need to hold animal abusers accountable\" [10]."
+     ]
+    },
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "Voted for HB 1032, the 2025 congressional redistricting bill [9]. No public statement from Baird on the vote was found."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No statements by Baird about Kauffman were found."
+   ],
+   "plans": [
+    "After the 2026 session said lawmakers focused on \"practical solutions that lower costs for Hoosier families\" [18]."
+   ],
+   "endorsements_finance": [
+    "Endorsed by President Trump and Gov. Braun in the 2026 primary [13]. No fundraising figures were found."
+   ],
+   "gaps": [
+    "Unverified (Wikipedia list only): endorsements from Indiana Farm Bureau AgELECT PAC, NFIB Indiana PAC and the NRA Political Victory Fund.",
+    "Whether HB 1660 was signed into law was not separately confirmed.",
+    "No statements on data centers or energy policy found despite his environmental committee chair role."
+   ]
+  },
+  {
+   "ballot_name": "Kelsey Kauffman",
+   "summary": "Kelsey Kauffman is a Greencastle educator who founded a college program at the Indiana Women's Prison and has taught at DePauw University [16, 19]. Her campaign focuses on public schools, rural health care, property taxes, child care and immigration enforcement [15].",
+   "website": "https://www.kauffmanindiana.com/",
+   "background": [
+    "Holds a Harvard doctorate in education; has taught at DePauw University and, through Indiana State University, in three Indiana prisons; founded and directed the Higher Education Program at the Indiana Women's Prison from 2012 to 2017 [19].",
+    "Directed legislative education programs at the Statehouse for DePauw students and for formerly incarcerated people [19].",
+    "Founded the Greencastle Summer Enrichment Program, directed Putnam County CASA in the 1990s and served as president of the Greencastle NAACP [19]. Has lived in Greencastle since 1987 [16]."
+   ],
+   "path_to_ballot": [
+    "Announced in January 2026 [16]; the only Democrat listed in the May 5, 2026 primary [14]."
+   ],
+   "positions": [
+    {
+     "topic": "Property taxes",
+     "items": [
+      "Says that when \"families with modest homes pay more while corporations get $2 million breaks, that is not relief\" [15]."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Says she will protect local schools from \"Statehouse budget games that put corporate tax breaks ahead of our children\" [15]."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Wants to keep rural hospitals open and expand mental health services; says \"No family should have to drive an hour to see a doctor\" [15].",
+      "Calls health care a basic right but says the system cannot move to Medicare for All overnight and proposes incremental steps on costs [20]."
+     ]
+    },
+    {
+     "topic": "Child care",
+     "items": [
+      "Says Putnam County has fewer than 10 licensed child care options, three of which accept infants [15]."
+     ]
+    },
+    {
+     "topic": "Immigration",
+     "items": [
+      "Says enforcement is a federal responsibility and opposes requiring county sheriffs to act as federal agents without funding or training [15]."
+     ]
+    },
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "Opposes the 2025 mid-decade redistricting effort, according to the Banner-Graphic [16]."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "The Banner-Graphic reported that she expressed respect for Baird's service and civility and said, \"This campaign is not about demonizing individuals\" [16]."
+   ],
+   "plans": [
+    "Said the General Assembly \"may be the most important line of defense available to protect Hoosiers\" from harmful federal policies; joined the Indiana Rural Summit Coalition of candidates supporting public education, affordable health care and living wages [16]."
+   ],
+   "endorsements_finance": [
+    "No endorsements are listed on her website [11]. No fundraising figures were found."
+   ],
+   "gaps": [
+    "Little news coverage beyond her January 2026 announcement was found.",
+    "No statements on energy, data centers or agriculture policy found."
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": 1,
+   "title": "Indiana House of Representatives",
+   "publisher": "Wikipedia",
+   "date": "accessed 2026-10-10",
+   "url": "https://en.wikipedia.org/wiki/Indiana_House_of_Representatives"
+  },
+  {
+   "id": 2,
+   "title": "2026 General Election Candidate List",
+   "publisher": "Indiana Election Division",
+   "date": "2026-09-22",
+   "url": "https://www.in.gov/sos/elections/candidate-information/"
+  },
+  {
+   "id": 3,
+   "title": "State Rep. Beau Baird: biography and committees",
+   "publisher": "Indiana House Republican Caucus",
+   "date": "accessed 2026-10-10",
+   "url": "https://www.indianahouserepublicans.com/members/general/beau-baird/"
+  },
+  {
+   "id": 4,
+   "title": "Bill authored by Baird to support responsible Hoosier loggers ceremonially signed into law",
+   "publisher": "Indiana House Republican Caucus",
+   "date": "2023-05-23",
+   "url": "https://www.indianahouserepublicans.com/news/press-releases/bill-authored-by-baird-bill-to-support-responsible-hoosier-loggers-ceremonially-signed-into-law/"
+  },
+  {
+   "id": 5,
+   "title": "Rep. Baird's legislation to encourage more medical professionals to practice in rural communities heads to governor",
+   "publisher": "Indiana House Republican Caucus",
+   "date": "2025-04-23",
+   "url": "https://www.indianahouserepublicans.com/news/press-releases/rep.-baird-s-legislation-to-encourage-more-medical-professionals-to-practice-in-rural-communities-heads-to-governor/"
+  },
+  {
+   "id": 6,
+   "title": "Baird's legislation to provide FFA, 4-H students with excused school absences heads to governor",
+   "publisher": "Indiana House Republican Caucus",
+   "date": "2025-04-01",
+   "url": "https://www.indianahouserepublicans.com/news/press-releases/baird-s-legislation-to-provide-ffa-4-h-students-with-excused-school-absences-heads-to-governor/"
+  },
+  {
+   "id": 7,
+   "title": "House Roll Call 433: SB 1 (Local government finance), third reading",
+   "publisher": "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "date": "2025-04-10",
+   "url": "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  },
+  {
+   "id": 8,
+   "title": "House Roll Call 576: HB 1001 (State budget), conference committee report",
+   "publisher": "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "date": "2025-04-25",
+   "url": "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  },
+  {
+   "id": 9,
+   "title": "House Roll Call 28: HB 1032 (Redistricting), third reading",
+   "publisher": "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "date": "2025-12-05",
+   "url": "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  },
+  {
+   "id": 10,
+   "title": "Governor ceremonially signs bill co-authored by Baird to combat animal cruelty",
+   "publisher": "Indiana House Republican Caucus",
+   "date": "2026-05-01",
+   "url": "https://www.indianahouserepublicans.com/news/press-releases/governor-ceremonially-signs-bill-co-authored-by-baird-to-combat-animal-cruelty/"
+  },
+  {
+   "id": 11,
+   "title": "Kelsey Kauffman for Indiana House District 44 (campaign website)",
+   "publisher": "Kauffman campaign",
+   "date": "accessed 2026-10-10",
+   "url": "https://www.kauffmanindiana.com/"
+  },
+  {
+   "id": 12,
+   "title": "Primary election results (May 2026)",
+   "publisher": "Banner-Graphic (via Sun-Commercial)",
+   "date": "2026-05-07",
+   "url": "https://www.suncommercial.com/banner_graphic/article_e8030a44-12d2-5021-8a01-bb482df32749.html"
+  },
+  {
+   "id": 13,
+   "title": "Braun mostly echoes Trump's GOP primary picks in redistricting vote fallout",
+   "publisher": "Indiana Capital Chronicle (via IPM/WFIU)",
+   "date": "2026-04-16",
+   "url": "https://www.ipm.org/news/2026-04-16/braun-mostly-echoes-trumps-gop-primary-picks-in-redistricting-vote-fallout"
+  },
+  {
+   "id": 14,
+   "title": "2026 Indiana House of Representatives election",
+   "publisher": "Wikipedia",
+   "date": "accessed 2026-10-10",
+   "url": "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  },
+  {
+   "id": 15,
+   "title": "Issues",
+   "publisher": "Kauffman campaign",
+   "date": "accessed 2026-10-10",
+   "url": "https://www.kauffmanindiana.com/issues"
+  },
+  {
+   "id": 16,
+   "title": "Kelsey Kauffman announces candidacy for Indiana House District 44",
+   "publisher": "Banner-Graphic (via Sun-Commercial)",
+   "date": "2026-01-08",
+   "url": "https://www.suncommercial.com/banner_graphic/article_83aab625-c92d-5b3c-84c7-073ce10aeab3.html"
+  },
+  {
+   "id": 17,
+   "title": "State Rep. Beau Baird: Legislation delivering robust property tax relief and reform to Hoosiers signed into law",
+   "publisher": "Indiana House Republican Caucus",
+   "date": "2025-04-17",
+   "url": "https://www.indianahouserepublicans.com/news/press-releases/state-rep.-beau-baird-legislation-delivering-robust-property-tax-relief-and-reform-to-hoosiers-signed-into-law/"
+  },
+  {
+   "id": 18,
+   "title": "Baird: Legislative session ends with new laws to help Hoosiers",
+   "publisher": "Indiana House Republican Caucus",
+   "date": "2026-03-24",
+   "url": "https://www.indianahouserepublicans.com/news/press-releases/baird-legislative-session-ends-with-new-laws-to-help-hoosiers/"
+  },
+  {
+   "id": 19,
+   "title": "About Kelsey",
+   "publisher": "Kauffman campaign",
+   "date": "accessed 2026-10-10",
+   "url": "https://www.kauffmanindiana.com/about"
+  },
+  {
+   "id": 20,
+   "title": "News",
+   "publisher": "Kauffman campaign",
+   "date": "accessed 2026-10-10",
+   "url": "https://www.kauffmanindiana.com/news"
+  }
+ ]
+}

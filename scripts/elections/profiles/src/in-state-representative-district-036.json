@@ -1,0 +1,278 @@
+{
+ "race_id": "in-state-representative-district-036",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Kyle Pierce",
+  "party": "Republican",
+  "summary": "Kyle Pierce, an Anderson Republican, was first elected to House District 36 in November 2022 {caucus_pierce} {ipr_primary}. He is vice chair of the Financial Institutions Committee and serves on the Elections and Apportionment and Environmental Affairs committees {caucus_pierce}; his authored laws have focused on genetic-data privacy, digital assets and proxy advisory firms {caucus_hea1521} {caucus_hea1042}.",
+  "record": [
+   "Committees: Financial Institutions (vice chair); Elections and Apportionment; Environmental Affairs {caucus_pierce}.",
+   "Feb. 2024: Spoke in support of SB 135, which set a June 30, 2025 deadline for local governments that had not redistricted after the 2020 census and withholds officials' pay if they miss it; he noted Anderson was being sued for not redistricting, and the bill passed the House 90-0 {citizen_sb135}.",
+   "Feb. 2025: The House passed his HB 1643, which the caucus says updates campaign-finance reporting, expands electronic filing and creates an Election Division database for local and school board candidates {caucus_hb1643}.",
+   "2025 session: Authored HEA 1521, which requires consumer genetic-testing companies to get consent before using or sharing genetic data and bars sharing it with insurers, data brokers or employers; ceremonially signed Aug. 27, 2025 {caucus_hea1521}.",
+   "April 10, 2025: Voted yes when the House passed SEA 1, the 2025 property-tax law, 65-29 {rc_sea1_433}. April 25, 2025: Voted yes on the 2025 state budget conference report (HEA 1001), adopted 66-27 {rc_hb1001_576}.",
+   "Aug. 2025: Declined to comment to The Herald Bulletin on mid-decade congressional redistricting {hb_redistricting}. Dec. 5, 2025: Voted yes on HB 1032, the mid-decade congressional redistricting bill, which passed the House 57-41 {rc_hb1032_28}; the Senate rejected it 31-19 on Dec. 11 {wndu_senate_rejects}.",
+   "2026 session: Authored HEA 1042, requiring retirement plans with self-directed brokerage accounts to offer at least one cryptocurrency option and protecting self-custody of digital assets and crypto mining subject to local zoning, and HEA 1273, adding transparency requirements for proxy advisory firms {caucus_hea1042} {caucus_hea1042_sign}."
+  ]
+ },
+ "race_context": [
+  "House District 36 covers part of Madison County, including Anderson {caucus_pierce} {votetownsend}.",
+  "Pierce has held the seat since 2022, when he defeated a 10-term Democratic incumbent {ipr_primary}.",
+  "May 5, 2026 primaries: Pierce was unopposed for the Republican nomination {hb_primary}; Kim Townsend won the Democratic nomination with 3,796 votes (87.7%) to 530 for Nouhad Melki II {wiki_2026} {hb_primary}.",
+  "The Democratic Legislative Campaign Committee lists Townsend as a Target Races candidate {dlcc_townsend}.",
+  "Key differences: Pierce's campaign emphasizes lower taxes, cutting regulation, school choice and financial-technology policy {pierce_site}; Townsend's emphasizes housing access, health care affordability and public school investment {votetownsend}. Pierce voted for the 2025 budget, the 2025 property-tax law and the 2025 redistricting bill {rc_hb1001_576} {rc_sea1_433} {rc_hb1032_28}.",
+  "No debate or forum for this race was found."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Kyle Pierce",
+   "summary": "Kyle Pierce is the Republican incumbent, seeking a third term {caucus_pierce}. His legislative work has centered on financial regulation, digital assets and data privacy {caucus_hea1521} {caucus_hea1042}.",
+   "website": "https://pierceforindiana.com/",
+   "background": [
+    "Bachelor's degree in political science from Ball State University and a law degree from the IU McKinney School of Law; works as a nonprofit development manager and consultant; serves on the Anderson Paramount Theatre board; lives in Anderson {caucus_pierce}.",
+    "BallotReady lists his current job as director of finance at IARCA (2024–present) and earlier work as an Indiana House legislative assistant and in development roles at the Ball State University Foundation and Greater Muncie Habitat for Humanity {br_pierce}."
+   ],
+   "path_to_ballot": [
+    "Unopposed in the May 5, 2026 Republican primary {hb_primary}."
+   ],
+   "positions": [
+    {
+     "topic": "Property taxes",
+     "items": [
+      "Says he supports \"responsible budgets, lower taxes, and property-tax reforms that provide meaningful relief to homeowners\" {pierce_site}; voted for SEA 1 (2025) {rc_sea1_433}."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Supports a competitive tax environment, affordable energy and fewer regulatory barriers, and says economic-development programs should produce measurable benefits for taxpayers {pierce_site}.",
+      "Supports \"clear and responsible rules\" for new financial technologies {pierce_site}; said HEA 1042 lets Hoosiers \"participate in digital asset markets with clarity and confidence\" {caucus_hea1042_sign}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Supports school choice, curriculum transparency, apprenticeships, trade schools and work-based learning {pierce_site}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Supports price transparency and competition and improved access to mental and behavioral health services {pierce_site}."
+     ]
+    },
+    {
+     "topic": "Data privacy",
+     "items": [
+      "Said of HEA 1521: \"Hoosiers should never have to worry about their most personal information being used against them\" {caucus_hea1521}."
+     ]
+    },
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "Says he supports \"clear election laws, consistent administration, and safeguards that protect election integrity\" {pierce_site}; voted for HB 1032 (2025) {rc_hb1032_28}.",
+      "Said of HB 1643: \"Candidates and voters deserve a system that is straightforward, reliable and safe\" {caucus_hb1643}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No statements by Pierce about Townsend were found."
+   ],
+   "plans": [
+    "His campaign site lists priorities including lowering costs, cutting bureaucracy, creating higher-paying jobs and expanding career and technical education {pierce_site}."
+   ],
+   "endorsements_finance": [
+    "No 2026 endorsements or fundraising figures were found."
+   ],
+   "gaps": [
+    "Search snippets said the Indiana Capital Chronicle voter guide reports Pierce supported mid-decade redistricting and lists his campaign issues; the guide returned 403 and was not read.",
+    "His campaign site's 'Kyle's Record' page was not reviewed.",
+    "No fundraising data found."
+   ]
+  },
+  {
+   "ballot_name": "Kimberly (Kim) Townsend",
+   "summary": "Kim Townsend leads the Anderson Housing Authority and is the Democratic nominee {ipr_primary}. Her campaign focuses on housing, health care, education and community safety {votetownsend}.",
+   "website": "https://votefortownsend.com/",
+   "background": [
+    "Executive director (her campaign says CEO) of the Housing Authority of the City of Anderson since 2018; previously a City of Anderson project contract specialist (1994–2018), Madison County Youth Center JDAI coordinator and Madison County Community Health Center project coordinator {br_townsend} {votetownsend}.",
+    "Her campaign says the agency had a failing HUD designation when she took over and has since secured more than $4 million in grants {votetownsend}."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Democratic primary with 87.7% over Nouhad Melki II {wiki_2026} {hb_primary}.",
+    "Before the primary, a federal Hatch Act challenge argued she could not run while employed by a federally funded housing authority; IPR reports the challenge was denied, and she says she intends to keep the job if elected {ipr_primary}."
+   ],
+   "positions": [
+    {
+     "topic": "Housing",
+     "items": [
+      "Says \"Every family in Madison County deserves a safe, stable place to call home\" and pledges to expand housing access and protect residents from displacement {votetownsend}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Says she will \"champion policies that make quality care accessible and affordable for all Hoosiers\" {votetownsend}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Supports investing in schools and educators {votetownsend}."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Supports local businesses, attracting investment and creating good-paying jobs {votetownsend}; IPR reports her campaign will focus on affordability and rising housing costs {ipr_primary}."
+     ]
+    },
+    {
+     "topic": "Public safety",
+     "items": [
+      "Favors \"community investment, youth programs, and collaborative approaches to public safety\" {votetownsend}."
+     ]
+    },
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "Lists voter engagement as a priority, saying every eligible voter should have access and information to participate {votetownsend}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "No direct statements about Pierce were found. After the primary she said many people \"want to see something different,\" per The Herald Bulletin's account {hb_primary}; her site frames the race as part of an effort to end the Republican supermajority {votetownsend}."
+   ],
+   "plans": [
+    "Says: \"I've spent 31 years showing up for this community. Now it's time to take our story — and our needs — to the Statehouse\" {votetownsend}."
+   ],
+   "endorsements_finance": [
+    "Named a Target Races candidate by the Democratic Legislative Campaign Committee {dlcc_townsend} {votetownsend}. No fundraising figures were found."
+   ],
+   "gaps": [
+    "Search snippets said she told the Indiana Capital Chronicle she opposes mid-decade or partisan redistricting and listed public school funding as a priority; that guide returned 403 and was not read.",
+    "No local news coverage of her positions beyond the primary-night stories was found.",
+    "No fundraising data found."
+   ]
+  }
+ ],
+ "sources": {
+  "caucus_pierce": [
+   "State Rep. Kyle Pierce: biography and committees",
+   "Indiana House Republican Caucus",
+   "accessed 2026-10-10",
+   "https://www.indianahouserepublicans.com/members/general/kyle-pierce/"
+  ],
+  "caucus_hea1521": [
+   "Rep. Pierce: Governor signs bill to protect consumer genetic data",
+   "Indiana House Republican Caucus",
+   "2025-08-29",
+   "https://www.indianahouserepublicans.com/news/press-releases/rep.-pierce-governor-signs-bill-to-protect-consumer-genetic-data/"
+  ],
+  "caucus_hb1643": [
+   "House approves Rep. Pierce's bill to improve campaign finance transparency",
+   "Indiana House Republican Caucus",
+   "2025-02-07",
+   "https://www.indianahouserepublicans.com/news/press-releases/house-approves-rep.-pierce-s-bill-to-improve-campaign-finance-transparency/"
+  ],
+  "caucus_hea1042": [
+   "Rep. Pierce's legislation protecting Hoosier investors signed into law",
+   "Indiana House Republican Caucus",
+   "2026-03-18",
+   "https://www.indianahouserepublicans.com/news/press-releases/rep.-pierce-s-legislation-protecting-hoosier-investors-signed-into-law/"
+  ],
+  "caucus_hea1042_sign": [
+   "Governor ceremonially signs bills authored by Rep. Pierce to embrace emerging financial technology and strengthen transparency",
+   "Indiana House Republican Caucus",
+   "2026-05-08",
+   "https://www.indianahouserepublicans.com/news/press-releases/governor-ceremonially-signs-bills-authored-by-rep.-pierce-to-embrace-emerging-financial-technology-and-strengthen-transparency/"
+  ],
+  "citizen_sb135": [
+   "Redistricting deadline bill sails through Indiana House, amendment for nonpartisan process fails",
+   "The Indiana Citizen",
+   "2024-02-21",
+   "https://indianacitizen.org/redistricting-deadline-bill-sails-through-indiana-house-amendment-for-nonpartisan-process-fails/"
+  ],
+  "hb_redistricting": [
+   "Local political observers believe redistricting unnecessary",
+   "The Herald Bulletin (via Yahoo News)",
+   "2025-08-15",
+   "https://www.yahoo.com/news/articles/local-political-observers-believe-redistricting-222500714.html"
+  ],
+  "ipr_primary": [
+   "Townsend wins Democrat candidacy for District 36 state Representative seat",
+   "Indiana Public Radio",
+   "2026-05-05",
+   "https://indianapublicradio.org/news/2026/05/townsend-wins-democrat-candidacy-for-district-36-state-representative-seat/"
+  ],
+  "hb_primary": [
+   "Townsend surpasses Melki for Indiana State Representative District 36",
+   "The Herald Bulletin",
+   "2026-05-06",
+   "https://www.heraldbulletin.com/news/local_news/townsend-surpasses-melki-for-indiana-state-representative-district-36/article_89310566-94ad-4b07-98da-64f55cab117d.html"
+  ],
+  "pierce_site": [
+   "Kyle Pierce for Indiana (campaign website)",
+   "Pierce for Indiana",
+   "accessed 2026-10-10",
+   "https://pierceforindiana.com/"
+  ],
+  "br_pierce": [
+   "Kyle Pierce",
+   "BallotReady",
+   "accessed 2026-10-10",
+   "https://www.ballotready.org/people/kyle-pierce-e45ff668-c586-483b-b87f-58322dffd407"
+  ],
+  "votetownsend": [
+   "Kim Townsend for Indiana State Representative HD-36 (campaign website)",
+   "Committee to Elect Kim Townsend",
+   "accessed 2026-10-10",
+   "https://votefortownsend.com/"
+  ],
+  "br_townsend": [
+   "Kimberly \"Kim\" Townsend",
+   "BallotReady",
+   "accessed 2026-10-10",
+   "https://www.ballotready.org/people/kimberly-kim-townsend"
+  ],
+  "dlcc_townsend": [
+   "Kimberly Townsend",
+   "Democratic Legislative Campaign Committee",
+   "accessed 2026-10-10",
+   "https://www.dlcc.org/?p=19170"
+  ],
+  "rc_hb1032_28": [
+   "House Roll Call 28: HB 1032 (Redistricting), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-12-05",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  ],
+  "rc_sea1_433": [
+   "House Roll Call 433: SB 1 (Local government finance), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-10",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  ],
+  "rc_hb1001_576": [
+   "House Roll Call 576: HB 1001 (State budget), conference committee report",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-25",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  ],
+  "wiki_2026": [
+   "2026 Indiana House of Representatives election",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  ],
+  "wndu_senate_rejects": [
+   "Indiana Senate rejects redistricting bill",
+   "WNDU / The Associated Press",
+   "2025-12-11",
+   "https://www.wndu.com/2025/12/11/indiana-senate-rejects-redistricting-bill"
+  ]
+ }
+}

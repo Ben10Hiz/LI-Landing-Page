@@ -1,0 +1,214 @@
+{
+ "race_id": "in-state-representative-district-058",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Michelle Davis",
+  "party": "Republican",
+  "summary": "Rep. Michelle Davis (R-Whiteland) has held House District 58 since 2020 and is assistant majority floor leader and vice chair of the Education Committee, per the House Republican caucus {davis_bio} {wiki_2026}. She is not seeking re-election: she won the May 5, 2026 Republican primary for State Senate District 41, defeating Sen. Greg Walker, so the House seat is open {ipm_davis_wins}.",
+  "record": [
+   "Committees: Education (vice chair); Commerce, Small Business and Economic Development; Judiciary {davis_bio}. Authored House Enrolled Act 1195 (2026), which expands and extends the high school equivalency pilot program, per the caucus {davis_hea1195}.",
+   "April 10, 2025: Voted yes when the House passed SEA 1, the 2025 property-tax law, 65-29 {rc_sea1_433}. April 25, 2025: Voted no on the 2025 state budget conference report (HEA 1001), which the House adopted 66-27 {rc_hb1001_576}.",
+   "Dec. 5, 2025: Voted yes on HB 1032, the mid-decade congressional redistricting bill, which passed the House 57-41 {rc_hb1032_28}. She later said \"the Senate should have stepped up and done the right thing for Hoosiers\" after the Senate rejected the plan {ipm_walker_primary}."
+  ]
+ },
+ "race_context": [
+  "House District 58 covers part of Johnson County, including Whiteland, New Whiteland and Greenwood, per the House Republican caucus {davis_bio}.",
+  "Open seat: incumbent Michelle Davis ran for State Senate District 41 instead of re-election and won that Republican primary {ipm_davis_wins} {wiki_2026}.",
+  "May 5, 2026 Republican primary (certified): John Reed 1,691 votes (about 42.6%), Ed Brickley 1,331 (33.5%), former state Rep. John Young 952 (24.0%) {enr_primary}. Democratic primary: Michelle Hennessee Sears 1,330 (about 75.3%), Eric Reingardt 437 (24.7%) {enr_primary}.",
+  "Davis was re-elected with 67.4% of the vote in 2024, per Wikipedia's compilation {wiki_2026}.",
+  "No debate or candidate forum for this race was found.",
+  "Key differences: Reed has published positions on property taxes, education, public safety, abortion and guns {reed_home} {ivg_reed}; no issue statements from Hennessee Sears were found, so policy differences cannot be compared from available sources."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "John Reed",
+   "summary": "John Reed is a Greenwood minister and longtime administrator at Indiana Baptist College who won a three-way Republican primary {reed_about} {enr_primary}. He lists property tax reform, bail limits for violent offenders and education among his priorities {ivg_reed}.",
+   "website": "https://reedforindiana.com",
+   "background": [
+    "Minister and college administrator; has held administrative roles at Indiana Baptist College for more than ten years, including about eight as dean of students, per his campaign {reed_about}. His iVoterGuide profile also lists a 2026 role as assistant to the pastor at New Life Baptist Church {ivg_reed}.",
+    "Holds bachelor's (2015), master's (2017) and Ph.D. (2025) degrees from Indiana Baptist College and Seminary in Greenwood {reed_about} {ivg_reed}.",
+    "Has lived in Greenwood for more than 15 years {reed_about}. Has not held elected office {ivg_reed}."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Republican primary with 1,691 votes over Ed Brickley (1,331) and former Rep. John Young (952) {enr_primary}."
+   ],
+   "positions": [
+    {
+     "topic": "Property taxes",
+     "items": [
+      "Says he wants property tax relief while keeping resources for local governments {reed_home}; lists property tax reform as his second legislative priority {ivg_reed}."
+     ]
+    },
+    {
+     "topic": "Budget",
+     "items": [
+      "Supports continued fiscal restraint and a balanced budget {reed_home}; wrote that \"a balanced budget has been the norm under Republican leadership now for over a decade\" without naming specific cuts {ivg_reed}."
+     ]
+    },
+    {
+     "topic": "Public safety",
+     "items": [
+      "Lists \"no bail for violent offenders\" as his top legislative priority {ivg_reed}. Says he supports police and firefighters and wants Johnson County's prosecution approach extended to Marion County {reed_home}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Supports instruction in traditional core subjects, better pay and resources for teachers, and parental choice among public, charter, private, home and technical schools {reed_home}. Opposes guaranteeing taxpayer-funded college {ivg_reed}."
+     ]
+    },
+    {
+     "topic": "Abortion",
+     "items": [
+      "Supports legal protection for human life from conception and opposes government funding for abortion providers {ivg_reed}. Says he is the only candidate in the race endorsed by Indiana Right to Life {reed_home}."
+     ]
+    },
+    {
+     "topic": "Guns",
+     "items": [
+      "Says he will oppose efforts to restrict gun ownership {reed_home}; supports allowing teachers to carry guns at school {ivg_reed}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Opposes a government guarantee of health insurance; supports redirecting subsidies to health savings accounts, price transparency and holding insurers accountable for claim denials {ivg_reed}."
+     ]
+    },
+    {
+     "topic": "Other",
+     "items": [
+      "Opposes legalizing recreational marijuana and supports photo ID for voting {ivg_reed}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Open seat. Reed's campaign site does not mention Davis {reed_home}; it pledges that he will be accessible to District 58 voters and not controlled by special interest groups {reed_home}."
+   ],
+   "plans": [
+    "Priority legislation, in order: no bail for violent offenders; property tax reform; protecting traditional education {ivg_reed}."
+   ],
+   "endorsements_finance": [
+    "Endorsed in the primary by Americans for Prosperity-Indiana {afp_reed}. His campaign lists endorsements from Johnson County Commissioner Brian Baird, Johnson County Prosecutor Lance Hamner, Greenwood Common Council President Mike Campbell, Greenwood City Clerk Jeannine Myers and other local officials, plus Hoosiers for Quality Education, IPFF PAC, Indiana Right to Life and Stand for Health Freedom {reed_home}. iVoterGuide also lists the NRA Political Victory Fund {ivg_reed}."
+   ],
+   "gaps": [
+    "No news coverage of Reed's campaign could be read; the Daily Journal (Franklin) blocked access to its 2026 candidate coverage.",
+    "No fundraising data found.",
+    "Search-result snippets attributed AFP-Indiana's endorsement to its political arm (AFP Action); only the AFP-Indiana press release was read."
+   ]
+  },
+  {
+   "ballot_name": "Michelle Hennessee Sears",
+   "summary": "Michelle Hennessee Sears won the Democratic primary over Eric Reingardt with about 75% of the vote {enr_primary}. Little public information about her background or positions was found.",
+   "website": null,
+   "background": [
+    "Lists a bachelor's degree from the University of Southern Indiana in Evansville (2003-2007) on iVoterGuide; she provided no work or community information there {ivg_sears}."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Democratic primary with 1,330 votes to Eric Reingardt's 437 {enr_primary}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Open seat. No statements by Hennessee Sears about Davis, Reed or the seat's direction were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "iVoterGuide lists an endorsement from Planned Parenthood Alliance Advocates {ivg_sears}."
+   ],
+   "gaps": [
+    "No campaign website found; she did not answer iVoterGuide's questionnaire. A campaign Facebook page titled \"Hennessee for Indiana House\" and a TikTok account are linked from iVoterGuide, but their posts could not be read.",
+    "No news coverage, issue statements, occupation or residence could be verified; Daily Journal coverage was blocked.",
+    "No fundraising data found."
+   ]
+  }
+ ],
+ "sources": {
+  "davis_bio": [
+   "State Rep. Michelle Davis — House District 58",
+   "Indiana House Republicans (caucus description)",
+   "accessed 2026-10-10",
+   "https://www.indianahouserepublicans.com/members/leadership/michelle-davis/"
+  ],
+  "davis_hea1195": [
+   "Governor ceremonially signs bill authored by Davis to expand career readiness for Hoosier kids",
+   "Indiana House Republicans",
+   "2026-04-14",
+   "https://www.indianahouserepublicans.com/news/press-releases/governor-ceremonially-signs-bill-authored-by-davis-to-expand-career-readiness-for-hoosier-kids/"
+  ],
+  "ipm_davis_wins": [
+   "Davis wins Republican primary over state senator who voted against redistricting",
+   "WFIU/Indiana Public Media",
+   "2026-05-05",
+   "https://www.ipm.org/news/2026-05-05/davis-wins-republican-primary-over-state-senator-who-voted-against-redistricting"
+  ],
+  "ipm_walker_primary": [
+   "Republican senator says he's rejuvenated as he faces post-redistricting primary fight",
+   "Indiana Capital Chronicle via Indiana Public Media",
+   "2026-04-28",
+   "https://www.ipm.org/news/2026-04-28/republican-senator-says-hes-rejuvenated-as-he-faces-post-redistricting-primary-fight"
+  ],
+  "reed_home": [
+   "Reed for Indiana (campaign home page)",
+   "John Reed campaign",
+   "accessed 2026-10-10",
+   "https://reedforindiana.com/"
+  ],
+  "reed_about": [
+   "About John Reed",
+   "John Reed campaign",
+   "accessed 2026-10-10",
+   "https://reedforindiana.com/about/"
+  ],
+  "ivg_reed": [
+   "John Reed — Indiana State Representative, District 58 (candidate questionnaire)",
+   "iVoterGuide",
+   "accessed 2026-10-10",
+   "https://ivoterguide.com/candidate/90461/race/30707/election/1456"
+  ],
+  "afp_reed": [
+   "AFP-IN Endorses Three Candidates in House District Races",
+   "Americans for Prosperity",
+   "2026-03-09",
+   "https://americansforprosperity.org/press-release/afp-in-endorses-three-candidates-in-house-district-races/"
+  ],
+  "ivg_sears": [
+   "Michelle Hennessee Sears — Indiana State Representative, District 58",
+   "iVoterGuide",
+   "accessed 2026-10-10",
+   "https://ivoterguide.com/candidate/95585/race/30707/election/1456"
+  ],
+  "rc_sea1_433": [
+   "House Roll Call 433: SB 1 (Local government finance), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-10",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  ],
+  "rc_hb1001_576": [
+   "House Roll Call 576: HB 1001 (State budget), conference committee report",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-25",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  ],
+  "rc_hb1032_28": [
+   "House Roll Call 28: HB 1032 (Redistricting), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-12-05",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  ],
+  "enr_primary": [
+   "2026 Primary Election results (certified), State Representative",
+   "Indiana Election Division, Indiana Election Results (ENR)",
+   "2026-05",
+   "https://enr.indianavoters.in.gov/site/index.html"
+  ],
+  "wiki_2026": [
+   "2026 Indiana House of Representatives election",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  ]
+ }
+}
