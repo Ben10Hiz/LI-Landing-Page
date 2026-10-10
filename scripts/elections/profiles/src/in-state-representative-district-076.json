@@ -1,0 +1,246 @@
+{
+ "race_id": "in-state-representative-district-076",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Wendy McNamara",
+  "party": "Republican",
+  "summary": "Wendy McNamara, an Evansville Republican, has represented House District 76 since 2010 and chairs the House Courts and Criminal Code Committee {caucus_mcnamara}. She directs EVSC Early College for the Evansville Vanderburgh School Corporation {caucus_mcnamara} {evpl_guide}.",
+  "record": [
+   "Chairs the Courts and Criminal Code Committee and serves on Roads and Transportation, per the House Republican caucus {caucus_mcnamara}. In August 2026 she chaired the interim study committees on Public Health, Behavioral Health and Human Services and on Corrections and Criminal Code {caucus_interim}.",
+   "April 10, 2025: Voted yes on SEA 1, the 2025 property-tax law (passed 65-29) {rc_sea1_433}. April 25, 2025: Voted yes on the 2025 budget (HEA 1001), adopted 66-27 {rc_hb1001_576}.",
+   "Dec. 5, 2025: Voted yes on HB 1032, the mid-decade congressional redistricting bill, which passed the House 57-41 {rc_hb1032_28}. She told WNIN she would vote the same way again, citing concern about federal funding for Posey and Vanderburgh counties: \"I wasn't willing to make that risk of not supporting that\" {wnin_hd76}.",
+   "Jan. 28, 2026: Voted yes on HB 1002, the 2026 electric utility affordability bill (passed 89-4) {rc_hb1002_149}; she called it \"a big step forward\" {wnin_hd76}.",
+   "2026 session: Authored HEA 1116, which prohibits cryptocurrency kiosks statewide; she said \"These kiosks are a tool bad actors use to target seniors\" {caucus_crypto}. Authored HEA 1303, which creates a separate code section for child sexual abuse material offenses, a new distribution crime and higher felony levels {caucus_csam}.",
+   "Earlier laws the caucus lists as hers include juvenile justice reform (2022), a competency-to-stand-trial bill (HB 1238, 2024) and trucker training on spotting human trafficking (HEA 1196, 2023) {caucus_mcnamara}. She told WNIN that juvenile justice reform is the work she is proudest of {wnin_hd76}."
+  ]
+ },
+ "race_context": [
+  "House District 76 covers all of Posey County and part of Vanderburgh County {caucus_mcnamara}, including Evansville's west side, Mount Vernon, New Harmony and Poseyville, with about 65,000 constituents {wnin_hd76}.",
+  "McNamara is seeking a ninth term; WNIN reports no Democrat has held the seat since 2008 {wnin_hd76}. She was reelected without opposition in 2024 {wiki_2026}.",
+  "Both McNamara and Logan Patberg were unopposed for their parties' nominations in the May 5, 2026 primary {wiki_2026}.",
+  "Forums: Both candidates spoke at an Aug. 30, 2026 meet-the-candidates event hosted by the Posey County Farm Bureau {wnin_hd76}. The Evansville NAACP and League of Women Voters of Southwestern Indiana invited all local and state candidates on the ballot to a Sept. 12 forum in Evansville {wnin_forum}; attendance was not reported.",
+  "Key differences: On energy costs, Patberg proposes removing the sales tax on residential utility bills and capping how fast investor-owned utilities can raise rates, while McNamara points to the state utility regulator's role and the 2026 utility law (HB 1002) {wnin_hd76}. McNamara supported the 2025 congressional redistricting bill; Patberg's position on it was not reported {wnin_hd76}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Logan A. Patberg",
+   "summary": "Logan Patberg is a public school science teacher and Evansville Teachers Association board member making his first run for office {evpl_guide}. He calls energy affordability his top issue {wnin_hd76}.",
+   "website": "https://www.patbergforindiana.com",
+   "background": [
+    "Teaches science in the Evansville-area school district he attended {evpl_guide} {patberg_about}. Serves on the Evansville Teachers Association board and chairs its Advocacy Committee {evpl_guide}.",
+    "Describes himself as a lifelong resident of Southwestern Indiana and a union member {patberg_about} {wnin_hd76}. Has not held elected office {evpl_guide}."
+   ],
+   "path_to_ballot": [
+    "Filed in early February 2026 {wnin_hd76} {wnin_filing}; unopposed in the May 5, 2026 Democratic primary {wiki_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Energy & utilities",
+     "items": [
+      "Proposes eliminating the 7% sales tax on residential utility bills, capping how quickly investor-owned utilities can raise rates (with safety and reliability exceptions) and considering retail energy competition with consumer protections {wnin_hd76}.",
+      "Lists keeping energy costs affordable for ratepayers as a priority {patberg_priorities}."
+     ]
+    },
+    {
+     "topic": "Data centers",
+     "items": [
+      "\"Data center sales tax extensions should be repealed, because 50 years of a corporate handout is way too long\" {wnin_hd76}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Wants public schools funded at their pre-2008 level and expanded career and technical education; opposes cuts to public higher education {patberg_priorities}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Says he will \"Fight to protect Medicaid/HIP access,\" expand CHIP (Hoosier Healthwise) for children and lower prescription drug costs {patberg_priorities}."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Supports expanding collective bargaining and workforce development partnerships; says Indiana \"needs to have paid leave laws\" and more child care capacity {patberg_priorities}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Says lawmakers have not answered concerns about jobs, benefits, child care and energy costs well in recent sessions; WNIN reported he did not name McNamara directly on most issues {wnin_hd76}."
+   ],
+   "plans": [
+    "Says he wants to give educators, union members and \"regular folks\" a voice in Indianapolis {wnin_hd76}."
+   ],
+   "endorsements_finance": [
+    "No endorsements were listed on his campaign site, and no campaign finance totals were found {patberg_site}."
+   ],
+   "gaps": [
+    "No position found on the 2025 property-tax law (SEA 1) or the 2025 congressional redistricting vote.",
+    "Campaign finance totals not found.",
+    "A WNIN photo caption from the Feb. 3 filing listed Patberg for District 78 and Busby for District 76 in one caption and the reverse in another; the ballot list places Patberg in District 76."
+   ]
+  },
+  {
+   "ballot_name": "Wendy (Mac) McNamara",
+   "summary": "Wendy McNamara has represented District 76 since 2010, chairs the House Courts and Criminal Code Committee and directs EVSC Early College {caucus_mcnamara}. She cites juvenile justice, anti-trafficking and child-protection laws as her main legislative work {wnin_hd76}.",
+   "website": "https://www.wendymcnamara.com",
+   "background": [
+    "Spent 31 years with the Evansville Vanderburgh School Corporation as a teacher and administrator and created its Early College High School {wnin_hd76}; the caucus lists her as a former teacher, social studies supervisor and assistant principal and adjunct professor {caucus_mcnamara}.",
+    "Member of the Justice Reinvestment Advisory Council and a non-voting member of the Indiana Criminal Justice Institute Board of Trustees {evpl_guide}. Lives in Evansville {caucus_mcnamara}."
+   ],
+   "path_to_ballot": [
+    "Unopposed in the May 5, 2026 Republican primary {wiki_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Public safety",
+     "items": [
+      "Lists mental health, corrections and support for law enforcement among her priorities and says she is drafting bills on alert systems and competency to stand trial {wnin_hd76}.",
+      "On HEA 1303: \"These predators can do lifelong damage to children\" {caucus_csam}."
+     ]
+    },
+    {
+     "topic": "Energy & utilities",
+     "items": [
+      "Says rate-setting rests with the Indiana Utility Regulatory Commission and calls HB 1002 \"a big step forward,\" citing relief for lower-income customers and limits on payments {wnin_hd76}."
+     ]
+    },
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "Says she would again vote for the December 2025 congressional map, citing an estimated $25–30 million a year in federal funding for Posey County and $250–300 million for Vanderburgh County; says constituent responses were mixed {wnin_hd76}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Plans to expand career and technical education and improve students' transitions to college or work {wnin_hd76}."
+     ]
+    },
+    {
+     "topic": "Consumer protection",
+     "items": [
+      "Authored the statewide ban on cryptocurrency kiosks, saying it gives the attorney general a path to penalize scammers {caucus_crypto}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. In response to Patberg's critique on energy costs, she pointed to HB 1002 and the complexity of rate-setting; WNIN reported no direct statements about him {wnin_hd76}."
+   ],
+   "plans": [
+    "Says lawmaking requires working across the aisle and that legislators must balance party ideals with constituent needs {wnin_hd76}."
+   ],
+   "endorsements_finance": [
+    "No 2026 endorsements or campaign finance totals were found."
+   ],
+   "gaps": [
+    "Campaign website appears outdated (news items from 2019); no 2026 issue pages found.",
+    "No statement found on the 2025 property-tax law (SEA 1) or data centers.",
+    "Campaign finance totals not checked/found.",
+    "WNIN notes its interview transcripts were AI-generated with light editing, so quotes may not be exact."
+   ]
+  }
+ ],
+ "sources": {
+  "caucus_mcnamara": [
+   "Wendy McNamara",
+   "Indiana House Republican Caucus",
+   "accessed 2026-10-10",
+   "https://www.indianahouserepublicans.com/members/general/wendy-mcnamara"
+  ],
+  "caucus_interim": [
+   "McNamara chairs two interim study committees reviewing criminal behavior, sexual assault services for survivors",
+   "Indiana House Republican Caucus",
+   "2026-08-27",
+   "https://www.indianahouserepublicans.com/news/press-releases/mcnamara-chairs-two-interim-study-committees-reviewing-criminal-behavior-sexual-assault-services-for-survivors/"
+  ],
+  "caucus_crypto": [
+   "Governor ceremonially signs McNamara's law protecting Hoosiers from cryptocurrency scams",
+   "Indiana House Republican Caucus",
+   "2026-05-06",
+   "https://www.indianahouserepublicans.com/news/press-releases/governor-ceremonially-signs-mcnamara-s-law-protecting-hoosiers-from-cryptocurrency-scams/"
+  ],
+  "caucus_csam": [
+   "Rep. McNamara's legislation targeting child predators signed into law",
+   "Indiana House Republican Caucus",
+   "2026-04-01",
+   "https://www.indianahouserepublicans.com/news/press-releases/rep.-mcnamara-s-legislation-targeting-child-predators-signed-into-law/"
+  ],
+  "wnin_hd76": [
+   "Indiana House District 76 — no Democrats since 2008, McNamara vs. Patberg in 2026",
+   "WNIN",
+   "2026-09-04",
+   "https://news.wnin.org/election-2026/2026-09-04/indiana-house-district-76-no-democrats-since-2008-mcnamara-vs-patberg-in-2026"
+  ],
+  "patberg_site": [
+   "Logan Patberg for Indiana House District 76",
+   "Logan Patberg campaign",
+   "accessed 2026-10-10",
+   "https://www.patbergforindiana.com"
+  ],
+  "patberg_about": [
+   "About",
+   "Logan Patberg campaign",
+   "accessed 2026-10-10",
+   "https://www.patbergforindiana.com/about"
+  ],
+  "patberg_priorities": [
+   "Priorities",
+   "Logan Patberg campaign",
+   "accessed 2026-10-10",
+   "https://www.patbergforindiana.com/priorities"
+  ],
+  "evpl_guide": [
+   "Voter Guide 2026",
+   "Evansville Vanderburgh Public Library / Evansville NewsLab",
+   "accessed 2026-10-10",
+   "https://www.evpl.org/?p=30372"
+  ],
+  "wnin_forum": [
+   "Candidates Forum Set for Saturday",
+   "WNIN",
+   "2026-09-09",
+   "https://news.wnin.org/election-2026/2026-09-09/candidates-forum-set-for-saturday"
+  ],
+  "wnin_filing": [
+   "Vanderburgh Democrats bring several challengers to GOP-controlled county, state, national seats",
+   "WNIN",
+   "2026-02-05",
+   "https://news.wnin.org/2026-02-05/vanderburgh-democrats-bring-several-challengers-to-gop-controlled-county-state-national-seats"
+  ],
+  "rc_sea1_433": [
+   "House Roll Call 433: SB 1 (Local government finance), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-10",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  ],
+  "rc_hb1001_576": [
+   "House Roll Call 576: HB 1001 (State budget), conference committee report",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-25",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  ],
+  "rc_hb1032_28": [
+   "House Roll Call 28: HB 1032 (Redistricting), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-12-05",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  ],
+  "rc_hb1002_149": [
+   "House Roll Call 149: HB 1002 (Electric utility affordability), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2026-01-28",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1002-rollcalls-HB1002-149-H-pdf.pdf"
+  ],
+  "wiki_2026": [
+   "2026 Indiana House of Representatives election",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  ]
+ }
+}

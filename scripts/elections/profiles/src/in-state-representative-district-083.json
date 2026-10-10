@@ -1,0 +1,280 @@
+{
+ "race_id": "in-state-representative-district-083",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Christopher Judy",
+  "party": "Republican",
+  "summary": "Christopher \"Chris\" Judy, an insurance broker and Indiana National Guard veteran who served in Iraq as a combat medic, has represented House District 83 since September 2014 {caucus_judy}. He serves on the Ways and Means, Financial Institutions, and Veterans Affairs and Public Safety committees {caucus_judy}.",
+  "record": [
+   "Committees: Financial Institutions; Veterans Affairs and Public Safety; Ways and Means, according to the House Republican caucus {caucus_judy}. His campaign says he has served on Ways and Means since 2021 {judy_site}.",
+   "2024: Supported HEA 1021, which created a Green Alert for missing at-risk veterans and service members {caucus_greenalert}. 2025: Co-sponsored SEA 520, waiving a $100,000 deposit requirement so Fort Wayne's Veterans National Memorial Shrine and Museum could build a columbarium {caucus_sea520}.",
+   "2026: Co-authored SEA 256 (disclosure requirements for people acting for designated foreign adversaries) and HEA 1202 (ignition interlock and other public-safety updates) {caucus_judy_safety}. Supported HEA 1210, which replaces the $14,000 deduction for totally disabled veterans with a full deduction on their homes and converts other veteran deductions to credits {caucus_hea1210}.",
+   "Spring 2026: Said he had raised concerns about the location of a proposed quarry in southwest Allen County near Lafayette Meadows Elementary and IU Health facilities, while noting land-use decisions are made locally {caucus_quarry}. The Allen County Board of Zoning Appeals denied the rezoning on May 26, 2026, and the developer withdrew its petition {wboi_quarry}.",
+   "Voted yes on SEA 1, the 2025 property-tax law (April 10, 2025) {rc_sea1_433}; the 2025 budget conference report, HEA 1001 (April 25, 2025) {rc_hb1001_576}; and HB 1032, the congressional redistricting bill (Dec. 5, 2025) {rc_hb1032_28}."
+  ]
+ },
+ "race_context": [
+  "House District 83 covers parts of Allen and Whitley counties, according to the House Republican caucus {caucus_judy}; Haffenden's campaign describes it as including Columbia City, South Whitley and southwest Fort Wayne {haffenden_site}.",
+  "Judy was reelected with 64% of the vote in 2024 {wiki_2026}. Both nominees were unopposed in the May 5, 2026 primaries {wiki_2026}.",
+  "Local issue: a proposed limestone quarry on more than 800 acres between Homestead and Yohne roads in southwest Allen County drew opposition from residents, Southwest Allen County Schools and the Little River Wetlands Project {wboi_quarry_why}; the rezoning was denied in May 2026 {wboi_quarry}. Both candidates commented on it {caucus_quarry} {haffenden_quarry}.",
+  "Key differences: Judy lists small business, veterans and balanced budgets with low taxes as priorities {judy_site}; Haffenden proposes a $15 minimum wage, ending school vouchers, a pause on new data centers, independent redistricting and cannabis legalization {haffenden_platform}.",
+  "No debate or forum for this race was found."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Christopher Judy",
+   "summary": "Incumbent since 2014; an insurance broker and Iraq veteran who serves on the House Ways and Means Committee {caucus_judy} {judy_site}.",
+   "website": "https://christopherjudyforindiana.com/",
+   "background": [
+    "Licensed life and health insurance broker; his campaign says he has worked with Tradewell Tax and Financial since 2018 and in business development at TJ Nowak Supply since 2024 {judy_site}.",
+    "Indiana National Guard veteran who deployed to Iraq in 2008 as a combat medic; member of Action Over Silence, a Fort Wayne nonprofit focused on suicide prevention among service members and veterans {caucus_judy}.",
+    "Raised mostly in Whitley County; lives in Aboite Township {caucus_judy}."
+   ],
+   "path_to_ballot": [
+    "Unopposed in the May 5, 2026 Republican primary {wiki_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Says he would \"protect the farmers, employers, and entrepreneurs who form the backbone of the Hoosier economy\" and push back on unnecessary regulation {judy_site}.",
+      "Says he wants to \"Keep Indiana's budget balanced, spending responsible, and taxes low\" {judy_site}."
+     ]
+    },
+    {
+     "topic": "Veterans",
+     "items": [
+      "Says he will advocate for \"service members, veterans, and Gold Star families\" {judy_site}. On HEA 1210: \"This new law strengthens long-term property tax relief for disabled veterans\" {caucus_hea1210}."
+     ]
+    },
+    {
+     "topic": "Public safety",
+     "items": [
+      "Said of the 2026 public-safety laws he backed: \"These new laws are about protecting Hoosiers and making sure Indiana stays ahead of the challenges\" {caucus_judy_safety}."
+     ]
+    },
+    {
+     "topic": "Land use",
+     "items": [
+      "On the proposed quarry, encouraged residents to attend public meetings and said he would remain engaged as the local process continued {caucus_quarry}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. His campaign website does not mention his challenger {judy_site}."
+   ],
+   "plans": [
+    "His campaign lists small business, veterans and fiscal discipline as priorities {judy_site}."
+   ],
+   "endorsements_finance": [
+    "The caucus lists awards including 2023 Legislator of the Year from the Indiana State Police Alliance and from Disabled American Veterans {caucus_judy}. No endorsements or fundraising figures for 2026 were verified."
+   ],
+   "gaps": [
+    "A search-result snippet listed Judy as a co-author of Rep. Bob Morris's 2026 HB 1287 (execution team bill); not confirmed on a fetched page.",
+    "No statements on data centers, property taxes generally or redistricting beyond his recorded votes were found.",
+    "Campaign finance totals not checked."
+   ]
+  },
+  {
+   "ballot_name": "Wesley Haffenden",
+   "summary": "Wesley Haffenden is a real estate broker with an MBA running his first listed campaign for the House {haffenden_about}. He was unopposed in the Democratic primary {wiki_2026}.",
+   "website": "https://www.wesleyhaffenden.com/",
+   "background": [
+    "Real estate broker with nearly a decade of experience; holds a bachelor's degree in economics and an MBA {haffenden_about}.",
+    "Raised in rural northeast Indiana; lived in Florida for about six years after 2015 for work {haffenden_about}. Says he co-created Fort Wayne's first Pride march {haffenden_about}."
+   ],
+   "path_to_ballot": [
+    "Unopposed in the May 5, 2026 Democratic primary {wiki_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Proposes a $15 minimum wage in 2027 tied to inflation afterward, at least seven paid sick days a year, and paid family leave {haffenden_platform}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Proposes raising starting teacher pay to $60,000 over three years, expanding pre-K and phasing out the voucher system {haffenden_platform}."
+     ]
+    },
+    {
+     "topic": "Property taxes",
+     "items": [
+      "Says school funding should \"reduce over-reliance on property taxes\" {haffenden_platform}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Supports upfront pricing and no surprise billing at the state level and says \"I support Medicare for All\" {haffenden_platform}."
+     ]
+    },
+    {
+     "topic": "Energy & utilities",
+     "items": [
+      "Proposes capping delivery fees, tying costs to actual usage and a utility customer bill of rights {haffenden_platform}."
+     ]
+    },
+    {
+     "topic": "Data centers",
+     "items": [
+      "Proposes pausing approval of new large data centers and eliminating \"taxpayer subsidies, tax abatements, and incentives for data centers\" {haffenden_platform}."
+     ]
+    },
+    {
+     "topic": "Housing",
+     "items": [
+      "Proposes limiting large-scale out-of-state corporate home buying and increasing affordable supply {haffenden_platform}."
+     ]
+    },
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "Supports independent redistricting, citizen ballot initiatives, term limits, automatic voter registration and real-time campaign donor disclosure {haffenden_platform}."
+     ]
+    },
+    {
+     "topic": "Land use",
+     "items": [
+      "Opposed the southwest Allen County quarry, saying heavy industry in a floodplain near homes, schools and hospitals \"just does not make sense\" {haffenden_quarry}."
+     ]
+    },
+    {
+     "topic": "Social issues",
+     "items": [
+      "Supports legalizing adult-use cannabis, universal background checks on gun sales, protecting personal medical decisions and constitutional protection for same-sex marriage {haffenden_platform}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "In April 2026 he said: \"I'm challenging my opponent directly to join me in speaking out against this industrial project,\" referring to the quarry {haffenden_quarry}. His homepage closes with a call to \"defeat Chris Judy\" but does not discuss Judy's record {haffenden_site}."
+   ],
+   "plans": [
+    "Says his goal is to \"make government answer to the people, not the highest bidder\" {haffenden_site}."
+   ],
+   "endorsements_finance": [
+    "His campaign lists the Moms Demand Action \"Gun Sense Candidate\" distinction, Planned Parenthood Alliance Advocates, the Indiana Coalition for Public Education, and a signed term-limits pledge {haffenden_endorse}. No fundraising figures were verified."
+   ],
+   "gaps": [
+    "No independent news coverage of his campaign was found.",
+    "His website does not name the city where he lives.",
+    "Campaign finance totals not checked."
+   ]
+  }
+ ],
+ "sources": {
+  "caucus_judy": [
+   "State Rep. Christopher Judy: biography and committees",
+   "Indiana House Republican Caucus",
+   "accessed 2026-10-10",
+   "https://www.indianahouserepublicans.com/members/general/christopher-judy/"
+  ],
+  "judy_site": [
+   "Christopher Judy for Indiana",
+   "Christopher Judy campaign",
+   "accessed 2026-10-10",
+   "https://christopherjudyforindiana.com/"
+  ],
+  "caucus_greenalert": [
+   "Abbott, Judy: New Green Alert will help find missing, at-risk veterans",
+   "Indiana House Republican Caucus",
+   "2024-04-26",
+   "https://www.indianahouserepublicans.com/news/press-releases/abbott-judy-new-green-alert-will-help-find-missing-at-risk-veterans/"
+  ],
+  "caucus_sea520": [
+   "Governor ceremonially signs Abbott, Judy legislation supporting local veterans nonprofit",
+   "Indiana House Republican Caucus",
+   "2025-06-19",
+   "https://www.indianahouserepublicans.com/news/press-releases/governor-ceremonially-signs-abbott-judy-legislation-supporting-local-veterans-nonprofit/"
+  ],
+  "caucus_judy_safety": [
+   "Judy: New laws ceremonially signed to boost public safety and oversight",
+   "Indiana House Republican Caucus",
+   "2026-05-13",
+   "https://www.indianahouserepublicans.com/news/press-releases/judy-new-laws-ceremonially-signed-to-boost-public-safety-and-oversight/"
+  ],
+  "caucus_hea1210": [
+   "Judy: Governor ceremonially signs new law to expand property tax relief for Hoosier veterans",
+   "Indiana House Republican Caucus",
+   "2026-05-27",
+   "https://www.indianahouserepublicans.com/news/press-releases/judy-governor-ceremonially-signs-new-law-to-expand-property-tax-relief-for-hoosier-veterans/"
+  ],
+  "caucus_quarry": [
+   "Rep. Judy provides update on proposed quarry planned in southwest Allen County",
+   "Indiana House Republican Caucus",
+   "2026-03-31",
+   "https://www.indianahouserepublicans.com/news/press-releases/rep.-judy-provides-update-on-proposed-quarry-planned-in-southwest-allen-county/"
+  ],
+  "wboi_quarry": [
+   "Southwest Allen County quarry zoning fails amid loud public opposition",
+   "WBOI",
+   "2026-05-27",
+   "https://www.wboi.org/government/2026-05-27/southwest-allen-county-quarry-zoning-fails-amid-loud-public-opposition"
+  ],
+  "wboi_quarry_why": [
+   "SW Allen residents are loudly opposing a proposed quarry; Here's why",
+   "WBOI",
+   "2026-05-19",
+   "https://www.wboi.org/government/2026-05-19/sw-allen-residents-are-loudly-opposing-a-proposed-quarry-heres-why"
+  ],
+  "haffenden_site": [
+   "Wesley Haffenden for Indiana State Representative",
+   "Wesley Haffenden campaign",
+   "accessed 2026-10-10",
+   "https://www.wesleyhaffenden.com/"
+  ],
+  "haffenden_about": [
+   "About",
+   "Wesley Haffenden campaign",
+   "accessed 2026-10-10",
+   "https://www.wesleyhaffenden.com/about"
+  ],
+  "haffenden_platform": [
+   "Platform",
+   "Wesley Haffenden campaign",
+   "accessed 2026-10-10",
+   "https://www.wesleyhaffenden.com/platform"
+  ],
+  "haffenden_quarry": [
+   "Quarry statements",
+   "Wesley Haffenden campaign",
+   "2026-05",
+   "https://www.wesleyhaffenden.com/quarry-statements"
+  ],
+  "haffenden_endorse": [
+   "Endorsements, Pledges, and Distinctions",
+   "Wesley Haffenden campaign",
+   "accessed 2026-10-10",
+   "https://www.wesleyhaffenden.com/endorsements"
+  ],
+  "rc_hb1032_28": [
+   "House Roll Call 28: HB 1032 (Redistricting), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-12-05",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  ],
+  "rc_sea1_433": [
+   "House Roll Call 433: SB 1 (Local government finance), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-10",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  ],
+  "rc_hb1001_576": [
+   "House Roll Call 576: HB 1001 (State budget), conference committee report",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-25",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  ],
+  "wiki_2026": [
+   "2026 Indiana House of Representatives election",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  ]
+ }
+}

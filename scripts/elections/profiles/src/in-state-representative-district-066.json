@@ -1,0 +1,241 @@
+{
+ "race_id": "in-state-representative-district-066",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Zach Payne",
+  "party": "Republican",
+  "summary": "Zach Payne, a Republican from Charlestown, was elected in 2020 and is vice chair of the House Elections and Apportionment Committee; he also serves on the Education and Employment, Labor and Pensions committees, according to the House Republican caucus {payne_bio}. He previously served as Clark County recorder and on the Jeffersonville City Council from 2012 to 2015 {payne_bio}.",
+  "record": [
+   "December 2024: Reappointed vice chair of the House Elections and Apportionment Committee, saying \"Fair, secure elections are a cornerstone of Indiana's democratic process\" {payne_committees_2024}.",
+   "January 2024: Welcomed Meta's planned data center at River Ridge Commerce Center in Jeffersonville, saying \"Southern Indiana continues to be a major player in economic development\" {payne_meta}.",
+   "On April 10, 2025, voted for SB 1, the property-tax and local government finance bill, which passed the House 65–29 {rc_sb1_433}. On April 25, 2025, voted for the conference report on HEA 1001, the 2025–2027 state budget, adopted 66–27 {rc_hb1001_576}.",
+   "December 5, 2025: Voted for HB 1032, the mid-decade congressional redistricting bill, which passed the House 57–41 {rc_hb1032_28}.",
+   "February 19, 2026: Voted to concur in Senate changes to HB 1002, the electric utility affordability bill (94–2) {rc_hb1002_293}.",
+   "January 2026: Authored HB 1422 on immigration matters and HB 1376 on prohibited food additives; both were referred to committee with no further action listed {pr_hb1422} {pr_hb1376}.",
+   "2021–2022: Co-authored the early-voting expansion law (2021) and authored the 2022 House version of handgun carry without a license, according to the caucus {payne_bio}."
+  ]
+ },
+ "race_context": [
+  "House District 66 includes portions of Clark, Jefferson and Scott counties in southern Indiana, according to the House Republican caucus {payne_bio}.",
+  "Payne won the seat in 2020 by defeating Democratic incumbent Terry Goodin 55.8% to 44.2%, and was re-elected in 2024 with 69.4% of the vote, according to Wikipedia {wiki_payne} {wiki_2026_inhouse}.",
+  "Payne and Price are each listed by Wikipedia as the only declared candidates in their parties' May 5, 2026 primaries {wiki_2026_inhouse}.",
+  "No debate or forum between the two candidates was found as of October 10, 2026.",
+  "Data centers are a local issue: Payne praised Meta's Jeffersonville data center in 2024, while Price calls for state rules on where and how data centers are built and for tighter regulation of related tax exemptions {payne_meta} {price_site}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Ryan Price",
+   "summary": "Ryan Price, the Democratic nominee, describes himself as a working Hoosier who has held blue-collar and office jobs and volunteered on fundraising, budgeting and safety projects {price_site}.",
+   "website": "https://pricein66.com",
+   "background": [
+    "Says he has worked in both blue-collar and office jobs and has volunteered on fundraising, budgeting and safety projects {price_site}.",
+    "Discussed housing, education and local leadership in a January 2026 interview with The Recovered Republican, a Substack publication {substack_price}."
+   ],
+   "path_to_ballot": [
+    "Wikipedia lists him as the only declared candidate in the May 5, 2026 Democratic primary {wiki_2026_inhouse}."
+   ],
+   "positions": [
+    {
+     "topic": "Education",
+     "items": [
+      "Opposes public money going to private schools and supports fully funding public schools, citing more than $490 million moved to private schools in 2024–2025 {price_site}."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Says wages have not kept pace with housing, health care, child care and grocery costs, and supports workers' rights {price_site}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Supports affordable care and keeping rural medical facilities open {price_site}."
+     ]
+    },
+    {
+     "topic": "Housing",
+     "items": [
+      "Proposes property assessment reform, incentives for modest energy-efficient starter homes, and protections against large corporate purchases of first-time-buyer homes {price_site}."
+     ]
+    },
+    {
+     "topic": "Taxes",
+     "items": [
+      "Proposes a marginal income tax structure that lowers the burden on working and middle-class families, and tighter regulation of corporate tax incentives such as exemptions for large data center projects {price_site}."
+     ]
+    },
+    {
+     "topic": "Data centers",
+     "items": [
+      "Supports solar on existing structures rather than farmland; wants laws on where and how data centers are built rather than stopping the industry, and wants to end AI tracking of citizens {price_site}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "His campaign site does not mention Payne {price_site}."
+   ],
+   "plans": [
+    "Lists education, wages, health care, housing, tax reform and solar/data center rules as priorities {price_site}."
+   ],
+   "endorsements_finance": [
+    "No endorsements are listed on his campaign site, which takes donations through ActBlue {price_site}."
+   ],
+   "gaps": [
+    "No local news coverage of his campaign was found.",
+    "The Ballot Brief reported no campaign website as of Sept. 8, 2026, though pricein66.com was live on Oct. 10.",
+    "No fundraising totals found."
+   ]
+  },
+  {
+   "ballot_name": "Zach Payne",
+   "summary": "The Republican incumbent, first elected in 2020 and vice chair of the House Elections and Apportionment Committee {payne_bio}.",
+   "website": "https://zachpayneforstaterep.com",
+   "background": [
+    "Owns a marketing business in southern Indiana; holds degrees from Purdue University, the University of Southern Indiana and Charter Oak State College, according to the caucus {payne_bio}.",
+    "Served as Clark County recorder and on the Jeffersonville City Council (2012–2015) {payne_bio}.",
+    "Lives in Charlestown {payne_bio}."
+   ],
+   "path_to_ballot": [
+    "Wikipedia lists him as the only declared candidate in the May 5, 2026 Republican primary {wiki_2026_inhouse}."
+   ],
+   "positions": [
+    {
+     "topic": "Taxes",
+     "items": [
+      "His campaign site cites his votes for what it calls the largest tax cut in state history and the $545 million automatic taxpayer refund {payne_site}."
+     ]
+    },
+    {
+     "topic": "Gun rights",
+     "items": [
+      "Says he co-authored the law allowing handgun carry without a license {payne_site}."
+     ]
+    },
+    {
+     "topic": "Abortion",
+     "items": [
+      "His site describes a \"100% pro-life voting record\" {payne_site}."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Says he is focused on helping southern Indiana attract higher-paying jobs {payne_site}."
+     ]
+    },
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "Said in 2024 that \"we will continue to pursue ways to ensure all Hoosiers can vote in the safest way possible\" {payne_committees_2024}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No statements by Payne about his challenger were found {payne_site}."
+   ],
+   "plans": [
+    "His campaign site lists support for taxpayers, higher-paying jobs and local law enforcement {payne_site}."
+   ],
+   "endorsements_finance": [
+    "No formal endorsements are listed on his campaign site {payne_site}."
+   ],
+   "gaps": [
+    "The caucus member page lists no Payne press releases dated 2026.",
+    "No public statements explaining his votes on SB 1, the 2025 budget or HB 1032 were found; Louisville Public Media noted his vote for HB 1032 without comment from him.",
+    "His role in the House Elections Committee's December 2025 handling of HB 1032 was not confirmed.",
+    "Wikipedia says he was endorsed in 2024 by Ron Paul and Rep. Thomas Massie; 2026 endorsements not found.",
+    "No fundraising totals found."
+   ]
+  }
+ ],
+ "sources": {
+  "rc_sb1_433": [
+   "House Roll Call 433: SB 1 (Local government finance), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-10",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  ],
+  "rc_hb1001_576": [
+   "House Roll Call 576: HB 1001 (State budget), conference committee report",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-25",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  ],
+  "rc_hb1032_28": [
+   "House Roll Call 28: HB 1032 (Redistricting), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-12-05",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  ],
+  "rc_hb1002_293": [
+   "House Roll Call 293: HB 1002 (Electric utility affordability), motion to concur",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2026-02-19",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1002-rollcalls-HB1002-293-H-pdf.pdf"
+  ],
+  "wiki_2026_inhouse": [
+   "2026 Indiana House of Representatives election",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  ],
+  "payne_bio": [
+   "Zach Payne — member page",
+   "Indiana House Republicans",
+   "2026-10",
+   "https://www.indianahouserepublicans.com/members/general/zach-payne/"
+  ],
+  "payne_committees_2024": [
+   "Jefferson County lawmakers to serve on key House committees",
+   "Indiana House Republicans",
+   "2024-12-13",
+   "https://www.indianahouserepublicans.com/news/press-releases/jefferson-county-lawmakers-to-serve-on-key-house-committees/"
+  ],
+  "payne_meta": [
+   "Reps. Payne, Engleman: New $800M Meta data center is major win for Jeffersonville",
+   "Indiana House Republicans",
+   "2024-01-25",
+   "https://www.indianahouserepublicans.com/news/press-releases/reps.-payne-engleman-new-800m-meta-data-center-is-major-win-for-jeffersonville/"
+  ],
+  "pr_hb1422": [
+   "Indiana HB 1422 (2026): Immigration matters",
+   "PolicyRisk",
+   "2026-10",
+   "https://policyrisk.com/state-bill/IN-HB1422-2026"
+  ],
+  "pr_hb1376": [
+   "Indiana HB 1376 (2026): Prohibited food additives",
+   "PolicyRisk",
+   "2026-10",
+   "https://policyrisk.com/state-bill/IN-HB1376-2026"
+  ],
+  "payne_site": [
+   "Zach Payne for State Representative",
+   "Zach Payne campaign",
+   "2026-10",
+   "https://zachpayneforstaterep.com/"
+  ],
+  "price_site": [
+   "Ryan Price for Indiana House District 66",
+   "Ryan Price campaign",
+   "2026-10",
+   "https://pricein66.com/"
+  ],
+  "substack_price": [
+   "A conversation with Ryan Price",
+   "The Recovered Republican (Substack)",
+   "2026-01-17",
+   "https://therecoveredrepublican.substack.com/p/a-conversation-with-ryan-price"
+  ],
+  "wiki_payne": [
+   "Zach Payne",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/Zach_Payne"
+  ]
+ }
+}
