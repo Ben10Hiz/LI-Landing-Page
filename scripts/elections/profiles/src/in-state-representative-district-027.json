@@ -1,0 +1,106 @@
+{
+ "race_id": "in-state-representative-district-027",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Sheila Klinker",
+  "party": "Democratic",
+  "summary": "Sheila Klinker, a Democrat from Lafayette and a former Lafayette School Corporation teacher, has represented House District 27 since she was first elected in 1982, and the House Democratic caucus lists her on the Ways and Means, Education, and Veterans Affairs and Public Safety committees {klinker_bio}{wiki_klinker}. She told the Journal & Courier that 2026 will be her last election {jc_klinker_brown}.",
+  "record": [
+   "Earlier career: The House Democratic caucus credits her with authoring the bill that created the First Steps program for infants and toddlers with developmental delays and with sponsoring legislation that created Indiana's 529 college savings fund {klinker_bio}.",
+   "December 5, 2025: Voted no on House Bill 1032, the mid-decade congressional redistricting bill, which passed the House 57-41 before failing in the Senate {bt_klinker}{isf_hb1032}. After the Senate vote, she wrote in her newsletter that the outcome was \"a win for Hoosiers\" and that Tippecanoe County would stay whole in one congressional district {klinker_redistrict}.",
+   "January 2026: Wrote in her newsletter that she authored 2026 bills to provide a property tax deduction of up to $14,000 for veterans or surviving spouses (HB 1168), raise the college savings tax credit to $2,500 (HB 1169), raise the minimum starting teacher salary to $60,000 (HB 1170) and require reporting on untested rape kits (HB 1172) {klinker_jan26}.",
+   "2026 session: Voted no on Senate Bill 1 (Medicaid and SNAP eligibility changes), the IPS governance bill (HB 1423) and the housing bill (SB 285), and yes on the child care assistance bill (HB 1177), according to BillTrack50's vote record {bt_klinker}. In her session wrap-up she said of SB 1, \"Adding these barriers to enrollment might deter fraudsters, but it will surely deter people in need\" {klinker_wrap26}."
+  ]
+ },
+ "race_context": [
+  "House District 27 covers parts of Lafayette and West Lafayette in Tippecanoe County, according to the Journal & Courier and the House Democratic caucus {jc_klinker_brown}{klinker_bio}.",
+  "Klinker, who is 87, has held the seat since 1982 and won in 2024 with more than 61% of the vote over Republican Oscar Alvarez; she told the Journal & Courier this will be her last campaign {jc_klinker_brown}.",
+  "Republican Tracy Brown, a Tippecanoe County commissioner and former county sheriff, faced Alvarez in the May 5, 2026 Republican primary and is the Republican nominee on the November ballot {jc_klinker_brown}{bp_brown}{in_list}.",
+  "The two candidates have described each other as longtime friends; Klinker said, \"If I had to have an opponent, I would rather it would be Tracy Brown than somebody else,\" and Brown said, \"it doesn't have to be bitter, and it doesn't have to be hateful\" {jc_klinker_brown}.",
+  "No debate or candidate forum for this race was found in available coverage as of October 10, 2026."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Sheila J. Klinker",
+   "summary": "Klinker is the incumbent, first elected in 1982, and a retired Lafayette teacher who later worked for Purdue's School of Education {klinker_bio}{wiki_klinker}. She has said this will be her final campaign {jc_klinker_brown}.",
+   "website": "https://www.indianahousedemocrats.org/members/sheila-klinker",
+   "background": [
+    "Taught in the Lafayette School Corporation for more than 34 years and later spent 15 years as outreach liaison for the Purdue School of Education and its Reading Recovery program, according to the House Democratic caucus {klinker_bio}.",
+    "Holds a bachelor's degree and graduate degrees in education from Purdue University {klinker_bio}{wiki_klinker}.",
+    "Lives in Lafayette {klinker_bio}."
+   ],
+   "path_to_ballot": [
+    "Is the Democratic nominee and the only Democrat listed for the seat; BallotReady lists her as a candidate in the May 5, 2026 primary {bp_klinker}{in_list}."
+   ],
+   "positions": [
+    {"topic": "Economy & jobs", "items": ["In January 2026 she said she would work on the House Democrats' agenda of cutting utility bills, lowering health care costs, making homeownership achievable, reducing child care costs and funding police, fire and EMS {klinker_jan26}."]},
+    {"topic": "Education", "items": ["Authored a 2026 bill to raise the minimum starting teacher salary to $60,000 and one to increase the college savings tax credit, saying, \"Many of our students are being priced out of their educational futures\" {klinker_jan26}.", "Said SEA 199 \"continues to walk Indiana down a dangerous path where the state can dictate what students can study in college\" {klinker_wrap26}."]},
+    {"topic": "Health care", "items": ["Said of the 2026 Medicaid and SNAP changes in SB 1, \"I don't want fraud in our Medicaid and SNAP programs,\" but argued the new enrollment requirements would deter eligible people {klinker_wrap26}."]},
+    {"topic": "Energy & utilities", "items": ["Called HEA 1002 \"a step towards lowering Hoosiers' energy costs\" that does not provide immediate relief, and said she backed amendments including removing the sales tax on residential utility bills {klinker_wrap26}."]},
+    {"topic": "Data centers", "items": ["Criticized \"taxpayer-funded corporate handouts to Big Tech data center developers\" and said she supported ending state tax breaks for data centers {klinker_wrap26}."]},
+    {"topic": "Elections & redistricting", "items": ["Voted against the 2025 congressional redistricting bill and wrote that many constituents saw redistricting as an \"unnecessary, unwanted distraction\" {bt_klinker}{klinker_redistrict}."]}
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. Of her opponent she said, \"Tracy and I have been friends for a long time. I feel like we're still friends even though we're opponents\" {jc_klinker_brown}."
+   ],
+   "plans": [
+    "Told the Journal & Courier, \"I'll run this time, and then that will be it,\" and \"I do have the energy to do it\" {jc_klinker_brown}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance figures were found in reviewed sources."
+   ],
+   "gaps": [
+    "Her individual votes on the 2025 state budget (HEA 1001) and 2025 property tax law (SEA 1) were not verified.",
+    "A search snippet said she did not respond to the Indiana Capital Chronicle's 2026 candidate survey; the survey page returned an error and could not be read.",
+    "No fundraising reports were reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Tracy Brown",
+   "summary": "Brown is a Tippecanoe County commissioner and former Tippecanoe County sheriff running for the legislature for the first time {jc_klinker_brown}{bp_brown}.",
+   "website": null,
+   "background": [
+    "Serves on the Tippecanoe County Commission (District 1), a term that ends December 31, 2026, according to BallotReady {bp_brown}.",
+    "The Journal & Courier reported eight years as Tippecanoe County sheriff and 12 years as a county commissioner {jc_klinker_brown}.",
+    "BallotReady lists a high school diploma from Delphi Community High School {bp_brown}."
+   ],
+   "path_to_ballot": [
+    "Ran against Oscar Alvarez, the 2024 Republican nominee, in the May 5, 2026 Republican primary and is the Republican nominee on the general-election ballot {jc_klinker_brown}{bp_brown}{in_list}."
+   ],
+   "positions": [
+    {"topic": "Economy & jobs", "items": ["Said of state policy, \"What goes on in Indianapolis does impact us here locally,\" and that he wants to \"use the perspective I've gained to serve this district\" {jc_klinker_brown}."]}
+   ],
+   "on_incumbent": [
+    "Said, \"I've learned things from Sheila over the years. The way she shows up. The way she recognizes people,\" and declined to say whether Klinker has the stamina for another term {jc_klinker_brown}.",
+    "Said he had considered running against her for years and had discussed it with her {jc_klinker_brown}."
+   ],
+   "plans": [
+    "Said he wants to show a campaign \"can do this in the right way\" {jc_klinker_brown}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance figures were found in reviewed sources {bp_brown}."
+   ],
+   "gaps": [
+    "Primary vote totals were not verified; a search snippet attributed to WLFI reported Brown leading Alvarez about 79% to 21% with 97% reporting, but the page could not be loaded.",
+    "Search snippets citing the Indiana Capital Chronicle described him as chair of the Tippecanoe County Republican Party with 30 years in law enforcement, and said he told reporter Dave Bangert his priorities include responsible tax policy, support for local governments and protecting public safety, infrastructure and education, and that he supported the goal of SEA 1 (2025) while noting revenue challenges for local units; the source page returned an error and these were not verified.",
+    "No campaign website or detailed platform was found.",
+    "No fundraising reports were reviewed."
+   ]
+  }
+ ],
+ "sources": {
+  "jc_klinker_brown": ["Indiana Rep. Klinker faces friend Tracy Brown in her last election", "Lafayette Journal & Courier (via Yahoo News)", "2026-02-06", "https://www.yahoo.com/news/articles/indiana-rep-sheila-klinker-87-215509640.html"],
+  "klinker_bio": ["Sheila Klinker", "Indiana House Democratic Caucus", "accessed 2026-10-10", "https://www.indianahousedemocrats.org/members/sheila-klinker"],
+  "wiki_klinker": ["Sheila Klinker", "Wikipedia", "accessed 2026-10-10", "https://en.wikipedia.org/wiki/Sheila_Klinker"],
+  "bp_klinker": ["Sheila J. Klinker", "BallotReady", "accessed 2026-10-10", "https://www.ballotready.org/people/sheila-klinker-51bb82ff-30af-44f7-8ecf-2f1c6dd87aa5"],
+  "bp_brown": ["Tracy Allen Brown", "BallotReady", "accessed 2026-10-10", "https://www.ballotready.org/people/tracy-allen-brown"],
+  "bt_klinker": ["Legislator Detail: Sheila Klinker", "BillTrack50", "accessed 2026-10-10", "https://www.billtrack50.com/public/scorecard/legislator/TNvEht1gV0ilLkxyi9h0rQ/455"],
+  "isf_hb1032": ["BILL ADVANCES: 12 House Republicans join Democrats to oppose redistricting, but map moves to Senate", "TheStatehouseFile.com (via The Indiana Citizen)", "2025-12-05", "https://indianacitizen.org/bill-advances-12-house-republicans-join-democrats-to-oppose-redistricting-but-map-moves-to-senate/"],
+  "klinker_redistrict": ["Redistricting in Indiana Fails: Your Voice was Heard", "Rep. Sheila Klinker newsletter (Substack)", "2025-12-12", "https://repsheilaklinker.substack.com/p/redistricting-in-indiana-fails-your"],
+  "klinker_jan26": ["Keeping Up With Klinker: January Update", "Rep. Sheila Klinker newsletter (Substack)", "2026-01-16", "https://repsheilaklinker.substack.com/p/keeping-up-with-klinker-january-update"],
+  "klinker_wrap26": ["2026 Session Wrap-Up: The Wins, The Draws and The Losses", "Rep. Sheila Klinker newsletter (Substack)", "2026-03-11", "https://repsheilaklinker.substack.com/p/2026-session-wrap-up-the-wins-the"]
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "race_id": "in-state-representative-district-016",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Kendell Culp",
+  "party": "Republican",
+  "summary": "Kendell Culp, a Republican from Rensselaer who farms grain and livestock, has represented House District 16 since November 2022; he previously served 18 years as a Jasper County commissioner and is a vice president of the Indiana Farm Bureau, according to the House Republican caucus {hr_culp} {hr_culp_sworn}. The caucus lists him as vice chair of the Environmental Affairs Committee and a member of the Elections and Apportionment and the Utilities, Energy and Telecommunications committees {hr_culp}.",
+  "record": [
+   "February 2024: Authored House Bill 1183 to bar foreign adversaries from owning or leasing Indiana farmland, saying \"we need to protect our critical farmland and our control over our food supply\"; the caucus reports the measure was later signed into law {hr_culp_hb1183} {hr_culp}.",
+   "April 2025: Sponsored Senate Bill 10 in the House, which removes student IDs as accepted voter identification and requires quarterly sharing of death records with county voter registration offices; Culp said the bill \"would treat college students the same as other voters\" {hr_culp_sb10}.",
+   "April 2025: Voted for the property tax law, SEA 1 (passed the House 65-29), and for the conference report on the 2025-27 state budget, HEA 1001 (adopted 66-27) {rc_sb1_433} {rc_hb1001_576}.",
+   "December 5, 2025: Voted for House Bill 1032, the mid-decade congressional redistricting bill, which passed the House 57-41 and was later defeated in the Senate {rc_hb1032} {icc_redistricting}.",
+   "February 2026: His House Bill 1333, which addressed brownfield reuse to protect prime farmland and would have directed a share of data-center sales tax revenue to the approving local government, passed the House 56-43 {hr_culp_hb1333} {indystar_tracker}. After farmland-zoning language drew backlash, Culp said \"Improvements are still needed on this bill\" and that if stronger local control was not restored \"I will not allow it to advance when it returns to the House\"; WFYI reported the proposal died in committee {hr_culp_hb1333} {wfyi_datacenter}.",
+   "April 2026: House Enrolled Act 1355, which he authored, lets confined feeding operations request pre-application meetings with IDEM, requires fee refunds if IDEM misses a 90-day decision deadline, and bars new requirements on already-approved infrastructure during expansions; Culp said such operations \"need more certainty and quicker responses\" {hr_culp_hea1355}."
+  ]
+ },
+ "race_context": [
+  "House District 16 covers portions of Jasper, Pulaski, Starke and White counties in northwest Indiana, according to the House Republican caucus {hr_culp}.",
+  "Culp is seeking re-election; he and Democrat Ashley Hammac were each the only declared candidate in their party's May 5, 2026 primary, according to Wikipedia's tabulation, which also reports Culp won 76.9% of the vote in 2024 {wiki_2026_inhouse}.",
+  "No debate or candidate forum for this race was found as of October 10, 2026.",
+  "Culp's legislative work has centered on agriculture, farmland and environmental permitting {hr_culp}; Hammac's stated priorities are local control over county projects, agriculture-based jobs and farmland preservation, and funding for medical clinics and schools {ycin_hammac}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Ashley Hammac",
+   "summary": "Ashley Hammac, a Democrat from White County, is a soil scientist who recently became a union carpenter, according to an interview published by YouCountIndiana {ycin_hammac}.",
+   "website": "https://ashley4indianahouse16.com/",
+   "background": [
+    "Has worked about 25 years as a soil scientist in academic, government, nonprofit and corporate roles, and holds a Ph.D. in soil science from Washington State University, an M.S. from Auburn University and a B.S. from the University of Arkansas, according to YouCountIndiana {ycin_hammac}.",
+    "Recently became a union carpenter with Lafayette UBC Local 215, and lives in White County {ycin_hammac}.",
+    "Her campaign describes her as \"a career advocate for Indiana's farming families and champion for rural communities\" {hammac_press}."
+   ],
+   "path_to_ballot": [
+    "Announced her candidacy on January 28, 2026 {hammac_press}.",
+    "Was the only declared candidate in the May 5, 2026 Democratic primary, according to Wikipedia {wiki_2026_inhouse}."
+   ],
+   "positions": [
+    {"topic": "Local government", "items": [
+     "Lists \"strengthening local government by preserving their rights to determine projects in their counties\" as a key issue {ycin_hammac}."
+    ]},
+    {"topic": "Agriculture", "items": [
+     "Supports creating agriculture-based jobs in the district across the supply chain, including locally sourced food, while improving soil quality and preserving farmland {ycin_hammac}.",
+     "Her campaign site says the goal is to ensure \"the voices of our farming communities are heard loud and clear\" {hammac_site}."
+    ]},
+    {"topic": "Health care and education", "items": [
+     "Supports \"funding medical clinics and schools as both have done more with less for years\" {ycin_hammac}."
+    ]}
+   ],
+   "on_incumbent": [
+    "No statements by Hammac about Culp or his legislative record were found on her campaign site or in her published interview {hammac_site} {ycin_hammac}."
+   ],
+   "plans": [
+    "Her three stated priorities are local control over county projects, agriculture-based jobs and farmland preservation, and funding for clinics and schools {ycin_hammac}."
+   ],
+   "endorsements_finance": [
+    "iVoterGuide lists an endorsement from 314 Action Fund; she did not answer that guide's questionnaire {ivg_hammac}.",
+    "No fundraising totals were found in news coverage."
+   ],
+   "gaps": [
+    "Campaign site has no detailed issues page; positions come mainly from an undated YouCountIndiana interview.",
+    "No news coverage of her campaign was found.",
+    "Search snippets (BallotReady) describe her as president of Geosmin Agricultural Solutions with past roles at PepsiCo and Ward Laboratories, and a 2015 Hoosier Ag Today item reported her hiring as an agronomist with Indiana's Conservation Cropping Systems Initiative; these were not verified on fetched pages.",
+    "Campaign finance reports were not reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Kendell Culp",
+   "summary": "Kendell Culp, the Republican incumbent from Rensselaer, is a farmer and former Jasper County commissioner seeking a third full term {hr_culp}.",
+   "website": "https://www.indianahouserepublicans.com/members/general/kendell-culp/",
+   "background": [
+    "Farms corn and soybeans and raises beef cattle and hogs with his family, and has been a vice president of the Indiana Farm Bureau since 2016, according to the caucus {hr_culp}.",
+    "Served 18 years as a Jasper County commissioner, 16 as president, and is a past president of the Indiana Association of County Commissioners {hr_culp}.",
+    "Was appointed in February 2025 to the U.S. EPA Local Government Advisory Committee {hr_culp}."
+   ],
+   "path_to_ballot": [
+    "Was the only declared candidate in the May 5, 2026 Republican primary, according to Wikipedia {wiki_2026_inhouse}."
+   ],
+   "positions": [
+    {"topic": "Agriculture", "items": [
+     "Said on taking office that \"As a farmer, I hope to use my experience to tackle agricultural issues impacting us locally and around the state\" {hr_culp_sworn}.",
+     "Said of HEA 1355 that \"Farming is a stressful and at times risky profession that contributes significantly to our state's economy\" {hr_culp_hea1355}."
+    ]},
+    {"topic": "Data centers", "items": [
+     "Said his House Bill 1333 aimed to grow local communities while \"protecting our most valuable asset, prime farmland,\" and pledged not to advance it without stronger local control {hr_culp_hb1333}."
+    ]},
+    {"topic": "Elections & redistricting", "items": [
+     "Said \"A student ID gives very little information about the voter\" in sponsoring SB 10 {hr_culp_sb10}; voted for HB 1032 redistricting {rc_hb1032}."
+    ]},
+    {"topic": "Property taxes", "items": [
+     "Voted for SEA 1 (2025) {rc_sb1_433}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No statements by Culp about his challenger were found."
+   ],
+   "plans": [
+    "No 2027 legislative agenda statement was reviewed beyond the caucus summary of his past bills {hr_culp}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or fundraising totals were found in sources reviewed."
+   ],
+   "gaps": [
+    "No separate campaign website was found; caucus pages describe his record.",
+    "A July 2026 caucus release titled \"Culp gathers ideas for the 2027 legislative session\" and an October 2026 release on diesel fuel relief for farmers were listed but not read.",
+    "Campaign finance reports were not reviewed."
+   ]
+  }
+ ],
+ "sources": {
+  "hr_culp": ["Rep. Kendell Culp", "Indiana House Republicans", "accessed 2026-10-10", "https://www.indianahouserepublicans.com/members/general/kendell-culp/"],
+  "hr_culp_sworn": ["Culp sworn in as new state representative for House District 16", "Indiana House Republicans", "2022-11-22", "https://www.indianahouserepublicans.com/news/press-releases/culp-sworn-in-as-new-state-representative-for-house-district-16/"],
+  "hr_culp_hb1183": ["Rep. Culp: Bill barring foreign adversaries from owning, leasing Indiana farmland heads to Senate", "Indiana House Republicans", "2024-02-02", "https://www.indianahouserepublicans.com/news/press-releases/rep.-culp-bill-barring-foreign-adversaries-from-owning-leasing-indiana-farmland-heads-to-senate/"],
+  "hr_culp_sb10": ["Rep. Culp: legislation to improve election integrity passes the House", "Indiana House Republicans", "2025-04-16", "https://www.indianahouserepublicans.com/news/press-releases/rep.-culp-legislation-to-improve-election-integrity-passes-the-house/"],
+  "hr_culp_hb1333": ["House passes Culp's legislation to safeguard prime Hoosier farmland while encouraging local economic growth", "Indiana House Republicans", "2026-02-09", "https://www.indianahouserepublicans.com/news/press-releases/house-passes-culp-s-legislation-to-safeguard-prime-hoosier-farmland-while-encouraging-local-economic-growth/"],
+  "hr_culp_hea1355": ["Governor ceremonially signs new law authored by Culp to streamline farming regulations", "Indiana House Republicans", "2026-04-27", "https://www.indianahouserepublicans.com/news/press-releases/governor-ceremonially-signs-new-law-authored-by-culp-to-streamline-farming-regulations/"],
+  "indystar_tracker": ["Indiana bill tracker: House passes data center, township consolidation bills", "Indianapolis Star (via Yahoo News)", "2026-02-09", "https://www.yahoo.com/news/articles/indiana-bill-tracker-house-passes-110325668.html"],
+  "wfyi_datacenter": ["Data center legislation in the 2026 Indiana General Assembly", "WFYI (via Mirror Indy)", "2026-03-03", "https://mirrorindy.org/data-center-legislation-indiana-general-assembly-2026/"],
+  "rc_sb1_433": ["SB 1 House Roll Call 433 (third reading)", "Indiana House of Representatives (via billtexts)", "2025-04-10", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"],
+  "rc_hb1001_576": ["HB 1001 House Roll Call 576 (conference committee report)", "Indiana House of Representatives (via billtexts)", "2025-04-25", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"],
+  "rc_hb1032": ["HB 1032 House Roll Call 28 (third reading)", "Indiana House of Representatives (via billtexts)", "2025-12-05", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"],
+  "icc_redistricting": ["Indiana House approves redistricting bill, sending issue to state Senate", "Indiana Capital Chronicle (via Yahoo News)", "2025-12-05", "https://www.yahoo.com/news/articles/indiana-house-approves-redistricting-bill-185219428.html"],
+  "wiki_2026_inhouse": ["2026 Indiana House of Representatives election", "Wikipedia", "accessed 2026-10-10", "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"],
+  "ycin_hammac": ["Ashley Hammac, Candidate for State Representative House District 16: Interview", "YouCountIndiana", "accessed 2026-10-10", "https://youcountindiana.com/ashley-hammac-candidate-for-state-representative-house-district-16-interview/"],
+  "hammac_site": ["Ashley Hammac for Indiana House District 16", "Hammac campaign", "accessed 2026-10-10", "https://ashley4indianahouse16.com/"],
+  "hammac_press": ["Ashley Hammac Announces Candidacy for Indiana House District 16", "Hammac campaign", "2026-01-28", "https://ashley4indianahouse16.com/press-releases"],
+  "ivg_hammac": ["Ashley Hammac candidate profile", "iVoterGuide", "accessed 2026-10-10", "https://ivoterguide.com/candidate/94600/race/30665/election/1456"]
+ }
+}

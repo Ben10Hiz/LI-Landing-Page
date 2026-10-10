@@ -1,0 +1,307 @@
+{
+ "race_id": "in-state-representative-district-033",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "J.D. Prescott",
+  "party": "Republican",
+  "summary": "J.D. Prescott, a Union City real estate agent who grew up on his family's farm, has represented House District 33 since 2018 {caucus_prescott}. He serves on the Ways and Means, Elections and Apportionment, and Judiciary committees {caucus_prescott} {caucus_committees_2024}.",
+  "record": [
+   "Committees: Ways and Means; Elections and Apportionment; Judiciary, according to the House Republican caucus {caucus_prescott} {caucus_committees_2024}. Interim appointments: Corn Marketing Council (2025) and the Agricultural Promotion and Regulation Task Force and Corn Marketing Council (2026) {caucus_interim_2025} {caucus_interim_2026}.",
+   "2025 session: Was House sponsor of SB 287, which would require school board candidates to declare a party affiliation or state that they are independent or nonpartisan, keep straight-ticket votes from counting in school board races, and raise the cap on board member pay; the caucus reported it passed the House on March 31, 2025, after Prescott tabled his own HB 1230 to focus on the Senate bill {caucus_sb287} {caucus_hb1230}.",
+   "April 10, 2025: Voted yes when the House passed SEA 1, the 2025 property-tax law, 65-29 {rc_sea1_433}. Prescott said the law would cut taxes for most homeowners \"in responsible manner that does not shift more of the tax burden to agricultural\" {caucus_sea1}.",
+   "April 25, 2025: Voted yes on the conference report for the 2025 state budget (HEA 1001), adopted by the House 66-27 {rc_hb1001_576}.",
+   "Nov. 19, 2025: Said he would support mid-decade congressional redistricting, stating, \"I was initially a no because I did not like the precedent it would set to redraw maps mid-cycle,\" but that once other states changed their maps, \"the political rules of engagement shifted\" {caucus_redistricting}. Dec. 5, 2025: Voted yes on HB 1032, which passed the House 57-41 {rc_hb1032_28}.",
+   "2026 session: House sponsor of SEA 76, which requires governmental bodies to comply with federal immigration detainer requests, bars policies that limit cooperation with federal immigration authorities and expands the attorney general's enforcement powers; it was ceremonially signed in 2026 {caucus_sea76}.",
+   "June–July 2026: Announced he will reintroduce in 2027 a proposal to phase out Indiana's property tax and replace the revenue by extending the 7% sales tax to most services, and held public meetings around the state on it {caucus_ptax_june} {caucus_ptax_july}."
+  ]
+ },
+ "race_context": [
+  "House District 33 includes all of Blackford and Randolph counties and parts of Jay, Delaware and Henry counties, including Albany, Dunkirk and Portland {wfyi_guide33} {caucus_prescott}.",
+  "The race is a rematch: Bartlett was the Democratic nominee in 2022 and 2024 {sp_2024} {wiki_2026}. Wikipedia reports Prescott won 73% of the vote in 2024 {wiki_2026}.",
+  "Prescott and Bartlett were the only candidates listed in their parties' May 5, 2026 primaries {wiki_2026}; both are on the November ballot {in_list}.",
+  "Key differences: Prescott voted for SEA 1 (2025) {rc_sea1_433} and is proposing to replace property taxes with a sales tax on services {caucus_ptax_june}; Bartlett says SEA 1 favored businesses {wfyi_guide33} and calls Prescott's replacement plan a tax increase {bartlett_ptax}. Bartlett opposes data center development {wfyi_guide33}; no statement from Prescott on data centers was found.",
+  "No general-election debate or forum for this race was found. Muncie Resists invited state legislative primary candidates to a March 19, 2026 forum in Muncie {mj_forums}; which candidates attended was not reported."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "John E Bartlett",
+   "summary": "John E. Bartlett is a Blackford County IT service team leader and former Blackford County Democratic Party chair, running for the seat for the third time {wfyi_guide33} {bartlett_about} {sp_2024}. He focuses on rural economic development, public schools, property-tax assessment and opposition to data centers {wfyi_guide33} {bartlett_issues}.",
+   "website": "https://www.bartlettforindiana.org",
+   "background": [
+    "IT service team leader; age 55; lives near Hartford City on a farm his grandparents bought {wfyi_guide33} {bartlett_about}.",
+    "Graduated from Monroe Central High School and Indiana University; has worked in IT support in Indianapolis for more than 25 years, according to his campaign {bartlett_about}.",
+    "Chaired the Blackford County Democratic Party from 2018 to 2024; former Cubmaster and volunteer with Habitat for Humanity and Second Harvest Food Bank, per his campaign {bartlett_about}.",
+    "Was the Democratic nominee for this seat in 2022 and 2024 {sp_2024} {wiki_2026}."
+   ],
+   "path_to_ballot": [
+    "Listed as the only Democratic candidate in the May 5, 2026 primary {wiki_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Property taxes",
+     "items": [
+      "Says SEA 1 (2025) \"gave huge tax breaks to businesses and gave nothing to the people who needed it\" and did not address the assessment process {wfyi_guide33}.",
+      "Proposes averaging several points in time when assessing market value, better comparable-sales data, and an optional monthly payment plan for property taxes {bartlett_ptax}."
+     ]
+    },
+    {
+     "topic": "Data centers",
+     "items": [
+      "Opposes data centers, citing water and electricity use, damage to land and few local jobs: \"They must be stopped before we sell off everything we are\" {wfyi_guide33}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Wants to stop funding private schools through vouchers, raise teacher salaries, reduce emphasis on testing and stop forced consolidation such as at Union School Corp. {bartlett_issues} {bartlett_home}."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Top priority: \"Rebuild economies in rural Indiana by improving education, health care, and infrastructure in our rural communities\" {wfyi_guide33}; supports rural fiber broadband {bartlett_issues}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Calls health care a right and wants limits on corporate consolidation of rural health systems {bartlett_issues}; says nonprofit health care companies should be made to act as nonprofits {wfyi_guide33}."
+     ]
+    },
+    {
+     "topic": "Agriculture",
+     "items": [
+      "Wants to limit expansion of corporate agriculture to protect family farms {bartlett_issues}."
+     ]
+    },
+    {
+     "topic": "Other",
+     "items": [
+      "Says Indiana should consider legalizing cannabis and use the revenue to reduce other taxes; supports ending daylight saving time and moving to Central time {bartlett_issues}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "In a July 2026 campaign post after attending one of Prescott's property-tax meetings, Bartlett called the replacement plan \"a HUGE TAX INCREASE\" and said Prescott's estimates \"don't add up\"; he also wrote that Prescott, asked how schools would cope with lost revenue, said they would need to cut budgets, which Bartlett said could mean school closures {bartlett_ptax}.",
+    "In the same post Bartlett said Prescott was the only House member to vote against a 2019 property-tax deduction for disabled veterans (SB 280) {bartlett_ptax}. No response from Prescott was found.",
+    "Says Republicans' long-held supermajority has left them \"accustomed to not needing to hear any other points of view\" {wfyi_guide33}."
+   ],
+   "plans": [
+    "Would push tax law changes that benefit lower-income residents first, control health care costs and build affordable housing {wfyi_guide33}."
+   ],
+   "endorsements_finance": [
+    "Top donors listed by WFYI via Transparency USA: AFT Indiana PAC, ActBlue Indiana and three individuals {wfyi_guide33}.",
+    "Campaign site says he is a member of the Indiana Rural Summit {bartlett_home}."
+   ],
+   "gaps": [
+    "Bartlett's claim about Prescott's 2019 SB 280 vote could not be checked against the roll call (LegiScan blocked; no mirror found).",
+    "No news coverage of Bartlett's 2026 campaign was readable; the Muncie Star Press announcement (Jan. 9, 2026) was paywalled.",
+    "Not to be confused with State Rep. John Bartlett (D-Indianapolis, HD 95), whose name appears in House roll calls.",
+    "No fundraising totals found."
+   ]
+  },
+  {
+   "ballot_name": "John (J.D.) Prescott",
+   "summary": "J.D. Prescott is the Republican incumbent, first elected in 2018 {caucus_prescott}. His campaign lists his priorities as opposing abortion, cutting taxes, attracting high-paying jobs and protecting local control {prescott_site} {wfyi_guide33}.",
+   "website": "https://votejdprescott.com",
+   "background": [
+    "Real estate agent; lives in Union City; graduated from Winchester Community High School and worked on Prescott Farms {caucus_prescott}.",
+    "President of the Randolph County Young Farmers organization and a member of the Saratoga Lions Club, per the caucus {caucus_prescott}."
+   ],
+   "path_to_ballot": [
+    "Listed as the only Republican candidate in the May 5, 2026 primary {wiki_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Property taxes",
+     "items": [
+      "Proposes ending property-tax assessments after 2027 and replacing the revenue with the 7% sales tax extended to most services, keeping existing exemptions for health care and education; about 45% of revenue would go to schools {caucus_ptax_june}.",
+      "Said: \"This proposal offers a different approach by replacing property taxes with a consumption-based system that is more transparent, more predictable and fairer for taxpayers\" {caucus_ptax_june}."
+     ]
+    },
+    {
+     "topic": "Immigration",
+     "items": [
+      "Sponsored SEA 76 (2026) requiring local compliance with federal immigration detainers; said it will ensure \"all levels of government are working together to enforce our laws\" {caucus_sea76}."
+     ]
+    },
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "Supported the 2025 mid-decade congressional redistricting after initially opposing it {caucus_redistricting} {rc_hb1032_28}; sponsored partisan disclosure for school board candidates (SB 287, 2025) {caucus_sb287}."
+     ]
+    },
+    {
+     "topic": "Other",
+     "items": [
+      "Campaign site lists \"100% Pro-Life,\" support for the Second Amendment, school choice and lower health care and prescription costs {prescott_site}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No statements by Prescott about Bartlett were found."
+   ],
+   "plans": [
+    "Plans to reintroduce his property-tax replacement bill in the 2027 session {caucus_ptax_june} {caucus_ptax_july}."
+   ],
+   "endorsements_finance": [
+    "WFYI found no donor records for Prescott via Transparency USA {wfyi_guide33}.",
+    "The House Republican caucus says Prescott scored above 90% on the Indiana Chamber of Commerce's 2025 legislator scorecard {caucus_chamber}."
+   ],
+   "gaps": [
+    "Did not answer WFYI's 2026 survey; his campaign website appears to date from 2024 and has no 2026-specific platform.",
+    "Final outcome of SB 287 (2025) was not confirmed.",
+    "No response to Bartlett's criticisms found."
+   ]
+  }
+ ],
+ "sources": {
+  "wfyi_guide33": [
+   "2026 Voter Guide: Indiana House District 33",
+   "WFYI Public Media",
+   "2026-09-22",
+   "https://www.wfyi.org/statewide/2026-09-22/2026-voter-guide-indiana-house-district-33"
+  ],
+  "caucus_prescott": [
+   "State Rep. J.D. Prescott: biography and committees",
+   "Indiana House Republican Caucus",
+   "accessed 2026-10-10",
+   "https://www.indianahouserepublicans.com/members/general/j.d.-prescott/"
+  ],
+  "caucus_committees_2024": [
+   "Reps. Prescott, Rowray to serve on key House committees",
+   "Indiana House Republican Caucus",
+   "2024-12-13",
+   "https://www.indianahouserepublicans.com/news/press-releases/reps.-prescott-rowray-to-serve-on-key-house-committees/"
+  ],
+  "caucus_interim_2025": [
+   "Reps. Rowray, Prescott receive summer study committee appointments",
+   "Indiana House Republican Caucus",
+   "2025-07-22",
+   "https://www.indianahouserepublicans.com/news/press-releases/reps.-rowray-prescott-receive-summer-study-committee-appointments/"
+  ],
+  "caucus_interim_2026": [
+   "Reps. Criswell, Prescott receive 2026 summer study committee appointments",
+   "Indiana House Republican Caucus",
+   "2026-07-02",
+   "https://www.indianahouserepublicans.com/news/press-releases/reps.-criswell-prescott-receive-2026-summer-study-committee-appointments/"
+  ],
+  "caucus_sb287": [
+   "Prescott sponsors bill to ensure transparency and fairness in school board elections",
+   "Indiana House Republican Caucus",
+   "2025-04-01",
+   "https://www.indianahouserepublicans.com/news/press-releases/prescott-sponsors-bill-to-ensure-transparency-and-fairness-in-school-board-elections/"
+  ],
+  "caucus_hb1230": [
+   "Statement: Rep. Prescott to continue focus on school board elections through Senate Bill 287",
+   "Indiana House Republican Caucus",
+   "2025-02-20",
+   "https://www.indianahouserepublicans.com/news/press-releases/statement-rep.-prescott-to-continue-focus-on-school-board-elections-through-senate-bill-287/"
+  ],
+  "caucus_sea1": [
+   "State Rep. J.D. Prescott: Legislation delivering robust property tax relief and reform to Hoosiers signed into law",
+   "Indiana House Republican Caucus",
+   "2025-04-17",
+   "https://www.indianahouserepublicans.com/news/press-releases/state-rep.-j.d.-prescott-legislation-delivering-robust-property-tax-relief-and-reform-to-hoosiers-signed-into-law/"
+  ],
+  "caucus_redistricting": [
+   "Rep. Prescott issues statement on redistricting",
+   "Indiana House Republican Caucus",
+   "2025-11-19",
+   "https://www.indianahouserepublicans.com/news/press-releases/rep.-prescott-issues-statement-on-redistricting/"
+  ],
+  "caucus_sea76": [
+   "Governor ceremonially signs bill sponsored by Rep. Prescott to strengthen immigration enforcement and public safety",
+   "Indiana House Republican Caucus",
+   "2026-06-03",
+   "https://www.indianahouserepublicans.com/news/press-releases/governor-ceremonially-signs-bill-sponsored-by-rep.-prescott-to-strengthen-immigration-enforcement-and-public-safety/"
+  ],
+  "caucus_ptax_june": [
+   "Prescott to reintroduce property tax repeal and replacement proposal, host public events across Indiana",
+   "Indiana House Republican Caucus",
+   "2026-06-12",
+   "https://www.indianahouserepublicans.com/news/press-releases/prescott-to-reintroduce-property-tax-repeal-and-replacement-proposal-host-public-events-across-indiana/"
+  ],
+  "caucus_ptax_july": [
+   "Prescott announces additional public meetings on property tax reform proposal",
+   "Indiana House Republican Caucus",
+   "2026-07-29",
+   "https://www.indianahouserepublicans.com/news/press-releases/prescott-announces-additional-public-meetings-on-property-tax-reform-proposal/"
+  ],
+  "caucus_chamber": [
+   "Prescott, Rowray among top in 2025 Indiana Chamber legislative rankings",
+   "Indiana House Republican Caucus",
+   "2025-08-27",
+   "https://www.indianahouserepublicans.com/news/press-releases/prescott-rowray-among-top-in-2025-indiana-chamber-legislative-rankings/"
+  ],
+  "prescott_site": [
+   "JD Prescott for Rep",
+   "J.D. Prescott for State Representative (campaign)",
+   "accessed 2026-10-10",
+   "https://votejdprescott.com/"
+  ],
+  "bartlett_home": [
+   "John Bartlett for State Rep",
+   "Bartlett for Indiana (campaign)",
+   "accessed 2026-10-10",
+   "https://www.bartlettforindiana.org/"
+  ],
+  "bartlett_about": [
+   "About John",
+   "Bartlett for Indiana (campaign)",
+   "accessed 2026-10-10",
+   "https://www.bartlettforindiana.org/aboutjohn"
+  ],
+  "bartlett_issues": [
+   "Issues",
+   "Bartlett for Indiana (campaign)",
+   "accessed 2026-10-10",
+   "https://www.bartlettforindiana.org/issues"
+  ],
+  "bartlett_ptax": [
+   "2026 - The Plan to Replace Property Tax with Something Worse",
+   "Bartlett for Indiana (campaign blog)",
+   "2026-07-26",
+   "https://www.bartlettforindiana.org/blog/2026-the-plan-to-replace-property-tax-with-something-worse"
+  ],
+  "sp_2024": [
+   "Three Democrats file to run for local Indiana House of Representative seats",
+   "Muncie Star Press (via Yahoo News)",
+   "2024-01-12",
+   "https://news.yahoo.com/three-democrats-file-run-local-133148359.html"
+  ],
+  "mj_forums": [
+   "Forums Set to Introduce Primary Candidates to Voters",
+   "Muncie Journal",
+   "2026-03-17",
+   "https://www.munciejournal.com/2026/03/3-forums-set-to-introduce-primary-candidates-to-voters/"
+  ],
+  "rc_hb1032_28": [
+   "House Roll Call 28: HB 1032 (Redistricting), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-12-05",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  ],
+  "rc_sea1_433": [
+   "House Roll Call 433: SB 1 (Local government finance), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-10",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  ],
+  "rc_hb1001_576": [
+   "House Roll Call 576: HB 1001 (State budget), conference committee report",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-25",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  ],
+  "wiki_2026": [
+   "2026 Indiana House of Representatives election",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  ]
+ }
+}

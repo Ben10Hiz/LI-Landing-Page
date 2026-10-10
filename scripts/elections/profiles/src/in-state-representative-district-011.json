@@ -1,0 +1,159 @@
+{
+ "race_id": "in-state-representative-district-011",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Mike Aylesworth",
+  "party": "Republican",
+  "summary": "Mike Aylesworth, a Republican from the Hebron area, has served in the Indiana House since 2014 and chairs the House Agriculture and Rural Development Committee, according to the House Republican caucus {aylesworth_bio}. The caucus says he is an Army veteran, a co-founder (now retired) of Iroquois Bio Energy Company, a former two-term Porter County commissioner and one-term county councilman, and a past state president of the Indiana Corn Growers Association {aylesworth_bio}.",
+  "record": [
+   "Committees: chair of Agriculture and Rural Development and member of Commerce, Small Business and Economic Development and of Environmental Affairs; appointed July 30, 2025, as vice chair of the Interim Study Committee on Agriculture and Natural Resources, per the caucus {aylesworth_bio}.",
+   "2023: authored a law the caucus says helps counties address flooding, drainage and water-quality issues, which took effect after being signed in May 2023 {aylesworth_bio} {aylesworth_drainage}.",
+   "2025: co-authored House Enrolled Act 1126, which the caucus says broadens the Maumee River Basin Commission's flood-control and conservation powers and adds members representing basin counties; Aylesworth said the change would help the commission \"better protect Hoosiers living there from devastating flood damage\" {aylesworth_maumee}.",
+   "Dec. 5, 2025: voted yea on House Bill 1032, the mid-decade congressional redistricting bill, which passed the House 57-41 before the Senate rejected it on Dec. 11, 2025 {bt50_aylesworth} {icc_hb1032_house}.",
+   "2026: authored House Enrolled Act 1019, which places on the November 2026 ballot a constitutional amendment allowing city and town judges to live in neighboring cities or towns rather than only in the county where they serve; he said \"Rural communities are hit the hardest by the growing judicial shortage our state is facing\" {aylesworth_hea1019}. The House passed it 92-1 on Jan. 13, 2026, with Aylesworth voting yes {fd_hb1019}.",
+   "2026: authored a concurrent resolution, adopted by both chambers, renaming a portion of U.S. 41 for fallen Newton County Sheriff's Cpl. Brandon Schreiber, according to the caucus {aylesworth_bio}.",
+   "Oct. 5, 2026: with Rep. Kendell Culp, welcomed the governor's suspension of off-road diesel fuel restrictions for farmers, per a caucus release {aylesworth_bio}."
+  ]
+ },
+ "race_context": [
+  "House District 11 includes portions of Jasper, Lake, Newton and Porter counties in northwest Indiana {aylesworth_bio}. It is not an open seat; Aylesworth is seeking re-election {in_list}.",
+  "Both Aylesworth and Democrat Tyler Thomas Bridges were unopposed in their May 5, 2026 primaries, according to Wikipedia's tabulation {wiki_2026_inhouse}. Aylesworth was re-elected without opposition in 2024 {wiki_2026_inhouse}.",
+  "No debate or candidate forum for this race was found as of October 10, 2026.",
+  "Aylesworth's record centers on agriculture, drainage and flood control, and rural court staffing {aylesworth_bio} {aylesworth_hea1019}; Bridges's campaign emphasizes cost of living, public-school funding, repeal of the 2025 property-tax law (SEA 1), utility-rate oversight and labor issues {bridges_home} {bridges_policy}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Michael J. Aylesworth",
+   "summary": "Mike Aylesworth, a Republican from the Hebron area, has represented District 11 since 2014 and chairs the House Agriculture and Rural Development Committee {aylesworth_bio}.",
+   "website": null,
+   "background": [
+    "Served in the U.S. Army, discharged as a sergeant in 1973; holds a B.S. in education from Indiana University and a master's in history from Valparaiso University, per the caucus {aylesworth_bio}.",
+    "Co-founded Iroquois Bio Energy Company and later retired from it; served two terms as Porter County commissioner and one term on the county council; was state president of the Indiana Corn Growers Association (1997-2002) and the Indiana Corn Marketing Council (2000-2003) {aylesworth_bio}.",
+    "Lives in the Hebron area {aylesworth_bio}."
+   ],
+   "path_to_ballot": [
+    "Unopposed in the May 5, 2026 Republican primary, according to Wikipedia's tabulation {wiki_2026_inhouse}."
+   ],
+   "positions": [
+    {
+     "topic": "Agriculture",
+     "items": [
+      "Chairs the House Agriculture and Rural Development Committee and, with Rep. Kendell Culp, welcomed the governor's October 2026 suspension of off-road diesel restrictions for farmers {aylesworth_bio}."
+     ]
+    },
+    {
+     "topic": "Courts",
+     "items": [
+      "Authored the constitutional-amendment measure on the 2026 ballot that would ease residency rules for city and town judges, saying rural communities are \"hit the hardest\" by judicial shortages {aylesworth_hea1019}."
+     ]
+    },
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "Voted yea on the December 2025 House passage of HB 1032, the mid-decade congressional redistricting bill {bt50_aylesworth}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No public statement by Aylesworth about his challenger was found {aylesworth_bio}."
+   ],
+   "plans": [
+    "No campaign website or published 2026 platform was found; a third-party voter guide reported no campaign website as of September 8, 2026 {ballotbrief_hd11}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or 2026 fundraising totals were found in fetched sources."
+   ],
+   "gaps": [
+    "Individual votes on the 2025 property-tax law (SEA 1) and the 2025 state budget (HEA 1001) could not be confirmed from a readable roll call.",
+    "No campaign website, questionnaire responses, or news interviews for the 2026 race were found.",
+    "No campaign-finance figures were retrieved from the Indiana campaign finance portal."
+   ]
+  },
+  {
+   "ballot_name": "Tyler Thomas Bridges",
+   "summary": "Tyler Thomas Bridges, a Democrat from Lowell, is a high school history and civics teacher and union member making his first run for the seat {bridges_candidate}.",
+   "website": "https://bridgesford11.com/",
+   "background": [
+    "Is 28, grew up in Lowell, attended Lowell High School and graduated from Purdue Northwest, according to his campaign {bridges_candidate}.",
+    "Has taught high school history and civics for five years and is a member of the NEA and IEA teachers' unions, per his campaign {bridges_candidate}.",
+    "Says he was raised by a single mother who worked multiple jobs and relied on state and federal assistance, and that \"I saw firsthand how families can struggle through no fault of their own\" {bridges_candidate}."
+   ],
+   "path_to_ballot": [
+    "Unopposed in the May 5, 2026 Democratic primary, according to Wikipedia's tabulation {wiki_2026_inhouse}."
+   ],
+   "positions": [
+    {
+     "topic": "Property taxes",
+     "items": [
+      "Calls for repealing SEA 1, the 2025 property-tax law, \"to protect funding for schools, police, firefighters, and other essential services\" {bridges_policy}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Would end the school voucher program, saying \"Taxpayer money should go directly to public schools, not to voucher programs that are not clearly accountable\" {bridges_home} {bridges_policy}.",
+      "Supports public-school funding that rises with inflation, expanded collective bargaining for teachers, clear rules on artificial intelligence in schools, and state-funded pre-K (\"Preschool for All\") {bridges_home} {bridges_policy}."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Would raise the minimum wage incrementally, saying \"Indiana's minimum wage of $7.25 is unacceptable in 2026\" {bridges_home}.",
+      "Supports repealing Indiana's right-to-work law, requiring large businesses to provide paid sick and family leave, and increasing penalties for wage theft and child-labor violations {bridges_home} {bridges_policy}."
+     ]
+    },
+    {
+     "topic": "Energy & utilities",
+     "items": [
+      "Would limit when and how utilities can raise prices, regulate transportation costs in utility bills, and require legislative approval of Indiana Utility Regulatory Commission appointees {bridges_policy}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Says he would \"Protect healthcare rights for women across Indiana\" and \"Stabilize rural hospitals with funding and grants\" {bridges_policy}."
+     ]
+    },
+    {
+     "topic": "Government",
+     "items": [
+      "Supports age limits and term limits for state offices and right-to-repair laws {bridges_policy}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Does not name Aylesworth on his campaign site but says \"Our current Republican legislators are missing in action\" and that \"We need leaders who show up, hold town halls, and listen to the community they serve\" {bridges_home}."
+   ],
+   "plans": [
+    "Lists legislative priorities on wages, education, health care, utilities and government accountability, as described above {bridges_policy}."
+   ],
+   "endorsements_finance": [
+    "iVoterGuide lists endorsements from AFT Indiana, Planned Parenthood Alliance Advocates, the Lake County Indiana Young Democrats, South Lake County Democrats and the Indiana Reproductive Freedom PAC {ivg_bridges}.",
+    "No fundraising totals were found; the campaign collects donations through ActBlue {bridges_home}."
+   ],
+   "gaps": [
+    "No news coverage, interviews or forum appearances for Bridges were found.",
+    "Did not answer the iVoterGuide questionnaire.",
+    "No campaign-finance figures were retrieved from the Indiana campaign finance portal."
+   ]
+  }
+ ],
+ "sources": {
+  "aylesworth_bio": ["Rep. Mike Aylesworth", "Indiana House Republicans", "2026-10", "https://www.indianahouserepublicans.com/members/general/mike-aylesworth/"],
+  "aylesworth_drainage": ["Aylesworth's new law helps counties dive into local drainage issues", "Indiana House Republicans", "2023-05-15", "https://www.indianahouserepublicans.com/news/press-releases/aylesworth-s-new-law-helps-counties-dive-into-local-drainage-issues/"],
+  "aylesworth_maumee": ["Rep. Aylesworth: Governor ceremonially signs new law protecting farms, businesses from floods", "Indiana House Republicans", "2025-08-29", "https://www.indianahouserepublicans.com/news/press-releases/rep.-aylesworth-governor-ceremonially-signs-new-law-protecting-farms-businesses-from-floods/"],
+  "aylesworth_hea1019": ["Governor ceremonially signs new law authored by Aylesworth to address Indiana's rural judicial shortage", "Indiana House Republicans", "2026-04-30", "https://www.indianahouserepublicans.com/news/press-releases/governor-ceremonially-signs-new-law-authored-by-aylesworth-to-address-indiana-s-rural-judicial-shortage/"],
+  "fd_hb1019": ["Indiana HB 1019 (2026): Constitutional amendment ballot question", "FastDemocracy", "2026", "https://fastdemocracy.com/bill/in/2026/bills/INB00014752"],
+  "bt50_aylesworth": ["Legislator scorecard: Mike Aylesworth", "BillTrack50", "2026", "https://www.billtrack50.com/public/scorecard/legislator/TNvEht1gV0ilLkxyi9h0rQ/19531"],
+  "icc_hb1032_house": ["Indiana House approves redistricting bill, sending issue to state Senate", "Indiana Capital Chronicle (via Yahoo News)", "2025-12-05", "https://www.yahoo.com/news/articles/indiana-house-approves-redistricting-bill-185219428.html"],
+  "wiki_2026_inhouse": ["2026 Indiana House of Representatives election", "Wikipedia", "2026-10", "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"],
+  "ballotbrief_hd11": ["Jasper County ballot", "The Ballot Brief", "2026-09", "https://theballotbrief.com/state/indiana/jasper-county"],
+  "bridges_home": ["Tyler Bridges for Indiana House District 11", "Bridges campaign", "2026-10", "https://bridgesford11.com/"],
+  "bridges_candidate": ["The Candidate", "Bridges campaign", "2026-10", "https://bridgesford11.com/the-candidate"],
+  "bridges_policy": ["My Legislative Priorities", "Bridges campaign", "2026-10", "https://bridgesford11.com/policy"],
+  "ivg_bridges": ["Tyler Thomas Bridges", "iVoterGuide", "2026-10", "https://ivoterguide.com/candidate/94597/race/30660/election/1456"]
+ }
+}
