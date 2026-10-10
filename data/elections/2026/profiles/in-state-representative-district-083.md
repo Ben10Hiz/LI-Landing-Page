@@ -92,7 +92,7 @@ Campaign website: https://christopherjudyforindiana.com/
 
 ## Wesley Haffenden
 
-Wesley Haffenden is a real estate broker with an MBA running his first listed campaign for the House [19]. He was unopposed in the Democratic primary [15].
+Wesley Haffenden is a real estate broker with an MBA who was raised in rural northeast Indiana [19]. He was unopposed in the Democratic primary [15].
 
 Campaign website: https://www.wesleyhaffenden.com/
 

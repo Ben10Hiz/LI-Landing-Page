@@ -1,0 +1,241 @@
+{
+ "race_id": "in-state-representative-district-078",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Tim O'Brien",
+  "party": "Republican",
+  "summary": "Tim O'Brien, an Evansville Republican and real estate broker, has represented House District 78 since 2021, when a Republican caucus chose him to fill the seat Holli Sullivan left on becoming Secretary of State {caucus_obrien} {news14_sworn}. He chairs the House Ways and Means K-12 subcommittee {caucus_obrien}.",
+  "record": [
+   "Serves on Government and Regulatory Reform, Ways and Means (chair of its K-12 subcommittee) and Veterans Affairs and Public Safety, per the House Republican caucus {caucus_obrien}.",
+   "April 10, 2025: Voted yes on SEA 1, the 2025 property-tax law (passed 65-29) {rc_sea1_433}. April 25, 2025: Voted yes on the 2025 budget (HEA 1001), adopted 66-27 {rc_hb1001_576}. Dec. 5, 2025: Voted yes on HB 1032, the mid-decade congressional redistricting bill, which passed the House 57-41 {rc_hb1032_28}.",
+   "Jan. 28, 2026: Voted yes on HB 1002, the 2026 electric utility affordability bill (passed 89-4) {rc_hb1002_149}.",
+   "2026 session: Authored HEA 1250, requiring the Department of Correction to give victims and local police seven days' electronic notice before a serious violent felon's release; co-authored HEA 1001, the House Republican housing bill that limits local regulations the caucus says raise home prices {caucus_session2026}.",
+   "Laws the caucus lists as his include a 2022 requirement that school boards allow public comment, 2023 protection of firefighters' personal information online, and 2025 laws creating an Indiana-Ireland trade commission and pediatric and breast cancer research grants {caucus_obrien}.",
+   "Critique: Challenger Sally Busby's campaign says O'Brien voted against eleven consumer-protection amendments to HB 1002 and links his campaign contributions from real estate and utility PACs to his legislation {busby_site} {busby_accountability}. No response from O'Brien was found."
+  ]
+ },
+ "race_context": [
+  "House District 78 covers parts of Vanderburgh and Warrick counties in southwestern Indiana {caucus_obrien}; Busby describes campaigning from McCutchanville to Newburgh {busby_site}.",
+  "O'Brien was reelected without opposition in 2024 {wiki_2026}. Both O'Brien and Sally Busby were unopposed for their parties' nominations in the May 5, 2026 primary {wiki_2026}.",
+  "Forums: The Evansville NAACP and League of Women Voters of Southwestern Indiana invited all local and state candidates on the ballot to a Sept. 12, 2026 forum in Evansville {wnin_forum}; which candidates attended was not reported. No head-to-head debate was found.",
+  "Key differences: Busby centers her campaign on utility rate caps and public school funding instead of vouchers {busby_priorities}; O'Brien cites state investments in education, housing supply and child care {news_obrien_rerun} {caucus_session2026}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Sally Busby",
+   "summary": "Sally Busby is an assistant professor in the University of Evansville School of Education and a former middle school teacher, making her first run for office {evpl_guide} {busby_meet}. She focuses on utility bills and public school funding {busby_site}.",
+   "website": "https://www.sallyforindiana.com",
+   "background": [
+    "Assistant professor at the University of Evansville School of Education; previously taught middle school for fifteen years; holds a doctorate in literacy research {evpl_guide} {busby_meet}.",
+    "Active in Rotary, Bridge, the NAACP and the League of Women Voters; has not held elected office {evpl_guide}. Lives in District 78 {busby_meet}."
+   ],
+   "path_to_ballot": [
+    "Filed Feb. 3, 2026 at the Vanderburgh County elections office {wnin_filing}; unopposed in the May 5, 2026 Democratic primary {wiki_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Energy & utilities",
+     "items": [
+      "Supports \"real rate caps and accountability\" for utilities such as CenterPoint, statutory caps on single-year rate hikes, outage compensation, repeal of the SB 271 carve-out and legalizing community solar and wind micro-grids {busby_priorities}.",
+      "Says she opposes rate increases beyond what the state Office of Utility Consumer Counselor found justified {busby_site}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "\"Fully fund public schools instead of draining them to pay for vouchers\"; supports smaller classes and support for students who learn differently {busby_priorities}. Says voucher funding \"should follow a kid into a classroom that has to take them\" {busby_site}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Seeks to \"Protect and expand access to affordable healthcare for working families\" and support families caring for relatives with disabilities {busby_priorities}."
+     ]
+    },
+    {
+     "topic": "Housing",
+     "items": [
+      "Supports protections against \"unfair rent hikes and surprise fees\" and accountability for landlords who do not maintain safe homes {busby_priorities}."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Supports apprenticeship pathways, collective bargaining rights and investment in the trades and health care workforce {busby_priorities}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Says her opponent \"voted no on every single one\" of eleven consumer-protection amendments to HB 1002 and that she \"will vote yes\" {busby_site}.",
+    "Her campaign's accountability page lists real estate, builder and utility PAC contributions to O'Brien and criticizes housing, utility and education bills he co-authored or supported, including HB 1001 (2026) and HB 1136 {busby_accountability}."
+   ],
+   "plans": [
+    "Says she holds regular town halls and wants a representative who is present year-round {busby_meet}. Says she is not taking corporate PAC money {busby_site}."
+   ],
+   "endorsements_finance": [
+    "No endorsements listed on her campaign site; she says she is not accepting corporate PAC money {busby_site}. No campaign finance totals found."
+   ],
+   "gaps": [
+    "No position found on the 2025 property-tax law (SEA 1), data centers or redistricting.",
+    "Campaign finance totals not found.",
+    "A podcast episode (seen in search results only) discusses her reasons for running; not reviewed.",
+    "Her campaign's figures for projected utility bill savings are campaign estimates and were not verified."
+   ]
+  },
+  {
+   "ballot_name": "Tim O'Brien",
+   "summary": "Tim O'Brien is a realtor who has represented District 78 since 2021 and chairs the Ways and Means K-12 subcommittee {caucus_obrien} {evpl_guide}. He cites investments in education, housing and child care in seeking reelection {news_obrien_rerun} {caucus_session2026}.",
+   "website": "https://timobrienforstaterep.com/",
+   "background": [
+    "Real estate broker; economics graduate of the University of Southern Indiana (2015); in 2019 became the youngest president of the Southwest Indiana Association of Realtors {caucus_obrien}.",
+    "Chairs the Heritage Federal Credit Union board and has served on the Evansville Land Bank board; named 2025 Easterseals Evansville Legislator of the Year and a 2025 Boys & Girls Clubs of Indiana Legislative Champion {caucus_obrien} {evpl_guide}. Lives in Evansville {caucus_obrien}."
+   ],
+   "path_to_ballot": [
+    "Unopposed in the May 5, 2026 Republican primary {wiki_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Housing",
+     "items": [
+      "On HEA 1001: \"These new laws will help expand housing supply\" {caucus_session2026}. Co-authored a 2026 bill limiting HOA fee increases and protecting home-based child care {caucus_obrien}."
+     ]
+    },
+    {
+     "topic": "Public safety",
+     "items": [
+      "Authored the 2026 law on advance notice to victims and police before a serious violent felon's release {caucus_session2026}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Points to \"historic investments in education\" as an accomplishment {news_obrien_rerun}."
+     ]
+    },
+    {
+     "topic": "Child care",
+     "items": [
+      "Co-sponsored SEA 4, allowing state reserve money to fund the Child Care and Development Fund voucher program {caucus_session2026}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. Said serving the district is \"an honor I never take for granted\" and \"there's more to do\" {news_obrien_rerun}. No statements about Busby were found."
+   ],
+   "plans": [
+    "Says \"Hoosiers deserve leaders who stay focused on real-world results\" {news_obrien_rerun}."
+   ],
+   "endorsements_finance": [
+    "No 2026 endorsements or campaign finance totals were found; Busby's campaign lists contributions it says he received from real estate, utility and other PACs in 2022–2026 {busby_accountability}."
+   ],
+   "gaps": [
+    "Campaign website has no issue pages.",
+    "No statement found from O'Brien on utility rates, data centers, the 2025 property-tax law or his redistricting vote.",
+    "Campaign finance totals not independently checked.",
+    "Busby's specific claims (eleven HB 1002 amendment votes, PAC totals, HB 1136 school-district provisions, SB 271/HB 1209) were not verified against roll calls or filings.",
+    "The WEHT reelection story's exact publication date was not shown."
+   ]
+  }
+ ],
+ "sources": {
+  "caucus_obrien": [
+   "Tim O'Brien",
+   "Indiana House Republican Caucus",
+   "accessed 2026-10-10",
+   "https://www.indianahouserepublicans.com/members/general/tim-o-brien"
+  ],
+  "caucus_session2026": [
+   "O'Brien: Legislative session ends with new laws to help Hoosiers",
+   "Indiana House Republican Caucus",
+   "2026-03-18",
+   "https://www.indianahouserepublicans.com/news/press-releases/o-brien-legislative-session-ends-with-new-laws-to-help-hoosiers/"
+  ],
+  "news14_sworn": [
+   "O'Brien sworn in as new State Rep. for House District 78",
+   "14 News (WFIE)",
+   "2021-03-29",
+   "https://www.14news.com/2021/03/29/republican-caucus-fill-rep-seat-after-sullivan-named-secretary-state/"
+  ],
+  "news_obrien_rerun": [
+   "State Representative Tim O'Brien running for reelection",
+   "Eyewitness News (WEHT/WTVW)",
+   "2026",
+   "https://www.tristatehomepage.com/news/your-local-election-hq/state-representative-tim-obrien-running-for-reelection/amp/"
+  ],
+  "busby_site": [
+   "Sally Busby for Indiana House District 78",
+   "Sally Busby campaign",
+   "accessed 2026-10-10",
+   "https://www.sallyforindiana.com"
+  ],
+  "busby_meet": [
+   "Meet Sally",
+   "Sally Busby campaign",
+   "accessed 2026-10-10",
+   "https://www.sallyforindiana.com/meet-sally"
+  ],
+  "busby_priorities": [
+   "Priorities",
+   "Sally Busby campaign",
+   "accessed 2026-10-10",
+   "https://www.sallyforindiana.com/priorities"
+  ],
+  "busby_accountability": [
+   "Accountability",
+   "Sally Busby campaign",
+   "accessed 2026-10-10",
+   "https://www.sallyforindiana.com/accountability"
+  ],
+  "evpl_guide": [
+   "Voter Guide 2026",
+   "Evansville Vanderburgh Public Library / Evansville NewsLab",
+   "accessed 2026-10-10",
+   "https://www.evpl.org/?p=30372"
+  ],
+  "wnin_forum": [
+   "Candidates Forum Set for Saturday",
+   "WNIN",
+   "2026-09-09",
+   "https://news.wnin.org/election-2026/2026-09-09/candidates-forum-set-for-saturday"
+  ],
+  "wnin_filing": [
+   "Vanderburgh Democrats bring several challengers to GOP-controlled county, state, national seats",
+   "WNIN",
+   "2026-02-05",
+   "https://news.wnin.org/2026-02-05/vanderburgh-democrats-bring-several-challengers-to-gop-controlled-county-state-national-seats"
+  ],
+  "rc_sea1_433": [
+   "House Roll Call 433: SB 1 (Local government finance), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-10",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  ],
+  "rc_hb1001_576": [
+   "House Roll Call 576: HB 1001 (State budget), conference committee report",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-25",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  ],
+  "rc_hb1032_28": [
+   "House Roll Call 28: HB 1032 (Redistricting), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-12-05",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  ],
+  "rc_hb1002_149": [
+   "House Roll Call 149: HB 1002 (Electric utility affordability), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2026-01-28",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1002-rollcalls-HB1002-149-H-pdf.pdf"
+  ],
+  "wiki_2026": [
+   "2026 Indiana House of Representatives election",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  ]
+ }
+}

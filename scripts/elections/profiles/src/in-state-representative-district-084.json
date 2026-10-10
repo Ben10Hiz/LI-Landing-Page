@@ -1,0 +1,214 @@
+{
+ "race_id": "in-state-representative-district-084",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Bob Morris",
+  "party": "Republican",
+  "summary": "Bob Morris, a Fort Wayne small-business owner, has represented House District 84 since 2010 and chairs the House Commerce, Small Business and Economic Development Committee {caucus_morris}. In 2026 he filed a bill to require that execution teams be made up of volunteer legislators, saying he opposes the death penalty {caucus_hb1287}.",
+  "record": [
+   "Committees: Commerce, Small Business and Economic Development (chair); Employment, Labor and Pensions; Utilities, Energy and Telecommunications, according to the House Republican caucus {caucus_morris}.",
+   "2026: Filed HB 1287, requiring the state prison warden to select an execution team only from General Assembly members who volunteer, with their names public {caucus_hb1287}. Morris said, \"Don't give anyone a job that you wouldn't want to do yourself\" {caucus_hb1287}. WANE reported he came out against the death penalty in 2024 and that his earlier repeal bill, HB 1030, received no committee hearing {wane_hb1287}.",
+   "2026: Co-authored HEA 1424, described by the caucus as supporting farmers and small businesses {caucus_newlaws}.",
+   "Voted yes on SEA 1, the 2025 property-tax law (April 10, 2025) {rc_sea1_433} and HB 1032, the congressional redistricting bill (Dec. 5, 2025) {rc_hb1032_28}. Was recorded as excused on the April 25, 2025 vote adopting the HEA 1001 budget conference report {rc_hb1001_576}."
+  ]
+ },
+ "race_context": [
+  "House District 84 is in Allen County and includes part of Fort Wayne and most of St. Joe Township, according to the House Republican caucus {caucus_morris}.",
+  "Morris was reelected unopposed in 2024 {wiki_2026}. Both nominees were unopposed in the May 5, 2026 primaries {wiki_2026}.",
+  "Key differences: Morris's legislative focus includes commerce and small business, and he joined other northeast Indiana legislators in highlighting a state utility-affordability review {caucus_morris} {caucus_iurc}; Meehan's campaign focuses on cost of living, housing, child care and corporate tax breaks {meehan_issues}.",
+  "No debate or forum for this race was found."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Bob Morris",
+   "summary": "Incumbent since 2010 and chair of the House Commerce, Small Business and Economic Development Committee {caucus_morris}.",
+   "website": null,
+   "background": [
+    "Small-business owner who has founded several ventures in the district; B.S. from Indiana University {caucus_morris}.",
+    "Former state-sworn reserve officer with the New Haven Police Department (2005–2006); serves on the boards of Purdue University Extension Service and Northeast Indiana Crime Stoppers, according to the caucus {caucus_morris}.",
+    "Moved to Fort Wayne in 1976 and graduated from Bishop Dwenger High School {caucus_morris}."
+   ],
+   "path_to_ballot": [
+    "Unopposed in the May 5, 2026 Republican primary {wiki_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Public safety",
+     "items": [
+      "Says of the death penalty: \"I do not believe that another human being should be taking a human life\" {caucus_hb1287}. Told 21Alive that if the law stands, \"the same people who voted for it should fully understand what it means\" {wpta_hb1287}."
+     ]
+    },
+    {
+     "topic": "Energy & utilities",
+     "items": [
+      "Said the March 2026 IURC energy-affordability investigation, which included Indiana Michigan Power, \"adds another layer of accountability\" to HEA 1002 {caucus_iurc}."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "On HEA 1424: \"Farmers and small business owners work hard to provide quality products to their communities\" {caucus_newlaws}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No public statements about his challenger were found."
+   ],
+   "plans": [
+    "No 2026 campaign platform was found; his campaign domain points to his caucus page {morris_site}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or fundraising figures were verified."
+   ],
+   "gaps": [
+    "No campaign issue statements for 2026 were found.",
+    "Final status of HB 1287 was not confirmed; a search snippet suggested it did not advance.",
+    "Campaign finance totals not checked."
+   ]
+  },
+  {
+   "ballot_name": "Misti Meehan",
+   "summary": "Misti Meehan is a small-business owner who says she has worked more than a decade with the Allen County Election Board {meehan_about}. She was unopposed in the Democratic primary {wiki_2026}.",
+   "website": "https://www.meehanfor84.com/",
+   "background": [
+    "Small-business owner; served in the Indiana Army National Guard {meehan_about}.",
+    "Says she has worked with the Allen County Election Board for over a decade {meehan_about}.",
+    "In 2019 she was chair of the Allen County Democratic Party and announced a run for the 1st District seat on the Fort Wayne City Council {wowo_2019}.",
+    "Attended Northrop High School and IPFW; says she was born and raised in the community {meehan_about}."
+   ],
+   "path_to_ballot": [
+    "Unopposed in the May 5, 2026 Democratic primary {wiki_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Says \"too many working people are struggling while large corporations receive tax breaks and special treatment\" and that businesses must succeed \"but not on the backs of Hoosier families\" {meehan_issues} {meehan_site}."
+     ]
+    },
+    {
+     "topic": "Housing",
+     "items": [
+      "Says \"Families are being priced out of their own communities\" {meehan_issues}."
+     ]
+    },
+    {
+     "topic": "Child care",
+     "items": [
+      "Says \"childcare has become unaffordable or unavailable for many\" {meehan_issues}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "No statements about Morris or his record were found on her website {meehan_site}."
+   ],
+   "plans": [
+    "Says she wants \"practical solutions that lower costs, strengthen our local economy\" {meehan_issues} and to bring \"practical, bipartisan leadership back to the Statehouse\" {meehan_site}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or fundraising figures were verified."
+   ],
+   "gaps": [
+    "No news coverage of her 2026 campaign was found.",
+    "Her website offers no specific policy proposals.",
+    "Outcome of her 2019 city council bid not checked.",
+    "Campaign finance totals not checked."
+   ]
+  }
+ ],
+ "sources": {
+  "caucus_morris": [
+   "State Rep. Bob Morris: biography and committees",
+   "Indiana House Republican Caucus",
+   "accessed 2026-10-10",
+   "https://www.indianahouserepublicans.com/members/general/bob-morris/"
+  ],
+  "caucus_hb1287": [
+   "State Rep. Morris introduces legislation on execution procedures in Indiana",
+   "Indiana House Republican Caucus",
+   "2026-01-14",
+   "https://www.indianahouserepublicans.com/news/press-releases/state-rep.-morris-introduces-legislation-on-execution-procedures-in-indiana/"
+  ],
+  "wane_hb1287": [
+   "Newly introduced Indiana bill would require General Assembly members to conduct executions",
+   "WANE 15",
+   "2026-01",
+   "https://www.wane.com/news/newly-introduced-indiana-bill-would-require-general-assembly-members-to-conduct-executions/amp"
+  ],
+  "wpta_hb1287": [
+   "New state bill would require Indiana lawmakers to join 'execution team'",
+   "WPTA 21Alive",
+   "2026-01-07",
+   "https://www.21alivenews.com/2026/01/07/new-state-bill-invites-lawmakers-join-execution-team"
+  ],
+  "caucus_newlaws": [
+   "Allen County legislators highlight new state laws taking effect",
+   "Indiana House Republican Caucus",
+   "2026-06-25",
+   "https://www.indianahouserepublicans.com/news/press-releases/allen-county-legislators-highlight-new-state-laws-taking-effect/"
+  ],
+  "caucus_iurc": [
+   "Northeast Indiana legislators: IURC announces energy affordability investigation",
+   "Indiana House Republican Caucus",
+   "2026-03-06",
+   "https://www.indianahouserepublicans.com/news/press-releases/northeast-indiana-legislators-iurc-announces-energy-affordability-investigation/"
+  ],
+  "morris_site": [
+   "Bob Morris, Indiana State Representative",
+   "Bob Morris campaign",
+   "accessed 2026-10-10",
+   "https://www.votebobmorris.com/"
+  ],
+  "meehan_site": [
+   "Misti Meehan for State Representative",
+   "Misti Meehan campaign",
+   "accessed 2026-10-10",
+   "https://www.meehanfor84.com/"
+  ],
+  "meehan_about": [
+   "About",
+   "Misti Meehan campaign",
+   "accessed 2026-10-10",
+   "https://www.meehanfor84.com/about"
+  ],
+  "meehan_issues": [
+   "Issues",
+   "Misti Meehan campaign",
+   "accessed 2026-10-10",
+   "https://www.meehanfor84.com/issues"
+  ],
+  "wowo_2019": [
+   "Chair of Allen County Democratic Party to run for city council",
+   "WOWO",
+   "2019-06-28",
+   "https://www.wowo.com/chair-of-allen-county-democratic-party-to-run-for-city-council/"
+  ],
+  "rc_hb1032_28": [
+   "House Roll Call 28: HB 1032 (Redistricting), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-12-05",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  ],
+  "rc_sea1_433": [
+   "House Roll Call 433: SB 1 (Local government finance), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-10",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  ],
+  "rc_hb1001_576": [
+   "House Roll Call 576: HB 1001 (State budget), conference committee report",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-25",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  ],
+  "wiki_2026": [
+   "2026 Indiana House of Representatives election",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  ]
+ }
+}
