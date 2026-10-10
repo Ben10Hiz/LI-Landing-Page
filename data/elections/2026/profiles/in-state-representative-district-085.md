@@ -73,10 +73,6 @@ Campaign website: https://www.daveheine85.com/
 
 - Is the current officeholder. No statements by Heine about his 2026 challenger were found.
 
-### How they say they'd run the office
-
-- His campaign site says he "will continue to use my common sense farming and business background to be a conservative voice for House District 85" [14]. No 2026-specific agenda was found.
-
 ### Endorsements & fundraising
 
 - No endorsements or 2026 fundraising totals were found in the sources reviewed.
@@ -115,8 +111,6 @@ Democratic nominee; almost no public information about his background or positio
 ### What we couldn't verify
 
 - Very little coverage: no campaign website, news coverage or questionnaire answers were found.
-- iVoterGuide links to a Facebook page whose web address refers to "district43" (facebook.com/markbirdfordistrict43); it could not be viewed without logging in, so its contents and the reason for the district number are unverified.
-- Unverified (search snippets only): a Mark Wehrle ran as the Democratic nominee in House District 84 in 2006 and appeared on a 2008 candidate list; a third-party aggregator (GoodParty) also lists a Phil Goss as a 2026 Democratic candidate. Not confirmed against official records.
 
 ## Sources
 
