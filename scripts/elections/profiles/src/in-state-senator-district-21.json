@@ -1,0 +1,124 @@
+{
+ "race_id": "in-state-senator-district-21",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_senate",
+ "incumbent": {
+  "name": "Jim Buck",
+  "party": "Republican",
+  "summary": "Jim Buck, a Republican from Kokomo, has represented Senate District 21 since 2008 after serving in the Indiana House from 1994 to 2008, and the Senate Republican caucus lists him as chair of the Senate Committee on Local Government {buck_bio26}. He lost the May 5, 2026 Republican primary to Tracey Powell, so he is not on the November ballot and the seat will change hands {wiki_sd_2026}{fox59_primary}.",
+  "record": [
+   "August 2025: Announced a bid for another term, pointing to work on property taxes, education and health care and saying he was most proud of his work to reform the annexation process and local government; he said, \"Hoosiers deserve government that works responsibly within its means\" {buck_reelect}.",
+   "December 11, 2025: Was one of 21 Republican senators who joined all 10 Senate Democrats in voting against the mid-decade congressional redistricting bill, which failed 31-19, according to Wikipedia's accounts of the vote {wiki_sd_2026}{wiki_buck}. Fox59 reported that President Donald Trump later announced he would endorse challengers to four Republican incumbents, including Buck {fox59_primary}.",
+   "February 27, 2026: In a caucus release at the end of the 2026 session, said Senate Republicans had passed \"landmark welfare reform aimed at ending waste, fraud and abuse in the system\" {buck_session26}.",
+   "May 5, 2026: Lost the Republican primary to Tracey Powell; The Statehouse File, citing NPR, reported that Buck said he faced a $1 million campaign against him {wiki_sd_2026}{citizen_primary}."
+  ]
+ },
+ "race_context": [
+  "Senate District 21 includes Tipton County and portions of Hamilton and Howard counties, according to the Senate Republican caucus {buck_bio26}{buck_reelect}. Buck lives in Kokomo, Powell serves as a Tipton County commissioner, and Root lives in Sheridan {buck_bio26}{powell_site}{reporter_root}.",
+  "This is an open seat: incumbent Jim Buck lost the May 5, 2026 Republican primary to Tracey Powell, 8,523 votes (64.7%) to 4,648 (35.3%), according to Wikipedia's results table {wiki_sd_2026}. Fox59's primary-night report gave Powell 64.88% and Buck 35.12% {fox59_primary}.",
+  "The Republican primary followed Buck's December 2025 vote against mid-decade congressional redistricting; Trump endorsed Powell, and Turning Point Action held events supporting Powell and other challengers to Republican senators who opposed redistricting {wiki_sd_2026}{reporter_powell_trump}{indypol_tpa}.",
+  "Kirsten Root won the Democratic nomination; Wikipedia lists Navy veteran Joseph Kazlas as the other Democratic primary candidate {wiki_sd_2026}.",
+  "No general-election debate or forum between Powell and Root was found in available coverage as of October 10, 2026.",
+  "Both candidates name health care and taxes among their priorities: Powell emphasizes cutting taxes and regulation, while Root emphasizes property-tax relief that does not reduce local services and ending corporate tax breaks {powell_site}{root_site}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Tracey Powell",
+   "summary": "Tracey Powell, the Republican nominee, is a Tipton County commissioner, chiropractor, farmer and small business owner who defeated Sen. Jim Buck in the May 2026 primary {powell_site}{wiki_sd_2026}.",
+   "website": "https://powellforindiana.com",
+   "background": [
+    "Has served as a Tipton County commissioner since 2020 and works as a chiropractor, farmer and small business owner, according to the campaign {powell_site}{reporter_powell_run}.",
+    "Has held leadership posts in the Indiana County Commissioners Association, including regional vice chair, regional chair and treasurer on the executive board, and is vice president of the North Central Indiana Regional Planning Council {powell_site}{reporter_powell_run}.",
+    "Received the 2025 Legislative Service Award from the Indiana County Commissioners, according to a campaign release {reporter_powell_files}."
+   ],
+   "path_to_ballot": [
+    "Announced a run for Senate District 21 in September 2025 and filed in January 2026 {reporter_powell_run}{reporter_powell_files}.",
+    "Won the May 5, 2026 Republican primary over incumbent Jim Buck, 64.7% to 35.3%, according to Wikipedia's results table {wiki_sd_2026}."
+   ],
+   "positions": [
+    {"topic": "Property taxes", "items": ["Says Hoosiers \"should keep more of their hard-earned money\" and pledges to work for a tax structure that helps families and businesses, including reducing taxes and regulations that slow business growth {powell_site}."]},
+    {"topic": "Education", "items": ["Says \"Every child deserves access to a quality education\" and pledges to work to ensure schools are adequately funded and teachers have the tools they need {powell_site}."]},
+    {"topic": "Health care", "items": ["Attributes rising health costs to \"excessive regulations and government interference\" and says he would work to cut regulations that raise prices so patients can get care in Indiana rather than in other states {powell_site}."]},
+    {"topic": "Local government", "items": ["Says that as a senator Powell would bridge the gap between state and local government so communities have a stronger voice {powell_site}."]}
+   ],
+   "on_incumbent": [
+    "When announcing, Powell said, \"State government needs leaders who understand the challenges faced by our local communities\" and \"I'm running for State Senate to give our communities a stronger voice at the Statehouse\" {reporter_powell_run}.",
+    "In a filing release, Powell said, \"Indiana needs leaders who will fight for our values and ensure that Republican principles are protected\" {reporter_powell_files}."
+   ],
+   "plans": [
+    "Lists cutting taxes, strengthening schools, supporting health care access and policies that support families and businesses as campaign priorities {reporter_powell_files}{reporter_willis}."
+   ],
+   "endorsements_finance": [
+    "Endorsed by President Donald Trump before the primary; Powell met Trump in the Oval Office on March 4, 2026, according to a campaign-submitted release {reporter_powell_trump}.",
+    "Endorsed by Westfield Mayor Scott Willis (March 2026) and Howard County Commissioner Jack Dodd (April 2026) {reporter_willis}{reporter_dodd}.",
+    "Wikipedia's race page also lists endorsements from U.S. Sen. Jim Banks, U.S. Rep. Erin Houchin, Gov. Mike Braun, Americans for Prosperity and Turning Point Action {wiki_sd_2026}."
+   ],
+   "gaps": [
+    "No campaign finance totals were found for Powell's committee; the Indiana campaign finance portal was not checked successfully.",
+    "Current Publishing's April 2026 Q&A with the Republican primary candidates could not be accessed (403).",
+    "No statements by Powell about Democratic nominee Kirsten Root were found.",
+    "Some outlets spell the first name 'Tracy' (Fox59, The Statehouse File), and coverage uses inconsistent pronouns; the ballot name is Tracey Powell.",
+    "Search snippets referenced outside spending against Buck (including mailers attributed in a reader letter to Club for Growth Action); not verified."
+   ]
+  },
+  {
+   "ballot_name": "Kirsten Root",
+   "summary": "Kirsten Root, the Democratic nominee, is a social worker from Sheridan who has worked with the Indiana Department of Child Services in Hamilton County {reporter_root}.",
+   "website": "https://rootforindiana.org",
+   "background": [
+    "Is a social worker who lives in Sheridan and has worked for several years with the Indiana Department of Child Services in Hamilton County {reporter_root}.",
+    "Interned with the Westfield Fire Department's Mobile Integrated Health program and the IU Student Outreach Clinic in Indianapolis, and has advocated for social-work-informed programs in sheriff's and coroner's offices {reporter_root}.",
+    "Says she grew up in LaPorte and Rochester and was the first in her family to earn a master's degree, in social work {root_site}."
+   ],
+   "path_to_ballot": [
+    "Announced her campaign on January 22, 2026 {reporter_root}.",
+    "Won the Democratic nomination in the May 5, 2026 primary; Wikipedia lists Joseph Kazlas as the other Democratic candidate {wiki_sd_2026}."
+   ],
+   "positions": [
+    {"topic": "Health care", "items": ["Under the heading \"Care Before Crisis,\" says preventing problems costs less than responding to emergencies and calls for keeping health care close to home and strengthening mental health and addiction services {root_site}."]},
+    {"topic": "Property taxes", "items": ["Supports property-tax relief that does not \"gut local services\" {root_site}."]},
+    {"topic": "Economy & jobs", "items": ["Calls for ending corporate loopholes and tax breaks, requiring corporations that benefit from Indiana's labor and resources to contribute to local communities, and supporting small businesses and local jobs {root_site}."]},
+    {"topic": "Energy & utilities", "items": ["Lists fair utility bills among priorities for working families {root_site}."]},
+    {"topic": "Education", "items": ["Lists affordable child care and strong public schools among priorities {root_site}."]},
+    {"topic": "Public safety", "items": ["Calls for supporting first responders and addressing domestic violence and child safety; her announcement said she wants to help people facing emergencies before crises escalate and to reduce the burden on first responders {root_site}{reporter_root}."]}
+   ],
+   "on_incumbent": [
+    "Describes her campaign as built on community listening and said, \"I'm running for the folks who feel invisible when decisions are made\" {reporter_root}.",
+    "Her website calls for reducing waste, producing honest budgets and keeping decisions under local control {root_site}."
+   ],
+   "plans": [
+    "Launched a community survey for District 21 residents that the campaign said would guide outreach and legislative priorities {reporter_root}."
+   ],
+   "endorsements_finance": [
+    "Wikipedia's race page lists an endorsement from Vote Common Good {wiki_sd_2026}."
+   ],
+   "gaps": [
+    "Little news coverage of Root's campaign was found beyond her announcement.",
+    "No campaign finance totals were found.",
+    "No Democratic primary vote totals were found.",
+    "No statements by Root about Buck's record or about Powell were found.",
+    "Her website has an endorsements section, but no endorsements appeared in the fetched text."
+   ]
+  }
+ ],
+ "sources": {
+  "buck_bio26": ["State Senator Jim Buck, Senate District 21: Biography", "Indiana Senate Republicans", "2026", "https://cdn.zephyrcms.com/0e2f8ad6-dc86-4a40-93fe-9b4db14b25b5/-/inline/yes/buck-bio-2026.pdf"],
+  "buck_reelect": ["State Senator Jim Buck announces intent to run for re-election in 2026", "The Reporter (Hamilton County)", "2025-08-16", "https://readthereporter.com/state-senator-jim-buck-announces-intent-to-run-for-re-election-in-2026/"],
+  "buck_session26": ["Statement from State Sen. Jim Buck regarding the conclusion of the 2026 legislative session", "Indiana Senate Republicans", "2026-02-27", "https://www.indianasenaterepublicans.com/statement-from-state-sen-jim-buck-regarding-the-conclusion-of-the-2026-legislative-session"],
+  "wiki_sd_2026": ["2026 Indiana Senate election", "Wikipedia", "2026-10-10", "https://en.wikipedia.org/wiki/2026_Indiana_Senate_election"],
+  "wiki_buck": ["Jim Buck (Indiana politician)", "Wikipedia", "2026-10-10", "https://en.wikipedia.org/wiki/Jim_Buck_(Indiana_politician)"],
+  "fox59_primary": ["Primary Election Day: Indiana State Senate GOP results", "Fox59", "2026-05", "https://fox59.com/news/politics/primary-election-day-indiana-state-senate-gop-results/amp/"],
+  "citizen_primary": ["Senate races confirm Trump's continued influence on Indiana GOP", "The Statehouse File / The Indiana Citizen", "2026-05-06", "https://indianacitizen.org/?p=23932"],
+  "indypol_tpa": ["Turning Point Action tour of Senate challengers (Indy Politics column)", "Indy Politics", "2026-04-22", "https://indypolitics.org/?p=19634"],
+  "reporter_powell_run": ["Tipton County Commissioner Tracey Powell running for State District 21 seat", "The Reporter (Hamilton County)", "2025-09-09", "https://readthereporter.com/tipton-county-commissioner-tracey-powell-running-for-state-district-21-seat/"],
+  "reporter_powell_files": ["Tipton County Commissioner Tracey Powell officially files for Indiana State Senate District 21", "The Reporter (Hamilton County)", "2026-01-09", "https://readthereporter.com/tipton-county-commissioner-tracey-powell-officially-files-for-indiana-state-senate-district-21/"],
+  "reporter_powell_trump": ["Powell meets with President Trump in the Oval Office", "The Reporter (Hamilton County)", "2026-03-10", "https://readthereporter.com/?p=167376"],
+  "reporter_willis": ["Westfield Mayor Scott Willis endorses Tracey Powell for State Senate District 21", "The Reporter (Hamilton County)", "2026-03-19", "https://readthereporter.com/westfield-mayor-scott-willis-endorses-tracey-powell-for-state-senate-district-21/"],
+  "reporter_dodd": ["Howard County Commissioner Jack Dodd endorses Tracey Powell for State Senate", "The Reporter (Hamilton County)", "2026-04-15", "https://readthereporter.com/howard-county-commissioner-jack-dodd-endorses-tracey-powell-for-state-senate/"],
+  "powell_site": ["Tracey Powell for Indiana State Senate", "Powell campaign", "2026-10-10", "https://powellforindiana.com"],
+  "reporter_root": ["Kirsten Root announces campaign for Indiana State Senate District 21; launches community input survey", "The Reporter (Hamilton County)", "2026-01-23", "https://readthereporter.com/?p=164562"],
+  "root_site": ["Kirsten Root for Indiana State Senate", "Root campaign", "2026-10-10", "https://rootforindiana.org"]
+ }
+}
