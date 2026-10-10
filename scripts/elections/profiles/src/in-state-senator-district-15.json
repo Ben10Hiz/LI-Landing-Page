@@ -1,0 +1,237 @@
+{
+ "race_id": "in-state-senator-district-15",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_senate",
+ "incumbent": {
+  "name": "Liz Brown",
+  "party": "Republican",
+  "summary": "Liz Brown, a Fort Wayne attorney and mediator in the Senate since 2014 and a former at-large Fort Wayne City Council member, chairs the Senate Judiciary Committee and serves on the Appropriations, Corrections and Criminal Law, Ethics, and Health and Provider Services committees, according to the Senate Republican caucus. {brown_caucus} She is seeking a fourth term. {ipm_recount}",
+  "record": [
+   "2025: As Judiciary chair, did not give a committee hearing to House Bill 1531, an immigration enforcement bill, which died when the session ended; Attorney General Todd Rokita said she blocked it because of a \"family member who's an illegal alien,\" which Brown called \"blatantly false\" and answered by filing an attorney misconduct grievance. {ipm_immigration}",
+   "2025-12 to 2026: Authored Senate Bill 76, an immigration enforcement bill letting state agencies and the attorney general investigate suspected hiring of unauthorized workers; it cleared her committee 6–2 on 2025-12-09. {ipm_immigration} {brown_caucus} Rokita called her version \"watered-down\"; Brown said, \"The biggest thing is making sure that we didn't grow government.\" {ipm_immigration} The caucus reports the immigration enforcement bill was sent to the governor on 2026-02-25 and ceremonially signed on 2026-06-02. {brown_caucus}",
+   "2025-12-11: Voted for the mid-decade congressional redistricting bill, which the Senate defeated; President Trump endorsed her in March 2026. {ipm_trump_brown} Announcing her re-election bid, she said, \"It is apparent that effects linger from our failure to draw fair maps,\" and that the caucus has \"rebuilding to do to repair communication and trust with voters.\" {wpta_announce}",
+   "Health care and other bills: The caucus lists health care law changes (SB 132 in 2024, SB 473 in 2025), data privacy and cybersecurity bills, an eyewitness identification standards bill (2025), and a parental rights bill sent to the governor in April 2025. {brown_caucus} In her re-election announcement she cited bills restricting abortion, parental rights legislation, health care bills and a consumer data rights law. {wpta_announce}"
+  ]
+ },
+ "race_context": [
+  "Senate District 15 is entirely within Allen County and includes most of the county, including much of Fort Wayne. {ipm_recount} {jg_race}",
+  "Republican primary (May 5, 2026): Brown defeated Darren Vogt, a staffer for U.S. Sen. Jim Banks and Northwest Allen County Schools board member, 5,241 to 5,227 in certified totals. {ipm_recount} Vogt requested a recount on May 19 and asked the Recount Commission to dismiss it in July, saying it \"made sense not to waste anybody's time.\" {ipm_recount}",
+  "The primary followed disputes between Brown and Rokita and Banks over immigration legislation; Rokita gave $90,000 and Banks $35,000 from their campaign funds to Vogt, while groups led by Senate President Pro Tem Rodric Bray gave Brown more than $150,000, according to state records cited by the Capital Chronicle. {ipm_recount}",
+  "Democratic primary: Julie McGill defeated Chloe Andis with about 57% of the vote, per WBOI. {wboi_results} The two met in a March 14, 2026 primary debate hosted by the Progressive Indiana Network. {progind_debate}",
+  "Key differences: Brown says the 2025 property tax law made progress and emphasizes zero-based budgeting and spending restraint; McGill says SEA 1 \"did not deliver balanced property tax relief\" and that state reserves and federal matching funds should be used for affordability, health care and child care. {jg_race}"
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Julie McGill",
+   "summary": "Julie McGill is a Fort Wayne home care business owner and first-time candidate. {jg_race}",
+   "website": "https://www.mcgillforindiana.com/",
+   "background": [
+    "Founded Family Solutions Home Care in 2022; her campaign site says she holds a degree from Purdue Fort Wayne and a master's in actuarial science from Ball State and previously worked at Lincoln Financial Group. {mcgill_site}",
+    "Her BallotReady profile also lists property management (Rental Solutions FW LLC, since 2013) and work as an agency representative for Shelter Insurance (2015–2024). {ballotready_mcgill}",
+    "Her campaign site says she served on the founding leadership team of Indiana Families United for Care (2023–2025) and received The Arc of Indiana's 2024 Family Advocate Award as part of a statewide advocacy team. {mcgill_site}",
+    "Lives in Fort Wayne. {jg_race}"
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Democratic primary over Chloe Andis with about 57% of the vote. {wboi_results}"
+   ],
+   "positions": [
+    {
+     "topic": "Property taxes",
+     "items": [
+      "Says SEA 1 \"did not deliver balanced property tax relief,\" arguing the $300 homeowner credit is too small while the business personal property exemption rose to $2 million; wants to rework it to protect homeowners while keeping small-business relief. {jg_race}"
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Lists addressing the Medicaid waiver waitlist for Hoosiers with disabilities as a first priority and wants to close coverage gaps in the Healthy Indiana Plan. {jg_race}",
+      "Her campaign site emphasizes protecting access to Medicaid while saying safety-net programs need fiscal responsibility and oversight. {mcgill_site}"
+     ]
+    },
+    {
+     "topic": "Energy & utilities",
+     "items": [
+      "Wants transparency requirements on utility rate increases. {jg_race} In the primary debate she opposed data centers on prime farmland and said they should pay their fair share rather than be subsidized by household bills. {progind_debate}"
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Her BallotReady profile supports school choice without tax shifts to homeowners, targeting vouchers to families who need them, accountability for schools receiving public funds, and higher teacher pay. {ballotready_mcgill}"
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Would require economic development deals to prove job creation. {jg_race}"
+     ]
+    },
+    {
+     "topic": "Housing",
+     "items": [
+      "Said in the primary debate that the 2025 housing law missed the mark and called for regulating large landlords and out-of-state investors buying single-family homes. {progind_debate}"
+     ]
+    },
+    {
+     "topic": "Public safety",
+     "items": [
+      "Her BallotReady profile proposes counting repeated thefts together across county lines, expanding online reporting of non-emergency property crimes, and a statewide digital evidence portal. {ballotready_mcgill}"
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Her criticism of SEA 1 is directed at a law Brown has supported; no direct statements by McGill naming Brown were found. {jg_race}"
+   ],
+   "plans": [
+    "Top goals listed to the Journal Gazette: fix SEA 1 so relief reaches homeowners, utility rate transparency, expanded health care and child care access, the Medicaid waiver waitlist, Healthy Indiana Plan coverage gaps, regular District 15 town halls, and proof of job creation for economic development deals. {jg_race}"
+   ],
+   "endorsements_finance": [],
+   "gaps": [
+    "No endorsements or fundraising totals verified.",
+    "Discrepancy: the Journal Gazette (2026-10-02) says she was unopposed in the primary, but WBOI reports she defeated Chloe Andis with 57%; Wikipedia lists 3,092 (55.6%) to 2,466.",
+    "Unverified (search snippets only): Capital Chronicle voter guide answers (HTTP 403) on free enterprise and her priorities.",
+    "Primary-debate positions come from a summary posted by an advocacy outlet (Progressive Indiana), not a transcript.",
+    "No general-election debate or forum found as of 2026-10-10."
+   ]
+  },
+  {
+   "ballot_name": "Liz Brown",
+   "summary": "Liz Brown is the incumbent senator, a Fort Wayne mediator and Senate Judiciary Committee chair first elected in 2014. {brown_caucus} {jg_race}",
+   "website": null,
+   "background": [
+    "Owner of Brown Mediation LLC, licensed to practice law in Indiana and Ohio; University of Notre Dame and University of Iowa law graduate. {brown_caucus}",
+    "Served on the Fort Wayne City Council at-large before joining the Senate. {brown_caucus} {jg_race}",
+    "Lives in Fort Wayne. {jg_race}"
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Republican primary over Darren Vogt by 14 votes in certified totals; Vogt withdrew his recount request in July 2026. {ipm_recount}"
+   ],
+   "positions": [
+    {
+     "topic": "Property taxes",
+     "items": [
+      "Says progress has been made on property taxes, citing relief for seniors, disabled veterans and businesses and more transparency in local spending, and that more work remains. {jg_race}"
+     ]
+    },
+    {
+     "topic": "State budget",
+     "items": [
+      "Names affordability as the most pressing issue, through zero-based budgeting, cutting spending before raising taxes, and limited government; said, \"The State of Indiana is living within its means.\" {jg_race}"
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Plans to continue health care bills aimed at lowering costs and increasing transparency. {jg_race}"
+     ]
+    },
+    {
+     "topic": "Taxes",
+     "items": [
+      "Wants a state tax break for seniors modeled on a federal Social Security tax provision. {jg_race}"
+     ]
+    },
+    {
+     "topic": "Immigration",
+     "items": [
+      "Says she worked with law enforcement and the governor's administration on immigration enforcement legislation after concerns raised by sheriffs. {wane_rokita}"
+     ]
+    },
+    {
+     "topic": "Social policy",
+     "items": [
+      "Plans to reintroduce a bill defining \"male\" and \"female\" in state code. {jg_race}"
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No statements about Julie McGill were found. {jg_race}",
+    "During the primary she called Rokita's criticism personal and politically motivated, described the race as a \"proxy war,\" and said outside spending including \"dark money\" was going to her opponent. {wane_rokita} After the recount was dropped she called it \"costly, time-consuming and unnecessary.\" {ipm_recount}"
+   ],
+   "plans": [
+    "Top goals listed to the Journal Gazette: more health care cost and transparency bills, a male/female definitions bill, and a state senior tax break tied to Social Security. {jg_race}"
+   ],
+   "endorsements_finance": [
+    "Endorsed by President Trump in March 2026. {ipm_trump_brown}",
+    "Campaign groups led by Senate President Pro Tem Rodric Bray gave her campaign more than $150,000 before the primary, per state records cited by the Capital Chronicle. {ipm_recount}"
+   ],
+   "gaps": [
+    "No current campaign website found; her campaign uses a Facebook page.",
+    "Her recorded votes on the 2025 property tax law (SEA 1) and the 2025 state budget were not verified from a readable source.",
+    "Unverified (secondary listing only): endorsements from Gov. Mike Braun, Rep. Bob Morris, Indiana Farm Bureau AgELECT PAC and NFIB Indiana PAC.",
+    "The WANE article on the Rokita dispute showed only a relative date (about six months before 2026-10-10); the date given is approximate.",
+    "No general-election debate or forum found as of 2026-10-10."
+   ]
+  }
+ ],
+ "sources": {
+  "brown_caucus": [
+   "Liz Brown: Indiana State Senator, District 15",
+   "Indiana Senate Republican Caucus",
+   "2026",
+   "https://www.indianasenaterepublicans.com/brown"
+  ],
+  "jg_race": [
+   "State senator, local business owner vie for District 15 seat",
+   "The Journal Gazette",
+   "2026-10-02",
+   "https://www.journalgazette.net/elections/state-senator-local-business-owner-vie-for-district-15-seat/article_73dfb07b-d0a0-4f7a-906e-8b9b57c3fca9.html"
+  ],
+  "ipm_recount": [
+   "Challenger drops recount of 14-vote GOP primary margin for state Sen. Liz Brown",
+   "Indiana Capital Chronicle via IPM/WFIU",
+   "2026-07-21",
+   "https://www.ipm.org/news/2026-07-21/challenger-drops-recount-of-14-vote-gop-primary-margin-for-state-sen-liz-brown"
+  ],
+  "ipm_immigration": [
+   "Immigration crackdown bill continues Indiana Republican split",
+   "Indiana Capital Chronicle via IPM/WFIU",
+   "2025-12-10",
+   "https://www.ipm.org/news/2025-12-10/immigration-crackdown-bill-continues-indiana-republican-split"
+  ],
+  "ipm_trump_brown": [
+   "Trump endorses Sen. Liz Brown, other Republicans who supported Indiana redistricting",
+   "Indiana Capital Chronicle via IPM/WFIU",
+   "2026-03-25",
+   "https://www.ipm.org/news/2026-03-25/trump-endorses-sen-liz-brown-other-republicans-who-supported-indiana-redistricting"
+  ],
+  "wpta_announce": [
+   "State Sen. Liz Brown announces run for re-election",
+   "21Alive (WPTA)",
+   "2026-01-07",
+   "https://www.21alivenews.com/2026/01/07/state-sen-liz-brown-announces-run-re-election/"
+  ],
+  "wane_rokita": [
+   "Rokita, Brown trade criticisms as GOP primary tensions rise in northeast Indiana",
+   "WANE 15",
+   "2026-04",
+   "https://www.wane.com/top-stories/rokita-brown-trade-criticisms-as-gop-primary-tensions-rise-in-northeast-indiana/amp/"
+  ],
+  "wboi_results": [
+   "Allen County's final primary election results show tight win for Brown, Moss in Republican primary",
+   "WBOI",
+   "2026-05-18",
+   "https://www.wboi.org/government/2026-05-18/allen-countys-final-primary-election-results-show-tight-win-for-brown-moss-in-republican-primary"
+  ],
+  "progind_debate": [
+   "State Senate District 15 Democratic Primary Debate",
+   "Progressive Indiana Network",
+   "2026-03-14",
+   "https://www.progressiveindiana.net/p/state-senate-district-15-democratic"
+  ],
+  "mcgill_site": [
+   "Meet Julie",
+   "McGill for Indiana",
+   "2026",
+   "https://www.mcgillforindiana.com/meet-julie"
+  ],
+  "ballotready_mcgill": [
+   "Julie McGill",
+   "BallotReady",
+   "2026",
+   "https://www.ballotready.org/people/julie-mcgill"
+  ]
+ }
+}
