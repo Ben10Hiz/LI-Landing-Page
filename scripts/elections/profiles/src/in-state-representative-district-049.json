@@ -1,0 +1,161 @@
+{
+ "race_id": "in-state-representative-district-049",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Joanna King",
+  "party": "Republican",
+  "summary": "Joanna King, a Middlebury small-business owner and former Middlebury Community School Board president, has represented House District 49 since her appointment in December 2020 {caucus_king} {wiki_king}. Since December 2024 she has been Deputy Speaker Pro Tempore, part of the House Republican leadership team {caucus_leadership}.",
+  "record": [
+   "Leadership and committees: Deputy Speaker Pro Tempore, appointed by Speaker Todd Huston in December 2024, which lets her preside over floor sessions in his place {caucus_leadership}. Committees: Courts and Criminal Code; Government and Regulatory Reform; Public Health {caucus_king}. 2026 interim: Interim Study Committee on Public Safety and Military Affairs, Legislative Council and the Medicaid Advisory Commission, among others {caucus_interim_2026}.",
+   "2025 session: Authored HEA 1577, which creates a statewide food truck license so operators can work in multiple counties without a separate local license in each, with a combined fee capped at $450 {caucus_hea1577}.",
+   "April 10, 2025: Voted yes when the House passed SEA 1, the 2025 property-tax law, 65-29 {rc_sea1_433}. April 25, 2025: Voted yes on the 2025 state budget conference report (HEA 1001), adopted 66-27 {rc_hb1001_576}.",
+   "Dec. 5, 2025: Voted yes on HB 1032, the mid-decade congressional redistricting bill, which passed the House 57-41 {rc_hb1032_28}.",
+   "2026 session: Co-authored HEA 1408, which requires parental approval before users under 16 can open social media accounts and limits platform features that encourage compulsive use {caucus_hea1408}."
+  ]
+ },
+ "race_context": [
+  "House District 49 covers part of Elkhart County, according to the House Republican caucus {caucus_king}; WVPE describes it as including the Goshen and Middlebury areas {wvpe_d49}.",
+  "King was appointed in 2020 and re-elected unopposed in 2024 {wiki_2026}. She had no opponent in the May 5, 2026 Republican primary {gn_d49}.",
+  "Michelle Milne won a three-way Democratic primary with 1,471 votes (66.7%), ahead of Susan Lawson (445, 20.2%) and Monica Garbaciak (288, 13.1%) {wiki_2026}. Both King and Milne are on the November ballot {in_list}.",
+  "The Elkhart County Democrats held primary forums at the Goshen Theater in March and April 2026 {gn_d49} {wndu_d49}; King was not interviewed for WNDU's April forum story {wndu_d49}. No general-election debate between King and Milne was found.",
+  "Key differences: King voted for the 2025 budget and the 2025 property-tax law and says \"There is more to do to lower property taxes\" {rc_hb1001_576} {rc_sea1_433} {caucus_proptax_event}; Milne has criticized universal school voucher eligibility as drawing money from public schools and calls for fully funding public schools {wndu_d49} {milne_priorities}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Joanna King",
+   "summary": "Joanna King is the Republican incumbent and the House's Deputy Speaker Pro Tempore {caucus_leadership}. Her recent legislation has dealt with small-business licensing and children's online safety {caucus_hea1577} {caucus_hea1408}.",
+   "website": null,
+   "background": [
+    "Small-business owner who started her first business after high school and later co-owned tourism and hospitality businesses through King Corporation; lives in Middlebury; graduated from Northridge High School {caucus_king}.",
+    "Former president of the Middlebury Community School Board; board roles with the Elkhart County Boys & Girls Club {caucus_king}. Ran unsuccessfully for the Indiana Senate in 2016 and was appointed to the House in 2020, succeeding Christy Stutzman {wiki_king}."
+   ],
+   "path_to_ballot": [
+    "Unopposed in the May 5, 2026 Republican primary {gn_d49} {wiki_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Property taxes",
+     "items": [
+      "Moderated a Sept. 29, 2026 public discussion on property tax relief in Warsaw, where she said, \"This was a very lengthy discussion and we're not done\" and \"There is more to do to lower property taxes and make sure Hoosiers can keep more of their money\" {caucus_proptax_event}. Voted for SEA 1 (2025) {rc_sea1_433}."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Said of her food truck law: \"We're making it as easy as possible to own and operate a business, no matter where you are in the state\" {caucus_hea1577}."
+     ]
+    },
+    {
+     "topic": "Technology & online safety",
+     "items": [
+      "Said of HEA 1408: \"Indiana has a duty to protect minors from harm,\" and that the law is meant to \"give parents more control\" {caucus_hea1408}.",
+      "In an April 2026 column, urged Congress to set federal AI guardrails, including transparency in how models are trained and limits on autonomous weapons, writing that \"prudent oversight and innovation are not in conflict\" {caucus_ai_column}."
+     ]
+    },
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "Voted for HB 1032 (2025 congressional redistricting) {rc_hb1032_28}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No statements by King about Milne were found."
+   ],
+   "plans": [
+    "On property taxes, said after the September 2026 forum that there is \"more to do\" {caucus_proptax_event}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or fundraising figures were found."
+   ],
+   "gaps": [
+    "No 2026 campaign website, candidate survey responses or campaign interviews were found.",
+    "No specific 2027 legislative proposals found.",
+    "No fundraising data found."
+   ]
+  },
+  {
+   "ballot_name": "Michelle Milne",
+   "summary": "Michelle Milne is a director, producer, writer and educator from Goshen {milne_meet} {gn_d49}. She emphasizes public school funding, health care access, local control and affordability {milne_priorities}.",
+   "website": "https://michellemilnein49.com",
+   "background": [
+    "Works as a director, producer, actor, writer and educator; has taught at colleges and universities and taught classes in jails and prisons; formerly a journalist and editor, a project manager for nonprofit management research at IUPUI and an assistant development director at Habitat for Humanity {milne_meet}.",
+    "Described by the Goshen News as a Goshen native {gn_d49}; her campaign lists a Goshen mailing address {milne_meet}."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Democratic primary with 66.7% of the vote over Susan Lawson and Monica Garbaciak {wiki_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Education",
+     "items": [
+      "Calls for fully funding public schools \"that serve over 90% of Indiana's children\" and investing in teachers, support staff, transportation and meals for all students {milne_priorities}.",
+      "At an April 2026 forum, criticized universal voucher eligibility: \"Now anyone can get vouchers, no matter how wealthy they are,\" saying people above the income level \"are taking money away from our public schools\" {wndu_d49}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Supports expanding access to affordable health care, keeping local clinics and hospitals open and supporting mental health services and senior care {milne_priorities}."
+     ]
+    },
+    {
+     "topic": "Local control",
+     "items": [
+      "Supports local governments' priorities for their own communities and says she will \"Bring tax dollars back to District 49\" {milne_priorities}."
+     ]
+    },
+    {
+     "topic": "Housing & affordability",
+     "items": [
+      "Advocates for affordable housing, utilities, food and child care, and says the Statehouse should focus on \"making our daily lives easier and more affordable\" {milne_priorities} {milne_home}."
+     ]
+    },
+    {
+     "topic": "Agriculture",
+     "items": [
+      "Says she will \"Stand up for farmers who face rising costs\" and protect land, water and air quality {milne_priorities}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "No statements by Milne about King were found. Her campaign says, \"District 49 deserves a representative who listens and acts on what they hear\" {milne_why}."
+   ],
+   "plans": [
+    "Emphasizes bipartisan work: \"We share so many goals, so many values. We often just disagree on how to get there\" {wndu_d49} {wvpe_d49}. Also calls for reducing the role of big money and special interests in legislation {milne_home}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or fundraising figures were found."
+   ],
+   "gaps": [
+    "Her site links to a headline, \"Only one candidate shows for bipartisan education forum,\" but the article was not found, so which candidate attended is unverified.",
+    "No specific positions found on property taxes, data centers or redistricting.",
+    "No fundraising data found."
+   ]
+  }
+ ],
+ "sources": {
+  "caucus_king": ["Joanna King (member page)", "Indiana House Republicans", "accessed 2026-10-10", "https://www.indianahouserepublicans.com/members/general/joanna-king/"],
+  "caucus_leadership": ["Rep. King appointed to House majority leadership team", "Indiana House Republicans", "2024-12-26", "https://www.indianahouserepublicans.com/news/press-releases/rep.-king-appointed-to-house-majority-leadership-team/"],
+  "caucus_interim_2026": ["Elkhart County legislators receive 2026 summer study committee appointments", "Indiana House Republicans", "2026-07-10", "https://www.indianahouserepublicans.com/news/press-releases/elkhart-county-legislators-receive-2026-summer-study-committee-appointments/"],
+  "caucus_hea1577": ["Rep. King's bill to support food truck vendors signed into law", "Indiana House Republicans", "2025-05-27", "https://www.indianahouserepublicans.com/news/press-releases/rep.-king-s-bill-to-support-food-truck-vendors-signed-into-law/"],
+  "caucus_hea1408": ["Rep. King co-authors new law strengthening protections for Hoosier youth on social media", "Indiana House Republicans", "2026-03-12", "https://www.indianahouserepublicans.com/news/press-releases/rep.-king-co-authors-new-law-strengthening-protections-for-hoosier-youth-on-social-media/"],
+  "caucus_ai_column": ["COLUMN: Rep. King: Putting more guardrails on AI", "Indiana House Republicans", "2026-04-17", "https://www.indianahouserepublicans.com/news/press-releases/column-rep.-king-putting-more-guardrails-on-ai/"],
+  "caucus_proptax_event": ["Rep. King attends, moderates property tax event", "Indiana House Republicans", "2026-10-01", "https://www.indianahouserepublicans.com/news/press-releases/rep.-king-attends-moderates-property-tax-event/"],
+  "wiki_king": ["Joanna King", "Wikipedia", "accessed 2026-10-10", "https://en.wikipedia.org/wiki/Joanna_King"],
+  "rc_sea1_433": ["House Roll Call 433: SB 1 (Local government finance), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-04-10", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"],
+  "rc_hb1001_576": ["House Roll Call 576: HB 1001 (State budget), conference committee report", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-04-25", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"],
+  "rc_hb1032_28": ["House Roll Call 28: HB 1032 (Redistricting), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-12-05", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"],
+  "wiki_2026": ["2026 Indiana House of Representatives election", "Wikipedia", "accessed 2026-10-10", "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"],
+  "gn_d49": ["Goshen Democrats vying to contend against King", "The Goshen News", "2026-03-25", "https://www.goshennews.com/news/goshen-democrats-vying-to-contend-against-king/article_d19fb8f9-8cb0-4f38-bf3c-8bbbc845a2b6.html"],
+  "wvpe_d49": ["Three Democrats vying for Indiana House seat held by Republican Joanna King", "WVPE", "2026-04-24", "https://www.wvpe.org/wvpe-news/2026-04-24/three-democrats-vying-for-indiana-house-seat-held-by-republican-joanna-king"],
+  "wndu_d49": ["Goshen democrats host forum for voters to meet the three candidates running in the democratic primary", "WNDU", "2026-04-24", "https://www.wndu.com/2026/04/24/goshen-democrats-host-forum-voters-meet-three-candidates-running-democratic-primary/"],
+  "milne_home": ["Michelle Milne for State Representative (home page)", "Michelle Milne campaign", "accessed 2026-10-10", "https://michellemilnein49.com/"],
+  "milne_meet": ["Meet Michelle", "Michelle Milne campaign", "accessed 2026-10-10", "https://michellemilnein49.com/meet-michelle-milne"],
+  "milne_priorities": ["Priorities", "Michelle Milne campaign", "accessed 2026-10-10", "https://michellemilnein49.com/priorities"],
+  "milne_why": ["Why I'm Running", "Michelle Milne campaign", "accessed 2026-10-10", "https://michellemilnein49.com/why-im-running"]
+ }
+}

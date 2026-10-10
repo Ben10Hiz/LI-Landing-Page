@@ -37,7 +37,7 @@ Ben Smaltz, a Republican from Auburn, has served in the Indiana House since his 
 - Smaltz was re-elected in 2024 with 76.7% of the vote over Democrat Walt Sorg [15].
 - In the May 5, 2026 Republican primary, Smaltz defeated Eve Peters, 4,408 votes (73.7%) to 1,573 (26.3%), according to Wikipedia, which lists no Democratic primary candidate for the district [16]. Trost appears on the official general-election list [2].
 - No debate or forum between the two candidates was found as of October 10, 2026; Trost's campaign-trail page lists parades and fairs but no forums [17].
-- Smaltz's authorship of the 2025 redistricting bill has become a campaign issue in letters to the editor: an October 2026 letter in KPC News from Tobias Blech of Auburn criticized him for carrying the bill [18].
+- An October 9, 2026 letter to the editor in KPC News from Tobias Blech of Auburn criticized Smaltz for carrying the redistricting bill [18].
 
 ## Ben Smaltz
 
@@ -57,7 +57,7 @@ The Republican incumbent since 2012 and chair of the House Rules Committee [3].
 
 **Elections & redistricting**
 
-- Authored and defended the 2025 mid-decade congressional map, saying it "represents the best path forward" [11] and that the timeline "isn't the process any of us would prefer" [4].
+- Authored and defended the 2025 mid-decade congressional map, saying it "represents the best path forward" [11], while also saying "This isn't the process any of us would prefer" [4].
 
 **Public safety**
 
@@ -87,7 +87,7 @@ The Republican incumbent since 2012 and chair of the House Rules Committee [3].
 
 ## Joseph Trost
 
-The Democratic nominee, a construction worker making his first run for the seat, according to his campaign [14, 20].
+The Democratic nominee, a construction worker, according to his campaign [14, 20].
 
 Campaign website: https://www.trostfordistrict52.com/
 
