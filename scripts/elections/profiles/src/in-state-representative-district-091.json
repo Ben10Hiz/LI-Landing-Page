@@ -1,0 +1,205 @@
+{
+ "race_id": "in-state-representative-district-091",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Bob Behning",
+  "party": "Republican",
+  "summary": "Bob Behning (Robert W. Behning on the ballot), a Republican from Indianapolis, has served in the Indiana House since 1992 and chairs the House Education Committee; he also serves on the Public Health Committee {behning_bio} {behning_cmte2024}. The House Republican caucus says he authored the 2011 law creating Indiana's school voucher program and works at Marian University as director of its Center for Vibrant Schools {behning_bio}.",
+  "record": [
+   "December 2024: Reappointed chair of the House Education Committee; he said the committee would \"continue our work to empower parents to send their students to the school of their choice\" {behning_cmte2024}.",
+   "January 2025: In a column distributed by the caucus, urged moving the Choice Scholarship (voucher) program to universal eligibility by \"eliminating the remaining income cap\" {behning_column}.",
+   "April 2025: Voted for SB 1, the property-tax and local government finance bill, which passed the House 65–29 {rc_sb1_433}, and for the conference report on HEA 1001, the 2025–2027 state budget, adopted 66–27 {rc_hb1001_576}.",
+   "May 2025: Authored HEA 1002, which the caucus says cut nearly 10% of the education code by removing outdated and duplicate provisions, unused programs and some pandemic-era mandates {behning_hea1002}.",
+   "December 5, 2025: Voted for HB 1032, the mid-decade congressional redistricting bill, which passed the House 57–41 {rc_hb1032_28}.",
+   "January 28, 2026: Voted for HB 1002, the electric utility affordability bill, which passed the House 89–4 {rc_hb1002_149}.",
+   "2026 session: Authored HEA 1004, which the caucus says removed further outdated K-12 requirements and directs the State Board of Education to plan for career and technical education {behning_hea1004}. Authored HEA 1408, which the caucus says requires parental consent and monitoring tools for minors on social media and limits certain addictive features {behning_newlaws}."
+  ]
+ },
+ "race_context": [
+  "House District 91 covers a portion of Marion County, in central Indiana, according to the House Republican caucus {behning_bio}.",
+  "Behning was re-elected in 2024 with 60.1% of the vote {wiki_2026_inhouse}.",
+  "Behning and Hurt were each the only candidate listed in their party's May 5, 2026 primary {wiki_2026_inhouse}.",
+  "No debate or forum between the candidates was found as of October 10, 2026; neither had answered Mirror Indy's voter-guide questions {mirror_behning} {mirror_hurt}.",
+  "Education is the main contrast: Behning authored the state's voucher program and has pushed universal eligibility, while Hurt's campaign calls for fully funding public schools, universal pre-K and free school lunch {behning_bio} {behning_column} {hurt_site}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Jarren Hurt",
+   "summary": "Jarren Hurt, the Democratic nominee, is a Navy submarine veteran, real estate agent and owner of a fiber-optic installation business, according to his campaign {hurt_site}.",
+   "website": "https://jhurt91.com/",
+   "background": [
+    "His campaign describes him as a Navy submarine veteran, Eagle Scout and Indiana University graduate who works as a real estate agent and runs a utility fiber-optic installation company {hurt_site}."
+   ],
+   "path_to_ballot": [
+    "Was the only Democratic candidate listed for the May 5, 2026 primary {wiki_2026_inhouse}."
+   ],
+   "positions": [
+    {
+     "topic": "Education",
+     "items": [
+      "Would fully fund public schools, support teachers, and back universal pre-K and free K-12 school lunch, according to his campaign {hurt_site}."
+     ]
+    },
+    {
+     "topic": "Data centers",
+     "items": [
+      "Opposes subsidizing large technology companies at families' expense and would push back on data center projects that harm communities or the environment {hurt_site}."
+     ]
+    },
+    {
+     "topic": "Transportation",
+     "items": [
+      "Supports cutting Indiana's gas tax and eliminating toll roads {hurt_site}."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Supports raising the minimum wage {hurt_site}."
+     ]
+    },
+    {
+     "topic": "Housing",
+     "items": [
+      "Would advocate for more affordable housing supply and keeping homeownership within reach {hurt_site}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "No statements by Hurt about Behning or his record were found on his campaign website or in voter guides {hurt_site} {mirror_hurt}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, endorsements or campaign finance reports were found.",
+    "Hurt had not answered Mirror Indy's voter-guide questions as of Oct. 10, 2026.",
+    "Where he lives is not stated on his campaign site."
+   ]
+  },
+  {
+   "ballot_name": "Robert W. Behning",
+   "summary": "Robert W. (Bob) Behning is the Republican incumbent, in the House since 1992, and chairs the House Education Committee {behning_bio}.",
+   "website": null,
+   "background": [
+    "Born and raised in Indianapolis; Indiana University graduate (1976); assistant vice president and director of the Center for Vibrant Schools at Marian University, according to the caucus {behning_bio}."
+   ],
+   "path_to_ballot": [
+    "Was the only Republican candidate listed for the May 5, 2026 primary {wiki_2026_inhouse}."
+   ],
+   "positions": [
+    {
+     "topic": "Education",
+     "items": [
+      "Has advocated for universal private-school choice, writing that the program lets parents choose \"regardless of income or ZIP code\" {behning_column}, and has authored laws reducing state K-12 regulations; he said schools \"should have the freedom to set their own requirements\" {behning_hea1002} {behning_hea1004}."
+     ]
+    },
+    {
+     "topic": "Children & technology",
+     "items": [
+      "Said his 2026 social media law gives parents \"more control over their children's social media use\" {behning_newlaws}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No statements by Behning about his challenger were found {behning_bio}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "His campaign website (robertbehning.com) did not load; no 2026 campaign statements, endorsements or finance totals were found.",
+    "Behning had not answered Mirror Indy's voter-guide questions as of Oct. 10, 2026.",
+    "Which Marion County townships the district currently includes was not confirmed from a source read for this profile (older sources describe Decatur Township and parts of Hendricks and Morgan counties under pre-2021 maps).",
+    "The 2025 budget's change to voucher eligibility was not confirmed from a source read for this profile."
+   ]
+  }
+ ],
+ "sources": {
+  "behning_bio": [
+   "State Rep. Bob Behning",
+   "Indiana House Republicans",
+   "accessed 2026-10-10",
+   "https://www.indianahouserepublicans.com/members/general/bob-behning/"
+  ],
+  "behning_cmte2024": [
+   "Marion County lawmakers to serve on key House committees",
+   "Indiana House Republicans",
+   "2024-12-12",
+   "https://www.indianahouserepublicans.com/news/press-releases/marion-county-lawmakers-to-serve-on-key-house-committees/"
+  ],
+  "behning_column": [
+   "Behning: Indiana's bold vision for universal school choice",
+   "Indiana House Republicans",
+   "2025-01-29",
+   "https://www.indianahouserepublicans.com/news/guest-column/behning-indiana-s-bold-vision-for-universal-school-choice/"
+  ],
+  "behning_hea1002": [
+   "Behning's bill to streamline K-12 education regulations signed into law",
+   "Indiana House Republicans",
+   "2025-05-07",
+   "https://www.indianahouserepublicans.com/news/press-releases/behning-s-bill-to-streamline-k-12-education-regulations-signed-into-law/"
+  ],
+  "behning_hea1004": [
+   "Governor ceremonially signs new law authored by Behning to reduce Indiana K-12 education regulations",
+   "Indiana House Republicans",
+   "2026-04-23",
+   "https://www.indianahouserepublicans.com/news/press-releases/governor-ceremonially-signs-new-law-authored-by-behning-to-reduce-indiana-k-12-education-regulations/"
+  ],
+  "behning_newlaws": [
+   "Marion County legislators highlight new state laws taking effect",
+   "Indiana House Republicans",
+   "2026-06-24",
+   "https://www.indianahouserepublicans.com/news/press-releases/marion-county-legislators-highlight-new-state-laws-taking-effect/"
+  ],
+  "mirror_behning": [
+   "Robert Behning (voter guide)",
+   "Mirror Indy",
+   "2026-08-31",
+   "https://mirrorindy.org/govpack_profiles/robert-behning-2/"
+  ],
+  "mirror_hurt": [
+   "Jarren Hurt (voter guide)",
+   "Mirror Indy",
+   "2026-08-28",
+   "https://mirrorindy.org/govpack_profiles/jarren-hurt/"
+  ],
+  "hurt_site": [
+   "Jarren Hurt for State Representative",
+   "Jarren Hurt campaign",
+   "accessed 2026-10-10",
+   "https://jhurt91.com/"
+  ],
+  "rc_sb1_433": [
+   "House Roll Call 433: SB 1 (Local government finance), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-10",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  ],
+  "rc_hb1001_576": [
+   "House Roll Call 576: HB 1001 (State budget), conference committee report",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-25",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  ],
+  "rc_hb1032_28": [
+   "House Roll Call 28: HB 1032 (Redistricting), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-12-05",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  ],
+  "rc_hb1002_149": [
+   "House Roll Call 149: HB 1002 (Electric utility affordability), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2026-01-28",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1002-rollcalls-HB1002-149-H-pdf.pdf"
+  ],
+  "wiki_2026_inhouse": [
+   "2026 Indiana House of Representatives election",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  ]
+ }
+}

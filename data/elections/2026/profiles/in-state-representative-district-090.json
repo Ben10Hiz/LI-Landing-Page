@@ -1,0 +1,304 @@
+{
+ "race_id": "in-state-representative-district-090",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": {
+  "title": "Indiana State Representative",
+  "summary": "Members of the Indiana House of Representatives write and vote on state laws as part of the Indiana General Assembly. The House has 100 members, each representing one district for a two-year term [1].",
+  "facts": [
+   {
+    "label": "Term",
+    "value": "2 years [1]"
+   },
+   {
+    "label": "Term limit",
+    "value": "None [1]"
+   },
+   {
+    "label": "Seats",
+    "value": "100 [1]"
+   },
+   {
+    "label": "On the 2026 ballot",
+    "value": "All 100 [2]"
+   }
+  ],
+  "duties": [
+   "Introduces and votes on state legislation as one of the two chambers of the Indiana General Assembly [1].",
+   "Must be at least 21 years old when taking office and have lived in the district for at least a year [1]."
+  ],
+  "recent_changes": []
+ },
+ "incumbent": {
+  "name": "Andrew Ireland",
+  "party": "Republican",
+  "summary": "Andrew Ireland, a Republican from Indianapolis's Franklin Township, was first elected in 2024 and serves on the House Courts and Criminal Code, Education, and Judiciary committees [3]. The House Republican caucus describes him as a labor and employment attorney and former deputy attorney general who is the youngest member of the General Assembly [3].",
+  "record": [
+   "January–March 2025: Said he supported making school vouchers universal and that \"too many Hoosiers are getting crushed by soaring property taxes,\" and said he had authored a bill to reset property-tax rates to pre-pandemic levels and cap annual increases at 2% for seniors, young families and low-income residents and 3% for others [4]. In a March 2025 radio interview he said local officials testifying on property-tax bills were \"acting like the sky is falling\" and that the public should be able to weigh in on separate proposals rather than one bill with many amendments [5].",
+   "April 2025: Voted against SB 1, the property-tax and local government finance bill, which passed the House 65–29 [6]. Voted for the conference report on HEA 1001, the 2025–2027 state budget, adopted 66–27 [7].",
+   "December 5, 2025: Voted for HB 1032, the mid-decade congressional redistricting bill, which passed the House 57–41 [8].",
+   "January 28, 2026: Voted for HB 1002, the electric utility affordability bill, which passed the House 89–4 [9].",
+   "2026 session: The caucus says he championed SEA 76, which requires local governments to comply with immigration detainer requests and strengthens bans on knowingly hiring unauthorized workers; Ireland said \"Indiana will not be a sanctuary state\" [10]. Co-sponsored SEA 256, which tightens limits on foreign adversaries acquiring Indiana land and bars affiliates of foreign terrorist organizations from state contracts and benefits [11]. Co-authored House Resolution 28 urging Congress to address the national debt [12]."
+  ]
+ },
+ "race_context": [
+  "House District 90 includes parts of Franklin and Perry townships in southeastern Marion County, according to Ireland's campaign and the House Republican caucus [13, 3]; Boyd's Mirror Indy answers also refer to Franklin and Perry townships [14].",
+  "Ireland won the open seat in 2024, after Rep. Mike Speedy ran for Congress, with 63.6% of the vote [15, 16].",
+  "Ireland was the only Republican listed in the May 5, 2026 primary, and Wikipedia's race page lists no Democratic primary candidate for the district [16]. Boyd ran in the May 2026 Democratic primary for Indiana's 6th Congressional District, finishing fourth of four with 12.2% [17], and appears on the November ballot as the District 90 Democratic nominee [2].",
+  "No debate or forum between the candidates was found as of October 10, 2026. Boyd answered Mirror Indy's voter-guide questions; Ireland had not [14, 18].",
+  "The candidates differ on redistricting, which Boyd opposes and Ireland voted for, and on education: Boyd calls for more public school funding and mandated student-teacher ratios, while Ireland's campaign highlights universal school choice [14, 8, 19, 13]."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Andrew Ireland",
+   "summary": "Andrew Ireland is the Republican incumbent, first elected in 2024, and an attorney and former deputy attorney general who serves on the House Education, Judiciary, and Courts and Criminal Code committees [3].",
+   "website": "https://www.irelandforindiana.com/",
+   "background": [
+    "Labor and employment attorney at Scopelitis, an Indianapolis firm representing trucking and transportation companies, and former deputy attorney general; holds law and bachelor's degrees from Indiana University and an MBA from Sungkyunkwan University [3].",
+    "Serves on the board of the Franklin Township Business Alliance and lives in Franklin Township [3]."
+   ],
+   "path_to_ballot": [
+    "Was the only Republican candidate listed for the May 5, 2026 primary [16]."
+   ],
+   "positions": [
+    {
+     "topic": "Property taxes",
+     "items": [
+      "His campaign says Hoosiers \"should never be taxed out of homes they worked a lifetime to own\" and supports permanent relief \"starting with seniors over 65\" [13]."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "His campaign says parents, not bureaucrats, should decide what education fits their child and credits him with helping deliver universal school choice [13]."
+     ]
+    },
+    {
+     "topic": "Immigration",
+     "items": [
+      "His campaign lists \"No sanctuary state\" and stronger penalties for people in the country illegally among his positions [13, 10]."
+     ]
+    },
+    {
+     "topic": "Public safety",
+     "items": [
+      "His campaign says he backs law enforcement and is working against policies that return violent offenders to the streets [13]."
+     ]
+    },
+    {
+     "topic": "Other issues",
+     "items": [
+      "His campaign also lists opposition to abortion, protecting gun rights, and election integrity as priorities [13]."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No statements by Ireland about his challenger were found [13]."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "His campaign lists endorsements from Indiana Right to Life, the National Rifle Association and the Indiana State Police Alliance [13].",
+    "IBJ reported he raised $35,200 between Jan. 1 and April 12, 2024, during his first primary [15]."
+   ],
+   "gaps": [
+    "2026 campaign finance totals were not found.",
+    "No statement explaining his April 2025 vote against SB 1 was found.",
+    "Ireland had not answered Mirror Indy's voter guide questions as of Oct. 10, 2026."
+   ]
+  },
+  {
+   "ballot_name": "David Lawrence Boyd",
+   "summary": "David Lawrence Boyd, the Democratic nominee, is an insurance catastrophe adjuster from Franklin Township and a former federal security officer who ran for Congress in the 2026 Democratic primary [20, 17].",
+   "website": "https://boydforindiana.com/",
+   "background": [
+    "His campaign says he is a multi-state licensed catastrophe insurance adjuster and previously worked as a federal officer with the Department of Homeland Security, a TSA transportation security officer, and a U.S. Census Bureau field representative, and served briefly in the Navy [20].",
+    "Co-founded a nonprofit for at-risk youth, studied political science at Indiana University Indianapolis, and lives in Franklin Township, according to his campaign [20]."
+   ],
+   "path_to_ballot": [
+    "Ran in the May 5, 2026 Democratic primary for Indiana's 6th Congressional District, finishing fourth with 2,831 votes (12.2%) behind nominee Cinde Wirth [17].",
+    "Is on the November ballot as the Democratic nominee for House District 90 [2]; no Democrat was listed in the district's May primary [16]."
+   ],
+   "positions": [
+    {
+     "topic": "Education",
+     "items": [
+      "Proposes raising teacher salaries to keep pace with inflation, increasing state funding for public schools, and \"mandating student-teacher ratios\" to manage class sizes [19]."
+     ]
+    },
+    {
+     "topic": "Roads & infrastructure",
+     "items": [
+      "Calls for safer roads, more roundabouts, well-planned parks and \"fiscally responsible long-term funding solutions,\" saying road funding has been unequally distributed [19]."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Proposes expanding Medicaid access, regulating utility rates and increases, and subsidizing housing assistance to help renters and homeowners avoid losing housing [19]."
+     ]
+    },
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "Told Mirror Indy he strongly opposes redistricting, calling it \"a blatant attempt to silence the voices of black and other minority communities in Indiana\" [14]."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Told Mirror Indy that residents of Franklin and Perry townships \"have been grossly misrepresented and underrepresented by State Representative Andrew Ireland\" and need an advocate on affordability and wages [14]."
+   ],
+   "plans": [
+    "Lists roads and infrastructure, public schools, and support for families as his top priorities and says he sees room for bipartisanship across policy areas [14]."
+   ],
+   "endorsements_finance": [],
+   "gaps": [
+    "How Boyd became the District 90 nominee (for example, selection by a Democratic Party caucus to fill a ballot vacancy after the primary) was not confirmed in coverage reviewed.",
+    "No endorsements or state campaign finance reports were found; a search summary reported an FEC filing for his congressional campaign but its totals were not reviewed.",
+    "No news coverage of his House campaign was found beyond voter-guide entries."
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": 1,
+   "title": "Indiana House of Representatives",
+   "publisher": "Wikipedia",
+   "date": "accessed 2026-10-10",
+   "url": "https://en.wikipedia.org/wiki/Indiana_House_of_Representatives"
+  },
+  {
+   "id": 2,
+   "title": "2026 General Election Candidate List",
+   "publisher": "Indiana Election Division",
+   "date": "2026-09-22",
+   "url": "https://www.in.gov/sos/elections/candidate-information/"
+  },
+  {
+   "id": 3,
+   "title": "State Rep. Andrew Ireland",
+   "publisher": "Indiana House Republicans",
+   "date": "accessed 2026-10-10",
+   "url": "https://www.indianahouserepublicans.com/members/general/andrew-ireland/"
+  },
+  {
+   "id": 4,
+   "title": "Rep. Ireland issues statement on Gov. Braun's State of the State address",
+   "publisher": "Indiana House Republicans",
+   "date": "2025-01-30",
+   "url": "https://www.indianahouserepublicans.com/news/statement/rep.-ireland-issues-statement-on-gov.-braun-s-state-of-the-state-address/"
+  },
+  {
+   "id": 5,
+   "title": "State Rep. Andrew Ireland reacts to property tax bill testimony",
+   "publisher": "Network Indiana via 95.3 MNC",
+   "date": "2025-03-09",
+   "url": "https://www.953mnc.com/?p=266206"
+  },
+  {
+   "id": 6,
+   "title": "House Roll Call 433: SB 1 (Local government finance), third reading",
+   "publisher": "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "date": "2025-04-10",
+   "url": "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  },
+  {
+   "id": 7,
+   "title": "House Roll Call 576: HB 1001 (State budget), conference committee report",
+   "publisher": "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "date": "2025-04-25",
+   "url": "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  },
+  {
+   "id": 8,
+   "title": "House Roll Call 28: HB 1032 (Redistricting), third reading",
+   "publisher": "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "date": "2025-12-05",
+   "url": "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  },
+  {
+   "id": 9,
+   "title": "House Roll Call 149: HB 1002 (Electric utility affordability), third reading",
+   "publisher": "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "date": "2026-01-28",
+   "url": "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1002-rollcalls-HB1002-149-H-pdf.pdf"
+  },
+  {
+   "id": 10,
+   "title": "Marion County legislators highlight new state laws taking effect",
+   "publisher": "Indiana House Republicans",
+   "date": "2026-06-24",
+   "url": "https://www.indianahouserepublicans.com/news/press-releases/marion-county-legislators-highlight-new-state-laws-taking-effect/"
+  },
+  {
+   "id": 11,
+   "title": "Governor ceremonially signs new law co-sponsored by Rep. Ireland cracking down on foreign adversaries",
+   "publisher": "Indiana House Republicans",
+   "date": "2026-05-13",
+   "url": "https://www.indianahouserepublicans.com/news/press-releases/governor-ceremonially-signs-new-law-co-sponsored-by-rep.-ireland-cracking-down-on-foreign-adversaries/"
+  },
+  {
+   "id": 12,
+   "title": "Reps. Ireland, McGuire: Resolution urging action on national debt passes House committee",
+   "publisher": "Indiana House Republicans",
+   "date": "2026-02-18",
+   "url": "https://www.indianahouserepublicans.com/news/press-releases/reps.-ireland-mcguire-resolution-urging-action-on-national-debt-passes-house-committee/"
+  },
+  {
+   "id": 13,
+   "title": "Andrew Ireland for Indiana",
+   "publisher": "Andrew Ireland campaign",
+   "date": "accessed 2026-10-10",
+   "url": "https://www.irelandforindiana.com/"
+  },
+  {
+   "id": 14,
+   "title": "David Lawrence Boyd (voter guide)",
+   "publisher": "Mirror Indy",
+   "date": "2026-08-31",
+   "url": "https://mirrorindy.org/govpack_profiles/david-lawrence-boyd-2/"
+  },
+  {
+   "id": 15,
+   "title": "Indy Statehouse primaries: Open seat draws four GOP candidates; Democratic incumbents face challengers",
+   "publisher": "Indianapolis Business Journal",
+   "date": "2024-05-03",
+   "url": "https://www.ibj.com/articles/indy-statehouse-primaries-open-seat-draws-four-gop-candidates-democratic-incumbents-face-challengers"
+  },
+  {
+   "id": 16,
+   "title": "2026 Indiana House of Representatives election",
+   "publisher": "Wikipedia",
+   "date": "accessed 2026-10-10",
+   "url": "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  },
+  {
+   "id": 17,
+   "title": "2026 United States House of Representatives elections in Indiana",
+   "publisher": "Wikipedia",
+   "date": "accessed 2026-10-10",
+   "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Indiana"
+  },
+  {
+   "id": 18,
+   "title": "Andrew Ireland (voter guide)",
+   "publisher": "Mirror Indy",
+   "date": "2026-08-31",
+   "url": "https://mirrorindy.org/govpack_profiles/andrew-ireland-2/"
+  },
+  {
+   "id": 19,
+   "title": "Priorities",
+   "publisher": "David Boyd for Indiana campaign",
+   "date": "accessed 2026-10-10",
+   "url": "https://boydforindiana.com/priorities-1"
+  },
+  {
+   "id": 20,
+   "title": "Meet David",
+   "publisher": "David Boyd for Indiana campaign",
+   "date": "accessed 2026-10-10",
+   "url": "https://boydforindiana.com/meet-david-1"
+  }
+ ]
+}
