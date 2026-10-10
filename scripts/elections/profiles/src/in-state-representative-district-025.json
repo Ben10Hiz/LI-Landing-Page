@@ -1,0 +1,193 @@
+{
+ "race_id": "in-state-representative-district-025",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Becky Cash",
+  "party": "Republican",
+  "summary": "Rep. Becky Cash (R-Zionsville), first elected in 2022, is vice chair of the Veterans Affairs and Public Safety Committee and serves on the Education and Employment, Labor and Pensions committees, according to the House Republican caucus {cash_bio}. She won reelection in 2024 by 64 votes out of more than 37,000 cast {ipm_dlcc}.",
+  "record": [
+   "December 5, 2025: One of 12 House Republicans who voted against HB 1032, the mid-decade congressional redistricting bill, which passed 57-41 {cc_hb1032} {bt_cash}.",
+   "2026 session: Authored House Enrolled Act 1177, which extends the employer child care tax credit to businesses with up to 500 employees; Cash said the law \"expands opportunities for providers, increases access for working parents\" {cash_hea1177}.",
+   "2026 session: The caucus lists her as co-author of HEA 1408, requiring parental consent for children under 16 to open social media accounts, and author of HB 1012 strengthening Medicaid audit requirements {cash_bio}.",
+   "Earlier work listed by the caucus includes legislation on untested rape kits (2025), access to mental health treatment (HEA 1070, 2024), reporting abuse in youth sports (2023) and a co-authored military tax cut (2023) {cash_bio}.",
+   "May–August 2026: The caucus reported an interim study committee would review a topic she requested, and that she is leading efforts for an interim study on a statewide sexual assault response plan {cash_bio}."
+  ]
+ },
+ "race_context": [
+  "House District 25 includes portions of Boone and Hendricks counties, according to the House Republican caucus {cash_bio}; States Win, a group backing Stoner, describes it as most of Boone County and part of Hendricks County, including Brownsburg, Lebanon, Whitestown and Zionsville {stateswin_stoner}.",
+  "This is a rematch of 2024, when Cash defeated Stoner by 64 votes out of more than 37,000 cast {ipm_dlcc}; Wikipedia's compilation gives Cash 50.1% {wiki_2026_in_house}.",
+  "Wikipedia's compilation lists Cash and Stoner as the only declared candidates in their respective May 5, 2026 primaries {wiki_2026_in_house}.",
+  "The Democratic Legislative Campaign Committee and States Win list the seat as a target in Democrats' effort to gain the four seats needed to end the Republican supermajority {wfyi_dlcc} {reporter_stateswin}.",
+  "No 2026 debate or forum between Cash and Stoner was found in reviewed coverage."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Becky Cash",
+   "summary": "Cash is a two-term incumbent and Zionsville business owner and naturopathic practitioner {cash_bio}.",
+   "website": null,
+   "background": [
+    "Runs a nutrition business and works as a naturopathic practitioner, according to the caucus {cash_bio}.",
+    "The caucus says she has spent more than 15 years helping parents of children with special needs navigate services and educational options, and served on advisory boards of St. Ambrose Academy and the H2 Autism Foundation {cash_bio}.",
+    "Lives in Zionsville {cash_bio}."
+   ],
+   "path_to_ballot": [
+    "Listed by Wikipedia's compilation as the only declared Republican candidate in the May 5, 2026 primary {wiki_2026_in_house}."
+   ],
+   "positions": [
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Said child care access \"has been a top priority for me\" in announcing HEA 1177's employer tax credit expansion {cash_hea1177}."
+     ]
+    },
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "Voted against the December 2025 congressional redistricting bill (HB 1032) {cc_hb1032}."
+     ]
+    },
+    {
+     "topic": "Public safety",
+     "items": [
+      "Has carried legislation on untested rape kits and is leading an interim study on a statewide sexual assault response plan, according to the caucus {cash_bio}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Authored HB 1012 on Medicaid audit requirements, according to the caucus {cash_bio}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No statements by Cash about Stoner were found."
+   ],
+   "plans": [
+    "The caucus describes ongoing work on child care, protections for minors online and sexual assault response {cash_bio}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or 2026 fundraising totals were found in reviewed sources."
+   ],
+   "gaps": [
+    "No campaign website was reviewed; search snippets describe a campaign site listing lower taxes, affordable child care and local control as priorities, not verified.",
+    "Individual votes on SEA 1 (2025 property tax) and HEA 1001 (2025 budget) were not verified.",
+    "States Win, which backs Stoner, criticizes Cash on tax cuts and education funding; no specific votes were cited, so this is not included in the profile text.",
+    "No campaign finance data was reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Tiffany Stoner",
+   "summary": "Stoner is a Zionsville small business owner and former technology consultant who lost to Cash by 64 votes in 2024 {stateswin_stoner} {ipm_dlcc}.",
+   "website": "https://www.tiffanystoner.com/",
+   "background": [
+    "Spent 17 years as a network architect and senior program manager at Accenture and co-founded a commercial photography business, according to States Win {stateswin_stoner}.",
+    "Holds a master's degree from Ball State University {stateswin_stoner}.",
+    "Lives in Zionsville {dlcc_stoner}."
+   ],
+   "path_to_ballot": [
+    "Was the 2024 Democratic nominee; listed by Wikipedia's compilation as the only declared Democratic candidate in the May 5, 2026 primary {wiki_2026_in_house}."
+   ],
+   "positions": [
+    {
+     "topic": "Health care",
+     "items": [
+      "Says \"no one should have to choose between getting the care they need and paying their bills,\" and wants to lower health care costs and improve access, according to States Win {stateswin_stoner}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Supports investing in public schools and educators, according to States Win {stateswin_stoner}."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Focuses on lowering costs, supporting local businesses and creating good-paying jobs, according to States Win {stateswin_stoner}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Said of the rematch, \"We lost by 64 votes,\" and \"I think it's a great opportunity to break the supermajority\" {wfyi_dlcc}.",
+    "Told the DLCC \"Hoosiers deserve a Representative who will listen and advocate for their ideas\" {dlcc_stoner}."
+   ],
+   "plans": [
+    "Says she will fight to uplift working families, according to the DLCC {dlcc_stoner}."
+   ],
+   "endorsements_finance": [
+    "Endorsed by States Win, per The Reporter {reporter_stateswin}, and listed in the DLCC's Target Races program {dlcc_stoner} {wfyi_dlcc}.",
+    "House Democratic Leader Phil GiaQuinta noted her 2024 race was \"one of the closest state legislative races in the country\" {reporter_stateswin}."
+   ],
+   "gaps": [
+    "Her campaign website (403) and Current Publishing coverage could not be loaded; positions come mainly from groups backing her.",
+    "Search snippets say she opposes partisan gerrymandering, says the legislature should not take up congressional redistricting in 2027, and is focusing on public education and property taxes; not verified.",
+    "No campaign finance data was reviewed."
+   ]
+  }
+ ],
+ "sources": {
+  "cash_bio": [
+   "Becky Cash member page",
+   "Indiana House Republicans",
+   "accessed 2026-10-10",
+   "https://www.indianahouserepublicans.com/members/general/becky-cash/"
+  ],
+  "cash_hea1177": [
+   "Governor ceremonially signs new law authored by Rep. Cash to expand childcare in Indiana",
+   "Indiana House Republicans",
+   "2026-04-30",
+   "https://www.indianahouserepublicans.com/news/press-releases/governor-ceremonially-signs-new-law-authored-by-rep.-cash-to-expand-childcare-in-indiana/"
+  ],
+  "bt_cash": [
+   "Becky Cash vote record",
+   "BillTrack50",
+   "accessed 2026-10-10",
+   "https://www.billtrack50.com/public/scorecard/legislator/TNvEht1gV0ilLkxyi9h0rQ/27753"
+  ],
+  "cc_hb1032": [
+   "Indiana House approves redistricting bill, sending issue to state Senate",
+   "Indiana Capital Chronicle via Yahoo News",
+   "2025-12-05",
+   "https://www.yahoo.com/news/articles/indiana-house-approves-redistricting-bill-185219428.html"
+  ],
+  "ipm_dlcc": [
+   "National Democratic group aims to help break GOP's Indiana House supermajority",
+   "Indiana Capital Chronicle via Indiana Public Media",
+   "2026-05-20",
+   "https://www.ipm.org/news/2026-05-20/national-democratic-group-aims-to-help-break-gops-indiana-house-supermajority"
+  ],
+  "wfyi_dlcc": [
+   "National campaign group boosts Indiana Democrats in effort to break Republican supermajority",
+   "WFYI via WBOI",
+   "2026-05-21",
+   "https://www.wboi.org/2026-05-21/national-campaign-group-boosts-indiana-democrats-in-effort-to-break-republican-supermajority"
+  ],
+  "wiki_2026_in_house": [
+   "2026 Indiana House of Representatives election",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  ],
+  "stateswin_stoner": [
+   "Tiffany Stoner (IN HD 25)",
+   "States Win",
+   "accessed 2026-10-10",
+   "https://stateswin.org/?p=64774"
+  ],
+  "dlcc_stoner": [
+   "Tiffany Stoner",
+   "Democratic Legislative Campaign Committee",
+   "accessed 2026-10-10",
+   "https://www.dlcc.org/candidates/tiffany-stoner/"
+  ],
+  "reporter_stateswin": [
+   "Two Democratic Indiana House candidates endorsed by 'States Win'",
+   "The Reporter",
+   "2026-07-01",
+   "https://readthereporter.com/?p=196764"
+  ]
+ }
+}

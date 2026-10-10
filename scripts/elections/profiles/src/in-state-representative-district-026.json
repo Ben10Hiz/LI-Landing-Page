@@ -1,0 +1,218 @@
+{
+ "race_id": "in-state-representative-district-026",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Chris Campbell",
+  "party": "Democratic",
+  "summary": "Rep. Chris Campbell (D-West Lafayette), an audiologist first elected in 2018, is ranking Democrat on the House Insurance Committee and serves on Ways and Means and Government and Regulatory Reform, according to the House Democratic caucus {campbell_bio}. Campbell won 64.1% in 2024, per Wikipedia's compilation {wiki_2026_in_house}.",
+  "record": [
+   "April 25, 2025: Voted against the final state budget (HEA 1001), saying \"Purdue's funding is getting cut, and they're receiving no funding for capital projects\" and \"The bad in the budget outweighs the good\" {campbell_budget}.",
+   "December 5, 2025: Voted no on HB 1032, the congressional redistricting bill {bt_campbell}; said \"Every resident in Indiana, from the dunes to the Ohio River, is hurt by this map\" and objected that Purdue's area would not have \"a unified voice in Congress\" {campbell_hb1032}.",
+   "2026 session votes recorded by BillTrack50 include no votes on SB 76 (immigration matters), SB 285 (housing matters), SB 1 (human services matters) and HB 1343 (public safety matters), and yes votes on HB 1177 (child care assistance) and SB 91 (syringe exchange program) {bt_campbell}.",
+   "July 2026: Testified against proposed state child care rule changes, saying \"These rule changes are not viable solutions to Indiana's childcare crisis\" and calling for predictable, sustainable provider funding {campbell_childcare}."
+  ]
+ },
+ "race_context": [
+  "House District 26 includes portions of Tippecanoe County, and Campbell is from West Lafayette, according to the House Democratic caucus {campbell_bio}.",
+  "Campbell is seeking a fifth term {campbell_bio}. Wikipedia's compilation lists Campbell and Davis as the only declared candidates in their respective May 5, 2026 primaries {wiki_2026_in_house}.",
+  "No 2026 debate or forum between Campbell and Davis was found in reviewed coverage.",
+  "Both candidates have opposed mid-decade congressional redistricting {campbell_hb1032} {davis_issues}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Chris Campbell",
+   "summary": "Campbell is a four-term incumbent and Lafayette audiologist {campbell_bio}.",
+   "website": null,
+   "background": [
+    "Works as an audiologist in Lafayette {campbell_bio}.",
+    "Board and volunteer service listed by the caucus includes the Indiana board of the American Red Cross, Lafayette Transitional Housing and the Greater Lafayette League of Women Voters; past service includes the West Lafayette Library Board and Redevelopment Commission {campbell_bio}.",
+    "Lives in West Lafayette {campbell_bio}."
+   ],
+   "path_to_ballot": [
+    "Listed by Wikipedia's compilation as the only declared Democratic candidate in the May 5, 2026 primary {wiki_2026_in_house}."
+   ],
+   "positions": [
+    {
+     "topic": "Education",
+     "items": [
+      "Criticized the 2025 budget's K-12 funding, saying schools receive a small state increase but lose more in property tax revenue, and objected to cuts to Purdue's state funding {campbell_budget}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Said \"The cuts for local public health initiatives are concerning\" in voting against the 2025 budget {campbell_budget}."
+     ]
+    },
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "Opposed the 2025 congressional redistricting plan and voted no on HB 1032 {campbell_hb1032} {bt_campbell}."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Called for \"predictable, sustainable funding\" for child care providers rather than lowered staff qualifications {campbell_childcare}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No statements by Campbell about Davis were found."
+   ],
+   "plans": [
+    "No 2026 campaign platform was found; the caucus page and press releases describe ongoing focus on child care, Purdue and public health funding {campbell_childcare} {campbell_budget}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or 2026 fundraising totals were found in reviewed sources."
+   ],
+   "gaps": [
+    "No campaign website was found.",
+    "Individual vote on SEA 1 (2025 property tax) was not verified.",
+    "Bills Campbell authored that became law in 2023–2026 were not identified.",
+    "No local news coverage of the 2026 race was found; the Purdue Exponent's 2024 result story could not be loaded (429).",
+    "No campaign finance data was reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Magdalaine Davis",
+   "summary": "Davis, who goes by Maggie, is a Purdue University student and researcher making her first run for office {davis_meet} {ivg_davis}.",
+   "website": "https://www.electmagdalainedavis.com",
+   "background": [
+    "Studied political science at Purdue and is continuing studies in sociology there; her research centers on sexual violence and human rights {davis_meet} {ivg_davis}.",
+    "Says she decided to run after experiencing sexual assault and navigating the process that followed: \"Running for office became a way for me to turn that experience into public service\" {davis_meet}.",
+    "Describes herself as a member of the West Lafayette community {davis_meet}."
+   ],
+   "path_to_ballot": [
+    "Listed by Wikipedia's compilation as the only declared Republican candidate in the May 5, 2026 primary {wiki_2026_in_house}."
+   ],
+   "positions": [
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "Calls the mid-decade redistricting push \"a hard no\" and supports independent commissions to draw maps after each census {davis_issues}.",
+      "In the iVoterGuide questionnaire, opposed voting without photo ID and opposed abolishing the Electoral College {ivg_davis}."
+     ]
+    },
+    {
+     "topic": "Data centers",
+     "items": [
+      "Supports a moratorium on AI data centers in Indiana and more transparency on public incentives to companies {davis_issues}."
+     ]
+    },
+    {
+     "topic": "Public safety",
+     "items": [
+      "Supports a statewide ban on Flock automated license plate readers and AI-powered mass surveillance systems {davis_issues}.",
+      "Lists sexual violence prevention and survivor support as her first legislative priority, including access to care \"regardless of where they live or their ability to pay\" {davis_issues} {ivg_davis}.",
+      "Opposes allowing teachers to carry guns at school, per her questionnaire {ivg_davis}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Says vouchers should be \"limited to public school to public school choice\" and opposes taxpayer-funded vouchers for private or charter schools {davis_issues}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Says pregnancy and abortion decisions should be made by \"a woman in consultation with her healthcare provider, not politicians\" {davis_issues}.",
+      "Supports lowering health care and prescription costs and expanding mental health services {ivg_davis}."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Lists affordability (housing, child care, utilities, food) as a priority and says she will examine whether Indiana's minimum wage reflects working Hoosiers' costs {davis_issues}."
+     ]
+    },
+    {
+     "topic": "Energy & utilities",
+     "items": [
+      "Supports \"stronger protections for Indiana's waterways and agricultural land\" and wants residents to have \"a voice when major developments are proposed,\" citing SK Hynix {davis_issues}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "No statements by Davis about Campbell's record were found. She says \"people deserve a government that listens, responds, and takes their concerns seriously\" {davis_meet}."
+   ],
+   "plans": [
+    "Pledges monthly town halls with a live stream and to be honest about \"where I stand, how I vote, and why\" {davis_issues}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or fundraising totals were found; her site is paid for by the Committee to Elect Maggie Davis {davis_site}."
+   ],
+   "gaps": [
+    "No news coverage of her candidacy was found.",
+    "Occupation beyond student/researcher and community roles are not stated on her site or questionnaire.",
+    "No campaign finance data was reviewed."
+   ]
+  }
+ ],
+ "sources": {
+  "campbell_bio": [
+   "State Rep. Chris Campbell",
+   "Indiana House Democrats",
+   "accessed 2026-10-10",
+   "https://www.indianahousedemocrats.org/members/chris-campbell"
+  ],
+  "campbell_budget": [
+   "Campbell votes no on budget, bad deal for West Lafayette community",
+   "Indiana House Democrats",
+   "2025-04-25",
+   "https://www.indianahousedemocrats.org/news/campbell-votes-no-on-budget-bad-deal-for-west-lafayette-community"
+  ],
+  "campbell_hb1032": [
+   "Campbell comments on the House passage of Republicans' gerrymandered congressional map",
+   "Indiana House Democrats",
+   "2025-12-05",
+   "https://www.indianahousedemocrats.org/news/campbell-comments-on-the-house-passage-of-republicans-gerrymandered-congressional-map"
+  ],
+  "campbell_childcare": [
+   "Campbell criticizes childcare rules changes, calls for increased funding",
+   "Indiana House Democrats",
+   "2026-07-07",
+   "https://www.indianahousedemocrats.org/news/campbell-criticizes-childcare-rules-changes-calls-for-increased-funding"
+  ],
+  "bt_campbell": [
+   "Chris Campbell vote record",
+   "BillTrack50",
+   "accessed 2026-10-10",
+   "https://www.billtrack50.com/public/scorecard/legislator/TNvEht1gV0ilLkxyi9h0rQ/23136"
+  ],
+  "wiki_2026_in_house": [
+   "2026 Indiana House of Representatives election",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  ],
+  "davis_site": [
+   "Elect Magdalaine Davis (campaign website)",
+   "Davis campaign",
+   "accessed 2026-10-10",
+   "https://www.electmagdalainedavis.com"
+  ],
+  "davis_meet": [
+   "Meet Magdalaine",
+   "Davis campaign",
+   "accessed 2026-10-10",
+   "https://www.electmagdalainedavis.com/meet-magdalaine"
+  ],
+  "davis_issues": [
+   "On the Issues",
+   "Davis campaign",
+   "accessed 2026-10-10",
+   "https://www.electmagdalainedavis.com/ontheissues"
+  ],
+  "ivg_davis": [
+   "Magdalaine Davis candidate questionnaire",
+   "iVoterGuide",
+   "accessed 2026-10-10",
+   "https://ivoterguide.com/candidate/90931/race/30675/election/1456"
+  ]
+ }
+}
