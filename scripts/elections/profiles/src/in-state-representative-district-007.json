@@ -1,0 +1,222 @@
+{
+ "race_id": "in-state-representative-district-007",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Jake Teshka",
+  "party": "Republican",
+  "summary": "Jake Teshka, a Republican from North Liberty and former South Bend Common Council member, was elected to the House in 2020; he chairs the Financial Institutions Committee and serves on the Education and the Employment, Labor and Pensions committees {teshka_bio}.",
+  "record": [
+   "2023: The caucus says a bill he authored to improve reading proficiency was ceremonially signed into law {teshka_bio}.",
+   "On April 10, 2025, voted for SB 1, the property-tax and local government finance bill, which passed the House 65–29 {rc_sb1_433}. On April 25, 2025, voted for the conference report on HEA 1001, the 2025–2027 state budget, adopted 66–27 {rc_hb1001_576}.",
+   "July 2025: Authored HEA 1634, which places middle schoolers who meet proficiency benchmarks in advanced math unless parents opt out and requires numeracy screening in kindergarten through second grade {teshka_math}.",
+   "December 5, 2025: Voted for HB 1032, the mid-decade congressional redistricting bill, which passed the House 57–41 {rc_hb1032_28}.",
+   "January–February 2026: Voted for HB 1002, the electric utility affordability bill, on third reading (89–4) and on final concurrence (94–2) {rc_hb1002_149} {rc_hb1002_293}.",
+   "2026: Authored HEA 1035, which provides that children doing reasonable, age-appropriate independent activities such as walking or biking are not automatically treated as children in need of services; he said \"That's not neglect, that's part of growing up\" {teshka_hea1035}.",
+   "2026: Sponsored SEA 78, requiring schools to adopt policies restricting student use of personal wireless devices during the school day {teshka_sea78}.",
+   "September 2026: Named the Indiana Bankers Association's 2026 Legislator of the Year; the caucus says he co-authored HEA 1116, which it says made Indiana the first state to prohibit virtual currency kiosks {teshka_iba}."
+  ]
+ },
+ "race_context": [
+  "House District 7 includes portions of LaPorte, Marshall and St. Joseph counties, according to the House Republican caucus {teshka_bio}. 95.3 MNC described it as including South Bend's west side and parts of western and southern St. Joseph County {mnc_davis}.",
+  "Teshka was re-elected without opposition in 2024, according to Wikipedia {wiki_2026_inhouse}.",
+  "Both candidates were unopposed in their May 5, 2026 primaries, according to Wikipedia {wiki_2026_inhouse}.",
+  "No debate or forum between the candidates was found as of October 10, 2026."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Jake Teshka",
+   "summary": "The Republican incumbent since 2020 and chair of the House Financial Institutions Committee {teshka_bio}.",
+   "website": "https://jaketeshka.com/",
+   "background": [
+    "Works in business development; previously represented South Bend's 5th District on the Common Council and served on the Transpo board and Redevelopment Commission {teshka_bio}.",
+    "Holds a B.A. from Saint Joseph's College and a Master of Public Affairs from IU South Bend; serves on the boards of the South Bend History Museum and the Boy Scouts' LaSalle Council {teshka_bio}.",
+    "Lives in North Liberty {teshka_bio}."
+   ],
+   "path_to_ballot": [
+    "Unopposed in the May 5, 2026 Republican primary {wiki_2026_inhouse}."
+   ],
+   "positions": [
+    {
+     "topic": "Education",
+     "items": [
+      "His campaign supports school choice and parental rights and credits his bills with reading and math requirements {teshka_site}.",
+      "Said of the school phone law, \"This new law will support educators and students as we work to improve students' focus and academic engagement\" {teshka_sea78}."
+     ]
+    },
+    {
+     "topic": "Taxes & spending",
+     "items": [
+      "His campaign lists lower taxes, spending cuts and government accountability as priorities {teshka_site}."
+     ]
+    },
+    {
+     "topic": "Rural communities",
+     "items": [
+      "His campaign says he supports agriculture, rural broadband and local businesses {teshka_site}."
+     ]
+    },
+    {
+     "topic": "Abortion & guns",
+     "items": [
+      "His campaign says he opposes abortion and opposes legislation that would undermine gun rights {teshka_site}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. His campaign site does not mention his opponent {teshka_site}."
+   ],
+   "plans": [
+    "Serves on the 2026 Interim Study Committees on Education and on Financial Institutions and Insurance {sjc_interim_2026}."
+   ],
+   "endorsements_finance": [
+    "His campaign site lists no formal endorsements; it cites the Indiana Bankers Association award and resident testimonials {teshka_site} {teshka_iba}."
+   ],
+   "gaps": [
+    "No statements by Teshka on his redistricting, property-tax or budget votes were found.",
+    "No fundraising totals found; the state campaign finance portal was not read."
+   ]
+  },
+  {
+   "ballot_name": "Oliver Davis",
+   "summary": "Oliver Davis, the Democratic nominee, is a longtime South Bend Common Council member now serving at large {abc57_davis}.",
+   "website": null,
+   "background": [
+    "Served 12 years as South Bend's 6th District council member and is in his third year as an at-large member, according to ABC57 {abc57_davis}. WSBT reported in 2023 that he ran unsuccessfully for St. Joseph County Council in 2020 before filing for an at-large seat {wsbt_davis_2023}.",
+    "ABC57 reported that he has served on a transportation board, a zoning board and other local boards {abc57_davis}. 95.3 MNC reported that he previously ran for South Bend mayor {mnc_davis}."
+   ],
+   "path_to_ballot": [
+    "Announced his campaign January 15, 2026, and was unopposed in the May 5, 2026 Democratic primary {abc57_davis} {wiki_2026_inhouse}."
+   ],
+   "positions": [
+    {
+     "topic": "Education",
+     "items": [
+      "Lists public education as a priority, saying \"We have to believe in our own children, our schools, our families\" {abc57_davis}."
+     ]
+    },
+    {
+     "topic": "Environment",
+     "items": [
+      "Lists environmental protection and balancing rural and urban interests as priorities {abc57_davis}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "At his announcement, said \"It is time for us to make a change in our district\"; ABC57's report did not mention Teshka {abc57_davis}."
+   ],
+   "plans": [
+    "Emphasizes his local-government experience and local voices in decision-making, according to ABC57 {abc57_davis}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or fundraising totals were found in the sources reviewed."
+   ],
+   "gaps": [
+    "No campaign website was found; the St. Joseph County Democratic Party's page links to a Facebook page for him.",
+    "Sources differ on his council tenure: 95.3 MNC said he is in his second term, ABC57 cited 12 years in the 6th District plus three years at large, and Wikipedia lists 2007–present.",
+    "Little policy detail beyond his announcement was found; no statements on property taxes, the budget or redistricting.",
+    "No fundraising totals found."
+   ]
+  }
+ ],
+ "sources": {
+  "teshka_bio": [
+   "Jake Teshka — member page",
+   "Indiana House Republicans",
+   "2026-10",
+   "https://www.indianahouserepublicans.com/members/general/jake-teshka/"
+  ],
+  "teshka_math": [
+   "Rep. Teshka's math bill ceremonially signed into law",
+   "Indiana House Republicans",
+   "2025-07-10",
+   "https://www.indianahouserepublicans.com/news/press-releases/rep.-teshka-s-math-bill-ceremonially-signed-into-law/"
+  ],
+  "teshka_hea1035": [
+   "Rep. Teshka's bill to let kids be kids heads to governor",
+   "Indiana House Republicans",
+   "2026-02-25",
+   "https://www.indianahouserepublicans.com/news/press-releases/rep.-teshka-s-bill-to-let-kids-be-kids-heads-to-governor/"
+  ],
+  "teshka_sea78": [
+   "Governor ceremonially signs new law sponsored by Teshka reducing cell phone use in schools",
+   "Indiana House Republicans",
+   "2026-05-13",
+   "https://www.indianahouserepublicans.com/news/press-releases/governor-ceremonially-signs-new-law-sponsored-by-teshka-reducing-cell-phone-use-in-schools/"
+  ],
+  "teshka_iba": [
+   "Rep. Teshka named 2026 Indiana Bankers Association Legislator of the Year",
+   "Indiana House Republicans",
+   "2026-09-22",
+   "https://www.indianahouserepublicans.com/news/press-releases/rep.-teshka-named-2026-indiana-bankers-association-legislator-of-the-year/"
+  ],
+  "sjc_interim_2026": [
+   "St. Joseph County legislators receive 2026 summer study committee appointments",
+   "Indiana House Republicans",
+   "2026-07-08",
+   "https://www.indianahouserepublicans.com/news/press-releases/st.-joseph-county-legislators-receive-2026-summer-study-committee-appointments/"
+  ],
+  "teshka_site": [
+   "Jake Teshka for State Representative",
+   "Jake Teshka campaign",
+   "2026-10",
+   "https://jaketeshka.com/"
+  ],
+  "abc57_davis": [
+   "Dr. Oliver Davis announces campaign for Indiana house seat",
+   "ABC57",
+   "2026-01-15",
+   "https://abc57.com/news/dr-oliver-davis-announces-campaign-for-indiana-house-seat"
+  ],
+  "mnc_davis": [
+   "Oliver Davis enters race for Indiana House District 7",
+   "95.3 MNC (Network Indiana)",
+   "2026-01-16",
+   "https://www.953mnc.com/2026/01/16/oliver-davis-enters-race-for-indiana-house-district-7/"
+  ],
+  "wsbt_davis_2023": [
+   "Oliver Davis running for Common Council",
+   "WSBT",
+   "2023-02-03",
+   "https://wsbt.com/news/campaign-2023/oliver-davis-running-for-common-council-former-councilmember-democrat-district-6-county-south-bend"
+  ],
+  "rc_sb1_433": [
+   "House Roll Call 433: SB 1 (Local government finance), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-10",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  ],
+  "rc_hb1001_576": [
+   "House Roll Call 576: HB 1001 (State budget), conference committee report",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-25",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  ],
+  "rc_hb1032_28": [
+   "House Roll Call 28: HB 1032 (Redistricting), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-12-05",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  ],
+  "rc_hb1002_149": [
+   "House Roll Call 149: HB 1002 (Electric utility affordability), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2026-01-28",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1002-rollcalls-HB1002-149-H-pdf.pdf"
+  ],
+  "rc_hb1002_293": [
+   "House Roll Call 293: HB 1002 (Electric utility affordability), motion to concur",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2026-02-19",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1002-rollcalls-HB1002-293-H-pdf.pdf"
+  ],
+  "wiki_2026_inhouse": [
+   "2026 Indiana House of Representatives election",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  ]
+ }
+}

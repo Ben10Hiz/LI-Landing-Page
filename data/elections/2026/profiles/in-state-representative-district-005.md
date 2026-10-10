@@ -80,7 +80,7 @@ Campaign website: https://www.voteforwait.com
 
 ### How they say they'd run the office
 
-- Lists practical help for families, investing in children's futures, and opposing politicians who "sell out" voters as priorities [18].
+- Lists practical help for families, investing in children's futures, and opposing politicians who sell out voters as priorities [18].
 
 ### Endorsements & fundraising
 

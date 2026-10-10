@@ -197,7 +197,7 @@ def in_race(office_row, cands):
                 "incumbent": c["incumbent"] == "yes"
                 or bool(holder and same_person(c["candidate"], holder)),
                 "write_in": c["write_in"] == "yes",
-                "seat_incumbent": c["seat_incumbent"] or holder,
+                "seat_incumbent": holder or c["seat_incumbent"],  # a researched profile is newer than the seat-holder list
                 "is_federal": level == "federal",
                 "chamber": {"U.S. Representative": "house",
                             "State Senator": "upper",

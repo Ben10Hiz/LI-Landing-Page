@@ -1,0 +1,281 @@
+{
+ "race_id": "in-state-representative-district-035",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Elizabeth Rowray",
+  "party": "Republican",
+  "summary": "Elizabeth Rowray, a Yorktown nonprofit consultant and former Yorktown school board member, has represented House District 35 since 2020 {caucus_rowray}. She serves on the Ways and Means; Commerce, Small Business and Economic Development; and Family, Children and Human Affairs committees {caucus_rowray} {caucus_committees_2024}.",
+  "record": [
+   "Committees: Ways and Means; Commerce, Small Business and Economic Development; Family, Children and Human Affairs {caucus_rowray}. 2025 interim appointments: Indiana Protection and Advocacy Services Commission, Doula Reimbursement Advisory Board and the Dr. Martin Luther King, Jr. Holiday Commission {caucus_interim_2025}.",
+   "2023 session: Authored HB 1568 to let pharmacists prescribe hormonal contraceptives to women 18 and older after a self-screening; the House Public Health Committee approved it in February 2023 {caucus_hb1568}.",
+   "2025 session: Authored HEA 1248, which expands Child Care and Development Fund eligibility for foster families and reserves 200 vouchers for children with licensed foster parents {caucus_hea1248}. Sponsored SEA 491, letting Alexandria annex noncontiguous land for an industrial park {caucus_sea491}, and SB 498 on qualifications for DCS casework supervisors {caucus_sb498}.",
+   "April 10, 2025: Voted yes when the House passed SEA 1, the 2025 property-tax law, 65-29 {rc_sea1_433}. April 25, 2025: Voted yes on the 2025 state budget conference report (HEA 1001), adopted 66-27 {rc_hb1001_576}.",
+   "Dec. 5, 2025: Voted yes on HB 1032, the mid-decade congressional redistricting bill, which passed the House 57-41 {rc_hb1032_28}.",
+   "2026 session: Authored HEA 1357, requiring staff at child caring institutions, group homes and child placing agencies to undergo federal background checks every four years; ceremonially signed in May 2026 {caucus_hea1357}."
+  ]
+ },
+ "race_context": [
+  "House District 35 includes parts of Delaware and Madison counties {caucus_rowray}; the Herald Bulletin describes it as including most of northern Madison County {hb_rematch}.",
+  "The race is a rematch of 2024, when Rowray defeated Gift with 71% of the vote {hb_rematch} {wiki_2026}.",
+  "Rowray and Gift were the only candidates listed in their parties' May 5, 2026 primaries {wiki_2026}; both are on the November ballot {in_list}.",
+  "Key differences: Gift opposes expanding private school vouchers, wants an end to partisan gerrymandering and supports legalizing adult-use marijuana {gift_issues} {gift_home}; Rowray voted for the 2025 budget and the 2025 redistricting bill {rc_hb1001_576} {rc_hb1032_28}. Gift says he opposes data center development {gift_home}; no statement from Rowray on data centers was found.",
+  "No debate or forum for this race was found."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Elizabeth Rowray",
+   "summary": "Elizabeth Rowray is the Republican incumbent, first elected in 2020 {caucus_rowray}. Her recent bills have focused on child welfare, foster care and child care {caucus_hea1248} {caucus_hea1357}.",
+   "website": null,
+   "background": [
+    "Nonprofit consultant; lives in Yorktown; graduated from Muncie Burris High School and Ball State University {caucus_rowray}.",
+    "Former legislative director for U.S. Rep. Mark Souder; worked at the Muncie-Delaware County Economic Development Alliance; served on the Yorktown school board {caucus_rowray}."
+   ],
+   "path_to_ballot": [
+    "Filed for a fourth term in January 2026 {hb_rematch}; listed as the only Republican candidate in the May 5, 2026 primary {wiki_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Child care & families",
+     "items": [
+      "Said of HEA 1248: \"Child care costs should never stand in the way of families who are willing to foster\" {caucus_hea1248_sign}.",
+      "Said of HEA 1357: \"Families deserve confidence that children placed in state-regulated care are surrounded by qualified and trustworthy adults\" {caucus_hea1357}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Said pharmacist-prescribed contraceptives \"will greatly expand access to thousands of Hoosier women\" (2023) {caucus_hb1568}."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Said SEA 491 \"could be a game changer\" for Alexandria's economic development {caucus_sea491}; the caucus says she scored above 90% on the Indiana Chamber's 2025 scorecard {caucus_chamber}."
+     ]
+    },
+    {
+     "topic": "Property taxes",
+     "items": [
+      "Voted for SEA 1 (2025) {rc_sea1_433}; the caucus listed it among the bills on the Chamber scorecard {caucus_chamber}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No statements by Rowray about Gift were found."
+   ],
+   "plans": [
+    "After the 2026 session, said her focus was \"delivering results for our district\" through tax relief and more efficient government {caucus_session_2026}."
+   ],
+   "endorsements_finance": [
+    "The House Republican caucus says Rowray scored above 90% on the Indiana Chamber of Commerce's 2025 legislator scorecard {caucus_chamber}."
+   ],
+   "gaps": [
+    "No 2026 campaign website, survey responses or campaign statements were found; WFYI's voter guide for District 35 could not be located.",
+    "Final outcome of HB 1568 (2023) and SB 498 (2025) not confirmed.",
+    "No fundraising data found."
+   ]
+  },
+  {
+   "ballot_name": "Phil G. Gift",
+   "summary": "Phil Gift is a retired Veterans Affairs nurse from Gaston, running as a Democrat for the second straight cycle {sp_gift} {gift_about}. He focuses on public school funding, rural health care, opposition to data centers and legalizing marijuana {gift_home}.",
+   "website": "https://www.phil4house35.com",
+   "background": [
+    "Registered nurse who spent 17 years with the Department of Veterans Affairs, including as a triage nurse at the Marion VA Medical Center and patient care manager at the Muncie VA clinic {gift_about}.",
+    "Raised in Fairmount; degrees from Vincennes University, the University of Cincinnati and Ball State University {gift_about}. Lives in Gaston {sp_gift}.",
+    "Was the Democratic nominee for this seat in 2024 {sp_gift} {indems_2024}."
+   ],
+   "path_to_ballot": [
+    "Filed in January 2026 {hb_rematch}; listed as the only Democratic candidate in the May 5, 2026 primary {wiki_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Education",
+     "items": [
+      "Says Indiana \"should fully fund its public schools and stop expanding taxpayer-funded private school vouchers\" {gift_issues}."
+     ]
+    },
+    {
+     "topic": "Data centers",
+     "items": [
+      "Wants to protect farmland and water from \"unchecked data center development\" that he says offers few long-term jobs while receiving large tax incentives {gift_home}."
+     ]
+    },
+    {
+     "topic": "Energy & utilities",
+     "items": [
+      "Says residential customers \"shouldn't subsidize massive new energy demands\"; supports more transparency in utility rate cases and stronger IURC oversight {gift_issues}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Wants to keep rural hospitals open and expand access to affordable insurance {gift_home}."
+     ]
+    },
+    {
+     "topic": "Housing",
+     "items": [
+      "Supports workforce-housing construction, fewer building barriers and rehabilitation of aging homes {gift_issues}."
+     ]
+    },
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "Wants to \"end partisan gerrymandering\" {gift_home}."
+     ]
+    },
+    {
+     "topic": "Other",
+     "items": [
+      "Supports legalizing, regulating and taxing adult-use marijuana with expungement review for low-level possession {gift_issues}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "No direct statements about Rowray or her record were found; Gift says he is \"determined to bring fresh leadership and real change to our community\" {sp_gift}."
+   ],
+   "plans": [
+    "Top priorities: \"securing strong, well-funded public education for every child, access to affordable health care and housing, and providing a living wage for all Hoosiers\" {sp_gift}."
+   ],
+   "endorsements_finance": [
+    "In 2024 the Indiana Democratic Party chair praised Gift's VA experience when promoting his candidacy {indems_2024}. No 2026 endorsements or fundraising found."
+   ],
+   "gaps": [
+    "Little news coverage of the 2026 race; WFYI's District 35 guide was not found.",
+    "The Herald Bulletin article also says Gift ran against Rowray in 2022; other sources reviewed mention only 2024. Unresolved.",
+    "Middle initial \"G.\" from the ballot list only; age not verified."
+   ]
+  }
+ ],
+ "sources": {
+  "caucus_rowray": [
+   "State Rep. Elizabeth Rowray: biography and committees",
+   "Indiana House Republican Caucus",
+   "accessed 2026-10-10",
+   "https://www.indianahouserepublicans.com/members/general/elizabeth-rowray/"
+  ],
+  "caucus_committees_2024": [
+   "Reps. Prescott, Rowray to serve on key House committees",
+   "Indiana House Republican Caucus",
+   "2024-12-13",
+   "https://www.indianahouserepublicans.com/news/press-releases/reps.-prescott-rowray-to-serve-on-key-house-committees/"
+  ],
+  "caucus_interim_2025": [
+   "Reps. Rowray, Prescott receive summer study committee appointments",
+   "Indiana House Republican Caucus",
+   "2025-07-22",
+   "https://www.indianahouserepublicans.com/news/press-releases/reps.-rowray-prescott-receive-summer-study-committee-appointments/"
+  ],
+  "caucus_hb1568": [
+   "Rowray's bill improving Hoosier women's access to contraceptives advances",
+   "Indiana House Republican Caucus",
+   "2023-02-14",
+   "https://www.indianahouserepublicans.com/news/press-releases/rowray-s-bill-improving-hoosier-women-s-access-to-contraceptives-advances/"
+  ],
+  "caucus_hea1248": [
+   "Rep. Rowray: Legislation to expand child care assistance for foster families signed into law",
+   "Indiana House Republican Caucus",
+   "2025-04-25",
+   "https://www.indianahouserepublicans.com/news/press-releases/rep.-rowray-legislation-to-expand-child-care-assistance-for-foster-families-signed-into-law/"
+  ],
+  "caucus_hea1248_sign": [
+   "Rep. Rowray: Governor signs bill to support Hoosier foster families",
+   "Indiana House Republican Caucus",
+   "2025-08-29",
+   "https://www.indianahouserepublicans.com/news/press-releases/rep.-rowray-governor-signs-bill-to-support-hoosier-foster-families/"
+  ],
+  "caucus_sea491": [
+   "Rep. Rowray sponsors bill to promote economic growth in Alexandria",
+   "Indiana House Republican Caucus",
+   "2025-04-09",
+   "https://www.indianahouserepublicans.com/news/press-releases/rep.-rowray-sponsors-bill-to-promote-economic-growth-in-alexandria/"
+  ],
+  "caucus_sb498": [
+   "Rep. Rowray sponsors bill to help resolve shortage of child welfare workers",
+   "Indiana House Republican Caucus",
+   "2025-04-03",
+   "https://www.indianahouserepublicans.com/news/press-releases/rep.-rowray-sponsors-bill-to-help-resolve-shortage-of-child-welfare-workers/"
+  ],
+  "caucus_hea1357": [
+   "Governor ceremonially signs bills authored by Rep. Rowray to strengthen child safety and accountability",
+   "Indiana House Republican Caucus",
+   "2026-05-14",
+   "https://www.indianahouserepublicans.com/news/press-releases/governor-ceremonially-signs-bills-authored-by-rep.-rowray-to-strengthen-child-safety-and-accountability/"
+  ],
+  "caucus_chamber": [
+   "Prescott, Rowray among top in 2025 Indiana Chamber legislative rankings",
+   "Indiana House Republican Caucus",
+   "2025-08-27",
+   "https://www.indianahouserepublicans.com/news/press-releases/prescott-rowray-among-top-in-2025-indiana-chamber-legislative-rankings/"
+  ],
+  "caucus_session_2026": [
+   "Prescott, Rowray: Legislative session ends with new laws to help Hoosiers",
+   "Indiana House Republican Caucus",
+   "2026-03-19",
+   "https://www.indianahouserepublicans.com/news/press-releases/prescott-rowray-legislative-session-ends-with-new-laws-to-help-hoosiers/"
+  ],
+  "hb_rematch": [
+   "Potential rematch in Indiana House District 35 race",
+   "The Herald Bulletin",
+   "2026-01-08",
+   "https://www.heraldbulletin.com/elections/news/potential-rematch-in-indiana-house-district-35-race/article_009fcc97-6562-4c7b-98be-ca9c2bc1a6ef.html"
+  ],
+  "sp_gift": [
+   "Gaston man announces candidacy for Indiana House seat",
+   "Muncie Star Press (via Yahoo News)",
+   "2026-02-18",
+   "https://www.yahoo.com/news/articles/gaston-man-announces-candidacy-indiana-205108237.html"
+  ],
+  "indems_2024": [
+   "Rural Hoosier Democrats Running to Bring Solutions to the Statehouse",
+   "Indiana Democratic Party",
+   "2024-02-21",
+   "https://indems.org/press-release/rural-hoosier-democrats-running-to-bring-solutions-to-the-statehouse/"
+  ],
+  "gift_home": [
+   "Phil Gift for Indiana House District 35",
+   "Phil Gift campaign",
+   "accessed 2026-10-10",
+   "https://www.phil4house35.com/"
+  ],
+  "gift_about": [
+   "About Phil",
+   "Phil Gift campaign",
+   "accessed 2026-10-10",
+   "https://www.phil4house35.com/about"
+  ],
+  "gift_issues": [
+   "Where Phil Stands on the Issues",
+   "Phil Gift campaign",
+   "accessed 2026-10-10",
+   "https://www.phil4house35.com/issues"
+  ],
+  "rc_hb1032_28": [
+   "House Roll Call 28: HB 1032 (Redistricting), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-12-05",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  ],
+  "rc_sea1_433": [
+   "House Roll Call 433: SB 1 (Local government finance), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-10",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  ],
+  "rc_hb1001_576": [
+   "House Roll Call 576: HB 1001 (State budget), conference committee report",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-25",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  ],
+  "wiki_2026": [
+   "2026 Indiana House of Representatives election",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  ]
+ }
+}

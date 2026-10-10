@@ -1,0 +1,207 @@
+{
+ "race_id": "in-state-representative-district-023",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Ethan Manning",
+  "party": "Republican",
+  "summary": "Ethan Manning, a Republican real estate broker, auctioneer and cattle farmer from rural Cass County, was first elected in 2018 and chairs the House Public Policy Committee, according to the House Republican caucus {manning_bio}.",
+  "record": [
+   "Committee assignments listed by the caucus: Public Policy (chair), Employment, Labor and Pensions, and Rules and Legislative Procedures {manning_bio}.",
+   "April 10, 2025: voted no on Senate Bill 1, the property-tax bill, when it passed the House 65–29 on third reading; the roll call shows him as one of three Republicans, with Reps. Haggard and Ireland, voting no {rc_sb1}.",
+   "April 2025: voted yes on the 2025–2027 state budget conference report (HEA 1001), adopted by the House 66–27 {rc_hb1001}.",
+   "December 5, 2025: voted yes on House Bill 1032, the mid-decade congressional redistricting map, which passed the House 57–41 {rc_hb1032} {tsf_house_vote}.",
+   "2026 session: sponsored House Bill 1052, which bans online sweepstakes casino games; it passed the House 87–11 and the Senate 37–8 and was signed by Gov. Mike Braun in March 2026, with civil penalties of up to $100,000 for operators {ipm_lottery} {covers_sweeps}.",
+   "January 2026: authored House Bill 1078 to let the Hoosier Lottery sell tickets online; his committee advanced it 9–3, and a bill tracker shows no House final-passage vote after it was amended on second reading January 13 {ipm_lottery} {pr_hb1078}.",
+   "Said in January 2026 that \"if i-gaming were legal here … there wouldn't be much market for the sweeps casinos,\" and supports legalizing online gambling at the state's casinos, per the Indiana Capital Chronicle {ipm_lottery}."
+  ]
+ },
+ "race_context": [
+  "House District 23 covers portions of Cass and Miami counties, including Logansport and Peru {manning_bio} {pt_spotlight}. Manning is seeking re-election; it is not an open seat {in_list}.",
+  "Manning and Austin Meives were each listed as the only declared candidate in their party for the May 5, 2026 primary, according to Wikipedia; Manning won re-election with 73.9% in 2024 {wiki_2026_inhouse}.",
+  "Meives appeared at a candidate spotlight event in Logansport hosted by the Cass County Democrats in August 2026 {pt_spotlight}. No debate between the two candidates was found as of October 10, 2026.",
+  "Manning's record includes gaming legislation from the Public Policy Committee and a no vote on the 2025 property-tax bill {ipm_lottery} {rc_sb1}; no published issue positions from Meives were found, so policy differences could not be documented."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Austin D. Meives",
+   "summary": "Austin D. Meives is the Democratic nominee; local coverage confirms his candidacy, but little information about his background or positions was found {pt_spotlight} {br_meives}.",
+   "website": null,
+   "background": [
+    "His iVoterGuide profile lists no education, work or affiliation information {ivg_meives}."
+   ],
+   "path_to_ballot": [
+    "Was the only Democratic candidate listed for District 23 ahead of the May 5, 2026 primary {wiki_2026_inhouse}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No public statements by Meives about Manning or his record were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "iVoterGuide lists endorsements from the Center for Freethought Equality and Indiana Reproductive Freedom PAC, and a 2026 contribution from local Democratic organizations, without amounts {ivg_meives}."
+   ],
+   "gaps": [
+    "No campaign website found; a Facebook page (\"Meives for State House 23\") and Instagram account exist but could not be read.",
+    "iVoterGuide notes interviews with Progressive Indiana Network (March 8 and April 24, 2026) and participation in a Freedom Voter Guide survey; these were not reviewed.",
+    "Did not answer the iVoterGuide questionnaire; occupation, residence, community roles and fundraising totals are not documented in sources reviewed.",
+    "The Pharos-Tribune spotlight article is paywalled; only its opening was read, so what Meives said at the event is unknown.",
+    "One Blue Voter Guide page reportedly lists a Richard Rouser as a Democratic District 23 candidate; he is not on the official ballot list and this was not verified."
+   ]
+  },
+  {
+   "ballot_name": "Ethan Manning",
+   "summary": "Ethan Manning, the Republican incumbent since 2018, chairs the House Public Policy Committee and previously served on the Miami County Council, including as its president {manning_bio}.",
+   "website": "https://electethan.com/",
+   "background": [
+    "Associate broker and auctioneer with Carriger Oldfather Realty, owner of Manning Auctions and part owner of his family's cattle farm, per the caucus {manning_bio}.",
+    "Served on the Miami County Council from 2014, as president from 2016 to 2018, and on the state Board of Registration for Professional Engineers after a 2015 appointment by Gov. Mike Pence {manning_bio}.",
+    "Lives in rural Cass County {manning_bio}."
+   ],
+   "path_to_ballot": [
+    "Was the only Republican candidate listed for District 23 ahead of the May 5, 2026 primary {wiki_2026_inhouse}."
+   ],
+   "positions": [
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "His campaign site says he will \"always fight for our small towns, small schools, local businesses, and our agricultural industry\" and \"will promote fiscal responsibility\" {electethan}."
+     ]
+    },
+    {
+     "topic": "Gaming",
+     "items": [
+      "Supports legalizing online casino gambling at the state's casinos and carried the 2026 sweepstakes-casino ban {ipm_lottery} {covers_sweeps}."
+     ]
+    },
+    {
+     "topic": "Education & health care",
+     "items": [
+      "His campaign site says he authored bills to increase funding for small and rural schools and expand rural health care access {electethan}."
+     ]
+    },
+    {
+     "topic": "Agriculture",
+     "items": [
+      "On a 2026 law easing rules for local food vendors, said \"As a member of a farm family myself, I know how important access to markets is for the agricultural economy\" {manning_newlaws}."
+     ]
+    },
+    {
+     "topic": "Other",
+     "items": [
+      "His campaign site says he \"stands for life at all stages\" and \"will always defend our Second Amendment rights\" {electethan}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No public statements by Manning about Meives were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "His campaign site lists endorsements from Indiana Farm Bureau AgELECT, the Indiana Chamber of Commerce, the NRA, Indiana Right to Life and the Indiana Manufacturers Association {electethan}.",
+    "iVoterGuide lists recent contributions received from groups including GOPAC, Good To Be Free PAC and Hoosiers for Quality Education (2024), without amounts {ivg_manning}."
+   ],
+   "gaps": [
+    "No explanation from Manning for his April 2025 no vote on SB 1 was found.",
+    "The campaign site's endorsement list is undated and may reflect earlier cycles.",
+    "The specific rural school funding and rural health care bills his campaign site cites were not identified.",
+    "Did not answer the iVoterGuide questionnaire; no campaign-finance totals were reviewed.",
+    "The final status of HB 1078 (online lottery) after January 2026 was not confirmed."
+   ]
+  }
+ ],
+ "sources": {
+  "manning_bio": [
+   "Ethan Manning, State Representative, District 23",
+   "Indiana House Republicans",
+   "accessed 2026-10-10",
+   "https://www.indianahouserepublicans.com/members/general/ethan-manning/"
+  ],
+  "manning_newlaws": [
+   "Reps. Manning, VanNatter highlight new state laws taking effect",
+   "Indiana House Republicans",
+   "2026-06-24",
+   "https://www.indianahouserepublicans.com/news/press-releases/reps.-manning-vannatter-highlight-new-state-laws-taking-effect/"
+  ],
+  "electethan": [
+   "Elect Ethan Manning",
+   "Ethan Manning campaign",
+   "accessed 2026-10-10",
+   "https://electethan.com/"
+  ],
+  "ipm_lottery": [
+   "Online lottery bill advances as ban eyed on other internet gambling",
+   "Indiana Capital Chronicle via Indiana Public Media",
+   "2026-01-07",
+   "https://www.ipm.org/news/2026-01-07/online-lottery-bill-advances-as-ban-eyed-on-other-internet-gambling"
+  ],
+  "covers_sweeps": [
+   "Indiana Governor Signs Sweepstakes Casino Ban",
+   "Covers.com",
+   "2026-03-13",
+   "https://www.covers.com/industry/indiana-governor-signs-sweepstakes-casino-ban-march-13-2026"
+  ],
+  "pr_hb1078": [
+   "Indiana HB 1078 (2026): Online lottery sales",
+   "PolicyRisk bill tracker",
+   "accessed 2026-10-10",
+   "https://policyrisk.com/state-bill/IN-HB1078-2026"
+  ],
+  "pt_spotlight": [
+   "Democratic candidates for Indiana House seats to visit Logansport Wednesday",
+   "Pharos-Tribune",
+   "2026-08-18",
+   "https://www.pharostribune.com/news/article_2862e061-9b21-451e-a57b-3f510973bcf1.html"
+  ],
+  "ivg_manning": [
+   "Ethan Manning, Indiana State Representative, District 23",
+   "iVoterGuide",
+   "accessed 2026-10-10",
+   "https://ivoterguide.com/candidate/39634/race/30672/election/1456"
+  ],
+  "ivg_meives": [
+   "Austin D. Meives, Indiana State Representative, District 23",
+   "iVoterGuide",
+   "accessed 2026-10-10",
+   "https://ivoterguide.com/candidate/95454/race/30672/election/1456"
+  ],
+  "br_meives": [
+   "Austin D. Meives",
+   "BallotReady",
+   "accessed 2026-10-10",
+   "https://www.ballotready.org/people/austin-d-meives"
+  ],
+  "rc_hb1032": [
+   "Roll Call 28: HB 1032 (Redistricting), 3rd Reading",
+   "Indiana House of Representatives (billtexts.com mirror)",
+   "2025-12-05",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  ],
+  "rc_sb1": [
+   "Roll Call 433: SB 1 (Local government finance), 3rd Reading",
+   "Indiana House of Representatives (billtexts.com mirror)",
+   "2025-04-10",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  ],
+  "rc_hb1001": [
+   "Roll Call 576: HB 1001 (State budget), Conference Committee Report #1",
+   "Indiana House of Representatives (billtexts.com mirror)",
+   "2025-04-25",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  ],
+  "tsf_house_vote": [
+   "BILL ADVANCES: 12 House Republicans join Democrats to oppose redistricting, but map moves to Senate",
+   "TheStatehouseFile.com via The Indiana Citizen",
+   "2025-12-05",
+   "https://indianacitizen.org/bill-advances-12-house-republicans-join-democrats-to-oppose-redistricting-but-map-moves-to-senate/"
+  ],
+  "wiki_2026_inhouse": [
+   "2026 Indiana House of Representatives election",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  ]
+ }
+}

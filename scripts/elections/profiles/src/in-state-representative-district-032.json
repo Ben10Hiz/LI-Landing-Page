@@ -1,0 +1,119 @@
+{
+ "race_id": "in-state-representative-district-032",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Victoria Garcia Wilburn",
+  "party": "Democratic",
+  "summary": "Victoria Garcia Wilburn, a Fishers Democrat and Indiana University associate professor of occupational therapy, was first elected in 2022; the House Democratic caucus lists her as ranking minority member of the Judiciary Committee and a member of the Employment, Labor and Pensions and Public Health committees {vgw_bio}{reporter_newdeal}.",
+  "record": [
+   "April 2025: Voted no on Senate Bill 1, the 2025 property-tax law, saying Hamilton County stood to lose $132.98 million and that local income taxes could rise; also voted no on the 2025 state budget (HEA 1001), citing public-school, public-health and pre-K funding, while saying she supported its cigarette-tax increase {vgw_sb1}{vgw_budget}.",
+   "December 5, 2025: Voted no on House Bill 1032, the mid-decade congressional redistricting bill, which passed the House 57-41; she said she voted no because of \"an outpouring of calls and emails from constituents\" opposing it {bt_vgw}{reporter_hb1032}.",
+   "2026 session: Authored House Bill 1036, requiring Department of Child Services caseworkers to see a child in person before closing a case; the bill passed both chambers unanimously and was signed into law, according to her office {reporter_hb1036}{vgw_news}.",
+   "2026: Her request for an interim study of guardian ad litem and court-appointed special advocate programs was approved, and in August she called on FSSA to pause procedural Medicaid terminations in counties hit by flooding {reporter_study}{reporter_medicaid}."
+  ]
+ },
+ "race_context": [
+  "House District 32 covers parts of Fishers, Carmel and a small part of Indianapolis, crossing Hamilton and Marion counties, according to LarryInFishers and Garcia Wilburn's campaign {larry_nix}{vgw_site}.",
+  "Garcia Wilburn won the seat in 2022 and was re-elected in 2024 with 52.1% of the vote, according to Wikipedia {wiki_house26}{reporter_better}.",
+  "No Republican filed for the May 2026 primary; on June 26, 2026, Hamilton County Republican precinct committee members chose Paul Nix by unanimous vote in a caucus to fill the ballot vacancy {reporter_caucus}{larry_nix}.",
+  "No debate or forum between the two candidates was found as of October 10, 2026.",
+  "Property taxes are a point of difference: Garcia Wilburn voted against the 2025 property-tax law (SEA 1), saying it would cut local services and raise local income taxes, while Nix calls the law's $300 credit inadequate and supports a proposal to replace property taxes with a 7% tax on services {vgw_sb1}{nix_site}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Paul G. Nix",
+   "summary": "Paul Nix, the Republican nominee, is a Fishers insurance agent picked by a party caucus in June 2026 who is running mainly on eliminating property taxes {larry_nix}{nix_site}.",
+   "website": "https://nix4indiana.com/",
+   "background": [
+    "Has worked in insurance for more than 40 years, largely with senior clients, and has served as a vice precinct committeeman, according to LarryInFishers {larry_nix}.",
+    "Moved to Fishers from Fort Wayne in 1990 and lives in Delaware Township {nix_site}{larry_nix}.",
+    "Ran for the seat in 2022, finishing third in the Republican primary with 479 votes (about 11.5%) {larry_nix}."
+   ],
+   "path_to_ballot": [
+    "Was chosen on June 26, 2026 by a unanimous vote of Hamilton County Republican precinct committee members at a caucus held to fill the vacancy left when no Republican filed for the primary {reporter_caucus}{larry_nix}."
+   ],
+   "positions": [
+    {"topic": "Property taxes", "items": ["His campaign says Hoosiers are \"being taxed out of homes they already own\" and calls for \"real reform\" rather than \"a $300 credit that disappears from local increases\" {nix_site}.", "Supports House Bill 1288, a proposal by Rep. J.D. Prescott to abolish property taxes and replace them with a 7% tax on services; in a letter to The Reporter he wrote that state fiscal estimates showed it would raise more revenue than property taxes {reporter_nix_letter}{nix_site}."]},
+    {"topic": "Budget", "items": ["Says he would keep a balanced budget and \"find real savings in programs like Medicaid and Medicare without cutting the quality of care\" {nix_site}."]},
+    {"topic": "Education", "items": ["Says parents should have the final say in what children are taught; opposes CRT, DEI and \"gender ideology\" in schools and opposes male athletes competing in girls' sports {nix_site}.", "In his letter, suggested Hamilton Southeastern Schools, which he said has 1,500 fewer students than six years ago, could rent out empty classrooms \"instead of a referendum\" {reporter_nix_letter}."]},
+    {"topic": "Public safety", "items": ["Supports Indiana's constitutional carry law {nix_site}."]},
+    {"topic": "Immigration", "items": ["Says he supports legal immigration \"100 percent\" {nix_site}."]},
+    {"topic": "Abortion", "items": ["Opposes taxpayer funding of abortion and says Indiana should do more to protect the unborn {nix_site}."]}
+   ],
+   "on_incumbent": [
+    "No statements by Nix about Garcia Wilburn's record were found; his campaign says District 32 \"can be won\" and that Indiana under Republican leadership is \"the envy of our neighboring States\" {nix_site}.",
+    "At the caucus, he said a candidate who waits until Medicare age to run is \"not the typical career politician\" {reporter_caucus}."
+   ],
+   "plans": [
+    "Lists cutting property taxes as his top priority, saying \"no Hoosier should ever be evicted from a home they own because they cannot pay the property taxes\" {nix_site}."
+   ],
+   "endorsements_finance": [],
+   "gaps": [
+    "No endorsements or campaign finance totals were found.",
+    "Current Publishing's July 8, 2026 article on the race (youarecurrent.com) could not be read (403).",
+    "LarryInFishers summarized positions from Nix's 2022 Ballotpedia survey; Ballotpedia itself could not be read."
+   ]
+  },
+  {
+   "ballot_name": "Victoria Garcia Wilburn",
+   "summary": "Rep. Victoria Garcia Wilburn, the Democratic incumbent seeking a third term, is an occupational therapist and Indiana University faculty member who has focused on health care, child welfare and public safety training {vgw_bio}{larry_nix}.",
+   "website": "https://www.wilburnforindiana.com/",
+   "background": [
+    "Associate professor of occupational therapy at Indiana University-Indianapolis; earned a bachelor's in occupational therapy from Boston University and master's and doctoral degrees in health science from the University of Indianapolis {reporter_newdeal}{vgw_bio}.",
+    "Has served on the boards of the American Occupational Therapy Association and Hope Academy Recovery High School, according to the caucus {vgw_bio}.",
+    "Lives in Fishers {vgw_bio}."
+   ],
+   "path_to_ballot": [
+    "Was unopposed in the May 5, 2026 Democratic primary {reporter_onezone}{wiki_house26}."
+   ],
+   "positions": [
+    {"topic": "Property taxes", "items": ["Voted against 2025's SEA 1, saying, \"Senate Bill 1 in its current form is just not workable for House District 32,\" and citing potential local income-tax increases and cuts to schools and public safety {vgw_sb1}."]},
+    {"topic": "Education", "items": ["Opposed the 2025 budget in part because it moves to universal private school vouchers in 2027 and, she said, did not give special education enough of an increase {vgw_budget}.", "Held an education town hall in Fishers in September 2026 {reporter_townhall}."]},
+    {"topic": "Health care", "items": ["Authored 2026 bills to let patients pick a physical or occupational therapist as a primary care provider (HB 1016) and to require the insurance commissioner to consider affordability when reviewing premium increases (HB 1037) {vgw_2026bills}.", "Has criticized FSSA over Medicaid disenrollments, saying, \"FSSA is doing too much too fast\" {vgw_medicaid}."]},
+    {"topic": "Elections & redistricting", "items": ["Opposed mid-decade redistricting, saying in October 2025 that the state should focus on energy bills, property taxes and health care costs instead {vgw_maps}{reporter_hb1032}."]},
+    {"topic": "Public safety", "items": ["Her campaign says she supports first responders and \"common sense gun laws\"; the caucus says her first-term law (Public Law 139) provides mental health and resiliency training to public safety professionals {vgw_site}{vgw_bio}."]}
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No public statements by Garcia Wilburn about her challenger were found."
+   ],
+   "plans": [
+    "Her campaign says she is running to strengthen public schools with attention to special education, improve mental and behavioral health infrastructure and advocate for gun safety laws {vgw_site}."
+   ],
+   "endorsements_finance": [
+    "Endorsed by the OneZone Business Action Committee in March 2026 {reporter_onezone}.",
+    "Joined NewDEAL, a national network of Democratic state and local officials, in July 2026 {reporter_newdeal}."
+   ],
+   "gaps": [
+    "No campaign finance totals were found.",
+    "LarryInFishers described her as a physical therapist; her caucus bio and other sources say occupational therapist."
+   ]
+  }
+ ],
+ "sources": {
+  "wiki_house26": ["2026 Indiana House of Representatives election", "Wikipedia", "accessed 2026-10-10", "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"],
+  "vgw_bio": ["State Rep. Victoria Garcia Wilburn - member page", "Indiana House Democratic Caucus", "accessed 2026-10-10", "https://www.indianahousedemocrats.org/members/victoria-garcia-wilburn"],
+  "vgw_news": ["Rep. Victoria Garcia Wilburn news releases", "Indiana House Democratic Caucus", "accessed 2026-10-10", "https://www.indianahousedemocrats.org/news?category=Rep.+Victoria+Garcia+Wilburn"],
+  "vgw_sb1": ["Garcia Wilburn votes against income tax hike, cuts for local schools and public safety", "Indiana House Democratic Caucus", "2025-04-15", "https://www.indianahousedemocrats.org/news/garcia-wilburn-votes-against-income-tax-hike-cuts-for-local-schools-and-public-safety"],
+  "vgw_budget": ["Garcia Wilburn votes 'no' on inefficient budget that cuts public health, early learning", "Indiana House Democratic Caucus", "2025-04-25", "https://www.indianahousedemocrats.org/news/garcia-wilburn-votes-no-on-inefficient-budget-that-cuts-public-health-early-learning"],
+  "vgw_maps": ["Garcia Wilburn calls for action on cost of living, not partisan maps", "Indiana House Democratic Caucus", "2025-10-27", "https://www.indianahousedemocrats.org/news/garcia-wilburn-calls-for-action-on-cost-of-living-not-partisan-maps"],
+  "vgw_2026bills": ["Garcia Wilburn files 2026 legislation to keep Hoosiers safe and healthy", "Indiana House Democratic Caucus", "2026-01-09", "https://www.indianahousedemocrats.org/news/garcia-wilburn-files-2026-legislation-to-keep-hoosiers-safe-and-healthy"],
+  "vgw_medicaid": ["Garcia Wilburn responds to Medicaid disenrollment investigation", "Indiana House Democratic Caucus", "2026-08-07", "https://www.indianahousedemocrats.org/news/garcia-wilburn-responds-to-medicaid-disenrollment-investigation"],
+  "vgw_site": ["Victoria Garcia Wilburn for Indiana House District 32", "Committee to Elect Victoria Garcia Wilburn", "accessed 2026-10-10", "https://www.wilburnforindiana.com/"],
+  "bt_vgw": ["Victoria Garcia Wilburn legislator vote record", "BillTrack50", "accessed 2026-10-10", "https://www.billtrack50.com/public/scorecard/legislator/TNvEht1gV0ilLkxyi9h0rQ/28195"],
+  "reporter_hb1032": ["Garcia Wilburn reacts to House passage of congressional map", "The Reporter (Hamilton County)", "2025-12-09", "https://readthereporter.com/garcia-wilburn-reacts-to-house-passage-of-congressional-map/"],
+  "reporter_hb1036": ["Garcia Wilburn's bill to keep kids in DCS safe heads to governor's desk", "The Reporter (Hamilton County)", "2026-02-25", "https://readthereporter.com/garcia-wilburns-bill-to-keep-kids-in-dcs-safe-heads-to-governors-desk/"],
+  "reporter_study": ["Garcia Wilburn's legislative study request on child advocacy approved for 2026 interim", "The Reporter (Hamilton County)", "2026-05-28", "https://readthereporter.com/garcia-wilburns-legislative-study-request-on-child-advocacy-approved-for-2026-interim/"],
+  "reporter_medicaid": ["State Rep. Victoria Garcia Wilburn calls on Gov. Braun & FSSA to protect Hoosiers' Medicaid coverage in disaster-struck counties", "The Reporter (Hamilton County)", "2026-08-25", "https://readthereporter.com/state-rep-victoria-garcia-wilburn-calls-on-gov-braun-fssa-to-protect-hoosiers-medicaid-coverage-in-disaster-struck-counties/"],
+  "reporter_newdeal": ["State Rep. Garcia Wilburn selected as one of the nation's rising leaders", "The Reporter (Hamilton County)", "2026-07-17", "https://readthereporter.com/state-rep-garcia-wilburn-selected-as-one-of-the-nations-rising-leaders/"],
+  "reporter_townhall": ["State Rep. Garcia Wilburn to hold Education Town Hall in Fishers", "The Reporter (Hamilton County)", "2026-09-22", "https://readthereporter.com/state-rep-garcia-wilburn-to-hold-education-town-hall-in-fishers/"],
+  "reporter_onezone": ["OneZone Business Action Committee endorses Democrat Victoria Garcia Wilburn", "The Reporter (Hamilton County)", "2026-03-24", "https://readthereporter.com/onezone-business-action-committee-endorses-democrat-victoria-garcia-wilburn/"],
+  "reporter_better": ["Better Indiana endorses State Rep. Garcia Wilburn as voice of \"balance & moderation\"", "The Reporter (Hamilton County)", "2024-07-03", "https://readthereporter.com/better-indiana-endorses-state-rep-garcia-wilburn-as-voice-of-balance-moderation/"],
+  "reporter_caucus": ["Nix wins caucus to run for House District 32 seat", "The Reporter (Hamilton County)", "2026-06-30", "https://readthereporter.com/nix-wins-caucus-to-run-for-house-district-32-seat/"],
+  "reporter_nix_letter": ["Paul Nix details problem with (and potential solution to) property taxes (letter to the editor)", "The Reporter (Hamilton County)", "2026-08-12", "https://readthereporter.com/paul-nix-details-problem-with-and-potential-solution-to-property-taxes/"],
+  "larry_nix": ["Republicans tap Paul Nix to challenge Garcia Wilburn in House District 32", "LarryInFishers", "2026-06-27", "https://www.larryinfishers.com/2026/06/27/republicans-tap-paul-nix-to-challenge-garcia-wilburn-in-house-district-32/"],
+  "nix_site": ["Paul Nix for Indiana House District 32", "Nix for Indiana", "accessed 2026-10-10", "https://nix4indiana.com/"]
+ }
+}
