@@ -7,16 +7,11 @@ Edit the text here, then run:
 Citations are written as {key}; the script numbers sources in order of first
 use and drops unused ones. Editorial rules: data/elections/2026/profiles/README.md
 """
-import json
-import re
 import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from render import render_markdown  # noqa: E402
-
-ROOT = Path(__file__).resolve().parents[3]
-OUT = ROOT / "data" / "elections" / "2026" / "profiles"
+from common import build_profile  # noqa: E402
 
 S = {
     "sos_about": ("About the Office", "Indiana Secretary of State", "", "https://www.in.gov/sos/about-sos/about-the-office/"),
@@ -377,37 +372,8 @@ PROFILE = {
 }
 
 
-def number_citations(obj, order):
-    if isinstance(obj, str):
-        def sub(m):
-            key = m.group(1)
-            if key not in S:
-                raise KeyError(f"unknown source {key}")
-            if key not in order:
-                order.append(key)
-            return f"[{order.index(key) + 1}]"
-        out = re.sub(r"\{([a-z0-9_]+)\}", sub, obj)
-        return re.sub(r"\]\s*\[", ", ", re.sub(r"\s+(\[\d)", r" \1", out)).replace(" .", ".")
-    if isinstance(obj, list):
-        return [number_citations(x, order) for x in obj]
-    if isinstance(obj, dict):
-        return {k: number_citations(v, order) for k, v in obj.items()}
-    return obj
-
-
 def main():
-    order = []
-    profile = number_citations(PROFILE, order)
-    profile["sources"] = [
-        {"id": i + 1, "title": S[k][0], "publisher": S[k][1], "date": S[k][2], "url": S[k][3]}
-        for i, k in enumerate(order)
-    ]
-    OUT.mkdir(parents=True, exist_ok=True)
-    (OUT / f"{profile['race_id']}.json").write_text(
-        json.dumps(profile, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
-    (OUT / f"{profile['race_id']}.md").write_text(render_markdown(profile), encoding="utf-8")
-    unused = sorted(set(S) - set(order))
-    print(f"{len(profile['candidates'])} candidates, {len(order)} sources; unused: {unused}")
+    build_profile(PROFILE, S)
 
 
 if __name__ == "__main__":

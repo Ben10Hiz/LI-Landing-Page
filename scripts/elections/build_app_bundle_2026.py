@@ -148,6 +148,21 @@ def township_of(office):
     return ""
 
 
+def same_person(a, b):
+    a = re.sub(r"[.,()]", " ", a.lower()).split()
+    b = re.sub(r"[.,()]", " ", b.lower()).split()
+    return bool(a and b) and a[-1] == b[-1] and b[0] in a[:-1]
+
+
+def profile_incumbent(rid):
+    """Officeholder named in a race profile, if any (statewide offices are
+    not flagged in the state's candidate list)."""
+    path = PROFILES / f"{rid}.json"
+    if not path.exists():
+        return ""
+    return (json.loads(path.read_text(encoding="utf-8")).get("incumbent") or {}).get("name", "")
+
+
 def in_race(office_row, cands):
     o = office_row
     rid = "in-" + slug(o["office"])
@@ -161,6 +176,7 @@ def in_race(office_row, cands):
                 else "Indiana House of Representatives. 2-year term.")
     if int(o["seats"]) > 1:
         desc = (desc + " " if desc else "") + f'Vote for up to {o["seats"]}.'
+    holder = profile_incumbent(rid)
     if any(c["write_in"] for c in cands):
         desc = (desc + " " if desc else "") + "Write-in candidates must be written in by name."
     return {
@@ -178,9 +194,10 @@ def in_race(office_row, cands):
                 "id": f"{rid}-{i}",
                 "name": display_name(c["candidate"]),
                 "party": c["party"],
-                "incumbent": c["incumbent"] == "yes",
+                "incumbent": c["incumbent"] == "yes"
+                or bool(holder and same_person(c["candidate"], holder)),
                 "write_in": c["write_in"] == "yes",
-                "seat_incumbent": c["seat_incumbent"],
+                "seat_incumbent": c["seat_incumbent"] or holder,
                 "is_federal": level == "federal",
                 "chamber": {"U.S. Representative": "house",
                             "State Senator": "upper",
