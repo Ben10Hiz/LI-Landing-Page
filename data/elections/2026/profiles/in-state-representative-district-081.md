@@ -97,7 +97,7 @@ Campaign website: https://www.electsharonwight.com/
 
 - Project manager at an educational technology company that builds websites, apps and communication systems for schools; previously an adjunct instructor at area universities, an academic advisor at Purdue Fort Wayne and briefly a dual-credit instructor at Homestead High School [16].
 - Attended Fort Wayne Community Schools and holds two master's degrees [16]. Lives in Fort Wayne [12].
-- Says she has worked as a disability advocate with the League for the Blind and Disabled [12] and has served as a church secretary since high school [16].
+- Says she has worked as a disability advocate with the League for the Blind and Disabled [12].
 
 ### Path to the ballot
 

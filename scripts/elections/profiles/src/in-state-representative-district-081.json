@@ -1,251 +1,251 @@
 {
- "race_id": "in-state-representative-district-081",
- "reviewed": "2026-10-10",
- "status": "draft",
- "status_note": "Pending editorial review.",
- "office": "@in_house",
- "incumbent": {
-  "name": "Martin Carbaugh",
-  "party": "Republican",
-  "summary": "Martin Carbaugh, a Fort Wayne financial planner, has represented House District 81 since 2012 and chairs the House Insurance Committee {caucus_carbaugh} {wiki_2026}. He authored the 2025 law (HEA 1004) setting price benchmarks for large nonprofit hospital systems {wpta_hea1004}.",
-  "record": [
-   "Committees: Insurance (chair), Education and Public Health; interim committees on Financial Institutions and Insurance and on Pension Management Oversight, according to the House Republican caucus {caucus_carbaugh}.",
-   "2025: Authored HEA 1004, which requires the largest nonprofit hospital systems to bring average prices to or below a statewide average by June 30, 2029, or risk losing nonprofit status {wpta_hea1004}. Carbaugh said at final passage: \"Even with those changes, we are making meaningful, incremental changes to provide relief to our constituents\" {icc_hea1004}.",
-   "HEA 1004 criticism: Rep. Robin Shackleford (D-Indianapolis) said \"There is nothing in this bill that ensures that patients will pay less for quality health care\"; Sen. Liz Brown (R-Fort Wayne) warned that loss of nonprofit status could lead to sales of facilities that leave out rural hospitals {icc_hea1004}. In April 2026 Carbaugh said large nonprofit hospitals were complying with the law's direct-to-employer provisions but that marketplace and other insured patients still need help {caucus_hospital_2026}.",
-   "2026: Sponsored SEA 88, which adds instruction on finishing high school, workforce training, full-time employment and waiting to become a parent until marriage to existing coursework, and recognizes the Classic Learning Test as a college entrance exam {caucus_sea88}.",
-   "Voted yes on SEA 1, the 2025 property-tax law (April 10, 2025) {rc_sea1_433}; the 2025 budget conference report, HEA 1001 (April 25, 2025) {rc_hb1001_576}; and HB 1032, the congressional redistricting bill (Dec. 5, 2025) {rc_hb1032_28}."
-  ]
- },
- "race_context": [
-  "House District 81 covers the northwestern part of Fort Wayne and part of central Allen County, according to the House Republican caucus {caucus_carbaugh}; the Journal Gazette describes it as including northwest Allen County {jg_d81}. Wight cites growth in Huntertown as a district issue {jg_d81}.",
-  "Carbaugh was reelected with 64.9% of the vote in 2024 {wiki_2026}.",
-  "May 5, 2026 Republican primary: Carbaugh 3,795 votes (75.1%), David Mervar 1,256 (24.9%). Democratic primary: Sharon Wight 1,976 (81.6%), Chad Clevidence 446 (18.4%) {wiki_2026}.",
-  "Key differences: Carbaugh's legislative focus has been health care pricing and insurance {caucus_carbaugh} {caucus_hospital_2026}; Wight emphasizes accessibility, public transit, public-school funding, union support and marijuana legalization {wight_platform}.",
-  "No debate or forum for this race was found."
- ],
- "candidates": [
-  {
-   "ballot_name": "Martin Carbaugh",
-   "summary": "Seven-term incumbent and chair of the House Insurance Committee {caucus_carbaugh}. Won the May 2026 Republican primary with 75.1% {wiki_2026}.",
-   "website": null,
-   "background": [
-    "Financial planner with Financial Focus; attended Indiana University-Purdue University Fort Wayne; lifelong Fort Wayne resident {caucus_carbaugh}.",
-    "Volunteers with Junior Achievement teaching financial literacy; member of the National Association of Insurance and Financial Advisors and the National Federation of Independent Business {caucus_carbaugh}."
-   ],
-   "path_to_ballot": [
-    "Won the May 5, 2026 Republican primary over David Mervar, 75.1% to 24.9% {wiki_2026}."
-   ],
-   "positions": [
-    {
-     "topic": "Health care",
-     "items": [
-      "Says HEA 1004 is meant to \"hold hospitals accountable for lower and more transparent pricing, prioritize patients and reduce health care costs\" {caucus_hospital_2026}.",
-      "In a June 2026 column on hospital pricing and the state's claims database he wrote: \"This is meaningful progress, but the work is not finished\" {caucus_column_2026}."
-     ]
-    },
-    {
-     "topic": "Economy & jobs",
-     "items": [
-      "The caucus lists his priorities as reducing regulations that hinder workforce growth, a competitive tax code and fiscally conservative state finances {caucus_carbaugh}."
-     ]
-    },
-    {
-     "topic": "Education",
-     "items": [
-      "On SEA 88: \"This new law helps ensure students are prepared not just for graduation, but for life after high school\" {caucus_sea88}."
-     ]
-    },
-    {
-     "topic": "Energy & utilities",
-     "items": [
-      "Was among northeast Indiana legislators announcing the Indiana Utility Regulatory Commission's March 2026 energy affordability investigation, which included Indiana Michigan Power {caucus_iurc}."
-     ]
-    }
-   ],
-   "on_incumbent": [
-    "Is the current officeholder. No public statements about his challenger were found. He did not respond to the Journal Gazette's primary questionnaire {jg_d81}."
-   ],
-   "plans": [
-    "Says more work remains on health care costs for people with marketplace and other non-direct-employer plans {caucus_hospital_2026}."
-   ],
-   "endorsements_finance": [
-    "Wikipedia lists primary endorsements from Donald Trump, Gov. Mike Braun, Americans for Prosperity, the NFIB Indiana PAC and the NRA Political Victory Fund {wiki_2026}. No fundraising figures were verified."
-   ],
-   "gaps": [
-    "No campaign website was found.",
-    "Campaign finance totals were not checked (state portal not readable).",
-    "No statements on data centers, property taxes or the 2025 redistricting vote beyond his recorded votes were found."
-   ]
+  "race_id": "in-state-representative-district-081",
+  "reviewed": "2026-10-10",
+  "status": "draft",
+  "status_note": "Pending editorial review.",
+  "office": "@in_house",
+  "incumbent": {
+    "name": "Martin Carbaugh",
+    "party": "Republican",
+    "summary": "Martin Carbaugh, a Fort Wayne financial planner, has represented House District 81 since 2012 and chairs the House Insurance Committee {caucus_carbaugh} {wiki_2026}. He authored the 2025 law (HEA 1004) setting price benchmarks for large nonprofit hospital systems {wpta_hea1004}.",
+    "record": [
+      "Committees: Insurance (chair), Education and Public Health; interim committees on Financial Institutions and Insurance and on Pension Management Oversight, according to the House Republican caucus {caucus_carbaugh}.",
+      "2025: Authored HEA 1004, which requires the largest nonprofit hospital systems to bring average prices to or below a statewide average by June 30, 2029, or risk losing nonprofit status {wpta_hea1004}. Carbaugh said at final passage: \"Even with those changes, we are making meaningful, incremental changes to provide relief to our constituents\" {icc_hea1004}.",
+      "HEA 1004 criticism: Rep. Robin Shackleford (D-Indianapolis) said \"There is nothing in this bill that ensures that patients will pay less for quality health care\"; Sen. Liz Brown (R-Fort Wayne) warned that loss of nonprofit status could lead to sales of facilities that leave out rural hospitals {icc_hea1004}. In April 2026 Carbaugh said large nonprofit hospitals were complying with the law's direct-to-employer provisions but that marketplace and other insured patients still need help {caucus_hospital_2026}.",
+      "2026: Sponsored SEA 88, which adds instruction on finishing high school, workforce training, full-time employment and waiting to become a parent until marriage to existing coursework, and recognizes the Classic Learning Test as a college entrance exam {caucus_sea88}.",
+      "Voted yes on SEA 1, the 2025 property-tax law (April 10, 2025) {rc_sea1_433}; the 2025 budget conference report, HEA 1001 (April 25, 2025) {rc_hb1001_576}; and HB 1032, the congressional redistricting bill (Dec. 5, 2025) {rc_hb1032_28}."
+    ]
   },
-  {
-   "ballot_name": "Sharon L Wight",
-   "summary": "Sharon Wight is a Fort Wayne project manager and former adjunct instructor making her first run for office {jg_d81}. She won the Democratic primary with 81.6% {wiki_2026}.",
-   "website": "https://www.electsharonwight.com/",
-   "background": [
-    "Project manager at an educational technology company that builds websites, apps and communication systems for schools; previously an adjunct instructor at area universities, an academic advisor at Purdue Fort Wayne and briefly a dual-credit instructor at Homestead High School {wight_about}.",
-    "Attended Fort Wayne Community Schools and holds two master's degrees {wight_about}. Lives in Fort Wayne {jg_d81}.",
-    "Says she has worked as a disability advocate with the League for the Blind and Disabled {jg_d81} and has served as a church secretary since high school {wight_about}."
-   ],
-   "path_to_ballot": [
-    "Won the May 5, 2026 Democratic primary over Chad Clevidence, 81.6% to 18.4% {wiki_2026}."
-   ],
-   "positions": [
+  "race_context": [
+    "House District 81 covers the northwestern part of Fort Wayne and part of central Allen County, according to the House Republican caucus {caucus_carbaugh}; the Journal Gazette describes it as including northwest Allen County {jg_d81}. Wight cites growth in Huntertown as a district issue {jg_d81}.",
+    "Carbaugh was reelected with 64.9% of the vote in 2024 {wiki_2026}.",
+    "May 5, 2026 Republican primary: Carbaugh 3,795 votes (75.1%), David Mervar 1,256 (24.9%). Democratic primary: Sharon Wight 1,976 (81.6%), Chad Clevidence 446 (18.4%) {wiki_2026}.",
+    "Key differences: Carbaugh's legislative focus has been health care pricing and insurance {caucus_carbaugh} {caucus_hospital_2026}; Wight emphasizes accessibility, public transit, public-school funding, union support and marijuana legalization {wight_platform}.",
+    "No debate or forum for this race was found."
+  ],
+  "candidates": [
     {
-     "topic": "Growth & infrastructure",
-     "items": [
-      "Named \"rapid development in parts of the district while others still need support and maintenance\" as the top issue, citing strain on Huntertown's water source {jg_d81}.",
-      "Supports directing tax dollars to projects that serve residents rather than corporate developers, and accessible public transit, neighborhoods and buildings {wight_platform}."
-     ]
+      "ballot_name": "Martin Carbaugh",
+      "summary": "Seven-term incumbent and chair of the House Insurance Committee {caucus_carbaugh}. Won the May 2026 Republican primary with 75.1% {wiki_2026}.",
+      "website": null,
+      "background": [
+        "Financial planner with Financial Focus; attended Indiana University-Purdue University Fort Wayne; lifelong Fort Wayne resident {caucus_carbaugh}.",
+        "Volunteers with Junior Achievement teaching financial literacy; member of the National Association of Insurance and Financial Advisors and the National Federation of Independent Business {caucus_carbaugh}."
+      ],
+      "path_to_ballot": [
+        "Won the May 5, 2026 Republican primary over David Mervar, 75.1% to 24.9% {wiki_2026}."
+      ],
+      "positions": [
+        {
+          "topic": "Health care",
+          "items": [
+            "Says HEA 1004 is meant to \"hold hospitals accountable for lower and more transparent pricing, prioritize patients and reduce health care costs\" {caucus_hospital_2026}.",
+            "In a June 2026 column on hospital pricing and the state's claims database he wrote: \"This is meaningful progress, but the work is not finished\" {caucus_column_2026}."
+          ]
+        },
+        {
+          "topic": "Economy & jobs",
+          "items": [
+            "The caucus lists his priorities as reducing regulations that hinder workforce growth, a competitive tax code and fiscally conservative state finances {caucus_carbaugh}."
+          ]
+        },
+        {
+          "topic": "Education",
+          "items": [
+            "On SEA 88: \"This new law helps ensure students are prepared not just for graduation, but for life after high school\" {caucus_sea88}."
+          ]
+        },
+        {
+          "topic": "Energy & utilities",
+          "items": [
+            "Was among northeast Indiana legislators announcing the Indiana Utility Regulatory Commission's March 2026 energy affordability investigation, which included Indiana Michigan Power {caucus_iurc}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Is the current officeholder. No public statements about his challenger were found. He did not respond to the Journal Gazette's primary questionnaire {jg_d81}."
+      ],
+      "plans": [
+        "Says more work remains on health care costs for people with marketplace and other non-direct-employer plans {caucus_hospital_2026}."
+      ],
+      "endorsements_finance": [
+        "Wikipedia lists primary endorsements from Donald Trump, Gov. Mike Braun, Americans for Prosperity, the NFIB Indiana PAC and the NRA Political Victory Fund {wiki_2026}. No fundraising figures were verified."
+      ],
+      "gaps": [
+        "No campaign website was found.",
+        "Campaign finance totals were not checked (state portal not readable).",
+        "No statements on data centers, property taxes or the 2025 redistricting vote beyond his recorded votes were found."
+      ]
     },
     {
-     "topic": "Education",
-     "items": [
-      "Supports public schools, tax funding for education, higher teacher pay and accountability for tax funding {wight_platform}."
-     ]
-    },
-    {
-     "topic": "Health care",
-     "items": [
-      "Supports a health care system that keeps residents out of bankruptcy, citing Massachusetts as a model {jg_d81}."
-     ]
-    },
-    {
-     "topic": "Housing",
-     "items": [
-      "Says rental housing should be held to a higher standard {jg_d81}. Opposed 2026's HB 1431 on street camping, saying it \"effectively criminalizes homelessness\" {wight_platform}."
-     ]
-    },
-    {
-     "topic": "Economy & jobs",
-     "items": [
-      "Says pay has not kept pace with living costs; supports medical and family leave plans and describes herself as \"Pro-Union\" {wight_platform}."
-     ]
-    },
-    {
-     "topic": "Data centers",
-     "items": [
-      "Lists support for HB 1043, \"Data Center Water Regulation\" {wight_platform}."
-     ]
-    },
-    {
-     "topic": "Elections & redistricting",
-     "items": [
-      "Lists support for bills on straight-ticket voting and same-day voter registration {wight_platform}."
-     ]
-    },
-    {
-     "topic": "Social issues",
-     "items": [
-      "Supports marijuana legalization, abortion rights, same-sex marriage and gender-affirming care {wight_platform}."
-     ]
+      "ballot_name": "Sharon L Wight",
+      "summary": "Sharon Wight is a Fort Wayne project manager and former adjunct instructor making her first run for office {jg_d81}. She won the Democratic primary with 81.6% {wiki_2026}.",
+      "website": "https://www.electsharonwight.com/",
+      "background": [
+        "Project manager at an educational technology company that builds websites, apps and communication systems for schools; previously an adjunct instructor at area universities, an academic advisor at Purdue Fort Wayne and briefly a dual-credit instructor at Homestead High School {wight_about}.",
+        "Attended Fort Wayne Community Schools and holds two master's degrees {wight_about}. Lives in Fort Wayne {jg_d81}.",
+        "Says she has worked as a disability advocate with the League for the Blind and Disabled {jg_d81}."
+      ],
+      "path_to_ballot": [
+        "Won the May 5, 2026 Democratic primary over Chad Clevidence, 81.6% to 18.4% {wiki_2026}."
+      ],
+      "positions": [
+        {
+          "topic": "Growth & infrastructure",
+          "items": [
+            "Named \"rapid development in parts of the district while others still need support and maintenance\" as the top issue, citing strain on Huntertown's water source {jg_d81}.",
+            "Supports directing tax dollars to projects that serve residents rather than corporate developers, and accessible public transit, neighborhoods and buildings {wight_platform}."
+          ]
+        },
+        {
+          "topic": "Education",
+          "items": [
+            "Supports public schools, tax funding for education, higher teacher pay and accountability for tax funding {wight_platform}."
+          ]
+        },
+        {
+          "topic": "Health care",
+          "items": [
+            "Supports a health care system that keeps residents out of bankruptcy, citing Massachusetts as a model {jg_d81}."
+          ]
+        },
+        {
+          "topic": "Housing",
+          "items": [
+            "Says rental housing should be held to a higher standard {jg_d81}. Opposed 2026's HB 1431 on street camping, saying it \"effectively criminalizes homelessness\" {wight_platform}."
+          ]
+        },
+        {
+          "topic": "Economy & jobs",
+          "items": [
+            "Says pay has not kept pace with living costs; supports medical and family leave plans and describes herself as \"Pro-Union\" {wight_platform}."
+          ]
+        },
+        {
+          "topic": "Data centers",
+          "items": [
+            "Lists support for HB 1043, \"Data Center Water Regulation\" {wight_platform}."
+          ]
+        },
+        {
+          "topic": "Elections & redistricting",
+          "items": [
+            "Lists support for bills on straight-ticket voting and same-day voter registration {wight_platform}."
+          ]
+        },
+        {
+          "topic": "Social issues",
+          "items": [
+            "Supports marijuana legalization, abortion rights, same-sex marriage and gender-affirming care {wight_platform}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "No statements about Carbaugh or his record were found on her website or in the coverage reviewed {wight_site}."
+      ],
+      "plans": [
+        "Says her first-year goal is to build relationships with constituents, businesses and colleagues {jg_d81}."
+      ],
+      "endorsements_finance": [
+        "No endorsements or fundraising figures were verified."
+      ],
+      "gaps": [
+        "Limited news coverage beyond the Journal Gazette primary questionnaire.",
+        "HD 83 candidate Wesley Haffenden's campaign site thanks Wight for opposing the proposed southwest Allen County quarry; no statement from Wight herself was found.",
+        "Campaign finance totals not checked."
+      ]
     }
-   ],
-   "on_incumbent": [
-    "No statements about Carbaugh or his record were found on her website or in the coverage reviewed {wight_site}."
-   ],
-   "plans": [
-    "Says her first-year goal is to build relationships with constituents, businesses and colleagues {jg_d81}."
-   ],
-   "endorsements_finance": [
-    "No endorsements or fundraising figures were verified."
-   ],
-   "gaps": [
-    "Limited news coverage beyond the Journal Gazette primary questionnaire.",
-    "HD 83 candidate Wesley Haffenden's campaign site thanks Wight for opposing the proposed southwest Allen County quarry; no statement from Wight herself was found.",
-    "Campaign finance totals not checked."
-   ]
+  ],
+  "sources": {
+    "caucus_carbaugh": [
+      "State Rep. Martin Carbaugh: biography and committees",
+      "Indiana House Republican Caucus",
+      "accessed 2026-10-10",
+      "https://www.indianahouserepublicans.com/members/general/martin-carbaugh/"
+    ],
+    "caucus_hospital_2026": [
+      "Carbaugh issues statement on progress from nonprofit hospital law, more work remains",
+      "Indiana House Republican Caucus",
+      "2026-04-23",
+      "https://www.indianahouserepublicans.com/news/press-releases/carbaugh-issues-statement-on-progress-from-nonprofit-hospital-law-more-work-remains/"
+    ],
+    "caucus_column_2026": [
+      "COLUMN: Carbaugh: Indiana is making progress on healthcare costs, but more work remains",
+      "Indiana House Republican Caucus",
+      "2026-06-29",
+      "https://www.indianahouserepublicans.com/news/press-releases/column-carbaugh-indiana-is-making-progress-on-healthcare-costs-but-more-work-remains/"
+    ],
+    "caucus_sea88": [
+      "Governor ceremonially signs new law sponsored by Carbaugh to strengthen career readiness",
+      "Indiana House Republican Caucus",
+      "2026-04-20",
+      "https://www.indianahouserepublicans.com/news/press-releases/governor-ceremonially-signs-new-law-sponsored-by-carbaugh-to-strengthen-career-readiness/"
+    ],
+    "caucus_iurc": [
+      "Northeast Indiana legislators: IURC announces energy affordability investigation",
+      "Indiana House Republican Caucus",
+      "2026-03-06",
+      "https://www.indianahouserepublicans.com/news/press-releases/northeast-indiana-legislators-iurc-announces-energy-affordability-investigation/"
+    ],
+    "wpta_hea1004": [
+      "Gov. Braun signs law requiring certain Indiana hospitals to lower healthcare prices or lose nonprofit status",
+      "WPTA 21Alive",
+      "2025-05-08",
+      "https://www.21alivenews.com/2025/05/08/gov-braun-signs-law-requiring-certain-indiana-hospitals-lower-healthcare-prices-or-lose-nonprofit-status/"
+    ],
+    "icc_hea1004": [
+      "Hospital 'price caps' passes out of House, Senate for the last time",
+      "Indiana Capital Chronicle (via Yahoo News)",
+      "2025-04-24",
+      "https://www.yahoo.com/news/hospital-price-caps-passes-house-004446368.html"
+    ],
+    "jg_d81": [
+      "2 Democrats campaign for state representative District 81 nomination",
+      "The Journal Gazette",
+      "2026-04-03",
+      "https://www.journalgazette.net/elections/2-democrats-campaign-for-state-representative-district-81-nomination/article_e854e128-4511-4ae9-9c68-357ffa33533e.html"
+    ],
+    "wight_site": [
+      "Sharon Wight for Indiana House District 81",
+      "Sharon Wight campaign",
+      "accessed 2026-10-10",
+      "https://www.electsharonwight.com/"
+    ],
+    "wight_about": [
+      "About Sharon",
+      "Sharon Wight campaign",
+      "accessed 2026-10-10",
+      "https://www.electsharonwight.com/about"
+    ],
+    "wight_platform": [
+      "Platform",
+      "Sharon Wight campaign",
+      "accessed 2026-10-10",
+      "https://www.electsharonwight.com/platform"
+    ],
+    "rc_hb1032_28": [
+      "House Roll Call 28: HB 1032 (Redistricting), third reading",
+      "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+      "2025-12-05",
+      "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+    ],
+    "rc_sea1_433": [
+      "House Roll Call 433: SB 1 (Local government finance), third reading",
+      "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+      "2025-04-10",
+      "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+    ],
+    "rc_hb1001_576": [
+      "House Roll Call 576: HB 1001 (State budget), conference committee report",
+      "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+      "2025-04-25",
+      "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+    ],
+    "wiki_2026": [
+      "2026 Indiana House of Representatives election",
+      "Wikipedia",
+      "accessed 2026-10-10",
+      "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+    ]
   }
- ],
- "sources": {
-  "caucus_carbaugh": [
-   "State Rep. Martin Carbaugh: biography and committees",
-   "Indiana House Republican Caucus",
-   "accessed 2026-10-10",
-   "https://www.indianahouserepublicans.com/members/general/martin-carbaugh/"
-  ],
-  "caucus_hospital_2026": [
-   "Carbaugh issues statement on progress from nonprofit hospital law, more work remains",
-   "Indiana House Republican Caucus",
-   "2026-04-23",
-   "https://www.indianahouserepublicans.com/news/press-releases/carbaugh-issues-statement-on-progress-from-nonprofit-hospital-law-more-work-remains/"
-  ],
-  "caucus_column_2026": [
-   "COLUMN: Carbaugh: Indiana is making progress on healthcare costs, but more work remains",
-   "Indiana House Republican Caucus",
-   "2026-06-29",
-   "https://www.indianahouserepublicans.com/news/press-releases/column-carbaugh-indiana-is-making-progress-on-healthcare-costs-but-more-work-remains/"
-  ],
-  "caucus_sea88": [
-   "Governor ceremonially signs new law sponsored by Carbaugh to strengthen career readiness",
-   "Indiana House Republican Caucus",
-   "2026-04-20",
-   "https://www.indianahouserepublicans.com/news/press-releases/governor-ceremonially-signs-new-law-sponsored-by-carbaugh-to-strengthen-career-readiness/"
-  ],
-  "caucus_iurc": [
-   "Northeast Indiana legislators: IURC announces energy affordability investigation",
-   "Indiana House Republican Caucus",
-   "2026-03-06",
-   "https://www.indianahouserepublicans.com/news/press-releases/northeast-indiana-legislators-iurc-announces-energy-affordability-investigation/"
-  ],
-  "wpta_hea1004": [
-   "Gov. Braun signs law requiring certain Indiana hospitals to lower healthcare prices or lose nonprofit status",
-   "WPTA 21Alive",
-   "2025-05-08",
-   "https://www.21alivenews.com/2025/05/08/gov-braun-signs-law-requiring-certain-indiana-hospitals-lower-healthcare-prices-or-lose-nonprofit-status/"
-  ],
-  "icc_hea1004": [
-   "Hospital 'price caps' passes out of House, Senate for the last time",
-   "Indiana Capital Chronicle (via Yahoo News)",
-   "2025-04-24",
-   "https://www.yahoo.com/news/hospital-price-caps-passes-house-004446368.html"
-  ],
-  "jg_d81": [
-   "2 Democrats campaign for state representative District 81 nomination",
-   "The Journal Gazette",
-   "2026-04-03",
-   "https://www.journalgazette.net/elections/2-democrats-campaign-for-state-representative-district-81-nomination/article_e854e128-4511-4ae9-9c68-357ffa33533e.html"
-  ],
-  "wight_site": [
-   "Sharon Wight for Indiana House District 81",
-   "Sharon Wight campaign",
-   "accessed 2026-10-10",
-   "https://www.electsharonwight.com/"
-  ],
-  "wight_about": [
-   "About Sharon",
-   "Sharon Wight campaign",
-   "accessed 2026-10-10",
-   "https://www.electsharonwight.com/about"
-  ],
-  "wight_platform": [
-   "Platform",
-   "Sharon Wight campaign",
-   "accessed 2026-10-10",
-   "https://www.electsharonwight.com/platform"
-  ],
-  "rc_hb1032_28": [
-   "House Roll Call 28: HB 1032 (Redistricting), third reading",
-   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
-   "2025-12-05",
-   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
-  ],
-  "rc_sea1_433": [
-   "House Roll Call 433: SB 1 (Local government finance), third reading",
-   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
-   "2025-04-10",
-   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
-  ],
-  "rc_hb1001_576": [
-   "House Roll Call 576: HB 1001 (State budget), conference committee report",
-   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
-   "2025-04-25",
-   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
-  ],
-  "wiki_2026": [
-   "2026 Indiana House of Representatives election",
-   "Wikipedia",
-   "accessed 2026-10-10",
-   "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
-  ]
- }
 }
