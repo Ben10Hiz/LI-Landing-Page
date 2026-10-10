@@ -1,0 +1,198 @@
+{
+ "race_id": "in-state-senator-district-22",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_senate",
+ "incumbent": {
+  "name": "Ron Alting",
+  "party": "Republican",
+  "summary": "Sen. Ron Alting, first elected in 1998 and chair of the Senate Public Policy Committee, is seeking another term; in October 2026 he said he was stepping back from active campaigning after news reports that police suspect him in shoplifting incidents, and no charges had been filed as of Oct. 8 {alting_bio} {ipm_becker} {inkfree_jc}.",
+  "record": [
+   "Committees: The Senate Republican caucus lists him as chair of Public Policy and a member of Insurance and Financial Institutions {alting_bio}.",
+   "2025: Voted against SB 1, the 2025 property-tax law, saying it was 'not a solution that provides meaningful tax relief for Hoosiers' and that relief should not become an excuse for growth in local income taxes {jc_qa}.",
+   "Dec. 2025: Supported the GOP-backed mid-decade congressional redistricting proposal, which the Senate defeated; IPM reported he has at times voted against conservative-backed measures such as the 2022 near-total abortion ban bill {ipm_trump_endorse}.",
+   "2026 session: According to the Senate Republican caucus, he authored a bill banning vaping products made in foreign adversarial nations such as China, signed March 12 and effective July 1, and a bill coupling Indiana's tax code to federal 'no tax on tips' and 'no tax on overtime' provisions that passed the Senate 47–1 on Jan. 28 {alting_bio}.",
+   "Oct. 2026: The Lafayette Journal & Courier reported, citing a source, that Alting is accused of shoplifting from a Lafayette Walmart on Sept. 22 and a Monticello Walmart on Oct. 1; Elkhart County Prosecutor Vicki Becker was appointed special prosecutor to review possible charges, and no charges had been filed {inkfree_jc} {ipm_becker}.",
+   "Oct. 2026 response: Alting said he has been 'experiencing concerning changes in my judgment and cognitive functioning,' is undergoing medical evaluation and treatment, takes responsibility, apologized to his family, constituents, and store employees, and is 'stepping back from actively campaigning' {ipm_becker} {inkfree_jc}.",
+   "Oct. 2026: Incoming Senate President Pro Tem Chris Garten called the allegations 'troubling' and said they 'should be taken seriously,' and a spokesperson for current Pro Tem Rodric Bray said he would not comment on a pending legal matter, according to the Hoosier Enquirer {hoosierenq}."
+  ]
+ },
+ "race_context": [
+  "The Senate Republican caucus describes District 22 as Carroll County and portions of Tippecanoe County {alting_bio}.",
+  "Republican primary (May 5, 2026): Alting 4,954 (59.1%) over Richard Bagsby 3,424 (40.9%); Democratic primary: Natasha Baker 3,554 (62.1%) over Marlena Edmondson 2,045, per Wikipedia's results compilation {wiki_2026_insen}.",
+  "Trump endorsed Alting in March 2026, while Bagsby, who argued he was more conservative than Alting, had the backing of Lt. Gov. Micah Beckwith {ipm_trump_endorse}.",
+  "In an Oct. 1, 2026 Journal & Courier Q&A, both candidates opposed shifting the tax burden from property taxes to local income taxes; they differed on the gas tax, with Alting favoring removing the sales tax on gas and Baker favoring reinstating the gas tax to fund roads {jc_qa}.",
+  "Alting's Oct. 2026 statement that he is stepping back from active campaigning came less than a month before the Nov. 3 election; available reports did not say whether his name will remain on the ballot {ipm_becker}.",
+  "No debate or forum between the candidates was found in available coverage."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Ron Alting",
+   "summary": "Ron Alting is the incumbent Republican, first elected in 1998 and a former Lafayette City Council president, who chairs the Senate Public Policy Committee {alting_bio}.",
+   "website": null,
+   "background": [
+    "According to the Senate Republican caucus, he is a Purdue University graduate, a business development leader at Trane, a major in the Indiana Guard Reserve, and was Lafayette City Council president from 1995 to 1998 {alting_bio}.",
+    "The Journal & Courier reported that public records list his main residence in Monticello {inkfree_jc}."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Republican primary with 59.1% over Richard Bagsby, per Wikipedia's results compilation {wiki_2026_insen}."
+   ],
+   "positions": [
+    {
+     "topic": "Property taxes",
+     "items": [
+      "He said he voted against SB 1 in 2025 and prioritizes local spending transparency, flexibility such as shared services, and safeguards against excessive local tax increases {jc_qa}."
+     ]
+    },
+    {
+     "topic": "Energy & utilities",
+     "items": [
+      "He said he personally favors removing the sales tax on gas and that this can be done without delaying road and bridge projects {jc_qa}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No statements by Alting about Baker were found in fetched sources {jc_qa}."
+   ],
+   "plans": [
+    "No general-election legislative agenda was found; in October 2026 he said he was stepping back from active campaigning while undergoing medical evaluation {ipm_becker}."
+   ],
+   "endorsements_finance": [
+    "Endorsed by President Trump in March 2026 {ipm_trump_endorse}.",
+    "Wikipedia lists endorsements from Indiana Farm Bureau's AgELECT PAC and the NRA Political Victory Fund {wiki_2026_insen}."
+   ],
+   "gaps": [
+    "No campaign website was found.",
+    "Search snippets reported that after the primary Alting said he felt he let some people down with his redistricting vote and that he was 'running against' public school teachers, a profession he respects; the source articles (Purdue Exponent, KPC News, Times syndication) returned 404/429 and could not be read.",
+    "A Hoosier Enquirer report said six Lafayette theft cases are linked to Alting, while it noted the court order refers to four Lafayette police case numbers; the J&C report read describes two incidents. The count is unconfirmed.",
+    "Search snippets (Wikipedia, citing a Reddit post) said he will not withdraw or resign; not verified.",
+    "His Monticello residence (reported by the J&C) versus the caucus's 'R-Lafayette' designation was not explained in available sources.",
+    "No fundraising totals found; the state campaign finance portal was not reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Natasha Baker",
+   "summary": "Natasha Baker is a public school Family and Consumer Sciences teacher from Battle Ground who has not held public office and who won the Democratic primary over Marlena Edmondson {baker_site} {jc_qa} {wiki_2026_insen}.",
+   "website": "https://electnatashabaker.org",
+   "background": [
+    "According to her campaign, she is a graduate of Harrison High School and Purdue University and a public school Family and Consumer Sciences teacher {baker_site}.",
+    "The Journal & Courier reported she is 34, lives in Battle Ground, and has held no prior public office {jc_qa}."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Democratic primary with 3,554 votes (62.1%) over Marlena Edmondson, per Wikipedia's results compilation {wiki_2026_insen}."
+   ],
+   "positions": [
+    {
+     "topic": "Property taxes",
+     "items": [
+      "She said she supports property-tax relief for seniors, veterans, and working families but does 'not support simply shifting the burden from property taxes to local income taxes,' arguing SB 1 reduced revenue for police, fire, roads, and libraries and citing Tippecanoe County public-safety staffing and school referendums {jc_qa}."
+     ]
+    },
+    {
+     "topic": "Energy & utilities",
+     "items": [
+      "She said she would support reinstating the gas tax to fund roads and bridges 'rather than permanently eliminating a transportation funding source,' and that property-tax relief is the bigger priority {jc_qa}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Her campaign says she is committed to protecting and strengthening public schools {baker_site}.",
+      "A podcast interview description said she discussed public schools needing 'real investment, not political games' {recovered_rep}."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Her campaign says she will push for policies that keep groceries, child care, and housing affordable and expand access to fresh, nutritious food {baker_site}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "A podcast interview description said she discussed gaps in health care access in rural and urban communities {recovered_rep}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "After the shoplifting allegations were reported, she said: 'I wish Senator Alting and his family well as they navigate these difficult times and the next chapter in their lives,' according to the Hoosier Enquirer {hoosierenq}."
+   ],
+   "plans": [
+    "Her campaign describes its theme as putting Hoosier families at the center of state policy {baker_site}."
+   ],
+   "endorsements_finance": [
+    "iVoterGuide lists endorsements from the Indiana Reproductive Freedom PAC and MADVoters {baker_ivg}."
+   ],
+   "gaps": [
+    "Search snippets said the Indiana Capital Chronicle voter guide lists her priorities as more funding for low-income child care vouchers, broader Medicaid coverage for preventive, mental health and addiction services, and expanded broadband; the guide returned 403.",
+    "Search snippets said WLFI reported she hosted a women-only introductory gun safety class and promotes 'common-sense' gun laws; the WLFI pages returned 404.",
+    "Primary totals differ: a KPC News snippet gave 3,355 votes and another snippet gave 62.1% to 32.9%; Wikipedia lists 3,554 (62.1%) to 2,045 (37.9%).",
+    "A search snippet quoted her saying voters will decide 'what kind of future we want for District 22'; not verified on a fetched page.",
+    "No fundraising totals found; the state campaign finance portal was not reviewed."
+   ]
+  }
+ ],
+ "sources": {
+  "alting_bio": [
+   "Sen. Ron Alting",
+   "Indiana Senate Republicans",
+   "accessed 2026-10-10",
+   "https://www.indianasenaterepublicans.com/alting"
+  ],
+  "ipm_trump_endorse": [
+   "Trump endorses Sen. Liz Brown, other Republicans who supported Indiana redistricting",
+   "Indiana Capital Chronicle via IPM",
+   "2026-03-25",
+   "https://www.ipm.org/news/2026-03-25/trump-endorses-sen-liz-brown-other-republicans-who-supported-indiana-redistricting"
+  ],
+  "jc_qa": [
+   "Local teacher challenges longtime incumbent for Senate District 22",
+   "Lafayette Journal & Courier via Yahoo News",
+   "2026-10-01",
+   "https://www.yahoo.com/news/politics/articles/local-teacher-challenges-longtime-incumbent-090151438.html"
+  ],
+  "ipm_becker": [
+   "Becker to decide if senator should face shoplifting charges",
+   "WVPE via IPM",
+   "2026-10-08",
+   "https://www.ipm.org/news/2026-10-08/becker-to-decide-if-senator-should-face-shoplifting-charges"
+  ],
+  "inkfree_jc": [
+   "Source: Alting accused of 2 recent Walmart shoplifting incidents",
+   "Lafayette Journal & Courier via InkFreeNews",
+   "2026-10-08",
+   "https://www.inkfreenews.com/2026/10/08/source-alting-accused-of-2-recent-walmart-shoplifting-incidents/"
+  ],
+  "hoosierenq": [
+   "Six Lafayette theft cases now linked to Sen. Ron Alting. Senate leaders still won't say whether he keeps his gavel.",
+   "Hoosier Enquirer",
+   "2026-10",
+   "https://www.hoosierenquirer.com/post/six-lafayette-theft-cases-now-linked-to-sen-ron-alting-senate-leaders-still-won-t-say-whether-he-k"
+  ],
+  "wiki_2026_insen": [
+   "2026 Indiana Senate election",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_Senate_election"
+  ],
+  "baker_site": [
+   "Natasha Baker for Indiana Senate",
+   "Baker campaign site",
+   "accessed 2026-10-10",
+   "https://electnatashabaker.org"
+  ],
+  "baker_ivg": [
+   "Natasha Baker candidate profile",
+   "iVoterGuide",
+   "accessed 2026-10-10",
+   "https://ivoterguide.com/candidate/94330/race/30621/election/1456"
+  ],
+  "recovered_rep": [
+   "A Conversation with Natasha Baker",
+   "The Recovered Republican (podcast)",
+   "2026-01-10",
+   "https://therecoveredrepublican.substack.com/p/a-conversation-with-natasha-baker"
+  ]
+ }
+}
