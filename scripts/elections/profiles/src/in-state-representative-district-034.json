@@ -1,0 +1,247 @@
+{
+ "race_id": "in-state-representative-district-034",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Sue Errington",
+  "party": "Democratic",
+  "summary": "Sue Errington, a Muncie Democrat, served in the state Senate from 2006 and has represented House District 34 since 2012; she announced in December 2025 that she would not seek reelection {ihdc_errington} {ipr_errington}. She is the ranking minority member of the Environmental Affairs Committee {ihdc_errington}.",
+  "record": [
+   "Committees: ranking minority member, Environmental Affairs; member, Elections and Apportionment; vice chair, Statutory Committee on Ethics, according to the House Democratic caucus {ihdc_errington}.",
+   "2025 session: Authored HEA 1297, which created Indiana's Yellow Dot Program to give first responders quick access to medical information; the House honored her service with House Resolution 24 on Feb. 10, 2026 {ihdc_honored}.",
+   "2025: Voted no on SEA 1, the property-tax law (passed House 65-29) {rc_sea1_433}, and on the 2025 budget conference report (adopted 66-27) {rc_hb1001_576}.",
+   "Dec. 2025: Offered an amendment to HB 1032, the congressional redistricting bill, that failed 27-67 {rc_hb1032_11}, then voted no on the bill, which passed the House 57-41 {rc_hb1032_28}."
+  ]
+ },
+ "race_context": [
+  "House District 34 covers part of Delaware County, including most of Muncie {wfyi_guide34} {sp_2024}.",
+  "Open seat: Errington is retiring after 14 years in the House {ipr_errington}. IPR reports Democrats have held the seat nearly continuously for decades {ipr_primary}.",
+  "May 5, 2026 primaries: Richard Ivy won the Republican nomination with 53.22% over Randall McCallister {ipr_primary} {wlbc_primary}; Sara Gullion was unopposed for the Democratic nomination {wlbc_primary}. Two other Republicans, Chris Walker and Tim Overton, withdrew in February {wb_withdraw}.",
+  "The Democratic Legislative Campaign Committee lists the seat among its target races {dlcc_gullion}.",
+  "Key differences: Gullion lists raising the minimum wage, a moratorium on new data centers and restoring abortion access among her priorities {gullion_issues}; Ivy lists infrastructure, public safety, economic development and fiscal prudence {ivy_site} {sp_ivy}. No detailed statements from Ivy on data centers, property taxes or wages were found.",
+  "No general-election debate or forum for this race was found. Muncie Resists invited state legislative primary candidates to a March 19, 2026 forum in Muncie {mj_forums}; which candidates attended was not reported."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Sara Gullion",
+   "summary": "Sara Gullion is a Muncie City Council member and paralegal running as a Democrat with Errington's endorsement {ipr_errington} {wfyi_guide34}. She lists housing affordability, fair wages, accessible health care and public schools as priorities {gullion_about}.",
+   "website": "https://www.saragullion.com",
+   "background": [
+    "Paralegal; lives in Muncie {wfyi_guide34}.",
+    "Member of the Muncie City Council, where she says she has \"championed accountability, transparency and fairness\" over the past two years {gullion_about} {ipr_errington}."
+   ],
+   "path_to_ballot": [
+    "Unopposed in the May 5, 2026 Democratic primary {wlbc_primary} {ipr_primary}."
+   ],
+   "positions": [
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Would raise the minimum wage, index it to inflation and raise the subminimum wage for tipped workers {gullion_issues}."
+     ]
+    },
+    {
+     "topic": "Housing",
+     "items": [
+      "Supports more state investment in affordable housing and stronger renter protections and eviction prevention {gullion_issues}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Supports pre-K for all and ensuring \"Hoosiers' taxes go toward public schools\" {gullion_issues}; calls child care infrastructure {gullion_issues}."
+     ]
+    },
+    {
+     "topic": "Data centers",
+     "items": [
+      "Supports a moratorium on more data centers, with public hearings, environmental impact assessments and limits tied to local capacity before permits are approved {gullion_issues}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Supports restoring abortion access, expanding mental health care access, and LGBTQ+ nondiscrimination protections {gullion_issues}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Says Errington encouraged her to run and that she would remind state decision-makers \"that their votes affect real people with real needs, who deserve real affordability\" {gullion_about}. No statements about Ivy were found."
+   ],
+   "plans": [
+    "Says she will continue to advocate for and respond to constituents and bring a local-government perspective to the Statehouse {gullion_about}."
+   ],
+   "endorsements_finance": [
+    "Endorsed by Rep. Sue Errington, who IPR reported would run her campaign {ipr_errington}.",
+    "Listed as a target race by the Democratic Legislative Campaign Committee {dlcc_gullion}.",
+    "Top donors listed by WFYI via Transparency USA include Indiana Conservation Voters and Carey Hamilton {wfyi_guide34}."
+   ],
+   "gaps": [
+    "Did not answer WFYI's survey; positions come from her campaign website.",
+    "Her campaign's endorsements page was empty when checked.",
+    "Muncie City Council district and votes not reviewed; age not verified.",
+    "No fundraising totals found."
+   ]
+  },
+  {
+   "ballot_name": "Richard M. (Rich) Ivy",
+   "summary": "Richard Ivy is human resources director for the Muncie Sanitary District and a former Muncie deputy mayor, running as a Republican {wfyi_guide34} {sp_ivy}. He lists infrastructure, public safety, economic development and opportunities for youth, seniors and working families as priorities {ivy_site}.",
+   "website": "https://richardivycampaign.com",
+   "background": [
+    "Human resources director, Muncie Sanitary District; lives in Muncie {wfyi_guide34} {ivy_site}.",
+    "Former Muncie deputy mayor; the Star Press reported the city council eliminated funding for that position in 2024 {sp_ivy}. As deputy mayor he oversaw departments including public works, parks and public safety, according to his campaign release {sp_ivy}.",
+    "Previously worked at LifeStream Services, serving seniors and people with disabilities, per his campaign release; finance secretary at Antioch Missionary Baptist Church {sp_ivy}."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Republican primary with 53.22% over Randall McCallister {ipr_primary} {wlbc_primary}."
+   ],
+   "positions": [
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Says his deputy mayor experience taught him how to get state money \"funneled down to Muncie\" and that constituents want \"expansion, jobs, and lack of increasing taxes\" {ipr_primary}."
+     ]
+    },
+    {
+     "topic": "Public safety",
+     "items": [
+      "Lists public safety and neighborhood revitalization among priorities {ivy_site} {sp_ivy}."
+     ]
+    },
+    {
+     "topic": "Government",
+     "items": [
+      "Lists transparency, restoring public trust, and \"fiscal prudence and data-informed decision making\" as priorities {sp_ivy}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "After winning the primary, Ivy said, \"I think it's our time and our place to win this seat back and bring value back to Muncie through the state representation\" {ipr_primary}.",
+    "On Gullion: \"Me and her have no difficulty getting along in the past. So, I think it'll be a clean race\" {ipr_primary}."
+   ],
+   "plans": [
+    "Says he would support seniors, veterans and families and expand youth opportunities and workforce pathways {sp_ivy}."
+   ],
+   "endorsements_finance": [
+    "Top donors listed by WFYI via Transparency USA include five individuals {wfyi_guide34}."
+   ],
+   "gaps": [
+    "Did not answer WFYI's survey; no detailed positions on property taxes, data centers, education or redistricting found.",
+    "IPR said Ivy cited city council experience; his council service was not confirmed.",
+    "No endorsements or fundraising totals found."
+   ]
+  }
+ ],
+ "sources": {
+  "wfyi_guide34": [
+   "2026 Voter Guide: Indiana House District 34",
+   "WFYI Public Media",
+   "2026-09-22",
+   "https://www.wfyi.org/statewide/2026-09-22/2026-voter-guide-indiana-house-district-34"
+  ],
+  "ihdc_errington": [
+   "State Rep. Sue Errington",
+   "Indiana House Democratic Caucus",
+   "accessed 2026-10-10",
+   "https://www.indianahousedemocrats.org/members/sue-errington"
+  ],
+  "ihdc_honored": [
+   "Errington honored with resolution on House floor",
+   "Indiana House Democratic Caucus",
+   "2026-02-11",
+   "https://www.indianahousedemocrats.org/news/errington-honored-with-resolution-on-house-floor"
+  ],
+  "ipr_errington": [
+   "State Rep. Errington not running for reelection",
+   "Indiana Public Radio",
+   "2025-12-31",
+   "https://indianapublicradio.org/news/2025/12/state-rep-errington-not-running-for-reelection/"
+  ],
+  "ipr_primary": [
+   "Former deputy mayor to challenge city councilor for open Muncie state House seat",
+   "Indiana Public Radio",
+   "2026-05-05",
+   "https://indianapublicradio.org/news/2026/05/former-deputy-mayor-to-challenge-city-councilor-for-open-muncie-state-house-seat/"
+  ],
+  "wlbc_primary": [
+   "Indiana Primary Results, and More Local Impact News, 05/06/26",
+   "WLBC / Woof Boom Radio",
+   "2026-05-06",
+   "https://www.wlbc.com/2026/05/06/indiana-primary-results-and-more-local-impact-news-05-06-26/"
+  ],
+  "wb_withdraw": [
+   "Two Withdraw from State Rep Race",
+   "Woof Boom Radio News",
+   "2026-02-14",
+   "https://www.woofboomnews.com/2026/02/two-withdraw-from-state-rep-race/"
+  ],
+  "sp_ivy": [
+   "Ivy to seek Republican nomination in Indiana House District 34",
+   "Muncie Star Press (via Yahoo News)",
+   "2025-12-11",
+   "https://www.yahoo.com/news/articles/ivy-seek-republican-nomination-indiana-144753691.html"
+  ],
+  "sp_2024": [
+   "Three Democrats file to run for local Indiana House of Representative seats",
+   "Muncie Star Press (via Yahoo News)",
+   "2024-01-12",
+   "https://news.yahoo.com/three-democrats-file-run-local-133148359.html"
+  ],
+  "dlcc_gullion": [
+   "Sara Gullion",
+   "Democratic Legislative Campaign Committee",
+   "accessed 2026-10-10",
+   "https://www.dlcc.org/candidates/sara-gullion/"
+  ],
+  "gullion_about": [
+   "About",
+   "Friends of Sara Gullion (campaign)",
+   "accessed 2026-10-10",
+   "https://www.saragullion.com/about"
+  ],
+  "gullion_issues": [
+   "Issues",
+   "Friends of Sara Gullion (campaign)",
+   "accessed 2026-10-10",
+   "https://www.saragullion.com/keyissues"
+  ],
+  "ivy_site": [
+   "Richard Ivy for State Representative District 34",
+   "Committee to Elect Richard Ivy (campaign)",
+   "accessed 2026-10-10",
+   "https://richardivycampaign.com/"
+  ],
+  "mj_forums": [
+   "Forums Set to Introduce Primary Candidates to Voters",
+   "Muncie Journal",
+   "2026-03-17",
+   "https://www.munciejournal.com/2026/03/3-forums-set-to-introduce-primary-candidates-to-voters/"
+  ],
+  "rc_hb1032_11": [
+   "House Roll Call 11: HB 1032, second reading, Amendment #1 (Errington)",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-12-04",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-11-H-pdf.pdf"
+  ],
+  "rc_hb1032_28": [
+   "House Roll Call 28: HB 1032 (Redistricting), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-12-05",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  ],
+  "rc_sea1_433": [
+   "House Roll Call 433: SB 1 (Local government finance), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-10",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  ],
+  "rc_hb1001_576": [
+   "House Roll Call 576: HB 1001 (State budget), conference committee report",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-25",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  ]
+ }
+}

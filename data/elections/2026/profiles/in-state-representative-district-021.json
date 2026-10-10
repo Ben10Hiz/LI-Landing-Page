@@ -1,0 +1,256 @@
+{
+ "race_id": "in-state-representative-district-021",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": {
+  "title": "Indiana State Representative",
+  "summary": "Members of the Indiana House of Representatives write and vote on state laws as part of the Indiana General Assembly. The House has 100 members, each representing one district for a two-year term [1].",
+  "facts": [
+   {
+    "label": "Term",
+    "value": "2 years [1]"
+   },
+   {
+    "label": "Term limit",
+    "value": "None [1]"
+   },
+   {
+    "label": "Seats",
+    "value": "100 [1]"
+   },
+   {
+    "label": "On the 2026 ballot",
+    "value": "All 100 [2]"
+   }
+  ],
+  "duties": [
+   "Introduces and votes on state legislation as one of the two chambers of the Indiana General Assembly [1].",
+   "Must be at least 21 years old when taking office and have lived in the district for at least a year [1]."
+  ],
+  "recent_changes": []
+ },
+ "incumbent": {
+  "name": "Tim Wesco",
+  "party": "Republican",
+  "summary": "Tim Wesco, a Republican from near Osceola and a pastor at an Elkhart church, has represented House District 21 since 2010 and chairs the House Elections and Apportionment Committee, according to the House Republican caucus [3].",
+  "record": [
+   "Committee assignments listed by the caucus: Elections and Apportionment (chair), Natural Resources, and Utilities, Energy and Telecommunications [3].",
+   "February 2025: was among Elkhart County Republicans backing House Bill 1144, which the caucus said would raise Elkhart County's full-time magistrates from two to five; Wesco said \"The courts are a vital part of upholding public safety and criminal justice in Elkhart County\" [4].",
+   "January–March 2025: introduced House Bill 1684, which would have required parents of young children seeking a divorce to bring a witness confirming the marriage's \"irretrievable breakdown\"; he withdrew it before a committee hearing, a family-law attorney said it would add \"one more layer of potential conflict,\" and Wesco did not respond to three requests for comment [5].",
+   "April 2025: voted yes on Senate Bill 1, the property-tax bill, which passed the House 65–29, and yes on the 2025–2027 state budget conference report, adopted 66–27 [6, 7].",
+   "December 2025: as Elections and Apportionment chair, presided over the committee hearing on House Bill 1032, the mid-decade congressional map; Democrats on the panel disputed with him over time for questioning the author, and Rep. Matt Pierce's repeated requests for community hearings were denied by the chair, per TheStatehouseFile.com, which reported no response from Wesco [8].",
+   "December 5, 2025: voted yes on HB 1032, which passed the House 57–41 [9, 10].",
+   "January 2026: authored House Bill 1359 on scanning ballots, which passed the House 71–20; a bill tracker showed it later received a Senate committee recommendation, but its final outcome was not confirmed [11].",
+   "June 2026: highlighted HEA 1424, which eases rules for local food vendors, saying \"Food producers should be able to sell their products without government needlessly getting in the way\" [12]."
+  ]
+ },
+ "race_context": [
+  "House District 21 covers portions of Elkhart and St. Joseph counties in northern Indiana [3]. Wesco is seeking re-election; it is not an open seat [2].",
+  "Wesco and Charles Burkley were listed as the only declared Republican and Democratic candidates, respectively, ahead of the May 5, 2026 primary, according to Wikipedia [13]. Wesco was re-elected with 79.1% of the vote in 2024 [13].",
+  "No debates or candidate forums for this race were found as of October 10, 2026.",
+  "Wesco's record includes chairing the committee that handled the 2025 congressional redistricting bill [8]; no published issue positions from Burkley were found, so policy differences could not be documented."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Charles Burkley",
+   "summary": "Charles \"Charlie\" Burkley is the Democratic nominee; BallotReady lists earlier candidacies for local office in Elkhart County, and little else about his background or positions was found [14].",
+   "website": null,
+   "background": [
+    "BallotReady lists him as a past candidate for Nappanee City Council District 3 (2023) and the Locke Township Board in Elkhart County (2022) [14].",
+    "His iVoterGuide profile lists no education, work or affiliation information [15]."
+   ],
+   "path_to_ballot": [
+    "Was the only Democratic candidate listed for District 21 ahead of the May 5, 2026 primary [13]."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No public statements by Burkley about Wesco or his record were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "iVoterGuide lists an endorsement from Indiana Reproductive Freedom PAC [15]."
+   ],
+   "gaps": [
+    "No campaign website found; a Facebook page (BurkleyFor21) exists but its content could not be read.",
+    "Did not answer the iVoterGuide questionnaire; occupation, community roles and fundraising totals are not documented in sources reviewed.",
+    "Results of his 2022 and 2023 local races were not found, and it was not verified how his prior Nappanee/Locke Township candidacies relate to the current HD 21 boundaries.",
+    "No local news coverage (Elkhart Truth, WSBT, WNDU) of his campaign was found."
+   ]
+  },
+  {
+   "ballot_name": "Timothy Wesco",
+   "summary": "Tim Wesco, the Republican incumbent since 2010, chairs the House Elections and Apportionment Committee and is a pastor at Calvary Baptist Church of Elkhart, according to the caucus [3].",
+   "website": null,
+   "background": [
+    "Worked at his family's piano business and an RV factory, and served on his township fire department, per the caucus; holds a B.S. in organizational management from Bethel College [3].",
+    "Lives near Osceola [3]."
+   ],
+   "path_to_ballot": [
+    "Was the only Republican candidate listed for District 21 ahead of the May 5, 2026 primary [13]."
+   ],
+   "positions": [
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "In a 2022 iVoterGuide questionnaire shown on its 2026 profile, strongly disagreed that voting without photo ID should be allowed and that the Electoral College should be abolished [16].",
+      "Authored 2026's HB 1359 on scanning ballots [11]."
+     ]
+    },
+    {
+     "topic": "Abortion",
+     "items": [
+      "In the same questionnaire, answered \"Under no circumstances\" on when abortion should be allowed [16]."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Listed his top legislative priorities in that questionnaire as \"Religious Liberty School Choice Pro-Child Family Policies\" [16]."
+     ]
+    },
+    {
+     "topic": "Public safety",
+     "items": [
+      "Said in the questionnaire that he supports restrictions on firearm ownership for \"serious convicted felons\" and supports teachers carrying guns if trained and approved by their school administration [16].",
+      "Backed adding Elkhart County magistrates, citing the constitutional requirement that justice be administered \"swiftly and without delay\" [4]."
+     ]
+    },
+    {
+     "topic": "Agriculture",
+     "items": [
+      "Said streamlining regulations on local food sales gives producers \"more opportunities and Hoosiers more access to fresh, nutritious food\" [12]."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No public statements by Wesco about Burkley were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "iVoterGuide lists an NRA Political Victory Fund endorsement [16]."
+   ],
+   "gaps": [
+    "No campaign website found; iVoterGuide lists a Facebook page.",
+    "His iVoterGuide questionnaire answers date from 2022; he has not published 2026 issue statements that were found.",
+    "Wikipedia says he argued in a 2022 floor debate against abortion access for rape victims; this predates 2023 and was not independently verified.",
+    "Whether HB 1359 (ballot scanning) became law, and the final fate of HB 1144 (Elkhart magistrates), were not confirmed.",
+    "No campaign-finance totals were reviewed."
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": 1,
+   "title": "Indiana House of Representatives",
+   "publisher": "Wikipedia",
+   "date": "accessed 2026-10-10",
+   "url": "https://en.wikipedia.org/wiki/Indiana_House_of_Representatives"
+  },
+  {
+   "id": 2,
+   "title": "2026 General Election Candidate List",
+   "publisher": "Indiana Election Division",
+   "date": "2026-09-22",
+   "url": "https://www.in.gov/sos/elections/candidate-information/"
+  },
+  {
+   "id": 3,
+   "title": "Tim Wesco, State Representative, District 21",
+   "publisher": "Indiana House Republicans",
+   "date": "accessed 2026-10-10",
+   "url": "https://www.indianahouserepublicans.com/members/general/tim-wesco/"
+  },
+  {
+   "id": 4,
+   "title": "House supports legislation to add magistrates in Elkhart County",
+   "publisher": "Indiana House Republicans",
+   "date": "2025-02-14",
+   "url": "https://www.indianahouserepublicans.com/news/press-releases/house-supports-legislation-to-add-magistrates-in-elkhart-county/"
+  },
+  {
+   "id": 5,
+   "title": "Divorce bill fails to attract suitors in the Statehouse",
+   "publisher": "TheStatehouseFile.com via The Indiana Citizen",
+   "date": "2025-03-04",
+   "url": "https://indianacitizen.org/tsf-story-divorce-bill-fails-to-attract-suitors-in-the-statehouse/"
+  },
+  {
+   "id": 6,
+   "title": "Roll Call 433: SB 1 (Local government finance), 3rd Reading",
+   "publisher": "Indiana House of Representatives (billtexts.com mirror)",
+   "date": "2025-04-10",
+   "url": "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  },
+  {
+   "id": 7,
+   "title": "Roll Call 576: HB 1001 (State budget), Conference Committee Report #1",
+   "publisher": "Indiana House of Representatives (billtexts.com mirror)",
+   "date": "2025-04-25",
+   "url": "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  },
+  {
+   "id": 8,
+   "title": "OPENING ARGUMENTS: Republicans tout politics, critics say racial gerrymandering",
+   "publisher": "TheStatehouseFile.com via The Indiana Citizen",
+   "date": "2025-12-02",
+   "url": "https://indianacitizen.org/opening-arguments-republicans-tout-politics-critics-say-racial-gerrymandering/"
+  },
+  {
+   "id": 9,
+   "title": "Roll Call 28: HB 1032 (Redistricting), 3rd Reading",
+   "publisher": "Indiana House of Representatives (billtexts.com mirror)",
+   "date": "2025-12-05",
+   "url": "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  },
+  {
+   "id": 10,
+   "title": "BILL ADVANCES: 12 House Republicans join Democrats to oppose redistricting, but map moves to Senate",
+   "publisher": "TheStatehouseFile.com via The Indiana Citizen",
+   "date": "2025-12-05",
+   "url": "https://indianacitizen.org/bill-advances-12-house-republicans-join-democrats-to-oppose-redistricting-but-map-moves-to-senate/"
+  },
+  {
+   "id": 11,
+   "title": "Indiana HB 1359 (2026): Scanning ballots",
+   "publisher": "PolicyRisk bill tracker",
+   "date": "accessed 2026-10-10",
+   "url": "https://policyrisk.com/state-bill/IN-HB1359-2026"
+  },
+  {
+   "id": 12,
+   "title": "Elkhart County legislators highlight new state laws taking effect",
+   "publisher": "Indiana House Republicans",
+   "date": "2026-06-29",
+   "url": "https://www.indianahouserepublicans.com/news/press-releases/elkhart-county-legislators-highlight-new-state-laws-taking-effect/"
+  },
+  {
+   "id": 13,
+   "title": "2026 Indiana House of Representatives election",
+   "publisher": "Wikipedia",
+   "date": "accessed 2026-10-10",
+   "url": "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  },
+  {
+   "id": 14,
+   "title": "Charles \"Charlie\" Burkley",
+   "publisher": "BallotReady",
+   "date": "accessed 2026-10-10",
+   "url": "https://www.ballotready.org/people/charlie-burkley-e69488e4-1b02-4a66-8647-5b04af3c33c1"
+  },
+  {
+   "id": 15,
+   "title": "Charles Burkley, Indiana State Representative, District 21",
+   "publisher": "iVoterGuide",
+   "date": "accessed 2026-10-10",
+   "url": "https://ivoterguide.com/candidate/95453/race/30670/election/1456"
+  },
+  {
+   "id": 16,
+   "title": "Timothy Wesco, Indiana State Representative, District 21",
+   "publisher": "iVoterGuide",
+   "date": "accessed 2026-10-10",
+   "url": "https://ivoterguide.com/candidate/29545/race/30670/election/1456"
+  }
+ ]
+}

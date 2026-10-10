@@ -1,0 +1,132 @@
+{
+ "race_id": "in-state-representative-district-017",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Jack Jordan",
+  "party": "Republican",
+  "summary": "Jack Jordan, a Republican from Bremen and a business consultant, has represented House District 17 since 2016 {hr_jordan}. The House Republican caucus lists him as chair of the Ways and Means Budget Subcommittee and a member of the Family, Children and Human Affairs and the Government and Regulatory Reform committees {hr_jordan}.",
+  "record": [
+   "February 2025: Co-authored House Bill 1008, a House Republican priority bill creating a commission to study adjusting the Indiana-Illinois border so Illinois counties that voted to secede could join Indiana; Jordan said \"Our door is open\" {hr_jordan_hb1008}.",
+   "April 2025: Co-sponsored the property tax law, SEA 1, which the caucus says provides a homeowner credit, lowers the local income tax cap and requires referenda at general elections; Jordan said it is \"about putting Hoosier families first\" {hr_jordan_sea1}. He voted for SEA 1 on House passage (65-29) {rc_sb1_433}.",
+   "April 25, 2025: Voted for the conference report on the 2025-27 state budget, HEA 1001, adopted 66-27 {rc_hb1001_576}.",
+   "December 5, 2025: Voted for House Bill 1032, the mid-decade congressional redistricting bill, which passed the House 57-41 and was later defeated in the Senate {rc_hb1032} {icc_redistricting}.",
+   "February 2026: Co-signed a letter asking the Indiana Utility Regulatory Commission to review NIPSCO's residential rates, saying \"Families across northern Indiana deserve dependable energy at a price they can afford\" {hr_jordan_nipsco}.",
+   "2026: Co-sponsored Senate Bill 27, creating a stadium authority to bring the Chicago Bears to northwest Indiana, and said after the team's June 2026 announcement that he had chaired the House committee meetings on the bill and that \"This will bring a significant economic boost to the region and our state\" {hr_jordan} {hr_jordan_bears}."
+  ]
+ },
+ "race_context": [
+  "House District 17 includes all of Fulton County and portions of Marshall and Pulaski counties, according to the House Republican caucus {hr_jordan}.",
+  "Jordan is seeking re-election; he and Democrat Mary Gibson were each the only declared candidate in their party's May 5, 2026 primary, according to Wikipedia, which also reports Jordan was unopposed in 2024 {wiki_2026_inhouse}.",
+  "No debate or candidate forum for this race was found as of October 10, 2026.",
+  "In a MADVoters survey, Gibson said she opposes private school vouchers and supports a five-year ban on new data centers {madvoters_gibson}; Jordan co-sponsored SEA 1's property tax changes and chairs the House budget subcommittee {hr_jordan_sea1} {hr_jordan}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Jack Jordan",
+   "summary": "Jack Jordan, the Republican incumbent from Bremen, is a business consultant who chairs the House Ways and Means Budget Subcommittee {hr_jordan}.",
+   "website": "https://www.indianahouserepublicans.com/members/general/jack-jordan/",
+   "background": [
+    "Works as a business consultant with experience in the pharmaceutical industry, startups and strategic planning, is a partner in a home construction and renovation business, and sits on the board of Bremen Castings, Inc., according to the caucus {hr_jordan}.",
+    "Studied at Purdue University, including a Krannert master's degree in business, and holds a B.S. from Liberty University {hr_jordan}.",
+    "Has served on the State and Local Tax Review Task Force and the Interim Study Committee on Fiscal Policy {hr_jordan}."
+   ],
+   "path_to_ballot": [
+    "Was the only declared candidate in the May 5, 2026 Republican primary, according to Wikipedia {wiki_2026_inhouse}."
+   ],
+   "positions": [
+    {"topic": "Property taxes", "items": [
+     "Said of SEA 1, \"We're looking to take a responsible, long-term approach to tax relief\" {hr_jordan_sea1}."
+    ]},
+    {"topic": "Energy & utilities", "items": [
+     "Said \"I've heard from many Hoosiers in our area concerned about high energy bills\" and urged the IURC to \"put ratepayers first\" {hr_jordan_nipsco}."
+    ]},
+    {"topic": "Economy & jobs", "items": [
+     "Supported SB 27 and the Bears stadium project in northwest Indiana {hr_jordan_bears}."
+    ]},
+    {"topic": "Elections & redistricting", "items": [
+     "Voted for HB 1032 redistricting {rc_hb1032}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No statements by Jordan about his challenger were found."
+   ],
+   "plans": [
+    "Was appointed to the 2026 Interim Study Committee on Fiscal Policy, according to the caucus {hr_jordan}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or fundraising totals were found in sources reviewed."
+   ],
+   "gaps": [
+    "No separate campaign website was found; caucus pages describe his record.",
+    "No public statement by Jordan explaining his redistricting vote was found.",
+    "Campaign finance reports were not reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Mary E. Gibson",
+   "summary": "Mary E. Gibson, a Democrat, says on her campaign website that she has \"extensive experience in affordable housing and community growth\" {gibson_site}.",
+   "website": "https://marygrunning4in.org/",
+   "background": [
+    "Her campaign site describes \"extensive experience in affordable housing and community growth\" but does not name employers or roles {gibson_site}.",
+    "BallotReady lists a 2019 candidacy for Argos Town Council {br_gibson}."
+   ],
+   "path_to_ballot": [
+    "Was the only declared candidate in the May 5, 2026 Democratic primary, according to Wikipedia {wiki_2026_inhouse}."
+   ],
+   "positions": [
+    {"topic": "Health care", "items": [
+     "Told MADVoters \"My goal is healthcare for all Indiana citizens,\" saying Indiana \"has one of the worst health outcomes in the US\" {madvoters_gibson}."
+    ]},
+    {"topic": "Data centers", "items": [
+     "Told MADVoters \"I do not support data centers and propose a 5-year ban on new centers,\" to allow study of environmental, health and economic effects {madvoters_gibson}."
+    ]},
+    {"topic": "Education", "items": [
+     "Said \"I do not support private school vouchers,\" arguing that pulling funding from public schools does not make sense {madvoters_gibson}."
+    ]},
+    {"topic": "Elections & campaign finance", "items": [
+     "Named the influence of big business and billionaires on government policy as the biggest threat to democracy and said she would support limits on such campaign contributions {madvoters_gibson}."
+    ]},
+    {"topic": "Immigration", "items": [
+     "Said she does not support ICE detention centers for non-criminal offenders and supports helping people toward citizenship, while saying \"I do not know how to fix locally or at the State level\" {madvoters_gibson}."
+    ]},
+    {"topic": "Housing", "items": [
+     "Her site says she aims to ensure \"every family has access to quality living conditions and opportunities for success\" {gibson_site}."
+    ]}
+   ],
+   "on_incumbent": [
+    "No statements by Gibson about Jordan or his record were found on her campaign site or in her MADVoters responses {gibson_site} {madvoters_gibson}."
+   ],
+   "plans": [
+    "Proposes a five-year moratorium on new data centers while their effects are studied {madvoters_gibson}."
+   ],
+   "endorsements_finance": [
+    "No endorsements were listed on her campaign site {gibson_site}.",
+    "No fundraising totals were found in news coverage."
+   ],
+   "gaps": [
+    "Very little coverage: no news articles, candidate questionnaires from major outlets, or forum appearances were found.",
+    "Residence and occupation are not stated in sources reviewed.",
+    "MADVoters is a voter-education site whose sponsorship is not described on its page.",
+    "Campaign finance reports were not reviewed."
+   ]
+  }
+ ],
+ "sources": {
+  "hr_jordan": ["Rep. Jack Jordan", "Indiana House Republicans", "accessed 2026-10-10", "https://www.indianahouserepublicans.com/members/general/jack-jordan/"],
+  "hr_jordan_hb1008": ["Rep. Jordan co-authors House priority bill to welcome Illinois counties that have voted to secede", "Indiana House Republicans", "2025-02-21", "https://www.indianahouserepublicans.com/news/press-releases/rep.-jordan-co-authors-house-priority-bill-to-welcome-illinois-counties-that-have-voted-to-secede/"],
+  "hr_jordan_sea1": ["State Rep. Jack Jordan: Legislation delivering robust property tax relief and reform to Hoosiers signed into law", "Indiana House Republicans", "2025-04-17", "https://www.indianahouserepublicans.com/news/press-releases/state-rep.-jack-jordan-legislation-delivering-robust-property-tax-relief-and-reform-to-hoosiers-signed-into-law/"],
+  "hr_jordan_nipsco": ["Rep. Jordan co-signs letter calling for IURC review of NIPSCO's rates", "Indiana House Republicans", "2026-02-25", "https://www.indianahouserepublicans.com/news/press-releases/rep.-jordan-co-signs-letter-calling-for-iurc-review-of-nipsco-s-rates/"],
+  "hr_jordan_bears": ["Rep. Jordan issues statement on Bears decision to build stadium in Northwest Indiana", "Indiana House Republicans", "2026-06-05", "https://www.indianahouserepublicans.com/news/press-releases/rep.-jordan-issues-statement-on-bears-decision-to-build-stadium-in-northwest-indiana/"],
+  "rc_sb1_433": ["SB 1 House Roll Call 433 (third reading)", "Indiana House of Representatives (via billtexts)", "2025-04-10", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"],
+  "rc_hb1001_576": ["HB 1001 House Roll Call 576 (conference committee report)", "Indiana House of Representatives (via billtexts)", "2025-04-25", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"],
+  "rc_hb1032": ["HB 1032 House Roll Call 28 (third reading)", "Indiana House of Representatives (via billtexts)", "2025-12-05", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"],
+  "icc_redistricting": ["Indiana House approves redistricting bill, sending issue to state Senate", "Indiana Capital Chronicle (via Yahoo News)", "2025-12-05", "https://www.yahoo.com/news/articles/indiana-house-approves-redistricting-bill-185219428.html"],
+  "wiki_2026_inhouse": ["2026 Indiana House of Representatives election", "Wikipedia", "accessed 2026-10-10", "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"],
+  "gibson_site": ["Mary Gibson for Indiana", "Gibson campaign", "accessed 2026-10-10", "https://marygrunning4in.org/"],
+  "madvoters_gibson": ["Mary Gibson, State House District 17", "MADVoters", "accessed 2026-10-10", "https://madvoters.org/candidateelectedoffice/120"],
+  "br_gibson": ["Mary E. Gibson", "BallotReady", "accessed 2026-10-10", "https://www.ballotready.org/people/mary-e-gibson"]
+ }
+}

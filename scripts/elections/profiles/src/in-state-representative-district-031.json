@@ -1,0 +1,118 @@
+{
+ "race_id": "in-state-representative-district-031",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Lori Goss-Reaves",
+  "party": "Republican",
+  "summary": "Lori Goss-Reaves, a Marion Republican and Indiana Wesleyan University social work professor, took office in June 2023 to fill the remainder of former Rep. Ann Vermilion's term and was elected unopposed in 2024 {gr_oath}{wiki_house26}. The House Republican caucus lists her as vice chair of the Insurance Committee and a member of the Public Health and Family, Children and Human Affairs committees {gr_bio}{gr_vicechair}.",
+  "record": [
+   "2024: Authored House Enrolled Act 1138, which the caucus said lets social work and other behavioral-health students sit for licensing exams in their final semester, and House Enrolled Act 1418, which the caucus said allows pregnant women facing drug-related charges to be referred to drug courts {gr_hea1138}{gr_hea1418}.",
+   "December 5, 2025: Voted yes on House Bill 1032, the mid-decade congressional redistricting bill, which passed the House 57-41 but was later defeated in the Senate, according to BillTrack50's vote record and WRTV {bt_gr}{wrtv_hb1032}.",
+   "2026 session: Authored House Enrolled Act 1254, which the caucus said updates dental licensing and nitrous-oxide rules and respiratory-therapist exam requirements, and co-authored laws including HEA 1114 (limits \"fail first\" requirements for advanced metastatic cancer drugs), HEA 1296 (registration of addiction recovery centers) and HEA 1092 (child support collection) {gr_hea1254}{gr_may26}. She was also a co-author of Rep. Victoria Garcia Wilburn's HB 1036, requiring in-person DCS visits before case closure {reporter_hb1036}.",
+   "April 2026: As a member of the State Budget Committee, joined in approving an additional $200 million for the Child Care and Development Fund voucher program, according to the caucus {gr_childcare}.",
+   "2026: Was named Legislator of the Year by the Indiana Association for Home and Hospice Care, and was appointed to the Interim Study Committee on Public Health, Behavioral Health and Human Services {gr_bio}{gr_interim}."
+  ]
+ },
+ "race_context": [
+  "House District 31 includes portions of Grant and Madison counties, including Marion, according to the House Republican caucus and the Robins campaign {gr_bio}{robins_d31}.",
+  "Goss-Reaves is seeking her second full term. Wikipedia lists her as the only Republican and Katie Robins as the only Democrat who filed for the May 5, 2026 primaries {wiki_house26}.",
+  "No debate or forum between the two candidates was found as of October 10, 2026.",
+  "Robins's campaign criticizes Goss-Reaves's votes on the 2025 property-tax law (SEA 1), the 2025 budget (HEA 1001) and other bills; Goss-Reaves's caucus releases emphasize her health-care, child-welfare and veterans' property-tax work {robins_d31}{gr_hea1254}{gr_veterans}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Katie Robins",
+   "summary": "Katie Robins, the Democratic nominee, is an ICU nurse from Marion running on affordability, health care, public-school funding and utility costs {robins_site}{robins_about}.",
+   "website": "https://www.katierobinsforindiana.com/",
+   "background": [
+    "Raised in Kokomo, graduated from Kokomo High School in 2015 and attended Indiana University Kokomo for nursing, according to her campaign {robins_about}.",
+    "Began working as an intensive-care nurse in 2020 as COVID-19 reached Indiana, her campaign says {robins_about}.",
+    "Lives in Marion {robins_about}."
+   ],
+   "path_to_ballot": [
+    "Wikipedia lists her as the only declared candidate in the May 5, 2026 Democratic primary {wiki_house26}."
+   ],
+   "positions": [
+    {"topic": "Property taxes", "items": ["Wrote in an August 2026 campaign newsletter that SEA 1 provides homeowners up to $300 in credits while letting businesses exempt up to $2 million in personal property, and that it will reduce revenue for local governments and schools {robins_news}.", "Supports the Mississinewa Community Schools operating referendum on the November 2026 ballot, saying SEA 1 is forecast to cut more than $1.2 million from the district {robins_news}."]},
+    {"topic": "Education", "items": ["Supports \"fully funded public education\" and has criticized the expansion of private school vouchers in the 2025 budget {robins_site}{robins_d31}."]},
+    {"topic": "Health care", "items": ["Supports affordable, accessible health care, particularly in rural areas, and funding for veterans' care {robins_site}.", "Criticizes stricter Medicaid eligibility checks in 2025 SEA 2 and 2026 SEA 1 {robins_d31}."]},
+    {"topic": "Housing", "items": ["Supports affordable housing solutions and \"responsible approaches to rent stabilization\" {robins_site}."]},
+    {"topic": "Energy & utilities", "items": ["Says families need protection from \"unpredictable rate increases\" in utility bills {robins_site}."]},
+    {"topic": "Economy & jobs", "items": ["Supports road and transportation investment, workers' rights and fair wages {robins_site}."]}
+   ],
+   "on_incumbent": [
+    "Her campaign's district page lists votes it attributes to Goss-Reaves, including yes votes on the 2025 budget (HEA 1001), the 2025 property-tax law (SEA 1), partisan school board elections (2025 SEA 287), 2026 HB 1302 (labor matters), 2026 SEA 76 (immigration enforcement) and 2026 SEA 277 (environmental management), and votes against utility-bill amendments {robins_d31}.",
+    "Wrote that a \"lack of transparency and accountability from our current elected officials\" on SEA 1 was one reason she decided to run {robins_news}."
+   ],
+   "plans": [
+    "Lists her priorities as affordability and housing, health care and veterans' support, public education, infrastructure and workers, and civic engagement {robins_site}."
+   ],
+   "endorsements_finance": [
+    "iVoterGuide lists endorsements from Run for Something, Planned Parenthood Alliance Advocates, UAW Region 2B and Indiana Reproductive Freedom PAC {ivg_robins}."
+   ],
+   "gaps": [
+    "No news coverage of her candidacy (for example, by the Chronicle-Tribune or Herald Bulletin) was found.",
+    "No campaign finance totals were found.",
+    "Her campaign's vote claims (HEA 1001, SEA 1, SEA 287 and others) could not be checked against official roll calls; BillTrack50 confirms Goss-Reaves voted yes on 2026 HB 1302, SEA 76 and SEA 277."
+   ]
+  },
+  {
+   "ballot_name": "Lori J. Goss-Reaves",
+   "summary": "Rep. Lori Goss-Reaves, the Republican incumbent, is a social work professor at Indiana Wesleyan University who has focused on health-care licensing, child welfare and behavioral health {gr_bio}{gr_hea1254}.",
+   "website": null,
+   "background": [
+    "Professor of social work and director of field placement at Indiana Wesleyan University; earned a master's in social work from IUPUI and a doctorate in social work from Capella University, according to the caucus {gr_bio}.",
+    "Previously worked as a social worker for children with developmental disabilities and as a mental health therapist; serves on the Prevent Child Abuse Council of Grant County {gr_bio}.",
+    "Lives in Marion {gr_bio}."
+   ],
+   "path_to_ballot": [
+    "Took office in June 2023 to fill the rest of former Rep. Ann Vermilion's term, and was elected unopposed in 2024 {gr_oath}{wiki_house26}.",
+    "Wikipedia lists her as the only declared candidate in the May 5, 2026 Republican primary {wiki_house26}."
+   ],
+   "positions": [
+    {"topic": "Health care", "items": ["Said of her 2026 dental-licensing law: \"This legislation removes unnecessary barriers while maintaining strong standards for care\" {gr_hea1254}.", "Co-authored 2026 laws limiting \"fail first\" step-therapy for advanced metastatic cancer and requiring addiction recovery centers to register with the state, according to the caucus {gr_may26}."]},
+    {"topic": "Child care & families", "items": ["Supported SEA 4 (2026), which allowed state reserve funds to expand child care vouchers, and HEA 1177 (2026) expanding the employer child care tax credit; said, \"Access to affordable child care is essential for family stability\" {gr_childcare}."]},
+    {"topic": "Property taxes", "items": ["Has promoted 2026's HEA 1210, which the caucus said makes totally disabled veterans' primary residences fully exempt from property tax and converts some veterans' deductions into credits {gr_veterans}."]},
+    {"topic": "Elections & redistricting", "items": ["Voted yes on the December 2025 mid-decade congressional redistricting bill (HB 1032) {bt_gr}."]}
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No public statements by Goss-Reaves about her challenger were found."
+   ],
+   "plans": [
+    "Will serve on the 2026 Interim Study Committee on Public Health, Behavioral Health and Human Services; said the work offers \"an opportunity to get feedback, evaluate what is working, and identify solutions to improve access and outcomes\" {gr_interim}."
+   ],
+   "endorsements_finance": [
+    "Was named 2026 Legislator of the Year by the Indiana Association for Home and Hospice Care, according to the caucus {gr_bio}."
+   ],
+   "gaps": [
+    "No campaign website, candidate questionnaire or interview from the 2026 campaign was found.",
+    "Her votes on 2025 SEA 1 and HEA 1001 were not independently verified (the Robins campaign says she voted yes).",
+    "No campaign finance totals were found."
+   ]
+  }
+ ],
+ "sources": {
+  "wiki_house26": ["2026 Indiana House of Representatives election", "Wikipedia", "accessed 2026-10-10", "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"],
+  "gr_bio": ["Lori Goss-Reaves - member page", "Indiana House Republicans", "accessed 2026-10-10", "https://www.indianahouserepublicans.com/members/general/lori-goss-reaves/"],
+  "gr_oath": ["Goss-Reaves takes oath to serve as state representative for House District 31", "Indiana House Republicans", "2023-06-01", "https://www.indianahouserepublicans.com/news/press-releases/goss-reaves-takes-oath-to-serve-as-state-representative-for-house-district-31/"],
+  "gr_vicechair": ["Rep. Goss-Reaves to vice chair key House committee", "Indiana House Republicans", "2024-12-17", "https://www.indianahouserepublicans.com/news/press-releases/rep.-goss-reaves-to-vice-chair-key-house-committee/"],
+  "gr_hea1138": ["Goss-Reaves legislation to boost social worker pipeline and alleviate mental health crisis signed into law", "Indiana House Republicans", "2024-03-25", "https://www.indianahouserepublicans.com/news/press-releases/goss-reaves-legislation-to-boost-social-worker-pipeline-and-alleviate-mental-health-crisis-signed-into-law/"],
+  "gr_hea1418": ["Goss-Reaves: New law will improve treatment help for pregnant women charged with drug crimes", "Indiana House Republicans", "2024-04-08", "https://www.indianahouserepublicans.com/news/press-releases/goss-reaves-new-law-will-improve-treatment-help-for-pregnant-women-charged-with-drug-crimes/"],
+  "gr_hea1254": ["Governor ceremonially signs bill authored by Goss-Reaves to modernize dental licensing and strengthen health care workforce", "Indiana House Republicans", "2026-04-15", "https://www.indianahouserepublicans.com/news/press-releases/governor-ceremonially-signs-bill-authored-by-goss-reaves-to-modernize-dental-licensing-and-strengthen-health-care-workforce/"],
+  "gr_may26": ["Governor ceremonially signs bill co-authored by Goss-Reaves to strengthen cancer care, child safety, and family support", "Indiana House Republicans", "2026-05-13", "https://www.indianahouserepublicans.com/news/press-releases/governor-ceremonially-signs-bill-co-authored-by-goss-reaves-to-strengthen-cancer-care-child-safety-and-family-support/"],
+  "gr_childcare": ["Rep. Goss-Reaves: Additional $200 million in state funding to be invested in child care assistance", "Indiana House Republicans", "2026-04-20", "https://www.indianahouserepublicans.com/news/press-releases/rep.-goss-reaves-additional-200-million-in-state-funding-to-be-invested-in-child-care-assistance/"],
+  "gr_interim": ["Madison County legislators receive 2026 summer study committee appointments", "Indiana House Republicans", "2026-07-02", "https://www.indianahouserepublicans.com/news/press-releases/madison-county-legislators-receive-2026-summer-study-committee-appointments/"],
+  "gr_veterans": ["Rep. Goss-Reaves clarifies property tax relief changes for Indiana veterans", "Indiana House Republicans", "2026-10-02", "https://www.indianahouserepublicans.com/news/press-releases/rep.-goss-reaves-clarifies-property-tax-relief-changes-for-indiana-veterans/"],
+  "reporter_hb1036": ["Garcia Wilburn's bill to keep kids in DCS safe heads to governor's desk", "The Reporter (Hamilton County)", "2026-02-25", "https://readthereporter.com/garcia-wilburns-bill-to-keep-kids-in-dcs-safe-heads-to-governors-desk/"],
+  "bt_gr": ["Lori Goss-Reaves legislator vote record", "BillTrack50", "accessed 2026-10-10", "https://www.billtrack50.com/public/scorecard/legislator/TNvEht1gV0ilLkxyi9h0rQ/29118"],
+  "wrtv_hb1032": ["Bill to redraw Indiana congressional maps heads to Senate after 57-41 House vote", "WRTV", "2025-12-06", "https://www.wrtv.com/news/redistricting/bill-to-redraw-indiana-congressional-maps-heads-to-senate-after-57-41-house-vote"],
+  "robins_site": ["Katie Robins for Indiana (home page)", "Katie Robins For Indiana", "accessed 2026-10-10", "https://www.katierobinsforindiana.com/"],
+  "robins_about": ["About Katie Robins", "Katie Robins For Indiana", "accessed 2026-10-10", "https://www.katierobinsforindiana.com/about"],
+  "robins_d31": ["District 31", "Katie Robins For Indiana", "accessed 2026-10-10", "https://www.katierobinsforindiana.com/district31"],
+  "robins_news": ["House District 31 Happenings", "Katie Robins For Indiana", "2026-08-18", "https://www.katierobinsforindiana.com/post/house-district-31-happenings"],
+  "ivg_robins": ["Katie Robins - Indiana State Representative, District 31", "iVoterGuide", "accessed 2026-10-10", "https://ivoterguide.com/candidate/95508/race/30680/election/1456"]
+ }
+}
