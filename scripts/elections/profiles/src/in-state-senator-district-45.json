@@ -14,7 +14,6 @@
    "2025: Authored SEA 2, which adds Medicaid eligibility checks and a 20-hour weekly work or volunteer requirement for able-bodied Healthy Indiana Plan adults, pending federal approval; it passed the Senate 37–10 {garten_sea2} {mirror_sea2}. Democratic Sens. Shelli Yoder and Fady Qaddoura said the changes could add bureaucracy and cost eligible people coverage; Garten said Medicaid is meant for the poor and disabled {mirror_sea2}.",
    "2025: Senate sponsor of House Enrolled Act 1004, which requires nonprofit hospital systems with at least $2 billion in annual patient revenue to bring prices to the state average by June 30, 2029, or begin paying taxes {garten_hea1004}.",
    "December 11, 2025: Spoke for and voted yes on HB 1032, the congressional redistricting bill, which the Senate defeated 31–19; on the floor he said, \"Some will say these maps are political. Let me be clear, you're damn right they are\" {lpm_redist_after} {wish_rollcall}.",
-   "December 25, 2025: Posted AI-generated images of himself fighting Santa outside the Statehouse with a caption about \"bureaucratic overreach\"; the Indiana Democratic Party called the post \"pretty weird,\" and Garten responded that he struggled to understand why \"my evidently humorous post is considered news\" {indystar_santa}.",
    "2026 session: Listed by the ACLU of Indiana as an author of SEA 256 (foreign-adversary land ownership and agent registration), which the ACLU opposed as discriminating based on national origin {aclu_sea256}.",
    "June 4, 2026: Resigned as majority floor leader, writing that the role requires close alignment with Senate leadership's direction; IndyPolitics linked the move to fallout from the redistricting fight {indypol_resign}.",
    "August 18, 2026: Endorsed unanimously by Senate Republicans for President Pro Tempore; he has said he will appoint Sen. Eric Koch as majority floor leader {caucus_protem} {wndu_protem}."
@@ -41,17 +40,42 @@
     "Unopposed in the May 5, 2026 Republican primary {wndu_protem}."
    ],
    "positions": [
-    {"topic": "Health care", "items": ["His campaign site says he has pushed hospitals toward price transparency and an end to surprise billing, and cites his law requiring able-bodied adults to work, train, or volunteer to receive Medicaid {garten_site}."]},
-    {"topic": "Property taxes", "items": ["Supported the 2025 property-tax law and argued local governments that raise taxes should have to justify it to taxpayers {garten_sb1}."]},
-    {"topic": "Housing", "items": ["His campaign site says he wants to lower home costs by cutting regulations, increasing supply, and providing property tax relief {garten_site}."]},
-    {"topic": "Economy & jobs", "items": ["His campaign site says he opposes tolls on local bridges and voted against a statewide highway toll plan backed by his party {garten_site}."]},
-    {"topic": "Elections & redistricting", "items": ["Supported mid-decade congressional redistricting, writing in October 2025 that \"This is not a fight Republicans picked, but it's at our doorstep\" {lpm_redist_before}."]}
+    {
+     "topic": "Health care",
+     "items": [
+      "His campaign site says he has pushed hospitals toward price transparency and an end to surprise billing, and cites his law requiring able-bodied adults to work, train, or volunteer to receive Medicaid {garten_site}."
+     ]
+    },
+    {
+     "topic": "Property taxes",
+     "items": [
+      "Supported the 2025 property-tax law and argued local governments that raise taxes should have to justify it to taxpayers {garten_sb1}."
+     ]
+    },
+    {
+     "topic": "Housing",
+     "items": [
+      "His campaign site says he wants to lower home costs by cutting regulations, increasing supply, and providing property tax relief {garten_site}."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "His campaign site says he opposes tolls on local bridges and voted against a statewide highway toll plan backed by his party {garten_site}."
+     ]
+    },
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "Supported mid-decade congressional redistricting, writing in October 2025 that \"This is not a fight Republicans picked, but it's at our doorstep\" {lpm_redist_before}."
+     ]
+    }
    ],
    "on_incumbent": [
     "Is the current officeholder. No statements by Garten about Marshall or Mahaney were found {garten_site}."
    ],
    "plans": [
-    "As incoming caucus leader, he has pledged \"unapologetic conservatism, decisive action and absolute transparency\" and said he wants to expand the Republican supermajority {caucus_protem} {garten_protem_announce}."
+    "As incoming caucus leader, he has said he wants to expand the Republican majority in the Senate {caucus_protem} {garten_protem_announce}."
    ],
    "endorsements_finance": [
     "Lists honors from groups including the Indiana Association of Chiefs of Police (2025) and Parents for School Options Indiana (2025) in his caucus biography {garten_bio}.",
@@ -102,11 +126,36 @@
     "Won the Democratic nomination in the May 5, 2026 primary {ballotbrief_45}."
    ],
    "positions": [
-    {"topic": "Education", "items": ["His platform calls for fully funding K-12 schools, raising teacher pay, expanding funding for special-education services such as IEPs and speech pathologists, and investing in early childhood education {marshall_platform}."]},
-    {"topic": "Property taxes", "items": ["His platform says the 2025 property-tax law (SEA 1) drained local police and fire budgets and calls for returning that money to local governments without raising taxes {marshall_platform}."]},
-    {"topic": "Health care", "items": ["Opposes cuts to Medicare and Medicaid and would supplement those costs at the state level; supports funding addiction programs and access to emergency care for women {marshall_platform}."]},
-    {"topic": "Energy & utilities", "items": ["His platform calls for eliminating reconnection fees for disconnected utilities {marshall_platform}. A podcast host's summary of an August 2026 interview says he has organized against a proposed data center in Charlestown {hoosleft_marshall}."]},
-    {"topic": "Public safety", "items": ["Calls for more funding for local police, fire, and EMS and an updated D.A.R.E. program {marshall_platform}."]}
+    {
+     "topic": "Education",
+     "items": [
+      "His platform calls for fully funding K-12 schools, raising teacher pay, expanding funding for special-education services such as IEPs and speech pathologists, and investing in early childhood education {marshall_platform}."
+     ]
+    },
+    {
+     "topic": "Property taxes",
+     "items": [
+      "His platform says the 2025 property-tax law (SEA 1) drained local police and fire budgets and calls for returning that money to local governments without raising taxes {marshall_platform}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Opposes cuts to Medicare and Medicaid and would supplement those costs at the state level; supports funding addiction programs and access to emergency care for women {marshall_platform}."
+     ]
+    },
+    {
+     "topic": "Energy & utilities",
+     "items": [
+      "His platform calls for eliminating reconnection fees for disconnected utilities {marshall_platform}. A podcast host's summary of an August 2026 interview says he has organized against a proposed data center in Charlestown {hoosleft_marshall}."
+     ]
+    },
+    {
+     "topic": "Public safety",
+     "items": [
+      "Calls for more funding for local police, fire, and EMS and an updated D.A.R.E. program {marshall_platform}."
+     ]
+    }
    ],
    "on_incumbent": [
     "In an August 2026 podcast interview, as summarized by the host, Marshall described Garten as part of a faction seeking Senate leadership and tied Garten's support for redistricting to diluting the representation of communities of color {hoosleft_marshall}."
@@ -126,27 +175,131 @@
   }
  ],
  "sources": {
-  "garten_bio": ["State Senator Chris Garten biography (2026)", "Indiana Senate Republicans", "2026", "https://cdn.zephyrcms.com/c1002247-b447-43a9-86b0-61d4bb08cb8e/-/inline/yes/garten-2026-bio.pdf"],
-  "indypol_resign": ["Garten resigns as Senate Majority Floor Leader", "IndyPolitics.Org", "2026-06-04", "https://indypolitics.org/garten-resigns-as-senate-majority-floor-leader/"],
-  "caucus_protem": ["Senate Republican Caucus endorses Garten for Pro Tem", "Indiana Senate Republicans", "2026-08-18", "https://www.indianasenaterepublicans.com/senate-republican-caucus-endorses-garten-for-pro-tem"],
-  "garten_protem_announce": ["Garten announces candidacy for Indiana Senate President Pro Tempore and intent to appoint Koch as Majority Floor Leader", "Indiana Senate Republicans", "2026-08-03", "https://www.indianasenaterepublicans.com/garten-announces-candidacy-for-indiana-senate-president-pro-tempore-and-intent-to-appoint-koch-as-majority-floor-leader"],
-  "wndu_protem": ["Indiana Republican senators endorse Garten as chamber's next top leader (Indiana Capital Chronicle)", "WNDU", "2026-08-19", "https://www.wndu.com/2026/08/19/indiana-republican-senators-endorse-garten-chambers-next-top-leader/"],
-  "garten_sea268": ["Garten: Indiana receives national attention for divesting pension funds from China", "Indiana Senate Republicans", "2024-07-31", "https://www.indianasenaterepublicans.com/garten-indiana-receives-national-attention-for-divesting-pension-funds-from-china-and-protecting-hoosiers-hard-earned-dollars"],
-  "garten_sb1": ["Bray, Holdman, Garten: SB 1 saves homeowners $1.3 billion", "Indiana Senate Republicans", "2025-04-15", "https://www.indianasenaterepublicans.com/bray-holdman-garten-sb-1-saves-homeowners-usd1-3-billion-provides-long-term-tax-reform-and-transparency"],
-  "garten_sea2": ["Gov. Braun signs Garten's Medicaid reform bill", "Indiana Senate Republicans", "2025-06-18", "https://www.indianasenaterepublicans.com/gov-braun-signs-garten-s-medicaid-reform-bill"],
-  "mirror_sea2": ["Senators send Medicaid work requirements to governor's desk (Indiana Capital Chronicle)", "Mirror Indy", "2025-04-22", "https://mirrorindy.org/senators-send-medicaid-work-requirements-to-governors-desk/"],
-  "garten_hea1004": ["Gov. Braun signs Garten's bill to lower health care costs", "Indiana Senate Republicans", "2025-06-24", "https://www.indianasenaterepublicans.com/gov-braun-signs-garten-s-bill-to-lower-health-care-costs"],
-  "lpm_redist_after": ["Southern Indiana lawmakers speak out on failed redistricting vote", "Louisville Public Media", "2025-12-12", "https://www.lpm.org/news/2025-12-12/southern-indiana-lawmakers-speak-out-on-failed-redistricting-vote"],
-  "lpm_redist_before": ["State lawmakers representing Southern Indiana split on redistricting", "Louisville Public Media", "2025-12-04", "https://www.lpm.org/news/2025-12-04/state-lawmakers-representing-southern-indiana-split-on-redistricting"],
-  "wish_rollcall": ["How senators voted in keeping Indiana's congressional map unchanged", "WISH-TV", "2025-12-11", "https://www.wishtv.com/news/politics/how-senators-voted-in-keeping-indianas-congressional-map-unchanged/"],
-  "indystar_santa": ["An Indiana senator's AI-generated Christmas post has some Hoosiers asking questions (IndyStar)", "Yahoo News", "2025-12-26", "https://www.yahoo.com/news/articles/indiana-senators-ai-generated-christmas-165941495.html"],
-  "aclu_sea256": ["Discrimination Against People from Countries Deemed Foreign Adversaries (SEA 256)", "ACLU of Indiana", "2026", "https://www.aclu-in.org/legislation/discrimination-against-people-from-countries-deemed-foreign-adversaries-hb-1099/"],
-  "garten_site": ["Garten for Senate", "Chris Garten campaign", "accessed 2026-10-10", "https://www.gartenforsenate.com/"],
-  "ballotbrief_45": ["Indiana Senate District 45", "The Ballot Brief", "2026-09-25", "https://theballotbrief.com/state/indiana/clark-county/indiana-senate-district-45"],
-  "mahaney_br": ["Larry J. Mahaney", "BallotReady", "accessed 2026-10-10", "https://www.ballotready.org/people/larry-j-mahaney"],
-  "lpm_2021": ["Democrat enters Southern Indiana state Senate race", "Louisville Public Media", "2021-10-25", "https://www.lpm.org/news/2021-10-25/democrat-enters-southern-indiana-state-senate-race-nbsp"],
-  "marshall_site": ["Hoosiers for Nick Marshall", "Nick Marshall campaign", "accessed 2026-10-10", "https://www.hoosiersfornickmarshall.com/"],
-  "marshall_platform": ["The Platform", "Nick Marshall campaign", "accessed 2026-10-10", "https://www.hoosiersfornickmarshall.com/platform"],
-  "hoosleft_marshall": ["HoosLeft Live Bonus Episode w/ Nick Marshall", "Progressive Indiana Network", "2026-08-14", "https://www.progressiveindiana.net/p/hoosleft-live-bonus-episode-w-nick"]
+  "garten_bio": [
+   "State Senator Chris Garten biography (2026)",
+   "Indiana Senate Republicans",
+   "2026",
+   "https://cdn.zephyrcms.com/c1002247-b447-43a9-86b0-61d4bb08cb8e/-/inline/yes/garten-2026-bio.pdf"
+  ],
+  "indypol_resign": [
+   "Garten resigns as Senate Majority Floor Leader",
+   "IndyPolitics.Org",
+   "2026-06-04",
+   "https://indypolitics.org/garten-resigns-as-senate-majority-floor-leader/"
+  ],
+  "caucus_protem": [
+   "Senate Republican Caucus endorses Garten for Pro Tem",
+   "Indiana Senate Republicans",
+   "2026-08-18",
+   "https://www.indianasenaterepublicans.com/senate-republican-caucus-endorses-garten-for-pro-tem"
+  ],
+  "garten_protem_announce": [
+   "Garten announces candidacy for Indiana Senate President Pro Tempore and intent to appoint Koch as Majority Floor Leader",
+   "Indiana Senate Republicans",
+   "2026-08-03",
+   "https://www.indianasenaterepublicans.com/garten-announces-candidacy-for-indiana-senate-president-pro-tempore-and-intent-to-appoint-koch-as-majority-floor-leader"
+  ],
+  "wndu_protem": [
+   "Indiana Republican senators endorse Garten as chamber's next top leader (Indiana Capital Chronicle)",
+   "WNDU",
+   "2026-08-19",
+   "https://www.wndu.com/2026/08/19/indiana-republican-senators-endorse-garten-chambers-next-top-leader/"
+  ],
+  "garten_sea268": [
+   "Garten: Indiana receives national attention for divesting pension funds from China",
+   "Indiana Senate Republicans",
+   "2024-07-31",
+   "https://www.indianasenaterepublicans.com/garten-indiana-receives-national-attention-for-divesting-pension-funds-from-china-and-protecting-hoosiers-hard-earned-dollars"
+  ],
+  "garten_sb1": [
+   "Bray, Holdman, Garten: SB 1 saves homeowners $1.3 billion",
+   "Indiana Senate Republicans",
+   "2025-04-15",
+   "https://www.indianasenaterepublicans.com/bray-holdman-garten-sb-1-saves-homeowners-usd1-3-billion-provides-long-term-tax-reform-and-transparency"
+  ],
+  "garten_sea2": [
+   "Gov. Braun signs Garten's Medicaid reform bill",
+   "Indiana Senate Republicans",
+   "2025-06-18",
+   "https://www.indianasenaterepublicans.com/gov-braun-signs-garten-s-medicaid-reform-bill"
+  ],
+  "mirror_sea2": [
+   "Senators send Medicaid work requirements to governor's desk (Indiana Capital Chronicle)",
+   "Mirror Indy",
+   "2025-04-22",
+   "https://mirrorindy.org/senators-send-medicaid-work-requirements-to-governors-desk/"
+  ],
+  "garten_hea1004": [
+   "Gov. Braun signs Garten's bill to lower health care costs",
+   "Indiana Senate Republicans",
+   "2025-06-24",
+   "https://www.indianasenaterepublicans.com/gov-braun-signs-garten-s-bill-to-lower-health-care-costs"
+  ],
+  "lpm_redist_after": [
+   "Southern Indiana lawmakers speak out on failed redistricting vote",
+   "Louisville Public Media",
+   "2025-12-12",
+   "https://www.lpm.org/news/2025-12-12/southern-indiana-lawmakers-speak-out-on-failed-redistricting-vote"
+  ],
+  "lpm_redist_before": [
+   "State lawmakers representing Southern Indiana split on redistricting",
+   "Louisville Public Media",
+   "2025-12-04",
+   "https://www.lpm.org/news/2025-12-04/state-lawmakers-representing-southern-indiana-split-on-redistricting"
+  ],
+  "wish_rollcall": [
+   "How senators voted in keeping Indiana's congressional map unchanged",
+   "WISH-TV",
+   "2025-12-11",
+   "https://www.wishtv.com/news/politics/how-senators-voted-in-keeping-indianas-congressional-map-unchanged/"
+  ],
+  "aclu_sea256": [
+   "Discrimination Against People from Countries Deemed Foreign Adversaries (SEA 256)",
+   "ACLU of Indiana",
+   "2026",
+   "https://www.aclu-in.org/legislation/discrimination-against-people-from-countries-deemed-foreign-adversaries-hb-1099/"
+  ],
+  "garten_site": [
+   "Garten for Senate",
+   "Chris Garten campaign",
+   "accessed 2026-10-10",
+   "https://www.gartenforsenate.com/"
+  ],
+  "ballotbrief_45": [
+   "Indiana Senate District 45",
+   "The Ballot Brief",
+   "2026-09-25",
+   "https://theballotbrief.com/state/indiana/clark-county/indiana-senate-district-45"
+  ],
+  "mahaney_br": [
+   "Larry J. Mahaney",
+   "BallotReady",
+   "accessed 2026-10-10",
+   "https://www.ballotready.org/people/larry-j-mahaney"
+  ],
+  "lpm_2021": [
+   "Democrat enters Southern Indiana state Senate race",
+   "Louisville Public Media",
+   "2021-10-25",
+   "https://www.lpm.org/news/2021-10-25/democrat-enters-southern-indiana-state-senate-race-nbsp"
+  ],
+  "marshall_site": [
+   "Hoosiers for Nick Marshall",
+   "Nick Marshall campaign",
+   "accessed 2026-10-10",
+   "https://www.hoosiersfornickmarshall.com/"
+  ],
+  "marshall_platform": [
+   "The Platform",
+   "Nick Marshall campaign",
+   "accessed 2026-10-10",
+   "https://www.hoosiersfornickmarshall.com/platform"
+  ],
+  "hoosleft_marshall": [
+   "HoosLeft Live Bonus Episode w/ Nick Marshall",
+   "Progressive Indiana Network",
+   "2026-08-14",
+   "https://www.progressiveindiana.net/p/hoosleft-live-bonus-episode-w-nick"
+  ]
  }
 }

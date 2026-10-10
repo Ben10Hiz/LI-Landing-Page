@@ -132,7 +132,7 @@ Gary Byrne, the Republican incumbent, is a Harrison County business owner and fa
 
 ### How they say they'd run the office
 
-- In 2022, he listed his priorities as stopping what he called indoctrination of children in schools, reining in unelected bureaucrats, and election integrity including paper ballots [21].
+- In 2022, he listed his priorities as limiting what he described as political content in school instruction, reining in unelected bureaucrats, and election integrity including paper ballots [21].
 
 ### Endorsements & fundraising
 

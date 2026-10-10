@@ -37,17 +37,26 @@
     "Won the May 5, 2026 Democratic primary unopposed {wiki_2026_insenate}."
    ],
    "positions": [
-    {"topic": "Economy & jobs", "items": [
-     "His campaign site calls for raising the minimum wage to \"a family sustaining wage,\" repealing Indiana's right-to-work law, and bringing back \"prevailing wage standards for projects funded by the state\" {houldieson_issues}.",
-     "Supports restoring childcare relief vouchers {houldieson_issues}."
-    ]},
-    {"topic": "Education", "items": [
-     "Calls for \"fair taxation to fund our public schools,\" keeping local control through elected school boards, and letting teachers bargain over working conditions {houldieson_issues}."
-    ]},
-    {"topic": "Economic development", "items": [
-     "Says \"We need oversight of our regulatory agencies\" and would give local communities the ability to decide land use \"after meaningful public input\" {houldieson_issues}.",
-     "Would require \"community benefit assurances with claw backs for non compliance\" and project labor agreements on subsidized projects {houldieson_issues}."
-    ]}
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "His campaign site calls for raising the minimum wage to \"a family sustaining wage,\" repealing Indiana's right-to-work law, and bringing back \"prevailing wage standards for projects funded by the state\" {houldieson_issues}.",
+      "Supports restoring childcare relief vouchers {houldieson_issues}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Calls for \"fair taxation to fund our public schools,\" keeping local control through elected school boards, and letting teachers bargain over working conditions {houldieson_issues}."
+     ]
+    },
+    {
+     "topic": "Economic development",
+     "items": [
+      "Says \"We need oversight of our regulatory agencies\" and would give local communities the ability to decide land use \"after meaningful public input\" {houldieson_issues}.",
+      "Would require \"community benefit assurances with claw backs for non compliance\" and project labor agreements on subsidized projects {houldieson_issues}."
+     ]
+    }
    ],
    "on_incumbent": [
     "No public statements by Houldieson about Dernulc or the seat's record were found."
@@ -73,31 +82,48 @@
    "background": [
     "Lists his occupation as principal at HUB International, working in transactional risk insurance {ivg_devries}.",
     "Lifelong St. John resident; Purdue University graduate (B.S., sales and marketing) {ivg_devries} {devries_site}.",
-    "Has served as Republican precinct committeeman for St. John 04 since 2024 and has not previously held public office {ivg_devries}.",
-    "Lists church volunteer roles at Living Stones Church and with special-needs ministries {ivg_devries}."
+    "Has served as Republican precinct committeeman for St. John 04 since 2024 and has not previously held public office {ivg_devries}."
    ],
    "path_to_ballot": [
     "Won the May 5, 2026 Republican primary with 75.1% of the vote over incumbent Dan Dernulc (23.3%) and Nader Liddawi (1.6%) {nbc_sd1_primary}."
    ],
    "positions": [
-    {"topic": "Property taxes", "items": [
-     "His campaign site pledges to lower income and property taxes {devries_site}. In his iVoterGuide questionnaire, he listed \"family-focused tax reform,\" including property tax relief for young families, as a top legislative priority {ivg_devries}."
-    ]},
-    {"topic": "Energy & utilities", "items": [
-     "His campaign site opposes NIPSCO's monopoly, supports energy choice, and pledges to \"FIGHT these utility hikes\" {devries_site}."
-    ]},
-    {"topic": "Health care", "items": [
-     "Proposes changes to pharmacy benefit manager practices, passing rebates through to patients, protecting independent pharmacies, and letting pharmacists tell patients when a cheaper option exists {devries_site}."
-    ]},
-    {"topic": "Education", "items": [
-     "Lists parental rights as his top legislative priority and says he supports policies giving parents a voice {ivg_devries} {devries_site}."
-    ]},
-    {"topic": "Government spending", "items": [
-     "Pledges to cut government waste and increase transparency {devries_site}."
-    ]},
-    {"topic": "Other issues (questionnaire)", "items": [
-     "In his iVoterGuide questionnaire, he answered that abortion should not be allowed, opposed red flag laws and universal background checks, supported photo ID for voting, and opposed legalizing recreational marijuana {ivg_devries}."
-    ]}
+    {
+     "topic": "Property taxes",
+     "items": [
+      "His campaign site pledges to lower income and property taxes {devries_site}. In his iVoterGuide questionnaire, he listed \"family-focused tax reform,\" including property tax relief for young families, as a top legislative priority {ivg_devries}."
+     ]
+    },
+    {
+     "topic": "Energy & utilities",
+     "items": [
+      "His campaign site opposes NIPSCO's monopoly, supports energy choice, and pledges to \"FIGHT these utility hikes\" {devries_site}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Proposes changes to pharmacy benefit manager practices, passing rebates through to patients, protecting independent pharmacies, and letting pharmacists tell patients when a cheaper option exists {devries_site}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Lists parental rights as his top legislative priority and says he supports policies giving parents a voice {ivg_devries} {devries_site}."
+     ]
+    },
+    {
+     "topic": "Government spending",
+     "items": [
+      "Pledges to cut government waste and increase transparency {devries_site}."
+     ]
+    },
+    {
+     "topic": "Other issues (questionnaire)",
+     "items": [
+      "In his iVoterGuide questionnaire, he answered that abortion should not be allowed, opposed red flag laws and universal background checks, supported photo ID for voting, and opposed legalizing recreational marijuana {ivg_devries}."
+     ]
+    }
    ],
    "on_incumbent": [
     "His campaign site does not mention Dernulc or redistricting; it says he will work with the Senate majority to address NIPSCO, taxes and health care affordability {devries_site}."
@@ -119,20 +145,95 @@
   }
  ],
  "sources": {
-  "sr_dernulc": ["Sen. Dan Dernulc (bio and news releases)", "Indiana Senate Republicans", "2026-10", "https://www.indianasenaterepublicans.com/dernulc"],
-  "wiki_dernulc": ["Dan Dernulc", "Wikipedia", "2026-10", "https://en.wikipedia.org/wiki/Dan_Dernulc"],
-  "nbc_sd1_primary": ["Indiana State Senate District 1 Primary Election Results 2026", "NBC News", "2026-05-06", "https://www.nbcnews.com/politics/2026-primary-elections/indiana-state-senate-district-1-results"],
-  "wlos_redistricting": ["Indiana Senate votes \"NO\" on congressional redistricting", "WLOS (Sinclair)", "2025-12-11", "https://wlos.com/news/nation-world/campaign-2026-vote-for-indiana-congressional-redistricting-underway-congress"],
-  "sr_dernulc_swatting": ["Statement from State Sen. Dan Dernulc", "Indiana Senate Republicans", "2025-11-19", "https://www.indianasenaterepublicans.com/statement-from-state-sen-dan-dernulc-11-19-2025"],
-  "sr_sb146": ["Dernulc and Niemeyer author bill to prioritize utility affordability", "Indiana Senate Republicans", "2026-01-23", "https://www.indianasenaterepublicans.com/dernulc-and-niemeyer-author-bill-to-prioritize-utility-affordability"],
-  "sr_sea119": ["Dernulc's bill expanding efforts to prevent human trafficking and child grooming signed by governor", "Indiana Senate Republicans", "2026-04-29", "https://www.indianasenaterepublicans.com/dernulc-s-bill-expanding-efforts-to-prevent-human-trafficking-and-child-grooming-signed-by-governor"],
-  "ipm_braun_endorse": ["Braun mostly echoes Trump's GOP primary picks in redistricting vote fallout", "Indiana Capital Chronicle via IPM", "2026-04-16", "https://www.ipm.org/news/2026-04-16/braun-mostly-echoes-trumps-gop-primary-picks-in-redistricting-vote-fallout"],
-  "wiki_2026_insenate": ["2026 Indiana Senate election", "Wikipedia", "2026-10", "https://en.wikipedia.org/wiki/2026_Indiana_Senate_election"],
-  "houldieson_site": ["Scott Houldieson for Indiana State Senate", "Houldieson campaign", "2026-10", "https://www.scott4senate.com/"],
-  "houldieson_about": ["About Scott", "Houldieson campaign", "2026-10", "https://www.scott4senate.com/about"],
-  "houldieson_issues": ["Issues", "Houldieson campaign", "2026-10", "https://www.scott4senate.com/issues"],
-  "devries_site": ["Trevor De Vries for Indiana State Senate", "De Vries campaign", "2026-10", "https://www.trevordv.com/"],
-  "devries_endorse": ["Endorsements", "De Vries campaign", "2026-10", "https://www.trevordv.com/endorsements"],
-  "ivg_devries": ["Trevor G. De Vries – candidate profile and questionnaire", "iVoterGuide", "2026-10", "https://ivoterguide.com/candidate/90398/race/30600/election/1456"]
+  "sr_dernulc": [
+   "Sen. Dan Dernulc (bio and news releases)",
+   "Indiana Senate Republicans",
+   "2026-10",
+   "https://www.indianasenaterepublicans.com/dernulc"
+  ],
+  "wiki_dernulc": [
+   "Dan Dernulc",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/Dan_Dernulc"
+  ],
+  "nbc_sd1_primary": [
+   "Indiana State Senate District 1 Primary Election Results 2026",
+   "NBC News",
+   "2026-05-06",
+   "https://www.nbcnews.com/politics/2026-primary-elections/indiana-state-senate-district-1-results"
+  ],
+  "wlos_redistricting": [
+   "Indiana Senate votes \"NO\" on congressional redistricting",
+   "WLOS (Sinclair)",
+   "2025-12-11",
+   "https://wlos.com/news/nation-world/campaign-2026-vote-for-indiana-congressional-redistricting-underway-congress"
+  ],
+  "sr_dernulc_swatting": [
+   "Statement from State Sen. Dan Dernulc",
+   "Indiana Senate Republicans",
+   "2025-11-19",
+   "https://www.indianasenaterepublicans.com/statement-from-state-sen-dan-dernulc-11-19-2025"
+  ],
+  "sr_sb146": [
+   "Dernulc and Niemeyer author bill to prioritize utility affordability",
+   "Indiana Senate Republicans",
+   "2026-01-23",
+   "https://www.indianasenaterepublicans.com/dernulc-and-niemeyer-author-bill-to-prioritize-utility-affordability"
+  ],
+  "sr_sea119": [
+   "Dernulc's bill expanding efforts to prevent human trafficking and child grooming signed by governor",
+   "Indiana Senate Republicans",
+   "2026-04-29",
+   "https://www.indianasenaterepublicans.com/dernulc-s-bill-expanding-efforts-to-prevent-human-trafficking-and-child-grooming-signed-by-governor"
+  ],
+  "ipm_braun_endorse": [
+   "Braun mostly echoes Trump's GOP primary picks in redistricting vote fallout",
+   "Indiana Capital Chronicle via IPM",
+   "2026-04-16",
+   "https://www.ipm.org/news/2026-04-16/braun-mostly-echoes-trumps-gop-primary-picks-in-redistricting-vote-fallout"
+  ],
+  "wiki_2026_insenate": [
+   "2026 Indiana Senate election",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_Senate_election"
+  ],
+  "houldieson_site": [
+   "Scott Houldieson for Indiana State Senate",
+   "Houldieson campaign",
+   "2026-10",
+   "https://www.scott4senate.com/"
+  ],
+  "houldieson_about": [
+   "About Scott",
+   "Houldieson campaign",
+   "2026-10",
+   "https://www.scott4senate.com/about"
+  ],
+  "houldieson_issues": [
+   "Issues",
+   "Houldieson campaign",
+   "2026-10",
+   "https://www.scott4senate.com/issues"
+  ],
+  "devries_site": [
+   "Trevor De Vries for Indiana State Senate",
+   "De Vries campaign",
+   "2026-10",
+   "https://www.trevordv.com/"
+  ],
+  "devries_endorse": [
+   "Endorsements",
+   "De Vries campaign",
+   "2026-10",
+   "https://www.trevordv.com/endorsements"
+  ],
+  "ivg_devries": [
+   "Trevor G. De Vries – candidate profile and questionnaire",
+   "iVoterGuide",
+   "2026-10",
+   "https://ivoterguide.com/candidate/90398/race/30600/election/1456"
+  ]
  }
 }

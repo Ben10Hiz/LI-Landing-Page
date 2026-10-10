@@ -66,7 +66,7 @@ Campaign website: https://powellforindiana.com
 
 **Health care**
 
-- Attributes rising health costs to "excessive regulations and government interference" and says he would work to cut regulations that raise prices so patients can get care in Indiana rather than in other states [10].
+- Attributes rising health costs to "excessive regulations and government interference" and pledges to work to cut regulations that raise prices so patients can get care in Indiana rather than in other states [10].
 
 **Local government**
 

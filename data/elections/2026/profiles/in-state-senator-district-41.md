@@ -54,7 +54,7 @@ Davis is a three-term state representative from Whiteland (House District 58, si
 
 **Elections & redistricting**
 
-- Voted for the 2025 congressional redistricting bill in the House and said "the Senate should have stepped up and done the right thing for Hoosiers" [4]; argued the previous maps did not reflect that most Hoosiers are conservative [5].
+- Voted for the 2025 congressional redistricting bill in the House and said "the Senate should have stepped up and done the right thing for Hoosiers" [4]; argued the previous maps did not reflect how most Hoosiers vote [5].
 
 **Education**
 
@@ -72,7 +72,7 @@ Davis is a three-term state representative from Whiteland (House District 58, si
 
 ### On the current officeholder
 
-- Said her and Walker's voting records had "key differences" and described herself as the more conservative candidate: "I will always vote for morals and for what the Hoosier families believe in" [4]. No statements about Thomas were found.
+- Said her and Walker's voting records had "key differences" and that she would vote for what she believes Hoosier families support [4]. No statements about Thomas were found.
 
 ### How they say they'd run the office
 

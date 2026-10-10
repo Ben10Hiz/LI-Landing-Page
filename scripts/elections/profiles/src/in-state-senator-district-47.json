@@ -37,11 +37,36 @@
     "Was the only Democrat to file for the seat and is the party's nominee on the November ballot {lpm_feb2026} {in_list}."
    ],
    "positions": [
-    {"topic": "Health care", "items": ["His platform opposes the 2025 Medicaid law (SEA 2), which it says Byrne backed, and calls for limiting further Medicaid work requirements, state support for rural hospitals, and continuous coverage for children and postpartum mothers {esm_priorities}."]},
-    {"topic": "Education", "items": ["Criticizes the 2025 property-tax law for cutting school and pre-K funding; calls for fully funding pre-K, capping child-care costs at 7% of family income, and raising teacher pay {esm_priorities}."]},
-    {"topic": "Housing", "items": ["Supports restricting corporate bulk purchases of single-family homes and creating an implied warranty of habitability for rentals {esm_priorities}."]},
-    {"topic": "Energy & utilities", "items": ["Proposes banning utility reconnection fees, as summarized by a podcast host {hoosleft_esm2}."]},
-    {"topic": "Economy & jobs", "items": ["Supports apprenticeships and clean-energy jobs and notes Indiana has not raised its minimum wage since 2009 {esm_priorities}."]}
+    {
+     "topic": "Health care",
+     "items": [
+      "His platform opposes the 2025 Medicaid law (SEA 2), which it says Byrne backed, and calls for limiting further Medicaid work requirements, state support for rural hospitals, and continuous coverage for children and postpartum mothers {esm_priorities}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Criticizes the 2025 property-tax law for cutting school and pre-K funding; calls for fully funding pre-K, capping child-care costs at 7% of family income, and raising teacher pay {esm_priorities}."
+     ]
+    },
+    {
+     "topic": "Housing",
+     "items": [
+      "Supports restricting corporate bulk purchases of single-family homes and creating an implied warranty of habitability for rentals {esm_priorities}."
+     ]
+    },
+    {
+     "topic": "Energy & utilities",
+     "items": [
+      "Proposes banning utility reconnection fees, as summarized by a podcast host {hoosleft_esm2}."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Supports apprenticeships and clean-energy jobs and notes Indiana has not raised its minimum wage since 2009 {esm_priorities}."
+     ]
+    }
    ],
    "on_incumbent": [
     "Criticizes Byrne's votes for the 2025 property-tax law and for SB 518, which he says would have required public schools to share operating funds with charter schools, as summarized by a podcast host {hoosleft_esm2}.",
@@ -71,16 +96,37 @@
     "Was the only Republican to file for the seat and is the party's nominee on the November ballot {lpm_feb2026} {in_list}."
    ],
    "positions": [
-    {"topic": "Education", "items": ["Authored the 2026 \"success sequence\" law and a 2025 sex-education transparency bill {nbc_sea88} {wndu_consent}."]},
-    {"topic": "Public safety", "items": ["Authored SEA 95 (2025) on recovering police training costs {byrne_sea95}."]},
-    {"topic": "Elections & redistricting", "items": ["Supported 2025 congressional redistricting, saying \"We need to redistrict Indiana, so our congressional votes do not get watered down by Democrat states\" {lpm_redist_before}.", "Authored SEA 287 (2025) allowing party labels in school board races {byrne_sea287}."]},
-    {"topic": "Property taxes", "items": ["Authored SB 8 (2026), saying it \"would make sure the people's voices are heard in how their tax dollars are spent\" on library budgets {byrne_sb8}."]}
+    {
+     "topic": "Education",
+     "items": [
+      "Authored the 2026 \"success sequence\" law and a 2025 sex-education transparency bill {nbc_sea88} {wndu_consent}."
+     ]
+    },
+    {
+     "topic": "Public safety",
+     "items": [
+      "Authored SEA 95 (2025) on recovering police training costs {byrne_sea95}."
+     ]
+    },
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "Supported 2025 congressional redistricting, saying \"We need to redistrict Indiana, so our congressional votes do not get watered down by Democrat states\" {lpm_redist_before}.",
+      "Authored SEA 287 (2025) allowing party labels in school board races {byrne_sea287}."
+     ]
+    },
+    {
+     "topic": "Property taxes",
+     "items": [
+      "Authored SB 8 (2026), saying it \"would make sure the people's voices are heard in how their tax dollars are spent\" on library budgets {byrne_sb8}."
+     ]
+    }
    ],
    "on_incumbent": [
     "Is the current officeholder. No statements by Byrne about Sweetland-May were found {byrne_caucus}."
    ],
    "plans": [
-    "In 2022, he listed his priorities as stopping what he called indoctrination of children in schools, reining in unelected bureaucrats, and election integrity including paper ballots {wave_2022}."
+    "In 2022, he listed his priorities as limiting what he described as political content in school instruction, reining in unelected bureaucrats, and election integrity including paper ballots {wave_2022}."
    ],
    "endorsements_finance": [
     "In 2022 he said he accepted no lobbyist or PAC money {wave_2022}. His caucus biography lists a 2022 Champion for Life award from Indiana Right to Life {byrne_caucus}."
@@ -94,24 +140,119 @@
   }
  ],
  "sources": {
-  "wiki_byrne": ["Gary Byrne (politician)", "Wikipedia", "accessed 2026-10-10", "https://en.wikipedia.org/wiki/Gary_Byrne_(politician)"],
-  "byrne_caucus": ["Sen. Gary Byrne biography and news releases", "Indiana Senate Republicans", "accessed 2026-10-10", "https://www.indianasenaterepublicans.com/byrne"],
-  "byrne_sea95": ["Byrne's public safety bill heads to governor's desk", "Indiana Senate Republicans", "2025-03-25", "https://indianasenaterepublicans.com/byrne-s-public-safety-bill-heads-to-governor-s-desk"],
-  "wndu_consent": ["Requirement to teach consent returns to sex education bill at Indiana Statehouse", "WNDU", "2025-04-23", "https://www.wndu.com/2025/04/23/requirement-teach-consent-returns-sex-education-bill-indiana-statehouse/"],
-  "byrne_sea287": ["Byrne: Governor Signs SEA 287 (2025)", "Indiana Senate Republicans", "2025-05-07", "https://www.indianasenaterepublicans.com/byrne-governor-signs-sea-287-2025"],
-  "chalkbeat_sea287": ["Indiana bill to allow party affiliation in school board elections heads to governor's desk", "Chalkbeat Indiana", "2025-04-24", "https://www.chalkbeat.org/indiana/2025/04/24/partisan-school-board-election-bill-passes"],
-  "byrne_redistricting": ["Statement from State Sen. Gary Byrne on redistricting", "Indiana Senate Republicans", "2025-10-27", "https://www.indianasenaterepublicans.com/statement-from-state-sen-gary-byrne-on-redistricting"],
-  "bt50_byrne": ["Gary Byrne legislator scorecard", "BillTrack50", "accessed 2026-10-10", "https://www.billtrack50.com/public/scorecard/legislator/TNvEht1gV0ilLkxyi9h0rQ/26209"],
-  "wish_rollcall": ["How senators voted in keeping Indiana's congressional map unchanged", "WISH-TV", "2025-12-11", "https://www.wishtv.com/news/politics/how-senators-voted-in-keeping-indianas-congressional-map-unchanged/"],
-  "lpm_redist_after": ["Southern Indiana lawmakers speak out on failed redistricting vote", "Louisville Public Media", "2025-12-12", "https://www.lpm.org/news/2025-12-12/southern-indiana-lawmakers-speak-out-on-failed-redistricting-vote"],
-  "lpm_redist_before": ["State lawmakers representing Southern Indiana split on redistricting", "Louisville Public Media", "2025-12-04", "https://www.lpm.org/news/2025-12-04/state-lawmakers-representing-southern-indiana-split-on-redistricting"],
-  "nbc_sea88": ["A bill to require schools to promote marriage before having kids has divided Indiana", "NBC News", "2026-02-05", "https://www.nbcnews.com/news/us-news/indiana-divided-bill-requiring-schools-promote-marriage-kids-rcna257393"],
-  "byrne_sb8": ["Byrne authors bill to require more oversight of library budgets", "Indiana Senate Republicans", "2026-01-27", "https://www.indianasenaterepublicans.com/byrne-authors-bill-to-require-more-oversight-of-library-budgets"],
-  "lpm_feb2026": ["2026 primary elections: Here's who's running in Clark, Floyd Counties", "Louisville Public Media", "2026-02-09", "https://www.lpm.org/news/2026-02-09/2026-primary-elections-heres-whos-running-in-clark-floyd-counties"],
-  "lpm_jan2026": ["Here's who's filed for the primary in Southern Indiana so far", "Louisville Public Media", "2026-01-15", "https://www.lpm.org/news/2026-01-15/heres-whos-filed-for-the-primary-in-southern-indiana-so-far"],
-  "wave_2022": ["Redistricted Indiana 47th pits two incumbent state senators in the primary", "WAVE", "2022-05-02", "https://www.wdrbwave.com/2022/05/02/redistricted-indiana-47th-pits-two-incumbent-state-senators-primary"],
-  "esm_home": ["Sweetland-May for Indiana Senate District 47", "Ethan Sweetland-May campaign", "accessed 2026-10-10", "https://www.ethanforstatesenate.com/"],
-  "esm_priorities": ["Priorities", "Ethan Sweetland-May campaign", "accessed 2026-10-10", "https://www.ethanforstatesenate.com/priorities"],
-  "hoosleft_esm2": ["HoosLeft Podcast #146 - LIVE w/ Ethan Sweetland-May for SD47", "Progressive Indiana Network", "2026-09-30", "https://www.progressiveindiana.net/p/hoosleft-podcast-live-w-ethan-sweetland"]
+  "wiki_byrne": [
+   "Gary Byrne (politician)",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/Gary_Byrne_(politician)"
+  ],
+  "byrne_caucus": [
+   "Sen. Gary Byrne biography and news releases",
+   "Indiana Senate Republicans",
+   "accessed 2026-10-10",
+   "https://www.indianasenaterepublicans.com/byrne"
+  ],
+  "byrne_sea95": [
+   "Byrne's public safety bill heads to governor's desk",
+   "Indiana Senate Republicans",
+   "2025-03-25",
+   "https://indianasenaterepublicans.com/byrne-s-public-safety-bill-heads-to-governor-s-desk"
+  ],
+  "wndu_consent": [
+   "Requirement to teach consent returns to sex education bill at Indiana Statehouse",
+   "WNDU",
+   "2025-04-23",
+   "https://www.wndu.com/2025/04/23/requirement-teach-consent-returns-sex-education-bill-indiana-statehouse/"
+  ],
+  "byrne_sea287": [
+   "Byrne: Governor Signs SEA 287 (2025)",
+   "Indiana Senate Republicans",
+   "2025-05-07",
+   "https://www.indianasenaterepublicans.com/byrne-governor-signs-sea-287-2025"
+  ],
+  "chalkbeat_sea287": [
+   "Indiana bill to allow party affiliation in school board elections heads to governor's desk",
+   "Chalkbeat Indiana",
+   "2025-04-24",
+   "https://www.chalkbeat.org/indiana/2025/04/24/partisan-school-board-election-bill-passes"
+  ],
+  "byrne_redistricting": [
+   "Statement from State Sen. Gary Byrne on redistricting",
+   "Indiana Senate Republicans",
+   "2025-10-27",
+   "https://www.indianasenaterepublicans.com/statement-from-state-sen-gary-byrne-on-redistricting"
+  ],
+  "bt50_byrne": [
+   "Gary Byrne legislator scorecard",
+   "BillTrack50",
+   "accessed 2026-10-10",
+   "https://www.billtrack50.com/public/scorecard/legislator/TNvEht1gV0ilLkxyi9h0rQ/26209"
+  ],
+  "wish_rollcall": [
+   "How senators voted in keeping Indiana's congressional map unchanged",
+   "WISH-TV",
+   "2025-12-11",
+   "https://www.wishtv.com/news/politics/how-senators-voted-in-keeping-indianas-congressional-map-unchanged/"
+  ],
+  "lpm_redist_after": [
+   "Southern Indiana lawmakers speak out on failed redistricting vote",
+   "Louisville Public Media",
+   "2025-12-12",
+   "https://www.lpm.org/news/2025-12-12/southern-indiana-lawmakers-speak-out-on-failed-redistricting-vote"
+  ],
+  "lpm_redist_before": [
+   "State lawmakers representing Southern Indiana split on redistricting",
+   "Louisville Public Media",
+   "2025-12-04",
+   "https://www.lpm.org/news/2025-12-04/state-lawmakers-representing-southern-indiana-split-on-redistricting"
+  ],
+  "nbc_sea88": [
+   "A bill to require schools to promote marriage before having kids has divided Indiana",
+   "NBC News",
+   "2026-02-05",
+   "https://www.nbcnews.com/news/us-news/indiana-divided-bill-requiring-schools-promote-marriage-kids-rcna257393"
+  ],
+  "byrne_sb8": [
+   "Byrne authors bill to require more oversight of library budgets",
+   "Indiana Senate Republicans",
+   "2026-01-27",
+   "https://www.indianasenaterepublicans.com/byrne-authors-bill-to-require-more-oversight-of-library-budgets"
+  ],
+  "lpm_feb2026": [
+   "2026 primary elections: Here's who's running in Clark, Floyd Counties",
+   "Louisville Public Media",
+   "2026-02-09",
+   "https://www.lpm.org/news/2026-02-09/2026-primary-elections-heres-whos-running-in-clark-floyd-counties"
+  ],
+  "lpm_jan2026": [
+   "Here's who's filed for the primary in Southern Indiana so far",
+   "Louisville Public Media",
+   "2026-01-15",
+   "https://www.lpm.org/news/2026-01-15/heres-whos-filed-for-the-primary-in-southern-indiana-so-far"
+  ],
+  "wave_2022": [
+   "Redistricted Indiana 47th pits two incumbent state senators in the primary",
+   "WAVE",
+   "2022-05-02",
+   "https://www.wdrbwave.com/2022/05/02/redistricted-indiana-47th-pits-two-incumbent-state-senators-primary"
+  ],
+  "esm_home": [
+   "Sweetland-May for Indiana Senate District 47",
+   "Ethan Sweetland-May campaign",
+   "accessed 2026-10-10",
+   "https://www.ethanforstatesenate.com/"
+  ],
+  "esm_priorities": [
+   "Priorities",
+   "Ethan Sweetland-May campaign",
+   "accessed 2026-10-10",
+   "https://www.ethanforstatesenate.com/priorities"
+  ],
+  "hoosleft_esm2": [
+   "HoosLeft Podcast #146 - LIVE w/ Ethan Sweetland-May for SD47",
+   "Progressive Indiana Network",
+   "2026-09-30",
+   "https://www.progressiveindiana.net/p/hoosleft-podcast-live-w-ethan-sweetland"
+  ]
  }
 }

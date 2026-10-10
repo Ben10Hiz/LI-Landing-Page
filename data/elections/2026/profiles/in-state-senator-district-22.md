@@ -25,19 +25,18 @@ Sen. Ron Alting, first elected in 1998 and chair of the Senate Public Policy Com
 
 - Committees: The Senate Republican caucus lists him as chair of Public Policy and a member of Insurance and Financial Institutions [3].
 - 2025: Voted against SB 1, the 2025 property-tax law, saying it was 'not a solution that provides meaningful tax relief for Hoosiers' and that relief should not become an excuse for growth in local income taxes [6].
-- Dec. 2025: Supported the GOP-backed mid-decade congressional redistricting proposal, which the Senate defeated; IPM reported he has at times voted against conservative-backed measures such as the 2022 near-total abortion ban bill [7].
+- Dec. 2025: Supported the mid-decade congressional redistricting proposal, which the Senate defeated; IPM reported he has at times voted against his party's majority, including on the 2022 near-total abortion ban bill [7].
 - 2026 session: According to the Senate Republican caucus, he authored a bill banning vaping products made in foreign adversarial nations such as China, signed March 12 and effective July 1, and a bill coupling Indiana's tax code to federal 'no tax on tips' and 'no tax on overtime' provisions that passed the Senate 47–1 on Jan. 28 [3].
 - Oct. 2026: The Lafayette Journal & Courier reported, citing a source, that Alting is accused of shoplifting from a Lafayette Walmart on Sept. 22 and a Monticello Walmart on Oct. 1; Elkhart County Prosecutor Vicki Becker was appointed special prosecutor to review possible charges, and no charges had been filed [5, 4].
 - Oct. 2026 response: Alting said he has been 'experiencing concerning changes in my judgment and cognitive functioning,' is undergoing medical evaluation and treatment, takes responsibility, apologized to his family, constituents, and store employees, and is 'stepping back from actively campaigning' [4, 5].
-- Oct. 2026: Incoming Senate President Pro Tem Chris Garten called the allegations 'troubling' and said they 'should be taken seriously,' and a spokesperson for current Pro Tem Rodric Bray said he would not comment on a pending legal matter, according to the Hoosier Enquirer [8].
 
 ## This race
 
 - The Senate Republican caucus describes District 22 as Carroll County and portions of Tippecanoe County [3].
-- Republican primary (May 5, 2026): Alting 4,954 (59.1%) over Richard Bagsby 3,424 (40.9%); Democratic primary: Natasha Baker 3,554 (62.1%) over Marlena Edmondson 2,045, per Wikipedia's results compilation [9].
-- Trump endorsed Alting in March 2026, while Bagsby, who argued he was more conservative than Alting, had the backing of Lt. Gov. Micah Beckwith [7].
+- Republican primary (May 5, 2026): Alting 4,954 (59.1%) over Richard Bagsby 3,424 (40.9%); Democratic primary: Natasha Baker 3,554 (62.1%) over Marlena Edmondson 2,045, per Wikipedia's results compilation [8].
+- Trump endorsed Alting in March 2026; primary challenger Bagsby, who criticized Alting's voting record, had the backing of Lt. Gov. Micah Beckwith [7].
 - In an Oct. 1, 2026 Journal & Courier Q&A, both candidates opposed shifting the tax burden from property taxes to local income taxes; they differed on the gas tax, with Alting favoring removing the sales tax on gas and Baker favoring reinstating the gas tax to fund roads [6].
-- Alting's Oct. 2026 statement that he is stepping back from active campaigning came less than a month before the Nov. 3 election; available reports did not say whether his name will remain on the ballot [4].
+- Alting's Oct. 2026 statement that he is stepping back from active campaigning came less than a month before the Nov. 3 election [4]; his name remains on the state's official general-election candidate list [2].
 - No debate or forum between the candidates was found in available coverage.
 
 ## Ron Alting
@@ -51,7 +50,7 @@ Ron Alting is the incumbent Republican, first elected in 1998 and a former Lafay
 
 ### Path to the ballot
 
-- Won the May 5, 2026 Republican primary with 59.1% over Richard Bagsby, per Wikipedia's results compilation [9].
+- Won the May 5, 2026 Republican primary with 59.1% over Richard Bagsby, per Wikipedia's results compilation [8].
 
 ### Positions & plans
 
@@ -74,7 +73,7 @@ Ron Alting is the incumbent Republican, first elected in 1998 and a former Lafay
 ### Endorsements & fundraising
 
 - Endorsed by President Trump in March 2026 [7].
-- Wikipedia lists endorsements from Indiana Farm Bureau's AgELECT PAC and the NRA Political Victory Fund [9].
+- Wikipedia lists endorsements from Indiana Farm Bureau's AgELECT PAC and the NRA Political Victory Fund [8].
 
 ### What we couldn't verify
 
@@ -84,21 +83,22 @@ Ron Alting is the incumbent Republican, first elected in 1998 and a former Lafay
 - Search snippets (Wikipedia, citing a Reddit post) said he will not withdraw or resign; not verified.
 - His Monticello residence (reported by the J&C) versus the caucus's 'R-Lafayette' designation was not explained in available sources.
 - No fundraising totals found; the state campaign finance portal was not reviewed.
+- A Hoosier Enquirer report counted more theft cases than other outlets and quoted Senate leaders and his opponent; those details are not included because they could not be confirmed elsewhere.
 
 ## Natasha Baker
 
-Natasha Baker is a public school Family and Consumer Sciences teacher from Battle Ground who has not held public office and who won the Democratic primary over Marlena Edmondson [10, 6, 9].
+Natasha Baker is a public school Family and Consumer Sciences teacher from Battle Ground who has not held public office and who won the Democratic primary over Marlena Edmondson [9, 6, 8].
 
 Campaign website: https://electnatashabaker.org
 
 ### Background
 
-- According to her campaign, she is a graduate of Harrison High School and Purdue University and a public school Family and Consumer Sciences teacher [10].
+- According to her campaign, she is a graduate of Harrison High School and Purdue University and a public school Family and Consumer Sciences teacher [9].
 - The Journal & Courier reported she is 34, lives in Battle Ground, and has held no prior public office [6].
 
 ### Path to the ballot
 
-- Won the May 5, 2026 Democratic primary with 3,554 votes (62.1%) over Marlena Edmondson, per Wikipedia's results compilation [9].
+- Won the May 5, 2026 Democratic primary with 3,554 votes (62.1%) over Marlena Edmondson, per Wikipedia's results compilation [8].
 
 ### Positions & plans
 
@@ -112,28 +112,28 @@ Campaign website: https://electnatashabaker.org
 
 **Education**
 
-- Her campaign says she is committed to protecting and strengthening public schools [10].
-- A podcast interview description said she discussed public schools needing 'real investment, not political games' [11].
+- Her campaign says she is committed to protecting and strengthening public schools [9].
+- A podcast interview description said she discussed public schools needing 'real investment, not political games' [10].
 
 **Economy & jobs**
 
-- Her campaign says she will push for policies that keep groceries, child care, and housing affordable and expand access to fresh, nutritious food [10].
+- Her campaign says she will push for policies that keep groceries, child care, and housing affordable and expand access to fresh, nutritious food [9].
 
 **Health care**
 
-- A podcast interview description said she discussed gaps in health care access in rural and urban communities [11].
+- A podcast interview description said she discussed gaps in health care access in rural and urban communities [10].
 
 ### On the current officeholder
 
-- After the shoplifting allegations were reported, she said: 'I wish Senator Alting and his family well as they navigate these difficult times and the next chapter in their lives,' according to the Hoosier Enquirer [8].
+- No statements about the incumbent were found in sources that could be confirmed.
 
 ### How they say they'd run the office
 
-- Her campaign describes its theme as putting Hoosier families at the center of state policy [10].
+- Her campaign describes its theme as putting Hoosier families at the center of state policy [9].
 
 ### Endorsements & fundraising
 
-- iVoterGuide lists endorsements from the Indiana Reproductive Freedom PAC and MADVoters [12].
+- iVoterGuide lists endorsements from the Indiana Reproductive Freedom PAC and MADVoters [11].
 
 ### What we couldn't verify
 
@@ -152,8 +152,7 @@ Campaign website: https://electnatashabaker.org
 5. [Source: Alting accused of 2 recent Walmart shoplifting incidents](https://www.inkfreenews.com/2026/10/08/source-alting-accused-of-2-recent-walmart-shoplifting-incidents/) — Lafayette Journal & Courier via InkFreeNews, 2026-10-08
 6. [Local teacher challenges longtime incumbent for Senate District 22](https://www.yahoo.com/news/politics/articles/local-teacher-challenges-longtime-incumbent-090151438.html) — Lafayette Journal & Courier via Yahoo News, 2026-10-01
 7. [Trump endorses Sen. Liz Brown, other Republicans who supported Indiana redistricting](https://www.ipm.org/news/2026-03-25/trump-endorses-sen-liz-brown-other-republicans-who-supported-indiana-redistricting) — Indiana Capital Chronicle via IPM, 2026-03-25
-8. [Six Lafayette theft cases now linked to Sen. Ron Alting. Senate leaders still won't say whether he keeps his gavel.](https://www.hoosierenquirer.com/post/six-lafayette-theft-cases-now-linked-to-sen-ron-alting-senate-leaders-still-won-t-say-whether-he-k) — Hoosier Enquirer, 2026-10
-9. [2026 Indiana Senate election](https://en.wikipedia.org/wiki/2026_Indiana_Senate_election) — Wikipedia, accessed 2026-10-10
-10. [Natasha Baker for Indiana Senate](https://electnatashabaker.org) — Baker campaign site, accessed 2026-10-10
-11. [A Conversation with Natasha Baker](https://therecoveredrepublican.substack.com/p/a-conversation-with-natasha-baker) — The Recovered Republican (podcast), 2026-01-10
-12. [Natasha Baker candidate profile](https://ivoterguide.com/candidate/94330/race/30621/election/1456) — iVoterGuide, accessed 2026-10-10
+8. [2026 Indiana Senate election](https://en.wikipedia.org/wiki/2026_Indiana_Senate_election) — Wikipedia, accessed 2026-10-10
+9. [Natasha Baker for Indiana Senate](https://electnatashabaker.org) — Baker campaign site, accessed 2026-10-10
+10. [A Conversation with Natasha Baker](https://therecoveredrepublican.substack.com/p/a-conversation-with-natasha-baker) — The Recovered Republican (podcast), 2026-01-10
+11. [Natasha Baker candidate profile](https://ivoterguide.com/candidate/94330/race/30621/election/1456) — iVoterGuide, accessed 2026-10-10

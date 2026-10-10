@@ -1,0 +1,173 @@
+# Indiana State Senator — 2026 race profile
+
+_Researched 2026-10-10 · status: draft._ Pending editorial review.
+
+## About the office
+
+Members of the Indiana Senate write and vote on state laws as part of the Indiana General Assembly. The Senate has 50 members, each representing one district for a four-year term; about half the seats are elected every two years [1].
+
+- **Term:** 4 years [1]
+- **Term limit:** None [1]
+- **Seats:** 50 [1]
+- **On the 2026 ballot:** 25 districts [2]
+
+### What the office does
+
+- Introduces and votes on state legislation as one of the two chambers of the Indiana General Assembly [1].
+- Must be at least 25 years old when taking office and have lived in the district for at least a year, under Article 4 of the Indiana Constitution [1].
+
+### Recent changes to the office
+
+
+## Current officeholder: J. D. Ford (Democratic)
+
+J.D. Ford, a Democrat, was elected to Senate District 29 in 2018 [3, 4]. He is not seeking reelection because he is running for Indiana's 5th Congressional District, leaving the seat open [3, 5].
+
+- 2018 and 2022: Won the seat in 2018 over Republican incumbent Mike Delph, 57% to 43%, and was reelected in 2022 with about 52% over Republican Alex Choi, according to Wikipedia [6, 7].
+- December 11, 2025: All 10 Senate Democrats, including Ford, voted against the mid-decade congressional redistricting bill, which failed 31-19 [5].
+- February 2026: During debate on social media limits for minors (HEA 1408), questioned whether Snapchat would be covered, calling it "one of the most egregious social media platforms" [8].
+- January 14, 2026: Launched a campaign against U.S. Rep. Victoria Spartz in the 5th Congressional District, saying, "I couldn't stand by the sidelines anymore"; WFYI reported that the decision was inspired by the redistricting dispute [3].
+
+## This race
+
+- Senate District 29 includes parts of Carmel, Zionsville and Indianapolis, including portions of Pike and Wayne townships in Marion County [4, 7].
+- This is an open seat because Democratic Sen. J.D. Ford is running for Congress [3, 7]. Mirror Indy described the district as competitive, noting that it was mostly held by Republicans before Ford and that he won reelection in 2022 with 51.7% [7].
+- In the May 5, 2026 Republican primary, John Ruckelshaus won 3,334 votes (49.1%) to former Sen. Mike Delph's 2,946 (43.4%) and V. Roni Ford's 512 (7.5%), according to Wikipedia's results table [5]. Mirror Indy's election-night count showed similar shares [7].
+- In the Democratic primary, Kristina Moorhead won 5,385 votes (51.1%) over Demetrice Hicks, David W. Greene and Kevin Short, according to Wikipedia's results table; Mirror Indy reported about 52% with 89% of votes counted [5, 7].
+- No general-election debate or forum between Ruckelshaus and Moorhead was found in available coverage as of October 10, 2026.
+- Both nominees name affordability and property taxes as priorities; Moorhead also emphasizes health care, public school funding and reproductive health care, while Ruckelshaus has emphasized health care and property taxes [9, 10].
+
+## John Ruckelshaus
+
+John Ruckelshaus, the Republican nominee from Carmel, previously served in the Indiana House (1990–1992) and the Indiana Senate's 30th District (2016–2020) [7, 11].
+
+Campaign website: https://ruckv2.lovable.app/about
+
+### Background
+
+- Lives in Carmel and previously represented Senate District 30 on Indianapolis's north side [7].
+- Served in the Indiana House from the 49th District from 1990 to 1992 and in the Indiana Senate from the 30th District from 2016 to 2020, when he was succeeded by Democrat Fady Qaddoura, according to Wikipedia [11].
+- Indiana Insight described him as having ties to the Indianapolis business community [10].
+
+### Path to the ballot
+
+- Won the May 5, 2026 Republican primary with 49.1% over former Sen. Mike Delph (43.4%) and V. Roni Ford (7.5%), according to Wikipedia's results table [5].
+
+### Positions & plans
+
+**Economy & jobs**
+
+- His campaign says "affordability isn't a Republican issue or a Democrat issue — it's a family issue" and that he is focused on "practical results that help working families get ahead," including housing, food, retirement savings and opportunities for children [12].
+
+**Property taxes**
+
+- Indiana Insight reported that he emphasizes property taxes and health care [10].
+
+**Health care**
+
+- Indiana Insight reported that he emphasizes health care and has broken with the Indiana State Medical Association; the article did not specify the issue [10].
+
+**Elections & redistricting**
+
+- Publicly opposed mid-decade congressional redistricting, according to Indiana Insight [10].
+
+### On the current officeholder
+
+- His campaign describes him as "a proven leader who puts people before politics" [12].
+- Indiana Insight reported that he highlights his ability to work with Democrats [10].
+
+### How they say they'd run the office
+
+- His campaign site lists affordability for families in small towns, suburbs and cities as its focus but gives no detailed legislative proposals [12].
+
+### Endorsements & fundraising
+
+- Had $151,984 in cash on hand at the end of 2025, compared with $37,917 for primary rival Mike Delph, according to Indiana Insight [10].
+- Wikipedia's race page lists endorsements from former Gov. Mitch Daniels and the Indiana Chamber of Commerce in the primary and from the Indiana Farm Bureau's AgELECT PAC after the primary [5].
+
+### What we couldn't verify
+
+- Current Publishing's February and April 2026 articles on his campaign and the IndyStar's April 2026 race story could not be accessed; search snippets said his priorities include responsibly lowering property taxes, expanding vocational education in every high school and serving Hoosiers with disabilities, and that he cited crime in Marion County as a reason to run. These are unverified.
+- Dates of his earlier Senate service differ by source: Wikipedia says 2016–2020, a Current snippet said 2017–21, and Indiana Insight wrote that he lost the seat in 2022 (Wikipedia and other sources indicate 2020).
+- His campaign website is hosted on a lovable.app address with a 'Paid for by Hoosiers for Ruckelshaus' line; no other campaign domain was found.
+- No post-primary campaign finance figures were found.
+
+## Kristina Moorhead
+
+Kristina Moorhead, the Democratic nominee from Carmel, is a health-policy professional and former deputy director of the Indiana Office of Medicaid Policy and Planning [13, 9].
+
+Campaign website: https://kristinamoorhead.com
+
+### Background
+
+- Has worked in health advocacy on family caregiving, Medicaid and health care affordability, including policy work in 23 states in government, with AARP, in the private sector and as a consultant [13, 9].
+- Served as deputy director of the Indiana Office of Medicaid Policy and Planning, according to her campaign [9].
+- Holds a master's degree in public affairs from Indiana University–Indianapolis and a bachelor's degree in communications from Ball State University [13].
+- Lives in Carmel [13].
+
+### Path to the ballot
+
+- Announced her campaign on January 16, 2026, days after Ford announced his congressional run [13].
+- Won the May 5, 2026 Democratic primary with 51.1% over Demetrice Hicks, David W. Greene and Kevin Short, according to Wikipedia's results table [5, 7].
+
+### Positions & plans
+
+**Property taxes**
+
+- Says families are struggling with groceries, property taxes, utilities and child care and pledges to "lower everyday costs" [9].
+
+**Education**
+
+- Supports fully funding K-12 and higher education [9].
+
+**Health care**
+
+- Cites her Medicaid experience in designing state programs and argues that "Shortsighted cuts may look good on paper" but cost families and taxpayers more over time [9].
+- Supports access to abortion, contraception, fertility treatment and maternal health care [9].
+
+**Economy & jobs**
+
+- Wants to attract businesses without harming the environment or relying on jobs that do not pay a living wage, and wants to keep young Hoosiers in Indiana [9, 13].
+
+**Government**
+
+- Expresses concern about blurred lines between state and federal authority and between the legislative and executive branches [9].
+
+### On the current officeholder
+
+- Said of Ford, "He has set a powerful example of leadership" [13].
+- Described her campaign as "centered on listening, collaboration, and real solutions for the people of District 29" [14].
+
+### How they say they'd run the office
+
+- Her announcement listed lowering the cost of necessities, restoring accountable leadership at the Statehouse and keeping young Hoosiers in Indiana among her goals [13].
+
+### Endorsements & fundraising
+
+- Her campaign lists endorsements from the Indiana Chamber of Commerce (March 30, 2026), state Rep. Blake Johnson (D-Indianapolis) and former Carmel City Councilor Miles Nelson [9, 14].
+- Endorsed in the primary by the OneZone Business Action Committee, whose spokesperson, OneZone Chamber President Jack Russell, said she brings "a thoughtful, solutions-oriented approach to public policy" [15].
+
+### What we couldn't verify
+
+- No campaign finance totals were found.
+- Search snippets said she worked as an Indiana lobbyist for PhRMA and that data-center standards are among her priorities; these were not confirmed on a fetched page.
+- The Indiana Chamber of Commerce endorsement appears on both sides: Moorhead's site lists it, and Wikipedia (citing the IndyStar) lists it for Ruckelshaus in the GOP primary. The Chamber's own list was not checked.
+- No statements by Moorhead about Ruckelshaus were found.
+
+## Sources
+
+1. [Indiana Senate](https://en.wikipedia.org/wiki/Indiana_Senate) — Wikipedia, accessed 2026-10-10
+2. [2026 General Election Candidate List](https://www.in.gov/sos/elections/candidate-information/) — Indiana Election Division, 2026-09-22
+3. [J.D. Ford announces run for Congress against Spartz in 5th District](https://www.wfyi.org/news/articles/jd-ford-announces-congress-run-spartz-5th-district-redistricting) — WFYI, 2026-01-14
+4. [State Senator J.D. Ford, District 29](https://www.indianasenatedemocrats.org/senators/s29) — Indiana Senate Democrats, 2026-10-10
+5. [2026 Indiana Senate election](https://en.wikipedia.org/wiki/2026_Indiana_Senate_election) — Wikipedia, 2026-10-10
+6. [J. D. Ford](https://en.wikipedia.org/wiki/J._D._Ford) — Wikipedia, 2026-10-10
+7. [Moorhead wins in Senate District 29 Democratic primary](https://mirrorindy.org/indiana-senate-district-29-primary-election-results-mike-deph-john-ruckelshaus-david-greene/) — Mirror Indy, 2026-05-05
+8. [Indiana youth social media crackdown advances to governor's desk](https://indianapublicradio.org/news/2026/02/indiana-youth-social-media-crackdown-advances-to-governors-desk/) — Indiana Capital Chronicle via Indiana Public Radio, 2026-02-27
+9. [Kristina Moorhead for Indiana State Senate](https://kristinamoorhead.com) — Moorhead campaign, 2026-10-10
+10. [A primary like no other](https://www.indianainsight.com/2026/02/20/a-primary-like-no-other/) — Indiana Insight, 2026-02-20
+11. [John Ruckelshaus](https://en.wikipedia.org/wiki/John_Ruckelshaus) — Wikipedia, 2026-10-10
+12. [John Ruckelshaus for State Senate: About](https://ruckv2.lovable.app/about) — Hoosiers for Ruckelshaus, 2026-10-10
+13. [Moorhead announces campaign for Indiana Senate District 29](https://readthereporter.com/moorhead-announces-campaign-for-indiana-senate-district-29/) — The Reporter (Hamilton County), 2026-01-20
+14. [Miles Nelson endorses Kristina Moorhead for Indiana Senate District 29](https://readthereporter.com/?p=186237) — The Reporter (Hamilton County), 2026-04-03
+15. [OneZone Business Action Committee endorses Democrat Kristina Moorhead for Indiana State Senate](https://readthereporter.com/?p=190817) — The Reporter (Hamilton County), 2026-04-08

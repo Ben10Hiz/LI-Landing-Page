@@ -55,7 +55,7 @@
    "background": [
     "Physician; his BallotReady profile lists him as executive vice president of medical affairs at CCI Anesthesia (2023–present), chief anesthesiologist and medical director of the operating room at Unity Physicians Hospital (2021–present), and owner of Anesthesia Consulting and Clinical Specialists (2018–present). [10]",
     "First run for office; he told WNDU that COVID-era shutdowns, elective-surgery restrictions, and mask and vaccine mandates first drew him into politics, and that his grandfather was a state senator in the 1960s and 1970s. [5]",
-    "Announced his campaign in January 2026, describing himself as \"Christian first, conservative second, Republican when the party reflects Christian conservative values\"; his family participates in hybrid homeschooling. [9]"
+    "Announced his campaign in January 2026, citing school choice and property taxes as priorities [9]."
    ],
    "path_to_ballot": [
     "Won the May 5, 2026 Republican primary over incumbent Linda Rogers, 5,461 votes to 3,758 in unofficial results. [4]",
@@ -126,19 +126,18 @@
    "summary": "Gabrianna Gratzol is a plastics-plant worker and first-time candidate who was unopposed for the Democratic nomination. [8, 1]",
    "website": "https://www.gabriannagratzolforsenatedistrict11.org/",
    "background": [
-    "Describes herself as a \"working-class wife, mother, and Hoosier.\" [12]",
-    "A Progressive Indiana Network profile reports she has worked in retail, residential behavioral health with teens, with children with autism, at a plastics manufacturing plant alongside her husband, and at the nonprofit health organization Beacon. [8]",
-    "The St. Joseph County Democratic Party lists her among its 2026 candidates. [13]"
+    "A profile by the Progressive Indiana Network, an advocacy group, reports she has worked in retail, residential behavioral health with teens, with children with autism, at a plastics manufacturing plant, and at the nonprofit health organization Beacon. [8]",
+    "The St. Joseph County Democratic Party lists her among its 2026 candidates. [12]"
    ],
    "path_to_ballot": [
     "Was the only candidate in the May 5, 2026 Democratic primary, receiving 4,577 votes. [1]",
-    "Announced as a challenger to Rogers by January 2026. [14]"
+    "Announced as a challenger to Rogers by January 2026. [13]"
    ],
    "positions": [
     {
      "topic": "Economy & jobs",
      "items": [
-      "The St. Joseph County Democratic Party says she supports a $15-per-hour living wage and strong labor unions. [13]",
+      "The St. Joseph County Democratic Party says she supports a $15-per-hour living wage and strong labor unions. [12]",
       "Supports protecting unions and adjusting corporate tax policy so companies that underpay workers are held responsible, according to Progressive Indiana. [8]"
      ]
     },
@@ -152,7 +151,7 @@
      "topic": "Education",
      "items": [
       "Supports funding public schools and opposes the expansion of private school vouchers, particularly the removal of income caps. [8]",
-      "Opposed Rogers' bill to replace the elected South Bend school board, saying action is needed to improve public schools but removing locally elected members is not the answer. [14]"
+      "Opposed Rogers' bill to replace the elected South Bend school board, saying action is needed to improve public schools but removing locally elected members is not the answer. [13]"
      ]
     },
     {
@@ -181,12 +180,12 @@
     }
    ],
    "on_incumbent": [
-    "Criticized Rogers' 2026 South Bend school board bill as \"justification for government overreach\" and linked it to a charter-school operator who she said donated to Rogers. [14]",
+    "Criticized Rogers' 2026 South Bend school board bill as \"justification for government overreach\" and linked it to a charter-school operator who she said donated to Rogers. [13]",
     "Progressive Indiana reports she credited Rogers for work on firefighter health benefits, for pulling the school board bill after public feedback, and for voting against redistricting maps she believed were wrong. [8]",
-    "Says the Senate is made up of people \"who employ other people\" and argues it needs more working people and parents. [8, 12]"
+    "Says the Senate is made up of people \"who employ other people\" and argues it needs more working people and parents. [8, 14]"
    ],
    "plans": [
-    "Campaign site lists public education, worker protections and affordability as priorities. [12]"
+    "Campaign site lists public education, worker protections and affordability as priorities. [14]"
    ],
    "endorsements_finance": [],
    "gaps": [
@@ -280,24 +279,24 @@
   },
   {
    "id": 12,
-   "title": "Gabrianna Gratzol for Senate District 11 (campaign website)",
-   "publisher": "Gabrianna Gratzol campaign",
-   "date": "2026",
-   "url": "https://www.gabriannagratzolforsenatedistrict11.org/"
-  },
-  {
-   "id": 13,
    "title": "2026 Candidates",
    "publisher": "St. Joseph County Democratic Party",
    "date": "2026",
    "url": "https://www.stjoedemocrats.org/2026-candidates-1"
   },
   {
-   "id": 14,
+   "id": 13,
    "title": "Rogers' opponent says Clay High controversy behind state takeover",
    "publisher": "WVPE",
    "date": "2026-01-09",
    "url": "https://www.wvpe.org/wvpe-news/2026-01-09/rogers-opponent-says-clay-high-controversy-behind-state-takeover"
+  },
+  {
+   "id": 14,
+   "title": "Gabrianna Gratzol for Senate District 11 (campaign website)",
+   "publisher": "Gabrianna Gratzol campaign",
+   "date": "2026",
+   "url": "https://www.gabriannagratzolforsenatedistrict11.org/"
   }
  ]
 }

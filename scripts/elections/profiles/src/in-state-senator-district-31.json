@@ -17,8 +17,8 @@
  "race_context": [
   "Senate District 31 includes parts of Hamilton, Hancock and Marion counties, more than 135,000 residents, according to WRTV {wrtv_forestal}; WFYI describes it as Fishers, parts of northern Lawrence Township and the Geist Reservoir area {wfyi_sd31}.",
   "It is an open seat: Republican Sen. Kyle Walker is not running again {ipm_kwalker}. The Indiana Capital Chronicle called it one of the state's few politically competitive Senate districts; Walker won 55% in 2022 {ipm_kwalker} {wfyi_sd31}.",
-  "May 5, 2026 Republican primary: Juanita Albright 3,516 votes (37.7%), Tiffanie Ditlevson 2,332 (25.0%), Travis Hankins 1,781 (19.1%), Jan Kepley Keefer 1,699 (18.2%), according to vote totals posted by Larry in Fishers and Wikipedia {lif_primary} {wiki_2026_in_senate}.",
-  "May 5, 2026 Democratic primary: Kerry Forestal 4,153 votes (37.7%), Catherine Torzewski 3,909 (35.5%), Lasima Packett 1,805 (16.4%), Andrew Dezelan 1,141 (10.4%) {lif_primary} {wiki_2026_in_senate}.",
+  "May 5, 2026 Republican primary: Juanita Albright 3,516 votes (37.7%), Tiffanie Ditlevson 2,332 (25.0%), Travis Hankins 1,781 (19.1%), Jan Kepley Keefer 1,699 (18.2%), according to Wikipedia's compilation of results {wiki_2026_in_senate}.",
+  "May 5, 2026 Democratic primary: Kerry Forestal 4,153 votes (37.7%), Catherine Torzewski 3,909 (35.5%), Lasima Packett 1,805 (16.4%), Andrew Dezelan 1,141 (10.4%) {wiki_2026_in_senate}.",
   "No general-election debate or forum between Albright and Forestal was found in reviewed coverage.",
   "Both nominees list cost of living, health care costs and public safety among their priorities; Albright's materials emphasize tax cuts and property tax relief, while Forestal's emphasize utility, health care and grocery costs {albright_site} {wfyi_sd31} {wfyi_forestal}."
  ],
@@ -74,7 +74,6 @@
     "Running on lowering inflation and the cost of living, fiscal responsibility, quality education and public safety {reporter_albright}."
    ],
    "endorsements_finance": [
-    "Endorsed by U.S. Sen. Jim Banks during the primary {lif_banks}.",
     "Her campaign lists Americans for Prosperity–Indiana, Hoosiers for Quality Education, the Indiana Chamber of Commerce and the Indiana State Police Alliance {albright_site}; she also told WFYI she had Indiana Right to Life's endorsement {wfyi_sd31}.",
     "No fundraising totals were found in reviewed coverage."
    ],
@@ -83,7 +82,8 @@
     "Search snippets report an Indiana Family Action PAC endorsement and an endorsement from Gov. Mike Braun; unverified.",
     "Current Publishing articles (primary results, announcement) were inaccessible (403); the Indiana Capital Chronicle voter guide (which reportedly notes she did not return its survey) was also inaccessible.",
     "No fundraising data or general-election forum found.",
-    "Votes she would cast on specific bills (e.g., property-tax or budget legislation) not stated."
+    "Votes she would cast on specific bills (e.g., property-tax or budget legislation) not stated.",
+    "A reported primary endorsement by U.S. Sen. Jim Banks was found only on a local blog and is not included."
    ]
   },
   {
@@ -173,18 +173,6 @@
    "Albright campaign",
    "accessed 2026-10-10",
    "https://albrightforindiana.com"
-  ],
-  "lif_banks": [
-   "Banks endorses Albright in crowded Senate District 31 Republican primary",
-   "Larry in Fishers",
-   "2026-03-16",
-   "https://www.larryinfishers.com/2026/03/16/banks-endorses-albright-in-crowded-senate-district-31-republican-primary/"
-  ],
-  "lif_primary": [
-   "2026 Hamilton County Primary Election Results",
-   "Larry in Fishers",
-   "2026-05-05",
-   "https://www.larryinfishers.com/2026/05/05/2026-hamilton-county-primary-election-results/"
   ],
   "wiki_2026_in_senate": [
    "2026 Indiana Senate election",

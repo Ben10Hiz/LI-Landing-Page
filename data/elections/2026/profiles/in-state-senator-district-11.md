@@ -45,7 +45,7 @@ Campaign website: https://www.drbrianforindiana.com/
 
 - Physician; his BallotReady profile lists him as executive vice president of medical affairs at CCI Anesthesia (2023–present), chief anesthesiologist and medical director of the operating room at Unity Physicians Hospital (2021–present), and owner of Anesthesia Consulting and Clinical Specialists (2018–present). [10]
 - First run for office; he told WNDU that COVID-era shutdowns, elective-surgery restrictions, and mask and vaccine mandates first drew him into politics, and that his grandfather was a state senator in the 1960s and 1970s. [5]
-- Announced his campaign in January 2026, describing himself as "Christian first, conservative second, Republican when the party reflects Christian conservative values"; his family participates in hybrid homeschooling. [9]
+- Announced his campaign in January 2026, citing school choice and property taxes as priorities [9].
 
 ### Path to the ballot
 
@@ -111,20 +111,19 @@ Campaign website: https://www.gabriannagratzolforsenatedistrict11.org/
 
 ### Background
 
-- Describes herself as a "working-class wife, mother, and Hoosier." [12]
-- A Progressive Indiana Network profile reports she has worked in retail, residential behavioral health with teens, with children with autism, at a plastics manufacturing plant alongside her husband, and at the nonprofit health organization Beacon. [8]
-- The St. Joseph County Democratic Party lists her among its 2026 candidates. [13]
+- A profile by the Progressive Indiana Network, an advocacy group, reports she has worked in retail, residential behavioral health with teens, with children with autism, at a plastics manufacturing plant, and at the nonprofit health organization Beacon. [8]
+- The St. Joseph County Democratic Party lists her among its 2026 candidates. [12]
 
 ### Path to the ballot
 
 - Was the only candidate in the May 5, 2026 Democratic primary, receiving 4,577 votes. [1]
-- Announced as a challenger to Rogers by January 2026. [14]
+- Announced as a challenger to Rogers by January 2026. [13]
 
 ### Positions & plans
 
 **Economy & jobs**
 
-- The St. Joseph County Democratic Party says she supports a $15-per-hour living wage and strong labor unions. [13]
+- The St. Joseph County Democratic Party says she supports a $15-per-hour living wage and strong labor unions. [12]
 - Supports protecting unions and adjusting corporate tax policy so companies that underpay workers are held responsible, according to Progressive Indiana. [8]
 
 **Property taxes**
@@ -134,7 +133,7 @@ Campaign website: https://www.gabriannagratzolforsenatedistrict11.org/
 **Education**
 
 - Supports funding public schools and opposes the expansion of private school vouchers, particularly the removal of income caps. [8]
-- Opposed Rogers' bill to replace the elected South Bend school board, saying action is needed to improve public schools but removing locally elected members is not the answer. [14]
+- Opposed Rogers' bill to replace the elected South Bend school board, saying action is needed to improve public schools but removing locally elected members is not the answer. [13]
 
 **Health care**
 
@@ -154,13 +153,13 @@ Campaign website: https://www.gabriannagratzolforsenatedistrict11.org/
 
 ### On the current officeholder
 
-- Criticized Rogers' 2026 South Bend school board bill as "justification for government overreach" and linked it to a charter-school operator who she said donated to Rogers. [14]
+- Criticized Rogers' 2026 South Bend school board bill as "justification for government overreach" and linked it to a charter-school operator who she said donated to Rogers. [13]
 - Progressive Indiana reports she credited Rogers for work on firefighter health benefits, for pulling the school board bill after public feedback, and for voting against redistricting maps she believed were wrong. [8]
-- Says the Senate is made up of people "who employ other people" and argues it needs more working people and parents. [8, 12]
+- Says the Senate is made up of people "who employ other people" and argues it needs more working people and parents. [8, 14]
 
 ### How they say they'd run the office
 
-- Campaign site lists public education, worker protections and affordability as priorities. [12]
+- Campaign site lists public education, worker protections and affordability as priorities. [14]
 
 ### What we couldn't verify
 
@@ -185,6 +184,6 @@ Campaign website: https://www.gabriannagratzolforsenatedistrict11.org/
 9. [Dr. Brian Schmutzler announces bid for Indiana Senate District 11](https://www.953mnc.com/2026/01/19/dr-brian-schmutzler-announces-bid-for-indiana-senate-district-11/) — 95.3 MNC, 2026-01-19
 10. [Brian S. Schmutzler](https://www.ballotready.org/people/brian-s-schmutzler) — BallotReady, 2026
 11. [Dr. Brian for Indiana (campaign website)](https://www.drbrianforindiana.com/) — Dr. Brian Schmutzler for Indiana Senate, 2026
-12. [Gabrianna Gratzol for Senate District 11 (campaign website)](https://www.gabriannagratzolforsenatedistrict11.org/) — Gabrianna Gratzol campaign, 2026
-13. [2026 Candidates](https://www.stjoedemocrats.org/2026-candidates-1) — St. Joseph County Democratic Party, 2026
-14. [Rogers' opponent says Clay High controversy behind state takeover](https://www.wvpe.org/wvpe-news/2026-01-09/rogers-opponent-says-clay-high-controversy-behind-state-takeover) — WVPE, 2026-01-09
+12. [2026 Candidates](https://www.stjoedemocrats.org/2026-candidates-1) — St. Joseph County Democratic Party, 2026
+13. [Rogers' opponent says Clay High controversy behind state takeover](https://www.wvpe.org/wvpe-news/2026-01-09/rogers-opponent-says-clay-high-controversy-behind-state-takeover) — WVPE, 2026-01-09
+14. [Gabrianna Gratzol for Senate District 11 (campaign website)](https://www.gabriannagratzolforsenatedistrict11.org/) — Gabrianna Gratzol campaign, 2026

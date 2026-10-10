@@ -100,7 +100,6 @@ Campaign website: https://www.trevordv.com/
 - Lists his occupation as principal at HUB International, working in transactional risk insurance [16].
 - Lifelong St. John resident; Purdue University graduate (B.S., sales and marketing) [16, 12].
 - Has served as Republican precinct committeeman for St. John 04 since 2024 and has not previously held public office [16].
-- Lists church volunteer roles at Living Stones Church and with special-needs ministries [16].
 
 ### Path to the ballot
 
