@@ -1,0 +1,112 @@
+{
+ "race_id": "in-state-senator-district-26",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_senate",
+ "incumbent": {
+  "name": "Scott Alexander",
+  "party": "Republican",
+  "summary": "Scott Alexander, a Muncie real estate appraiser and former Delaware County councilman, was first elected to the Senate in 2022 and is seeking a second term {caucus_alexander} {ipr_2022}. He serves on the Agriculture, Judiciary, Natural Resources, and Pensions and Labor committees {wfyi_guide26}.",
+  "record": [
+   "Committees: Agriculture; Judiciary; Natural Resources; Pensions and Labor; interim study committees on government and pension management oversight, according to the Senate Republican caucus {caucus_alexander}.",
+   "April 15, 2025: Voted yes when the Senate gave final approval (27-22) to SEA 1, the 2025 property-tax law {rc_sea1_417}.",
+   "April 25, 2025: Voted yes on the conference report for the 2025 state budget (HEA 1001), which passed the Senate 39-11 {rc_hb1001_538}.",
+   "Oct. 24, 2025: Announced he would support redrawing Indiana's congressional districts, saying \"We cannot sit on the sidelines while the Democrats continue to gerrymander\" {caucus_alexander_redistricting}. Dec. 11, 2025: Voted yes on HB 1032, the redistricting bill, which the Senate defeated 19-31 {rc_hb1032_8}. WFYI reported that day that Sen. Linda Rogers said Alexander had recently had open-heart surgery {wfyi_liveblog}.",
+   "2026 session: Authored SEA 144, which updates the state definition of tobacco to include vaping devices and raises the penalty for giving tobacco or e-liquid vaporizers to anyone under 21; it was ceremonially signed May 13, 2026. Alexander said such products \"should never make it into the hands of minors\" {caucus_alexander_sea144}.",
+   "2026 session: The caucus says Alexander supported SB 243, conforming state taxes to federal treatment of tips, overtime and auto-loan interest, and voted for HEA 1002 on utility affordability and reliability {caucus_alexander_2026}."
+  ]
+ },
+ "race_context": [
+  "Senate District 26 covers all of Delaware and Randolph counties, including Muncie {wfyi_guide26}.",
+  "In 2022, after redistricting, Alexander won the seat with 61% of the vote over Democrat Melanie Wright, a former state representative {ipr_2022}. Wright now chairs Dale's campaign committee {dale_site}.",
+  "May 5, 2026 primaries: Alexander won the Republican nomination over Katherine (Kat) Nunley-Kritsch, and Andrew Dale was unopposed for the Democratic nomination {wlbc_primary}.",
+  "Key differences: Alexander voted for the 2025 property-tax law (SEA 1) {rc_sea1_417}, which Dale says should be repaired because it shifts the tax burden onto rural communities {dale_site}. Dale supports a 12-to-18-month moratorium on large data center development {wfyi_guide26}; no statement from Alexander on data centers was found. No debate or forum was found."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Andrew Dale",
+   "summary": "Andrew Dale is a Muncie executive coach running as a Democrat {wfyi_guide26}. He focuses on affordability, public education funding, property-tax changes and rural health care {wfyi_guide26} {dale_site}.",
+   "website": "https://daleforindianasenate.com",
+   "background": [
+    "Executive coach at Harbinger Coach, LLC; age 59; lives in Muncie {wfyi_guide26}."
+   ],
+   "path_to_ballot": [
+    "Unopposed in the May 5, 2026 Democratic primary {wlbc_primary}."
+   ],
+   "positions": [
+    {"topic": "Property taxes", "items": ["Calls for repairing SEA 1, the 2025 property-tax law, which he warns will harm rural communities through property-tax shifts {dale_site}."]},
+    {"topic": "Data centers", "items": ["Supports \"a moratorium of 12 to 18 months on large data center development in Indiana\" while environmental, zoning and public-health effects are studied {wfyi_guide26}; favors incentives for wind and solar over courting data centers {dale_site}."]},
+    {"topic": "Energy & utilities", "items": ["Says utility costs are too high and the legislature should take a more active role in regulating them {wfyi_guide26} {dale_site}."]},
+    {"topic": "Education", "items": ["Wants a law barring unlawful dissolution of school corporations, citing Union School Corporation in Randolph County; opposes the voucher program; says \"Keeping church out of school is a must\" {dale_site}."]},
+    {"topic": "Health care", "items": ["Wants rural hospitals and clinics protected from closure {wfyi_guide26} {dale_site}."]},
+    {"topic": "Housing", "items": ["Calls for a comprehensive approach to housing, criticizes how Indiana handles tax-sale properties, and says homelessness should not be treated as a criminal matter {dale_site}."]},
+    {"topic": "Child care", "items": ["Calls child care an economic issue that needs a lasting fix {dale_site}."]},
+    {"topic": "Economy & jobs", "items": ["Proposes growing the education sector in Delaware County and supporting manufacturing, farmers and small businesses in both counties {dale_site}."]}
+   ],
+   "on_incumbent": [
+    "No direct statements about Alexander or his record were found; Dale says he wants to be \"a custodian of trust rather than a gatekeeper of possibilities\" {wfyi_guide26}."
+   ],
+   "plans": [
+    "Lists affordability, fully funded public education, state taxation and assessments, rural health care and preparing young people for the future as his priorities {wfyi_guide26}."
+   ],
+   "endorsements_finance": [
+    "Top donors listed by WFYI from Transparency USA data are individuals, including Dale himself; no totals given {wfyi_guide26}."
+   ],
+   "gaps": [
+    "Ballot Brief and Ballotpedia snippets say he holds degrees from Vincennes University and Ball State University and chairs the Delaware County Democratic Party; not confirmed from a primary source.",
+    "A Ball State Daily News profile was referenced by other sites but could not be located.",
+    "No endorsements or fundraising totals found."
+   ]
+  },
+  {
+   "ballot_name": "Scott A. Alexander",
+   "summary": "Scott Alexander is the incumbent, first elected in 2022, and owns a Muncie real estate appraisal firm {caucus_alexander} {wfyi_guide26}. His campaign lists jobs, roads, schools and responsive government as priorities {wfyi_guide26}.",
+   "website": "https://electscottalexander.com",
+   "background": [
+    "Owner and operator of Alexander & Company Real Estate Appraisers; attended Delta High School, Vincennes University and Ball State University {caucus_alexander}.",
+    "Was a Delaware County councilman before his 2022 election {ipr_2022}.",
+    "Lives in Muncie {wfyi_guide26}."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Republican primary over Katherine (Kat) Nunley-Kritsch {wlbc_primary}."
+   ],
+   "positions": [
+    {"topic": "Property taxes", "items": ["Says more is needed so that Hoosiers \"are not forced out of homes they own free and clear\" over property-tax bills {caucus_alexander_afford}."]},
+    {"topic": "Health care", "items": ["Says \"Healthcare is too expensive\" and backs legislation on cost transparency, prescription costs and hidden fees {caucus_alexander_afford}."]},
+    {"topic": "Child care", "items": ["Backs letting employers offer child care as a benefit {caucus_alexander_afford}."]},
+    {"topic": "Elections & redistricting", "items": ["Supported mid-decade congressional redistricting in 2025, saying \"The time to take action is now\" {caucus_alexander_redistricting}."]},
+    {"topic": "Public safety", "items": ["Authored SEA 144 on tobacco and vaping products and minors {caucus_alexander_sea144}."]}
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No statements about Dale were found."
+   ],
+   "plans": [
+    "Campaign priorities listed by WFYI: job protections, safe roads, dependable schools and responsive government {wfyi_guide26}."
+   ],
+   "endorsements_finance": [
+    "Top donors listed by WFYI from Transparency USA data: Senate Majority Campaign Committee, Indiana Multi Family Housing PAC, Indiana Merit Construction PAC of ABC, Law PAC of Indiana and Indiana Realtors PAC; no totals given {wfyi_guide26}."
+   ],
+   "gaps": [
+    "Did not respond to WFYI's 2026 survey; his campaign website could not be read.",
+    "Primary vote totals against Nunley-Kritsch were not found, nor what the primary campaign debated.",
+    "No endorsements or fundraising totals found."
+   ]
+  }
+ ],
+ "sources": {
+  "wfyi_guide26": ["2026 Voter Guide: Indiana Senate District 26", "WFYI Public Media", "2026-09-22", "https://www.wfyi.org/statewide/2026-09-22/2026-voter-guide-indiana-senate-district-26"],
+  "wlbc_primary": ["Indiana Primary Results, and More Local Impact News, 05/06/26", "WLBC / Woof Boom Radio", "2026-05-06", "https://www.wlbc.com/2026/05/06/indiana-primary-results-and-more-local-impact-news-05-06-26/"],
+  "ipr_2022": ["After redistricting, both State Senate districts 25 and 26 see Republican winners", "Indiana Public Radio", "2022-11-09", "https://indianapublicradio.org/?p=102517"],
+  "caucus_alexander": ["Sen. Scott Alexander: biography, committees and news releases", "Indiana Senate Republican Caucus", "accessed 2026-10-10", "https://www.indianasenaterepublicans.com/alexander"],
+  "caucus_alexander_redistricting": ["Statement from State Sen. Scott Alexander regarding redistricting", "Indiana Senate Republican Caucus", "2025-10-24", "https://www.indianasenaterepublicans.com/statement-from-state-sen-scott-alexander-regarding-redistricting"],
+  "caucus_alexander_sea144": ["Alexander's bill to protect minors from tobacco and vaping products ceremonially signed into law", "Indiana Senate Republican Caucus", "2026-05-13", "https://www.indianasenaterepublicans.com/alexander-s-bill-to-protect-minors-from-tobacco-and-vaping-products-ceremonially-signed-into-law"],
+  "caucus_alexander_afford": ["Alexander working to address affordability", "Indiana Senate Republican Caucus", "2026", "https://www.indianasenaterepublicans.com/alexander-working-to-address-affordability"],
+  "caucus_alexander_2026": ["2026 Alexander legislative updates", "Indiana Senate Republican Caucus", "2026", "https://www.indianasenaterepublicans.com/2026-alexander-legislative-updates"],
+  "wfyi_liveblog": ["Live blog: Indiana Senate redistricting vote", "WFYI Public Media", "2025-12-11", "https://www.wfyi.org/news/articles/live-blog-indiana-senate-redistricting-vote-trump-pressure"],
+  "rc_hb1032_8": ["Senate Roll Call 8: HB 1032 (Redistricting), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-12-11", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-8-S-pdf.pdf"],
+  "rc_sea1_417": ["Senate Roll Call 417: SB 1 (Local government finance), concurrence", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-04-15", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-417-S-pdf.pdf"],
+  "rc_hb1001_538": ["Senate Roll Call 538: HB 1001 (State budget), conference committee report", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-04-25", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-538-S-pdf.pdf"],
+  "dale_site": ["Andrew Dale for Indiana Senate District 26", "Committee to Elect Andrew Dale (campaign)", "accessed 2026-10-10", "https://daleforindianasenate.com"]
+ }
+}
