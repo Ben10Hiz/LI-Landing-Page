@@ -137,6 +137,7 @@ Campaign website: https://www.tiffanystoner.com/
 - Her campaign website (403) and Current Publishing coverage could not be loaded; positions come mainly from groups backing her.
 - Search snippets say she opposes partisan gerrymandering, says the legislature should not take up congressional redistricting in 2027, and is focusing on public education and property taxes; not verified.
 - No campaign finance data was reviewed.
+- Most of her stated positions come from organizations that endorse her campaign (States Win and the Democratic Legislative Campaign Committee); her own campaign site could not be read.
 
 ## Sources
 

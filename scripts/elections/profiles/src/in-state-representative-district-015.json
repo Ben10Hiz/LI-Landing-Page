@@ -29,8 +29,7 @@
    "website": "https://voteoberman.com/",
    "background": [
     "Earned a criminology degree from Indiana State University and served about a decade as a patrolman with the Calumet City Police Department, according to his campaign {oberman_values}.",
-    "Was born in Hammond and graduated from Crown Point High School; his campaign says his father, a Navy veteran, worked as a welder and his mother as a millwright {oberman_values}.",
-    "Is a parishioner at St. Nicholas Byzantine Catholic Church in Munster and is involved in local youth sports, per his campaign {oberman_values}."
+    "Was born in Hammond and graduated from Crown Point High School; his campaign says his father, a Navy veteran, worked as a welder and his mother as a millwright {oberman_values}."
    ],
    "path_to_ballot": [
     "Unopposed in the May 5, 2026 Democratic primary, according to Wikipedia's tabulation {wiki_2026_inhouse}."
@@ -140,17 +139,77 @@
   }
  ],
  "sources": {
-  "slager_bio": ["Rep. Hal Slager", "Indiana House Republicans", "2026-10", "https://www.indianahouserepublicans.com/members/general/hal-slager/"],
-  "wiki_slager": ["Hal Slager", "Wikipedia", "2026-10", "https://en.wikipedia.org/wiki/Hal_Slager"],
-  "slager_hea1024": ["Rep. Slager's legislation to ensure young Hoosiers can receive care close to home signed by governor", "Indiana House Republicans", "2025-05-06", "https://www.indianahouserepublicans.com/news/press-releases/rep.-slager-s-legislation-to-ensure-young-hoosiers-can-receive-care-close-to-home-signed-by-governor/"],
-  "slager_sea270": ["Governor ceremonially signs new law sponsored by Slager to streamline township government", "Indiana House Republicans", "2026-04-20", "https://www.indianahouserepublicans.com/news/press-releases/governor-ceremonially-signs-new-law-sponsored-by-slager-to-streamline-township-government/"],
-  "bt50_slager": ["Legislator scorecard: Hal Slager", "BillTrack50", "2026", "https://www.billtrack50.com/public/scorecard/legislator/TNvEht1gV0ilLkxyi9h0rQ/17109"],
-  "icc_hb1032_house": ["Indiana House approves redistricting bill, sending issue to state Senate", "Indiana Capital Chronicle (via Yahoo News)", "2025-12-05", "https://www.yahoo.com/news/articles/indiana-house-approves-redistricting-bill-185219428.html"],
-  "wiki_2026_inhouse": ["2026 Indiana House of Representatives election", "Wikipedia", "2026-10", "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"],
-  "lpm_2020_debate": ["Indiana House of Representatives, District 15 Debate", "Lakeshore Public Media", "2020-10-15", "https://www.lakeshorepublicmedia.org/local-news/2020-10-15/indiana-house-of-representatives-district-15-debate"],
-  "slager_site": ["Hal Slager for State Representative", "Slager campaign", "2026-10", "http://www.voteslager.com/"],
-  "oberman_home": ["Anthony Oberman for Indiana House District 15", "Oberman campaign", "2026-10", "https://voteoberman.com/"],
-  "oberman_values": ["My Values", "Oberman campaign", "2026-10", "https://voteoberman.com/my-values"],
-  "ivg_oberman": ["Anthony Oberman", "iVoterGuide", "2026-10", "https://ivoterguide.com/candidate/94599/race/30664/election/1456"]
+  "slager_bio": [
+   "Rep. Hal Slager",
+   "Indiana House Republicans",
+   "2026-10",
+   "https://www.indianahouserepublicans.com/members/general/hal-slager/"
+  ],
+  "wiki_slager": [
+   "Hal Slager",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/Hal_Slager"
+  ],
+  "slager_hea1024": [
+   "Rep. Slager's legislation to ensure young Hoosiers can receive care close to home signed by governor",
+   "Indiana House Republicans",
+   "2025-05-06",
+   "https://www.indianahouserepublicans.com/news/press-releases/rep.-slager-s-legislation-to-ensure-young-hoosiers-can-receive-care-close-to-home-signed-by-governor/"
+  ],
+  "slager_sea270": [
+   "Governor ceremonially signs new law sponsored by Slager to streamline township government",
+   "Indiana House Republicans",
+   "2026-04-20",
+   "https://www.indianahouserepublicans.com/news/press-releases/governor-ceremonially-signs-new-law-sponsored-by-slager-to-streamline-township-government/"
+  ],
+  "bt50_slager": [
+   "Legislator scorecard: Hal Slager",
+   "BillTrack50",
+   "2026",
+   "https://www.billtrack50.com/public/scorecard/legislator/TNvEht1gV0ilLkxyi9h0rQ/17109"
+  ],
+  "icc_hb1032_house": [
+   "Indiana House approves redistricting bill, sending issue to state Senate",
+   "Indiana Capital Chronicle (via Yahoo News)",
+   "2025-12-05",
+   "https://www.yahoo.com/news/articles/indiana-house-approves-redistricting-bill-185219428.html"
+  ],
+  "wiki_2026_inhouse": [
+   "2026 Indiana House of Representatives election",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  ],
+  "lpm_2020_debate": [
+   "Indiana House of Representatives, District 15 Debate",
+   "Lakeshore Public Media",
+   "2020-10-15",
+   "https://www.lakeshorepublicmedia.org/local-news/2020-10-15/indiana-house-of-representatives-district-15-debate"
+  ],
+  "slager_site": [
+   "Hal Slager for State Representative",
+   "Slager campaign",
+   "2026-10",
+   "http://www.voteslager.com/"
+  ],
+  "oberman_home": [
+   "Anthony Oberman for Indiana House District 15",
+   "Oberman campaign",
+   "2026-10",
+   "https://voteoberman.com/"
+  ],
+  "oberman_values": [
+   "My Values",
+   "Oberman campaign",
+   "2026-10",
+   "https://voteoberman.com/my-values"
+  ],
+  "ivg_oberman": [
+   "Anthony Oberman",
+   "iVoterGuide",
+   "2026-10",
+   "https://ivoterguide.com/candidate/94599/race/30664/election/1456"
+  ]
  }
 }

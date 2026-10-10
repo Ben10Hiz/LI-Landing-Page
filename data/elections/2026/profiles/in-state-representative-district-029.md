@@ -84,20 +84,17 @@ Campaign website: https://alainafornoblesville.com
 - Said she weighs whether legislation will make life more affordable, make government work better and keep communities safe [10].
 - Said, "I'm excited to seek re-election and to continue earning the trust and support of the people I'm privileged to serve" [4].
 
-### Endorsements & fundraising
-
-- No endorsements or campaign finance figures were found in reviewed sources.
-
 ### What we couldn't verify
 
 - Search snippets said she had no 2026 primary opponent; not verified.
 - As a 2025 freshman, her individual votes on the 2025 budget (HEA 1001) and property tax law (SEA 1) were not verified from roll calls.
 - Her campaign website lists few specific policy positions.
 - No fundraising reports were reviewed.
+- Reported only by a local blog (LarryInFishers) and not included: No endorsements or campaign finance figures were found in reviewed sources.
 
 ## Devon Wellington
 
-Wellington is an education policy consultant and small business owner from Noblesville running for office for the first time [13, 11].
+Wellington is an education policy consultant and small business owner from Noblesville running for office for the first time[11].
 
 Campaign website: https://votedevon.com
 
@@ -105,11 +102,10 @@ Campaign website: https://votedevon.com
 
 - Has worked in education policy at the district, state and federal levels, according to The Reporter, and describes herself as an education researcher and small business owner with a master's degree in applied developmental psychology [10, 11].
 - Moved to Noblesville from northern Virginia through the Make My Move program and has served on several Noblesville school district committees [10].
-- Is involved with the civic group MadVoters, according to LarryInFishers.com [13].
 
 ### Path to the ballot
 
-- Announced her candidacy in January 2026 and won the May 5, 2026 Democratic primary [13, 11].
+- Announced her candidacy in January 2026 and won the May 5, 2026 Democratic primary[11].
 
 ### Positions & plans
 
@@ -144,7 +140,7 @@ Campaign website: https://votedevon.com
 
 ### On the current officeholder
 
-- No direct statements by Wellington about Shonkwiler were found in reviewed sources; she has said District 29 residents deserve "a representative who listens" [13, 10].
+- No direct statements by Wellington about Shonkwiler were found in reviewed sources; she has said District 29 residents deserve "a representative who listens"[10].
 
 ### How they say they'd run the office
 
@@ -153,14 +149,15 @@ Campaign website: https://votedevon.com
 
 ### Endorsements & fundraising
 
-- No endorsements were named on her campaign home page, and no campaign finance figures were found in reviewed sources [14].
+- No endorsements were named on her campaign home page, and no campaign finance figures were found in reviewed sources [13].
 
 ### What we couldn't verify
 
 - Primary vote totals were not verified; a search snippet attributed to Current Publishing reported Wellington 1,921 votes to Coumba Kebe's 1,655, but the page returned an error. Kebe's subsequent status (reported as the Democratic Treasurer nominee) was not verified here.
-- Sources differ on when she moved to Noblesville: LarryInFishers.com says she has lived there since 2023, while The Reporter's July 2026 article says 2022.
+- Sources differ on when she moved to Noblesville: a local blog says 2023, while The Reporter's July 2026 article says 2022.
 - Current Publishing's March 2026 Q&A with the Democratic primary candidates could not be loaded.
 - No fundraising reports were reviewed.
+- Reported only by a local blog (LarryInFishers) and not included: Is involved with the civic group MadVoters.
 
 ## Sources
 
@@ -176,5 +173,4 @@ Campaign website: https://votedevon.com
 10. [Both sides of District 29 election](https://readthereporter.com/?p=198430) — The Reporter (Noblesville), 2026-07-31
 11. [Devon Wellington secures Democratic nomination for House District 29 (submitted)](https://readthereporter.com/?p=192748) — The Reporter (Noblesville), 2026-05-07
 12. [Platform](https://votedevon.com/platform.html) — Wellington campaign, accessed 2026-10-10
-13. [Democrat Devon Wellington Announces Bid for Indiana House District 29](https://www.larryinfishers.com/2026/01/27/democrat-devon-wellington-announces-bid-for-indiana-house-district-29/) — LarryInFishers.com, 2026-01-27
-14. [Devon Wellington for Indiana House District 29](https://votedevon.com) — Wellington campaign, accessed 2026-10-10
+13. [Devon Wellington for Indiana House District 29](https://votedevon.com) — Wellington campaign, accessed 2026-10-10

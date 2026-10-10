@@ -36,11 +36,37 @@
     "Filed for re-election in February 2026 and is the Republican nominee on the general-election ballot {reporter_file}{in_list}."
    ],
    "positions": [
-    {"topic": "Energy & utilities", "items": ["Told The Reporter she is focused on reforming regulation of investor-owned electric utilities given rising energy demand {reporter_both}.", "Said of HEA 1002, \"we want to ensure reliable energy at the lowest possible cost\" {shonk_hea1002}."]},
-    {"topic": "Public safety", "items": ["Cited House Bill 1232 as giving law enforcement tools and resources while supporting transparency and accountability {reporter_both}."]},
-    {"topic": "Housing", "items": ["Said she has pushed for housing affordability through the Government and Regulatory Reform Committee {reporter_both}."]},
-    {"topic": "Local government", "items": ["Described her work on township modernization in Senate Bill 270 as the first meaningful township reform in over 20 years, and said she wants to stop taxpayers from paying twice for the same service {reporter_both}."]},
-    {"topic": "Education", "items": ["Listed among her priorities an education system that gives parents more say and serves every child {reporter_file}."]}
+    {
+     "topic": "Energy & utilities",
+     "items": [
+      "Told The Reporter she is focused on reforming regulation of investor-owned electric utilities given rising energy demand {reporter_both}.",
+      "Said of HEA 1002, \"we want to ensure reliable energy at the lowest possible cost\" {shonk_hea1002}."
+     ]
+    },
+    {
+     "topic": "Public safety",
+     "items": [
+      "Cited House Bill 1232 as giving law enforcement tools and resources while supporting transparency and accountability {reporter_both}."
+     ]
+    },
+    {
+     "topic": "Housing",
+     "items": [
+      "Said she has pushed for housing affordability through the Government and Regulatory Reform Committee {reporter_both}."
+     ]
+    },
+    {
+     "topic": "Local government",
+     "items": [
+      "Described her work on township modernization in Senate Bill 270 as the first meaningful township reform in over 20 years, and said she wants to stop taxpayers from paying twice for the same service {reporter_both}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Listed among her priorities an education system that gives parents more say and serves every child {reporter_file}."
+     ]
+    }
    ],
    "on_incumbent": [
     "Is the current officeholder. Asked about the Make My Move relocation program Wellington used, she said she did not want to disparage people who came through it but does not necessarily agree with using tax dollars for it {reporter_both}."
@@ -49,39 +75,73 @@
     "Said she weighs whether legislation will make life more affordable, make government work better and keep communities safe {reporter_both}.",
     "Said, \"I'm excited to seek re-election and to continue earning the trust and support of the people I'm privileged to serve\" {reporter_file}."
    ],
-   "endorsements_finance": [
-    "No endorsements or campaign finance figures were found in reviewed sources."
-   ],
+   "endorsements_finance": [],
    "gaps": [
     "Search snippets said she had no 2026 primary opponent; not verified.",
     "As a 2025 freshman, her individual votes on the 2025 budget (HEA 1001) and property tax law (SEA 1) were not verified from roll calls.",
     "Her campaign website lists few specific policy positions.",
-    "No fundraising reports were reviewed."
+    "No fundraising reports were reviewed.",
+    "Reported only by a local blog (LarryInFishers) and not included: No endorsements or campaign finance figures were found in reviewed sources."
    ]
   },
   {
    "ballot_name": "Devon Wellington",
-   "summary": "Wellington is an education policy consultant and small business owner from Noblesville running for office for the first time {larry_announce}{reporter_nominee}.",
+   "summary": "Wellington is an education policy consultant and small business owner from Noblesville running for office for the first time{reporter_nominee}.",
    "website": "https://votedevon.com",
    "background": [
     "Has worked in education policy at the district, state and federal levels, according to The Reporter, and describes herself as an education researcher and small business owner with a master's degree in applied developmental psychology {reporter_both}{reporter_nominee}.",
-    "Moved to Noblesville from northern Virginia through the Make My Move program and has served on several Noblesville school district committees {reporter_both}.",
-    "Is involved with the civic group MadVoters, according to LarryInFishers.com {larry_announce}."
+    "Moved to Noblesville from northern Virginia through the Make My Move program and has served on several Noblesville school district committees {reporter_both}."
    ],
    "path_to_ballot": [
-    "Announced her candidacy in January 2026 and won the May 5, 2026 Democratic primary {larry_announce}{reporter_nominee}."
+    "Announced her candidacy in January 2026 and won the May 5, 2026 Democratic primary{reporter_nominee}."
    ],
    "positions": [
-    {"topic": "Education", "items": ["Told The Reporter the state is \"tragically underfunding our schools\" and that voters should decide before tax dollars go to private or charter schools {reporter_both}.", "Her platform calls for funding alternatives to public schools from a separate appropriation, reversing partisan school board elections and an independent audit of the special education funding formula {devon_platform}."]},
-    {"topic": "Energy & utilities", "items": ["Proposes reforming utility rate-tracker laws, restoring the state energy efficiency program and capping utility costs relative to income {devon_platform}."]},
-    {"topic": "Data centers", "items": ["Says the state should \"stop billing families for data-center infrastructure\" {devon_platform}."]},
-    {"topic": "Property taxes", "items": ["Says she would \"target property-tax relief to seniors and working families who need it\" {devon_platform}."]},
-    {"topic": "Housing", "items": ["Would limit how many single-family homes out-of-state investors can convert to rentals and help first-time buyers {devon_platform}."]},
-    {"topic": "Health care", "items": ["Supports stronger hospital price caps, price transparency with penalties, and holding insurers \"accountable for improper denials\" {devon_platform}."]},
-    {"topic": "Economy & jobs", "items": ["Supports raising the minimum wage, a state earned income tax credit, child care tax credits and tying corporate incentives to verified job creation, and says her plan needs no new taxes {devon_platform}."]}
+    {
+     "topic": "Education",
+     "items": [
+      "Told The Reporter the state is \"tragically underfunding our schools\" and that voters should decide before tax dollars go to private or charter schools {reporter_both}.",
+      "Her platform calls for funding alternatives to public schools from a separate appropriation, reversing partisan school board elections and an independent audit of the special education funding formula {devon_platform}."
+     ]
+    },
+    {
+     "topic": "Energy & utilities",
+     "items": [
+      "Proposes reforming utility rate-tracker laws, restoring the state energy efficiency program and capping utility costs relative to income {devon_platform}."
+     ]
+    },
+    {
+     "topic": "Data centers",
+     "items": [
+      "Says the state should \"stop billing families for data-center infrastructure\" {devon_platform}."
+     ]
+    },
+    {
+     "topic": "Property taxes",
+     "items": [
+      "Says she would \"target property-tax relief to seniors and working families who need it\" {devon_platform}."
+     ]
+    },
+    {
+     "topic": "Housing",
+     "items": [
+      "Would limit how many single-family homes out-of-state investors can convert to rentals and help first-time buyers {devon_platform}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Supports stronger hospital price caps, price transparency with penalties, and holding insurers \"accountable for improper denials\" {devon_platform}."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Supports raising the minimum wage, a state earned income tax credit, child care tax credits and tying corporate incentives to verified job creation, and says her plan needs no new taxes {devon_platform}."
+     ]
+    }
    ],
    "on_incumbent": [
-    "No direct statements by Wellington about Shonkwiler were found in reviewed sources; she has said District 29 residents deserve \"a representative who listens\" {larry_announce}{reporter_both}."
+    "No direct statements by Wellington about Shonkwiler were found in reviewed sources; she has said District 29 residents deserve \"a representative who listens\"{reporter_both}."
    ],
    "plans": [
     "Told The Reporter she would rather be a \"workhorse\" than a \"show horse\" {reporter_both}.",
@@ -92,24 +152,79 @@
    ],
    "gaps": [
     "Primary vote totals were not verified; a search snippet attributed to Current Publishing reported Wellington 1,921 votes to Coumba Kebe's 1,655, but the page returned an error. Kebe's subsequent status (reported as the Democratic Treasurer nominee) was not verified here.",
-    "Sources differ on when she moved to Noblesville: LarryInFishers.com says she has lived there since 2023, while The Reporter's July 2026 article says 2022.",
+    "Sources differ on when she moved to Noblesville: a local blog says 2023, while The Reporter's July 2026 article says 2022.",
     "Current Publishing's March 2026 Q&A with the Democratic primary candidates could not be loaded.",
-    "No fundraising reports were reviewed."
+    "No fundraising reports were reviewed.",
+    "Reported only by a local blog (LarryInFishers) and not included: Is involved with the civic group MadVoters."
    ]
   }
  ],
  "sources": {
-  "shonk_bio": ["Alaina Shonkwiler", "Indiana House Republican Caucus", "accessed 2026-10-10", "https://www.indianahouserepublicans.com/members/general/alaina-shonkwiler"],
-  "shonk_hea1002": ["Rep. Shonkwiler: Governor ceremonially signs new law prioritizing ratepayers", "Indiana House Republican Caucus", "2026-04-07", "https://www.indianahouserepublicans.com/news/press-releases/rep.-shonkwiler-governor-ceremonially-signs-new-law-prioritizing-ratepayers/"],
-  "bt_shonk": ["Legislator Detail: Alaina Shonkwiler", "BillTrack50", "accessed 2026-10-10", "https://www.billtrack50.com/public/scorecard/legislator/TNvEht1gV0ilLkxyi9h0rQ/29476"],
-  "isf_hb1032": ["BILL ADVANCES: 12 House Republicans join Democrats to oppose redistricting, but map moves to Senate", "TheStatehouseFile.com (via The Indiana Citizen)", "2025-12-05", "https://indianacitizen.org/bill-advances-12-house-republicans-join-democrats-to-oppose-redistricting-but-map-moves-to-senate/"],
-  "indystar_township": ["Is this the year Indiana gets rid of some of its 1,000-plus townships?", "IndyStar (via Yahoo News)", "2026-01-14", "https://www.yahoo.com/news/articles/indiana-gets-rid-1-000-110549650.html"],
-  "pr_hb1315": ["Indiana HB 1315 (2026): Township reorganization", "PolicyRisk", "accessed 2026-10-10", "https://policyrisk.com/state-bill/IN-HB1315-2026"],
-  "reporter_file": ["Alaina Shonkwiler files for re-election", "The Reporter (Noblesville)", "2026-02-10", "https://readthereporter.com/?p=165613"],
-  "reporter_both": ["Both sides of District 29 election", "The Reporter (Noblesville)", "2026-07-31", "https://readthereporter.com/?p=198430"],
-  "reporter_nominee": ["Devon Wellington secures Democratic nomination for House District 29 (submitted)", "The Reporter (Noblesville)", "2026-05-07", "https://readthereporter.com/?p=192748"],
-  "larry_announce": ["Democrat Devon Wellington Announces Bid for Indiana House District 29", "LarryInFishers.com", "2026-01-27", "https://www.larryinfishers.com/2026/01/27/democrat-devon-wellington-announces-bid-for-indiana-house-district-29/"],
-  "devon_site": ["Devon Wellington for Indiana House District 29", "Wellington campaign", "accessed 2026-10-10", "https://votedevon.com"],
-  "devon_platform": ["Platform", "Wellington campaign", "accessed 2026-10-10", "https://votedevon.com/platform.html"]
+  "shonk_bio": [
+   "Alaina Shonkwiler",
+   "Indiana House Republican Caucus",
+   "accessed 2026-10-10",
+   "https://www.indianahouserepublicans.com/members/general/alaina-shonkwiler"
+  ],
+  "shonk_hea1002": [
+   "Rep. Shonkwiler: Governor ceremonially signs new law prioritizing ratepayers",
+   "Indiana House Republican Caucus",
+   "2026-04-07",
+   "https://www.indianahouserepublicans.com/news/press-releases/rep.-shonkwiler-governor-ceremonially-signs-new-law-prioritizing-ratepayers/"
+  ],
+  "bt_shonk": [
+   "Legislator Detail: Alaina Shonkwiler",
+   "BillTrack50",
+   "accessed 2026-10-10",
+   "https://www.billtrack50.com/public/scorecard/legislator/TNvEht1gV0ilLkxyi9h0rQ/29476"
+  ],
+  "isf_hb1032": [
+   "BILL ADVANCES: 12 House Republicans join Democrats to oppose redistricting, but map moves to Senate",
+   "TheStatehouseFile.com (via The Indiana Citizen)",
+   "2025-12-05",
+   "https://indianacitizen.org/bill-advances-12-house-republicans-join-democrats-to-oppose-redistricting-but-map-moves-to-senate/"
+  ],
+  "indystar_township": [
+   "Is this the year Indiana gets rid of some of its 1,000-plus townships?",
+   "IndyStar (via Yahoo News)",
+   "2026-01-14",
+   "https://www.yahoo.com/news/articles/indiana-gets-rid-1-000-110549650.html"
+  ],
+  "pr_hb1315": [
+   "Indiana HB 1315 (2026): Township reorganization",
+   "PolicyRisk",
+   "accessed 2026-10-10",
+   "https://policyrisk.com/state-bill/IN-HB1315-2026"
+  ],
+  "reporter_file": [
+   "Alaina Shonkwiler files for re-election",
+   "The Reporter (Noblesville)",
+   "2026-02-10",
+   "https://readthereporter.com/?p=165613"
+  ],
+  "reporter_both": [
+   "Both sides of District 29 election",
+   "The Reporter (Noblesville)",
+   "2026-07-31",
+   "https://readthereporter.com/?p=198430"
+  ],
+  "reporter_nominee": [
+   "Devon Wellington secures Democratic nomination for House District 29 (submitted)",
+   "The Reporter (Noblesville)",
+   "2026-05-07",
+   "https://readthereporter.com/?p=192748"
+  ],
+  "devon_site": [
+   "Devon Wellington for Indiana House District 29",
+   "Wellington campaign",
+   "accessed 2026-10-10",
+   "https://votedevon.com"
+  ],
+  "devon_platform": [
+   "Platform",
+   "Wellington campaign",
+   "accessed 2026-10-10",
+   "https://votedevon.com/platform.html"
+  ]
  }
 }

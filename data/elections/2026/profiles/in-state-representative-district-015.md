@@ -46,7 +46,6 @@ Campaign website: https://voteoberman.com/
 
 - Earned a criminology degree from Indiana State University and served about a decade as a patrolman with the Calumet City Police Department, according to his campaign [12].
 - Was born in Hammond and graduated from Crown Point High School; his campaign says his father, a Navy veteran, worked as a welder and his mother as a millwright [12].
-- Is a parishioner at St. Nicholas Byzantine Catholic Church in Munster and is involved in local youth sports, per his campaign [12].
 
 ### Path to the ballot
 

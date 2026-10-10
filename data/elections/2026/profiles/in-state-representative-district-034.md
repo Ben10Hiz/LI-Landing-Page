@@ -86,7 +86,7 @@ Campaign website: https://www.saragullion.com
 
 - Endorsed by Rep. Sue Errington, who IPR reported would run her campaign [4].
 - Listed as a target race by the Democratic Legislative Campaign Committee [15].
-- Top donors listed by WFYI via Transparency USA include Indiana Conservation Voters and State Rep. Carey Hamilton [10].
+- Top donors listed by WFYI via Transparency USA include Indiana Conservation Voters and Carey Hamilton [10].
 
 ### What we couldn't verify
 
@@ -105,7 +105,7 @@ Campaign website: https://richardivycampaign.com
 
 - Human resources director, Muncie Sanitary District; lives in Muncie [10, 17].
 - Former Muncie deputy mayor; the Star Press reported the city council eliminated funding for that position in 2024 [18]. As deputy mayor he oversaw departments including public works, parks and public safety, according to his campaign release [18].
-- Previously worked at LifeStream Services, serving seniors and people with disabilities, per his campaign release; finance secretary at Antioch Missionary Baptist Church [18].
+- Previously worked at LifeStream Services, serving seniors and people with disabilities, per his campaign release [18].
 
 ### Path to the ballot
 
