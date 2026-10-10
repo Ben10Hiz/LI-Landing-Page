@@ -1,0 +1,43 @@
+{
+ "office": {
+  "title": "Indiana State Representative",
+  "summary": "Members of the Indiana House of Representatives write and vote on state laws as part of the Indiana General Assembly. The House has 100 members, each representing one district for a two-year term {wiki_in_house}.",
+  "facts": [
+   {
+    "label": "Term",
+    "value": "2 years {wiki_in_house}"
+   },
+   {
+    "label": "Term limit",
+    "value": "None {wiki_in_house}"
+   },
+   {
+    "label": "Seats",
+    "value": "100 {wiki_in_house}"
+   },
+   {
+    "label": "On the 2026 ballot",
+    "value": "All 100 {in_list}"
+   }
+  ],
+  "duties": [
+   "Introduces and votes on state legislation as one of the two chambers of the Indiana General Assembly {wiki_in_house}.",
+   "Must be at least 21 years old when taking office and have lived in the district for at least a year {wiki_in_house}."
+  ],
+  "recent_changes": []
+ },
+ "sources": {
+  "wiki_in_house": [
+   "Indiana House of Representatives",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/Indiana_House_of_Representatives"
+  ],
+  "in_list": [
+   "2026 General Election Candidate List",
+   "Indiana Election Division",
+   "2026-09-22",
+   "https://www.in.gov/sos/elections/candidate-information/"
+  ]
+ }
+}

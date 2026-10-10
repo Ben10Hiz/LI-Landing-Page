@@ -3,7 +3,8 @@
 
 Each src/<race-id>.json is a profile (shape in data/elections/2026/profiles/
 README.md) with {key} citations, plus "sources": {key: [title, publisher,
-date, url]}. "office": "@us_house" pulls in src/_shared_us_house_office.json.
+date, url]}. "office": "@us_house" / "@in_senate" / "@in_house" pulls in the shared
+office section from src/_shared_*_office.json.
 
     python3 scripts/elections/profiles/build_from_src.py [race-id ...]
 """
@@ -15,7 +16,11 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from common import build_profile  # noqa: E402
 
 SRC = Path(__file__).resolve().parent / "src"
-SHARED = {"@us_house": "_shared_us_house_office.json"}
+SHARED = {
+    "@us_house": "_shared_us_house_office.json",
+    "@in_senate": "_shared_in_senate_office.json",
+    "@in_house": "_shared_in_house_office.json",
+}
 
 
 def load(path):

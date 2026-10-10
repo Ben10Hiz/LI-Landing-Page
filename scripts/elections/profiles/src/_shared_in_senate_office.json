@@ -1,0 +1,43 @@
+{
+ "office": {
+  "title": "Indiana State Senator",
+  "summary": "Members of the Indiana Senate write and vote on state laws as part of the Indiana General Assembly. The Senate has 50 members, each representing one district for a four-year term; about half the seats are elected every two years {wiki_in_senate}.",
+  "facts": [
+   {
+    "label": "Term",
+    "value": "4 years {wiki_in_senate}"
+   },
+   {
+    "label": "Term limit",
+    "value": "None {wiki_in_senate}"
+   },
+   {
+    "label": "Seats",
+    "value": "50 {wiki_in_senate}"
+   },
+   {
+    "label": "On the 2026 ballot",
+    "value": "25 districts {in_list}"
+   }
+  ],
+  "duties": [
+   "Introduces and votes on state legislation as one of the two chambers of the Indiana General Assembly {wiki_in_senate}.",
+   "Must be at least 25 years old when taking office and have lived in the district for at least a year, under Article 4 of the Indiana Constitution {wiki_in_senate}."
+  ],
+  "recent_changes": []
+ },
+ "sources": {
+  "wiki_in_senate": [
+   "Indiana Senate",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/Indiana_Senate"
+  ],
+  "in_list": [
+   "2026 General Election Candidate List",
+   "Indiana Election Division",
+   "2026-09-22",
+   "https://www.in.gov/sos/elections/candidate-information/"
+  ]
+ }
+}
