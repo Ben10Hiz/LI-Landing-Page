@@ -1,0 +1,159 @@
+# Indiana State Representative — 2026 race profile
+
+_Researched 2026-10-10 · status: draft._ Pending editorial review.
+
+## About the office
+
+Members of the Indiana House of Representatives write and vote on state laws as part of the Indiana General Assembly. The House has 100 members, each representing one district for a two-year term [1].
+
+- **Term:** 2 years [1]
+- **Term limit:** None [1]
+- **Seats:** 100 [1]
+- **On the 2026 ballot:** All 100 [2]
+
+### What the office does
+
+- Introduces and votes on state legislation as one of the two chambers of the Indiana General Assembly [1].
+- Must be at least 21 years old when taking office and have lived in the district for at least a year [1].
+
+### Recent changes to the office
+
+
+## Current officeholder: Chuck Moseley (Democratic)
+
+Chuck Moseley, a Democrat from Portage and Army National Guard veteran, has represented House District 10 since 2009 and is the ranking minority member of the House Employment, Labor and Pensions Committee, according to the House Democratic Caucus [3, 4].
+
+- Serves as ranking minority member of the Employment, Labor and Pensions Committee and on the Commerce, Small Business and Economic Development and Veterans Affairs and Public Safety committees [3].
+- Was re-elected in 2024 with 52.1% of the vote [5].
+- October 2025: joined Rep. Pat Boy and Sen. Rodney Pol Jr. at an Oct. 4 Portage event opposing mid-decade redistricting, writing that proposed maps would divide Porter County and "This isn't representation. This is silencing voices" [6]. On December 5, 2025, he voted no on House Bill 1032, which passed the House 57–41 [7, 8].
+- January 2026: listed his session bills as HB 1068 (voter retention of Indiana Utility Regulatory Commission commissioners), HB 1069 (letting injured workers choose their physician under workers' compensation), HB 1070 (a $200 annual income tax credit for volunteer firefighters), HB 1071 (letting 21st Century Scholars with disabilities keep scholarships if unable to enroll full-time) and HB 1211 (stronger penalties for reckless speeding) [9].
+- 2026 session (per BillTrack50's vote record): voted no on Senate Bill 12 (prohibiting ranked-choice voting), Senate Bill 76 (immigration matters) and House Bill 1302 (labor and safety matters); voted yes on House Bill 1177 (child care assistance); recorded absent on Senate Bill 1 (human services matters) [7].
+- August 2026: after an outage that left many Porter County residents without power for up to two weeks, called on NIPSCO to credit customers for each day without service and joined a request for a legislative investigation of NIPSCO's storm response [10, 11].
+
+## This race
+
+- House District 10 is in Northwest Indiana and includes portions of Porter County, including Portage, according to the House Democratic Caucus [3].
+- Moseley is the incumbent seeking re-election; Wikipedia's primary listing shows Moseley as the only Democratic candidate and Ted Uzelac as the only Republican candidate in the May 5, 2026 primaries [5].
+- No debate or candidate forum for this race was found as of October 10, 2026.
+- Both candidates have raised utility costs: Moseley has pressed NIPSCO over storm response and backed voter retention of utility regulators, while Uzelac's campaign calls for utility rate transparency and reform; Uzelac's campaign emphasizes public safety, an area where Moseley has proposed tougher speeding penalties [9, 10, 12].
+
+## Charles Chuck Moseley
+
+Chuck Moseley, a Democrat from Portage, has held the District 10 seat since 2009 and is seeking re-election [3, 4].
+
+### Background
+
+- Graduate of River Forest High School in Lake Station and an Army National Guard veteran [3].
+- Past president of the Portage Chamber of Commerce and the Portage Township School Board; past member of the Portage Planning Commission, Park Board and Port Authority [3].
+- Lives in Portage [3].
+
+### Path to the ballot
+
+- Was the only Democratic candidate in the May 5, 2026 primary, according to Wikipedia's listing [5].
+
+### Positions & plans
+
+**Energy & utilities**
+
+- Called for NIPSCO to give customers "a 100% credit for every day they went without service," saying "NIPSCO didn't create the storm, but the ratepayers of the 10th District believe NIPSCO helped create the chaos" [10].
+- Authored HB 1068 in 2026 to let voters decide whether Indiana Utility Regulatory Commission commissioners should be retained [9].
+
+**Labor & workers**
+
+- Authored HB 1069 in 2026 to let employees injured on the job choose their physician [9]; wrote in June 2026 that "we owe it to them to fight for them when their livelihoods are threatened by corporate greed" [13].
+
+**Elections & redistricting**
+
+- Opposed mid-decade redistricting, writing that it was pursued "Not because of new census data. Not because communities have shifted. But for political reasons," and voted against HB 1032 [6, 7].
+
+**Public safety**
+
+- Authored HB 1211 (stronger penalties for reckless speeding) and HB 1070 (a $200 income tax credit for volunteer firefighters) in 2026 [9].
+
+### On the current officeholder
+
+- Is the current officeholder. No statements by Moseley about his challenger were found.
+
+### How they say they'd run the office
+
+- Supports a legislative investigation of NIPSCO's storm response with public hearings in Northwest Indiana and legislation ready for the January session [11].
+
+### What we couldn't verify
+
+- No campaign website was found; his legislative newsletter and caucus releases were used instead.
+- Whether any of his 2026 bills (HB 1068–1071, HB 1211) advanced or became law was not confirmed; no bills he authored that became law in 2023–2026 were identified.
+- His individual votes on the 2025 property-tax law (SEA 1) and 2025 budget (HEA 1001) were not confirmed from a roll call.
+- His newsletter header lists Financial Institutions among his committees, while the caucus page lists Commerce, Small Business and Economic Development — discrepancy unresolved.
+- A search snippet from an Indiana Capital Chronicle voter guide (site returned 403) said he did not respond to its survey — unverified.
+- No campaign-finance reports were reviewed.
+
+## Ted Uzelac
+
+Ted Uzelac, a Republican, is assistant police chief for the City of Portage and a combat veteran; his campaign emphasizes public safety, jobs and affordability [14, 12].
+
+Campaign website: https://www.teduzelac.com/
+
+### Background
+
+- His campaign says he was raised in Northwest Indiana, joined the military after high school, became a Portage police officer, re-enlisted after Sept. 11, 2001 and deployed to Mosul, Iraq [12].
+- Describes himself as "a proud combat veteran, Purple Heart recipient and assistant police chief for the city of Portage" [14].
+- BallotReady lists his police service as beginning in 1998 [15].
+
+### Path to the ballot
+
+- Was the only Republican candidate in the May 5, 2026 primary, according to Wikipedia's listing [5].
+
+### Positions & plans
+
+**Public safety**
+
+- His campaign proposes more tools, training and support for law enforcement, tougher penalties for violent offenders, targeting drug and human trafficking routes, and fully funding police departments [12].
+
+**Economy & jobs**
+
+- Supports local hiring requirements for public projects, vocational training and apprenticeships, and keeping jobs in Indiana [12, 15].
+
+**Housing**
+
+- Wants to expand access to affordable housing and keep home ownership attainable [12, 15].
+
+**Property taxes**
+
+- Supports development that limits property tax increases [12].
+
+**Energy & utilities**
+
+- Calls for transparency and reform in utility rates [12].
+
+**Veterans & first responders**
+
+- Proposes partnerships between state programs and local organizations for employment, mental health, medical and education services, saying support "means more than saying 'thank you'" [12].
+
+### On the current officeholder
+
+- No public statements by Uzelac about Rep. Moseley or the seat's record were found; his campaign pages do not name his opponent [14, 12].
+
+### What we couldn't verify
+
+- A search result showed an IUOE Local 150 endorsement list naming Uzelac; the document was not read — unverified.
+- Search-result snippets from an Indiana Capital Chronicle voter guide (site returned 403) said he supported gas-tax suspensions, did not respond to its survey, and that his redistricting stance is unclear — unverified.
+- No news coverage of his campaign was found; no forum appearances found.
+- No campaign-finance reports were reviewed.
+
+## Sources
+
+1. [Indiana House of Representatives](https://en.wikipedia.org/wiki/Indiana_House_of_Representatives) — Wikipedia, accessed 2026-10-10
+2. [2026 General Election Candidate List](https://www.in.gov/sos/elections/candidate-information/) — Indiana Election Division, 2026-09-22
+3. [State Rep. Chuck Moseley](https://www.indianahousedemocrats.org/members/chuck-moseley) — Indiana House Democratic Caucus, accessed 2026-10-10
+4. [Charles Moseley](https://en.wikipedia.org/wiki/Charles_Moseley) — Wikipedia, accessed 2026-10-10
+5. [2026 Indiana House of Representatives election](https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election) — Wikipedia, accessed 2026-10-10
+6. [Thank you Northwest Indiana!](https://repchuckmoseley.substack.com/p/thank-you-northwest-indiana) — Rep. Chuck Moseley's Newsletter (Substack), 2025-10-08
+7. [Legislator Detail: Chuck Moseley (vote record)](https://www.billtrack50.com/public/scorecard/legislator/TNvEht1gV0ilLkxyi9h0rQ/5262) — BillTrack50, accessed 2026-10-10
+8. [Indiana redistricting bill passes the House](https://www.21alivenews.com/2025/12/05/indiana-redistricting-bill-passes-house) — 21Alive (WPTA), 2025-12-05
+9. [My 2026 Legislative Agenda](https://repchuckmoseley.substack.com/p/my-2026-legislative-agenda) — Rep. Chuck Moseley's Newsletter (Substack), 2026-01-15
+10. [Moseley calls on NIPSCO to credit customers for days without power](https://www.indianahousedemocrats.org/news/moseley-calls-on-nipsco-to-credit-customers-for-days-without-power) — Indiana House Democratic Caucus, 2026-08-27
+11. [Northwest Indiana lawmakers call for legislative investigation into NIPSCO's storm response](https://www.indianahousedemocrats.org/news/northwest-indiana-lawmakers-call-for-legislative-investigation-into-nipscos-storm-response) — Indiana House Democratic Caucus, 2026-08-26
+12. [Learn More About Ted](https://www.teduzelac.com/learn/) — Committee to Elect Ted Uzelac (campaign), accessed 2026-10-10
+13. [Rep. Moseley's June Update](https://repchuckmoseley.substack.com/p/rep-moseleys-june-update) — Rep. Chuck Moseley's Newsletter (Substack), 2026-06-25
+14. [Ted Uzelac for State Representative](https://www.teduzelac.com/) — Committee to Elect Ted Uzelac (campaign), accessed 2026-10-10
+15. [Ted Uzelac](https://www.ballotready.org/people/ted-uzelac) — BallotReady, accessed 2026-10-10

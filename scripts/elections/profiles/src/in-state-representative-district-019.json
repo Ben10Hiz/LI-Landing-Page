@@ -1,0 +1,138 @@
+{
+ "race_id": "in-state-representative-district-019",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Julie Olthoff",
+  "party": "Republican",
+  "summary": "Julie Olthoff, a Republican from Crown Point and retired founder of VIA Marketing, represented House District 19 from 2014 to 2018 and again since 2020, according to the House Republican caucus {hr_olthoff}. She is an assistant majority whip, vice chair of the Commerce, Small Business and Economic Development Committee, and a member of the Family, Children and Human Affairs and the Rules and Legislative Procedures committees {hr_olthoff}.",
+  "record": [
+   "2024: Authored a law requiring disclosure of political deepfakes in election advertising, according to the caucus {hr_olthoff}.",
+   "April 2025: Voted for the property tax law, SEA 1 (passed the House 65-29), and for the conference report on the 2025-27 state budget, HEA 1001 (adopted 66-27) {rc_sb1_433} {rc_hb1001_576}.",
+   "December 5, 2025: Voted for House Bill 1032, the mid-decade congressional redistricting bill, which passed the House 57-41 and was later defeated in the Senate {rc_hb1032} {icc_redistricting}.",
+   "March 2026: Sponsored Senate Enrolled Act 164, which directs the Indiana State Department of Agriculture to study community or urban micro-farm zones and report by December 1, 2027 {hr_olthoff_sea164}.",
+   "April 2026: Sponsored Senate Enrolled Act 139, which passed unanimously and exempts breastfeeding mothers of children under one from jury duty; Olthoff said it \"eases undo stress and concerns of nursing mothers\" {hr_olthoff_sea139}.",
+   "June 2026: Appointed to the Interim Study Committee on Child Services, saying \"Every Hoosier child deserves to grow up safe, supported and given the opportunity to thrive\" {hr_olthoff_interim}."
+  ]
+ },
+ "race_context": [
+  "House District 19 covers portions of Lake and Porter counties {hr_olthoff}; Olthoff's campaign describes it as including Crown Point, Winfield, the Porter County side of Lakes of the Four Seasons, parts of Merrillville and most of Hobart {olthoff_site}.",
+  "Olthoff is seeking re-election; she and Democrat Nick Neal were each the only declared candidate in their party's May 5, 2026 primary, according to Wikipedia, which also reports Olthoff was unopposed in 2024 {wiki_2026_inhouse}.",
+  "No debate or candidate forum for this race was found as of October 10, 2026.",
+  "Neal's platform criticizes the 2025 property tax law (SEA 1) for shifting costs to local governments and calls for child care expansion and public school investment {neal_site}; Olthoff voted for SEA 1 and emphasizes her work on child welfare and South Shore Line expansion funding {rc_sb1_433} {olthoff_site}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Julie Olthoff",
+   "summary": "Julie Olthoff, the Republican incumbent from Crown Point, is an assistant majority whip who has served in the House for about a decade over two stints {hr_olthoff}.",
+   "website": "https://votersforjulie.com/",
+   "background": [
+    "Founded and led VIA Marketing for 38 years before selling the firm and retiring, according to the caucus {hr_olthoff}.",
+    "Was named Legislator of the Year by the Indiana School Counselor Association in 2017 and by the Arc of Indiana {hr_olthoff}.",
+    "Lives in Crown Point {hr_olthoff}."
+   ],
+   "path_to_ballot": [
+    "Was the only declared candidate in the May 5, 2026 Republican primary, according to Wikipedia {wiki_2026_inhouse}."
+   ],
+   "positions": [
+    {"topic": "Children & families", "items": [
+     "Her campaign site highlights policy work protecting infants, foster children and sexual assault victims {olthoff_site}; the caucus lists past bills on youth suicide prevention training, child care facility safety and foster family child care eligibility {hr_olthoff}."
+    ]},
+    {"topic": "Education", "items": [
+     "Her campaign site says she has worked to direct more money to classrooms {olthoff_site}."
+    ]},
+    {"topic": "Transportation", "items": [
+     "Her campaign site cites securing funding for South Shore Line expansion projects {olthoff_site}."
+    ]},
+    {"topic": "Elections & redistricting", "items": [
+     "Authored the 2024 deepfake disclosure law and voted for HB 1032 redistricting {hr_olthoff} {rc_hb1032}."
+    ]},
+    {"topic": "Property taxes", "items": [
+     "Voted for SEA 1 (2025) {rc_sb1_433}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. Her campaign site does not mention her opponent {olthoff_site}."
+   ],
+   "plans": [
+    "Her campaign site says she pursues bills that originate with constituents' problems and pledges to deliver \"tangible results\" {olthoff_site}."
+   ],
+   "endorsements_finance": [
+    "Her campaign site lists 2026 endorsements from Hoosiers for Quality Education, the Indiana Chamber of Commerce, Indiana Professional Fire Fighters, Indiana Right to Life, the Indiana State Police Alliance, Iron Workers Local 395, NFIB, the Northern Indiana Building & Construction Trades Council and Operating Engineers Local 100 {olthoff_site}.",
+    "No fundraising totals were found in news coverage."
+   ],
+   "gaps": [
+    "No public statement by Olthoff explaining her redistricting vote was found.",
+    "No news coverage of the 2026 race was found.",
+    "Campaign finance reports were not reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Nick Neal",
+   "summary": "Nick Neal, a Democrat, describes himself as a former police officer and nonprofit executive who has worked about 20 years with Northwest Indiana families, schools and agencies {neal_site} {neal_meet}.",
+   "website": "https://www.votenickneal.com/",
+   "background": [
+    "His campaign says he began in law enforcement and moved into nonprofit leadership, leading programs on child abuse prevention, truancy and domestic violence {neal_site} {neal_meet}.",
+    "Graduated from Andrean High School, holds a criminal justice degree from Indiana University Northwest and a dual master's in law enforcement administration and public administration, according to his campaign {neal_meet}.",
+    "Says he grew up in Northwest Indiana {neal_meet}."
+   ],
+   "path_to_ballot": [
+    "Was the only declared candidate in the May 5, 2026 Democratic primary, according to Wikipedia {wiki_2026_inhouse}."
+   ],
+   "positions": [
+    {"topic": "Property taxes", "items": [
+     "Says \"Indiana's tax system increasingly relies on regressive taxes, such as sales, fuel and property taxes\" and that SEA 1 \"shifts the financial burden onto local governments,\" which he says could lead to cuts in police, fire and schools {neal_site}."
+    ]},
+    {"topic": "Child care", "items": [
+     "Wants to expand child care options and wraparound services, saying Indiana ranks poorly for early childhood care access and affordability {neal_site}."
+    ]},
+    {"topic": "Education", "items": [
+     "Supports higher teacher pay, school mental health staff and vocational programs and opposes diverting funds through school choice programs {neal_site}."
+    ]},
+    {"topic": "Health care", "items": [
+     "Says \"I believe health care is a right, not a privilege\" and supports protecting Medicaid and expanding mental health and addiction services {neal_site}."
+    ]},
+    {"topic": "Public safety", "items": [
+     "Says safe communities \"result from investing in people, prevention and public safety\" and would work with law enforcement and fund prevention programs {neal_site}."
+    ]},
+    {"topic": "Infrastructure", "items": [
+     "Opposes tolls on taxpayer-funded roads and supports more funding for roads, flood control, broadband and transit {neal_site}."
+    ]},
+    {"topic": "Economy & jobs", "items": [
+     "Supports small business investment, apprenticeships and transparent economic incentives {neal_site}."
+    ]}
+   ],
+   "on_incumbent": [
+    "His site does not mention Olthoff by name; it says \"Indianapolis takes our communities for granted\" and criticizes SEA 1, which Olthoff voted for {neal_site} {rc_sb1_433}."
+   ],
+   "plans": [
+    "Lists priorities of making everyday costs more manageable, ensuring communities get their share of state funding, and supporting local services, and says \"We accomplish more through conversation than confrontation\" {neal_meet}."
+   ],
+   "endorsements_finance": [
+    "No fundraising totals were found in news coverage."
+   ],
+   "gaps": [
+    "His campaign site shows endorsement logos without text; file names suggest Indivisible NWI, the Indiana AFL-CIO and the United Steelworkers, but these were not verified.",
+    "The police department and nonprofit organizations he worked for are not named in sources reviewed.",
+    "No news coverage of his campaign was found.",
+    "Campaign finance reports were not reviewed."
+   ]
+  }
+ ],
+ "sources": {
+  "hr_olthoff": ["Rep. Julie Olthoff", "Indiana House Republicans", "accessed 2026-10-10", "https://www.indianahouserepublicans.com/members/leadership/julie-olthoff/"],
+  "hr_olthoff_sea164": ["Rep. Olthoff: Legislation exploring micro-farming signed into law", "Indiana House Republicans", "2026-03-10", "https://www.indianahouserepublicans.com/news/press-releases/rep.-olthoff-legislation-exploring-micro-farming-signed-into-law/"],
+  "hr_olthoff_sea139": ["Governor ceremonially signs new law sponsored by Olthoff to exempt breastfeeding mothers from jury duty", "Indiana House Republicans", "2026-04-16", "https://www.indianahouserepublicans.com/news/press-releases/governor-ceremonially-signs-new-law-sponsored-by-olthoff-to-exempt-breastfeeding-mothers-from-jury-duty/"],
+  "hr_olthoff_interim": ["Rep. Olthoff receives 2026 summer study committee appointment", "Indiana House Republicans", "2026-06-30", "https://www.indianahouserepublicans.com/news/press-releases/rep.-olthoff-receives-2026-summer-study-committee-appointment/"],
+  "olthoff_site": ["Voters for Julie", "Olthoff campaign", "accessed 2026-10-10", "https://votersforjulie.com/"],
+  "rc_sb1_433": ["SB 1 House Roll Call 433 (third reading)", "Indiana House of Representatives (via billtexts)", "2025-04-10", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"],
+  "rc_hb1001_576": ["HB 1001 House Roll Call 576 (conference committee report)", "Indiana House of Representatives (via billtexts)", "2025-04-25", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"],
+  "rc_hb1032": ["HB 1032 House Roll Call 28 (third reading)", "Indiana House of Representatives (via billtexts)", "2025-12-05", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"],
+  "icc_redistricting": ["Indiana House approves redistricting bill, sending issue to state Senate", "Indiana Capital Chronicle (via Yahoo News)", "2025-12-05", "https://www.yahoo.com/news/articles/indiana-house-approves-redistricting-bill-185219428.html"],
+  "wiki_2026_inhouse": ["2026 Indiana House of Representatives election", "Wikipedia", "accessed 2026-10-10", "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"],
+  "neal_site": ["Nick Neal for State Representative", "Neal campaign", "accessed 2026-10-10", "https://www.votenickneal.com/"],
+  "neal_meet": ["Meet Nick", "Neal campaign", "accessed 2026-10-10", "https://www.votenickneal.com/meetnick"]
+ }
+}

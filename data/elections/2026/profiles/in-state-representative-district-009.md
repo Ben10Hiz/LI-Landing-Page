@@ -38,7 +38,7 @@ Randy Novak, a Democrat and former Michigan City fire chief, has held the Distri
 
 ## Chris Cleveland
 
-Chris Cleveland, a Republican software entrepreneur who now lives in LaPorte County, says on his campaign site he previously chaired the Chicago Republican Party; he is running on cutting the cost of government, auditing utilities and health-care price transparency [14, 15].
+Chris Cleveland, a Republican software entrepreneur, says on his campaign site he previously chaired the Chicago Republican Party; he is running on cutting the cost of government, auditing utilities and health-care price transparency [14, 15].
 
 Campaign website: https://clevelandforindiana.com/
 
