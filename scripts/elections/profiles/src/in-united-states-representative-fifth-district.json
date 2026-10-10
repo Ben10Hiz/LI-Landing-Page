@@ -1,0 +1,195 @@
+{
+ "race_id": "in-united-states-representative-fifth-district",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@us_house",
+ "incumbent": {
+  "name": "Victoria Spartz",
+  "party": "Republican",
+  "summary": "Victoria Spartz, a Republican from Noblesville, was first elected in 2020 and is seeking a fourth term {icc_wndu}{spartz_about}. Her House office lists her as a member of the Joint Economic Committee and says she leads working groups on health care and budget reforms {spartz_about}.",
+  "record": [
+   "December 2024: Announced she would decline all committee assignments in the U.S. House {wfyi_launch}. Her House website now lists her as serving on the Joint Economic Committee {spartz_about}.",
+   "May 22, 2025: Voted yes on House passage of H.R. 1, the reconciliation tax-and-spending bill later titled the One Big Beautiful Bill Act, which passed 215-214 {roll145}.",
+   "July 3, 2025: Voted yes on the motion to agree to the Senate's version of H.R. 1, which passed 218-214 and sent the bill to the president {roll190}.",
+   "September 19, 2025: Voted no on H.R. 5371, a stopgap spending bill (continuing resolution); it passed 217-212, with Spartz one of two Republicans voting no {roll281}.",
+   "November 12, 2025: Voted yes on the Senate-amended H.R. 5371, which ended the federal government shutdown and passed 222-209 {roll285}. Before the vote, she said, \"At least we're not increasing spending with an omnibus with over a trillion dollars of Democrats demanded\" {mnc_shutdown}.",
+   "2025: Supported the effort to redraw Indiana's congressional map in the middle of the decade; the Indiana Senate rejected the proposed map on December 11, 2025 {icc_wndu}{wfyi_guide}{ap_redistrict}.",
+   "July 22, 2026: Voted yes on H.R. 7008, the Stop Insider Trading Act, which passed the House 232-198 {roll280}.",
+   "August 6, 2026: Wrote to the chairs of the Energy and Commerce and Ways and Means committees asking them to strengthen pending health care price transparency legislation before a floor vote, saying, \"Americans deserve real price transparency - not another Washington messaging exercise\" {spartz_pricing}.",
+   "September 2026: Her lawyers sent cease-and-desist letters to three Indianapolis TV stations asking them to stop airing a PAC ad about stock transactions, saying every reported transaction was made in Roth IRA accounts held by her husband and dependent children {indystar_ad}."
+  ]
+ },
+ "race_context": [
+  "The 5th District covers Hamilton, Madison, Delaware, Grant and Tipton counties and most of Howard County, including Anderson, Carmel, Fishers, Kokomo, Marion, Muncie and Noblesville {wfyi_launch}{wfyi_guide}.",
+  "WFYI reports that a Republican has held the seat since 1992 {wfyi_guide}. WTHR reports that Donald Trump carried the district by 17 points in 2024 {wthr_cook}.",
+  "In the May 5, 2026 Republican primary, Spartz won 59.9% to Scott King's 40.1% {nbc_primary}. In the seven-candidate Democratic primary, J.D. Ford won 42.5%, ahead of Jackson Franklin (17.0%) and Deborah Pickett (14.1%) {nbc_primary}{wvxu_primary}.",
+  "On October 9, 2026, the Cook Political Report moved the race from Solid Republican to Likely Republican, citing Spartz's primary results, private polling and her campaign's ads about Ford's state Senate record, according to WTHR {wthr_cook}. The Democratic Congressional Campaign Committee lists the district as a target seat {icc_wndu}.",
+  "The candidates took opposite sides in the 2025 redistricting fight: Spartz supported redrawing the map, and Ford voted against it in the Indiana Senate {icc_wndu}.",
+  "Debates: On September 21, 2026, Ford wrote that he accepted Spartz's invitation to debate {larry_debate}. In an October 8 statement, Spartz's campaign said WTHR had proposed October 19 or 20 and FOX59/CBS4 had proposed October 23 or 30, and that she was ready for either or both {spartz_debate}. No final debate date had been confirmed in sources reviewed.",
+  "Both candidates have said Congress needs to regulate artificial intelligence {wish_ai}. They differ on immigration enforcement, the 2025 tax-and-spending law, and redistricting {wish_ai}{indypol_ford}{icc_wndu}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Victoria Spartz",
+   "summary": "Incumbent Republican seeking a fourth term; a former CPA and Indiana state senator who says she is running to address the national debt and health care costs {wfyi_guide}{wvxu_primary}{spartz_about}.",
+   "website": "https://www.spartzforcongress.com/",
+   "background": [
+    "Born in Ukraine, she immigrated to the U.S. in 2000 and became a citizen {spartz_about}{wfyi_guide}.",
+    "She worked as a CPA at large accounting firms, taught at Indiana University's Kelley School of Business, served as chief financial officer of the Indiana Attorney General's Office, and served in the Indiana Senate {spartz_about}.",
+    "She has degrees from the National University of Economics in Ukraine and IU's Kelley School of Business, and lives in Noblesville {spartz_about}.",
+    "She announced in 2023 that she would not seek reelection, then reversed course and won a third term in 2024 {wfyi_launch}."
+   ],
+   "path_to_ballot": [
+    "Filed for reelection in January 2026 {wfyi_launch}.",
+    "Won the May 5, 2026 Republican primary with 59.9% over Scott King {nbc_primary}."
+   ],
+   "positions": [
+    {"topic": "Federal debt and spending", "items": [
+     "Says the national debt is unsustainable and spending must be cut, and supports a balanced budget without raising taxes on U.S. citizens {spartz_issues}.",
+     "Said she is running \"to help get our Republic back on track fiscally\" {wvxu_primary}."
+    ]},
+    {"topic": "Health care", "items": [
+     "Supports more price transparency and competition, more consumer choice, and value-based care models {spartz_issues}{wvxu_primary}.",
+     "Said the price transparency law Congress passed earlier has flaws and \"has to be fixed\" (October 2026) {wish_ai}."
+    ]},
+    {"topic": "Immigration", "items": [
+     "Supports the Trump administration's deportation strategy and said her office will help U.S. citizens or lawful permanent residents affected by enforcement actions (October 2026) {wish_ai}.",
+     "Calls for a faster, less costly legal immigration process and a stronger work visa program {spartz_issues}.",
+     "WFYI reports she emphasizes border security and cooperation between federal and local law enforcement {wfyi_guide}."
+    ]},
+    {"topic": "Elections", "items": [
+     "On the SAVE America Act, WFYI reports she supports voter ID and election audits and suggested giving states more time to carry out changes {wfyi_guide}."
+    ]},
+    {"topic": "Energy, data centers and AI", "items": [
+     "Supports nuclear and natural gas energy and bringing manufacturing back to communities in the district {wvxu_primary}.",
+     "Says data centers should pay their share and be transparent about their benefits {wfyi_guide}.",
+     "Says Congress needs to set rules for AI: \"We have to have a serious conversation because there are a lot of threats\" (October 2026) {wish_ai}."
+    ]},
+    {"topic": "Government and regulation", "items": [
+     "Calls for auditing the government, simplifying the tax code, limiting the regulatory powers of the executive branch, and term limits {spartz_issues}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Is the current officeholder.",
+    "In a September 18, 2026 letter, she asked Ford to remove or correct statements about her finances and record, said she has never personally owned or traded individual stocks, and invited him to debate {larry_debate}{indystar_ad}.",
+    "On October 8, 2026, her campaign said Ford \"should be prepared to do the same and substantiate his accusations against me\" and that \"Hoosiers deserve a serious policy debate, not another circus\" {spartz_debate}.",
+    "Her campaign has run a TV ad titled \"Why is J.D. Ford lying about Victoria Spartz\" {spartz_ad}. Cook Political Report described her ads as targeting Ford's state Senate record, according to WTHR {wthr_cook}."
+   ],
+   "plans": [
+    "Seeks changes to pending federal health care price transparency legislation, including broader disclosure of negotiated prices and wider access to health plan claims data {spartz_pricing}.",
+    "Said she had hoped to finish the price transparency fix in September and said, \"Maybe after the election, Democrats will actually work better with us\" (October 2026) {wish_ai}."
+   ],
+   "endorsements_finance": [
+    "Her campaign website lists endorsements from Gun Owners of America, the National Rifle Association, Indiana Right to Life, NFIB and Susan B. Anthony Pro-Life Fund {spartz_site}.",
+    "Victoria Spartz for Congress reported $1,327,228 in receipts, $1,355,274 in spending and $230,004 cash on hand for the 2025–26 cycle through June 30, 2026 {fec_spartz}."
+   ],
+   "gaps": [
+    "Could not access Congress.gov or GovTrack (403/rate limits) to list bills she sponsored in 2025–26 or whether any advanced; none are listed here.",
+    "No statement from Spartz explaining her H.R. 1 votes or addressing Medicaid changes was found.",
+    "Dates of the endorsements on her campaign site were not shown; some may date from earlier campaigns.",
+    "WTHR's candidate interview, Current Publishing's primary story and Axios Indianapolis's voter guide could not be fetched (403).",
+    "Third-quarter 2026 FEC reports (due Oct. 15) were not yet available."
+   ]
+  },
+  {
+   "ballot_name": "J.D. Ford",
+   "summary": "Democratic Indiana state senator for District 29 since 2018, who says he is running to lower costs, protect health care access and increase government accountability {wfyi_guide}{ford_platform}.",
+   "website": "https://www.electjdford.com/",
+   "background": [
+    "Elected to the Indiana Senate in 2018 for District 29, which includes parts of Carmel, Indianapolis and Zionsville {wfyi_launch}.",
+    "The first openly gay member of the Indiana General Assembly {wfyi_launch}.",
+    "Holds a master's degree in education {wfyi_guide}. His campaign says he previously worked in the nonprofit sector and has served as Senate Minority Caucus Whip and Caucus Chair and as ranking minority member on the Education, Veterans Affairs and the Military, and Family and Children Services committees {ford_about}.",
+    "Served on the Indiana General Assembly's AI task force {wish_ai}."
+   ],
+   "path_to_ballot": [
+    "Announced his campaign on January 14, 2026, saying the 2025 redistricting push led him to run: \"I couldn't stand by the sidelines anymore\" {wfyi_launch}.",
+    "Won the seven-candidate May 5, 2026 Democratic primary with 42.5% of the vote {nbc_primary}{wvxu_primary}."
+   ],
+   "positions": [
+    {"topic": "Cost of living", "items": [
+     "Proposes barring international investors and large corporations from buying homes {ford_platform}{icc_wndu}.",
+     "Opposes the administration's tariffs, which he says hurt farmers and small businesses {ford_platform}{indypol_ford}.",
+     "Says he voted in the state Senate to end the 7% sales tax on utility bills {ford_platform}{indypol_ford}."
+    ]},
+    {"topic": "Health care", "items": [
+     "Proposes restoring and protecting Medicaid funding, supporting rural hospitals, and capping health care and prescription costs {ford_platform}{icc_wndu}.",
+     "Supports codifying Roe v. Wade in federal law {ford_platform}."
+    ]},
+    {"topic": "Immigration", "items": [
+     "Says he supports enforcing immigration laws but wants ICE agents to wear body cameras, obtain warrants before arrests and stop wearing masks (October 2026) {wish_ai}{ford_platform}.",
+     "Supports a path to citizenship for people brought to the U.S. as children and for those who have worked and paid taxes {wish_ai}."
+    ]},
+    {"topic": "Elections", "items": [
+     "On the SAVE America Act, WFYI reports he supports voter ID but opposes the bill, and supports the John Lewis Voting Rights Act {wfyi_guide}.",
+     "Opposed the 2025 mid-decade redistricting proposal and voted against it in the Indiana Senate {icc_wndu}."
+    ]},
+    {"topic": "Data centers and AI", "items": [
+     "Says data centers should pay their own water and utility costs, and has filed state bills on data center transparency and regulation {ford_platform}{wfyi_guide}.",
+     "Says Congress should pass AI regulation: \"AI does good things but can also be used for nefarious reasons\" (October 2026) {wish_ai}."
+    ]},
+    {"topic": "Federal budget and war powers", "items": [
+     "Says Congress should use its War Powers Act and spending authority to limit the war with Iran, and that debt can be reduced by cutting waste and avoiding such conflicts {wish_ai}.",
+     "Opposes the 2025 tax-and-spending law, which he says increased the deficit {indypol_ford}."
+    ]},
+    {"topic": "Other issues", "items": [
+     "Supports the Equality Act, universal background checks for gun sales, protecting Social Security benefits, full funding for public schools, and changes to marijuana laws {ford_platform}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Said Spartz's support for redrawing the congressional map \"was the last straw\" in his decision to run {wvxu_primary}.",
+    "Says Spartz backed the 2025 tax-and-spending law, which he says will remove about 650,000 Hoosiers from health coverage, and the tariff policies he opposes (July 2026) {indypol_ford}. His campaign repeated the 650,000 figure on October 1 without naming a source {ford_release}.",
+    "His campaign says Spartz has benefited from about $5.9 million in stock trades and used campaign money toward a family investment property; Spartz says the trades were in her husband's and children's retirement accounts and calls the claims inaccurate {ford_release}{larry_debate}{indystar_ad}.",
+    "On September 21, 2026, he wrote to Spartz that \"If your disclosures are wrong, it does not change the fact that you benefitted from stock trading while in Congress,\" and called her vote for H.R. 7008 a distraction {larry_debate}."
+   ],
+   "plans": [
+    "Says he will hold regular town halls {ford_platform}{icc_wndu}.",
+    "Proposes stricter oversight of ICE, including mandatory body cameras and higher training standards {ford_platform}.",
+    "Says he will work with members of either party on AI regulation {wish_ai}."
+   ],
+   "endorsements_finance": [
+    "His campaign lists endorsements from Joe Donnelly, Martin O'Malley, the Indiana AFL-CIO, United Auto Workers, AFT Indiana, United Steelworkers District 7, Planned Parenthood Action Fund, firefighter unions in Anderson, Muncie and Hamilton County, and others {ford_endorse}.",
+    "Neighbors to Elect J.D. Ford reported $582,087 in receipts, $267,434 in spending and $314,652 cash on hand through June 30, 2026 {fec_ford}.",
+    "A separate group, Commonsense Hoosiers PAC, has run ads about Spartz's stock transactions; IndyStar reports it is not officially connected to Ford's campaign, but its email address is linked to a firm whose co-founder is Ford's campaign treasurer {indystar_ad}."
+   ],
+   "gaps": [
+    "Ford's statement that he helped cap insulin and EpiPen prices could not be matched to an enacted bill; search snippets showed a failed insulin-cap amendment and a co-authored bill whose outcome was not confirmed.",
+    "The 650,000 coverage-loss figure is Ford's claim; no independent estimate was reviewed.",
+    "A search snippet mentioned a March 2026 Ford cease-and-desist over ads from a crypto-funded PAC (Wednesday Journal); not fetched or verified.",
+    "His campaign's \"corrects the record\" post and the WTHR interview could not be read.",
+    "Third-quarter 2026 FEC reports (due Oct. 15) were not yet available."
+   ]
+  }
+ ],
+ "sources": {
+  "spartz_about": ["About Victoria", "Office of Rep. Victoria Spartz (spartz.house.gov)", "accessed 2026-10-10", "https://spartz.house.gov/about"],
+  "spartz_pricing": ["Spartz Calls for Real Price Transparency, Not Another Washington Messaging Exercise", "Office of Rep. Victoria Spartz", "2026-08-06", "https://spartz.house.gov/media/press-releases/spartz-calls-real-price-transparency-not-another-washington-messaging-exercise"],
+  "roll145": ["Roll Call 145: H.R. 1, On Passage", "Clerk of the U.S. House of Representatives", "2025-05-22", "https://clerk.house.gov/Votes/2025145"],
+  "roll190": ["Roll Call 190: H.R. 1, On Motion to Concur in the Senate Amendment", "Clerk of the U.S. House of Representatives", "2025-07-03", "https://clerk.house.gov/Votes/2025190"],
+  "roll281": ["Roll Call 281: H.R. 5371, On Passage", "Clerk of the U.S. House of Representatives", "2025-09-19", "https://clerk.house.gov/Votes/2025281"],
+  "roll285": ["Roll Call 285: H.R. 5371, On Motion to Concur in the Senate Amendment", "Clerk of the U.S. House of Representatives", "2025-11-12", "https://clerk.house.gov/Votes/2025285"],
+  "roll280": ["Roll Call 280: H.R. 7008, Stop Insider Trading Act, On Passage", "Clerk of the U.S. House of Representatives", "2026-07-22", "https://clerk.house.gov/Votes/2026280"],
+  "mnc_shutdown": ["Spartz backs shutdown end", "95.3 MNC / Network Indiana", "2025-11-12", "https://www.953mnc.com/2025/11/12/spartz-backs-shutdown-end"],
+  "ap_redistrict": ["Indiana Republicans block Trump's redistricting push in rare break with president", "Associated Press (via ABC7)", "2025-12-11", "https://abc7.com/post/indiana-redistricting-news-proposed-2025-map-fails-pass-state-senate-vote-thursday-amid-pressure-president-donald-trump/18276745/"],
+  "wfyi_launch": ["Ford challenges Spartz for 5th Congressional District, says redistricting fight motivated move", "WFYI / Indiana Public Broadcasting", "2026-01-14", "https://www.wfyi.org/wfyi-news/2026-01-14/jd-ford-announces-congress-run-spartz-5th-district-redistricting"],
+  "wfyi_guide": ["2026 Voter Guide: Indiana's 5th Congressional District", "WFYI Public Media", "2026-09-21", "https://www.wfyi.org/statewide/2026-09-21/2026-voter-guide-indianas-5th-congressional-district"],
+  "wvxu_primary": ["Your guide to the crowded 2026 primary for Indiana's 5th Congressional District", "WFYI / WVXU", "2026-04-17", "https://www.wvxu.org/2026-04-17/your-guide-to-the-crowded-2026-primary-for-indianas-5th-congressional-district"],
+  "nbc_primary": ["Indiana House District 5 Primary Election Results 2026", "NBC News", "2026-05", "https://www.nbcnews.com/politics/2026-primary-elections/indiana-us-house-district-5-results"],
+  "icc_wndu": ["All nine Indiana congressional seats are contested. Here's who's running", "Indiana Capital Chronicle (via WNDU)", "2026-10-09", "https://www.wndu.com/2026/10/10/all-nine-indiana-congressional-seats-are-contested-heres-whos-running/"],
+  "wthr_cook": ["Report: Indiana's 5th District may no longer be 'safe' for Spartz", "WTHR (via Yahoo News)", "2026-10-09", "https://yahoo.com/news/politics/articles/report-indianas-5th-district-may-193507579.html"],
+  "wish_ai": ["5th District race: Spartz and Ford agree on need for AI regulation", "WISH-TV", "2026-10-09", "https://www.wishtv.com/news/allindianapolitics/5th-district-race-spartz-and-ford-agree-on-need-for-ai-regulation/"],
+  "larry_debate": ["Ford accepts debate challenge, fires back at Spartz over stock trades", "Larry in Fishers", "2026-09-21", "https://www.larryinfishers.com/2026/09/21/ford-accepts-debate-challenge-fires-back-at-spartz-over-stock-trades/"],
+  "indystar_ad": ["U.S. Rep. Victoria Spartz sends cease-and-desist over PAC's attack ad", "IndyStar (via Yahoo News)", "2026-09-24", "https://www.yahoo.com/news/politics/articles/u-rep-victoria-spartz-sends-235700065.html"],
+  "indypol_ford": ["Ford presses affordability, health care in bid to unseat Spartz in Indiana's 5th District", "Indy Politics", "2026-07-12", "https://indypolitics.org/ford-presses-affordability-health-care-in-bid-to-unseat-spartz-in-indianas-5th-district/"],
+  "spartz_debate": ["Spartz to J.D. Ford: Hoosiers Deserve a Real Policy Debate, Not a Circus", "Victoria Spartz for Congress", "2026-10-08", "https://www.spartzforcongress.com/news/spartz-to-j-d-ford-hoosiers-deserve-a-real-policy-debate-not-a-circus/"],
+  "spartz_ad": ["Why is J.D. Ford lying about Victoria Spartz", "Victoria Spartz for Congress", "2026-10-02", "https://www.spartzforcongress.com/news/why-is-jd-ford-lying/"],
+  "spartz_issues": ["Issues", "Victoria Spartz for Congress", "accessed 2026-10-10", "https://www.spartzforcongress.com/issues/"],
+  "spartz_site": ["Victoria Spartz for Congress", "Victoria Spartz for Congress", "accessed 2026-10-10", "https://www.spartzforcongress.com/"],
+  "fec_spartz": ["Victoria Spartz, candidate for House, Indiana 05: 2026 financial summary", "Federal Election Commission", "2026-06-30", "https://www.fec.gov/data/candidate/H0IN05326/?cycle=2026"],
+  "fec_ford": ["J.D. Ford, candidate for House, Indiana 05: 2026 financial summary", "Federal Election Commission", "2026-06-30", "https://www.fec.gov/data/candidate/H6IN05307/?cycle=2026"],
+  "ford_platform": ["Platform", "J.D. Ford for Congress", "accessed 2026-10-10", "https://www.electjdford.com/platform"],
+  "ford_about": ["About", "J.D. Ford for Congress", "accessed 2026-10-10", "https://www.electjdford.com/about"],
+  "ford_endorse": ["Endorsements", "J.D. Ford for Congress", "accessed 2026-10-10", "https://www.electjdford.com/endorsements"],
+  "ford_release": ["J.D. Ford Exposes Victoria Spartz's Corruption and Votes Against Hoosiers", "J.D. Ford for Congress", "2026-10-01", "https://www.electjdford.com/post/j-d-ford-exposes-victoria-spartz-s-corruption-and-votes-against-hoosiers"]
+ }
+}

@@ -1,0 +1,217 @@
+{
+ "race_id": "in-united-states-representative-first-district",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@us_house",
+ "incumbent": {
+  "name": "Frank J. Mrvan",
+  "party": "Democratic",
+  "summary": "Frank J. Mrvan, a Democrat from Highland, first took office in 2021 and is seeking a fourth term; he serves on the House Appropriations Committee and is vice chairman of the Congressional Steel Caucus {wfyi_guide} {mrvan_about}.",
+  "record": [
+   "119th Congress (2025–2026): serves on the House Appropriations Committee, on its Commerce, Justice, and Science subcommittee and its Energy and Water Development subcommittee {mrvan_about}.",
+   "July 3, 2025: voted no on final House passage of H.R. 1, the One Big Beautiful Bill Act (the budget reconciliation tax-and-spending law), which passed 218–214 {clerk_obbba}. Mrvan said the bill \"creates a division between the very, very wealthy and the most vulnerable populations\" and said some parts that benefit Indiana could have passed as standalone measures {nwit_obbba}.",
+   "September 30, 2025: before the federal funding lapse, Mrvan said \"This shutdown will be the result of the Republican Majority's inability to govern\" and urged Speaker Johnson to call the House back into session {mrvan_shutdown_sept}.",
+   "November 12, 2025: voted no on the Senate-amended H.R. 5371, the Continuing Appropriations and Extensions Act, 2026, which ended the shutdown and passed 222–209 {clerk_cr_nov}. He said he supported releasing emergency food aid but that \"it is wrong to do so at the expense of affordable health care benefits,\" and objected that the deal did not extend health care tax credits, left out advance Toxic Exposures Fund money for veterans, and included a provision he called \"a corrupt, taxpayer funded cash grab for eight Republican Senators\" {mrvan_cr_statement}.",
+   "December 11, 2025: praised Indiana lawmakers for \"reaching a firm decision against mid-decade redistricting,\" which kept the district maps adopted in 2022 {mrvan_redistricting}.",
+   "January 8, 2026: said he voted for House-passed legislation providing \"a clean, three-year extension of the ACA enhanced premium tax credits,\" which he said about 24,000 people in the 1st District rely on {mrvan_aca}.",
+   "January 14, 2026: as Steel Caucus vice chairman, opened a caucus hearing on the steel industry, calling Section 232 steel tariffs \"a powerful tool in deterring bad trade practices\" and saying the caucus would seek to close loopholes that allow transshipment of Chinese steel during the USMCA renegotiation {mrvan_steel}.",
+   "January 22, 2026: announced that three of his community project funding requests, totaling $2,575,000 for the Gary/Chicago International Airport, a Michigan City community center, and a Gary demolition project, were included in the final House-approved FY2026 transportation and housing spending measure {mrvan_thud}.",
+   "February 5, 2026: wrote to Homeland Security Secretary Kristi Noem opposing the conversion of a Merrillville commercial warehouse into an ICE detention facility, citing lack of notice to local officials and saying \"The facility in question was not designed for human habitation\" {mrvan_ice}.",
+   "Sponsored bills in the 119th Congress: the Veterans' Security and Pay Transparency Act (H.R. 3359), the Revitalize Our Neighborhoods Act of 2025 (H.R. 6217), the PRO-WORK Act (H.R. 10194), and the Utility Affordability and Transparency Act (H.R. 10687); as of the latest Congress.gov records reviewed, none had advanced beyond committee referral or introduction {congress_sponsored}.",
+   "August 31, 2026: introduced the PRO-WORK Act, which would bar employers that lock out workers from receiving federal funds or tax credits for set periods {mrvan_prowork}.",
+   "September 10, 2026: asked the Federal Energy Regulatory Commission and the North American Electric Reliability Corporation to investigate power outages after the August 11, 2026 derecho, which he said caused nearly 375,000 customer outages in NIPSCO's service territory {mrvan_outage}.",
+   "October 2, 2026: introduced the Utility Affordability and Transparency Act, which would bar Energy Department emergency orders that delay power plant retirements and require utilities to show customers the added cost of any such federal order on monthly bills {mrvan_utility}."
+  ]
+ },
+ "race_context": [
+  "The 1st District covers Indiana's northwest corner, including Gary, Hammond, East Chicago, Portage and Michigan City, and has a population of over 760,000 {wfyi_guide}. It includes Lake and Porter counties and part of LaPorte County {wfyi_primary_guide}.",
+  "A Democrat has held the seat since the 1930s; WFYI reported that the Cook Political Report rates the race \"likely D\" {wfyi_guide}.",
+  "The district was a target of a 2025 push for mid-decade congressional redistricting, which Indiana lawmakers did not adopt, keeping the 2022 maps {wfyi_primary_guide} {mrvan_redistricting}.",
+  "In the May 5, 2026 primaries, Mrvan won the Democratic nomination with 80.2% over LaVetta Sparks-Wade (19.8%), and Barb Regnitz won the Republican nomination with 45.8% over James Schenke (30.1%) and Ben Ruiz (24.1%) {nbc_results}.",
+  "Former state official Jennifer-Ruth Green, the 2022 Republican nominee, dropped her bid in February 2026 {ipm_green}.",
+  "As of June 30, 2026, Mrvan had raised $2,386,267 and Regnitz had raised $2,376,255, according to FEC figures reported by WFYI {wfyi_guide}.",
+  "In a WFYI survey, voters raised data center policy, affordability, and feeling disempowered as key issues {wfyi_guide}.",
+  "Key differences in the candidates' stated priorities: Mrvan emphasizes steel jobs, health care and energy costs, and reproductive health care access; Regnitz emphasizes border enforcement, reduced federal spending and debt, and changes to election procedures {wfyi_guide} {wfyi_primary_guide}.",
+  "No scheduled debate between the candidates was found in the sources reviewed {wfyi_guide}.",
+  "Two declared write-in candidates are also on the state's list: Alexander R (Alex) Degman (Independent) and Prescription Dope Deaths Johnson, Jr (Other) {in_list}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Frank J. Mrvan",
+   "summary": "Democratic incumbent seeking a fourth term; a former North Township trustee who serves on the House Appropriations Committee {wfyi_guide}.",
+   "website": null,
+   "background": [
+    "Age 57, lives in Highland, and served 15 years as North Township Trustee before entering Congress in 2021 {wfyi_guide}.",
+    "Graduated from Morton High School and Ball State University {mrvan_about}.",
+    "Vice chairman of the Congressional Steel Caucus; has described himself as the grandson of a steelworker who spent 53 years in East Chicago's steel mills {mrvan_about} {mrvan_steel}."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Democratic primary with 80.2% of the vote over LaVetta Sparks-Wade {nbc_results}."
+   ],
+   "positions": [
+    {"topic": "Economy & jobs", "items": [
+     "Says \"I will continue to do all I can to defend the workers of the Northwest Indiana steel industry\" {wfyi_guide}.",
+     "Supports Section 232 steel tariffs and closing transshipment loopholes for Chinese steel {mrvan_steel}.",
+     "Sponsored the PRO-WORK Act to bar companies that lock out workers from federal funds and tax credits {mrvan_prowork}."
+    ]},
+    {"topic": "Cost of living", "items": [
+     "Pledges to lower energy and health care costs, make housing more affordable, support child care, reduce education costs, and raise wages {wfyi_guide}.",
+     "Introduced a bill to limit Energy Department emergency orders that keep power plants open and to show their cost on utility bills, saying \"Families deserve to know when government policies are increasing their utility bills\" {mrvan_utility}."
+    ]},
+    {"topic": "Health care", "items": [
+     "Supported a three-year extension of enhanced ACA premium tax credits (January 2026) {mrvan_aca}.",
+     "Lists protecting access to reproductive health care among his priorities {wfyi_primary_guide}."
+    ]},
+    {"topic": "Government spending", "items": [
+     "Voted against the 2025 reconciliation law (H.R. 1) and the November 2025 continuing resolution, citing health care and other cuts {clerk_obbba} {clerk_cr_nov} {mrvan_cr_statement}.",
+     "Secured community project funding requests in FY2026 spending measures, such as $850,000 for an air cargo apron at Gary/Chicago International Airport {mrvan_thud}."
+    ]},
+    {"topic": "Immigration & border", "items": [
+     "Says border security matters because of illegal drugs moving through an international port in the district {wfyi_primary_guide}.",
+     "Opposed a proposed ICE detention facility in Merrillville (February 2026) {mrvan_ice}."
+    ]},
+    {"topic": "Utilities & infrastructure", "items": [
+     "Requested a federal FERC–NERC review of NIPSCO outages after the August 2026 derecho, writing that \"Northwest Indiana residents deserve to know why they experienced outages of this magnitude and duration\" {mrvan_outage}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Is the current officeholder {mrvan_about}.",
+    "Says \"My office does everything possible to work closely with all local, state, and federal offices in a bipartisan manner\" {wfyi_guide}.",
+    "No statements by Mrvan about Regnitz were found in the sources reviewed {wfyi_guide}."
+   ],
+   "plans": [
+    "Says he will keep holding \"Community Conversation\" public events and meeting constituents {wfyi_guide}.",
+    "Lists growing Northwest Indiana's economy through union jobs, protecting the steel industry, lowering health care costs, and supporting public education as priorities {wfyi_primary_guide}."
+   ],
+   "endorsements_finance": [
+    "Raised $2,386,267 as of June 30, 2026 (FEC, as reported by WFYI), including $957,827 from PACs according to OpenSecrets; WFYI listed AIPAC and KPS Capital Partners as his largest special-interest donors {wfyi_guide}.",
+    "Reported about $900,000 in his campaign account at the end of 2025 {ipm_green}."
+   ],
+   "gaps": [
+    "Search results (not verified on a fetched page) reported an Indiana AFL-CIO endorsement and endorsements from groups including the NEA, AIPAC, Planned Parenthood Action Fund and the League of Conservation Voters Action Fund.",
+    "Search results (not verified) reported June 30, 2026 cash on hand of about $1.34 million for Mrvan and $1.80 million for Regnitz; the FEC API was rate-limited and the FEC race page did not load.",
+    "Campaign website not verified (frankmrvan.com returned an error).",
+    "No 2026 debate or candidate forum with Regnitz was found."
+   ]
+  },
+  {
+   "ballot_name": "Barb Regnitz",
+   "summary": "Republican nominee and Porter County commissioner, a financial planner and former software engineer endorsed by President Trump {wfyi_guide} {wfyi_primary_guide}.",
+   "website": null,
+   "background": [
+    "Porter County commissioner and financial planner who lives in Valparaiso {wfyi_guide}.",
+    "Previously worked as a software engineer at United Airlines before becoming a certified financial planner {wfyi_primary_guide}."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Republican primary with 45.8% of the vote over James Schenke (30.1%) and Ben Ruiz (24.1%) {nbc_results}.",
+    "Became the most prominent Republican in the primary after Jennifer-Ruth Green withdrew in February 2026 {ipm_green}."
+   ],
+   "positions": [
+    {"topic": "Immigration & border", "items": [
+     "Lists border security and immigration reform as a top issue {wfyi_guide}.",
+     "Supports securing the border {wfyi_primary_guide}."
+    ]},
+    {"topic": "Public safety", "items": [
+     "Supports law enforcement and ending \"catch-and-release\" policies {wfyi_primary_guide}.",
+     "Lists gun rights among her priorities {wfyi_guide}."
+    ]},
+    {"topic": "Government spending", "items": [
+     "Wants to reduce federal spending and the national debt {wfyi_primary_guide}."
+    ]},
+    {"topic": "Elections", "items": [
+     "Her platform calls for in-person voting and watermarked paper ballots {wfyi_primary_guide}."
+    ]},
+    {"topic": "Education", "items": [
+     "Wants schools refocused on \"how to think, not what to think\" {wfyi_primary_guide}.",
+     "Would reserve girls' sports and facilities for \"biological females\" {wfyi_primary_guide}."
+    ]},
+    {"topic": "Cost of living", "items": [
+     "Lists affordability among her priorities, along with education and national security {wfyi_guide}."
+    ]}
+   ],
+   "on_incumbent": [
+    "No statement by Regnitz about Mrvan's specific votes or actions was found in the sources reviewed; she did not respond to WFYI's candidate survey {wfyi_guide}."
+   ],
+   "plans": [
+    "WFYI drew her priorities from her campaign website and public statements because she did not take part in its survey: education, national security, affordability, border security and immigration reform, election integrity, and gun rights {wfyi_guide}."
+   ],
+   "endorsements_finance": [
+    "Endorsed by President Trump {wfyi_guide} {rollcall_maga}.",
+    "Added in July 2026 to the National Republican Congressional Committee's \"MAGA Majority\" program for candidates in targeted districts {rollcall_maga}.",
+    "Endorsed by Maggie's List, which states that both of Indiana's U.S. senators have endorsed her {maggies_list}.",
+    "Loaned her campaign $1.5 million and ended 2025 with more than $1.4 million in her campaign account {ipm_green}.",
+    "Raised $2,376,255 as of June 30, 2026 (FEC, as reported by WFYI) {wfyi_guide}."
+   ],
+   "gaps": [
+    "Campaign website not located or verified; she did not answer WFYI's survey and did not return an Indiana Capital Chronicle questionnaire (the latter seen only in a search snippet; the page returned 403).",
+    "A quote attributed to Regnitz in search results (\"For too long, Northwest Indiana has been represented by the same old political establishment\") could not be verified on a fetched page.",
+    "Search results (not verified) reported primary endorsements from U.S. Reps. Rudy Yakym and Erin Houchin and from Sen. Jim Banks.",
+    "No debate or forum with Mrvan was found; no verified statements about Mrvan's votes."
+   ]
+  },
+  {
+   "ballot_name": "Alexander R (Alex) Degman",
+   "summary": "Independent declared write-in candidate listed by the Indiana Election Division {in_list}.",
+   "website": null,
+   "background": [
+    "No background information was found in the sources reviewed {in_list}."
+   ],
+   "path_to_ballot": [
+    "Filed as a declared write-in candidate (Independent), per the state candidate list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No public statements about the incumbent were found {in_list}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No public positions, campaign website, or campaign finance filings were found; a BallotReady profile listed no positions or background."
+   ]
+  },
+  {
+   "ballot_name": "Prescription Dope Deaths Johnson, Jr",
+   "summary": "Declared write-in candidate (Other) listed by the Indiana Election Division {in_list}.",
+   "website": null,
+   "background": [
+    "No background information was researched for this declared write-in candidate {in_list}."
+   ],
+   "path_to_ballot": [
+    "Filed as a declared write-in candidate (Other), per the state candidate list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No public statements about the incumbent were found {in_list}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No public positions were found."
+   ]
+  }
+ ],
+ "sources": {
+  "wfyi_guide": ["2026 Voter Guide: Indiana's 1st Congressional District", "WFYI Public Media (Jill Sheridan)", "2026-09-21", "https://www.wfyi.org/statewide/2026-09-21/2026-voter-guide-indianas-1st-congressional-district"],
+  "wfyi_primary_guide": ["Candidates are running in the primary for Indiana's 1st Congressional District. Here's your guide", "WFYI Public Media via Lakeshore Public Media (Benjamin Thorp)", "2026-04-17", "https://www.lakeshorepublicmedia.org/2026-04-17/six-candidates-are-running-in-the-primary-for-indianas-1st-congressional-district-heres-your-guide"],
+  "ipm_green": ["Ex-Braun official Jennifer-Ruth Green drops bid to challenge U.S. Rep. Mrvan", "Indiana Capital Chronicle via Indiana Public Media (Tom Davies)", "2026-02-05", "https://www.ipm.org/news/2026-02-05/ex-braun-official-jennifer-ruth-green-drops-bid-to-challenge-us-rep-mrvan"],
+  "nbc_results": ["Indiana House District 1 Primary Election Results 2026", "NBC News", "2026-05-05", "https://www.nbcnews.com/politics/2026-primary-elections/indiana-us-house-district-1-results"],
+  "rollcall_maga": ["NRCC adds 7 more candidates to 'MAGA Majority' program", "Roll Call (Mary Ellen McIntire)", "2026-07-15", "https://rollcall.com/2026/07/15/nrcc-adds-7-more-candidates-to-maga-majority-program/"],
+  "maggies_list": ["Barb Regnitz", "Maggie's List", "accessed 2026-10-10", "https://maggieslist.org/?p=2641"],
+  "mrvan_about": ["About Frank", "Office of Rep. Frank J. Mrvan (mrvan.house.gov)", "accessed 2026-10-10", "https://mrvan.house.gov/about"],
+  "congress_sponsored": ["Rep. Frank J. Mrvan: Sponsored Legislation (119th Congress)", "Congress.gov", "accessed 2026-10-10", "https://www.congress.gov/member/frank-mrvan/M001214"],
+  "clerk_obbba": ["Roll Call 190: H.R. 1, On Motion to Concur in the Senate Amendment", "Office of the Clerk, U.S. House", "2025-07-03", "https://clerk.house.gov/Votes/2025190"],
+  "nwit_obbba": ["Mrvan votes against 'reckless and cruel' Trump tax and spending cuts", "The Times of Northwest Indiana (reposted by mrvan.house.gov)", "2025-08-04", "https://mrvan.house.gov/media/in-the-news/mrvan-votes-against-reckless-and-cruel-trump-tax-and-spending-cuts"],
+  "clerk_cr_nov": ["Roll Call 285: H.R. 5371, On Motion to Concur in the Senate Amendment", "Office of the Clerk, U.S. House", "2025-11-12", "https://clerk.house.gov/Votes/2025285"],
+  "mrvan_cr_statement": ["Mrvan expressed opposition to Republican Majority's Continuing Resolution", "Lakeshore Public Media (reposted by mrvan.house.gov)", "2025-11-13", "https://mrvan.house.gov/media/in-the-news/mrvan-expressed-opposition-republican-majoritys-continuing-resolution"],
+  "mrvan_shutdown_sept": ["Congressman Mrvan Statement on the Potential Lapse in Federal Government Funding", "Office of Rep. Frank J. Mrvan", "2025-09-30", "https://mrvan.house.gov/media/press-releases/congressman-mrvan-statement-potential-lapse-federal-government-funding"],
+  "mrvan_aca": ["Mrvan Statement on House Passage of Health Care Legislation", "Office of Rep. Frank J. Mrvan", "2026-01-08", "https://mrvan.house.gov/media/press-releases/mrvan-statement-house-passage-health-care-legislation"],
+  "mrvan_redistricting": ["Mrvan Statement on Redistricting", "Office of Rep. Frank J. Mrvan", "2025-12-11", "https://mrvan.house.gov/media/press-releases/mrvan-statement-redistricting-1"],
+  "mrvan_ice": ["Mrvan Sends Letter in Opposition to Potential ICE Detention Facility in Merrillville", "Office of Rep. Frank J. Mrvan", "2026-02-05", "https://mrvan.house.gov/media/press-releases/mrvan-sends-letter-opposition-potential-ice-detention-facility-merrillville-0"],
+  "mrvan_thud": ["Mrvan's FY 2026 Transportation and Housing Community Project Funding Requests Included in Final House-Approved Measure", "Office of Rep. Frank J. Mrvan", "2026-01-22", "https://mrvan.house.gov/media/press-releases/mrvans-fy-2026-transportation-and-housing-community-project-funding-requests"],
+  "mrvan_steel": ["Mrvan Statement at Congressional Steel Caucus Hearing on the State of the Steel Industry", "Office of Rep. Frank J. Mrvan", "2026-01-14", "https://mrvan.house.gov/media/press-releases/mrvan-statement-congressional-steel-caucus-hearing-state-steel-industry-0"],
+  "mrvan_utility": ["Rep. Frank J. Mrvan Introduces Utility Affordability and Transparency Act", "Office of Rep. Frank J. Mrvan", "2026-10-02", "https://mrvan.house.gov/media/press-releases/rep-frank-j-mrvan-introduces-utility-affordability-and-transparency-act"],
+  "mrvan_prowork": ["Mrvan Introduces the PRO-WORK Act to Prevent Companies that Lock Out Workers from Receiving Federal Funds", "Office of Rep. Frank J. Mrvan", "2026-08-31", "https://mrvan.house.gov/media/press-releases/mrvan-introduces-pro-work-act-prevent-companies-lock-out-workers-receiving"],
+  "mrvan_outage": ["Mrvan Requests Federal Investigation into NWI Power Outages", "Office of Rep. Frank J. Mrvan", "2026-09-10", "https://mrvan.house.gov/media/press-releases/mrvan-requests-federal-investigation-nwi-power-outages"]
+ }
+}
