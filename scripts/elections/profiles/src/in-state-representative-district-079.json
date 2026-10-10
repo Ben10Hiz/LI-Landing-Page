@@ -1,0 +1,250 @@
+{
+ "race_id": "in-state-representative-district-079",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Matt Lehman",
+  "party": "Republican",
+  "summary": "Matt Lehman, a Berne Republican and insurance agency president, has represented House District 79 since 2008 and is House Majority Floor Leader, a post he was re-elected to in December 2024 {caucus_lehman} {caucus_lehman_leader}.",
+  "record": [
+   "House Majority Floor Leader; serves on the Insurance, Public Policy, and Commerce, Small Business and Economic Development committees {caucus_lehman} {caucus_lehman_leader}. Past president of the National Council of Insurance Legislators (2020–2021) {caucus_lehman}.",
+   "April 10, 2025: Voted yes on SEA 1, the 2025 property-tax law (passed 65-29) {rc_sea1_433}. April 25, 2025: Voted yes on the 2025 budget (HEA 1001), adopted 66-27 {rc_hb1001_576}.",
+   "Dec. 5, 2025: Voted no on HB 1032, the mid-decade congressional redistricting bill, which passed the House 57-41; he was one of 12 House Republicans voting no {rc_hb1032_28} {icc_hb1032}. On PBS Fort Wayne he said constituents overwhelmingly told him \"this is just not the right time to do this\" {pbsfw_lehman}.",
+   "Jan. 28, 2026: Voted yes on HB 1002, the 2026 electric utility affordability bill (passed 89-4) {rc_hb1002_149}.",
+   "2026 session: Authored HEA 1360, which sets new procedures for high volumes of automated and out-of-state public records requests, and sponsored SEA 258, removing state nuclear-energy requirements that duplicate federal oversight {caucus_hea1360}. Supported HEA 1200 on commercial driver's license English proficiency and documentation, citing a Jay County crash {caucus_cdl}."
+  ]
+ },
+ "race_context": [
+  "House District 79 covers all of Adams County and portions of Jay and Wells counties in northeast Indiana {caucus_lehman}.",
+  "Lehman was reelected without opposition in 2024 {wiki_2026}. Both Lehman and Ian G. Richardson were unopposed for their parties' nominations in the May 5, 2026 primary {wiki_2026}.",
+  "No debates, forums or local news coverage of the race were found.",
+  "Key differences: Richardson's campaign emphasizes raising the minimum wage, medical and medication costs, legalizing and taxing cannabis, and local energy microgrids {richardson_site} {richardson_power}; Lehman's 2026 legislative work focused on public records, energy regulation and commercial driver licensing {caucus_hea1360} {caucus_cdl}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Ian G. Richardson",
+   "summary": "Ian G. Richardson is a Bluffton resident who has worked in food service and as a CVS pharmacy technician {richardson_about}. His campaign focuses on wages, medical costs and local energy projects {richardson_site}.",
+   "website": "https://www.iangforindiana.com/",
+   "background": [
+    "Says he has more than 25 years in service work, 20 of them in food service, and has worked as a pharmacy technician for CVS {richardson_about}.",
+    "Lists himself as owner/operator of Ian Richardson Co. and a former Allen County Democratic precinct committeeman (Precinct 298, 2021–2025) in his iVoterGuide profile {ivg_richardson}. Lives in Bluffton {richardson_about}."
+   ],
+   "path_to_ballot": [
+    "Unopposed in the May 5, 2026 Democratic primary {wiki_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Says \"Indiana hasn't given its workers a raise in sixteen years\" and that he will raise the minimum wage; supports child care tax credits {richardson_site}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Wants to \"help to reign in the cost of medical care and medications\" {richardson_site}; supports a state-backed supplemental health insurance system {ivg_richardson}."
+     ]
+    },
+    {
+     "topic": "Energy & utilities",
+     "items": [
+      "Proposes community-scale microgrids pairing vertical-axis wind turbines with basalt thermal storage, which his campaign says \"lowers home energy costs\" {richardson_power}."
+     ]
+    },
+    {
+     "topic": "Environment",
+     "items": [
+      "Supports \"holding polluters accountable for our water quality\" {richardson_site}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Supports expanded education spending and education grants {richardson_site}."
+     ]
+    },
+    {
+     "topic": "Cannabis",
+     "items": [
+      "Supports legalizing cannabis and taxing it \"like tobacco\" {richardson_site} {ivg_richardson}."
+     ]
+    },
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "In his iVoterGuide answers, supports abolishing the Electoral College and ranked choice voting; listed himself as neutral on photo ID for voting {ivg_richardson}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Does not name Lehman on his campaign site; says \"I've watched Indiana get more expensive while our legislature offers little more than silence\" {richardson_about}."
+   ],
+   "plans": [
+    "Cites medication costs and dealing with insurers as reasons for running {richardson_about}."
+   ],
+   "endorsements_finance": [
+    "His iVoterGuide profile reports an endorsement from the Indiana Reproductive Freedom PAC {ivg_richardson}. No campaign finance totals found."
+   ],
+   "gaps": [
+    "No news coverage of his candidacy found.",
+    "Campaign finance totals not found.",
+    "No position found on the 2025 property-tax law (SEA 1) or data centers.",
+    "His iVoterGuide profile also lists a 2026 food-service job and memberships in several advocacy groups; current employer not confirmed.",
+    "His precinct committeeman role was in Allen County, outside District 79; he says he now lives in Bluffton (Wells County). Whether his address is within the district's portion of Wells County was not verified."
+   ]
+  },
+  {
+   "ballot_name": "Matthew S. Lehman",
+   "summary": "Matt Lehman has represented District 79 since 2008 and is House Majority Floor Leader {caucus_lehman}. He broke with most House Republicans to vote against the 2025 congressional redistricting bill {icc_hb1032}.",
+   "website": null,
+   "background": [
+    "Insurance agent and president of Bixler Insurance Inc., a Berne-based independent agency; Certified Insurance Counselor since 1995; associate degree in aviation technology from Vincennes University {caucus_lehman}.",
+    "Served on the Adams County Council from 1994 to 2008; named Berne Citizen of the Year in 2013 {caucus_lehman}. Lives in Berne {caucus_lehman}."
+   ],
+   "path_to_ballot": [
+    "Unopposed in the May 5, 2026 Republican primary {wiki_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "Said he voted no on the 2025 redistricting bill after constituents told him it was not the right time; said he had supported the existing maps three years earlier {pbsfw_lehman}."
+     ]
+    },
+    {
+     "topic": "Energy & utilities",
+     "items": [
+      "\"Reliable, affordable energy is critical to Indiana's economic growth\"; says SEA 258 reduces \"unnecessary red tape\" for energy development {caucus_hea1360}."
+     ]
+    },
+    {
+     "topic": "Government transparency",
+     "items": [
+      "Says agencies \"should not be burdened by bad-faith or automated requests\" and that HEA 1360 \"puts reasonable guardrails into place to protect access\" {caucus_hea1360}."
+     ]
+    },
+    {
+     "topic": "Public safety",
+     "items": [
+      "On HEA 1200: \"Hoosiers deserve safe highways\" {caucus_cdl}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Named health care access and cost, along with economic development, as areas to examine in 2025 {caucus_lehman_leader}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No statements about Richardson were found."
+   ],
+   "plans": [
+    "Says committee work is \"the starting point in tackling issues that constituents are facing\" {caucus_lehman_leader}."
+   ],
+   "endorsements_finance": [
+    "No 2026 endorsements or campaign finance totals were found."
+   ],
+   "gaps": [
+    "No campaign website found.",
+    "No 2026 campaign statements or local news coverage of his reelection bid found.",
+    "Campaign finance totals not found.",
+    "The House Republican caucus statement on his 2026 session goals (Jan. 5, 2026) returned a 404 and could not be read."
+   ]
+  }
+ ],
+ "sources": {
+  "caucus_lehman": [
+   "Matt Lehman",
+   "Indiana House Republican Caucus",
+   "accessed 2026-10-10",
+   "https://www.indianahouserepublicans.com/members/leadership/matt-lehman"
+  ],
+  "caucus_lehman_leader": [
+   "Rep. Lehman re-elected as House Majority Floor Leader, to serve on key House committees",
+   "Indiana House Republican Caucus",
+   "2024-12-16",
+   "https://www.indianahouserepublicans.com/news/press-releases/rep.-lehman-re-elected-as-house-majority-floor-leader-to-serve-on-key-house-committees/"
+  ],
+  "caucus_hea1360": [
+   "Governor ceremonially signs bills authored and sponsored by Lehman to strengthen transparency, modernize energy regulation",
+   "Indiana House Republican Caucus",
+   "2026-04-22",
+   "https://www.indianahouserepublicans.com/news/press-releases/governor-ceremonially-signs-bills-authored-and-sponsored-by-lehman-to-strengthen-transparency-modernize-energy-regulation/"
+  ],
+  "caucus_cdl": [
+   "Rep. Lehman: Legislation cracking down on illegal immigrants holding Commercial Driver's Licenses heads to the governor",
+   "Indiana House Republican Caucus",
+   "2026-03-03",
+   "https://www.indianahouserepublicans.com/news/press-releases/rep.-lehman-legislation-cracking-down-on-illegal-immigrants-holding-commercial-driver-s-licenses-heads-to-the-governor/"
+  ],
+  "icc_hb1032": [
+   "Indiana House approves redistricting bill, sending issue to state Senate",
+   "Indiana Capital Chronicle (via Yahoo News)",
+   "2025-12-05",
+   "https://www.yahoo.com/news/articles/indiana-house-approves-redistricting-bill-185219428.html"
+  ],
+  "pbsfw_lehman": [
+   "PrimeTime: December 12, 2025 - Lehman-GiaQuinta",
+   "PBS Fort Wayne",
+   "2025-12-12",
+   "https://www.pbs.org/video/december-12-2025-lehman-giaquinta-iidxw8/"
+  ],
+  "richardson_site": [
+   "Ian G. Richardson for Indiana HD79",
+   "Ian Richardson campaign",
+   "accessed 2026-10-10",
+   "https://www.iangforindiana.com/"
+  ],
+  "richardson_about": [
+   "About",
+   "Ian Richardson campaign",
+   "accessed 2026-10-10",
+   "https://www.iangforindiana.com/about"
+  ],
+  "richardson_power": [
+   "Power Our Future",
+   "Ian Richardson campaign",
+   "accessed 2026-10-10",
+   "https://www.iangforindiana.com/power-our-future"
+  ],
+  "ivg_richardson": [
+   "Ian G. Richardson",
+   "iVoterGuide",
+   "accessed 2026-10-10",
+   "https://ivoterguide.com/candidate/95695/race/30728/election/1456"
+  ],
+  "rc_sea1_433": [
+   "House Roll Call 433: SB 1 (Local government finance), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-10",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  ],
+  "rc_hb1001_576": [
+   "House Roll Call 576: HB 1001 (State budget), conference committee report",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-25",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  ],
+  "rc_hb1032_28": [
+   "House Roll Call 28: HB 1032 (Redistricting), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-12-05",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  ],
+  "rc_hb1002_149": [
+   "House Roll Call 149: HB 1002 (Electric utility affordability), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2026-01-28",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1002-rollcalls-HB1002-149-H-pdf.pdf"
+  ],
+  "wiki_2026": [
+   "2026 Indiana House of Representatives election",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  ]
+ }
+}
