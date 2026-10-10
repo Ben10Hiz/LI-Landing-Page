@@ -1,0 +1,303 @@
+{
+ "race_id": "in-state-representative-district-056",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": {
+  "title": "Indiana State Representative",
+  "summary": "Members of the Indiana House of Representatives write and vote on state laws as part of the Indiana General Assembly. The House has 100 members, each representing one district for a two-year term [1].",
+  "facts": [
+   {
+    "label": "Term",
+    "value": "2 years [1]"
+   },
+   {
+    "label": "Term limit",
+    "value": "None [1]"
+   },
+   {
+    "label": "Seats",
+    "value": "100 [1]"
+   },
+   {
+    "label": "On the 2026 ballot",
+    "value": "All 100 [2]"
+   }
+  ],
+  "duties": [
+   "Introduces and votes on state legislation as one of the two chambers of the Indiana General Assembly [1].",
+   "Must be at least 21 years old when taking office and have lived in the district for at least a year [1]."
+  ],
+  "recent_changes": []
+ },
+ "incumbent": {
+  "name": "Brad Barrett",
+  "party": "Republican",
+  "summary": "Brad Barrett, a retired Richmond general surgeon, has represented House District 56 since 2018 and chairs the House Public Health Committee [3]. He announced in January 2026 that he would not seek reelection, giving no specific reason; his term ends in November [4].",
+  "record": [
+   "Committees: Public Health (chair), Agriculture and Rural Development, and Insurance [3]. First elected in 2018 after defeating incumbent Rep. Richard Hamm in the Republican primary [4].",
+   "2024: Authored HEA 1385, requiring insurers to reimburse out-of-network ambulance services and pay claims within 30 days [5]. 2025: Sponsored SB 2 on Medicaid oversight and fraud reporting, which passed both chambers [6]. 2026: Authored HB 1277 on Medicaid assisted-living services, which passed the House [7].",
+   "Voted yes on SEA 1, the 2025 property-tax law (April 10, 2025) [8]; the 2025 budget conference report, HEA 1001 (April 25, 2025) [9]; and HB 1032, the congressional redistricting bill (Dec. 5, 2025) [10].",
+   "On leaving, said: \"Serving the people of Wayne and Henry counties has been one of the greatest honors of my life\" [4]."
+  ]
+ },
+ "race_context": [
+  "House District 56 covers all of Wayne County, including Richmond, and part of Henry County [3].",
+  "Open seat: Rep. Brad Barrett announced on Jan. 7, 2026 that he would not seek a fifth term [4]. Barrett was reelected unopposed in 2024 [11].",
+  "May 5, 2026 Republican primary: Randy Retter 3,250 votes (53.0%), Pete Zaleski 2,603 (42.4%), Adam Blanton 281 (4.6%) [11]. Blanton, an assistant Richmond police chief, withdrew in March and endorsed Zaleski, but stayed on the ballot [12]. Rockwell was the only Democrat to file [13, 11].",
+  "Key differences: Retter emphasizes public safety, school security and law-enforcement links to addiction treatment [14]; Rockwell emphasizes worker protections, public-school funding, universal health coverage and ending partisan gerrymandering [15].",
+  "No debate or forum for this race was found."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Randy Retter",
+   "summary": "Randy Retter is the two-term Wayne County sheriff, who is term-limited in that office [13]. He won a three-way Republican primary with 53% of the vote [11].",
+   "website": "https://www.randyretter.com/",
+   "background": [
+    "Began his law enforcement career in 1988 and was elected Wayne County sheriff in 2018; now in his second term [16]. Cannot run for sheriff again because of term limits [13].",
+    "Bachelor's degree in criminal justice from Ball State University and graduate of the Indiana Law Enforcement Academy [13].",
+    "Serves on the Boys & Girls Club board [17]; lives in Wayne County across from his family farm [16]."
+   ],
+   "path_to_ballot": [
+    "Announced Jan. 9, 2026 [16]; won the May 5 Republican primary over Pete Zaleski and Adam Blanton with 53.0% [11]."
+   ],
+   "positions": [
+    {
+     "topic": "Public safety",
+     "items": [
+      "Says he would make school safety protocols a priority, support first responders and use data to reduce repeat offenses [14]."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Says he supports lowering health care costs and protecting rural access to care, building on Barrett's work [14].",
+      "Says he has worked to expand partnerships for mental health and addiction treatment and wants to connect law enforcement and health care [14]."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Says he would reduce regulation on small businesses and family farms and bring jobs to eastern Indiana [14].",
+      "Says he would apply the budget discipline of the sheriff's office to state government and seek a fair share of infrastructure funding for rural areas [14]."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "His campaign describes his health-care plans as building on \"the work of Dr. Brad Barrett\" [14]. At his announcement he said: \"After many years in public service, I've seen firsthand the challenges and opportunities facing our rural communities\" [16]."
+   ],
+   "plans": [
+    "Says he wants \"strong, steady leadership that puts Hoosiers first and reflects the values of the people who live and work here\" [13]."
+   ],
+   "endorsements_finance": [
+    "No endorsements or fundraising figures were verified."
+   ],
+   "gaps": [
+    "Wikipedia lists an NRA Political Victory Fund endorsement; not verified on the NRA site.",
+    "The Palladium-Item's Jan. 15, 2026 article on his launch could not be fetched.",
+    "No fundraising data found."
+   ]
+  },
+  {
+   "ballot_name": "Thomas Scott Rockwell",
+   "summary": "Tom Rockwell is a Richmond Quaker minister and pastor running as the Democratic nominee [13, 15]. His platform focuses on wages and worker rights, public schools, health care, rural investment and election reform [15].",
+   "website": "https://www.tom4indiana.com/",
+   "background": [
+    "Pastor of a small rural church and a denominational leader; has also run a small forestry business working with farmers and landowners [13].",
+    "Earned a Master of Divinity from the Earlham School of Religion in 2024 and works at Western Yearly Meeting; he and his wife co-pastor a Quaker church [18].",
+    "Age 34; has lived in Richmond for six years [15]."
+   ],
+   "path_to_ballot": [
+    "Filed Feb. 3, 2026 [13]; the only Democrat in the May 5 primary [11]."
+   ],
+   "positions": [
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Supports collective bargaining, a higher minimum wage, action on wage theft, apprenticeships, and tenant protections [15].",
+      "Supports protecting workers from AI-related job loss and surveillance and requiring transparency when AI is used in major public systems [15]."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Supports fully funding public schools, raising teacher pay and expanding vocational and community-college options [15]."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Supports universal coverage, preventive and maternal care, and mental health and addiction services [15]; has cited affordable, accessible health care as a rural concern [13]."
+     ]
+    },
+    {
+     "topic": "Public safety",
+     "items": [
+      "Supports funding first responders, mental-health crisis response, addiction treatment and domestic-violence services [15]."
+     ]
+    },
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "Supports campaign-finance transparency, ending partisan gerrymandering, public town halls and local control over schools, libraries and public safety [15]."
+     ]
+    },
+    {
+     "topic": "Rural investment",
+     "items": [
+      "Supports downtown revitalization, support for manufacturers and family farms, rural health care and infrastructure repair [15]."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "On the district's direction, said: \"Too often, the proposed solutions for communities like ours focus on attracting outside companies\" and \"I believe the real expertise already lives here\" [13]. No statements about Retter were found."
+   ],
+   "plans": [
+    "His campaign says he would hold public town halls and Zoom sessions [15]."
+   ],
+   "endorsements_finance": [
+    "iVoterGuide lists an endorsement from the Indiana Reproductive Freedom PAC [19]."
+   ],
+   "gaps": [
+    "Little news coverage beyond his filing was found.",
+    "He did not answer the iVoterGuide questionnaire.",
+    "No fundraising data found."
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": 1,
+   "title": "Indiana House of Representatives",
+   "publisher": "Wikipedia",
+   "date": "accessed 2026-10-10",
+   "url": "https://en.wikipedia.org/wiki/Indiana_House_of_Representatives"
+  },
+  {
+   "id": 2,
+   "title": "2026 General Election Candidate List",
+   "publisher": "Indiana Election Division",
+   "date": "2026-09-22",
+   "url": "https://www.in.gov/sos/elections/candidate-information/"
+  },
+  {
+   "id": 3,
+   "title": "State Rep. Brad Barrett: biography and committees",
+   "publisher": "Indiana House Republican Caucus",
+   "date": "accessed 2026-10-10",
+   "url": "https://www.indianahouserepublicans.com/members/general/brad-barrett/"
+  },
+  {
+   "id": 4,
+   "title": "Brad Barrett will not seek reelection in 2026",
+   "publisher": "Western Wayne News",
+   "date": "2026-01-07",
+   "url": "https://westernwaynenews.com/brad-barrett-not-seek-reelection-2026"
+  },
+  {
+   "id": 5,
+   "title": "Governor ceremonially signs Barrett's bill addressing surprise ambulance billing into law",
+   "publisher": "Indiana House Republican Caucus",
+   "date": "2024-08-19",
+   "url": "https://www.indianahouserepublicans.com/news/press-releases/governor-ceremonially-signs-barrett-s-bill-addressing-surprise-ambulance-billing-into-law/"
+  },
+  {
+   "id": 6,
+   "title": "Rep. Barrett sponsors bill strengthening Medicaid oversight to prevent fraud",
+   "publisher": "Indiana House Republican Caucus",
+   "date": "2025-04-17",
+   "url": "https://www.indianahouserepublicans.com/news/press-releases/rep.-barrett-sponsors-bill-strengthening-medicaid-oversight-to-prevent-fraud/"
+  },
+  {
+   "id": 7,
+   "title": "House advances Barrett's legislation expanding assisted living access",
+   "publisher": "Indiana House Republican Caucus",
+   "date": "2026-02-03",
+   "url": "https://www.indianahouserepublicans.com/news/press-releases/house-advances-barrett-s-legislation-expanding-assisted-living-access/"
+  },
+  {
+   "id": 8,
+   "title": "House Roll Call 433: SB 1 (Local government finance), third reading",
+   "publisher": "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "date": "2025-04-10",
+   "url": "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  },
+  {
+   "id": 9,
+   "title": "House Roll Call 576: HB 1001 (State budget), conference committee report",
+   "publisher": "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "date": "2025-04-25",
+   "url": "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  },
+  {
+   "id": 10,
+   "title": "House Roll Call 28: HB 1032 (Redistricting), third reading",
+   "publisher": "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "date": "2025-12-05",
+   "url": "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  },
+  {
+   "id": 11,
+   "title": "2026 Indiana House of Representatives election",
+   "publisher": "Wikipedia",
+   "date": "accessed 2026-10-10",
+   "url": "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  },
+  {
+   "id": 12,
+   "title": "Blanton withdraws from state House race",
+   "publisher": "Western Wayne News",
+   "date": "2026-03-23",
+   "url": "https://westernwaynenews.com/blanton-withdraws-from-state-house-race/"
+  },
+  {
+   "id": 13,
+   "title": "New candidates emerge for state races",
+   "publisher": "Western Wayne News",
+   "date": "2026-02-12",
+   "url": "https://westernwaynenews.com/new-candidates-emerge-for-state-races/"
+  },
+  {
+   "id": 14,
+   "title": "Issues",
+   "publisher": "Randy Retter campaign",
+   "date": "accessed 2026-10-10",
+   "url": "https://www.randyretter.com/issues/"
+  },
+  {
+   "id": 15,
+   "title": "Tom Rockwell for Indiana House District 56",
+   "publisher": "Tom Rockwell campaign",
+   "date": "accessed 2026-10-10",
+   "url": "https://www.tom4indiana.com/"
+  },
+  {
+   "id": 16,
+   "title": "Area sheriff announces run for state representative",
+   "publisher": "WHIO",
+   "date": "2026-01-09",
+   "url": "https://www.whio.com/news/local/area-sheriff-announces-run-state-representative/KLNRXRL7MZF2FN7DORXCTGD5DM/"
+  },
+  {
+   "id": 17,
+   "title": "Learn about Randy",
+   "publisher": "Randy Retter campaign",
+   "date": "accessed 2026-10-10",
+   "url": "https://www.randyretter.com/learn/"
+  },
+  {
+   "id": 18,
+   "title": "Finding God in every person",
+   "publisher": "Earlhamite (Earlham College)",
+   "date": "2025-04-17",
+   "url": "https://earlhamite.earlham.edu/spring-2025/finding-god-in-every-person/"
+  },
+  {
+   "id": 19,
+   "title": "Thomas Scott Rockwell: State Representative, District 56",
+   "publisher": "iVoterGuide",
+   "date": "accessed 2026-10-10",
+   "url": "https://ivoterguide.com/candidate/95583/race/30705/election/1456"
+  }
+ ]
+}

@@ -1,0 +1,234 @@
+{
+ "race_id": "in-state-representative-district-040",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Greg Steuerwald",
+  "party": "Republican",
+  "summary": "Greg Steuerwald, an Avon Republican and attorney, has served in the Indiana House since 2007; the House Republican caucus lists him as Majority Caucus Chair and a member of the Courts and Criminal Code, Judiciary and Ethics committees {steuerwald_bio}.",
+  "record": [
+   "April 10, 2025: Voted yes on Senate Bill 1, the 2025 property-tax law, which passed the House 65-29 {rc_sb1}.",
+   "April 25, 2025: Voted yes on the final version of the 2025-27 state budget (HEA 1001), adopted by the House 66-27 {rc_hb1001}.",
+   "December 5, 2025: Was one of the Republicans who voted no on House Bill 1032, the mid-decade congressional redistricting bill, which passed the House 57-41 {rc_hb1032}.",
+   "February 2025: Authored House Bill 1049, a scholarship program for law students who commit to at least five years as deputy prosecutors or public defenders, saying Indiana \"has a growing shortage of public service attorneys, especially in rural areas\"; it passed the House Education Committee unanimously {steuerwald_hb1049}.",
+   "2026 session: Co-authored legislation tightening commercial driver's license requirements, saying it would \"make our roads safer by ensuring commercial truck drivers and their employers are following the law\" {steuerwald_2026}.",
+   "Earlier career: The caucus credits him with authoring the law that began Indiana's criminal code revision and the 2021 redistricting bill (HEA 1581) {steuerwald_bio}."
+  ]
+ },
+ "race_context": [
+  "House District 40 includes a portion of Hendricks County, including Avon, where both candidates live {steuerwald_bio}{colteryahn_about}.",
+  "Steuerwald was appointed to the seat in 2007; Wikipedia reports he was re-elected with 58.4% of the vote in 2024 {wiki_house26}.",
+  "In the May 5, 2026 Republican primary, Steuerwald defeated trucking company owner Sid Mahant 3,527 votes (75.1%) to 1,169 (24.9%), according to Wikipedia; Colteryahn was the only Democrat listed {wiki_house26}.",
+  "No debates or candidate forums for this race were found.",
+  "Where they differ: Steuerwald's campaign emphasizes tax cuts, school funding increases and support for law enforcement, while Colteryahn's campaign focuses on shifting property-tax burdens from homeowners to large businesses, limiting utility pass-through costs, and local control over data centers {steuerwald_site}{colteryahn_issues}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Gregory E. Steuerwald",
+   "summary": "Rep. Greg Steuerwald, the Republican incumbent and House Majority Caucus Chair, is an attorney who has focused on criminal law and courts legislation {steuerwald_bio}.",
+   "website": "https://gregsteuerwald.com/",
+   "background": [
+    "Attorney with Steuerwald, Witham and Youngs since 1981; previously worked two years as a probation officer, according to the caucus {steuerwald_bio}.",
+    "Holds a B.S. from Indiana State University, a master's in criminal justice from the University of Alabama and a law degree from Indiana University-Indianapolis {steuerwald_bio}.",
+    "Named Legislator of the Year by the Indiana Sheriffs' Association in 2019 and received the Indiana State Bar Association's President's Citation, according to the caucus {steuerwald_bio}.",
+    "Lives in Avon {steuerwald_bio}."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Republican primary over Sid Mahant with 75.1% of the vote, according to Wikipedia {wiki_house26}."
+   ],
+   "positions": [
+    {
+     "topic": "Property taxes",
+     "items": [
+      "His campaign says he fights for lower taxes and smaller government and \"voted for the largest tax cut in state history\"; he voted for the 2025 property-tax law (SEA 1) {steuerwald_site}{rc_sb1}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "His campaign says he voted for record funding increases for local schools and worked to direct added money to teacher pay {steuerwald_site}."
+     ]
+    },
+    {
+     "topic": "Public safety",
+     "items": [
+      "His campaign says he worked to increase funding for law enforcement and first responders {steuerwald_site}.",
+      "Authored a 2025 bill to address shortages of deputy prosecutors and public defenders {steuerwald_hb1049}."
+     ]
+    },
+    {
+     "topic": "Transportation",
+     "items": [
+      "Co-authored 2026 legislation tightening commercial driver's license requirements {steuerwald_2026}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder.",
+    "No statements by Steuerwald about Colteryahn were found; his campaign website does not mention an opponent {steuerwald_site}."
+   ],
+   "plans": [
+    "No detailed plans for a new term were found beyond his campaign website's statements on taxes, schools and public safety {steuerwald_site}."
+   ],
+   "endorsements_finance": [
+    "Wikipedia lists endorsements in the primary from Gov. Mike Braun, Americans for Prosperity, Indiana Farm Bureau's AgELECT PAC, NFIB Indiana PAC and the NRA Political Victory Fund {wiki_house26}.",
+    "His campaign cites \"legislator of the year\" recognition from the Indiana Sheriffs' Association and the Indiana Chiefs of Police {steuerwald_site}."
+   ],
+   "gaps": [
+    "No campaign finance totals were found.",
+    "No public statement explaining his December 2025 no vote on HB 1032 was found.",
+    "The final status of HB 1049 (2025 public service attorney scholarships) was not confirmed.",
+    "The Indiana Capital Chronicle's primary voter guide could not be read (403); a search snippet said neither primary candidate responded to its survey (unverified).",
+    "Endorsements are sourced to Wikipedia, which cites the endorsing groups; the original endorsement lists were not read."
+   ]
+  },
+  {
+   "ballot_name": "William Colteryahn",
+   "summary": "Will Colteryahn, the Democratic nominee, is an Avon resident who says he has spent more than 20 years in state social services helping seniors, people with disabilities and families {colteryahn_site}.",
+   "website": "https://www.willcolteryahn.com/",
+   "background": [
+    "Says he has worked more than 20 years in social services and public service, helping people with disabilities, seniors and families navigate government systems; his site does not name employers {colteryahn_site}{colteryahn_about}.",
+    "Grew up outside Pittsburgh and holds a college degree, according to his campaign {colteryahn_about}.",
+    "Lives in Avon {colteryahn_about}."
+   ],
+   "path_to_ballot": [
+    "Was the only Democrat listed for the May 5, 2026 primary and is the party's nominee, according to Wikipedia {wiki_house26}."
+   ],
+   "positions": [
+    {
+     "topic": "Property taxes",
+     "items": [
+      "Says \"Homeowners shouldn't be left paying more while large corporations receive special tax breaks and deals\"; calls for big-box chains to \"pay their full assessments\" and to \"Stop giving away the tax base\" {colteryahn_site}{colteryahn_issues}.",
+      "Says recent state tax changes shifted burdens to homeowners and local governments {colteryahn_issues}."
+     ]
+    },
+    {
+     "topic": "Energy & utilities",
+     "items": [
+      "Calls for \"stronger accountability for Indiana's regulated utilities\" and says \"utilities should only be allowed to charge us for the electricity we actually use,\" opposing ratepayer costs for lobbying and executive pay {colteryahn_site}{colteryahn_issues}."
+     ]
+    },
+    {
+     "topic": "Data centers",
+     "items": [
+      "Opposes state incentives for data centers and says \"if a community doesn't want a data center, it should have every right to say no\" {colteryahn_issues}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Pledges to \"fight to protect home and community based services\" for seniors and people with disabilities and says the legislature \"has repeatedly cut Medicaid funding\" for those services {colteryahn_site}{colteryahn_issues}."
+     ]
+    },
+    {
+     "topic": "Privacy",
+     "items": [
+      "Supports opt-in consent for personal data collection and says \"mass-surveillance tools like Flock should not exist\" {colteryahn_issues}."
+     ]
+    },
+    {
+     "topic": "Ethics",
+     "items": [
+      "Calls for more financial disclosure and an independent body to monitor legislators' conflicts of interest, noting the House ethics committee \"is made up entirely of other lawmakers\" {colteryahn_issues}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "BallotReady's summary of his positions says he would fully fund public schools {ballotready_colteryahn}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "His issues page criticizes a 2025 bill it says his opponent co-authored, which lets utilities charge customers for nuclear research and development, saying \"ratepayers are required to cover those costs whether the reactors are ever built or not\" {colteryahn_issues}.",
+    "Says Statehouse decisions often seem \"disconnected\" from local challenges {colteryahn_site}."
+   ],
+   "plans": [
+    "Pledges to \"hold monthly town halls throughout the year and weekly town halls during the legislative session\" {colteryahn_issues}."
+   ],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage of Colteryahn's campaign was found.",
+    "No endorsements or campaign finance totals were found.",
+    "His employer and job title were not found.",
+    "The 2025 nuclear-cost bill his site attributes to Steuerwald was not identified by number or verified."
+   ]
+  }
+ ],
+ "sources": {
+  "rc_hb1032": [
+   "House Roll Call 28: HB 1032 (Redistricting), third reading, Dec. 5, 2025",
+   "Indiana House of Representatives (billtexts.com mirror)",
+   "2025-12-05",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  ],
+  "rc_sb1": [
+   "House Roll Call 433: SB 1 (Local government finance), third reading, Apr. 10, 2025",
+   "Indiana House of Representatives (billtexts.com mirror)",
+   "2025-04-10",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  ],
+  "rc_hb1001": [
+   "House Roll Call 576: HB 1001 (State budget), conference committee report, Apr. 25, 2025",
+   "Indiana House of Representatives (billtexts.com mirror)",
+   "2025-04-25",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  ],
+  "wiki_house26": [
+   "2026 Indiana House of Representatives election",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  ],
+  "steuerwald_bio": [
+   "Greg Steuerwald - member page",
+   "Indiana House Republicans",
+   "accessed 2026-10-10",
+   "https://www.indianahouserepublicans.com/members/leadership/greg-steuerwald"
+  ],
+  "steuerwald_hb1049": [
+   "Steuerwald authors bill to address state's attorney shortage",
+   "Indiana House Republicans",
+   "2025-02-06",
+   "https://www.indianahouserepublicans.com/news/press-releases/steuerwald-authors-bill-to-address-state-s-attorney-shortage/"
+  ],
+  "steuerwald_2026": [
+   "Hendricks County lawmakers: Legislative session ends with new laws to help Hoosiers",
+   "Indiana House Republicans",
+   "2026-04-15",
+   "https://www.indianahouserepublicans.com/news/press-releases/hendricks-county-lawmakers-legislative-session-ends-with-new-laws-to-help-hoosiers/"
+  ],
+  "steuerwald_site": [
+   "Greg Steuerwald for State Representative",
+   "Steuerwald campaign",
+   "accessed 2026-10-10",
+   "https://gregsteuerwald.com/"
+  ],
+  "colteryahn_site": [
+   "Will Colteryahn for Indiana House",
+   "Colteryahn campaign",
+   "accessed 2026-10-10",
+   "https://www.willcolteryahn.com/"
+  ],
+  "colteryahn_about": [
+   "About",
+   "Colteryahn campaign",
+   "accessed 2026-10-10",
+   "https://www.willcolteryahn.com/about"
+  ],
+  "colteryahn_issues": [
+   "Issues",
+   "Colteryahn campaign",
+   "accessed 2026-10-10",
+   "https://www.willcolteryahn.com/issues"
+  ],
+  "ballotready_colteryahn": [
+   "William Colteryahn",
+   "BallotReady",
+   "accessed 2026-10-10",
+   "https://www.ballotready.org/people/william-colteryahn"
+  ]
+ }
+}
