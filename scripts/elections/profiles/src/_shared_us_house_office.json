@@ -1,0 +1,22 @@
+{
+ "office": {
+  "title": "U.S. Representative",
+  "summary": "Members of the U.S. House of Representatives write and vote on federal laws, including the federal budget and taxes. Each represents one congressional district for a two-year term; Indiana has nine {house_explained}.",
+  "facts": [
+   {"label": "Term", "value": "2 years {house_explained}"},
+   {"label": "Term limit", "value": "None"},
+   {"label": "Voting members", "value": "435 {house_explained}"},
+   {"label": "Indiana seats", "value": "9 {in_list}"}
+  ],
+  "duties": [
+   "Introduces bills and resolutions, offers amendments, and votes on legislation; federal laws must pass both the House and the Senate {house_explained}.",
+   "Serves on committees, which draft legislation in their subject areas and oversee federal agencies and programs {house_explained}.",
+   "Must be at least 25, a U.S. citizen for at least seven years, and live in the state they represent {house_explained}."
+  ],
+  "recent_changes": []
+ },
+ "sources": {
+  "house_explained": ["The House Explained", "U.S. House of Representatives (house.gov)", "accessed 2026-10-10", "https://www.house.gov/the-house-explained"],
+  "in_list": ["2026 General Election Candidate List", "Indiana Election Division", "2026-09-22", "https://www.in.gov/sos/elections/candidate-information/"]
+ }
+}
