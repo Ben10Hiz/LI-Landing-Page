@@ -1,0 +1,220 @@
+{
+ "race_id": "in-state-representative-district-073",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Jennifer Meltzer",
+  "party": "Republican",
+  "summary": "Jennifer Meltzer, a Shelbyville attorney and former deputy attorney general, has represented House District 73 since November 2022 {caucus_meltzer}{wiki_meltzer}. The House Republican caucus lists her as vice chair of the Courts and Criminal Code Committee {caucus_meltzer}.",
+  "record": [
+   "Committees: Courts and Criminal Code (vice chair), Judiciary, and Local Government, per the caucus's member page {caucus_meltzer}.",
+   "2023: Her first law, HEA 1286, requires coroners to test for xylazine, a veterinary sedative found mixed into street drugs, in suspected overdose deaths {caucus_hea1286}.",
+   "2024: Authored HEA 1203, which made possessing xylazine without a prescription a crime and set penalties for dealing it, effective July 1, 2024 {caucus_hea1203}. She said the law was \"a strong step in the right direction to help law enforcement get 'tranq' off of our streets\" {caucus_hea1203}.",
+   "Voted yes on SEA 1, the 2025 property-tax law (April 10, 2025) {rc_sea1_433}, and yes on the 2025 budget conference report, HEA 1001 (April 25, 2025) {rc_hb1001_576}. Was one of the Republicans who voted no on HB 1032, the mid-decade congressional redistricting bill, which passed the House 57-41 on Dec. 5, 2025 {rc_hb1032_28}."
+  ]
+ },
+ "race_context": [
+  "House District 73 covers portions of Bartholomew, Decatur, Jennings and Shelby counties in southeastern Indiana, per the House Republican caucus {caucus_meltzer}.",
+  "Meltzer is seeking a third full term; she won 76.9% of the vote in 2024 {wiki_2026}.",
+  "May 5, 2026 Republican primary: Meltzer 3,675 votes (66.6%), Edward Comstock 1,844 (33.4%) {wiki_2026}. A.J. Miller was the only Democratic candidate {wiki_2026}.",
+  "Key differences: Miller's campaign lists labor, infrastructure, education, natural resources, public health and legalizing cannabis as issues {miller_issues}; Meltzer's campaign site lists opposition to abortion, support for gun rights, school choice and reducing regulation {meltzer_site}.",
+  "No debate or forum for this race was found."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Allen J. (A.J.) Miller",
+   "summary": "A.J. Miller is a technical writer from Greensburg making his first run for office {miller_about}. He was the only Democrat in the May primary {wiki_2026}.",
+   "website": "https://millerfor73.com/",
+   "background": [
+    "Works as a technical writer producing repair documentation, and says this is his first run for office {miller_about}.",
+    "Grew up on a small farm outside Pendleton; lives in Greensburg {miller_about}.",
+    "Lists membership in the Indiana Rural Summit {miller_site}."
+   ],
+   "path_to_ballot": [
+    "Was the only Democratic candidate in the May 5, 2026 primary {wiki_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Says \"Everyday Hoosiers continue to struggle while those in power benefit from our struggle\" and that he would work to even the playing field {miller_issues}."
+     ]
+    },
+    {
+     "topic": "Infrastructure",
+     "items": [
+      "Calls for repairing existing infrastructure first and then pursuing long-term preventative solutions, with technology as part of that work {miller_issues}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Supports better educational opportunities, more support for teachers and more support for the trades {miller_issues}."
+     ]
+    },
+    {
+     "topic": "Environment",
+     "items": [
+      "Says natural resources should be prioritized and protected from excessive industrial development {miller_issues}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Says he would pursue policies aimed at a healthier Indiana {miller_issues}. Supports legalizing and regulating cannabis, citing economic growth and health benefits {miller_issues}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Says he started the campaign \"as a way to take a principled stand that no incumbent should run unopposed\" {miller_site}. His campaign site does not mention Meltzer by name; he says lawmakers have ignored public testimony {miller_about}."
+   ],
+   "plans": [
+    "Says he wants to bring \"Better Outcomes for the State of Indiana\" {miller_about}."
+   ],
+   "endorsements_finance": [
+    "No endorsements are listed on his campaign site {miller_site}."
+   ],
+   "gaps": [
+    "No news coverage of his campaign was found; local outlets The Republic and Shelby County news sites could not be read.",
+    "No fundraising totals were found.",
+    "His campaign site does not give detailed stances on property taxes or the state budget."
+   ]
+  },
+  {
+   "ballot_name": "Jennifer Meltzer",
+   "summary": "Jennifer Meltzer is the two-term incumbent, a Shelbyville attorney who represents the city of Shelbyville {caucus_meltzer}. She won the Republican primary with 66.6% {wiki_2026}.",
+   "website": "https://www.meltzerforindiana.com/",
+   "background": [
+    "Attorney who represents the city of Shelbyville; previously a deputy attorney general and an Indiana Department of Health employee {caucus_meltzer}.",
+    "Psychology degree from Xavier University and law degree from the IU McKinney School of Law {caucus_meltzer}.",
+    "Lives in Shelbyville {caucus_meltzer}."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Republican primary over Edward Comstock, 66.6% to 33.4% {wiki_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Public safety",
+     "items": [
+      "Authored the 2023 and 2024 xylazine laws on overdose testing and criminal penalties {caucus_hea1286}{caucus_hea1203}."
+     ]
+    },
+    {
+     "topic": "Abortion",
+     "items": [
+      "Her campaign site describes her as \"Pro-Life\" {meltzer_site}."
+     ]
+    },
+    {
+     "topic": "Gun rights",
+     "items": [
+      "Her campaign site describes her as \"Pro 2nd Amendment\" {meltzer_site}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Campaign site lists \"Empowering parents to choose the best education for their children\" {meltzer_site}."
+     ]
+    },
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "Voted no on the December 2025 congressional redistricting bill, HB 1032 {rc_hb1032_28}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No statements about her challenger were found {meltzer_site}."
+   ],
+   "plans": [
+    "Campaign site lists \"Fighting unnecessary government regulation\" {meltzer_site}."
+   ],
+   "endorsements_finance": [
+    "Endorsed by Gov. Mike Braun, the NFIB Indiana PAC and the NRA Political Victory Fund, per Wikipedia's race listing {wiki_2026}."
+   ],
+   "gaps": [
+    "No public statement explaining her no vote on HB 1032 was found.",
+    "Search snippets (unverified) say she authored HB 1312 (2025, public notices), which passed the House 57-36, and filed HB 1055 (December 2025) to let cities and towns move municipal elections to even-numbered years; final status not confirmed.",
+    "No 2025–2026 bills she authored were confirmed as enacted.",
+    "No fundraising totals were found."
+   ]
+  }
+ ],
+ "sources": {
+  "caucus_meltzer": [
+   "State Rep. Jennifer Meltzer: biography and committees",
+   "Indiana House Republican Caucus",
+   "accessed 2026-10-10",
+   "https://www.indianahouserepublicans.com/members/general/jennifer-meltzer/"
+  ],
+  "wiki_meltzer": [
+   "Jennifer Meltzer",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/Jennifer_Meltzer"
+  ],
+  "caucus_hea1286": [
+   "Rep. Meltzer's first bill signed into law will help track dangerous street drug",
+   "Indiana House Republican Caucus",
+   "2023-04-21",
+   "https://www.indianahouserepublicans.com/news/press-releases/rep.-meltzer-s-first-bill-signed-into-law-will-help-track-dangerous-street-drug/"
+  ],
+  "caucus_hea1203": [
+   "Meltzer's bill targeting illicit use of animal tranquilizer signed into law",
+   "Indiana House Republican Caucus",
+   "2024-03-19",
+   "https://www.indianahouserepublicans.com/news/press-releases/meltzer-s-bill-targeting-illicit-use-of-animal-tranquilizer-signed-into-law/"
+  ],
+  "meltzer_site": [
+   "Meltzer for Indiana",
+   "Jennifer Meltzer campaign",
+   "accessed 2026-10-10",
+   "https://www.meltzerforindiana.com/"
+  ],
+  "miller_site": [
+   "Allen Miller for Indiana House District 73",
+   "A.J. Miller campaign",
+   "accessed 2026-10-10",
+   "https://millerfor73.com/"
+  ],
+  "miller_about": [
+   "About",
+   "A.J. Miller campaign",
+   "accessed 2026-10-10",
+   "https://millerfor73.com/about/"
+  ],
+  "miller_issues": [
+   "Issues",
+   "A.J. Miller campaign",
+   "accessed 2026-10-10",
+   "https://millerfor73.com/issues/"
+  ],
+  "rc_hb1032_28": [
+   "House Roll Call 28: HB 1032 (Redistricting), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-12-05",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  ],
+  "rc_sea1_433": [
+   "House Roll Call 433: SB 1 (Local government finance), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-10",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  ],
+  "rc_hb1001_576": [
+   "House Roll Call 576: HB 1001 (State budget), conference committee report",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-25",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  ],
+  "wiki_2026": [
+   "2026 Indiana House of Representatives election",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  ]
+ }
+}
