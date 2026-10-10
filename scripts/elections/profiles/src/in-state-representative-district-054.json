@@ -1,0 +1,134 @@
+{
+ "race_id": "in-state-representative-district-054",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Cory Criswell",
+  "party": "Republican",
+  "summary": "Cory Criswell, a Republican from Middletown, was elected in November 2022 and is seeking a third term {criswell_bio}. He is an assistant majority whip and sits on the Agriculture and Rural Development, Public Policy, and Ways and Means committees, according to the House Republican caucus {criswell_bio}.",
+  "record": [
+   "2024: Co-authored a law on school safety, student mental health and school resource officers, ceremonially signed by Gov. Eric Holcomb, according to the caucus {criswell_bio}.",
+   "January 2025: Appointed to the House Ways and Means Committee {criswell_bio}.",
+   "2025: Authored HEA 1064, which the caucus says removes older language barring students from switching schools mainly for athletic reasons; he said it \"simplifies the transfer process, giving students more freedom to pursue athletic success\" {criswell_hea1064}.",
+   "On April 10, 2025, voted for SB 1, the property-tax and local government finance bill, which passed the House 65–29 {rc_sb1_433}. On April 25, 2025, voted for the conference report on HEA 1001, the 2025–2027 state budget, adopted 66–27 {rc_hb1001_576}.",
+   "December 5, 2025: Voted for HB 1032, the mid-decade congressional redistricting bill, which passed the House 57–41 {rc_hb1032_28}; the Senate defeated it 19–31 on December 11 {rc_hb1032_8}.",
+   "January 28, 2026: Voted for HB 1002, the electric utility affordability bill, which passed the House 89–4 {rc_hb1002_149}.",
+   "2026: Authored HEA 1131, which the caucus says updates esthetician licensing to cover services such as microneedling and sets training standards for electrologists; he said it \"modernizes licensing definitions while ensuring professionals meet consistent training standards\" {criswell_hea1131}. In July 2026 he was appointed to the Interim Study Committee on Public Policy {criswell_interim}."
+  ]
+ },
+ "race_context": [
+  "House District 54 covers Henry County except Stoney Creek Township, Rush County except Richland Township, Blue River Township in Hancock County and Hanover Township in Shelby County, according to the House Republican caucus {criswell_bio}. It does not include Wayne County.",
+  "This is a rematch of 2022, when Criswell won the seat over Polk with 73.7% of the vote to her 26.3% {wiki_2022_inhouse}. Criswell was re-elected without opposition in 2024 {wiki_2026_inhouse}.",
+  "Criswell was the only Republican listed for the May 5, 2026 primary, and Wikipedia lists no Democratic primary candidate for the district {wiki_2026_inhouse}. The New Castle Courier-Times reported on June 30, 2026 that the November race would be a Criswell–Polk rematch {ct_polk}.",
+  "No debate or forum between the two candidates was found as of October 10, 2026."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Cory Criswell",
+   "summary": "The Republican incumbent since 2022, an assistant majority whip and a member of the Ways and Means Committee {criswell_bio}.",
+   "website": "https://www.hoosiersforcriswell.com/",
+   "background": [
+    "Development director for the Indiana Basketball Hall of Fame and owner of Criswell Lawn Care, according to the caucus {criswell_bio}.",
+    "Former educator and assistant athletic director at New Castle High School, and a former member of the Fall Creek Township Advisory Board {criswell_bio}.",
+    "Holds a bachelor's degree in education from Anderson University and a master's in education administration from Ball State University; lives in Middletown {criswell_bio}."
+   ],
+   "path_to_ballot": [
+    "Was the only Republican candidate listed for the May 5, 2026 primary {wiki_2026_inhouse}."
+   ],
+   "positions": [
+    {
+     "topic": "Education",
+     "items": [
+      "Authored the 2025 law loosening restrictions on athletic transfers between schools {criswell_hea1064}."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Said his 2026 licensing law \"modernizes licensing definitions while ensuring professionals meet consistent training standards\" {criswell_hea1131}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No public statement by Criswell about Polk's 2026 campaign was found."
+   ],
+   "plans": [
+    "His campaign site lists priorities including family values, quality education, fiscal responsibility, limited government, opposition to abortion, public safety, business and gun rights, without detailed proposals {criswell_site}."
+   ],
+   "endorsements_finance": [
+    "No endorsements are listed on his campaign site {criswell_site}."
+   ],
+   "gaps": [
+    "No campaign finance totals were checked for 2026.",
+    "Bill number for the 2024 school safety law he co-authored was not confirmed.",
+    "The caucus page lists him as development director for the Indiana Basketball Hall of Fame, while his campaign site describes him as an educator with the New Castle School Corporation; his current employment was not independently confirmed."
+   ]
+  },
+  {
+   "ballot_name": "Nan Polk",
+   "summary": "The Democratic nominee, a longtime New Castle Community School Board member and former teacher, who was also the party's nominee for the seat in 2022 {ballotready_polk} {wiki_2022_inhouse}.",
+   "website": "https://www.nanforindiana.com/",
+   "background": [
+    "Member of the New Castle Community School Board since 2012 and a former teacher at New Castle and Rushville high schools, according to BallotReady {ballotready_polk}.",
+    "Holds a bachelor's degree from Butler University and a master's in education from Ball State University {ballotready_polk}."
+   ],
+   "path_to_ballot": [
+    "Is listed as the Democratic nominee on the official general-election candidate list {in_list}. Wikipedia lists no Democratic primary candidate for the district {wiki_2026_inhouse}, and the Courier-Times reported her entry into the race on June 30, 2026 {ct_polk}; how she was nominated was not confirmed."
+   ],
+   "positions": [
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Her campaign says it will \"Invest in rural opportunity, agriculture, broadband, and infrastructure\" {polk_site}."
+     ]
+    },
+    {
+     "topic": "Education & health care",
+     "items": [
+      "Her campaign says it will \"Support education, healthcare, and economic security for Hoosier families\" {polk_site}."
+     ]
+    },
+    {
+     "topic": "Religious freedom",
+     "items": [
+      "Her campaign says it will \"Protect local values, strengthen communities, and preserve religious freedom\" {polk_site}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "No statement by Polk about Criswell's record was found on her campaign site {polk_site}."
+   ],
+   "plans": [
+    "Her campaign is organized around the theme \"Faith. Family. Future.\" with the three priorities above {polk_site}."
+   ],
+   "endorsements_finance": [
+    "No endorsements are listed on her campaign site {polk_site}."
+   ],
+   "gaps": [
+    "The Courier-Times story on her 2026 candidacy is behind a paywall; search snippets (unverified) said she filed paperwork June 23, 2026, and cited the 2025 property-tax law, child care costs and rising costs for housing, groceries, health care and education as concerns, and said lawmakers were not taking care of Henry County families.",
+    "How Polk reached the ballot (likely a post-primary party caucus filling a ballot vacancy) was not confirmed.",
+    "No campaign finance totals were checked.",
+    "Her campaign site does not state an election year; it was treated as current."
+   ]
+  }
+ ],
+ "sources": {
+  "criswell_bio": ["Cory Criswell — member page", "Indiana House Republicans", "2026-10", "https://www.indianahouserepublicans.com/members/general/cory-criswell/"],
+  "criswell_hea1064": ["Rep. Criswell: Governor ceremonially signs law to improve the athletic transfer process for Indiana students", "Indiana House Republicans", "2025-07-08", "https://www.indianahouserepublicans.com/news/press-releases/rep.-criswell-governor-ceremonially-signs-law-to-improve-the-athletic-transfer-process-for-indiana-students/"],
+  "criswell_hea1131": ["Governor ceremonially signs bill authored by Criswell to modernize cosmetology licensing and strengthen professional standards", "Indiana House Republicans", "2026-05-06", "https://www.indianahouserepublicans.com/news/press-releases/governor-ceremonially-signs-bill-authored-by-criswell-to-modernize-cosmetology-licensing-and-strengthen-professional-standards/"],
+  "criswell_interim": ["Reps. Criswell, Patterson receive 2026 summer study committee appointments", "Indiana House Republicans", "2026-07-02", "https://www.indianahouserepublicans.com/news/press-releases/reps.-criswell-patterson-receive-2026-summer-study-committee-appointments/"],
+  "criswell_site": ["Hoosiers for Criswell", "Cory Criswell campaign", "2026-10", "https://www.hoosiersforcriswell.com/"],
+  "polk_site": ["Nan Polk for Indiana House District 54", "Nan Polk campaign", "2026-10", "https://www.nanforindiana.com/"],
+  "ballotready_polk": ["Nan Polk", "BallotReady", "2026-10", "https://www.ballotready.org/people/nan-polk"],
+  "ct_polk": ["Polk enters District 54 race", "The Courier-Times (New Castle)", "2026-06-30", "https://www.thecouriertimes.com/news/polk-enters-district-54-race/article_663b30a9-6f10-52d0-937e-04d5e0a04e9c.html"],
+  "wiki_2026_inhouse": ["2026 Indiana House of Representatives election", "Wikipedia", "2026-10", "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"],
+  "wiki_2022_inhouse": ["2022 Indiana House of Representatives election", "Wikipedia", "2026-10", "https://en.wikipedia.org/wiki/2022_Indiana_House_of_Representatives_election"],
+  "rc_sb1_433": ["House Roll Call 433: SB 1 (Local government finance), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-04-10", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"],
+  "rc_hb1001_576": ["House Roll Call 576: HB 1001 (State budget), conference committee report", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-04-25", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"],
+  "rc_hb1032_28": ["House Roll Call 28: HB 1032 (Redistricting), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-12-05", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"],
+  "rc_hb1032_8": ["Senate Roll Call 8: HB 1032 (Redistricting), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-12-11", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-8-S-pdf.pdf"],
+  "rc_hb1002_149": ["House Roll Call 149: HB 1002 (Electric utility affordability), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2026-01-28", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1002-rollcalls-HB1002-149-H-pdf.pdf"]
+ }
+}

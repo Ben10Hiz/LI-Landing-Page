@@ -1,0 +1,317 @@
+{
+ "race_id": "in-state-representative-district-043",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": {
+  "title": "Indiana State Representative",
+  "summary": "Members of the Indiana House of Representatives write and vote on state laws as part of the Indiana General Assembly. The House has 100 members, each representing one district for a two-year term [1].",
+  "facts": [
+   {
+    "label": "Term",
+    "value": "2 years [1]"
+   },
+   {
+    "label": "Term limit",
+    "value": "None [1]"
+   },
+   {
+    "label": "Seats",
+    "value": "100 [1]"
+   },
+   {
+    "label": "On the 2026 ballot",
+    "value": "All 100 [2]"
+   }
+  ],
+  "duties": [
+   "Introduces and votes on state legislation as one of the two chambers of the Indiana General Assembly [1].",
+   "Must be at least 21 years old when taking office and have lived in the district for at least a year [1]."
+  ],
+  "recent_changes": []
+ },
+ "incumbent": {
+  "name": "Tonya Pfaff",
+  "party": "Democratic",
+  "summary": "Tonya Pfaff, a retired Terre Haute high school math teacher, has represented House District 43 since she was first elected in 2018 [3]. She serves on the Ways and Means and Education committees and is ranking minority member of the Agriculture and Rural Development Committee [3, 4].",
+  "record": [
+   "Committees: Ways and Means; Education; Agriculture and Rural Development (ranking minority member) [4].",
+   "April 10, 2025: Voted no when the House passed SEA 1, the 2025 property-tax law, 65-29 [5]; she said it \"offers very little to individual homeowners while shifting the burden to increased local income taxes\" and that Vigo County \"stands to lose $20.5 million\" [6].",
+   "April 2025: Added an amendment requiring consent instruction in human sexuality curriculum to SB 442; after the language was removed in conference committee, it was restored in the final version passed April 23, 2025 [7].",
+   "April 25, 2025: Voted no on the 2025 state budget conference report (HEA 1001), adopted 66-27 [8].",
+   "Dec. 5, 2025: Voted no when HB 1032, the mid-decade congressional redistricting bill, passed the House 57-41 [9].",
+   "2026 session: Authored HB 1325, directing the education, child services, health and family and social services agencies to share data on services for children with special needs; it passed the House 93-0 and the Senate 45-0 and was signed Feb. 24, 2026 [10, 11]. Jan. 28, 2026: Voted yes on HB 1002 (electric utility affordability), which passed 89-4 [12]."
+  ]
+ },
+ "race_context": [
+  "House District 43 is in Vigo County [3]; Pfaff's campaign describes it as covering Terre Haute, West Terre Haute and Seelyville [13].",
+  "Wikipedia's 2026 election summary notes Pfaff was re-elected without opposition in 2024 and that Donald Trump narrowly carried the district in 2024 [14].",
+  "Pfaff and Lore were the only candidates listed in their parties' May 5, 2026 primaries [14]; both are on the November ballot [2].",
+  "Key differences: Pfaff opposed the 2025 property-tax law, the 2025 budget and the 2025 redistricting bill and opposes universal private school vouchers [5, 8, 9, 15]; Lore, a Vigo County school board member, emphasizes reducing administrative paperwork for schools, spending accountability and private-sector job growth [16].",
+  "No general-election debate or forum for this race was found."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Amy Lore",
+   "summary": "Amy Lore is a Vigo County School Board member and former board president with a background in communications and public policy [17, 18]. She is running on school quality, spending accountability and economic growth [16].",
+   "website": "https://www.amylore.com/",
+   "background": [
+    "Elected to the Vigo County School Corporation board in 2020 and re-elected in 2024; board president 2023–2024 [18].",
+    "More than two decades in communications and public policy, including as an adviser and speechwriter to former Lt. Gov. Becky Skillman [17].",
+    "Indiana State University graduate (bachelor's and master's in public administration); lives in Terre Haute's Farrington's Grove neighborhood [17, 18]."
+   ],
+   "path_to_ballot": [
+    "Filed as a Republican in early February 2026 [17]; the only Republican listed in the May 5, 2026 primary [14]."
+   ],
+   "positions": [
+    {
+     "topic": "Education",
+     "items": [
+      "Wants to improve student results and teaching quality while reducing administrative paperwork and keeping decisions local; says \"Every child needs access to high-quality education and the opportunity to succeed\" [16]."
+     ]
+    },
+    {
+     "topic": "Government spending",
+     "items": [
+      "Supports cost-conscious government with fewer unnecessary rules; says \"Hoosiers need practical solutions and responsible spending from their leaders\" [16]."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Says \"Government does not create jobs. It creates an environment where Hoosiers can create jobs\" [16].",
+      "Wants the state to support local partnerships among residents, institutions and businesses in Vigo County [16]."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "No statements by Lore about Pfaff or her record were found; her announcement said she is running to keep state government \"focused on serving taxpayers\" [17]."
+   ],
+   "plans": [
+    "Said she is running to strengthen schools and grow economic opportunity [17]."
+   ],
+   "endorsements_finance": [
+    "No endorsements are listed on her website [19]. No fundraising figures were found."
+   ],
+   "gaps": [
+    "No specific positions found on property taxes, vouchers, redistricting, energy or data centers.",
+    "No news coverage after her February 2026 announcement was found.",
+    "Unverified: a Tribune-Star preview of March 2026 primary forums at the Vigo County Public Library may have listed Pfaff and Lore; the fetched text was inconsistent."
+   ]
+  },
+  {
+   "ballot_name": "Tonya Pfaff",
+   "summary": "Tonya Pfaff is the Democratic incumbent, first elected in 2018 and seeking a fifth term [3, 17]. Her 2026 special-needs services bill became law, and she voted against the 2025 property-tax law, budget and redistricting bill [11, 5, 8, 9].",
+   "website": "https://www.tonyapfaff.com/",
+   "background": [
+    "Taught high school math for 32 years at Terre Haute South, West and North high schools, retiring in 2025 [3].",
+    "Bachelor's degree from Saint Mary-of-the-Woods College and master's from the University of Oklahoma; lives in Terre Haute [20]."
+   ],
+   "path_to_ballot": [
+    "The only Democrat listed in the May 5, 2026 primary [14]."
+   ],
+   "positions": [
+    {
+     "topic": "Education",
+     "items": [
+      "Says \"education funding for our schools, Indiana State University and Ivy Tech are the first priority\" and that the teacher shortage \"must be addressed\" [21].",
+      "Opposes universal private school vouchers, saying they \"take funding meant for the kids in our public schools\"; she cites a figure that Vigo County schools have lost more than $36 million since the program expanded [15]."
+     ]
+    },
+    {
+     "topic": "Property taxes",
+     "items": [
+      "Opposed SEA 1 (2025), saying homeowners' savings would be offset by higher local income taxes and asking, \"Of course everyone wants to pay less in property taxes, but at what cost?\" [6]."
+     ]
+    },
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "Said the 2025 congressional maps \"were not drawn to benefit Hoosiers, but to artificially boost the political performance of one party\" [22]."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Says \"Terre Haute and Vigo County must be aggressive in competing for jobs\" and supports expanded vocational and apprenticeship programs [21]."
+     ]
+    },
+    {
+     "topic": "Infrastructure",
+     "items": [
+      "Says local roads depend on adequate state funding and calls for affordable high-speed broadband for every home and business [21]."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No statements by Pfaff about Lore were found."
+   ],
+   "plans": [
+    "Lists education and economic development for Terre Haute, West Terre Haute and Seelyville as her legislative goals [3, 13]."
+   ],
+   "endorsements_finance": [
+    "No endorsements are listed on her website [13]. No fundraising figures were found."
+   ],
+   "gaps": [
+    "No 2026 campaign news coverage or debate found.",
+    "No statements found on energy or data centers."
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": 1,
+   "title": "Indiana House of Representatives",
+   "publisher": "Wikipedia",
+   "date": "accessed 2026-10-10",
+   "url": "https://en.wikipedia.org/wiki/Indiana_House_of_Representatives"
+  },
+  {
+   "id": 2,
+   "title": "2026 General Election Candidate List",
+   "publisher": "Indiana Election Division",
+   "date": "2026-09-22",
+   "url": "https://www.in.gov/sos/elections/candidate-information/"
+  },
+  {
+   "id": 3,
+   "title": "State Rep. Tonya Pfaff: biography and committees",
+   "publisher": "Indiana House Democratic Caucus",
+   "date": "accessed 2026-10-10",
+   "url": "https://indianahousedemocrats.org/members/tonya-pfaff"
+  },
+  {
+   "id": 4,
+   "title": "Rep. Tonya Pfaff appointed to key committees focused on supporting working Hoosier families",
+   "publisher": "Indiana House Democratic Caucus",
+   "date": "2024-12-19",
+   "url": "https://www.indianahousedemocrats.org/news/yjza6f06hud9mw5rh96toq8rw2rtfe"
+  },
+  {
+   "id": 5,
+   "title": "House Roll Call 433: SB 1 (Local government finance), third reading",
+   "publisher": "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "date": "2025-04-10",
+   "url": "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  },
+  {
+   "id": 6,
+   "title": "Pfaff votes against tax hike on Hoosiers",
+   "publisher": "Indiana House Democratic Caucus",
+   "date": "2025-04-10",
+   "url": "https://www.indianahousedemocrats.org/news/9joht2hdud4doejkupxwipf5r5w5df"
+  },
+  {
+   "id": 7,
+   "title": "Pfaff celebrates reinstatement of consent education",
+   "publisher": "Indiana House Democratic Caucus",
+   "date": "2025-04-23",
+   "url": "https://www.indianahousedemocrats.org/news/xvelbad8qleyx4ek49ozm93j52kxiv"
+  },
+  {
+   "id": 8,
+   "title": "House Roll Call 576: HB 1001 (State budget), conference committee report",
+   "publisher": "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "date": "2025-04-25",
+   "url": "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  },
+  {
+   "id": 9,
+   "title": "House Roll Call 28: HB 1032 (Redistricting), third reading",
+   "publisher": "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "date": "2025-12-05",
+   "url": "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  },
+  {
+   "id": 10,
+   "title": "Pfaff bill to improve coordination of services for students with special needs heads to Governor's desk",
+   "publisher": "Indiana House Democratic Caucus",
+   "date": "2026-02-18",
+   "url": "https://www.indianahousedemocrats.org/news/t84tyg169zefjxyigbkc0brb8f6wrh"
+  },
+  {
+   "id": 11,
+   "title": "Indiana HB 1325 (2026): bill status",
+   "publisher": "PolicyRisk",
+   "date": "accessed 2026-10-10",
+   "url": "https://policyrisk.com/state-bill/IN-HB1325-2026"
+  },
+  {
+   "id": 12,
+   "title": "House Roll Call 149: HB 1002 (Electric utility affordability), third reading",
+   "publisher": "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "date": "2026-01-28",
+   "url": "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1002-rollcalls-HB1002-149-H-pdf.pdf"
+  },
+  {
+   "id": 13,
+   "title": "Tonya Pfaff for State Representative (campaign website)",
+   "publisher": "Elect Tonya Pfaff",
+   "date": "accessed 2026-10-10",
+   "url": "https://www.tonyapfaff.com/"
+  },
+  {
+   "id": 14,
+   "title": "2026 Indiana House of Representatives election",
+   "publisher": "Wikipedia",
+   "date": "accessed 2026-10-10",
+   "url": "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  },
+  {
+   "id": 15,
+   "title": "Pfaff reflects on universal private school vouchers in Indiana",
+   "publisher": "Indiana House Democratic Caucus",
+   "date": "2026-08-20",
+   "url": "https://www.indianahousedemocrats.org/news/pfaff-reflects-on-universal-private-school-vouchers-in-indiana"
+  },
+  {
+   "id": 16,
+   "title": "Issues",
+   "publisher": "Amy Lore campaign",
+   "date": "accessed 2026-10-10",
+   "url": "https://www.amylore.com/issues/"
+  },
+  {
+   "id": 17,
+   "title": "Amy Lore running for state representative in District 43",
+   "publisher": "Tribune-Star",
+   "date": "2026-02-06",
+   "url": "https://www.tribstar.com/news/local_news/amy-lore-running-for-state-representative-in-district-43/article_0597f2ec-a50d-435d-a7db-01086f8ee54a.html"
+  },
+  {
+   "id": 18,
+   "title": "About Amy",
+   "publisher": "Amy Lore campaign",
+   "date": "accessed 2026-10-10",
+   "url": "https://www.amylore.com/learn/"
+  },
+  {
+   "id": 19,
+   "title": "Amy Lore for State Representative (campaign website)",
+   "publisher": "Amy Lore campaign",
+   "date": "accessed 2026-10-10",
+   "url": "https://www.amylore.com/"
+  },
+  {
+   "id": 20,
+   "title": "About Tonya",
+   "publisher": "Elect Tonya Pfaff",
+   "date": "accessed 2026-10-10",
+   "url": "https://www.tonyapfaff.com/about-tonya"
+  },
+  {
+   "id": 21,
+   "title": "Platform",
+   "publisher": "Elect Tonya Pfaff",
+   "date": "accessed 2026-10-10",
+   "url": "https://www.tonyapfaff.com/platform"
+  },
+  {
+   "id": 22,
+   "title": "Pfaff decries House passage of Republicans' gerrymandered congressional maps",
+   "publisher": "Indiana House Democratic Caucus",
+   "date": "2025-12-05",
+   "url": "https://www.indianahousedemocrats.org/news/wi3fxnixtd7tdf184d7azinnath0tp"
+  }
+ ]
+}

@@ -1,0 +1,255 @@
+{
+ "race_id": "in-state-representative-district-042",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Tim Yocum",
+  "party": "Republican",
+  "summary": "Tim Yocum, a Clinton resident who works in operations at Duke Energy and served 10 years as a Vermillion County commissioner, has represented House District 42 since January 2025 {caucus_yocum} {caucus_yocum_oath}. Republican precinct committee members chose him in a caucus after Rep. Alan Morrison left to lead the Indiana Department of Natural Resources {wtwo_caucus} {wfyi_caucus}. He serves on the Elections and Apportionment, Environmental Affairs and Natural Resources committees {caucus_yocum}.",
+  "record": [
+   "Jan. 14, 2025: Won a Republican caucus of precinct committee members in Rockville over four other candidates to finish Morrison's term; sworn in Jan. 16, 2025 {wtwo_caucus} {wfyi_caucus} {caucus_yocum_oath}.",
+   "Committees: Elections and Apportionment; Environmental Affairs; Natural Resources {caucus_yocum}.",
+   "April 10, 2025: Voted yes when the House passed SEA 1, the 2025 property-tax law, 65-29 {rc_sea1_433}. April 25, 2025: Voted yes on the 2025 state budget conference report (HEA 1001), adopted 66-27 {rc_hb1001_576}.",
+   "Dec. 2025: As a member of the House Elections and Apportionment Committee, voted with Democrats against sending HB 1032, the mid-decade congressional redistricting bill, to the House floor; a spokesperson said, \"He has no further comment. His vote speaks for itself\" {citizen_hb1032_cmte}. Dec. 5, 2025: Was one of 12 House Republicans who voted no when HB 1032 passed the House 57-41 {rc_hb1032_28} {citizen_hb1032_floor}.",
+   "2026 session: Authored HB 1342, requiring county commissioners to hold a public meeting and take comment on commissioner district lines after each census; it passed the House in January 2026 {caucus_hb1342} {brazil_hb1342}. Authored HB 1341, which would bar eminent domain for private carbon capture, pipeline and storage projects; it was referred to the House Utilities, Energy and Telecommunications Committee {caucus_hb1341}.",
+   "Jan. 28, 2026: Voted yes when the House passed HB 1002 (electric utility affordability) 89-4 {rc_hb1002_149}."
+  ]
+ },
+ "race_context": [
+  "House District 42 covers all of Parke and Vermillion counties and parts of Clay, Fountain and Vigo counties in west-central Indiana {caucus_yocum}.",
+  "Yocum is seeking his first full term; he joined the House by caucus in January 2025 after Alan Morrison, who held the seat for 13 years, became DNR director {wtwo_caucus} {wfyi_caucus}. WFYI reported Yocum had run unsuccessfully against Morrison in the 2024 Republican primary {wfyi_caucus}.",
+  "Yocum was the only Republican listed in the May 5, 2026 primary, and no Democratic primary candidate is listed for the district {wiki_2026}. Vandivier appears on the Election Division's general-election list with a July 6, 2026 filing date, after the primary {in_list}.",
+  "Key differences: Vandivier's campaign focuses on nurse staffing, maternal health, public-school funding, child care and paid family leave {vandivier_site}; Yocum's 2026 bills dealt with eminent domain for carbon projects and county commissioner districts, and he voted against the 2025 congressional redistricting bill {caucus_hb1341} {caucus_hb1342} {rc_hb1032_28}.",
+  "No debate or forum for the general election was found."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Brandi Vandivier",
+   "summary": "Brandi Vandivier is the Democratic nominee and describes herself as a neonatal nurse practitioner {vandivier_site}. Her website centers on health care, public education and family policy {vandivier_site}.",
+   "website": "https://brandifor42.com/",
+   "background": [
+    "Neonatal intensive care nurse practitioner, according to her campaign website {vandivier_site}.",
+    "Her website says her husband and grandparents were public school teachers and that she was a caregiver for her grandfather {vandivier_site}."
+   ],
+   "path_to_ballot": [
+    "No Democrat is listed in the May 5, 2026 primary for this district {wiki_2026}; the Election Division list shows her filing dated July 6, 2026 {in_list}. No reporting was found on how she was selected."
+   ],
+   "positions": [
+    {
+     "topic": "Health care",
+     "items": [
+      "Says \"we do not have a nursing shortage—we have a shortage of nurses willing to work under the current conditions,\" and supports making nurse-to-patient ratios public {vandivier_site}.",
+      "Cites Indiana's maternal mortality rate as a priority and says insurers should not be able to \"delay, deny, or prevent medically necessary treatment\" {vandivier_site}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Says \"Public education is one of the most important investments we can make in our future\" and opposes SB 1, which she says will cut school funding and limit local referendums {vandivier_site}.",
+      "Supports affordable higher education {vandivier_site}."
+     ]
+    },
+    {
+     "topic": "Child care & families",
+     "items": [
+      "Criticizes the legislature for freezing child care voucher enrollment and loosening provider standards, and supports paid family and medical leave {vandivier_site}.",
+      "Says the state's budget surplus, which she puts at about $2.5 billion, should fund family services {vandivier_site}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Her website criticizes state leaders and the legislature generally but does not name Yocum {vandivier_site}."
+   ],
+   "plans": [
+    "Says she \"will work to protect our public schools, support our teachers, and strengthen our communities\" {vandivier_site}."
+   ],
+   "endorsements_finance": [
+    "No endorsements are listed on her website {vandivier_site}; iVoterGuide lists her campaign website and Facebook page {ivg_hd42}. No fundraising figures were found."
+   ],
+   "gaps": [
+    "No news coverage of her 2026 candidacy was found; town of residence not confirmed.",
+    "How she reached the ballot (likely a post-primary party vacancy filling, inferred from the July 6 filing date) is unconfirmed.",
+    "Unverified (search snippets only): a candidate database lists a Brandi Cooper Vandivier who placed second in the 2020 Democratic primary for this district with about 38%.",
+    "Her site's reference to 'SB 1' does not specify year; it may refer to the 2025 property-tax law (SEA 1).",
+    "No statements on redistricting, property taxes beyond schools, energy or data centers found."
+   ]
+  },
+  {
+   "ballot_name": "Tim R. Yocum",
+   "summary": "Tim Yocum is the Republican incumbent, appointed by caucus in January 2025 {caucus_yocum_oath}. His bills have dealt with eminent domain for carbon projects and county redistricting procedures, and he broke with his caucus on the 2025 congressional map {caucus_hb1341} {caucus_hb1342} {rc_hb1032_28}.",
+   "website": null,
+   "background": [
+    "Works in operations at Duke Energy; lives in Clinton {caucus_yocum}.",
+    "Served 10 years as a Vermillion County commissioner, four as board president, and has chaired the Vermillion County Republican Party for 20 years {caucus_yocum}."
+   ],
+   "path_to_ballot": [
+    "Selected by Republican caucus in January 2025 {wfyi_caucus}; the only Republican listed in the May 5, 2026 primary {wiki_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Property rights & energy",
+     "items": [
+      "On HB 1341: \"Property owners should never be forced to give up their land for private carbon projects\" {caucus_hb1341}."
+     ]
+    },
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "On HB 1342: \"This legislation ensures a more fair and transparent process\" for county commissioner districts {caucus_hb1342}.",
+      "Voted against HB 1032, the 2025 congressional redistricting bill, in committee and on the floor; he did not take media questions about the vote {citizen_hb1032_cmte} {rc_hb1032_28}."
+     ]
+    },
+    {
+     "topic": "Property taxes",
+     "items": [
+      "Voted for SEA 1 (2025) {rc_sea1_433}. An August 2026 caucus column under his name says the 2025 law delivers \"more than $1.3 billion in property tax relief\" through 2028 and moves referendums to general-election ballots {caucus_proptax_col}."
+     ]
+    },
+    {
+     "topic": "Agriculture",
+     "items": [
+      "Joined a lawmakers' letter asking the governor to let farmers use off-road diesel in trucks during harvest; said it was \"a common-sense way to help reduce costs\" {caucus_diesel}."
+     ]
+    },
+    {
+     "topic": "Families & technology",
+     "items": [
+      "Highlighted HEA 1408 on minors' social media use, saying \"Parents have a right to decide if social media use is best for their child\" {caucus_newlaws_2026}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No statements by Yocum about Vandivier were found."
+   ],
+   "plans": [
+    "No campaign platform or website was found; iVoterGuide lists only a Facebook page {ivg_hd42}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or fundraising figures were found."
+   ],
+   "gaps": [
+    "Whether HB 1342 became law was not confirmed.",
+    "Unverified (search snippets only): a WTHI report that Yocum received a pipe bomb threat after the redistricting debate.",
+    "No general-election debate or campaign statements found."
+   ]
+  }
+ ],
+ "sources": {
+  "caucus_yocum": [
+   "State Rep. Tim Yocum: biography and committees",
+   "Indiana House Republican Caucus",
+   "accessed 2026-10-10",
+   "https://www.indianahouserepublicans.com/members/general/tim-yocum/"
+  ],
+  "caucus_yocum_oath": [
+   "Yocum takes oath to serve as new state representative for House District 42",
+   "Indiana House Republican Caucus",
+   "2025-01-17",
+   "https://www.indianahouserepublicans.com/news/press-releases/yocum-takes-oath-to-serve-as-new-state-representative-for-house-district-42/"
+  ],
+  "wtwo_caucus": [
+   "Caucus set for Indiana House Rep. District 42 seat",
+   "WTWO (via Yahoo News)",
+   "2025-01-08",
+   "https://www.yahoo.com/news/caucus-set-indiana-house-rep-174202548.html"
+  ],
+  "wfyi_caucus": [
+   "GOP caucus selects Vermillion County Commissioner Tim Yocum to join state House",
+   "WFYI News (via WBOI)",
+   "2025-01-15",
+   "https://www.wboi.org/2025-01-15/gop-caucus-selects-vermillion-county-commissioner-tim-yocum-to-join-state-house"
+  ],
+  "caucus_hb1341": [
+   "Rep. Yocum authors legislation to protect private property rights, regulate eminent domain",
+   "Indiana House Republican Caucus",
+   "2026-01-13",
+   "https://www.indianahouserepublicans.com/news/press-releases/rep.-yocum-authors-legislation-to-protect-private-property-rights-regulate-eminent-domain/"
+  ],
+  "caucus_hb1342": [
+   "Rep. Yocum's legislation to allow public input for county commissioner districts passes House",
+   "Indiana House Republican Caucus",
+   "2026-01-29",
+   "https://www.indianahouserepublicans.com/news/press-releases/rep.-yocum-s-legislation-to-allow-public-input-for-county-commissioner-districts-passes-house/"
+  ],
+  "brazil_hb1342": [
+   "Deep Dive: Senate-bound Commissioners bill in the Clay County context",
+   "Brazil Times (via Sun-Commercial)",
+   "2026-01-28",
+   "https://www.suncommercial.com/brazil_times/article_f7d30d2f-f603-5e31-a12b-2a9bd26af179.html"
+  ],
+  "caucus_newlaws_2026": [
+   "State Reps. Heaton, Yocum highlight new state laws taking effect",
+   "Indiana House Republican Caucus",
+   "2026-06-25",
+   "https://www.indianahouserepublicans.com/news/press-releases/state-reps.-heaton-yocum-highlight-new-state-laws-taking-effect/"
+  ],
+  "caucus_diesel": [
+   "Reps. Heaton, Yocum: Governor answers lawmakers' call to provide diesel fuel relief for farmers",
+   "Indiana House Republican Caucus",
+   "2026-10-05",
+   "https://www.indianahouserepublicans.com/news/press-releases/reps.-heaton-yocum-governor-answers-lawmakers-call-to-provide-diesel-fuel-relief-for-farmers/"
+  ],
+  "caucus_proptax_col": [
+   "COLUMN: A clearer look at your property tax bill",
+   "Indiana House Republican Caucus",
+   "2026-08-04",
+   "https://www.indianahouserepublicans.com/news/guest-column/column-a-clearer-look-at-your-property-tax-bill/"
+  ],
+  "citizen_hb1032_cmte": [
+   "ECONOMIC CONCERNS: House Democrats try to revise redistricting bill",
+   "The Indiana Citizen / TheStatehouseFile.com",
+   "2025-12-02",
+   "https://indianacitizen.org/?p=21776"
+  ],
+  "citizen_hb1032_floor": [
+   "Bill advances: 12 House Republicans join Democrats to oppose redistricting, but map moves to Senate",
+   "The Indiana Citizen / TheStatehouseFile.com",
+   "2025-12-05",
+   "https://indianacitizen.org/bill-advances-12-house-republicans-join-democrats-to-oppose-redistricting-but-map-moves-to-senate/"
+  ],
+  "vandivier_site": [
+   "Brandi Vandivier for House District 42 (campaign website)",
+   "Brandi Vandivier campaign",
+   "accessed 2026-10-10",
+   "https://brandifor42.com/"
+  ],
+  "ivg_hd42": [
+   "Indiana State Representative, District 42: 2026 General Election",
+   "iVoterGuide",
+   "accessed 2026-10-10",
+   "https://ivoterguide.com/race/30691/election/1456"
+  ],
+  "rc_hb1032_28": [
+   "House Roll Call 28: HB 1032 (Redistricting), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-12-05",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  ],
+  "rc_sea1_433": [
+   "House Roll Call 433: SB 1 (Local government finance), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-10",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  ],
+  "rc_hb1001_576": [
+   "House Roll Call 576: HB 1001 (State budget), conference committee report",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-25",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  ],
+  "rc_hb1002_149": [
+   "House Roll Call 149: HB 1002 (Electric utility affordability), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2026-01-28",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1002-rollcalls-HB1002-149-H-pdf.pdf"
+  ],
+  "wiki_2026": [
+   "2026 Indiana House of Representatives election",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  ]
+ }
+}
