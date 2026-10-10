@@ -32,13 +32,12 @@
   "May 5, 2026 Democratic primary: Drew Cox won an eight-candidate field with 30.3% of the vote, about 7.5 points ahead of the next finisher {exponent_primary}.",
   "Three candidates are on the November 3, 2026 list: Baird (Republican), Cox (Democratic), and David E. Bokash (Independent, declared write-in) {in_list}.",
   "Key differences in stated priorities: Baird's campaign has listed agriculture and family farms, government spending, border security, Second Amendment rights, rural health care, and veterans {wfyi_primary_preview}; Cox lists single-payer health care, campaign-finance and anti-corruption measures, workers' rights and unions, affordable housing, and a federal moratorium on AI data centers {wane_primary}.",
-  "As of the reports covering through June 30, 2026, Baird's campaign had raised $358,293 for the 2025-2026 cycle and had $91,561 on hand; Cox had raised $20,377 and had $6,863 on hand {fec_baird} {fec_cox}.",
-  "No scheduled debate or candidate forum between the general-election candidates was found in news coverage reviewed as of October 10, 2026."
+  "As of the reports covering through June 30, 2026, Baird's campaign had raised $358,293 for the 2025-2026 cycle and had $91,561 on hand; Cox had raised $20,377 and had $6,863 on hand {fec_baird} {fec_cox}."
  ],
  "candidates": [
   {
    "ballot_name": "Jim Baird",
-   "summary": "Jim Baird, 80, is a farmer from Greencastle who has represented the 4th District since 2019 and is seeking a fifth term {wfyi_primary_preview}. He names lowering costs, agriculture, border security, and government spending among his priorities {wfyi_primary_preview}.",
+   "summary": "Jim Baird, 80, is a farmer from Greencastle who has represented the 4th District since 2019 and is seeking a fifth term {wfyi_primary_preview}. He lists agriculture, border security, and government spending among his priorities {wfyi_primary_preview}.",
    "website": "https://baird.house.gov",
    "background": [
     "Lifelong district resident; previously served in the Indiana House of Representatives and as a Putnam County commissioner; a veteran, Purdue graduate, farmer, and small-business owner {wane_primary}.",
@@ -50,26 +49,44 @@
     "Won the May 5, 2026 Republican primary with 60.5% of the vote over state Rep. Craig Haggard (30.5%) {exponent_primary}."
    ],
    "positions": [
-    {"topic": "Agriculture", "items": [
-     "Lists agriculture and family farms among his priorities {wfyi_primary_preview}.",
-     "Supported the 2026 House farm bill, citing its provision overturning California's Proposition 12 for pork producers, and said he wants to \"deliver a full, five-year Farm Bill\" (statement, March 5, 2026) {baird_farmbill}."
-    ]},
-    {"topic": "Taxes and federal spending", "items": [
-     "Lists the economy and government spending among his priorities {wfyi_primary_preview}.",
-     "Supported the 2025 reconciliation law, saying it cuts taxes for workers, families, and seniors and \"prevents a Death Tax increase that would devastate thousands of family farms\" (statement, July 3, 2025) {baird_obbba}."
-    ]},
-    {"topic": "Immigration and border", "items": [
-     "Lists border security as a priority {wfyi_primary_preview}; his campaign cited border security and energy independence when he filed for re-election in January 2026 {indystar_filing}."
-    ]},
-    {"topic": "Guns", "items": [
-     "Lists Second Amendment rights among his priorities {wfyi_primary_preview}."
-    ]},
-    {"topic": "Health care and veterans", "items": [
-     "Lists rural health care and veterans among his priorities {wfyi_primary_preview}."
-    ]},
-    {"topic": "Redistricting", "items": [
-     "Said in August 2025 that population migration made it important to redraw districts so \"we have people represented in those districts\" {mnc_redistrict}."
-    ]}
+    {
+     "topic": "Agriculture",
+     "items": [
+      "Lists agriculture and family farms among his priorities {wfyi_primary_preview}.",
+      "Supported the 2026 House farm bill, citing its provision overturning California's Proposition 12 for pork producers, and said he wants to \"deliver a full, five-year Farm Bill\" (statement, March 5, 2026) {baird_farmbill}."
+     ]
+    },
+    {
+     "topic": "Taxes and federal spending",
+     "items": [
+      "Lists the economy and government spending among his priorities {wfyi_primary_preview}.",
+      "Supported the 2025 reconciliation law, saying it cuts taxes for workers, families, and seniors and \"prevents a Death Tax increase that would devastate thousands of family farms\" (statement, July 3, 2025) {baird_obbba}."
+     ]
+    },
+    {
+     "topic": "Immigration and border",
+     "items": [
+      "Lists border security as a priority {wfyi_primary_preview}; his campaign cited border security and energy independence when he filed for re-election in January 2026 {indystar_filing}."
+     ]
+    },
+    {
+     "topic": "Guns",
+     "items": [
+      "Lists Second Amendment rights among his priorities {wfyi_primary_preview}."
+     ]
+    },
+    {
+     "topic": "Health care and veterans",
+     "items": [
+      "Lists rural health care and veterans among his priorities {wfyi_primary_preview}."
+     ]
+    },
+    {
+     "topic": "Redistricting",
+     "items": [
+      "Said in August 2025 that population migration made it important to redraw districts so \"we have people represented in those districts\" {mnc_redistrict}."
+     ]
+    }
    ],
    "on_incumbent": [
     "Is the current officeholder.",
@@ -89,7 +106,8 @@
     "A Based in Lafayette questionnaire (April 2026) reportedly lists lowering costs and securing the border as his top priorities; seen only in search snippets, unverified.",
     "Outcome of the 2025 Indiana redistricting proposal (whether the 4th District lines changed) was not confirmed from a fetched source; the April 2026 WFYI description of the district was used.",
     "No individual floor statements on the 2025 and 2026 government-funding votes were found.",
-    "Third-quarter 2026 FEC reports (due October 15) were not yet available."
+    "Third-quarter 2026 FEC reports (due October 15) were not yet available.",
+    "No scheduled debate or candidate forum between the general-election candidates was found in coverage reviewed as of October 10, 2026."
    ]
   },
   {
@@ -106,32 +124,56 @@
     "Won the May 5, 2026 Democratic primary with 30.3% of the vote in an eight-candidate field {exponent_primary}."
    ],
    "positions": [
-    {"topic": "Health care", "items": [
-     "Supports a single-payer Medicare for All system that includes mental and reproductive health care, and strict limits on prices for essential medications {cox_healthcare}."
-    ]},
-    {"topic": "Data centers and energy", "items": [
-     "Calls AI data centers \"the most present threat to resource security in the United States\" and supports a federal moratorium on them, plus a requirement that data centers use green energy {cox_issues}."
-    ]},
-    {"topic": "Campaign finance and ethics", "items": [
-     "Supports overturning Citizens United, public matching of small-dollar donations, a ban on congressional stock trading (H.R. 5106), and the Ban Corporate PACs Act (H.R. 4799); says his campaign takes no corporate money {cox_corruption}."
-    ]},
-    {"topic": "Workers and the economy", "items": [
-     "Supports raising the minimum wage, supporting unions, and reviving federal employment programs {cox_issues}.",
-     "Supports higher tax brackets for the highest earners and closing corporate tax loopholes {cox_issues}."
-    ]},
-    {"topic": "Housing", "items": [
-     "Says he would pursue affordable housing legislation and relief for residents facing high home prices {cox_issues}."
-    ]},
-    {"topic": "Immigration", "items": [
-     "Said \"ICE needs to be held to the same standard as every other law enforcement agency\" and listed oversight of ICE as a priority (April 2026) {wfyi_primary_preview}."
-    ]},
-    {"topic": "Veterans and foreign policy", "items": [
-     "Says he will \"vote against authorizing any more needless, illegal wars\" and supports a well-funded VA {cox_issues}.",
-     "Says he is committed to pulling military aid from nations committing violent acts, citing Gaza {cox_issues}."
-    ]},
-    {"topic": "Abortion and personal autonomy", "items": [
-     "Says government should respect people's autonomy in decisions about their bodies and personal relationships {cox_issues}, and called for reproductive freedom at his campaign launch {exponent_launch}."
-    ]}
+    {
+     "topic": "Health care",
+     "items": [
+      "Supports a single-payer Medicare for All system that includes mental and reproductive health care, and strict limits on prices for essential medications {cox_healthcare}."
+     ]
+    },
+    {
+     "topic": "Data centers and energy",
+     "items": [
+      "Calls AI data centers \"the most present threat to resource security in the United States\" and supports a federal moratorium on them, plus a requirement that data centers use green energy {cox_issues}."
+     ]
+    },
+    {
+     "topic": "Campaign finance and ethics",
+     "items": [
+      "Supports overturning Citizens United, public matching of small-dollar donations, a ban on congressional stock trading (H.R. 5106), and the Ban Corporate PACs Act (H.R. 4799); says his campaign takes no corporate money {cox_corruption}."
+     ]
+    },
+    {
+     "topic": "Workers and the economy",
+     "items": [
+      "Supports raising the minimum wage, supporting unions, and reviving federal employment programs {cox_issues}.",
+      "Supports higher tax brackets for the highest earners and closing corporate tax loopholes {cox_issues}."
+     ]
+    },
+    {
+     "topic": "Housing",
+     "items": [
+      "Says he would pursue affordable housing legislation and relief for residents facing high home prices {cox_issues}."
+     ]
+    },
+    {
+     "topic": "Immigration",
+     "items": [
+      "Said \"ICE needs to be held to the same standard as every other law enforcement agency\" and listed oversight of ICE as a priority (April 2026) {wfyi_primary_preview}."
+     ]
+    },
+    {
+     "topic": "Veterans and foreign policy",
+     "items": [
+      "Says he will \"vote against authorizing any more needless, illegal wars\" and supports a well-funded VA {cox_issues}.",
+      "Says he is committed to pulling military aid from nations committing violent acts, citing Gaza {cox_issues}."
+     ]
+    },
+    {
+     "topic": "Abortion and personal autonomy",
+     "items": [
+      "Says government should respect people's autonomy in decisions about their bodies and personal relationships {cox_issues}, and called for reproductive freedom at his campaign launch {exponent_launch}."
+     ]
+    }
    ],
    "on_incumbent": [
     "No direct statements by Cox about Baird's votes or record were found in the sources reviewed. At his March 2026 launch, Cox framed the race as \"billionaires and corporations versus everyday Hoosiers\" and said \"our current leaders in Washington aren't delivering\" for working-class Americans {exponent_launch} {cox_home}."
@@ -149,7 +191,8 @@
     "Discrepancy: BallotReady summarizes his position as abolishing ICE, while his April 2026 WFYI response called for holding ICE to the same standards as other law enforcement; his campaign issues page reviewed did not address ICE.",
     "Sources describe his Purdue role differently (visiting instructor vs. visiting professor of music).",
     "No statements found on agriculture, the 2025 reconciliation law, or the 2025-2026 shutdown votes.",
-    "Third-quarter 2026 FEC reports were not yet available."
+    "Third-quarter 2026 FEC reports were not yet available.",
+    "No scheduled debate or candidate forum between the general-election candidates was found in coverage reviewed as of October 10, 2026."
    ]
   },
   {
@@ -176,45 +219,245 @@
   }
  ],
  "sources": {
-  "baird_committees": ["Committees and Caucuses", "Office of Rep. Jim Baird (baird.house.gov)", "accessed 2026-10-10", "https://baird.house.gov/about/committees-and-caucuses.htm"],
-  "baird_obbba": ["Congressman Baird Supports the One Big Beautiful Bill, Votes for Largest Tax Cut in American History", "Office of Rep. Jim Baird", "2025-07-03", "https://baird.house.gov/news/documentsingle.aspx?DocumentID=2484"],
-  "baird_farmbill": ["Congressman Baird Statement on Passage of 2026 Farm Bill in House Agriculture Committee", "Office of Rep. Jim Baird", "2026-03-05", "https://baird.house.gov/news/documentsingle.aspx?DocumentID=2535"],
-  "vote_2025_145": ["Roll Call 145: H.R. 1, One Big Beautiful Bill Act, On Passage", "Office of the Clerk, U.S. House", "2025-05-22", "https://clerk.house.gov/Votes/2025145"],
-  "vote_2025_190": ["Roll Call 190: H.R. 1, On Motion to Concur in the Senate Amendment", "Office of the Clerk, U.S. House", "2025-07-03", "https://clerk.house.gov/Votes/2025190"],
-  "vote_2025_281": ["Roll Call 281: H.R. 5371, Continuing Appropriations and Extensions Act, 2026, On Passage", "Office of the Clerk, U.S. House", "2025-09-19", "https://clerk.house.gov/Votes/2025281"],
-  "vote_2025_285": ["Roll Call 285: H.R. 5371, On Motion to Concur in the Senate Amendment", "Office of the Clerk, U.S. House", "2025-11-12", "https://clerk.house.gov/Votes/2025285"],
-  "vote_2026_007": ["Roll Call 7: H.R. 6938, On Passage", "Office of the Clerk, U.S. House", "2026-01-08", "https://clerk.house.gov/Votes/20267"],
-  "vote_2026_045": ["Roll Call 45: H.R. 7148, Consolidated Appropriations Act, 2026, On Passage", "Office of the Clerk, U.S. House", "2026-01-22", "https://clerk.house.gov/Votes/202645"],
-  "vote_2026_053": ["Roll Call 53: H.R. 7148, On Motion to Concur in the Senate Amendments", "Office of the Clerk, U.S. House", "2026-02-03", "https://clerk.house.gov/Votes/202653"],
-  "vote_2026_065": ["Roll Call 65: H.J.Res. 72, On Passage", "Office of the Clerk, U.S. House", "2026-02-11", "https://clerk.house.gov/Votes/202665"],
-  "vote_2026_087": ["Roll Call 87: H.R. 7744, Department of Homeland Security Appropriations Act, 2026, On Passage", "Office of the Clerk, U.S. House", "2026-03-05", "https://clerk.house.gov/Votes/202687"],
-  "vote_2026_154": ["Roll Call 154: H.R. 7567, Farm, Food, and National Security Act, On Passage", "Office of the Clerk, U.S. House", "2026-04-30", "https://clerk.house.gov/Votes/2026154"],
-  "vote_2026_205": ["Roll Call 205: H.R. 8646, Agriculture-FDA Appropriations, On Passage", "Office of the Clerk, U.S. House", "2026-06-04", "https://clerk.house.gov/Votes/2026205"],
-  "vote_2026_272": ["Roll Call 272: H.R. 9770, Continuing Appropriations for Fiscal Year 2027, On Passage", "Office of the Clerk, U.S. House", "2026-07-21", "https://clerk.house.gov/Votes/2026272"],
-  "cg_hr7194": ["H.R. 7194 - Nicholas Dockery Medal of Honor Act", "Congress.gov", "2026-03-26", "https://www.congress.gov/bill/119th-congress/house-bill/7194"],
-  "cg_hr8036": ["H.R. 8036 - Interagency Coordination in Export Controls Act of 2026", "Congress.gov", "2026-04-22", "https://www.congress.gov/bill/119th-congress/house-bill/8036"],
-  "cg_hr5221": ["H.R. 5221 - PART Act", "Congress.gov", "2026-02-10", "https://www.congress.gov/bill/119th-congress/house-bill/5221"],
-  "cg_baird_sponsored": ["Rep. James Baird: Sponsored Legislation, 119th Congress", "Congress.gov", "accessed 2026-10-10", "https://www.congress.gov/member/james-baird/B001307"],
-  "wfyi_fec_fine": ["U.S. Rep. Jim Baird fined for failing to disclose campaign loan repayment", "WFYI", "2025-03-17", "https://www.wfyi.org/public-affairs/2025-03-17/indiana-rep-baird-fined-for-failing-to-disclose-campaign-loan-repayment"],
-  "wndu_crash": ["Indiana congressman Jim Baird and wife hospitalized after crash", "WNDU", "2026-01-06", "https://www.wndu.com/2026/01/06/indiana-congressman-jim-baird-wife-hospitalized-after-crash"],
-  "nbc_danise": ["Wife of Indiana congressman dies from complications following car crash injuries", "NBC Chicago", "2026-03-01", "https://www.nbcchicago.com/news/local/wife-of-indiana-congressman-dies-from-complications-following-car-crash-injuries/3901830/"],
-  "wfyi_primary_preview": ["Indiana's 4th Congressional District sees challengers for Rep. Jim Baird and a crowded field for Democrats", "WFYI (via WBOI)", "2026-04-17", "https://www.wboi.org/2026-04-17/indianas-4th-congressional-district-sees-challengers-for-rep-jim-baird-and-a-crowded-field-for-democrats"],
-  "exponent_primary": ["Democrat Drew Cox to face incumbent Baird in U.S. House race", "Purdue Exponent", "2026-05-07", "https://www.purdueexponent.org/city_state/politics/drew-cox-jim-baird-win-primary/article_b712b717-8dfc-4994-83f8-9c2a10cc16bd.html"],
-  "exponent_launch": ["Drew Cox launch focuses on local fights over schools, access, transparency", "Purdue Exponent", "2026-03-08", "https://www.purdueexponent.org/city_state/drew-cox-launch-campaign/article_4b50d5af-3c2c-4c4b-b946-0e9fdf9d4b53.html"],
-  "wane_primary": ["Indiana 2026 Primary Election: Fourth Congressional District", "WANE 15 (FOX59/CBS4)", "2026", "https://www.wane.com/news/indiana/indiana-2026-primary-election-fourth-congressional-district/amp/"],
-  "indystar_haggard": ["With a challenger and some jabs, this Indiana congressional race is already contentious", "Indianapolis Star (via Yahoo News)", "2025-08-13", "https://www.yahoo.com/news/articles/rep-baird-hasnt-ruled-reelection-100528653.html"],
-  "indystar_filing": ["Congressman Jim Baird is officially running for re-election. He's likely to face a messy primary", "Indianapolis Star (via Yahoo News)", "2026-01-14", "https://www.yahoo.com/news/articles/congressman-jim-baird-officially-running-234057287.html"],
-  "ipm_map": ["GOP legislator not changing congressional plans with new Indiana map", "Indiana Capital Chronicle (via IPM/WFIU)", "2025-12-03", "https://www.ipm.org/news/2025-12-03/gop-legislator-not-changing-congressional-plans-with-new-indiana-map"],
-  "mnc_redistrict": ["Congressman Baird on why it's necessary to redistrict ahead of midterms", "95.3 MNC", "2025-08-31", "https://www.953mnc.com/2025/08/31/congressman-baird-on-why-its-necessary-to-redistrict-ahead-of-midterms/"],
-  "cox_home": ["Drew Cox for Congress", "Drew Cox campaign", "accessed 2026-10-10", "https://www.drewcox.org/"],
-  "cox_issues": ["The Issues", "Drew Cox campaign", "accessed 2026-10-10", "https://www.drewcox.org/the-issues"],
-  "cox_healthcare": ["Healthcare", "Drew Cox campaign", "accessed 2026-10-10", "https://www.drewcox.org/healthcare"],
-  "cox_corruption": ["Political Corruption", "Drew Cox campaign", "accessed 2026-10-10", "https://www.drewcox.org/political-corruption"],
-  "cox_endorse": ["Endorsements", "Drew Cox campaign", "accessed 2026-10-10", "https://www.drewcox.org/endorsements"],
-  "ballotready_cox": ["Drew Cox", "BallotReady", "accessed 2026-10-10", "https://www.ballotready.org/people/drew-cox"],
-  "ballotready_bokash": ["David E. Bokash", "BallotReady", "accessed 2026-10-10", "https://www.ballotready.org/people/david-e-bokash"],
-  "fec_baird": ["Baird, James R: Candidate financial summary, 2026", "Federal Election Commission", "2026-06-30", "https://www.fec.gov/data/candidate/H8IN04199/?cycle=2026"],
-  "fec_cox": ["Cox, Drew: Candidate financial summary, 2026", "Federal Election Commission", "2026-06-30", "https://www.fec.gov/data/candidate/H6IN04193/?cycle=2026"],
-  "fec_bokash": ["Bokash, David Eugene (E.): Candidate record, 2026", "Federal Election Commission", "accessed 2026-10-10", "https://www.fec.gov/data/candidate/H6IN04243/?cycle=2026"]
+  "baird_committees": [
+   "Committees and Caucuses",
+   "Office of Rep. Jim Baird (baird.house.gov)",
+   "accessed 2026-10-10",
+   "https://baird.house.gov/about/committees-and-caucuses.htm"
+  ],
+  "baird_obbba": [
+   "Congressman Baird Supports the One Big Beautiful Bill, Votes for Largest Tax Cut in American History",
+   "Office of Rep. Jim Baird",
+   "2025-07-03",
+   "https://baird.house.gov/news/documentsingle.aspx?DocumentID=2484"
+  ],
+  "baird_farmbill": [
+   "Congressman Baird Statement on Passage of 2026 Farm Bill in House Agriculture Committee",
+   "Office of Rep. Jim Baird",
+   "2026-03-05",
+   "https://baird.house.gov/news/documentsingle.aspx?DocumentID=2535"
+  ],
+  "vote_2025_145": [
+   "Roll Call 145: H.R. 1, One Big Beautiful Bill Act, On Passage",
+   "Office of the Clerk, U.S. House",
+   "2025-05-22",
+   "https://clerk.house.gov/Votes/2025145"
+  ],
+  "vote_2025_190": [
+   "Roll Call 190: H.R. 1, On Motion to Concur in the Senate Amendment",
+   "Office of the Clerk, U.S. House",
+   "2025-07-03",
+   "https://clerk.house.gov/Votes/2025190"
+  ],
+  "vote_2025_281": [
+   "Roll Call 281: H.R. 5371, Continuing Appropriations and Extensions Act, 2026, On Passage",
+   "Office of the Clerk, U.S. House",
+   "2025-09-19",
+   "https://clerk.house.gov/Votes/2025281"
+  ],
+  "vote_2025_285": [
+   "Roll Call 285: H.R. 5371, On Motion to Concur in the Senate Amendment",
+   "Office of the Clerk, U.S. House",
+   "2025-11-12",
+   "https://clerk.house.gov/Votes/2025285"
+  ],
+  "vote_2026_007": [
+   "Roll Call 7: H.R. 6938, On Passage",
+   "Office of the Clerk, U.S. House",
+   "2026-01-08",
+   "https://clerk.house.gov/Votes/20267"
+  ],
+  "vote_2026_045": [
+   "Roll Call 45: H.R. 7148, Consolidated Appropriations Act, 2026, On Passage",
+   "Office of the Clerk, U.S. House",
+   "2026-01-22",
+   "https://clerk.house.gov/Votes/202645"
+  ],
+  "vote_2026_053": [
+   "Roll Call 53: H.R. 7148, On Motion to Concur in the Senate Amendments",
+   "Office of the Clerk, U.S. House",
+   "2026-02-03",
+   "https://clerk.house.gov/Votes/202653"
+  ],
+  "vote_2026_065": [
+   "Roll Call 65: H.J.Res. 72, On Passage",
+   "Office of the Clerk, U.S. House",
+   "2026-02-11",
+   "https://clerk.house.gov/Votes/202665"
+  ],
+  "vote_2026_087": [
+   "Roll Call 87: H.R. 7744, Department of Homeland Security Appropriations Act, 2026, On Passage",
+   "Office of the Clerk, U.S. House",
+   "2026-03-05",
+   "https://clerk.house.gov/Votes/202687"
+  ],
+  "vote_2026_154": [
+   "Roll Call 154: H.R. 7567, Farm, Food, and National Security Act, On Passage",
+   "Office of the Clerk, U.S. House",
+   "2026-04-30",
+   "https://clerk.house.gov/Votes/2026154"
+  ],
+  "vote_2026_205": [
+   "Roll Call 205: H.R. 8646, Agriculture-FDA Appropriations, On Passage",
+   "Office of the Clerk, U.S. House",
+   "2026-06-04",
+   "https://clerk.house.gov/Votes/2026205"
+  ],
+  "vote_2026_272": [
+   "Roll Call 272: H.R. 9770, Continuing Appropriations for Fiscal Year 2027, On Passage",
+   "Office of the Clerk, U.S. House",
+   "2026-07-21",
+   "https://clerk.house.gov/Votes/2026272"
+  ],
+  "cg_hr7194": [
+   "H.R. 7194 - Nicholas Dockery Medal of Honor Act",
+   "Congress.gov",
+   "2026-03-26",
+   "https://www.congress.gov/bill/119th-congress/house-bill/7194"
+  ],
+  "cg_hr8036": [
+   "H.R. 8036 - Interagency Coordination in Export Controls Act of 2026",
+   "Congress.gov",
+   "2026-04-22",
+   "https://www.congress.gov/bill/119th-congress/house-bill/8036"
+  ],
+  "cg_hr5221": [
+   "H.R. 5221 - PART Act",
+   "Congress.gov",
+   "2026-02-10",
+   "https://www.congress.gov/bill/119th-congress/house-bill/5221"
+  ],
+  "cg_baird_sponsored": [
+   "Rep. James Baird: Sponsored Legislation, 119th Congress",
+   "Congress.gov",
+   "accessed 2026-10-10",
+   "https://www.congress.gov/member/james-baird/B001307"
+  ],
+  "wfyi_fec_fine": [
+   "U.S. Rep. Jim Baird fined for failing to disclose campaign loan repayment",
+   "WFYI",
+   "2025-03-17",
+   "https://www.wfyi.org/public-affairs/2025-03-17/indiana-rep-baird-fined-for-failing-to-disclose-campaign-loan-repayment"
+  ],
+  "wndu_crash": [
+   "Indiana congressman Jim Baird and wife hospitalized after crash",
+   "WNDU",
+   "2026-01-06",
+   "https://www.wndu.com/2026/01/06/indiana-congressman-jim-baird-wife-hospitalized-after-crash"
+  ],
+  "nbc_danise": [
+   "Wife of Indiana congressman dies from complications following car crash injuries",
+   "NBC Chicago",
+   "2026-03-01",
+   "https://www.nbcchicago.com/news/local/wife-of-indiana-congressman-dies-from-complications-following-car-crash-injuries/3901830/"
+  ],
+  "wfyi_primary_preview": [
+   "Indiana's 4th Congressional District sees challengers for Rep. Jim Baird and a crowded field for Democrats",
+   "WFYI (via WBOI)",
+   "2026-04-17",
+   "https://www.wboi.org/2026-04-17/indianas-4th-congressional-district-sees-challengers-for-rep-jim-baird-and-a-crowded-field-for-democrats"
+  ],
+  "exponent_primary": [
+   "Democrat Drew Cox to face incumbent Baird in U.S. House race",
+   "Purdue Exponent",
+   "2026-05-07",
+   "https://www.purdueexponent.org/city_state/politics/drew-cox-jim-baird-win-primary/article_b712b717-8dfc-4994-83f8-9c2a10cc16bd.html"
+  ],
+  "exponent_launch": [
+   "Drew Cox launch focuses on local fights over schools, access, transparency",
+   "Purdue Exponent",
+   "2026-03-08",
+   "https://www.purdueexponent.org/city_state/drew-cox-launch-campaign/article_4b50d5af-3c2c-4c4b-b946-0e9fdf9d4b53.html"
+  ],
+  "wane_primary": [
+   "Indiana 2026 Primary Election: Fourth Congressional District",
+   "WANE 15 (FOX59/CBS4)",
+   "2026-03",
+   "https://www.wane.com/news/indiana/indiana-2026-primary-election-fourth-congressional-district/amp/"
+  ],
+  "indystar_haggard": [
+   "With a challenger and some jabs, this Indiana congressional race is already contentious",
+   "Indianapolis Star (via Yahoo News)",
+   "2025-08-13",
+   "https://www.yahoo.com/news/articles/rep-baird-hasnt-ruled-reelection-100528653.html"
+  ],
+  "indystar_filing": [
+   "Congressman Jim Baird is officially running for re-election. He's likely to face a messy primary",
+   "Indianapolis Star (via Yahoo News)",
+   "2026-01-14",
+   "https://www.yahoo.com/news/articles/congressman-jim-baird-officially-running-234057287.html"
+  ],
+  "ipm_map": [
+   "GOP legislator not changing congressional plans with new Indiana map",
+   "Indiana Capital Chronicle (via IPM/WFIU)",
+   "2025-12-03",
+   "https://www.ipm.org/news/2025-12-03/gop-legislator-not-changing-congressional-plans-with-new-indiana-map"
+  ],
+  "mnc_redistrict": [
+   "Congressman Baird on why it's necessary to redistrict ahead of midterms",
+   "95.3 MNC",
+   "2025-08-31",
+   "https://www.953mnc.com/2025/08/31/congressman-baird-on-why-its-necessary-to-redistrict-ahead-of-midterms/"
+  ],
+  "cox_home": [
+   "Drew Cox for Congress",
+   "Drew Cox campaign",
+   "accessed 2026-10-10",
+   "https://www.drewcox.org/"
+  ],
+  "cox_issues": [
+   "The Issues",
+   "Drew Cox campaign",
+   "accessed 2026-10-10",
+   "https://www.drewcox.org/the-issues"
+  ],
+  "cox_healthcare": [
+   "Healthcare",
+   "Drew Cox campaign",
+   "accessed 2026-10-10",
+   "https://www.drewcox.org/healthcare"
+  ],
+  "cox_corruption": [
+   "Political Corruption",
+   "Drew Cox campaign",
+   "accessed 2026-10-10",
+   "https://www.drewcox.org/political-corruption"
+  ],
+  "cox_endorse": [
+   "Endorsements",
+   "Drew Cox campaign",
+   "accessed 2026-10-10",
+   "https://www.drewcox.org/endorsements"
+  ],
+  "ballotready_cox": [
+   "Drew Cox",
+   "BallotReady",
+   "accessed 2026-10-10",
+   "https://www.ballotready.org/people/drew-cox"
+  ],
+  "ballotready_bokash": [
+   "David E. Bokash",
+   "BallotReady",
+   "accessed 2026-10-10",
+   "https://www.ballotready.org/people/david-e-bokash"
+  ],
+  "fec_baird": [
+   "Baird, James R: Candidate financial summary, 2026",
+   "Federal Election Commission",
+   "2026-06-30",
+   "https://www.fec.gov/data/candidate/H8IN04199/?cycle=2026"
+  ],
+  "fec_cox": [
+   "Cox, Drew: Candidate financial summary, 2026",
+   "Federal Election Commission",
+   "2026-06-30",
+   "https://www.fec.gov/data/candidate/H6IN04193/?cycle=2026"
+  ],
+  "fec_bokash": [
+   "Bokash, David Eugene (E.): Candidate record, 2026",
+   "Federal Election Commission",
+   "accessed 2026-10-10",
+   "https://www.fec.gov/data/candidate/H6IN04243/?cycle=2026"
+  ]
  }
 }
