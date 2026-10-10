@@ -26,7 +26,7 @@ André Carson has represented the 7th District since 2008 and is seeking a 10th 
 
 - May 22, 2025: Voted no on House passage of H.R. 1, the budget reconciliation bill titled the One Big Beautiful Bill Act [5].
 - July 3, 2025: Voted no on the motion to concur in the Senate amendment to H.R. 1, the final House vote on the reconciliation bill, which passed [6].
-- Nov. 12, 2025: Voted no on H.R. 5371, the Continuing Appropriations and Extensions Act, 2026, the bill that passed the House to end the fall 2025 government shutdown [7].
+- Nov. 12, 2025: Voted no on H.R. 5371, the Continuing Appropriations and Extensions Act, 2026, the continuing appropriations bill, which passed the House [7].
 - Nov. 18, 2025: Voted yes on the Epstein Files Transparency Act (H.R. 4405), which passed under suspension of the rules [8].
 - Nov. 19, 2025: Announced his selection as ranking member (top Democrat) of the House Transportation and Infrastructure Subcommittee on Aviation, which oversees civil aviation and the Federal Aviation Administration [9].
 - Jan. 22, 2026: Voted no on the fiscal year 2026 Department of Homeland Security appropriations bill, saying in a statement that it "continues to fund ICE without any substantive changes to stop unlawful actions and abuse of power" [10].
@@ -54,7 +54,7 @@ André Carson has represented the 7th District since 2008 and is seeking a 10th 
 
 ## André Carson
 
-Carson, 51, is the incumbent, first elected in 2008, and is seeking a 10th term [3]. He lists opposing Trump administration policies, preserving Medicare and Medicaid, and bringing federal funds to Indiana as priorities [3].
+Carson, 51, is the incumbent, has represented the district since 2008, and is seeking a 10th term [3]. He lists opposing Trump administration policies, preserving Medicare and Medicaid, and bringing federal funds to Indiana as priorities [3].
 
 Campaign website: https://andrecarson.com
 
@@ -128,7 +128,7 @@ Campaign website: https://andrecarson.com
 
 ## Patrick McAuley
 
-McAuley, 29, is an Indianapolis commercial real estate associate making his first run for office [3, 21]. He says his priorities are housing, jobs, homelessness and public safety [3].
+McAuley, 29, is an associate at Broad Ripple Capital, Inc. in Indianapolis, and WFYI described him as working in commercial real estate development [3, 21]. He says his priorities are housing, jobs, homelessness and public safety [3].
 
 Campaign website: https://mcauleyforthe7th.com
 

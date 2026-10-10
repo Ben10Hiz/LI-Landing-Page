@@ -1,0 +1,276 @@
+# U.S. Representative — 2026 race profile
+
+_Researched 2026-10-10 · status: draft._ Pending editorial review.
+
+## About the office
+
+Members of the U.S. House of Representatives write and vote on federal laws, including the federal budget and taxes. Each represents one congressional district for a two-year term; Indiana has nine [1].
+
+- **Term:** 2 years [1]
+- **Term limit:** None
+- **Voting members:** 435 [1]
+- **Indiana seats:** 9 [2]
+
+### What the office does
+
+- Introduces bills and resolutions, offers amendments, and votes on legislation; federal laws must pass both the House and the Senate [1].
+- Serves on committees, which draft legislation in their subject areas and oversee federal agencies and programs [1].
+- Must be at least 25, a U.S. citizen for at least seven years, and live in the state they represent [1].
+
+### Recent changes to the office
+
+
+## Current officeholder: Marlin Stutzman (Republican)
+
+Marlin Stutzman, a farmer and businessman from Howe, returned to the U.S. House in January 2025 after previously representing the 3rd District from 2010 to 2017; he serves on the House Budget Committee and the House Financial Services Committee. [3, 4, 5]
+
+- 2010–2016: Selected by party caucus in 2010 to finish Rep. Mark Souder's term and then won a special election; left the seat to run for U.S. Senate in 2016 and lost the Republican primary to Todd Young. [6, 5]
+- Earlier tenure: His office says he wrote the "Conservative Congressional Budget" and was the original sponsor of Right to Try legislation later signed by President Trump. [3]
+- 119th Congress committees: House Budget Committee; House Financial Services Committee, including the Subcommittee on Capital Markets, the Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence, and a Task Force on Monetary Policy, Treasury Market Resilience, and Economic Prosperity. He lists membership in the House Freedom Caucus and the Republican Study Committee. [4]
+- 2025-03-26: Asked about an Indivisible event held with an empty chair for him, he said such town halls "just break out to be shouting matches" and said he prefers one-on-one meetings with constituents. [7] A Herald Republican report (2025-03-27) stated he had not held a public town hall in the district since returning to Washington; that article included no response from his office. [8]
+- 2025-05-22: Voted yes on House passage of H.R. 1, the reconciliation bill later titled the One Big Beautiful Bill Act, which passed 215–214. [9] He told WPTA the bill keeps current tax rates from expiring and includes no tax on tips and overtime, and said it would not cut healthcare programs; the station noted economists' estimates of a combined $1 trillion in reduced spending on Medicare, Medicaid and SNAP. [10]
+- 2025-07-03: Voted yes to concur in the Senate version of H.R. 1, which passed 218–214; his statement said he voted for it "to lower taxes for the American people" and that "This bill was not perfect, but it gives all Americans a fresh start." [11, 12]
+- 2025-09-19: Voted yes on H.R. 5371, a stopgap funding bill (Continuing Appropriations and Extensions Act, 2026) that passed the House 217–212. [13] During the shutdown that followed, he said on 2025-10-15, "we're still waiting on the Senate," and described the bill as "just an extension of the current budget." [14]
+- 2025-11-12: Voted yes to concur in the Senate amendment to H.R. 5371, the measure that ended the shutdown; it passed 222–209. [15]
+- 2025-11-18: Voted yes on the Epstein Files Transparency Act (H.R. 4405), which passed 427–1. [16]
+- 2025–2026 sponsored bills include the Protect American Beef Act, Streamlining Rural Housing Act, Regulation A+ Improvement Act (placed on the House Union Calendar), a deposit-insurance bill, the No Leniency for Fentanyl Dealers Act, and the Don't Spy On Me Act (H.R. 10609); most remain in committee. [17]
+- 2026-09-15: His FUTURES Act (H.R. 8278), introduced with Rep. Bill Foster to encourage financial regulators' use of technology in supervision, passed the House under suspension of the rules and was referred to the Senate Banking Committee. [18, 17]
+- 2026-06-03: Introduced H.Res. 1339, a nonbinding resolution supporting Israeli Prime Minister Netanyahu's proposal to phase out U.S. aid to Israel and shift toward joint investment and cooperation. [19, 17] Rep. Randy Fine (R-Fla.) told Jewish Insider ending aid would be a "terible decision for America" [sic]; Stutzman said, "I think it's a big step for both countries." [20]
+- 2026-06-19: Issued a statement supporting a U.S.–Iran memorandum of understanding following the February conflict, saying "We reserve the right to return to war if the deal is not followed." [21]
+- 2026-09-30: Announced the Don't Spy On Me Act, which would bar federal agencies from creating databases linking license plates to vehicle owners' identities or movements and create a civil cause of action. [22]
+
+## This race
+
+- The 3rd District covers Adams, Allen, Blackford, DeKalb, Huntington, LaGrange, Noble, Steuben, Wells and Whitley counties and parts of Jay and Kosciusko counties; Fort Wayne is its largest city. [6] Other cities include Angola, Huntington, New Haven, Kendallville and Auburn. [5]
+- The Cook Political Report rates the district R+16, according to WFYI. [5] Its boundaries are unchanged after the Indiana General Assembly declined in December 2025 to take up mid-decade redistricting. [6]
+- Stutzman won the 2024 general election with 65% of the vote over Democrat Kiley Adolph. [6]
+- May 5, 2026 primary: Stutzman won the Republican nomination with nearly 69 percent of the vote over Jon Kenworthy, a Fort Wayne military analyst who also challenged him in 2024; Thompson was the only candidate on the Democratic ballot. [23, 6]
+- Redistricting is a point of difference: Stutzman supports another redistricting effort, while Thompson opposes it. [24]
+- Fundraising through June 30, 2026 (FEC, as reported by WFYI): Stutzman's committee raised $839,564 and Thompson's raised $136,340. [5]
+- No debate or candidate forum between the general-election candidates was found in published coverage as of this review. [5]
+- Phillip D. Beachy (Phil) is a declared independent write-in candidate. [2]
+
+## Marlin A. Stutzman
+
+Incumbent Republican seeking a fifth, non-consecutive term; his campaign platform focuses on federal spending, border security, gun rights and limiting the federal role in education. [5, 24]
+
+Campaign website: https://www.gomarlin.com
+
+### Background
+
+- Age 50, of Howe; describes himself as a fourth-generation farmer whose businesses span manufacturing, agriculture and food service. [5, 3]
+- Elected to the Indiana House at 25 and later served one term in the Indiana Senate before his 2010 election to Congress. [3]
+- Served in the U.S. House 2010–2016, lost the 2016 U.S. Senate primary, and won the seat again in 2024. [5]
+
+### Path to the ballot
+
+- Won the May 5, 2026 Republican primary with nearly 69 percent of the vote over Jon Kenworthy. [23]
+- After the primary, he publicized President Trump's endorsement on social media, according to WBOI. [23]
+
+### Positions & plans
+
+**Economy & taxes**
+
+- His campaign site ties inflation to "Washington's out of control spending and the broken tax system." [25]
+- Voted for the 2025 reconciliation law, saying it keeps current tax rates from rising and includes no tax on tips and overtime. [10, 11]
+
+**Immigration & border**
+
+- Campaign platform calls for finishing the border wall: "We cannot have a secure nation without secure borders." [25]
+
+**Education**
+
+- States that "Education was never meant to be a federal issue" and emphasizes parental rights. [25]
+
+**Health care**
+
+- Campaign site says "thousands of Hoosier families are struggling to afford even the most basic insurance" and lists "Medical Health Freedom" as a priority. [25]
+
+**Abortion**
+
+- Campaign site lists "Defending the Unborn" as a priority. [25]
+
+**Guns**
+
+- Campaign site cites his record on Second Amendment rights. [25]
+
+**Privacy & technology**
+
+- Sponsored legislation to bar federal license-plate tracking databases and to promote regulators' use of technology. [22, 18]
+
+**Foreign policy**
+
+- Introduced a resolution backing a phase-out of U.S. aid to Israel in favor of joint investment, and supported the June 2026 U.S.–Iran memorandum of understanding. [19, 21]
+
+**Redistricting**
+
+- Supports another mid-decade redistricting effort. [24]
+
+### On the current officeholder
+
+- Is the current officeholder. [3]
+- No published statement by Stutzman about Thompson or Beachy was found; he declined WFYI's request for an interview. [5]
+
+### How they say they'd run the office
+
+- Says small-business growth and limiting federal reach are among his priorities. [24]
+
+### Endorsements & fundraising
+
+- Campaign site lists endorsements from Rep. Jim Jordan, Sen. Rand Paul, Rep. Scott Perry, Mark Meadows, Mick Mulvaney, Students for Life and the Congressional Freedom Caucus PAC, among others. [26]
+- Publicized President Trump's endorsement after the primary. [23]
+- Raised $839,564 through June 30, 2026; WFYI reports OpenSecrets data showing $322,000 from PACs. [5]
+
+### What we couldn't verify
+
+- Declined WFYI's 2026 voter-guide interview; stated priorities come from his website.
+- No record of 2026 appropriations votes was reviewed for this profile.
+- Journal Gazette primary figures (68.2% vs. 31.8%) seen only in a search snippet; unverified.
+- Some 2026 press releases (WNBA letter, fentanyl bill) not reviewed in detail.
+
+## Kelly Thompson
+
+Democratic nominee, a North Webster concrete-contracting business co-owner and nonprofit founder campaigning on wages, housing, health care and government accountability. [5, 24]
+
+Campaign website: https://www.kellythompsonforcongress.com
+
+### Background
+
+- Age 61, of North Webster; co-owner of Thompson Concrete, Inc. [5]
+- Holds a B.S. in business administration from the University of Central Florida; mother of six. [27]
+- Founded a nonprofit for at-risk youth that grew out of opening her home to teens after several teen suicides at Wawasee High School. [28, 27]
+- Ran unsuccessfully for Indiana House District 22 in 2020; says redistricting later placed her home outside that district. [5, 27]
+- Told FOX59 she voted Republican until 2016. [29]
+
+### Path to the ballot
+
+- Announced her campaign in spring 2025. [30]
+- Was the only candidate on the May 5, 2026 Democratic primary ballot. [6]
+
+### Positions & plans
+
+**Health care**
+
+- Supports a single national "Medicare for All" program with no premiums, deductibles or copays, funded by contributions based on ability to pay. [31]
+
+**Education & child care**
+
+- Proposes universal pre-K, expanded child-care support, a national paid family and medical leave program, tuition-free public college, and cancellation of federal student loan debt, funded by a financial transaction tax on Wall Street trades. [32]
+
+**Agriculture**
+
+- Proposes a federal estate-tax exemption for family farmland passed to relatives and limits on farmland purchases by foreign governments and non-agricultural corporations. [33]
+
+**Housing & environment**
+
+- Proposes a federal homeowner insurance assistance program and a resilience fund financed by major fossil-fuel companies. [34]
+
+**Trade**
+
+- Told WFYI that Congress should control tariffs. [5]
+
+**Technology**
+
+- Wants a pause on data centers "while we design a better way" and stronger AI regulation. [5]
+
+**Foreign policy**
+
+- Would end "unconditional military aid to Israel" and require congressional votes before sustained overseas military conflicts. [35]
+
+**Government ethics**
+
+- Supports a ban on stock trading by members of Congress and the president, a constitutional amendment overturning Citizens United, and release of the Epstein files. [36, 37]
+- Says she accepts donations only from individuals, not corporations. [28]
+
+**Cannabis**
+
+- Proposes removing cannabis from the federal Controlled Substances Act, expunging eligible federal convictions, and taxing legal products. [38]
+
+**Redistricting**
+
+- Opposes redistricting, arguing lawmakers should focus on delivering for existing constituents. [24]
+
+### On the current officeholder
+
+- No direct statement by Thompson about Stutzman's specific votes was found; she has criticized Congress generally, telling FOX59 "we are losing out because of career politicians who make it about personal gain instead of service." [29, 5]
+
+### How they say they'd run the office
+
+- Campaign site lists lowering costs for housing, health care, education, utilities and energy, and making corporate polluters pay. [37]
+
+### Endorsements & fundraising
+
+- Raised $136,340 through June 30, 2026; WFYI reports OpenSecrets shows only individual donors and $0 from PACs. [5]
+- No endorsements are listed on her campaign homepage. [37]
+
+### What we couldn't verify
+
+- A Herald Republican article (2025) says she ran against then-Rep. Jim Banks in 2020, while WFYI and her website say her 2020 race was for Indiana House District 22; the latter is used here.
+- Allen County Democratic chair's criticism of Stutzman at her primary-night event seen only in a search snippet; unverified.
+- Indiana Capital Chronicle questionnaire answers (e.g., on gas taxes) not accessible; unverified.
+- Some website policy pages (justice, monopolies, data privacy) not reviewed.
+
+## Phillip D. Beachy (Phil)
+
+Declared independent write-in candidate. [2]
+
+### Background
+
+- Has an FEC candidate record for the U.S. House, Indiana District 3, listing the 2026 and 2022 cycles. [39]
+- Was a declared independent write-in candidate for U.S. Senate from Indiana in 2024. [40]
+
+### Path to the ballot
+
+- Filed as a declared write-in candidate; his name will not be printed on the ballot. [2]
+
+### Endorsements & fundraising
+
+- The FEC showed no financial data for his 2025–2026 cycle as of this review. [39]
+
+### What we couldn't verify
+
+- No campaign website, published positions or news coverage of his 2026 candidacy were found.
+- A 2022 Democratic primary filing for this seat appeared only in a search snippet; unverified.
+
+## Sources
+
+1. [The House Explained](https://www.house.gov/the-house-explained) — U.S. House of Representatives (house.gov), accessed 2026-10-10
+2. [2026 General Election Candidate List](https://www.in.gov/sos/elections/candidate-information/) — Indiana Election Division, 2026-09-22
+3. [About Marlin](https://stutzman.house.gov/about) — Office of Rep. Marlin Stutzman, 2026
+4. [Committees and Caucuses](https://stutzman.house.gov/about/committees-and-caucuses) — Office of Rep. Marlin Stutzman, 2026
+5. [2026 Voter Guide: Indiana's 3rd Congressional District](https://www.wfyi.org/statewide/2026-09-21/2026-voter-guide-indianas-3rd-congressional-district) — WFYI Public Media, 2026-09-21
+6. [Rep. Marlin Stutzman faces a rematch in the Republican primary for Indiana's 3rd Congressional District](https://www.wboi.org/2026-04-17/rep-marlin-stutzman-faces-a-rematch-in-the-republican-primary-for-indianas-3rd-congressional-district) — WFYI via WBOI, 2026-04-17
+7. [Extended interview: Rep. Stutzman shares thoughts on latest from Washington](https://www.21alivenews.com/2025/03/27/extended-interview-rep-stutzman-shares-thoughts-latest-washington-gives-president-an/) — WPTA 21Alive, 2025-03-26
+8. [Stutzman attending local GOP meeting on April 5](https://www.kpcnews.com/heraldrepublican/article_d6741259-d546-4f78-9e9a-98e7a90a1471.html) — Herald Republican (KPC News), 2025-03-27
+9. [Roll Call 145: H.R. 1, On Passage](https://clerk.house.gov/Votes/2025145) — Clerk of the U.S. House, 2025-05-22
+10. [Rep. Marlin Stutzman reacts to 'One Big Beautiful Bill' narrowly passing the House, votes in favor](https://www.21alivenews.com/2025/05/22/rep-marlin-stutzman-reacts-one-big-beautiful-bill-narrowly-passing-house-votes-favor) — WPTA 21Alive, 2025-05-22
+11. [Roll Call 190: H.R. 1, On Motion to Concur in the Senate Amendment](https://clerk.house.gov/Votes/2025190) — Clerk of the U.S. House, 2025-07-03
+12. [Rep. Stutzman votes to send One Big Beautiful Bill to President Trump's desk](https://stutzman.house.gov/media/press-releases/rep-stutzman-votes-send-one-big-beautiful-bill-president-trumps-desk) — Office of Rep. Marlin Stutzman, 2025-07-03
+13. [Roll Call 281: H.R. 5371, On Passage](https://clerk.house.gov/Votes/2025281) — Clerk of the U.S. House, 2025-09-19
+14. [Stutzman: Shutdown continues, House waiting on Senate](https://www.953mnc.com/?p=275440) — 95.3 MNC (Network Indiana), 2025-10-15
+15. [Roll Call 285: H.R. 5371, On Motion to Concur in the Senate Amendment](https://clerk.house.gov/Votes/2025285) — Clerk of the U.S. House, 2025-11-12
+16. [Roll Call 289: H.R. 4405, Epstein Files Transparency Act](https://clerk.house.gov/Votes/2025289) — Clerk of the U.S. House, 2025-11-18
+17. [Marlin Stutzman: sponsored legislation](https://www.congress.gov/member/marlin-stutzman/S001188) — Congress.gov, 2026-10
+18. [Rep. Stutzman's AI regulating FUTURES Act passes House of Representatives](https://stutzman.house.gov/media/press-releases/rep-stutzmans-ai-regulating-futures-act-passes-house-representatives) — Office of Rep. Marlin Stutzman, 2026-09-15
+19. [Rep. Stutzman introduces resolution to transition U.S.-Israel relations](https://stutzman.house.gov/media/press-releases/rep-stutzman-introduces-resolution-transition-us-israel-relations) — Office of Rep. Marlin Stutzman, 2026-06-03
+20. [Stutzman introduces resolution backing Netanyahu's call to wind down U.S. aid](https://jewishinsider.com/2026/06/marlin-stutzman-resolution-wind-down-u-s-aid-israel-netanyahu/) — Jewish Insider, 2026-06-03
+21. [Rep. Stutzman supports memorandum of understanding with Iran](https://stutzman.house.gov/media/press-releases/rep-stutzman-supports-memorandum-understanding-iran) — Office of Rep. Marlin Stutzman, 2026-06-19
+22. [Rep. Stutzman introduces legislation prohibiting the federal government's creation of a vehicle fingerprinting database](https://stutzman.house.gov/media/press-releases/rep-stutzman-introduces-legislation-prohibiting-federal-governments-creation) — Office of Rep. Marlin Stutzman, 2026-09-30
+23. [U.S. Rep. Marlin Stutzman easily cruises into general election](https://www.wboi.org/government/2026-05-06/u-s-rep-marlin-stutzman-easily-cruises-into-general-election) — WBOI, 2026-05-06
+24. [All nine Indiana congressional seats are contested. Here's who's running](https://www.wndu.com/2026/10/10/all-nine-indiana-congressional-seats-are-contested-heres-whos-running/) — Indiana Capital Chronicle via WNDU, 2026-10-09
+25. [Issues](https://www.gomarlin.com/issues) — Marlin Stutzman campaign, 2026
+26. [Endorsements](https://www.gomarlin.com/endorsements) — Marlin Stutzman campaign, 2026
+27. [About Me](https://www.kellythompsonforcongress.com/about-me) — Kelly Thompson campaign, 2026
+28. [Kelly Thompson attends local Democratic fundraiser](https://www.kpcnews.com/heraldrepublican/article_3ffbaee9-5e4b-49be-baec-9dc79654a56e.html) — Herald Republican (KPC News), 2025-08-11
+29. [Indiana 2026 Primary Election: Third Congressional District](https://fox59.com/indianapolitics/indiana-2026-primary-election-third-congressional-district/amp/) — FOX59/CBS4, 2026
+30. [Getting in the race: Hoosier Dems find record numbers up and down ballot](https://www.wboi.org/government/2026-08-24/getting-in-the-race-hoosier-dems-find-record-numbers-up-and-down-ballot) — WBOI, 2026-08-24
+31. [Healthcare](https://www.kellythompsonforcongress.com/policies/healthcare/healthcare) — Kelly Thompson campaign, 2026
+32. [Education and Childcare](https://www.kellythompsonforcongress.com/policies/education/education-and-childcare) — Kelly Thompson campaign, 2026
+33. [Protecting Family Farms](https://www.kellythompsonforcongress.com/policies/farms/protecting-family-farms) — Kelly Thompson campaign, 2026
+34. [Housing in the Heartland](https://www.kellythompsonforcongress.com/policies/housing/housing-in-the-heartland) — Kelly Thompson campaign, 2026
+35. [Foreign Affairs](https://www.kellythompsonforcongress.com/policies/h/foreign-affairs) — Kelly Thompson campaign, 2026
+36. [Campaign Finance and Media Fairness](https://www.kellythompsonforcongress.com/policies/democracy/campaign-finance-and-media-fairness) — Kelly Thompson campaign, 2026
+37. [Kelly Thompson for Congress](https://www.kellythompsonforcongress.com) — Kelly Thompson campaign, 2026
+38. [Cannabis Legalization](https://www.kellythompsonforcongress.com/policies/marijuana/legalization) — Kelly Thompson campaign, 2026
+39. [BEACHY, PHILLIP D - Candidate overview (H4IN04032)](https://www.fec.gov/data/candidate/H4IN04032/) — Federal Election Commission, 2026-10
+40. [2024 General Election Candidate List](https://www.in.gov/sos/files/2024-General-Candidate-List-8.22.24.pdf) — Indiana Election Division, 2024-08-22
