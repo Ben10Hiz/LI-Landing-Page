@@ -24,7 +24,8 @@ def render_markdown(p):
                 ("Endorsements & fundraising", "endorsements_finance"),
                 ("What we couldn't verify", "gaps")]
     for c in p["candidates"]:
-        out += [f"\n## {c['ballot_name']}\n\n", c.get("summary", "") + "\n"]
+        seat = f" — {c['seat']}" if c.get("seat") else ""
+        out += [f"\n## {c['ballot_name']}{seat}\n\n", c.get("summary", "") + "\n"]
         if c.get("website"):
             out.append(f"\nCampaign website: {c['website']}\n")
         for title, key in sections[:2]:

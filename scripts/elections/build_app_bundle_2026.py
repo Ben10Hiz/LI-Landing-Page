@@ -13,7 +13,9 @@ app as public/elections/2026/. Layout:
     indiana/counties/{slug}.json  county, judicial, township (and some town)
                                races for one county
     indiana/places/{id}.json   city/town or school-board races for one place
-    profiles/{race-id}.json    researched race profiles, copied from
+    profiles/{profile-id}.json researched race profiles (a race's
+                               profile_id; school board races share one
+                               per school corporation), copied from
                                data/elections/2026/profiles/
 """
 import csv
@@ -176,12 +178,20 @@ def in_race(office_row, cands):
                 else "Indiana House of Representatives. 2-year term.")
     if int(o["seats"]) > 1:
         desc = (desc + " " if desc else "") + f'Vote for up to {o["seats"]}.'
+    profile_id = rid
+    if level == "school":
+        # One profile per school corporation covers all its seats; until a
+        # corporation is researched, its races point to the office explainer.
+        profile_id = next((p for p in (f"in-school-board-{slug(place_of(o['office']))}",
+                                       "in-office-school-board")
+                           if (PROFILES / f"{p}.json").exists()), rid)
     holder = profile_incumbent(rid)
     if any(c["write_in"] for c in cands):
         desc = (desc + " " if desc else "") + "Write-in candidates must be written in by name."
     return {
         "id": rid,
-        "has_profile": (PROFILES / f"{rid}.json").exists(),
+        "has_profile": (PROFILES / f"{profile_id}.json").exists(),
+        "profile_id": profile_id,
         "level": LEVEL_TO_TAB[level],
         "category": o["office_category"],
         "office": display_office(o["office"]),

@@ -3,7 +3,7 @@
 
 Each src/<race-id>.json is a profile (shape in data/elections/2026/profiles/
 README.md) with {key} citations, plus "sources": {key: [title, publisher,
-date, url]}. "office": "@us_house" / "@in_senate" / "@in_house" pulls in the shared
+date, url]}. "office": "@us_house" / "@in_senate" / "@in_house" / "@in_school_board" pulls in the shared
 office section from src/_shared_*_office.json.
 
     python3 scripts/elections/profiles/build_from_src.py [race-id ...]
@@ -20,6 +20,7 @@ SHARED = {
     "@us_house": "_shared_us_house_office.json",
     "@in_senate": "_shared_in_senate_office.json",
     "@in_house": "_shared_in_house_office.json",
+    "@in_school_board": "_shared_in_school_board_office.json",
 }
 
 
