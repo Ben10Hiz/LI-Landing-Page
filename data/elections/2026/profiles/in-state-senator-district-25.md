@@ -80,7 +80,7 @@ Campaign website: https://electmikegaskill.com
 
 ### On the current officeholder
 
-- Is the current officeholder. After the primary, he said Callahan had been attacking him for the past two years and that, as a Christian, he had clear instructions about turning the other cheek [15]. No statements about Dixon-Tatum were found.
+- Is the current officeholder. No statements about Dixon-Tatum were found.
 
 ### How they say they'd run the office
 

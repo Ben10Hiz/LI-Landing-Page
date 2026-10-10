@@ -29,36 +29,35 @@ Spencer Deery, a West Lafayette Republican and higher-education consultant, was 
 - April 15, 2025: Voted no when the Senate gave final approval (27-22) to SEA 1, the 2025 property-tax law [7]. He later said he opposed it because "it was the wrong solution to the serious problem of rising property taxes" [8].
 - April 25, 2025: Voted yes on the conference report for the 2025 state budget (HEA 1001), which passed the Senate 39-11 [9].
 - Aug. 13, 2025: Said he would oppose mid-decade congressional redistricting, calling the argument that Democrats also gerrymander "an empty and irrelevant excuse" [10]. Dec. 11, 2025: Voted no on HB 1032, the redistricting bill, which the Senate defeated 19-31 [11]; in floor debate he said his opposition was consistent with his political principles [12].
-- Nov. 20, 2025: Said West Lafayette police stopped an attempted "swatting" call targeting his home, a day after an unpaid pizza delivery was sent to his address, and said such tactics should be "condemned and never normalized" [13].
-- Feb. 25-26, 2026: SEA 160, which Deery authored, passed the Senate unanimously; it makes committing a crime while concealing one's face a sentencing aggravator and makes malicious littering meant to cause fear a Class A misdemeanor [14].
-- 2026 session: The caucus says Deery's SB 7, which would have given local officials a voice on carbon-sequestration projects bringing in carbon from other counties, passed the Senate but died in the House, and that he worked against HB 1333, which would have limited local regulation of data centers and other large developments [15].
+- Feb. 25-26, 2026: SEA 160, which Deery authored, passed the Senate unanimously; it makes committing a crime while concealing one's face a sentencing aggravator and makes malicious littering meant to cause fear a Class A misdemeanor [13].
+- 2026 session: The caucus says Deery's SB 7, which would have given local officials a voice on carbon-sequestration projects bringing in carbon from other counties, passed the Senate but died in the House, and that he worked against HB 1333, which would have limited local regulation of data centers and other large developments [14].
 
 ## This race
 
 - Senate District 23 covers parts of Tippecanoe, Montgomery, Vermillion, Parke, Warren and Fountain counties in west-central Indiana, between Lafayette and Terre Haute [3, 5]. The Senate Republican caucus lists all of Fountain, Parke, Vermillion and Warren counties and parts of Montgomery and Tippecanoe [4].
-- May 5, 2026 Republican primary: Deery faced Paula Copenhaver, a staffer in Lt. Gov. Micah Beckwith's office whom President Trump endorsed after Deery voted against mid-decade redistricting; Deery had also beaten Copenhaver in the 2022 primary [16]. After provisional ballots were counted, Deery led by three votes [17].
-- Recount: Copenhaver sought a recount, saying her campaign had "documented evidence of illegal voting by unqualified voters" [17]; she also challenged ballots, sought to subpoena voters, and said Democrats who crossed over had voted for Deery [18]. In August the Indiana Recount Commission voted 2-1, with its two Republican members (Secretary of State Diego Morales, who chairs it, and attorney Paul Mullin) in the majority, to disallow six ballots cast for Deery that lacked a county clerk's stamp or signature; that put Copenhaver ahead 6,332 to 6,329 [5].
-- Both sides' arguments: Deery's attorney argued voters should not lose their votes because of election officials' mistakes, while Copenhaver's attorney argued the clerk's seal and election workers' initials are safeguards against absentee-ballot fraud [5]. Deery said "nobody is really saying" the voters were invalid and raised concerns about possible political motivation [19]. After the ruling, Copenhaver said state law sets ballot-authentication requirements and that the commission had been consistent in its decisions [5].
-- Sept. 10, 2026: The Indiana Supreme Court, in a one-page order by a majority of the five justices, told the commission to certify Deery the winner 6,335 to 6,332 and resume ballot preparations with his name [5]. At oral argument, Justice Christopher Goff said he found no statutory basis to exclude ballots missing only a clerk's stamp or signature [5]; Justice Derek Molter called it problematic that the secretary of state had said before the election such ballots would count and then changed course [18].
-- The recount also came up in the 2026 Secretary of State race: independent candidate Greg Ballard attended the hearing and said the case "goes to voter intent" and the commission needs to change, while Republican candidate Max Engling called for closed primaries after the crossover-voting concerns [18].
-- General election: Democrat David Sanders was unopposed in his primary [16], and independent Joshua Brant was approved for the ballot in late July [3]. In an April written Q&A, Deery and Sanders both opposed state tax breaks for data centers and both criticized SEA 1, but offered different alternatives [8]. No debate or forum among the three general-election candidates was found.
+- May 5, 2026 Republican primary: Deery faced Paula Copenhaver, a staffer in Lt. Gov. Micah Beckwith's office whom President Trump endorsed after Deery voted against mid-decade redistricting; Deery had also beaten Copenhaver in the 2022 primary [15]. After provisional ballots were counted, Deery led by three votes [16].
+- Recount: Copenhaver sought a recount, saying her campaign had "documented evidence of illegal voting by unqualified voters" [16]; she also challenged ballots, sought to subpoena voters, and said Democrats who crossed over had voted for Deery [17]. In August the Indiana Recount Commission voted 2-1, with its two Republican members (Secretary of State Diego Morales, who chairs it, and attorney Paul Mullin) in the majority, to disallow six ballots cast for Deery that lacked a county clerk's stamp or signature; that put Copenhaver ahead 6,332 to 6,329 [5].
+- Both sides' arguments: Deery's attorney argued voters should not lose their votes because of election officials' mistakes, while Copenhaver's attorney argued the clerk's seal and election workers' initials are safeguards against absentee-ballot fraud [5]. Deery said "nobody is really saying" the voters were invalid and raised concerns about possible political motivation [18]. After the ruling, Copenhaver said state law sets ballot-authentication requirements and that the commission had been consistent in its decisions [5].
+- Sept. 10, 2026: The Indiana Supreme Court, in a one-page order by a majority of the five justices, told the commission to certify Deery the winner 6,335 to 6,332 and resume ballot preparations with his name [5]. At oral argument, Justice Christopher Goff said he found no statutory basis to exclude ballots missing only a clerk's stamp or signature [5]; Justice Derek Molter called it problematic that the secretary of state had said before the election such ballots would count and then changed course [17].
+- The recount also came up in the 2026 Secretary of State race: independent candidate Greg Ballard attended the hearing and said the case "goes to voter intent" and the commission needs to change, while Republican candidate Max Engling called for closed primaries after the crossover-voting concerns [17].
+- General election: Democrat David Sanders was unopposed in his primary [15], and independent Joshua Brant was approved for the ballot in late July [3]. In an April written Q&A, Deery and Sanders both opposed state tax breaks for data centers and both criticized SEA 1, but offered different alternatives [8]. No debate or forum among the three general-election candidates was found.
 
 ## David A Sanders
 
-David Sanders is a Purdue University biology professor and West Lafayette city councilor making his second run for the seat [3, 20]. He centers his campaign on government accountability, home rule, water protection and public education [3].
+David Sanders is a Purdue University biology professor and West Lafayette city councilor making his second run for the seat [3, 19]. He centers his campaign on government accountability, home rule, water protection and public education [3].
 
 Campaign website: https://davidsandersindiana.com
 
 ### Background
 
-- Associate professor of biological sciences at Purdue University; holds a B.S. from Yale and a Ph.D. in biochemistry from UC Berkeley, according to his campaign [20].
-- Democratic member of the West Lafayette City Council since 2016, according to his campaign [20].
+- Associate professor of biological sciences at Purdue University; holds a B.S. from Yale and a Ph.D. in biochemistry from UC Berkeley, according to his campaign [19].
+- Democratic member of the West Lafayette City Council since 2016, according to his campaign [19].
 - Founded the "Stop the Water Steal" effort that opposed a pipeline to move water to the LEAP Lebanon district [3].
 - Lives in West Lafayette; age 65 [3].
 
 ### Path to the ballot
 
-- Unopposed in the May 5, 2026 Democratic primary [16].
+- Unopposed in the May 5, 2026 Democratic primary [15].
 - Also ran for this seat in 2022 [3].
 
 ### Positions & plans
@@ -77,7 +76,7 @@ Campaign website: https://davidsandersindiana.com
 
 **Local control**
 
-- Supports home rule and opposes state preemption of local government [3, 21].
+- Supports home rule and opposes state preemption of local government [3, 20].
 
 **Education**
 
@@ -97,7 +96,7 @@ Campaign website: https://davidsandersindiana.com
 
 **Privacy**
 
-- Says he opposes government surveillance and "government interference in marriage and childbearing decisions" [21].
+- Says he opposes government surveillance and "government interference in marriage and childbearing decisions" [20].
 
 ### On the current officeholder
 
@@ -106,12 +105,12 @@ Campaign website: https://davidsandersindiana.com
 ### How they say they'd run the office
 
 - Says he will "continue to fight for clean water and against large-scale transfers of water" [8].
-- Says he will keep fighting state preemption of local self-rule [21].
+- Says he will keep fighting state preemption of local self-rule [20].
 
 ### Endorsements & fundraising
 
 - Top donors listed by WFYI from Transparency USA data are individuals; no totals were given [3].
-- His campaign site claims "Three million dollars was spent by the other candidates in the primary" (unsourced campaign claim) [22].
+- His campaign site claims "Three million dollars was spent by the other candidates in the primary" (unsourced campaign claim) [21].
 
 ### What we couldn't verify
 
@@ -156,15 +155,15 @@ Campaign website: https://electjoshuabrant.org
 
 **Government ethics**
 
-- His campaign lists proposals titled the "Indiana Anti-Corruption and Accountability Act" and "The Peoples' Veto" [23].
+- His campaign lists proposals titled the "Indiana Anti-Corruption and Accountability Act" and "The Peoples' Veto" [22].
 
 ### On the current officeholder
 
-- No statements by Brant about Deery or the seat's record were found; a campaign post on the District 23 ballot case described the court schedule without taking sides [24].
+- No statements by Brant about Deery or the seat's record were found; a campaign post on the District 23 ballot case described the court schedule without taking sides [23].
 
 ### How they say they'd run the office
 
-- Campaign lists proposals on education, tax restructuring, health care reform and a "Bad Neighbor Doctrine"; their details could not be read [23].
+- Campaign lists proposals on education, tax restructuring, health care reform and a "Bad Neighbor Doctrine"; their details could not be read [22].
 
 ### Endorsements & fundraising
 
@@ -177,7 +176,7 @@ Campaign website: https://electjoshuabrant.org
 
 ## Spencer R. Deery
 
-Spencer Deery is the incumbent, first elected in 2022, and won the 2026 Republican primary by three votes after an Indiana Supreme Court ruling [5]. He names affordability as his top priority, along with teacher recruitment and retention [16].
+Spencer Deery is the incumbent, first elected in 2022, and won the 2026 Republican primary by three votes after an Indiana Supreme Court ruling [5]. He names affordability as his top priority, along with teacher recruitment and retention [15].
 
 Campaign website: https://spencerdeery.com
 
@@ -185,7 +184,7 @@ Campaign website: https://spencerdeery.com
 
 - Higher-education consultant; age 43; lives in West Lafayette [3].
 - Former deputy chief of staff in the Purdue University president's office and special assistant to Purdue President Emeritus Mitch Daniels, according to the caucus; degrees from Brigham Young University and George Washington University (MPA) [4].
-- Elected in 2022 in his first bid for office [25].
+- Elected in 2022 in his first bid for office [24].
 
 ### Path to the ballot
 
@@ -219,15 +218,15 @@ Campaign website: https://spencerdeery.com
 
 **Elections & redistricting**
 
-- Opposes mid-cycle redistricting, saying candidates should win on their ideas rather than "their ability to choose new voters" [10]. After the court ruling he said if voters do everything right, "your vote should count" [18].
+- Opposes mid-cycle redistricting, saying candidates should win on their ideas rather than "their ability to choose new voters" [10]. After the court ruling he said if voters do everything right, "your vote should count" [17].
 
 ### On the current officeholder
 
-- Is the current officeholder. On the recount, said the disputed voters cast valid ballots and that the rejection came from a clerical error, and raised concerns that an appointee involved had ties to a politician who financed his opponent's campaign [19].
+- Is the current officeholder. On the recount, said the disputed voters cast valid ballots and that the rejection came from a clerical error, and raised concerns that an appointee involved had ties to a politician who financed his opponent's campaign [18].
 
 ### How they say they'd run the office
 
-- Says "Affordability must be our top focus," including housing, health care, gas and electricity costs [8, 16].
+- Says "Affordability must be our top focus," including housing, health care, gas and electricity costs [8, 15].
 
 ### Endorsements & fundraising
 
@@ -253,16 +252,15 @@ Campaign website: https://spencerdeery.com
 10. [State Sen. Spencer Deery statement on redistricting](https://www.indianasenaterepublicans.com/state-sen-spencer-deery-statement-on-redistricting) — Indiana Senate Republican Caucus, 2025-08-13
 11. [Senate Roll Call 8: HB 1032 (Redistricting), third reading](https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-8-S-pdf.pdf) — Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts), 2025-12-11
 12. [Redistricting defeated: Indiana Senate votes against redrawing congressional map](https://indianacitizen.org/redistricting-defeated-indiana-senate-votes-against-redrawing-congressional-map/) — TheStatehouseFile.com and The Indiana Citizen, 2025-12-11
-13. [Statement from Sen. Spencer Deery regarding attempted swatting incident](https://www.indianasenaterepublicans.com/statement-from-sen-spencer-deery-regarding-attempted-swatting-incident) — Indiana Senate Republican Caucus, 2025-11-20
-14. [Deery's public safety bill heads to governor's desk](https://www.indianasenaterepublicans.com/deery-s-public-safety-bill-heads-to-governor-s-desk) — Indiana Senate Republican Caucus, 2026-02-26
-15. [2026 Deery legislative updates](https://www.indianasenaterepublicans.com/2026-deery-legislative-updates) — Indiana Senate Republican Caucus, 2026
-16. [After rejecting Trump's redistricting push, here's who is challenging State Sen. Spencer Deery](https://www.wvxu.org/2026-04-17/after-rejecting-trumps-redistricting-push-heres-who-is-challenging-state-sen-spencer-deery) — WFYI Public Media (via WVXU), 2026-04-17
-17. [Trump-backed candidate calls for recount in state Senate District 23 race](https://www.ipm.org/news/2026-05-18/trump-backed-candidate-calls-for-recount-in-state-senate-district-23-race) — WFYI Public Media (via Indiana Public Media), 2026-05-18
-18. [Indiana Supreme Court declares winner in contentious Republican primary race](https://www.lakeshorepublicmedia.org/2026-09-10/indiana-supreme-court-declares-winner-in-contentious-republican-primary-race) — WFYI Public Media (via Lakeshore Public Media), 2026-09-10
-19. [Deery asks Indiana Supreme Court to intervene in District 23 recount](https://www.wthitv.com/2026/08/20/deery-asks-indiana-supreme-court-intervene-district-23-recount/) — WTHI-TV, 2026-08-20
-20. [About David](https://davidsandersindiana.com/about-david) — David Sanders for Indiana (campaign), accessed 2026-10-10
-21. [On the Issues](https://davidsandersindiana.com/on-the-issues) — David Sanders for Indiana (campaign), accessed 2026-10-10
-22. [David Sanders for Indiana](https://davidsandersindiana.com) — David Sanders for Indiana (campaign), accessed 2026-10-10
-23. [Current Proposals](https://electjoshuabrant.org/current-proposals/) — Committee to Elect Joshua Brant (campaign), accessed 2026-10-10
-24. [The Republican Primary Fight Continues](https://electjoshuabrant.org/2026/09/10/the-republican-primary-fight-continues/) — Committee to Elect Joshua Brant (campaign), 2026-09-10
-25. [Spencer Deery for State Senate](https://spencerdeery.com) — Deery campaign, accessed 2026-10-10
+13. [Deery's public safety bill heads to governor's desk](https://www.indianasenaterepublicans.com/deery-s-public-safety-bill-heads-to-governor-s-desk) — Indiana Senate Republican Caucus, 2026-02-26
+14. [2026 Deery legislative updates](https://www.indianasenaterepublicans.com/2026-deery-legislative-updates) — Indiana Senate Republican Caucus, 2026
+15. [After rejecting Trump's redistricting push, here's who is challenging State Sen. Spencer Deery](https://www.wvxu.org/2026-04-17/after-rejecting-trumps-redistricting-push-heres-who-is-challenging-state-sen-spencer-deery) — WFYI Public Media (via WVXU), 2026-04-17
+16. [Trump-backed candidate calls for recount in state Senate District 23 race](https://www.ipm.org/news/2026-05-18/trump-backed-candidate-calls-for-recount-in-state-senate-district-23-race) — WFYI Public Media (via Indiana Public Media), 2026-05-18
+17. [Indiana Supreme Court declares winner in contentious Republican primary race](https://www.lakeshorepublicmedia.org/2026-09-10/indiana-supreme-court-declares-winner-in-contentious-republican-primary-race) — WFYI Public Media (via Lakeshore Public Media), 2026-09-10
+18. [Deery asks Indiana Supreme Court to intervene in District 23 recount](https://www.wthitv.com/2026/08/20/deery-asks-indiana-supreme-court-intervene-district-23-recount/) — WTHI-TV, 2026-08-20
+19. [About David](https://davidsandersindiana.com/about-david) — David Sanders for Indiana (campaign), accessed 2026-10-10
+20. [On the Issues](https://davidsandersindiana.com/on-the-issues) — David Sanders for Indiana (campaign), accessed 2026-10-10
+21. [David Sanders for Indiana](https://davidsandersindiana.com) — David Sanders for Indiana (campaign), accessed 2026-10-10
+22. [Current Proposals](https://electjoshuabrant.org/current-proposals/) — Committee to Elect Joshua Brant (campaign), accessed 2026-10-10
+23. [The Republican Primary Fight Continues](https://electjoshuabrant.org/2026/09/10/the-republican-primary-fight-continues/) — Committee to Elect Joshua Brant (campaign), 2026-09-10
+24. [Spencer Deery for State Senate](https://spencerdeery.com) — Deery campaign, accessed 2026-10-10

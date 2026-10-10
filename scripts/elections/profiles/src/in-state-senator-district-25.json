@@ -36,15 +36,45 @@
     "Won the May 5, 2026 Republican primary over Katherine Callahan, who had argued that legislative decisions were made without enough transparency and said government \"should be accountable to its constituents, not donors and lobbyists\" {hb_gop_preview} {hb_primary}."
    ],
    "positions": [
-    {"topic": "Taxes", "items": ["Says \"I will vote for additional tax cuts so that Hoosiers keep more of their hard-earned income\" {hb_gop_preview}; his campaign says he has never voted for a tax increase {gaskill_site}."]},
-    {"topic": "Immigration", "items": ["Says he will strengthen Indiana's cooperation with federal officials on deportations and add safeguards to keep people in the country illegally from receiving welfare and Medicare {hb_gop_preview}."]},
-    {"topic": "Education", "items": ["Plans to expand school choice {hb_gop_preview}."]},
-    {"topic": "Public safety", "items": ["Plans to increase sentences for violent crimes {hb_gop_preview}."]},
-    {"topic": "Elections & redistricting", "items": ["Says he will work to safeguard election integrity {hb_gop_preview}; sponsored the 2025 mid-decade redistricting bill {caucus_gaskill_hb1032}."]},
-    {"topic": "Social issues", "items": ["Campaign lists opposition to abortion, support for Second Amendment rights and traditional family values {gaskill_site} {wfyi_guide25}."]}
+    {
+     "topic": "Taxes",
+     "items": [
+      "Says \"I will vote for additional tax cuts so that Hoosiers keep more of their hard-earned income\" {hb_gop_preview}; his campaign says he has never voted for a tax increase {gaskill_site}."
+     ]
+    },
+    {
+     "topic": "Immigration",
+     "items": [
+      "Says he will strengthen Indiana's cooperation with federal officials on deportations and add safeguards to keep people in the country illegally from receiving welfare and Medicare {hb_gop_preview}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Plans to expand school choice {hb_gop_preview}."
+     ]
+    },
+    {
+     "topic": "Public safety",
+     "items": [
+      "Plans to increase sentences for violent crimes {hb_gop_preview}."
+     ]
+    },
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "Says he will work to safeguard election integrity {hb_gop_preview}; sponsored the 2025 mid-decade redistricting bill {caucus_gaskill_hb1032}."
+     ]
+    },
+    {
+     "topic": "Social issues",
+     "items": [
+      "Campaign lists opposition to abortion, support for Second Amendment rights and traditional family values {gaskill_site} {wfyi_guide25}."
+     ]
+    }
    ],
    "on_incumbent": [
-    "Is the current officeholder. After the primary, he said Callahan had been attacking him for the past two years and that, as a Christian, he had clear instructions about turning the other cheek {hb_primary}. No statements about Dixon-Tatum were found."
+    "Is the current officeholder. No statements about Dixon-Tatum were found."
    ],
    "plans": [
     "Says \"Indiana has outpaced all other Midwestern states\" economically and that he will keep pursuing tax cuts, school choice and immigration enforcement {hb_gop_preview}."
@@ -74,13 +104,48 @@
     "Was the Democratic nominee for this seat in 2022 {ipr_2022}."
    ],
    "positions": [
-    {"topic": "Housing", "items": ["Supports housing stability and affordability and wants to address homelessness and food insecurity with faith and community partners \"rather than criminalization\" {dixontatum_site}."]},
-    {"topic": "Cost of living", "items": ["Says she will address rising taxes and utility costs for families {dixontatum_site}."]},
-    {"topic": "Workers", "items": ["Supports living wages, workplace safety and collective bargaining rights {dixontatum_site}."]},
-    {"topic": "Health care", "items": ["Supports affordable, accessible health care and child care {dixontatum_site}; lists universal health care among her issues {hamco_dems}."]},
-    {"topic": "Economy & jobs", "items": ["Wants to bring sustainable jobs to the district and support small businesses and farmers {dixontatum_site}."]},
-    {"topic": "Education", "items": ["Supports teachers and resources for students from preschool through college and career readiness {dixontatum_site}."]},
-    {"topic": "Elections & redistricting", "items": ["Says she stands \"against partisan gerrymandering and power grabs\" {dixontatum_site}."]}
+    {
+     "topic": "Housing",
+     "items": [
+      "Supports housing stability and affordability and wants to address homelessness and food insecurity with faith and community partners \"rather than criminalization\" {dixontatum_site}."
+     ]
+    },
+    {
+     "topic": "Cost of living",
+     "items": [
+      "Says she will address rising taxes and utility costs for families {dixontatum_site}."
+     ]
+    },
+    {
+     "topic": "Workers",
+     "items": [
+      "Supports living wages, workplace safety and collective bargaining rights {dixontatum_site}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Supports affordable, accessible health care and child care {dixontatum_site}; lists universal health care among her issues {hamco_dems}."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Wants to bring sustainable jobs to the district and support small businesses and farmers {dixontatum_site}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Supports teachers and resources for students from preschool through college and career readiness {dixontatum_site}."
+     ]
+    },
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "Says she stands \"against partisan gerrymandering and power grabs\" {dixontatum_site}."
+     ]
+    }
    ],
    "on_incumbent": [
     "No direct statements about Gaskill or his record were found; her campaign says District 25 \"deserves strong representation rooted in service and accountability\" {dixontatum_site}."
@@ -100,21 +165,101 @@
   }
  ],
  "sources": {
-  "wfyi_guide25": ["2026 Voter Guide: Indiana Senate District 25", "WFYI Public Media", "2026-09-22", "https://www.wfyi.org/statewide/2026-09-22/2026-voter-guide-indiana-senate-district-25"],
-  "hb_primary": ["Gaskill, Dixon-Tatum win nominations in Senate District 25", "The Herald Bulletin", "2026-05-06", "https://www.heraldbulletin.com/news/local_news/gaskill-dixon-tatum-win-nominations-in-senate-district-25/article_fd0be082-9198-4541-b1d9-5eaa0a1df7a3.html"],
-  "hb_gop_preview": ["Economy, leadership among issues driving GOP race for Senate District 25 nomination", "The Herald Bulletin", "2026-04-23", "https://www.heraldbulletin.com/news/local_news/economy-leadership-among-issues-driving-gop-race-for-senate-district-25-nomination/article_5eb482ca-9a48-4ef7-bc6a-08bde1a9d6f0.html"],
-  "ipr_2022": ["After redistricting, both State Senate districts 25 and 26 see Republican winners", "Indiana Public Radio", "2022-11-09", "https://indianapublicradio.org/?p=102517"],
-  "caucus_gaskill": ["Sen. Mike Gaskill: biography, committees and news releases", "Indiana Senate Republican Caucus", "accessed 2026-10-10", "https://www.indianasenaterepublicans.com/gaskill"],
-  "caucus_gaskill_hb1032": ["Statement from State Sen. Mike Gaskill as Senate sponsor of House Bill 1032", "Indiana Senate Republican Caucus", "2025-12-05", "https://www.indianasenaterepublicans.com/statement-from-state-sen-mike-gaskill-as-senate-sponsor-of-house-bill-1032"],
-  "caucus_gaskill_2026": ["2026 Gaskill legislative updates", "Indiana Senate Republican Caucus", "2026", "https://www.indianasenaterepublicans.com/2026-gaskill-legislative-updates"],
-  "caucus_gaskill_sine_die": ["Statement from State Sen. Mike Gaskill regarding the conclusion of the 2026 legislative session", "Indiana Senate Republican Caucus", "2026-02-27", "https://www.indianasenaterepublicans.com/statement-from-state-sen-mike-gaskill-regarding-the-conclusion-of-the-2026-legislative-session"],
-  "wiki_gaskill": ["Mike Gaskill", "Wikipedia", "accessed 2026-10-10", "https://en.wikipedia.org/wiki/Mike_Gaskill"],
-  "citizen_redistricting": ["Redistricting defeated: Indiana Senate votes against redrawing congressional map", "TheStatehouseFile.com and The Indiana Citizen", "2025-12-11", "https://indianacitizen.org/redistricting-defeated-indiana-senate-votes-against-redrawing-congressional-map/"],
-  "rc_hb1032_8": ["Senate Roll Call 8: HB 1032 (Redistricting), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-12-11", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-8-S-pdf.pdf"],
-  "rc_sea1_417": ["Senate Roll Call 417: SB 1 (Local government finance), concurrence", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-04-15", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-417-S-pdf.pdf"],
-  "rc_hb1001_538": ["Senate Roll Call 538: HB 1001 (State budget), conference committee report", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-04-25", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-538-S-pdf.pdf"],
-  "gaskill_site": ["Elect Mike Gaskill", "Gaskill campaign", "accessed 2026-10-10", "https://electmikegaskill.com"],
-  "dixontatum_site": ["Tamie Dixon-Tatum for Indiana State Senate District 25", "Committee to Elect Tamie Dixon-Tatum (campaign)", "accessed 2026-10-10", "https://ctetamiedixontatum.com"],
-  "hamco_dems": ["Meet Tamie Dixon-Tatum", "Hamilton County Democratic Party", "accessed 2026-10-10", "https://www.hamcodemsin.org/candidates/tamie-dixon-tatum"]
+  "wfyi_guide25": [
+   "2026 Voter Guide: Indiana Senate District 25",
+   "WFYI Public Media",
+   "2026-09-22",
+   "https://www.wfyi.org/statewide/2026-09-22/2026-voter-guide-indiana-senate-district-25"
+  ],
+  "hb_primary": [
+   "Gaskill, Dixon-Tatum win nominations in Senate District 25",
+   "The Herald Bulletin",
+   "2026-05-06",
+   "https://www.heraldbulletin.com/news/local_news/gaskill-dixon-tatum-win-nominations-in-senate-district-25/article_fd0be082-9198-4541-b1d9-5eaa0a1df7a3.html"
+  ],
+  "hb_gop_preview": [
+   "Economy, leadership among issues driving GOP race for Senate District 25 nomination",
+   "The Herald Bulletin",
+   "2026-04-23",
+   "https://www.heraldbulletin.com/news/local_news/economy-leadership-among-issues-driving-gop-race-for-senate-district-25-nomination/article_5eb482ca-9a48-4ef7-bc6a-08bde1a9d6f0.html"
+  ],
+  "ipr_2022": [
+   "After redistricting, both State Senate districts 25 and 26 see Republican winners",
+   "Indiana Public Radio",
+   "2022-11-09",
+   "https://indianapublicradio.org/?p=102517"
+  ],
+  "caucus_gaskill": [
+   "Sen. Mike Gaskill: biography, committees and news releases",
+   "Indiana Senate Republican Caucus",
+   "accessed 2026-10-10",
+   "https://www.indianasenaterepublicans.com/gaskill"
+  ],
+  "caucus_gaskill_hb1032": [
+   "Statement from State Sen. Mike Gaskill as Senate sponsor of House Bill 1032",
+   "Indiana Senate Republican Caucus",
+   "2025-12-05",
+   "https://www.indianasenaterepublicans.com/statement-from-state-sen-mike-gaskill-as-senate-sponsor-of-house-bill-1032"
+  ],
+  "caucus_gaskill_2026": [
+   "2026 Gaskill legislative updates",
+   "Indiana Senate Republican Caucus",
+   "2026",
+   "https://www.indianasenaterepublicans.com/2026-gaskill-legislative-updates"
+  ],
+  "caucus_gaskill_sine_die": [
+   "Statement from State Sen. Mike Gaskill regarding the conclusion of the 2026 legislative session",
+   "Indiana Senate Republican Caucus",
+   "2026-02-27",
+   "https://www.indianasenaterepublicans.com/statement-from-state-sen-mike-gaskill-regarding-the-conclusion-of-the-2026-legislative-session"
+  ],
+  "wiki_gaskill": [
+   "Mike Gaskill",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/Mike_Gaskill"
+  ],
+  "citizen_redistricting": [
+   "Redistricting defeated: Indiana Senate votes against redrawing congressional map",
+   "TheStatehouseFile.com and The Indiana Citizen",
+   "2025-12-11",
+   "https://indianacitizen.org/redistricting-defeated-indiana-senate-votes-against-redrawing-congressional-map/"
+  ],
+  "rc_hb1032_8": [
+   "Senate Roll Call 8: HB 1032 (Redistricting), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-12-11",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-8-S-pdf.pdf"
+  ],
+  "rc_sea1_417": [
+   "Senate Roll Call 417: SB 1 (Local government finance), concurrence",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-15",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-417-S-pdf.pdf"
+  ],
+  "rc_hb1001_538": [
+   "Senate Roll Call 538: HB 1001 (State budget), conference committee report",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-25",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-538-S-pdf.pdf"
+  ],
+  "gaskill_site": [
+   "Elect Mike Gaskill",
+   "Gaskill campaign",
+   "accessed 2026-10-10",
+   "https://electmikegaskill.com"
+  ],
+  "dixontatum_site": [
+   "Tamie Dixon-Tatum for Indiana State Senate District 25",
+   "Committee to Elect Tamie Dixon-Tatum (campaign)",
+   "accessed 2026-10-10",
+   "https://ctetamiedixontatum.com"
+  ],
+  "hamco_dems": [
+   "Meet Tamie Dixon-Tatum",
+   "Hamilton County Democratic Party",
+   "accessed 2026-10-10",
+   "https://www.hamcodemsin.org/candidates/tamie-dixon-tatum"
+  ]
  }
 }
