@@ -1,0 +1,141 @@
+{
+ "race_id": "in-state-senator-district-04",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_senate",
+ "incumbent": {
+  "name": "Rodney Pol Jr.",
+  "party": "Democratic",
+  "summary": "Rodney Pol Jr., a Democrat and attorney from Chesterton, was first chosen for the seat in 2021 to fill an unexpired term and serves as the Senate Democrats' Minority Caucus Chair; the caucus describes him as the first Latino elected to the Indiana Senate {sd_pol} {wiki_pol}.",
+  "record": [
+   "Before joining the Senate, worked as a public defender with the Indiana State Public Defender's Office (2010–2014) and as Gary city attorney (2014–2021) {wiki_pol}.",
+   "February 2025: voted against Senate Bill 1, the property-tax bill, when it passed the Senate 37–10; the final version was approved 27–22 in April 2025 with Democrats and a dozen Republicans voting no {icc_sb1_senate} {ibj_sb1_final}.",
+   "April 2025: voted against the 2025–2027 state budget, saying \"We're diverting money from special education and shifting it toward a universal voucher program\" and that \"In a time of a $2.4 billion shortfall, we should not be expanding programs to benefit the wealthy\" {sd_pol_budget}.",
+   "August 2025: criticized the state's decision to delay closing the Michigan City prison, saying \"Keeping it open not only wastes taxpayer dollars but also stalls critical opportunities\" for redevelopment {sd_pol_prison}.",
+   "October–December 2025: opposed mid-decade congressional redistricting, calling it \"an attempt by those in power to silence voters\"; the Senate rejected the plan 19–31 on December 11, 2025, with all 10 Democrats voting no {sd_pol_redistricting} {wlos_redistricting}.",
+   "2026 session: authored Senate Bill 148, which adds Porter and LaPorte counties to the Indiana Crime Guns Task Force; it passed the Senate unanimously and the House 98–0 and went to the governor {sd_pol_sb148}."
+  ]
+ },
+ "race_context": [
+  "Senate District 4 covers northern Porter County (including Burns Harbor, Chesterton, Porter and Portage) and part of LaPorte County (including Michigan City and Westville) {sd_pol}.",
+  "Pol was unopposed in the May 5, 2026 Democratic primary; Nate Uldricks won the Republican primary with 74.3% over Johannes Poulard {wiki_2026_insenate}. Gov. Mike Braun endorsed Uldricks in that primary; President Trump did not endorse in the race {ipm_braun_endorse}.",
+  "Both candidates were listed to speak at a Duneland Chamber of Commerce candidate forum on April 14, 2026, in Valparaiso, with Chesterton Town Council President Erin Collins listed as speaking on Pol's behalf {duneland_forum}. No general-election debate was found as of October 10, 2026.",
+  "Both candidates emphasize cost of living and public safety; Pol's record centers on utility costs, opposition to the 2025 budget's school funding changes, and the crime-guns task force bill, while Uldricks's campaign emphasizes manufacturing jobs, enforcement, and environmental protection with local input {sd_pol_budget} {sd_pol_sb148} {uldricks_priorities}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Nate Uldricks",
+   "summary": "Nate Uldricks, a Republican from Porter County, chairs the Pine Township Board and is a volunteer firefighter; his campaign says he previously held management roles at the White House and the U.S. Department of Defense {uldricks_meet}.",
+   "website": "https://www.nateuldricks.com/",
+   "background": [
+    "Born and raised in Portage and a Portage High School graduate, according to his campaign site {uldricks_meet}.",
+    "Holds a B.S. in industrial engineering from Purdue University, an M.A. in government from Johns Hopkins University, and an MBA from the University of Virginia, per his campaign site {uldricks_meet}.",
+    "Serves as Pine Township Board chairman and as a volunteer firefighter {uldricks_meet}.",
+    "His campaign says he held management roles at the White House and the U.S. Department of Defense focused on cutting waste and improving efficiency {uldricks_meet}."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Republican primary with 3,371 votes (74.3%) over Johannes Poulard (25.7%), according to Wikipedia's tabulation {wiki_2026_insenate}."
+   ],
+   "positions": [
+    {"topic": "Economy & jobs", "items": [
+     "Wants to \"keep good paying manufacturing jobs right here,\" supports \"cutting unnecessary red tape,\" and would partner with \"local schools, employers, and labor unions\" {uldricks_priorities}."
+    ]},
+    {"topic": "Cost of living", "items": [
+     "Says \"The American Dream should be affordable for all Hoosiers\" and lists housing, groceries, gas and utilities as costs to address {uldricks_priorities}."
+    ]},
+    {"topic": "Public safety", "items": [
+     "Says officials \"need to put effective enforcement as a top priority\" and supports \"holding repeat offenders accountable\" {uldricks_priorities}."
+    ]},
+    {"topic": "Environment & growth", "items": [
+     "Says \"Responsible growth means protecting these natural assets while allowing communities to thrive,\" referring to the dunes, lake and farms, and favors planning with local input {uldricks_priorities}."
+    ]}
+   ],
+   "on_incumbent": [
+    "His campaign site says the region has been \"overlooked and underserved\" and calls for leadership \"focused on results, not headlines\"; the pages reviewed do not name Pol {uldricks_site} {uldricks_priorities}."
+   ],
+   "plans": [
+    "Lists building the manufacturing economy, lowering everyday costs, strengthening public safety, and protecting the dunes, lake and farms as his priorities {uldricks_site}."
+   ],
+   "endorsements_finance": [
+    "Endorsed by Gov. Mike Braun in the Republican primary {ipm_braun_endorse}.",
+    "Endorsed in the primary by the International Union of Operating Engineers Local 150 {iuoe150_primary}.",
+    "iVoterGuide lists an endorsement from U.S. Rep. Rudy Yakym and reports 2025 contributions from Randy Niemeyer, Rudy Yakym III and Ted Uzelac, without amounts {ivg_uldricks}."
+   ],
+   "gaps": [
+    "Wikipedia's election page describes Uldricks as Porter County Republican chairman; his campaign site does not mention a party office, and this could not be confirmed.",
+    "The Indiana Capital Chronicle voter guide (not fetchable; search snippet only) reportedly says he did not return its survey on taxes and that he previously worked for the Office of Management and Budget — unverified.",
+    "He did not answer the iVoterGuide questionnaire.",
+    "No fundraising totals were found; the Indiana campaign finance portal could not be read.",
+    "No statements on property taxes, education, NIPSCO rates, or the 2025 redistricting fight were found."
+   ]
+  },
+  {
+   "ballot_name": "Rodney Pol",
+   "summary": "Rodney Pol Jr., the Democratic incumbent from Chesterton, is an attorney and the Senate Democrats' Minority Caucus Chair seeking his second full term {sd_pol}.",
+   "website": null,
+   "background": [
+    "Attorney; former public defender (2010–2014) and Gary city attorney (2014–2021) {wiki_pol}.",
+    "Graduated from Chesterton High School and Indiana University Bloomington and earned a law degree from the IU McKinney School of Law {wiki_pol}.",
+    "Lives in Chesterton {sd_pol}."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Democratic primary unopposed with 7,457 votes, according to Wikipedia's tabulation {wiki_2026_insenate}."
+   ],
+   "positions": [
+    {"topic": "Education", "items": [
+     "Opposed the 2025 budget's shift of funds toward the universal voucher program and cited cuts to special education funding and child care aid {sd_pol_budget}."
+    ]},
+    {"topic": "Property taxes", "items": [
+     "Voted against the Senate's February 2025 version of the SB 1 property-tax bill {icc_sb1_senate}."
+    ]},
+    {"topic": "Elections & redistricting", "items": [
+     "Said \"Drawing new maps five years early just to flip two seats that were fairly representative of their districts is wrong\" and called for public hearings and an open process {sd_pol_redistricting}."
+    ]},
+    {"topic": "Public safety", "items": [
+     "Said his SB 148 \"invests in data-driven resources and preventive measures proven to decrease crime\" {sd_pol_sb148}."
+    ]},
+    {"topic": "Energy & utilities", "items": [
+     "After the December 2025 special session was cancelled, said his focus would shift to cost-of-living concerns including higher utility charges {sd_pol_december}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No public statements by Pol about Uldricks were found."
+   ],
+   "plans": [
+    "No published 2026 campaign platform was found; see gaps."
+   ],
+   "endorsements_finance": [
+    "Endorsed in the primary by the International Union of Operating Engineers Local 150 {iuoe150_primary}.",
+    "Wikipedia lists a general-election endorsement from Indiana Farm Bureau's AgELECT PAC {wiki_2026_insenate}."
+   ],
+   "gaps": [
+    "His campaign website could not be located. The Indiana Capital Chronicle voter guide (search snippet only) reportedly says his campaign site lists fighting NIPSCO rate hikes, stopping additional toll roads, and fighting special interests and corruption as his priorities — unverified.",
+    "Wikipedia says he voted with Republicans in 2025 on the bill restricting transgender youth sports participation; the cited Axios article could not be fetched — unverified.",
+    "Senate Democrats' pages reviewed do not list his standing committee assignments.",
+    "His vote on the final April 2025 SB 1 concurrence was not individually confirmed (reporting says Democrats voted no).",
+    "No fundraising totals were found; the Indiana campaign finance portal could not be read."
+   ]
+  }
+ ],
+ "sources": {
+  "sd_pol": ["State Senator Rodney Pol, District 4", "Indiana Senate Democrats", "2026-10", "https://indianasenatedemocrats.org/senators/s4"],
+  "wiki_pol": ["Rodney Pol Jr.", "Wikipedia", "2026-10", "https://en.wikipedia.org/wiki/Rodney_Pol_Jr."],
+  "icc_sb1_senate": ["Senate advances property tax relief over bipartisan opposition", "Indiana Capital Chronicle via Yahoo News", "2025-02-18", "https://www.yahoo.com/news/senate-advances-property-tax-relief-114510741.html"],
+  "ibj_sb1_final": ["With after-midnight vote, Indiana Senate sends property tax bill to governor", "Inside Indiana Business / IBJ", "2025-04-15", "https://www.insideindianabusiness.com/articles/with-after-midnight-vote-indiana-senate-sends-property-tax-bill-to-governor"],
+  "sd_pol_budget": ["Senator Pol Votes No on the State Budget", "Indiana Senate Democrats", "2025-04-25", "https://indianasenatedemocrats.org/senator-pol-votes-no-on-the-state-budget/"],
+  "sd_pol_prison": ["Michigan City Prison Closure Delayed to 2027, Sen. Pol Calls Decision Costly and Shortsighted", "Indiana Senate Democrats", "2025-08-27", "https://indianasenatedemocrats.org/michigan-city-prison-closure-delayed-to-2027-sen-pol-calls-decision-costly-and-shortsighted/"],
+  "sd_pol_redistricting": ["Pol Urges His Colleagues to Honor our Oath and Protect the Vote", "Indiana Senate Democrats", "2025-10-27", "https://indianasenatedemocrats.org/pol-urges-his-colleagues-to-honor-our-oath-and-protect-the-vote/"],
+  "sd_pol_december": ["Pol Responds Following Senate Cancelling the December Session", "Indiana Senate Democrats", "2025-11-18", "https://indianasenatedemocrats.org/pol-responds-following-senate-cancelling-the-december-session/"],
+  "sd_pol_sb148": ["Sen. Pol's SB 148 Passes Out of the House", "Indiana Senate Democrats", "2026-02-25", "https://indianasenatedemocrats.org/sen-pols-sb-148-passes-out-of-the-house/"],
+  "wlos_redistricting": ["Indiana Senate votes \"NO\" on congressional redistricting", "WLOS (Sinclair)", "2025-12-11", "https://wlos.com/news/nation-world/campaign-2026-vote-for-indiana-congressional-redistricting-underway-congress"],
+  "wiki_2026_insenate": ["2026 Indiana Senate election", "Wikipedia", "2026-10", "https://en.wikipedia.org/wiki/2026_Indiana_Senate_election"],
+  "ipm_braun_endorse": ["Braun mostly echoes Trump's GOP primary picks in redistricting vote fallout", "Indiana Capital Chronicle via IPM", "2026-04-16", "https://www.ipm.org/news/2026-04-16/braun-mostly-echoes-trumps-gop-primary-picks-in-redistricting-vote-fallout"],
+  "duneland_forum": ["April 2026 Candidate Forum", "Duneland Chamber of Commerce", "2026-04", "https://business.dunelandchamber.org/event-calendar/Details/april-2026-candidate-forum-1579209?sourceTypeId=Hub"],
+  "iuoe150_primary": ["IUOE Local 150 Endorsed Candidates, Indiana Primary Election", "IUOE Local 150", "2026-04", "https://local150.org/wp-content/uploads/2026/04/2026-IN-Primary-Endorsements-V7_one-page.pdf"],
+  "uldricks_site": ["Nate Uldricks for Indiana State Senate", "Uldricks campaign", "2026-10", "https://www.nateuldricks.com/"],
+  "uldricks_meet": ["Meet Nate", "Uldricks campaign", "2026-10", "https://www.nateuldricks.com/meetnate"],
+  "uldricks_priorities": ["Priorities", "Uldricks campaign", "2026-10", "https://www.nateuldricks.com/priorities"],
+  "ivg_uldricks": ["Nate Uldricks – candidate profile", "iVoterGuide", "2026-10", "https://ivoterguide.com/candidate/90917/race/24146/election/1357"]
+ }
+}
