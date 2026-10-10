@@ -1,0 +1,221 @@
+{
+ "race_id": "in-united-states-representative-eighth-district",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@us_house",
+ "incumbent": {
+  "name": "Mark Messmer",
+  "party": "Republican",
+  "summary": "Mark Messmer, a Republican from Jasper, won the 8th District seat in 2024 after Rep. Larry Bucshon retired and is seeking a second term {wnin_four_dems}. He serves on the House Armed Services, Agriculture, and Education and Workforce committees {messmer_about}.",
+  "record": [
+   "Mar. 11, 2025: Voted for H.R. 1968, the full-year continuing appropriations bill for fiscal 2025, which passed 217-213 {rc_2025_070}.",
+   "May 22, 2025: Voted for House passage of H.R. 1, the budget reconciliation bill (215-214); on July 3, 2025, voted to concur in the Senate's version, which passed 218-214 {rc_2025_145} {rc_2025_190}. His campaign cites the law, signed July 4, 2025, as a tax cut for working families {wnin_four_dems}.",
+   "Mar. 8, 2025: At a Jasper Chamber of Commerce breakfast, Messmer said that under discussed Medicaid changes reimbursement rates for able-bodied adults ages 18 to 54 would step down, and said, \"No one in Indiana will get kicked off of Medicaid\" {dcfp_breakfast}.",
+   "June 12, 2025: Voted for H.R. 4, the Rescissions Act, which passed 214-212 {rc_2025_168}.",
+   "Sept. 19, 2025: Voted for H.R. 5371, a stopgap funding bill (passed 217-212); on Nov. 12, 2025, voted to concur in the Senate amendment ending the 43-day shutdown (passed 222-209) {rc_2025_281} {rc_2025_285}. In a statement he said Democrats \"shut down the federal government\" and \"brought to a halt paychecks and important benefits families depend upon\" {ipm_shutdown}.",
+   "Nov. 18, 2025: Voted for H.R. 4405, the Epstein Files Transparency Act, which passed 427-1 {rc_2025_289}.",
+   "Nov. 20, 2025: Introduced H.R. 6213, the Heat Workforce Standards Act, to repeal a proposed federal workplace heat standard; the Education and Workforce Committee advanced it on July 21, 2026, and Messmer said \"ineffectual government regulation makes it harder for employers to grow their business\" {messmer_heat}. Democratic opponent Mary Allen's campaign issued a statement opposing the bill {allen_press}.",
+   "Dec. 17, 2025: Voted for H.R. 6703, the Lower Health Care Premiums for All Americans Act, which passed 216-211 {rc_2025_349}.",
+   "Jan. 13, 2026: His bill H.R. 2270, the Empowering Employer Child and Elder Care Solutions Act, which would remove a Fair Labor Standards Act requirement his office says raises costs for employers offering dependent care, reached the House floor; a Democratic motion to recommit failed 209-213 {messmer_hr2270} {rc_2026_020}.",
+   "Jan. 22 and Feb. 3, 2026: Voted for the Consolidated Appropriations Act, 2026 (H.R. 7148), including the final vote to concur in Senate amendments (217-214) {rc_2026_045} {rc_2026_053}. His office said fiscal 2026 bills included $1.615 million for a backup generator at Evansville Regional Airport and $17 million for wastewater projects in Greene County {messmer_approps}.",
+   "2026: Voted against each House war powers resolution directing removal of U.S. forces from hostilities with Iran, on Mar. 5, Apr. 16, May 14, June 3, July 23 and Sept. 15; the last three passed the House {rc_2026_085} {rc_2026_114} {rc_2026_170} {rc_2026_199} {rc_2026_282} {rc_2026_307}.",
+   "Apr. 30, 2026: Voted for the Farm, Food, and National Security Act (H.R. 7567), which passed 224-200; his office listed provisions he said he secured, including the SNAP Online Access Act and a measure on foreign farmland purchases {rc_2026_154} {messmer_farmbill}.",
+   "June 3, 2026: Voted for H.R. 7726, a child care oversight bill that his office says includes his Child Care Payment Integrity and Fraud Accountability Act requiring states to report improper Child Care and Development Block Grant payments; it passed 217-207 {rc_2026_198} {messmer_childcare}.",
+   "July 22, 2026: Voted for the fiscal 2027 National Defense Authorization Act (passed 216-212); his office said it included $175 million for a missile program developed at Naval Surface Warfare Center Crane {rc_2026_278} {messmer_ndaa}.",
+   "July 21, 2026: Voted for H.R. 9770, a continuing appropriations bill for fiscal 2027, which passed 220-205 {rc_2026_272}.",
+   "Aug. 2026: Allen criticized a TV ad showing Messmer playing trumpet in Jasper that WNIN reported was paid for with congressional franking funds; WNIN said it sought comment from Messmer and its story included no response {wnin_ad}."
+  ]
+ },
+ "race_context": [
+  "The 8th District covers southwestern and west-central Indiana, anchored by Evansville and including Jasper, Princeton, Terre Haute, Vincennes and Washington {wiki_in_house}. It includes 20 full counties and part of Fountain County {statehouse_file}.",
+  "Messmer won the seat in 2024 with 68.0% of the vote, according to Wikipedia's election summary {wiki_in_house}. A political scientist quoted by TheStatehouseFile.com called the district \"very Republican\" {statehouse_file}.",
+  "Messmer was unopposed in the May 5, 2026 Republican primary {statehouse_file} {gcdw_results}.",
+  "In the Democratic primary, early-morning unofficial results (88.6% of precincts reporting) showed Allen with 17,078 votes (67.2%), ahead of Tabitha Zeigler (15.1%), Christopher Rector (11.6%) and Mario Foradori (6.1%) {gcdw_results}. Wikipedia's results table lists final totals of 18,816 votes (66.7%) for Allen {wiki_in_house}.",
+  "The League of Women Voters and NAACP held a forum for the four Democratic candidates in Evansville on April 11, 2026 {wnin_forum}. No general-election debate between Messmer and Allen had been reported as of this review.",
+  "Key differences: Allen says she would protect and expand Medicaid and reverse cuts she attributes to the incumbent, while Messmer voted for the 2025 reconciliation law and has said no one in Indiana would lose Medicaid {allen_priorities} {rc_2025_190} {dcfp_breakfast}. Allen says she would have voted to end the Iran war, while Messmer voted against each Iran war powers resolution {wnin_allen_aug} {rc_2026_307}.",
+  "As of June 30, 2026, Messmer had raised $1,171,366 and had $713,500 cash on hand; Allen had raised $294,502 and had $179,307 cash on hand {fec_in08}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Mark Messmer",
+   "summary": "Messmer is the first-term Republican incumbent from Jasper and a former owner of Messmer Mechanical {wnin_four_dems}. He previously served about 16 years in the Indiana General Assembly {insenate_messmer}.",
+   "website": "https://messmer.house.gov",
+   "background": [
+    "Lives in Jasper; former owner of Messmer Mechanical {wnin_four_dems}.",
+    "Served about 16 years in the Indiana House and then the Indiana Senate, representing Senate District 48 (Crawford, Dubois, Gibson, Perry, Pike and Spencer counties), and resigned from the Senate effective Sept. 3, 2024, to run for Congress {insenate_messmer}.",
+    "Married to Kim for 39 years with four children; the couple are small business owners {messmer_about}.",
+    "Serves on the House Armed Services, Agriculture, and Education and Workforce committees {messmer_about}."
+   ],
+   "path_to_ballot": [
+    "Won the Republican nomination unopposed in the May 5, 2026 primary {statehouse_file} {gcdw_results}."
+   ],
+   "positions": [
+    {"topic": "Economy & taxes", "items": [
+     "Voted for the 2025 reconciliation law, which his campaign cites as a tax cut for working families {rc_2025_190} {wnin_four_dems}.",
+     "Hosted an Aug. 21, 2026 event highlighting the tax provisions of the 2025 reconciliation law {messmer_news}."
+    ]},
+    {"topic": "Regulation & labor", "items": [
+     "Sponsored H.R. 6213 to repeal a proposed federal workplace heat standard, saying ineffective regulation makes it harder for employers to grow {messmer_heat}.",
+     "Sponsored H.R. 2270 to remove a Fair Labor Standards Act requirement on employer-provided dependent care, saying people should not have to choose \"between caring for a loved one and working outside the home\" {messmer_hr2270}."
+    ]},
+    {"topic": "Health care", "items": [
+     "In March 2025 he denied that Republicans sought to cut Medicare, Medicaid or Social Security and said no one in Indiana would be removed from Medicaid {dcfp_breakfast}.",
+     "Voted for H.R. 6703, the Lower Health Care Premiums for All Americans Act, in December 2025 {rc_2025_349}."
+    ]},
+    {"topic": "Defense", "items": [
+     "His office said the fiscal 2027 NDAA he supported included $175 million for a missile program developed at NSWC Crane and support for up to $1 billion for the MACH-TB program at Crane {messmer_ndaa}.",
+     "Voted against House war powers resolutions on Iran in 2026 {rc_2026_085} {rc_2026_307}."
+    ]},
+    {"topic": "Agriculture", "items": [
+     "Voted for the 2026 House farm bill and said it \"stood up for the American farmer\"; he urged the Senate to pass it {messmer_farmbill}."
+    ]},
+    {"topic": "Child care", "items": [
+     "His office says his Child Care Payment Integrity and Fraud Accountability Act, included in a House-passed bill, requires states to track and report improper and fraudulent child care payments {messmer_childcare}."
+    ]},
+    {"topic": "Abortion", "items": [
+     "WNIN reports that he sponsors legislation restricting abortion {wnin_four_dems}; his office announced the Forced Abortion Prevention and Accountability Act on Dec. 4, 2025 {messmer_news_p3}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Is the current officeholder.",
+    "No public statement by Messmer about Allen was found; WNIN and TheStatehouseFile.com reported that he did not respond to their requests for comment {wnin_ad} {statehouse_file}."
+   ],
+   "plans": [
+    "His campaign says he is working on priorities including a defense and high-tech corridor in Southwest Indiana {wnin_four_dems}.",
+    "Introduced a bill on Ready Reserve Force modernization on Sept. 24, 2026 {messmer_news}."
+   ],
+   "endorsements_finance": [
+    "As of June 30, 2026, his campaign committee had raised $1,171,366, spent $664,972 and had $713,500 cash on hand {fec_in08}.",
+    "President Donald Trump endorsed his re-election, according to WNIN {wnin_allen_aug2025}."
+   ],
+   "gaps": [
+    "No candidate questionnaire, campaign issues page or general-election interview with Messmer was found; WNIN reported repeated interview invitations remained open as of Aug. 2026.",
+    "His campaign website (reported elsewhere as markmessmer.com) could not be loaded and is not linked.",
+    "Could not verify via Congress.gov whether any bill he sponsored has become law; H.R. 2270 final House passage status is unverified.",
+    "Search snippets (unverified) attributed AIPAC endorsement and a 2025 press release on an NDAA-related district wins; not used.",
+    "No response from Messmer to Allen's criticism of the franked TV ad was found."
+   ]
+  },
+  {
+   "ballot_name": "Mary Allen",
+   "summary": "Allen is an at-large Evansville city councilor, small business owner and Army Reserve veteran {allen_home}. She won the Democratic nomination on May 5, 2026, with about two-thirds of the vote {gcdw_results}.",
+   "website": "https://www.maryallenforcongress.com",
+   "background": [
+    "At-large Evansville city councilor, elected in late 2023 {ipm_allen_launch}.",
+    "Has lived in Indiana more than 30 years, raised three daughters in Evansville, and lives downtown with her husband, Greg {allen_meet}.",
+    "Small business owner for more than 15 years; owned Sixth and Zero until November 2025 and co-owns Virginia Street Properties {allen_meet}.",
+    "Spent 10 years in a nonprofit urban ministry and chairs the Enterprise Zone board {allen_meet}.",
+    "Army Reserve veteran, according to her campaign {allen_home}."
+   ],
+   "path_to_ballot": [
+    "Announced her candidacy in August 2025, introduced by Evansville Mayor Stephanie Terry {wnin_allen_aug2025}.",
+    "Won the May 5, 2026 Democratic primary over three opponents with 67.2% in unofficial early results {gcdw_results}."
+   ],
+   "positions": [
+    {"topic": "Health care", "items": [
+     "Supports protecting and expanding Medicaid and Medicare and keeping rural hospitals open; her campaign says federal Medicaid cuts put two hospitals in the district at risk {allen_priorities}."
+    ]},
+    {"topic": "Economy & taxes", "items": [
+     "Proposes affordable homeownership programs, expanded affordable housing and removing tariffs on food and other essentials {allen_priorities}.",
+     "Supports a minimum wage tied to inflation, union rights and paid time off {allen_priorities}.",
+     "Says the wealthy and corporations should pay more in taxes and supports removing incentives that move jobs overseas {allen_priorities}."
+    ]},
+    {"topic": "Child care", "items": [
+     "Proposes capping family child care costs at 7% of income, federal support for local centers, better pay for child care workers and universal pre-K {allen_priorities}."
+    ]},
+    {"topic": "Education", "items": [
+     "Supports full school funding and keeping the U.S. Department of Education {allen_priorities}."
+    ]},
+    {"topic": "Agriculture", "items": [
+     "Supports breaking up agricultural monopolies, a national right-to-repair law for farm equipment and a farm bill favoring family operations {allen_priorities} {wnin_four_dems}."
+    ]},
+    {"topic": "Immigration", "items": [
+     "Supports immigration reform with pathways to citizenship and more oversight of the Department of Homeland Security {allen_priorities}."
+    ]},
+    {"topic": "Energy & environment", "items": [
+     "Supports enforcing EPA standards, investing in wind, solar and grid upgrades, and a federal pause on large AI data center projects until safeguards exist {allen_priorities}."
+    ]},
+    {"topic": "Government & ethics", "items": [
+     "Supports banning congressional stock trading, term limits and reducing corporate money in politics {allen_priorities}.",
+     "Took a pledge not to accept corporate PAC money {wnin_allen_primary}."
+    ]},
+    {"topic": "Foreign policy", "items": [
+     "Called the conflict with Iran an \"illegal war\" and said she would have voted to end it (Aug. 2026) {wnin_allen_aug}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Her campaign says Messmer supports an administration that cut Medicaid by nearly $1 trillion {allen_priorities}.",
+    "Aug. 2026: Said of the war powers votes, \"Our congressman voted not to end it twice\" {wnin_allen_aug}; House records show Messmer voted against six such Iran resolutions in 2026 {rc_2026_307}.",
+    "Aug. 12, 2026: Said Messmer's franked TV ad should have been paid with \"his campaign funds, not hard-earned tax dollars\"; no response from Messmer was reported {wnin_ad}.",
+    "Her campaign issued a statement opposing his heat-standard repeal bill, H.R. 6213 {allen_press}."
+   ],
+   "plans": [
+    "Says she will emphasize in-person town halls and direct access to her office {wnin_trio}.",
+    "Said in August 2026 that her campaign had contacted about 28,000 people and aimed to triple that before November {wnin_allen_aug}."
+   ],
+   "endorsements_finance": [
+    "Endorsed by the 8th District Indiana Democrats before the primary {wnin_trio}.",
+    "As of June 30, 2026, her campaign committee had raised $294,502, spent $115,194 and had $179,307 cash on hand {fec_in08}."
+   ],
+   "gaps": [
+    "Her campaign press releases on the website are undated; their full texts (PDFs) were not reviewed.",
+    "Search snippets (unverified) described her as a former occupational therapist; not confirmed on a fetched page.",
+    "WNIN described her as City Council President in April 2026, while her campaign site says Vice President; title omitted.",
+    "Indiana Capital Chronicle voter-guide responses could not be accessed (403).",
+    "No general-election debate or forum with both candidates was found."
+   ]
+  }
+ ],
+ "sources": {
+  "messmer_about": ["About Mark", "Office of Rep. Mark Messmer (house.gov)", "accessed 2026-10-10", "https://messmer.house.gov/about"],
+  "messmer_news": ["Press Releases", "Office of Rep. Mark Messmer (house.gov)", "accessed 2026-10-10", "https://messmer.house.gov/news/"],
+  "messmer_news_p3": ["Press Releases (page 3)", "Office of Rep. Mark Messmer (house.gov)", "accessed 2026-10-10", "https://messmer.house.gov/news/documentquery.aspx?DocumentTypeID=27&Page=3"],
+  "messmer_heat": ["House Education and Workforce Committee Passes Messmer Deregulation Legislation", "Office of Rep. Mark Messmer (house.gov)", "2026-07-21", "https://messmer.house.gov/news/documentsingle.aspx?DocumentID=321"],
+  "messmer_hr2270": ["Messmer and House Leadership Rally Behind the Empowering Employer Child and Elder Care Solutions Act", "Office of Rep. Mark Messmer (house.gov)", "2026-01-13", "https://messmer.house.gov/news/documentsingle.aspx?DocumentID=195"],
+  "messmer_approps": ["Messmer Secures Major Funding Victories for Southern Indiana in Fiscal Year 2026 Appropriations Bills", "Office of Rep. Mark Messmer (house.gov)", "2026-01-26", "https://messmer.house.gov/news/documentsingle.aspx?DocumentID=200"],
+  "messmer_farmbill": ["Messmer Celebrates Passage of the 2026 Farm Bill in the House of Representatives", "Office of Rep. Mark Messmer (house.gov)", "2026-04-30", "https://messmer.house.gov/news/documentsingle.aspx?DocumentID=310"],
+  "messmer_childcare": ["House Passes Messmer-Led Child Care Reform Legislation to Improve Accountability for Taxpayer Dollars", "Office of Rep. Mark Messmer (house.gov)", "2026-06-04", "https://messmer.house.gov/news/documentsingle.aspx?DocumentID=314"],
+  "messmer_ndaa": ["Messmer Celebrates Passage of the FY27 National Defense Authorization Act in the House of Representatives", "Office of Rep. Mark Messmer (house.gov)", "2026-07-22", "https://messmer.house.gov/news/documentsingle.aspx?DocumentID=323"],
+  "insenate_messmer": ["Messmer Report: Thank you, Southwest Indiana", "Indiana Senate Republicans", "2024-08", "https://www.indianasenaterepublicans.com/messmer-report-thank-you-southwest-indiana"],
+  "dcfp_breakfast": ["Congressman Messmer highlights bipartisan achievements, tax concerns in Washington update", "Dubois County Free Press", "2025-03-10", "https://duboiscountyfreepress.com/congressman-highlights-bipartisan-achievements-tax-concerns-in-washington-update/"],
+  "ipm_shutdown": ["Indiana's House members vote along party lines to end shutdown", "Indiana Public Media", "2025-11-13", "https://www.ipm.org/news/2025-11-13/indianas-house-members-vote-along-party-lines-to-end-shutdown"],
+  "wnin_four_dems": ["Four Democrats compete for the chance to challenge Rep. Mark Messmer in Indiana's 8th Congressional District", "WNIN", "2026-04-17", "https://news.wnin.org/2026-04-17/four-democrats-compete-for-the-chance-to-challenge-rep-mark-messmer-in-indianas-8th-congressional-district"],
+  "wnin_trio": ["Trio of Dems vie for Indiana US House seat in primary; one candidate exits race", "WNIN", "2026-04-23", "https://news.wnin.org/2026-04-23/trio-of-dems-vie-for-indiana-us-house-seat-in-primary-one-candidate-exits-race?_amp=true"],
+  "wnin_forum": ["Democratic 8th District candidates to meet", "WNIN", "2026-04-09", "https://news.wnin.org/2026-04-09/democratic-8th-district-candidates-to-meet"],
+  "wnin_allen_primary": ["US House candidate Mary Allen one of 83 candidates with no-PAC-money pledge", "WNIN", "2026-05-06", "https://news.wnin.org/election-2026/2026-05-06/us-house-candidate-mary-allen-one-of-83-candidates-with-no-pac-money-pledge"],
+  "wnin_ad": ["Allen: Messmer Ad Paid for by Taxpayers", "WNIN", "2026-08-12", "https://news.wnin.org/2026-08-12/allen-messmer-ad-paid-for-by-taxpayers"],
+  "wnin_allen_aug": ["US Rep. Candidate Mary Allen hears about 'costs' and 'corruption' on campaign trail", "WNIN", "2026-08-21", "https://news.wnin.org/election-2026/2026-08-21/us-rep-candidate-mary-allen-hears-about-costs-and-corruption-on-campaign-trail"],
+  "wnin_allen_aug2025": ["'This race is not going to be easy': Allen on facing incumbent Messmer", "WNIN", "2025-08-06", "https://news.wnin.org/2025-08-06/this-race-is-not-going-to-be-easy-allen-on-facing-incumbent-messmer"],
+  "ipm_allen_launch": ["Mary Allen vies for District 8 US Rep seat in 2026", "Indiana Public Media (WNIN)", "2025-08-04", "https://ipm.org/news/2025-08-04/mary-allen-vies-for-district-8-us-rep-seat-in-2026"],
+  "statehouse_file": ["8th District congressional race (TheStatehouseFile.com, republished)", "The Indiana Citizen", "2026-04-29", "https://indianacitizen.org/?p=23719"],
+  "gcdw_results": ["UPDATED Indiana Primary Election results", "Greene County Daily World", "2026-05-06", "https://www.suncommercial.com/gcdailyworld/article_6ba41975-872f-5c3e-961d-2b6e80cb3dd0.html"],
+  "wiki_in_house": ["2026 United States House of Representatives elections in Indiana", "Wikipedia", "accessed 2026-10-10", "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Indiana"],
+  "fec_in08": ["2026 House elections: Indiana District 8 (candidate financial totals through 2026-06-30)", "Federal Election Commission", "accessed 2026-10-10", "https://www.fec.gov/data/elections/house/IN/08/2026/"],
+  "allen_home": ["Mary Allen for Congress", "Mary Allen for Congress (campaign)", "accessed 2026-10-10", "https://www.maryallenforcongress.com/"],
+  "allen_meet": ["Meet Mary", "Mary Allen for Congress (campaign)", "accessed 2026-10-10", "https://www.maryallenforcongress.com/meetmary"],
+  "allen_priorities": ["Priorities", "Mary Allen for Congress (campaign)", "accessed 2026-10-10", "https://www.maryallenforcongress.com/priorities"],
+  "allen_press": ["Press Releases", "Mary Allen for Congress (campaign)", "accessed 2026-10-10", "https://www.maryallenforcongress.com/press-releases-1"],
+  "rc_2025_070": ["Roll Call 70: H.R. 1968, Full-Year Continuing Appropriations and Extensions Act, 2025", "Clerk of the U.S. House", "2025-03-11", "https://clerk.house.gov/Votes/202570"],
+  "rc_2025_145": ["Roll Call 145: H.R. 1, On Passage", "Clerk of the U.S. House", "2025-05-22", "https://clerk.house.gov/Votes/2025145"],
+  "rc_2025_168": ["Roll Call 168: H.R. 4, Rescissions Act", "Clerk of the U.S. House", "2025-06-12", "https://clerk.house.gov/Votes/2025168"],
+  "rc_2025_190": ["Roll Call 190: H.R. 1, On Motion to Concur in the Senate Amendment", "Clerk of the U.S. House", "2025-07-03", "https://clerk.house.gov/Votes/2025190"],
+  "rc_2025_281": ["Roll Call 281: H.R. 5371, Continuing Appropriations and Extensions Act, 2026", "Clerk of the U.S. House", "2025-09-19", "https://clerk.house.gov/Votes/2025281"],
+  "rc_2025_285": ["Roll Call 285: H.R. 5371, On Motion to Concur in the Senate Amendment", "Clerk of the U.S. House", "2025-11-12", "https://clerk.house.gov/Votes/2025285"],
+  "rc_2025_289": ["Roll Call 289: H.R. 4405, Epstein Files Transparency Act", "Clerk of the U.S. House", "2025-11-18", "https://clerk.house.gov/Votes/2025289"],
+  "rc_2025_349": ["Roll Call 349: H.R. 6703, Lower Health Care Premiums for All Americans Act", "Clerk of the U.S. House", "2025-12-17", "https://clerk.house.gov/Votes/2025349"],
+  "rc_2026_020": ["Roll Call 20: H.R. 2270, On Motion to Recommit", "Clerk of the U.S. House", "2026-01-13", "https://clerk.house.gov/Votes/202620"],
+  "rc_2026_045": ["Roll Call 45: H.R. 7148, Consolidated Appropriations Act, 2026", "Clerk of the U.S. House", "2026-01-22", "https://clerk.house.gov/Votes/202645"],
+  "rc_2026_053": ["Roll Call 53: H.R. 7148, On Motion to Concur in the Senate Amendments", "Clerk of the U.S. House", "2026-02-03", "https://clerk.house.gov/Votes/202653"],
+  "rc_2026_085": ["Roll Call 85: H.Con.Res. 38, Iran war powers resolution", "Clerk of the U.S. House", "2026-03-05", "https://clerk.house.gov/Votes/202685"],
+  "rc_2026_114": ["Roll Call 114: H.Con.Res. 40, Iran war powers resolution", "Clerk of the U.S. House", "2026-04-16", "https://clerk.house.gov/Votes/2026114"],
+  "rc_2026_154": ["Roll Call 154: H.R. 7567, Farm, Food, and National Security Act", "Clerk of the U.S. House", "2026-04-30", "https://clerk.house.gov/Votes/2026154"],
+  "rc_2026_170": ["Roll Call 170: H.Con.Res. 75, Iran war powers resolution", "Clerk of the U.S. House", "2026-05-14", "https://clerk.house.gov/Votes/2026170"],
+  "rc_2026_198": ["Roll Call 198: H.R. 7726, On Passage", "Clerk of the U.S. House", "2026-06-03", "https://clerk.house.gov/Votes/2026198"],
+  "rc_2026_199": ["Roll Call 199: H.Con.Res. 86, Iran war powers resolution", "Clerk of the U.S. House", "2026-06-03", "https://clerk.house.gov/Votes/2026199"],
+  "rc_2026_272": ["Roll Call 272: H.R. 9770, continuing appropriations for fiscal year 2027", "Clerk of the U.S. House", "2026-07-21", "https://clerk.house.gov/Votes/2026272"],
+  "rc_2026_278": ["Roll Call 278: H.R. 8800, National Defense Authorization Act for Fiscal Year 2027", "Clerk of the U.S. House", "2026-07-22", "https://clerk.house.gov/Votes/2026278"],
+  "rc_2026_282": ["Roll Call 282: H.Con.Res. 89, Iran war powers resolution", "Clerk of the U.S. House", "2026-07-23", "https://clerk.house.gov/Votes/2026282"],
+  "rc_2026_307": ["Roll Call 307: H.Con.Res. 93, Iran war powers resolution", "Clerk of the U.S. House", "2026-09-15", "https://clerk.house.gov/Votes/2026307"]
+ }
+}
