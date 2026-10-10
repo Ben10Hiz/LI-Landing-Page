@@ -1,0 +1,235 @@
+{
+ "race_id": "in-state-representative-district-038",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Heath VanNatter",
+  "party": "Republican",
+  "summary": "Heath VanNatter, a Kokomo Republican and homebuilder, has represented House District 38 since 2010 {caucus_vannatter}. He chairs the House Employment, Labor and Pensions Committee and also serves on the Commerce, Small Business and Economic Development and Public Policy committees {caucus_vannatter}.",
+  "record": [
+   "Committees: Employment, Labor and Pensions (chair); Commerce, Small Business and Economic Development; Public Policy. 2026 interim: chair of the Interim Study Committee on Employment and Labor and member of the Pension Management Oversight committee {caucus_vannatter} {caucus_interim_2026}.",
+   "Jan. 2025: Authored HB 1630, which would have legalized marijuana for adults 21 and older and created a Cannabis Commission; it was referred to the Courts and Criminal Code Committee and received no further action {fd_hb1630} {wndu_hb1630}.",
+   "April 10, 2025: Voted yes when the House passed SEA 1, the 2025 property-tax law, 65-29 {rc_sea1_433}. April 25, 2025: Voted yes on the 2025 state budget conference report (HEA 1001), adopted 66-27 {rc_hb1001_576}.",
+   "Dec. 5, 2025: Voted yes on HB 1032, the mid-decade congressional redistricting bill, which passed the House 57-41 {rc_hb1032_28}; the Senate rejected it 31-19 on Dec. 11 {wndu_senate_rejects}.",
+   "2026 session: House sponsor of SEA 185, which targets foreign-made vaping products with harmful chemicals and tightens tobacco and e-cigarette permit and age-verification rules {caucus_sea185}. Co-authored HEA 1145, which provides a one-time extra payment to retired public employees by Oct. 1, 2026 {caucus_hea1145}."
+  ]
+ },
+ "race_context": [
+  "House District 38 includes all of Carroll and Tipton counties and parts of Cass, Clinton, Howard and Tippecanoe counties, per the House Republican caucus {caucus_vannatter}; the Pharos-Tribune describes it as including the west side of Kokomo and southern Cass County {pharos_spotlight}.",
+  "May 5, 2026 primaries: VanNatter won the Republican nomination with 4,676 votes (58.5%) to 3,316 (41.5%) for Mark Hufford; Nate Stout was unopposed for the Democratic nomination {wiki_2026}. In Howard County, VanNatter received 1,432 votes to Hufford's 733 {howard_results}.",
+  "Key differences: Stout emphasizes public school funding, rural health care and Medicaid, and opposes prioritizing private-school vouchers {br_stout} {kt_stout}; VanNatter voted for the 2025 budget, property-tax law and redistricting bill {rc_hb1001_576} {rc_sea1_433} {rc_hb1032_28} and has authored a bill to legalize adult-use marijuana {fd_hb1630}.",
+  "The Cass County Democrats hosted a candidate spotlight with Stout in Logansport in August 2026 {pharos_spotlight}. No debate between the candidates was found."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Heath R. VanNatter",
+   "summary": "Heath VanNatter is the Republican incumbent, first elected in 2010, and chairs the House Employment, Labor and Pensions Committee {caucus_vannatter}. He won a contested Republican primary in May 2026 {wiki_2026}.",
+   "website": null,
+   "background": [
+    "Owner of VanNatter Construction and a small business owner for more than 20 years; past president of the Howard County Home Builders Association; director of the Indiana Builders Association and the National Association of Home Builders; former Howard County Plan Commission member; Northwestern High School graduate; lives in Howard County {caucus_vannatter}."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Republican primary over Mark Hufford, 58.5% to 41.5% {wiki_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "The caucus says he emphasizes economic development, job retention, fiscal responsibility and affordable housing {caucus_vannatter}."
+     ]
+    },
+    {
+     "topic": "Public safety",
+     "items": [
+      "Said of SEA 185: \"This new law is about drawing a clear line to protect Hoosiers and prevent dangerous products from reaching consumers\" {caucus_sea185}."
+     ]
+    },
+    {
+     "topic": "Retirement & pensions",
+     "items": [
+      "Said the extra retiree payment in HEA 1145 \"ensures their fixed incomes can better keep pace with rising costs\" {caucus_hea1145}."
+     ]
+    },
+    {
+     "topic": "Property taxes",
+     "items": [
+      "Voted for SEA 1 (2025) {rc_sea1_433}."
+     ]
+    },
+    {
+     "topic": "Other",
+     "items": [
+      "On HB 1630 (2025), said \"It's time for Indiana to join our neighbors and most of the rest of the country in legalizing marijuana\" {fox59_hb1630}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No statements by VanNatter about Stout were found."
+   ],
+   "plans": [
+    "Said interim study committee work would support workers while being responsible with taxpayer dollars: \"Thoughtful data-driven policymaking will ensure we continue supporting workers\" {caucus_interim_2026}."
+   ],
+   "endorsements_finance": [
+    "No 2026 endorsements or fundraising figures were found."
+   ],
+   "gaps": [
+    "No campaign website found.",
+    "Search snippets described a Journal & Courier primary Q&A in which Hufford cited concerns over land and water use for solar, wind and data projects and opposed marijuana legalization, and VanNatter named jobs and the economy as his top issue; the article (and a reprint) returned 403 and was not read.",
+    "That snippet also described the district as reaching Monticello, which is not in the counties the caucus lists; unverified.",
+    "No fundraising data found."
+   ]
+  },
+  {
+   "ballot_name": "Nate Stout",
+   "summary": "Nate Stout, a Tipton native and business consultant, is the Democratic nominee {kt_stout} {br_stout}. He emphasizes public schools, rural health care and local economies {kt_stout}.",
+   "website": null,
+   "background": [
+    "Owner and founder of Stout Consulting Group since 2025; previously in sales management at Séura, Johnson Outdoors and Callaway Golf; bachelor's degree in marketing from Indiana University Bloomington {br_stout}.",
+    "Tipton native {kt_stout}."
+   ],
+   "path_to_ballot": [
+    "Announced in February 2026 {kt_stout}; unopposed in the May 5, 2026 Democratic primary {wiki_2026} {howard_results}."
+   ],
+   "positions": [
+    {
+     "topic": "Education",
+     "items": [
+      "Wants to \"Raise teacher pay and restore respect for the teaching profession\" and \"Fully fund our public schools first,\" with private and voucher programs not taking priority {br_stout}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Wants to \"Protect our Medicaid program,\" keep rural hospitals and clinics open and staffed, and expand maternal and neonatal care in rural counties {br_stout}."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Supports small-town grocery and local service businesses, main street renewal, and working with local leaders on grants and infrastructure such as broadband and roads {br_stout}."
+     ]
+    },
+    {
+     "topic": "Government spending",
+     "items": [
+      "Says he wants to hold government accountable for its spending and that the election will decide \"whether resources continue to be siphoned away from rural communities\" {kt_stout}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "No direct statements about VanNatter were found {kt_stout}."
+   ],
+   "plans": [
+    "Presents his platform as practical rather than party-line, focused on education, rural health care and local economies {kt_stout}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or fundraising figures were found."
+   ],
+   "gaps": [
+    "His campaign site (hoosierstoelectnatestout.com) redirected to a placeholder page or returned errors on Oct. 10, 2026; policy text was read via BallotReady.",
+    "Little news coverage beyond his February 2026 announcement and an August 2026 Cass County Democrats event.",
+    "No fundraising data found."
+   ]
+  }
+ ],
+ "sources": {
+  "caucus_vannatter": [
+   "State Rep. Heath VanNatter: biography and committees",
+   "Indiana House Republican Caucus",
+   "accessed 2026-10-10",
+   "https://www.indianahouserepublicans.com/members/general/heath-vannatter/"
+  ],
+  "caucus_interim_2026": [
+   "Rep. VanNatter receives 2026 summer study committee appointments",
+   "Indiana House Republican Caucus",
+   "2026-06-29",
+   "https://www.indianahouserepublicans.com/news/press-releases/rep.-vannatter-receives-2026-summer-study-committee-appointments/"
+  ],
+  "caucus_sea185": [
+   "Governor ceremonially signs new law sponsored by VanNatter banning dangerous Chinese-produced vaping products",
+   "Indiana House Republican Caucus",
+   "2026-05-04",
+   "https://www.indianahouserepublicans.com/news/press-releases/governor-ceremonially-signs-new-law-sponsored-by-vannatter-banning-dangerous-chinese-produced-vaping-products/"
+  ],
+  "caucus_hea1145": [
+   "Governor ceremonially signs VanNatter, Karickhoff legislation to support Hoosier retirees with thirteenth check",
+   "Indiana House Republican Caucus",
+   "2026-04-30",
+   "https://www.indianahouserepublicans.com/news/press-releases/governor-ceremonially-signs-vannatter-karickhoff-legislation-to-support-hoosier-retirees-with-thirteenth-check/"
+  ],
+  "fd_hb1630": [
+   "HB 1630 (2025): Cannabis legalization",
+   "FastDemocracy",
+   "accessed 2026-10-10",
+   "https://fastdemocracy.com/bill/in/2025/bills/INB00014482"
+  ],
+  "wndu_hb1630": [
+   "Lawmakers introduce a new bill to legalize marijuana in Indiana",
+   "WNDU",
+   "2025-01-17",
+   "https://www.wndu.com/2025/01/17/lawmakers-introduce-new-bill-legalize-marijuana-indiana"
+  ],
+  "fox59_hb1630": [
+   "Indiana Republicans introduce bill to legalize recreational marijuana",
+   "Fox59",
+   "2025-01",
+   "https://fox59.com/indianapolitics/indiana-republicans-introduce-bill-to-legalize-recreational-marijuana/amp/"
+  ],
+  "howard_results": [
+   "2026 Primary Election Official Results Summary",
+   "Howard County Election Board",
+   "2026-05",
+   "https://www.in.gov/counties/howard/files/upl/elections/2026/primary/Official-Results-Summary.pdf"
+  ],
+  "pharos_spotlight": [
+   "Democratic candidates for Indiana House seats to visit Logansport Wednesday",
+   "Pharos-Tribune",
+   "2026-08-18",
+   "https://www.pharostribune.com/news/article_2862e061-9b21-451e-a57b-3f510973bcf1.html"
+  ],
+  "kt_stout": [
+   "Nate Stout announces campaign for Indiana House District 38",
+   "Kokomo Tribune",
+   "2026-02-12",
+   "https://www.kokomotribune.com/news/local_news/nate-stout-announces-campaign-for-indiana-house-district-38/article_20d06a13-4dbe-4f0c-ae59-28db3587ff80.html"
+  ],
+  "br_stout": [
+   "Nate Stout",
+   "BallotReady",
+   "accessed 2026-10-10",
+   "https://www.ballotready.org/people/nate-stout"
+  ],
+  "rc_hb1032_28": [
+   "House Roll Call 28: HB 1032 (Redistricting), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-12-05",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  ],
+  "rc_sea1_433": [
+   "House Roll Call 433: SB 1 (Local government finance), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-10",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  ],
+  "rc_hb1001_576": [
+   "House Roll Call 576: HB 1001 (State budget), conference committee report",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-25",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  ],
+  "wiki_2026": [
+   "2026 Indiana House of Representatives election",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  ],
+  "wndu_senate_rejects": [
+   "Indiana Senate rejects redistricting bill",
+   "WNDU / The Associated Press",
+   "2025-12-11",
+   "https://www.wndu.com/2025/12/11/indiana-senate-rejects-redistricting-bill"
+  ]
+ }
+}

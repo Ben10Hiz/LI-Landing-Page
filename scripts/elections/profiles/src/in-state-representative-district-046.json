@@ -1,0 +1,168 @@
+{
+ "race_id": "in-state-representative-district-046",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Bob Heaton",
+  "party": "Republican",
+  "summary": "Bob Heaton, a Terre Haute financial services business owner and former Indiana State University basketball player, has represented House District 46 since 2010 {caucus_heaton}. He is the House majority whip and chairs the Higher Education Subcommittee of the Ways and Means Committee, which writes the House budget {caucus_heaton} {caucus_heaton_2025wrap}.",
+  "record": [
+   "Leadership and committees: Majority whip; chair of the Ways and Means Higher Education Subcommittee; member of Financial Institutions {caucus_heaton}.",
+   "2025 session: Co-authored HEA 1253, which lets school-based child care programs serve children from across a school corporation, extends child care voucher waivers from two to three years and lets multi-site centers operate under one license {caucus_hea1253}. Co-authored HEA 1041, which bars biological males from competing in women's sports at the college level {caucus_heaton_2025wrap}.",
+   "April 10, 2025: Voted yes on SEA 1, the 2025 property-tax law, which passed the House 65-29 {rc_sea1_433}. April 25, 2025: Voted yes on the 2025 state budget conference report (HEA 1001), adopted 66-27 {rc_hb1001_576}; he said he helped craft the budget as a Ways and Means member {caucus_heaton_2025wrap}.",
+   "Dec. 5, 2025: Voted yes on HB 1032, the mid-decade congressional redistricting bill, which passed the House 57-41 {rc_hb1032_28}.",
+   "2026 session: Co-authored House Resolution 28, which calls the national debt a national security threat and urges Congress to adopt a structured budget process; it passed the Ways and Means Committee in February 2026 {caucus_hr28}.",
+   "October 2026: With Rep. Tim Yocum, welcomed Gov. Mike Braun's suspension of off-road diesel restrictions so farmers could use it for farm hauling during harvest, after lawmakers urged relief {caucus_diesel}."
+  ]
+ },
+ "race_context": [
+  "House District 46 includes all of Owen County and portions of Clay, Monroe and Vigo counties {caucus_heaton}.",
+  "In the May 5, 2026 Republican primary, Heaton defeated former Brazil Mayor Tom Arthur, 4,479 votes (68.9%) to 2,022 (31.1%), according to Wikipedia's results table {wiki_2026} {ts_primary}. James Pittsford III was the only Democrat listed {wiki_2026}.",
+  "Heaton was re-elected with 67.9% of the vote in 2024 {wiki_2026}.",
+  "No debate or forum for the general election was found.",
+  "Key differences: Pittsford proposes eliminating the state sales tax on residential utility bills and ending state-subsidized vouchers for higher-income families, and says the House and Senate supermajorities have resulted in poor oversight of tax dollars {pittsford_home}; Heaton voted for and defends the 2025 budget, which expanded school choice to all families, and SEA 1 {caucus_heaton_2025wrap} {rc_hb1001_576} {rc_sea1_433}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Bob Heaton",
+   "summary": "Bob Heaton is the Republican incumbent, first elected in 2010, and serves as House majority whip {caucus_heaton}. His recent work includes the 2025 budget, child care licensing changes and a resolution on the national debt {caucus_heaton_2025wrap} {caucus_hea1253} {caucus_hr28}.",
+   "website": null,
+   "background": [
+    "Grew up on a family farm in Clay County; played basketball at Indiana State University, including the 1978-79 season, and earned a business administration degree {caucus_heaton}.",
+    "Has run Heaton Financial Services in Terre Haute since 2003 and has served on several local community boards {caucus_heaton}.",
+    "Lives in the Wabash Valley {caucus_heaton}."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Republican primary over Tom Arthur with 68.9% of the vote {wiki_2026}. Heaton did not fill out the Tribune-Star's pre-primary candidate questionnaire {ts_primary}."
+   ],
+   "positions": [
+    {
+     "topic": "Property taxes",
+     "items": [
+      "Supported SEA 1, saying \"Two-thirds of homeowners will see a lower property tax bill next year than they did this year\" {caucus_heaton_2025wrap} {rc_sea1_433}."
+     ]
+    },
+    {
+     "topic": "Budget & spending",
+     "items": [
+      "Described the 2025 budget as balanced while funding essential services, and said it \"increases K-12 tuition support by $640 million over the next two years\" {caucus_heaton_2025wrap}.",
+      "Said of the national debt: \"If we're serious about protecting their future, we have to be serious about restoring fiscal responsibility.\" {caucus_hr28}"
+     ]
+    },
+    {
+     "topic": "Child care",
+     "items": [
+      "Said HEA 1253 \"cuts unnecessary bureaucracy and gives providers the flexibility they need to grow and serve more families\" {caucus_hea1253}."
+     ]
+    },
+    {
+     "topic": "Energy & utilities",
+     "items": [
+      "Said after the 2026 session that \"Making sure utilities and energy are more affordable was a key part of that effort,\" in a release highlighting HEA 1002 on utility performance-based accountability {caucus_heaton_session26}."
+     ]
+    },
+    {
+     "topic": "Agriculture",
+     "items": [
+      "Said \"Lowering operating costs during harvest season means farmers can save money\" in welcoming diesel-fuel relief for farmers {caucus_diesel}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No statements by Heaton about Pittsford were found."
+   ],
+   "plans": [
+    "No 2026 campaign platform was found; his caucus releases emphasize keeping costs down and utility affordability {caucus_heaton_session26}."
+   ],
+   "endorsements_finance": [
+    "Endorsed by Indiana Farm Bureau's AgELECT PAC for the 2026 primary {infb_endorse}. Wikipedia also lists primary endorsements from President Donald Trump, Gov. Mike Braun, the NFIB Indiana PAC and the NRA Political Victory Fund {wiki_2026}."
+   ],
+   "gaps": [
+    "No 2026 campaign website or candidate survey responses found.",
+    "No fundraising data found.",
+    "The Tribune-Star's pre-primary article was mostly behind a paywall; its full contents were not read.",
+    "No statements from Heaton on redistricting or data centers were found."
+   ]
+  },
+  {
+   "ballot_name": "James H. Pittsford (Jimmy), III",
+   "summary": "Jimmy Pittsford is a retired union plumber and steamfitter from the Ellettsville area running as a Democrat {pittsford_about}. He proposes removing the state sales tax from residential utility bills, fully funding public schools and opposing tolls on Interstate 70 {pittsford_home}.",
+   "website": "https://www.pittsford4indiana.com/",
+   "background": [
+    "Born in Bloomington, grew up in Ellettsville and graduated from Edgewood High School {pittsford_about}.",
+    "Apprenticed with Plumbers and Steamfitters Local 136 and worked in the trade for 40 years before retiring; served two terms on the local's executive board and one on its finance committee {pittsford_about}.",
+    "Member of Bethel Baptist Church in Owen County {pittsford_about}."
+   ],
+   "path_to_ballot": [
+    "Was the only Democrat listed in the May 5, 2026 primary {wiki_2026} {br_pittsford}."
+   ],
+   "positions": [
+    {
+     "topic": "Energy & utilities",
+     "items": [
+      "Proposes eliminating the 7% state sales tax on residential utility bills, which he estimates would save most residential customers about $157 a year {pittsford_home}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Supports fully funding public schools and \"eliminating state subsidized vouchers for our most affluent citizens\" {pittsford_home}."
+     ]
+    },
+    {
+     "topic": "Transportation",
+     "items": [
+      "Wants more road and infrastructure funding and will \"oppose the establishment of making Interstate 70 a toll road\" {pittsford_home}."
+     ]
+    },
+    {
+     "topic": "Government accountability",
+     "items": [
+      "Says he will work to \"restore accountability and public integrity against public corruption in our state government\" {pittsford_home}."
+     ]
+    },
+    {
+     "topic": "Labor",
+     "items": [
+      "Says the Statehouse has undervalued the working class and that he wants to be its voice in the House {pittsford_about}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Does not mention Heaton by name on his site, but says \"Super- majorities in the House and Senate have resulted in poor management and oversight of our tax dollars.\" {pittsford_home}"
+   ],
+   "plans": [
+    "His site features a \"Pothole Report\" series on local road conditions {pittsford_home}."
+   ],
+   "endorsements_finance": [
+    "His campaign lists endorsements from the Indiana State AFL-CIO, United Mine Workers of America, Plumbers and Steamfitters Locals 136 and 440, Indiana Stonewall Democrats and former state Rep. Vern Tincher {pittsford_endorse}."
+   ],
+   "gaps": [
+    "Very little independent news coverage of Pittsford was found.",
+    "No fundraising data found.",
+    "His current town of residence is not stated on his site (campaign mailing address is in Ellettsville).",
+    "No statements on property taxes, redistricting or data centers were found."
+   ]
+  }
+ ],
+ "sources": {
+  "caucus_heaton": ["State Rep. Bob Heaton", "Indiana House Republicans", "accessed 2026-10-10", "https://www.indianahouserepublicans.com/members/leadership/bob-heaton/"],
+  "caucus_heaton_2025wrap": ["Heaton: Wrapping up the 2025 legislative session", "Indiana House Republicans", "2025-04-30", "https://www.indianahouserepublicans.com/news/press-releases/heaton-wrapping-up-the-2025-legislative-session/"],
+  "caucus_hea1253": ["Legislation co-authored by Rep. Heaton to simplify child care licensing moves to the governor's desk", "Indiana House Republicans", "2025-04", "https://www.indianahouserepublicans.com/news/press-releases/legislation-co-authored-by-rep.-heaton-to-simplify-child-care-licensing-moves-to-the-governor-s-desk/"],
+  "caucus_hr28": ["Resolution co-authored by Rep. Heaton urging action on national debt passes House Ways and Means Committee", "Indiana House Republicans", "2026-02-17", "https://www.indianahouserepublicans.com/news/press-releases/resolution-co-authored-by-rep.-heaton-urging-action-on-national-debt-passes-house-ways-and-means-committee/"],
+  "caucus_heaton_session26": ["Reps. Heaton, Yocum: Legislative session ends with new laws to help Hoosiers", "Indiana House Republicans", "2026-03-25", "https://www.indianahouserepublicans.com/news/press-releases/reps.-heaton-yocum-legislative-session-ends-with-new-laws-to-help-hoosiers/"],
+  "caucus_diesel": ["Reps. Heaton, Yocum: Governor answers lawmakers' call to provide diesel fuel relief for farmers", "Indiana House Republicans", "2026-10-05", "https://www.indianahouserepublicans.com/news/press-releases/reps.-heaton-yocum-governor-answers-lawmakers-call-to-provide-diesel-fuel-relief-for-farmers/"],
+  "rc_hb1032_28": ["House Roll Call 28: HB 1032 (Redistricting), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-12-05", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"],
+  "rc_sea1_433": ["House Roll Call 433: SB 1 (Local government finance), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-04-10", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"],
+  "rc_hb1001_576": ["House Roll Call 576: HB 1001 (State budget), conference committee report", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-04-25", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"],
+  "wiki_2026": ["2026 Indiana House of Representatives election", "Wikipedia", "accessed 2026-10-10", "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"],
+  "ts_primary": ["Primary race: Indiana State Representative District 46 - Republicans", "Tribune-Star", "2026-04-24", "https://www.tribstar.com/news/local_news/primary-race-indiana-state-representative-district-46---republicans/article_395c8b94-f3c9-471a-ac33-099f3a6a425e.html"],
+  "infb_endorse": ["Indiana Farm Bureau PACs endorse 33 candidates for primary", "Indiana Farm Bureau", "2026-03-30", "https://www.infarmbureau.org/resources/news-media/news-article/2026/03/30/indiana-farm-bureau-pacs-endorse-33-candidates-for-primary"],
+  "pittsford_home": ["Pittsford for Indiana", "Pittsford campaign", "accessed 2026-10-10", "https://www.pittsford4indiana.com/"],
+  "pittsford_about": ["About", "Pittsford campaign", "accessed 2026-10-10", "https://www.pittsford4indiana.com/about"],
+  "pittsford_endorse": ["Endorsements", "Pittsford campaign", "accessed 2026-10-10", "https://www.pittsford4indiana.com/endorsements"],
+  "br_pittsford": ["James Pittsford III", "BallotReady", "accessed 2026-10-10", "https://www.ballotready.org/people/james-pittsford-iii"]
+ }
+}

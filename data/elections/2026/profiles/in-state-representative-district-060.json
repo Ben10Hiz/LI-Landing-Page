@@ -1,0 +1,288 @@
+{
+ "race_id": "in-state-representative-district-060",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": {
+  "title": "Indiana State Representative",
+  "summary": "Members of the Indiana House of Representatives write and vote on state laws as part of the Indiana General Assembly. The House has 100 members, each representing one district for a two-year term [1].",
+  "facts": [
+   {
+    "label": "Term",
+    "value": "2 years [1]"
+   },
+   {
+    "label": "Term limit",
+    "value": "None [1]"
+   },
+   {
+    "label": "Seats",
+    "value": "100 [1]"
+   },
+   {
+    "label": "On the 2026 ballot",
+    "value": "All 100 [2]"
+   }
+  ],
+  "duties": [
+   "Introduces and votes on state legislation as one of the two chambers of the Indiana General Assembly [1].",
+   "Must be at least 21 years old when taking office and have lived in the district for at least a year [1]."
+  ],
+  "recent_changes": []
+ },
+ "incumbent": {
+  "name": "Peggy Mayfield",
+  "party": "Republican",
+  "summary": "Rep. Peggy Mayfield (R-Martinsville) has represented House District 60 since 2012 and serves as vice chair of the Public Policy Committee and on the Insurance and Ways and Means committees, per the House Republican caucus [3]. In December 2025 she was one of 12 House Republicans who voted against the mid-decade congressional redistricting bill [4, 5].",
+  "record": [
+   "Committees: Public Policy (vice chair); Insurance; Ways and Means [3].",
+   "2025: Co-authored House Enrolled Act 1198, raising the threshold under which cities, towns and counties can use their own workforce for public works projects from $250,000 to $375,000; ceremonially signed in June 2025 [6].",
+   "April 10, 2025: Voted yes when the House passed SEA 1, the 2025 property-tax law, 65-29 [7]. April 25, 2025: Voted yes on the 2025 state budget conference report (HEA 1001), adopted 66-27 [8].",
+   "Oct. 30, 2025: At a redistricting listening session in Martinsville, said \"The constituents' input will be the main driver of my decision\" and asked whether mid-cycle redistricting was legal [9]. Dec. 5, 2025: Voted no on HB 1032, which passed the House 57-41 [5, 4].",
+   "2026 session: Ushered House Concurrent Resolution 4, asking INDOT to name part of State Road 45 near IU's Assembly Hall for Bob Knight, and supported SEA 76 on cooperation with federal immigration detainers, per her session recap [10]."
+  ]
+ },
+ "race_context": [
+  "House District 60 includes portions of Johnson, Morgan and Monroe counties, per the House Republican caucus [3]; Mayfield lives in Martinsville [3].",
+  "May 5, 2026 Republican primary (certified): Mayfield 4,767 votes (about 66.6%), Mike Moore 1,635 (22.9%), David W. Waters 751 (10.5%) [11]. Carrie L. Syczylo was unopposed in the Democratic primary with 1,529 votes [11].",
+  "Mayfield was re-elected with 75.7% of the vote in 2024, per Wikipedia's compilation [12].",
+  "No debate or candidate forum for this race was found.",
+  "Key differences: Mayfield points to 2026 tax-relief and public-safety legislation [10]; Syczylo's published platform is general, emphasizing transparency, accountability and protecting rural communities, and does not address specific bills [13]."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Carrie L. Syczylo",
+   "summary": "Carrie Syczylo is a hairstylist and co-owner of a family coffee company in Morgan County who was unopposed in the Democratic primary [14, 11]. Her platform focuses on government transparency and rural communities [13].",
+   "website": "https://www.carriecareshd60.com",
+   "background": [
+    "Hairstylist focused on barbering; with her family co-owns Indiana Farm House Brew Coffee Co., started in Monrovia in 2018 and since expanded to Cloverdale [14].",
+    "Previously worked at Independent Residential Living caring for adults with physical and mental disabilities [14].",
+    "Lives in rural Morgan County [14]. Lists the Morgan County Democrats as an affiliation [15]."
+   ],
+   "path_to_ballot": [
+    "Unopposed in the May 5, 2026 Democratic primary, receiving 1,529 votes [11]."
+   ],
+   "positions": [
+    {
+     "topic": "Government transparency",
+     "items": [
+      "Says \"Hoosiers deserve to know how decisions are made and how policies impact their communities\" and that she supports policies promoting transparency and accountability at every level of government [13]."
+     ]
+    },
+    {
+     "topic": "Rural communities",
+     "items": [
+      "Supports policies that \"protect local resources, maintain community character\" and give rural residents access to services, including health care [13]."
+     ]
+    },
+    {
+     "topic": "Development",
+     "items": [
+      "Says decisions have too often favored corporate interests over local residents and that development decisions should consider long-term effects on families [13]."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Her campaign site does not mention Mayfield [14, 13]. She says \"People are my focus and priority, regardless of political party affiliation past or present\" [14]."
+   ],
+   "plans": [
+    "Says she will listen \"to the ideas and concerns of my constituents\" [14]."
+   ],
+   "endorsements_finance": [
+    "iVoterGuide lists the Indiana Reproductive Freedom PAC among her endorsements and a 2026 contribution from local Democratic organizations [15]. The Bloomington Chamber of Commerce says she is backed by Michelle Higgs, the district's 2024 Democratic nominee [16]."
+   ],
+   "gaps": [
+    "She did not answer iVoterGuide's questionnaire; no positions on property taxes, the budget, data centers, education or energy were found.",
+    "No news coverage of her campaign could be read (Reporter-Times and Herald-Times are paywalled).",
+    "No fundraising totals found."
+   ]
+  },
+  {
+   "ballot_name": "Peggy Mayfield",
+   "summary": "Peggy Mayfield is the Republican incumbent, first elected in 2012 [3]. She won a three-way primary in May 2026 after voting against the December 2025 congressional redistricting bill [11, 5].",
+   "website": "https://peggymayfield.com",
+   "background": [
+    "Retired; attended the IUPUI Purdue School of Engineering and Technology; has served on the Indiana Commission for Women and the Indiana Commission for Hispanic and Latino Affairs [3].",
+    "Lives in Martinsville [3]."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Republican primary with 4,767 votes over Mike Moore (1,635) and David W. Waters (751) [11]."
+   ],
+   "positions": [
+    {
+     "topic": "Taxes",
+     "items": [
+      "Said \"Providing tax relief was another important step toward easing financial burdens for working families\"; her recap cites HEA 1210 (2026), which expands property tax relief for veterans [10]. Voted for SEA 1 in 2025 [7]."
+     ]
+    },
+    {
+     "topic": "Public safety",
+     "items": [
+      "Said \"Public safety remains a top priority for me as your state representative\" and supported SEA 76 (2026) requiring local cooperation with federal immigration detainer requests [10]."
+     ]
+    },
+    {
+     "topic": "Local government",
+     "items": [
+      "On HEA 1198: \"Local governments know their communities and workforce capabilities best, and they shouldn't be held back by unnecessary regulations\" [6]."
+     ]
+    },
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "Before the vote, said constituents' input would drive her decision on mid-decade redistricting [9]; she then voted no on HB 1032 [5]. No public explanation of the vote was found."
+     ]
+    },
+    {
+     "topic": "Energy & utilities",
+     "items": [
+      "Her 2026 recap lists HEA 1002, which it says \"helps ensure energy remains affordable and reliable,\" among House Republican accomplishments [10]."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No statements by Mayfield about Syczylo were found."
+   ],
+   "plans": [
+    "No 2026 campaign platform was found; her campaign website does not appear to have been updated for 2026 [17]."
+   ],
+   "endorsements_finance": [
+    "iVoterGuide lists the NRA Political Victory Fund, NFIB Indiana, Gov. Mike Braun and Indiana Farm Bureau AgELECT among her endorsements [18]."
+   ],
+   "gaps": [
+    "She did not answer iVoterGuide's questionnaire.",
+    "iVoterGuide also lists Indiana Reproductive Freedom PAC as endorsing Mayfield; this appears inconsistent and was not verified.",
+    "Gov. Braun's endorsement is cited by Wikipedia to an IndyStar article about challengers to state senators; it was not independently verified.",
+    "No news coverage of the 2026 primary or general campaign could be read (Daily Journal blocked; Reporter-Times/Herald-Times paywalled). No fundraising data found."
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": 1,
+   "title": "Indiana House of Representatives",
+   "publisher": "Wikipedia",
+   "date": "accessed 2026-10-10",
+   "url": "https://en.wikipedia.org/wiki/Indiana_House_of_Representatives"
+  },
+  {
+   "id": 2,
+   "title": "2026 General Election Candidate List",
+   "publisher": "Indiana Election Division",
+   "date": "2026-09-22",
+   "url": "https://www.in.gov/sos/elections/candidate-information/"
+  },
+  {
+   "id": 3,
+   "title": "State Rep. Peggy Mayfield — House District 60",
+   "publisher": "Indiana House Republicans (caucus description)",
+   "date": "accessed 2026-10-10",
+   "url": "https://www.indianahouserepublicans.com/members/general/peggy-mayfield/"
+  },
+  {
+   "id": 4,
+   "title": "BILL ADVANCES: 12 House Republicans join Democrats to oppose redistricting, but map moves to Senate",
+   "publisher": "TheStatehouseFile.com (via The Indiana Citizen)",
+   "date": "2025-12-05",
+   "url": "https://indianacitizen.org/bill-advances-12-house-republicans-join-democrats-to-oppose-redistricting-but-map-moves-to-senate/"
+  },
+  {
+   "id": 5,
+   "title": "House Roll Call 28: HB 1032 (Redistricting), third reading",
+   "publisher": "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "date": "2025-12-05",
+   "url": "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  },
+  {
+   "id": 6,
+   "title": "Governor ceremonially signs bill co-authored by Mayfield to strengthen local government efficiency",
+   "publisher": "Indiana House Republicans",
+   "date": "2025-06-10",
+   "url": "https://www.indianahouserepublicans.com/news/press-releases/governor-ceremonially-signs-bill-co-authored-by-mayfield-to-strengthen-local-government-efficiency/"
+  },
+  {
+   "id": 7,
+   "title": "House Roll Call 433: SB 1 (Local government finance), third reading",
+   "publisher": "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "date": "2025-04-10",
+   "url": "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  },
+  {
+   "id": 8,
+   "title": "House Roll Call 576: HB 1001 (State budget), conference committee report",
+   "publisher": "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "date": "2025-04-25",
+   "url": "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  },
+  {
+   "id": 9,
+   "title": "Rejecting redistricting: Majority at ReCenter Indiana forum in Martinsville dislike redrawing of congressional districts",
+   "publisher": "The Indiana Citizen",
+   "date": "2025-10-31",
+   "url": "https://indianacitizen.org/rejecting-redistricting-majority-at-recenter-indiana-forum-in-martinsville-dislike-redrawing-of-congressional-districts/"
+  },
+  {
+   "id": 10,
+   "title": "Mayfield: Delivering for Hoosiers at the Statehouse — 2026 session recap",
+   "publisher": "Indiana House Republicans",
+   "date": "2026-03-19",
+   "url": "https://www.indianahouserepublicans.com/news/press-releases/mayfield-delivering-for-hoosiers-at-the-statehouse-2026-session-recap/"
+  },
+  {
+   "id": 11,
+   "title": "2026 Primary Election results (certified), State Representative",
+   "publisher": "Indiana Election Division, Indiana Election Results (ENR)",
+   "date": "2026-05",
+   "url": "https://enr.indianavoters.in.gov/site/index.html"
+  },
+  {
+   "id": 12,
+   "title": "2026 Indiana House of Representatives election",
+   "publisher": "Wikipedia",
+   "date": "accessed 2026-10-10",
+   "url": "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  },
+  {
+   "id": 13,
+   "title": "Issues & Priorities",
+   "publisher": "Carrie Syczylo campaign",
+   "date": "accessed 2026-10-10",
+   "url": "https://www.carriecareshd60.com/issues-priorites"
+  },
+  {
+   "id": 14,
+   "title": "Meet Carrie",
+   "publisher": "Carrie Syczylo campaign",
+   "date": "accessed 2026-10-10",
+   "url": "https://www.carriecareshd60.com/meet-carrie"
+  },
+  {
+   "id": 15,
+   "title": "Carrie L. Syczylo — Indiana State Representative, District 60",
+   "publisher": "iVoterGuide",
+   "date": "accessed 2026-10-10",
+   "url": "https://ivoterguide.com/candidate/95586/race/30709/election/1456"
+  },
+  {
+   "id": 16,
+   "title": "State Legislative Candidates 2026",
+   "publisher": "Greater Bloomington Chamber of Commerce",
+   "date": "accessed 2026-10-10",
+   "url": "https://www.chamberbloomington.org/state-legislative-candidates-2026.html"
+  },
+  {
+   "id": 17,
+   "title": "Peggy Mayfield (campaign website)",
+   "publisher": "Peggy Mayfield campaign",
+   "date": "accessed 2026-10-10",
+   "url": "https://peggymayfield.com/"
+  },
+  {
+   "id": 18,
+   "title": "Peggy Mayfield — Indiana State Representative, District 60",
+   "publisher": "iVoterGuide",
+   "date": "accessed 2026-10-10",
+   "url": "https://ivoterguide.com/candidate/29510/race/30709/election/1456"
+  }
+ ]
+}

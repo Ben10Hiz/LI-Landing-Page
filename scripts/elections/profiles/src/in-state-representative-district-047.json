@@ -1,0 +1,152 @@
+{
+ "race_id": "in-state-representative-district-047",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Robb Greene",
+  "party": "Republican",
+  "summary": "Robb Greene, a Shelbyville-area logistics consultant and former tech startup executive, has represented House District 47 since 2022 {caucus_greene}. His legislative work has focused on Hoosiers with disabilities and autism services {caucus_hea1454} {caucus_autism}, and since July 2025 he has also served as executive director of the Indiana Republican Party {iib_gop_director}.",
+  "record": [
+   "Committees: Agriculture and Rural Development; Commerce, Small Business and Economic Development; Family, Children and Human Affairs {caucus_greene}.",
+   "2023 session: Authored HEA 1454, which gives employers a tax credit for hiring people with intellectual, developmental or physical disabilities referred by vocational rehabilitation programs {caucus_hea1454}.",
+   "April 10, 2025: Voted yes on SEA 1, the 2025 property-tax law, which passed the House 65-29 {rc_sea1_433}. April 25, 2025: Voted yes on the 2025 state budget conference report (HEA 1001), adopted 66-27 {rc_hb1001_576}.",
+   "July 2025: Named executive director of the Indiana Republican Party by state party chair Lana Keesling while continuing to serve in the House {iib_gop_director}.",
+   "Dec. 5, 2025: Voted yes on HB 1032, the mid-decade congressional redistricting bill, which passed the House 57-41 {rc_hb1032_28}.",
+   "December 2025: Named Legislator of the Year by The Arc of Indiana and Legislative Champion by Indiana Providers of Effective Autism Treatment; The Arc credited his 2025 work with eliminating the Medicaid Waiver \"marriage penalty,\" and he served on Gov. Mike Braun's ABA Therapy Working Group {caucus_autism}.",
+   "2026 session: Authored HB 1102, letting schools, at a parent's request, facilitate applied behavior analysis (ABA) therapy on site for students moving from center- or home-based therapy; it passed the House in February 2026 {caucus_hb1102}."
+  ]
+ },
+ "race_context": [
+  "House District 47 includes portions of Johnson and Shelby counties in central Indiana {caucus_greene}.",
+  "The race is a rematch of 2024, when Greene was re-elected with 74% of the vote over Potter {wiki_2026} {wfyi_2024}.",
+  "Greene and Potter were the only candidates listed in their parties' May 5, 2026 primaries {wiki_2026}.",
+  "No debate or forum for this race was found.",
+  "Key differences: Potter opposes vouchers for private schools and wants state water-rights legislation and environmental reviews for new businesses {potter_platform}; Greene voted for the 2025 budget and SEA 1 {rc_hb1001_576} {rc_sea1_433} and has focused on disability and autism-therapy legislation {caucus_hb1102} {caucus_autism}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Robb Greene",
+   "summary": "Robb Greene is the Republican incumbent, first elected in 2022 {caucus_greene}. He has focused on employment and therapy access for people with disabilities and autism, and also serves as executive director of the Indiana Republican Party {caucus_hea1454} {caucus_hb1102} {iib_gop_director}.",
+   "website": "https://www.robbgreene.com",
+   "background": [
+    "Logistics consultant; previously on the founding team of the Indianapolis ghost-kitchen company ClusterTruck, where he was chief operating officer {caucus_greene}.",
+    "Bachelor's degree in political science from IUPUI {caucus_greene}.",
+    "Lives in western Shelby County {caucus_greene}."
+   ],
+   "path_to_ballot": [
+    "Was the only Republican listed in the May 5, 2026 primary {wiki_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Disability services",
+     "items": [
+      "Said of HEA 1454: \"Hoosiers with disabilities are valued community members and can be a great asset to any workforce.\" {caucus_hea1454}",
+      "Said of HB 1102 that transitions from therapy to school \"are some of the most fragile periods\" and the bill would help students \"have every opportunity to succeed in the classroom\" {caucus_hb1102}.",
+      "Said of autism policy: \"No issue is as personal to me as a legislator—or as a father—than this one.\" {caucus_autism}"
+     ]
+    },
+    {
+     "topic": "Property taxes",
+     "items": [
+      "Voted for SEA 1 (2025) {rc_sea1_433}."
+     ]
+    },
+    {
+     "topic": "Elections & redistricting",
+     "items": [
+      "Voted for HB 1032 (December 2025 congressional redistricting) {rc_hb1032_28}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No statements by Greene about Potter were found."
+   ],
+   "plans": [
+    "No 2026 campaign platform was found."
+   ],
+   "endorsements_finance": [
+    "No 2026 endorsements or fundraising figures were found."
+   ],
+   "gaps": [
+    "No 2026 campaign statements or candidate-survey answers found; he did not fill out WFYI's 2024 survey.",
+    "Final outcome of HB 1102 (2026) not confirmed.",
+    "Daily Journal (Franklin) coverage of the race could not be opened.",
+    "No statements on data centers or energy were found."
+   ]
+  },
+  {
+   "ballot_name": "Michael E Potter",
+   "summary": "Michael Potter is a Bargersville geologist and environmental project manager running as a Democrat for the second time {potter_home} {br_potter}. His platform centers on water rights, environmental review of new businesses and opposition to private-school vouchers {potter_platform}.",
+   "website": "https://friendsofmichaelpotter.com/",
+   "background": [
+    "Geologist who has worked since 2001 on identifying and cleaning up soil and water contamination and on environmental emergencies such as train derailments and chemical spills {potter_about}; BallotReady lists senior project manager roles at environmental firms {br_potter}.",
+    "Graduated from Center Grove High School; studied geology and environmental science at Indiana University Indianapolis, according to his 2024 WFYI profile {wfyi_2024}.",
+    "Lives in Bargersville {potter_home}."
+   ],
+   "path_to_ballot": [
+    "Was the only Democrat listed in the May 5, 2026 primary {wiki_2026} {br_potter}. Lost to Greene in 2024 {wiki_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Water & environment",
+     "items": [
+      "Supports state water-rights legislation and reuse of non-contact industrial process water rather than discharging it {potter_platform}.",
+      "Wants new businesses asked how they will obtain water and energy and how they will manage waste {potter_platform}."
+     ]
+    },
+    {
+     "topic": "Education",
+     "items": [
+      "Says \"Public school vouchers for private schools (particularly religious private schools) is bad policy,\" and supports students attending schools in their home district, with a transfer application for extenuating circumstances {potter_platform}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Calls abortion \"a medical procedure between a woman and her doctor\" and says government should stay out of that decision {potter_platform}."
+     ]
+    },
+    {
+     "topic": "Immigration",
+     "items": [
+      "Supports comprehensive federal immigration policy and legal pathways to residency and citizenship {potter_platform}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "No statements about Greene were found. His platform says the solution to Indiana's rankings on quality of life and education is voting out the legislative supermajority {potter_platform}."
+   ],
+   "plans": [
+    "No specific legislative proposals beyond the platform items above were found."
+   ],
+   "endorsements_finance": [
+    "His campaign's endorsements page says \"Coming soon!\" {potter_endorse}."
+   ],
+   "gaps": [
+    "His campaign platform page appears to date in part from the 2024 race; no clearly 2026-specific statements were found.",
+    "No fundraising data found.",
+    "No statements on property taxes, redistricting or data centers were found.",
+    "Little independent 2026 news coverage was found."
+   ]
+  }
+ ],
+ "sources": {
+  "caucus_greene": ["State Rep. Robb Greene", "Indiana House Republicans", "accessed 2026-10-10", "https://www.indianahouserepublicans.com/members/general/robb-greene/"],
+  "caucus_hea1454": ["Greene: Bill promoting job opportunities for Hoosiers with disabilities now law", "Indiana House Republicans", "2023-05-10", "https://www.indianahouserepublicans.com/news/press-releases/greene-bill-promoting-job-opportunities-for-hoosiers-with-disabilities-now-law/"],
+  "caucus_autism": ["Greene recognized for Statehouse efforts by autism advocacy groups", "Indiana House Republicans", "2025-12-23", "https://www.indianahouserepublicans.com/news/press-releases/greene-recognized-for-statehouse-efforts-by-autism-advocacy-groups/"],
+  "caucus_hb1102": ["Greene's bill to aid ABA therapy in schools moves to Senate", "Indiana House Republicans", "2026-02-09", "https://www.indianahouserepublicans.com/news/press-releases/greene-s-bill-to-aid-aba-therapy-in-schools-moves-to-senate/"],
+  "iib_gop_director": ["State representative named as new director of Indiana Republican Party", "Inside Indiana Business", "2025-07-10", "https://www.insideindianabusiness.com/articles/state-representative-named-as-new-director-of-indiana-republican-party"],
+  "rc_hb1032_28": ["House Roll Call 28: HB 1032 (Redistricting), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-12-05", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"],
+  "rc_sea1_433": ["House Roll Call 433: SB 1 (Local government finance), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-04-10", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"],
+  "rc_hb1001_576": ["House Roll Call 576: HB 1001 (State budget), conference committee report", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-04-25", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"],
+  "wiki_2026": ["2026 Indiana House of Representatives election", "Wikipedia", "accessed 2026-10-10", "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"],
+  "wfyi_2024": ["2024 Indiana State House District 47 voter guide", "WFYI", "accessed 2026-10-10", "https://wfyi.org/2024-indiana-state-house-district-47"],
+  "potter_home": ["Friends of Michael Potter", "Potter campaign", "accessed 2026-10-10", "https://friendsofmichaelpotter.com/"],
+  "potter_platform": ["Platform", "Potter campaign", "accessed 2026-10-10", "https://friendsofmichaelpotter.com/platform"],
+  "potter_about": ["About", "Potter campaign", "accessed 2026-10-10", "https://friendsofmichaelpotter.com/about"],
+  "potter_endorse": ["Endorsements", "Potter campaign", "accessed 2026-10-10", "https://friendsofmichaelpotter.com/endorsements"],
+  "br_potter": ["Michael E. Potter", "BallotReady", "accessed 2026-10-10", "https://www.ballotready.org/people/michael-e-potter"]
+ }
+}
