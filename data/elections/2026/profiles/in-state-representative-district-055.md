@@ -132,7 +132,7 @@ Campaign website: https://votevictoriamartz.org/
 
 **Energy & utilities**
 
-- Supports requiring Indiana Utility Regulatory Commission approval for the sale of a major utility, and says she would back eliminating the 7% sales tax on utility bills if rates are not reduced [15].
+- Supports requiring Indiana Utility Regulatory Commission approval for the sale of a major utility, and says she would support eliminating the 7% sales tax on utility bills if rates remain unchanged [15].
 
 **Child care**
 

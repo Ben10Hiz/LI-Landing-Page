@@ -1,0 +1,206 @@
+{
+ "race_id": "in-state-representative-district-057",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Craig Haggard",
+  "party": "Republican",
+  "summary": "Craig Haggard, a Mooresville commercial broker and retired Marine and Air National Guard pilot, has represented House District 57 since 2022 {caucus_haggard}. He did not seek reelection and instead challenged U.S. Rep. Jim Baird in the 4th Congressional District Republican primary, losing 60.5% to 30.5% on May 5, 2026 {exponent_primary} {wiki_2026}.",
+  "record": [
+   "Committees: Environmental Affairs; Roads and Transportation; Veterans Affairs and Public Safety {caucus_haggard}.",
+   "2026: Authored HEA 1184 on towing practices and signage {caucus_hea1184}; supported HEA 1210, which raised the property-tax deduction for totally disabled veterans to 100% of assessed value {caucus_hea1210}.",
+   "Voted no on SEA 1, the 2025 property-tax law (April 10, 2025) {rc_sea1_433}, and on the 2025 budget conference report, HEA 1001 (April 25, 2025) {rc_hb1001_576}; voted yes on HB 1032, the congressional redistricting bill (Dec. 5, 2025) {rc_hb1032_28}.",
+   "In a February 2026 column on his tenure, said he focused on \"serving veterans, bolstering public safety, protecting homeowners and upholding the 2nd Amendment\" {caucus_haggard_reflect}."
+  ]
+ },
+ "race_context": [
+  "House District 57 lies just southwest of Indianapolis and includes parts of Hendricks, Johnson and Morgan counties, including Mooresville {caucus_haggard} {cnhi_recount}.",
+  "Open seat: Haggard ran for Congress instead of reelection {wiki_2026}; he lost the 4th District Republican primary to Rep. Jim Baird {exponent_primary}. Haggard was reelected unopposed in 2024 {wiki_2024}.",
+  "May 5, 2026 Republican primary: Wes Bennett won a four-way race with 1,451 votes (31.2%) to Greg Knott's 1,372 (29.5%); a recount Knott requested in Hendricks County found no change, and the Indiana Recount Commission certified Bennett 3-0 in July {cnhi_recount}. Rob Stiles and Tina Turner also ran {wiki_2026}. Fortenberry was the only Democrat {wiki_2026}.",
+  "The Indiana Capital Chronicle describes the district as heavily Republican {cnhi_recount}.",
+  "Key differences: Bennett, a former state utility regulator and property-tax administrator, lists property tax reform, abortion restrictions and gun rights among his priorities {bennett_site}; no published policy positions from Fortenberry were found.",
+  "No debate or forum for this race was found."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Wes Bennett",
+   "summary": "Wes Bennett is a former Plainfield clerk-treasurer who led the state Department of Local Government Finance and later served on the Indiana Utility Regulatory Commission {cnhi_recount}. He won the Republican primary by 79 votes after a recount {cnhi_recount}.",
+   "website": "https://wesbennettfordistrict57.com/",
+   "background": [
+    "Commissioner of the Department of Local Government Finance under Gov. Eric Holcomb, then appointed to the Indiana Utility Regulatory Commission in 2023; resigned from the IURC in October 2025 before launching his campaign {cnhi_recount}.",
+    "Served twelve years as Plainfield clerk-treasurer and has private-sector experience in banking, insurance and investments, according to his campaign {bennett_site}.",
+    "Member of the American Legion, Fraternal Order of Police, Plainfield Optimist and the Plainfield and Mooresville chambers of commerce {bennett_site}."
+   ],
+   "path_to_ballot": [
+    "Filed Jan. 8, 2026 {jc_filings}; won the May 5 Republican primary with 31.2% over Greg Knott, Rob Stiles and Tina Turner, confirmed by recount {cnhi_recount} {wiki_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Property taxes",
+     "items": [
+      "Lists \"Continuing to Fight for Property Tax Reform\" among his priorities and cites six years leading the agency that oversees Indiana's property tax and assessment systems {bennett_site}."
+     ]
+    },
+    {
+     "topic": "Abortion",
+     "items": [
+      "Lists \"Protecting the Unborn\" among his priorities {bennett_site}."
+     ]
+    },
+    {
+     "topic": "Guns",
+     "items": [
+      "Lists \"Defending the Second Amendment\" among his priorities {bennett_site}."
+     ]
+    },
+    {
+     "topic": "Government spending",
+     "items": [
+      "Says he would protect taxpayers and advance \"affordable and sustainable government spending\" through data-driven decisions {bennett_site}."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Lists working for small businesses and jobs, supporting farmers and backing first responders among his priorities {bennett_site}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "No statements by Bennett about Haggard's record or about Fortenberry were found."
+   ],
+   "plans": [
+    "His campaign describes a goal of \"transparent governance, reliable and affordable services, and responsible fiscal management\" {bennett_site}."
+   ],
+   "endorsements_finance": [
+    "His campaign lists endorsements from U.S. Rep. Jim Baird, the Indiana Professional Fire Fighters, Indiana Right to Life, the Indiana Manufacturers Association, Indiana Business for Responsive Government, Sheriff Jack Sadler, Prosecutor Loren Delp, and Commissioners Dennis Dawes and Bob Gentry {bennett_site}."
+   ],
+   "gaps": [
+    "No news interviews or candidate survey responses were found; positions come only from campaign-site headings.",
+    "His record as an IURC commissioner on specific utility cases was not researched.",
+    "No fundraising data found."
+   ]
+  },
+  {
+   "ballot_name": "Suzanne Fortenberry",
+   "summary": "Suzanne Fortenberry is the Democratic nominee; she was the party's 2024 nominee for state Senate District 36 {wiki_2026} {wiki_senate_2024}. Few details on her 2026 campaign were found.",
+   "website": null,
+   "background": [
+    "Described in 2024 as a courier and executive director of Greenwood Pride {wiki_senate_2024}."
+   ],
+   "path_to_ballot": [
+    "Filed Jan. 7, 2026 {jc_filings}; the only Democrat in the May 5 primary {wiki_2026}.",
+    "Lost the 2024 Senate District 36 race to Sen. Cyndi Carrasco, 62.5% to 37.5% {wiki_senate_2024}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements by Fortenberry about Haggard's record, the seat or Bennett were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "iVoterGuide lists endorsements from Better Indiana and the Indiana Reproductive Freedom PAC {ivg_fortenberry}."
+   ],
+   "gaps": [
+    "No campaign website or published policy positions were found; her Facebook page (Fortenberry4Indiana) could not be read.",
+    "She did not answer the iVoterGuide questionnaire.",
+    "Search snippets said she lives in Greenwood, founded Every Kid Eats (school lunch debt) and ran for White River Township trustee in 2022; not verified (Daily Journal blocked).",
+    "Blue Voter Guide snippets list Stonewall Democrats of South Central Indiana and Indiana Rural Summit endorsements; not verified.",
+    "No fundraising data found."
+   ]
+  }
+ ],
+ "sources": {
+  "caucus_haggard": [
+   "State Rep. Craig Haggard: biography and committees",
+   "Indiana House Republican Caucus",
+   "accessed 2026-10-10",
+   "https://www.indianahouserepublicans.com/members/general/craig-haggard/"
+  ],
+  "caucus_haggard_reflect": [
+   "Haggard: Reflecting on my time representing House District 57",
+   "Indiana House Republican Caucus",
+   "2026-02-10",
+   "https://www.indianahouserepublicans.com/news/press-releases/haggard-reflecting-on-my-time-representing-house-district-57/"
+  ],
+  "caucus_hea1184": [
+   "Governor ceremonially signs bill authored by Haggard to ensure safe and fair towing practices",
+   "Indiana House Republican Caucus",
+   "2026-04-15",
+   "https://www.indianahouserepublicans.com/news/press-releases/governor-ceremonially-signs-bill-authored-by-haggard-to-ensure-safe-and-fair-towing-practices/"
+  ],
+  "caucus_hea1210": [
+   "Haggard: Governor ceremonially signs new law to expand property tax relief for Hoosier veterans",
+   "Indiana House Republican Caucus",
+   "2026-06-05",
+   "https://www.indianahouserepublicans.com/news/press-releases/haggard-governor-ceremonially-signs-new-law-to-expand-property-tax-relief-for-hoosier-veterans/"
+  ],
+  "exponent_primary": [
+   "Democrat Drew Cox to face incumbent Baird in U.S. House race",
+   "Purdue Exponent",
+   "2026-05-07",
+   "https://www.purdueexponent.org/city_state/politics/drew-cox-jim-baird-win-primary/article_b712b717-8dfc-4994-83f8-9c2a10cc16bd.html"
+  ],
+  "cnhi_recount": [
+   "Recount commission confirms winner from contested Indiana House GOP primary",
+   "Indiana Capital Chronicle (via CNHI)",
+   "2026-07-22",
+   "https://www.cnhi.com/rss_feed/recount-commission-confirms-winner-from-contested-indiana-house-gop-primary/"
+  ],
+  "jc_filings": [
+   "2026 primary candidate filings",
+   "Johnson County, Indiana",
+   "2026-01",
+   "https://johnsoncounty.in.gov/egov/documents/1769714007_26088.pdf"
+  ],
+  "bennett_site": [
+   "Wes Bennett for District 57 (home, about and endorsements)",
+   "Friends of Wes Bennett",
+   "accessed 2026-10-10",
+   "https://wesbennettfordistrict57.com/"
+  ],
+  "ivg_fortenberry": [
+   "Suzanne Fortenberry: State Representative, District 57",
+   "iVoterGuide",
+   "accessed 2026-10-10",
+   "https://ivoterguide.com/candidate/83198/race/30706/election/1456"
+  ],
+  "wiki_senate_2024": [
+   "2024 Indiana Senate election",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/2024_Indiana_Senate_election"
+  ],
+  "rc_hb1032_28": [
+   "House Roll Call 28: HB 1032 (Redistricting), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-12-05",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  ],
+  "rc_sea1_433": [
+   "House Roll Call 433: SB 1 (Local government finance), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-10",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  ],
+  "rc_hb1001_576": [
+   "House Roll Call 576: HB 1001 (State budget), conference committee report",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-25",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  ],
+  "wiki_2026": [
+   "2026 Indiana House of Representatives election",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  ],
+  "wiki_2024": [
+   "2024 Indiana House of Representatives election",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/2024_Indiana_House_of_Representatives_election"
+  ]
+ }
+}

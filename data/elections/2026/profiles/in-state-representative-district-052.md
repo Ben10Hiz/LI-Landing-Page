@@ -1,0 +1,157 @@
+# Indiana State Representative — 2026 race profile
+
+_Researched 2026-10-10 · status: draft._ Pending editorial review.
+
+## About the office
+
+Members of the Indiana House of Representatives write and vote on state laws as part of the Indiana General Assembly. The House has 100 members, each representing one district for a two-year term [1].
+
+- **Term:** 2 years [1]
+- **Term limit:** None [1]
+- **Seats:** 100 [1]
+- **On the 2026 ballot:** All 100 [2]
+
+### What the office does
+
+- Introduces and votes on state legislation as one of the two chambers of the Indiana General Assembly [1].
+- Must be at least 21 years old when taking office and have lived in the district for at least a year [1].
+
+### Recent changes to the office
+
+
+## Current officeholder: Ben Smaltz (Republican)
+
+Ben Smaltz, a Republican from Auburn, has served in the Indiana House since his election in November 2012 [3]. He chairs the House Rules and Legislative Procedures Committee and sits on the Joint Rules, Elections and Apportionment, and Ways and Means committees, according to the House Republican caucus [3]. He was the House author of HB 1032, the December 2025 mid-decade congressional redistricting bill [4, 5].
+
+- 2023: The caucus says he authored a law requiring certain public meetings to be livestreamed and archived [3].
+- March–April 2025: Authored HEA 1137, which the caucus says requires a judge to seal and expunge a person's red flag records when a court finds the person is not dangerous; he said such people "should not be subject to unnecessary restrictions or long-lasting repercussions" [6]. Authored HEA 1687, which adds factors judges must weigh before approving a sex offender's move to another county and bars certain offenders from jobs with significant contact with minors [7].
+- On April 10, 2025, voted for SB 1, the property-tax and local government finance bill, which passed the House 65–29 [8]. On April 25, 2025, voted for the conference report on HEA 1001, the 2025–2027 state budget, adopted 66–27 [9].
+- November 2025: After a Gaming Commission report named Auburn as a possible casino site, said he was "not aware of any formal proposal or organized effort to locate a casino in Auburn" and that an independent review of social, traffic and infrastructure impacts should come first [10].
+- December 2025: As author of HB 1032, told the House Elections and Apportionment Committee the new congressional map was drawn "purely for political performance" of Republicans and was "politically gerrymandered, if you'd like to say that"; asked about race, he said "We didn't look at that, at any of that" [4]. Critics at the Dec. 2 hearing included Rep. Cherrish Pryor, D-Indianapolis, and former Republican Lt. Gov. Sue Ellspermann; 43 of about 45 witnesses opposed the bill, according to the Indiana Capital Chronicle [4]. Smaltz said the bill "follows our rules, our laws, the intent of the Framers of the Constitution" [11].
+- December 5, 2025: Voted for his HB 1032, which passed the House 57–41 [5]; the Senate defeated it 19–31 on December 11 [12].
+- January 28, 2026: Voted for HB 1002, the electric utility affordability bill, which passed the House 89–4 [13]. February 2026: Co-authored legislation creating a stadium authority for a potential Chicago Bears stadium, according to the caucus [3].
+
+## This race
+
+- House District 52 covers all of DeKalb County and parts of Noble and Steuben counties, according to the House Republican caucus [3]; Trost's campaign lists Allen and Wayne townships in Noble County and York, Steuben, Richland and Otsego townships in Steuben County [14].
+- Smaltz was re-elected in 2024 with 76.7% of the vote over Democrat Walt Sorg [15].
+- In the May 5, 2026 Republican primary, Smaltz defeated Eve Peters, 4,408 votes (73.7%) to 1,573 (26.3%), according to Wikipedia, which lists no Democratic primary candidate for the district [16]. Trost appears on the official general-election list [2].
+- No debate or forum between the two candidates was found as of October 10, 2026; Trost's campaign-trail page lists parades and fairs but no forums [17].
+- Smaltz's authorship of the 2025 redistricting bill has become a campaign issue in letters to the editor: an October 2026 letter in KPC News from Tobias Blech of Auburn criticized him for carrying the bill [18].
+
+## Ben Smaltz
+
+The Republican incumbent since 2012 and chair of the House Rules Committee [3].
+
+### Background
+
+- President and owner of Taylor Rental Company, a family business his parents opened in 1977 [3].
+- Served 10 years on the DeKalb County Council, including seven as president, according to the caucus [3].
+- Attended Ball State University; lives in Auburn [3].
+
+### Path to the ballot
+
+- Won the May 5, 2026 Republican primary over Eve Peters with 73.7% of the vote, according to Wikipedia [16].
+
+### Positions & plans
+
+**Elections & redistricting**
+
+- Authored and defended the 2025 mid-decade congressional map, saying it "represents the best path forward" [11] and that the timeline "isn't the process any of us would prefer" [4].
+
+**Public safety**
+
+- Said of his 2025 sex offender relocation law that it "closes those loopholes and prioritizes the safety of Hoosier children and families" [7].
+
+**Economy & jobs**
+
+- On a possible Auburn casino, said "We must be cautious and thoughtful of our constituents before moving forward" [10].
+
+### On the current officeholder
+
+- Is the current officeholder. No public statement by Smaltz about Trost was found.
+
+### How they say they'd run the office
+
+- No campaign website or published 2026 platform was found; The Ballot Brief reported no campaign website as of September 21, 2026 [19].
+
+### Endorsements & fundraising
+
+- Wikipedia lists endorsements from President Donald Trump, Gov. Mike Braun, Americans for Prosperity, Indiana Farm Bureau's AgELECT PAC, NFIB Indiana PAC and the NRA Political Victory Fund [16].
+
+### What we couldn't verify
+
+- No campaign finance totals were checked for 2026.
+- Bill numbers for the 2023 livestreaming law and the 2026 stadium authority law were not confirmed from the caucus page.
+- No direct response from Smaltz to 2026 campaign criticism of his redistricting role was found.
+
+## Joseph Trost
+
+The Democratic nominee, a construction worker making his first run for the seat, according to his campaign [14, 20].
+
+Campaign website: https://www.trostfordistrict52.com/
+
+### Background
+
+- Says he has worked "with my hands and on my feet" his whole adult life, including building housing foundations; his campaign says he works in concrete construction [20, 14].
+- Grew up in LaGrange and earned a bachelor's degree in political science from Indiana University; took part in the Indiana Legislative Youth Advisory Council and Hoosier Boys State, according to his campaign [20].
+- His campaign lists a mailing address in Avilla [14].
+
+### Path to the ballot
+
+- Is listed as the Democratic nominee on the official general-election candidate list [2]. Wikipedia lists no Democratic primary candidate for the district [16]; how he was nominated was not confirmed.
+
+### Positions & plans
+
+**Data centers**
+
+- Proposes "Placing common sense restrictions on data centers to protect the safety of our water and keep utility costs low" [14].
+
+**Economy & jobs**
+
+- Focuses on rural development and incentives to help small businesses, according to his campaign [14]. Says "all Hoosiers deserve the ability to make a decent living" [20].
+
+**Veterans**
+
+- Would have dedicated state employees act as liaisons between the V.A. and Hoosier veterans to increase access to benefits [14].
+
+### On the current officeholder
+
+- No statement by Trost about Smaltz's record was found on his campaign site [14, 17].
+
+### How they say they'd run the office
+
+- His campaign lists economic opportunity, data center restrictions and veteran benefit support as its main issues [14].
+
+### Endorsements & fundraising
+
+- His site carries supportive statements from Noble County Democratic chair Kimberly Murphy and two local residents [14].
+
+### What we couldn't verify
+
+- How Trost reached the ballot (primary or post-primary party caucus) was not confirmed; no news coverage of his nomination was found.
+- No news coverage of his campaign was found.
+- No campaign finance totals were checked.
+
+## Sources
+
+1. [Indiana House of Representatives](https://en.wikipedia.org/wiki/Indiana_House_of_Representatives) — Wikipedia, accessed 2026-10-10
+2. [2026 General Election Candidate List](https://www.in.gov/sos/elections/candidate-information/) — Indiana Election Division, 2026-09-22
+3. [Ben Smaltz — member page](https://www.indianahouserepublicans.com/members/general/ben-smaltz/) — Indiana House Republicans, 2026-10
+4. [House panel advances Indiana map drawn 'purely for political performance' of GOP (Indiana Capital Chronicle)](https://www.ipm.org/news/2025-12-02/indiana-map-drawn-purely-for-political-performance-of-gop-bill-author-says) — Indiana Public Media (WFIU), 2025-12-02
+5. [House Roll Call 28: HB 1032 (Redistricting), third reading](https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf) — Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts), 2025-12-05
+6. [Senate approves Smaltz's legislation to expunge specific red flag records, uphold Second Amendment rights](https://www.indianahouserepublicans.com/news/press-releases/senate-approves-smaltz-s-legislation-to-expunge-specific-red-flag-records-uphold-second-amendment-rights/) — Indiana House Republicans, 2025-03-26
+7. [Rep. Smaltz's bill to strengthen sex offender relocation rules signed into law](https://www.indianahouserepublicans.com/news/press-releases/rep.-smaltz-s-bill-to-strengthen-sex-offender-relocation-rules-signed-into-law/) — Indiana House Republicans, 2025-04-17
+8. [House Roll Call 433: SB 1 (Local government finance), third reading](https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf) — Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts), 2025-04-10
+9. [House Roll Call 576: HB 1001 (State budget), conference committee report](https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf) — Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts), 2025-04-25
+10. [Smaltz responds to Indiana Gaming Commission report identifying Auburn as a possible casino site](https://www.indianahouserepublicans.com/news/press-releases/smaltz-responds-to-indiana-gaming-commission-report-identifying-auburn-as-a-possible-casino-site/) — Indiana House Republicans, 2025-11-05
+11. [Smaltz issues statement on House Bill 1032](https://www.indianahouserepublicans.com/news/press-releases/smaltz-issues-statement-on-house-bill-1032/) — Indiana House Republicans, 2025-12-03
+12. [Senate Roll Call 8: HB 1032 (Redistricting), third reading](https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-8-S-pdf.pdf) — Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts), 2025-12-11
+13. [House Roll Call 149: HB 1002 (Electric utility affordability), third reading](https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1002-rollcalls-HB1002-149-H-pdf.pdf) — Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts), 2026-01-28
+14. [Joseph Trost for Indiana House District 52](https://www.trostfordistrict52.com/) — Joseph Trost campaign, 2026-10
+15. [2024 Indiana House of Representatives election](https://en.wikipedia.org/wiki/2024_Indiana_House_of_Representatives_election) — Wikipedia, 2026-10
+16. [2026 Indiana House of Representatives election](https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election) — Wikipedia, 2026-10
+17. [On the Campaign Trail](https://www.trostfordistrict52.com/on-the-campaign-trail) — Joseph Trost campaign, 2026-10
+18. [Remember what Smaltz did when outsiders came calling (letter to the editor)](https://www.kpcnews.com/opinions/letters/kpcnews/article_43d49781-b387-4129-ac7c-9b6d249fe163.html) — KPC News, 2026-10-09
+19. [Indiana House District 52](https://theballotbrief.com/state/indiana/dekalb-county/indiana-house-district-52) — The Ballot Brief, 2026-09
+20. [About](https://www.trostfordistrict52.com/about) — Joseph Trost campaign, 2026-10
