@@ -1,0 +1,167 @@
+{
+ "race_id": "in-state-representative-district-088",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Chris Jeter",
+  "party": "Republican",
+  "summary": "Chris Jeter, a Fishers Republican and attorney, has represented House District 88 since August 2020 and chairs the House Judiciary Committee {caucus_jeter}. He is a Navy Reserve officer and a partner at a Fishers law firm {caucus_jeter}.",
+  "record": [
+   "Committees: Judiciary (chair); Courts and Criminal Code; Utilities, Energy and Telecommunications {caucus_jeter}. His campaign says he co-chairs the state's Bail and Release Review Commission {jeter_site}. In June 2026 he was named chair of the Interim Study Committee on Courts and the Judiciary, according to the caucus {caucus_jeter}.",
+   "Feb. 2024: The House passed his bills to add funding for deputy prosecutors and to create two new superior courts and two magistrate positions in Hamilton County, according to the caucus {caucus_jeter}.",
+   "April 10, 2025: Voted yes on SEA 1, the 2025 property-tax law (passed 65-29) {rc_sea1_433}. April 25, 2025: Voted yes on HEA 1001, the 2025-27 budget (adopted 66-27) {rc_hb1001_576}. Dec. 5, 2025: Recorded as excused on HB 1032, the mid-decade congressional redistricting bill, which passed the House 57-41 {rc_hb1032_28}.",
+   "2026 session: After the death of Fishers teen Hailey Buzbee, Jeter highlighted an amendment to HB 1303 expanding the definition of a missing child to include a \"high-risk missing person\" {pr_amber}. He also highlighted HEA 1408, which the caucus says requires parental consent for minors' social media accounts {pr_hamilton_laws}. Voted yes on HB 1002, the utility-affordability bill, on Jan. 28, 2026 {rc_hb1002_149}."
+  ]
+ },
+ "race_context": [
+  "House District 88 includes portions of Hamilton, Hancock, Madison and Marion counties {caucus_jeter}. Yocum's campaign lists the Geist area of Indianapolis, part of Lawrence, McCordsville, Fortville, Mt. Comfort, Ingalls and part of Fishers {yocum_site}.",
+  "This is a rematch: Yocum was the 2024 Democratic nominee, and Jeter won that year with 57.8% {wiki_2026}. In 2022 Jeter won 60% to 40% over Democrat Donna Griffin {wfyi_2022}.",
+  "May 5, 2026 primaries: Wikipedia's 2026 election page lists Jeter as the only declared Republican and Yocum as the only declared Democrat {wiki_2026}.",
+  "No debate or forum between the candidates was found.",
+  "Key differences: Jeter points to income-tax cuts, the 2025 property-tax law and the 2026 utility law as his affordability record {pr_jeter_afford}. Yocum says the legislature has \"diverted more and more funding away from public schools\" and has overridden local decisions on data centers, schools and community planning {yocum_issues}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Chris Jeter",
+   "summary": "Republican incumbent since 2020 and chair of the House Judiciary Committee {caucus_jeter}. In 2026 columns he has emphasized affordability, Healthy Indiana Plan work requirements and girls' sports rules {pr_jeter_afford} {pr_jeter_hip} {pr_jeter_sports}.",
+   "website": "https://chrisjeter.com/",
+   "background": [
+    "Attorney; partner at Massillamany Jeter & Carson LLP in Fishers, which he co-founded in 2015; J.D. from George Washington University and bachelor's degree from Oklahoma Baptist University {caucus_jeter}.",
+    "Served seven years on active duty as a Navy JAG officer, including as a Special Assistant U.S. Attorney, and is now a Navy Reserve officer {caucus_jeter} {jeter_site}.",
+    "Serves on the Fishers Economic Development Commission; lives in Fishers {caucus_jeter}."
+   ],
+   "path_to_ballot": [
+    "Selected in 2020 to fill the District 88 seat and reelected since {jeter_site}. Listed as the only declared Republican in the May 5, 2026 primary {wiki_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Economy & taxes",
+     "items": [
+      "Says he supported cutting the state income tax rate from 3.15% in 2023 to 2.95%, with a cut to 2.9% scheduled for 2027 {pr_jeter_afford}. Says \"if government can responsibly leave another dollar in the pocket of a Hoosier family, we should look for a way to do it\" {pr_jeter_afford}."
+     ]
+    },
+    {
+     "topic": "Property taxes",
+     "items": [
+      "Supported SEA 1 (2025), which he describes as projected to save homeowners $1.3 billion over three years; says \"We need to keep driving down property taxes\" {pr_jeter_afford} {rc_sea1_433}."
+     ]
+    },
+    {
+     "topic": "Housing",
+     "items": [
+      "Says he supported HEA 1001 (2026) because it \"takes aim at unnecessary local barriers that can restrict housing supply and drive up construction costs\" {pr_jeter_growth}."
+     ]
+    },
+    {
+     "topic": "Energy & utilities",
+     "items": [
+      "Cites his 2022 vote to eliminate the utility receipts tax and his support for HEA 1002 (2026), which he says \"holds utilities accountable for affordability\" {pr_jeter_growth} {rc_hb1002_149}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Supports the 2026 law requiring able-bodied Healthy Indiana Plan enrollees to complete 80 hours a month of work, job training, education or community service starting Jan. 1, 2027, with exemptions; wrote that \"a safety net should never become a hammock\" {pr_jeter_hip}."
+     ]
+    },
+    {
+     "topic": "Public safety & children",
+     "items": [
+      "Said the HB 1303 missing-child amendment is \"part of a much larger effort to modernize Indiana's child welfare and endangerment laws\" {pr_amber}. Said of HEA 1408, \"Parents deserve greater confidence that their children are protected online\" {pr_hamilton_laws}."
+     ]
+    },
+    {
+     "topic": "Girls' sports",
+     "items": [
+      "Co-authored HEA 1041 (2022), which he describes as protecting girls competing in K-12 athletics, and voted to override the governor's veto of it; wrote in August 2026 that \"protecting a separate category for female athletics should not require courage in 2026\" {pr_jeter_sports}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No statements by Jeter about his 2026 challenger were found."
+   ],
+   "plans": [
+    "Says Indiana should \"continue cutting taxes when fiscally responsible, control property taxes, expand housing supply, demand reliable and affordable energy, confront healthcare costs and remove unnecessary barriers to economic growth\" {pr_jeter_growth}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or 2026 fundraising totals were found in the sources reviewed."
+   ],
+   "gaps": [
+    "No reason was found for his excused absence on the HB 1032 redistricting vote, and no public statement of his position on that bill was found.",
+    "Whether the 2024 deputy-prosecutor and Hamilton County court bills became law was not verified.",
+    "Whether he authored (rather than supported) HEA 1408 was not verified.",
+    "Campaign finance reports were not reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Stephanie Jo Yocum",
+   "summary": "Democratic nominee and 2024 nominee for this seat; nonprofit executive who chairs Serve Indiana, the governor-appointed state service commission {yocum_about} {wiki_2026}. Her platform centers on public schools, affordability and local control {yocum_issues}.",
+   "website": "https://www.stephaniejoyocum.com/",
+   "background": [
+    "Vice president at a large nonprofit focused on education and young children's well-being; more than 20 years in nonprofit leadership in education and health care; former AmeriCorps member {yocum_about}.",
+    "Chairs Serve Indiana, the governor-appointed Commission on Service and Volunteerism {yocum_about}.",
+    "Graduated from Marion High School and attended Hanover College {yocum_about}. Her campaign lists a McCordsville mailing address {yocum_site}."
+   ],
+   "path_to_ballot": [
+    "Was the Democratic nominee in 2024 and lost to Jeter {wiki_2026}. Listed as the only declared Democrat in the May 5, 2026 primary {wiki_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Education",
+     "items": [
+      "Says \"our state legislature has diverted more and more funding away from public schools\"; pledges to \"Fully fund public schools,\" support and retain teachers, ensure transparency in education spending and protect local school board decisions {yocum_issues}."
+     ]
+    },
+    {
+     "topic": "Economy & affordability",
+     "items": [
+      "Pledges to expand access to affordable child care, support housing for families, young professionals and seniors, ensure \"responsible budgeting and transparent spending,\" and support small businesses {yocum_issues}."
+     ]
+    },
+    {
+     "topic": "Local control & data centers",
+     "items": [
+      "Says the legislature has been \"overriding decisions about development (like data centers), schools, judicial appointments, and community planning\"; pledges to \"Restore decision-making authority to local governments\" {yocum_issues}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Her 2026 site says she \"can't stand by and watch political extremism make life harder for Indiana families\" but does not name Jeter {yocum_site}. In her 2024 campaign, she said, \"Our current Representative [State Rep. Chris Jeter] represents the most extreme in politics,\" and said she wanted to break the Republican supermajority {reporter_2024}."
+   ],
+   "plans": [
+    "Says she will \"focus on practical, common-sense solutions that strengthen our communities, lower costs for families, and put people ahead of politics\" {yocum_issues}."
+   ],
+   "endorsements_finance": [
+    "In 2024, Indianapolis City-County Councilor Nick Roberts endorsed her at her campaign kickoff {reporter_2024}. No 2026 endorsements or fundraising totals were found."
+   ],
+   "gaps": [
+    "Unverified (search snippets only; Current Publishing returned 403): a Jan. 13, 2026 Current article on her filing, which reportedly described the district as including parts of Fishers, Geist, Lawrence, McCordsville, Fortville and Madison County.",
+    "Little 2026 news coverage of her campaign was found.",
+    "Her 2024 positions on reproductive rights and the Second Amendment (reported in 2024) are not repeated on her current issues page and are not listed here as 2026 positions.",
+    "Campaign finance reports were not reviewed."
+   ]
+  }
+ ],
+ "sources": {
+  "caucus_jeter": ["Chris Jeter (member page)", "Indiana House Republicans", "accessed 2026-10-10", "https://www.indianahouserepublicans.com/members/general/chris-jeter"],
+  "jeter_site": ["Chris Jeter for Indiana State Representative", "Jeter for Indiana (campaign)", "accessed 2026-10-10", "https://chrisjeter.com/"],
+  "pr_jeter_afford": ["Jeter: Keeping Indiana affordable for Hoosier families", "Indiana House Republicans", "2026-09-03", "https://www.indianahouserepublicans.com/news/press-releases/jeter-keeping-indiana-affordable-for-hoosier-families/"],
+  "pr_jeter_growth": ["Jeter: Prioritizing affordability to keep Indiana growing", "Indiana House Republicans (column also run by Indy Politics)", "2026-09-21", "https://www.indianahouserepublicans.com/news/press-releases/jeter-prioritizing-affordability-to-keep-indiana-growing/"],
+  "pr_jeter_hip": ["Jeter: A safety net, not a hammock", "Indiana House Republicans", "2026-07-10", "https://www.indianahouserepublicans.com/news/press-releases/jeter-a-safety-net-not-a-hammock/"],
+  "pr_jeter_sports": ["Jeter: Women's sports should not be controversial", "Indiana House Republicans", "2026-08-28", "https://www.indianahouserepublicans.com/news/press-releases/jeter-women-s-sports-should-not-be-controversial/"],
+  "pr_amber": ["Fishers lawmakers working to expand Amber Alert, strengthen protections for young Hoosiers following death of local teen Hailey Buzbee", "Indiana House Republicans", "2026-02-10", "https://www.indianahouserepublicans.com/news/press-releases/fishers-lawmakers-working-to-expand-amber-alert-strengthen-protections-for-young-hoosiers-following-death-of-local-teen-hailey-buzbee/"],
+  "pr_hamilton_laws": ["Hamilton County legislators highlight new state laws now in effect", "Indiana House Republicans", "2026-07-14", "https://www.indianahouserepublicans.com/news/press-releases/hamilton-county-legislators-highlight-new-state-laws-now-in-effect/"],
+  "yocum_site": ["Stephanie Jo Yocum for Indiana State Representative | District 88", "Yocum for Indiana (campaign)", "accessed 2026-10-10", "https://www.stephaniejoyocum.com/"],
+  "yocum_about": ["About Stephanie Jo", "Yocum for Indiana (campaign)", "accessed 2026-10-10", "https://www.stephaniejoyocum.com/aboutstephaniejo"],
+  "yocum_issues": ["Vision for HD88", "Yocum for Indiana (campaign)", "accessed 2026-10-10", "https://www.stephaniejoyocum.com/issues"],
+  "reporter_2024": ["Yocum kicks off campaign for House District 88", "The Reporter (submitted)", "2024-04-04", "https://readthereporter.com/?p=120342"],
+  "wfyi_2022": ["Indiana House election results", "WFYI", "2022-11-09", "https://www.wfyi.org/news/articles/indiana-house-election-results"],
+  "rc_sea1_433": ["House Roll Call 433: SB 1 (Local government finance), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-04-10", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"],
+  "rc_hb1001_576": ["House Roll Call 576: HB 1001 (State budget), conference committee report", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-04-25", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"],
+  "rc_hb1032_28": ["House Roll Call 28: HB 1032 (Redistricting), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-12-05", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"],
+  "rc_hb1002_149": ["House Roll Call 149: HB 1002 (Electric utility affordability), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2026-01-28", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1002-rollcalls-HB1002-149-H-pdf.pdf"],
+  "wiki_2026": ["2026 Indiana House of Representatives election", "Wikipedia", "accessed 2026-10-10", "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"]
+ }
+}

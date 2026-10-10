@@ -1,0 +1,286 @@
+{
+ "race_id": "in-state-representative-district-070",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Karen Engleman",
+  "party": "Republican",
+  "summary": "Karen Engleman of Georgetown has represented House District 70 since 2016 and serves in House Republican leadership as assistant majority floor leader {caucus_engleman}. She decided not to seek re-election in 2026 {nt_finn}; she endorsed Republican nominee Scott Fluhr in the primary {fluhr_site}.",
+  "record": [
+   "Leadership and committees: assistant majority floor leader; chair of the Statutory Committee on Ethics; member of Government and Regulatory Reform and Local Government {caucus_engleman}. She was first named Ethics chair for the 2023 session {caucus_ethics_chair}.",
+   "Before the legislature, served three terms as Harrison County auditor and seven years as Crandall town clerk-treasurer {caucus_engleman}. The caucus says Governing magazine named her a 2018 Public Official of the Year for her law requiring annual sexual-harassment training for legislators {caucus_engleman}.",
+   "Voted yes on SEA 1, the 2025 property-tax law (April 10, 2025) {rc_sea1_433}; the 2025 budget conference report, HEA 1001 (April 25, 2025) {rc_hb1001_576}; and HB 1032, the congressional redistricting bill (Dec. 5, 2025) {rc_hb1032_28}.",
+   "Reelected in 2024 with 73.4% of the vote over Democrat Sarah Blessing {wiki_2026} {lpm_2024_hd70}, after defeating John Colburn in the Republican primary {lpm_2024_primary}."
+  ]
+ },
+ "race_context": [
+  "House District 70 includes all of Harrison County (including Corydon) and parts of Clark, Floyd and Washington counties {lpm_filed} {caucus_engleman}. In Washington County, it covers Howard, Jackson, Pierce, Polk and Posey townships {wct_ballot}.",
+  "Open seat: Rep. Karen Engleman decided not to seek re-election {nt_finn}. No public explanation from Engleman for her decision was found in the sources reviewed.",
+  "May 5, 2026 Republican primary: Scott Fluhr 4,159 votes (68.5%), John Colburn 1,914 (31.5%) {wiki_2026}. Democratic primary: Sarah Blessing 1,477 (49.9%), Jerry Finn 1,096 (37.0%), Tamyra Persinger-Andres 387 (13.1%) {wiki_2026}. Libertarian Brandi Tibben is also on the November ballot {harrison_list} {in_list}.",
+  "A Floyd County Republican Party debate before the primary included the Republican House District 70 candidates {lpm_hd72_debate}. No general-election debate or forum for this race was found.",
+  "Key differences: Fluhr's campaign presents him as a Republican focused on \"faith, family, freedom, and hard work\" and lists endorsements from Indiana Right to Life and statewide Republican officials, but posts no issue positions {fluhr_site}. Blessing's platform emphasizes public-school funding, opposing tax breaks for data centers, rural hospitals and changing Indiana's abortion law {blessing_issues} {wct_blessing}. No statements by Tibben were found."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Brandi Tibben",
+   "summary": "Brandi Tibben is the Libertarian candidate for House District 70 {harrison_list}. No biography or issue statements were found.",
+   "website": null,
+   "background": [
+    "No biographical information was found in news coverage, voter guides or candidate filings reviewed."
+   ],
+   "path_to_ballot": [
+    "Listed as the Libertarian candidate for District 70 on Harrison County's 2026 general-election candidate list {harrison_list}; Indiana Libertarian nominees are chosen at the party's convention rather than in the primary."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements about the seat or the departing representative were found."
+   ],
+   "plans": [
+    "No stated plans were found."
+   ],
+   "endorsements_finance": [
+    "No endorsements or fundraising figures were found."
+   ],
+   "gaps": [
+    "No campaign website, questionnaire responses or news coverage were found. iVoterGuide links two Facebook pages (BrandiFor70 and BrandisSoIN) but they could not be read without logging in.",
+    "Date and details of her Libertarian convention nomination were not verified."
+   ]
+  },
+  {
+   "ballot_name": "Sarah Blessing",
+   "summary": "Sarah Blessing is a former teacher who was the 2024 Democratic nominee against Engleman {lpm_2024_hd70}. She won a three-way Democratic primary in May 2026 {wiki_2026}.",
+   "website": "https://www.sarahblessing.com/",
+   "background": [
+    "Raised in Floyds Knobs and a 1999 Floyd Central High School graduate; holds a bachelor's degree in elementary education from IU Southeast and a master's in education from Indiana Wesleyan University {blessing_about}.",
+    "Taught for 18 years at Our Lady of Perpetual Help Catholic School in New Albany, then volunteered with the Harrison County Democratic Party {blessing_about}.",
+    "Co-founded Project Next, a media company focused on community conversations, where she hosts interviews {blessing_about} {wct_blessing}."
+   ],
+   "path_to_ballot": [
+    "Ran in 2024 as the Democratic nominee against Engleman {lpm_2024_hd70}, who won with 73.4% {wiki_2026}.",
+    "Filed for 2026 by mid-January {lpm_filed}; won the May 5 Democratic primary with 49.9% over Jerry Finn and Tamyra Persinger-Andres {wiki_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Education",
+     "items": [
+      "Says public tax dollars should fund public schools open to every child; says parents may choose private or religious schools but taxpayers should not pay the tuition, and notes voucher spending has grown to nearly $500 million a year {wct_blessing}.",
+      "Says teachers, superintendents, parents and local school boards should have a stronger voice in school rules {wct_blessing}; her platform calls for fair pay for educators and keeping curriculum decisions with local educators and parents {blessing_issues}."
+     ]
+    },
+    {
+     "topic": "Data centers",
+     "items": [
+      "Opposes the long-term sales-tax exemptions Indiana offers qualifying data centers without strong protections, and wants disclosure of water and electricity use and safeguards against higher utility bills {wct_blessing} {blessing_issues}.",
+      "Supports local control and zoning authority over data centers and large solar projects, and says host communities should receive real benefits {wct_blessing}."
+     ]
+    },
+    {
+     "topic": "Health care",
+     "items": [
+      "Supports protecting Medicaid coverage, paying rural hospitals fairly, and state investment to bring doctors, nurses and mental-health workers to small communities {wct_blessing}.",
+      "Says Indiana's abortion law should change so medical decisions are made by a woman, her doctor and her family, citing doctors' warnings that the law can delay care {wct_blessing}."
+     ]
+    },
+    {
+     "topic": "Property taxes",
+     "items": [
+      "Platform calls for property-tax relief for working families, transparency in how taxes are calculated, and stopping utilities from shifting costs onto ratepayers {blessing_issues}."
+     ]
+    },
+    {
+     "topic": "Economy & jobs",
+     "items": [
+      "Supports fast rural internet, help for small businesses and family farms, and job training as ways to grow rural jobs {wct_blessing}."
+     ]
+    },
+    {
+     "topic": "Government & ethics",
+     "items": [
+      "Says her top priority would be shorter, single-issue bills so the public can understand them, plus stronger state oversight when local officials fail to account for public money {wct_blessing}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "In 2024 she said she would \"work together across the aisle to reverse these hurtful laws and restore freedom,\" citing energy bills, public-school funding and women's medical decisions {lpm_2024_hd70}. In 2026 she said she is running because \"regular Hoosiers have lost their voice in state government\" {wct_blessing}."
+   ],
+   "plans": [
+    "Says she would work with anyone willing to help Hoosiers and would \"sit at the table with anyone who is willing to put people over party\" {wct_blessing}."
+   ],
+   "endorsements_finance": [
+    "Her campaign site lists the Center for Freethought Equality among supporters {blessing_site}; iVoterGuide lists the Center for Freethought Equality and Indivisible NWI {ivg_blessing}. No fundraising totals were verified."
+   ],
+   "gaps": [
+    "A partisan blog post comparing the candidates (linked from her site) was not used.",
+    "Her town of residence was not confirmed from a readable source (a search snippet from Blue Voter Guide listed a Palmyra mailing address).",
+    "Her campaign site describes the district as parts of Harrison, Washington and Floyd counties and leaves out Clark County, which LPM and the House Republican caucus include.",
+    "No campaign finance reports were reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Scott L. Fluhr",
+   "summary": "Scott Fluhr is a Corydon human resources analyst who has chaired the Harrison County Republican Party for nearly 18 years {fluhr_site}. He won the May 2026 Republican primary with 68.5% {wiki_2026}.",
+   "website": "https://www.hoosiersforscott.com/",
+   "background": [
+    "Lifelong Harrison County resident from Corydon; graduate of Corydon Central High School and Indiana University Bloomington (business) {fluhr_site} {ballotready_fluhr}.",
+    "Works as an HRIS (human resources information systems) analyst at Horseshoe Southern Indiana {ballotready_fluhr}; also writes the blog The Hoosierpundit {ballotready_fluhr}.",
+    "Volunteer chairman of the Harrison County Republican Party for almost 18 years; president of the Harrison County Parks & Recreation Board; member of the county tourism board; chairs the Popcorn Festival parade {fluhr_site}."
+   ],
+   "path_to_ballot": [
+    "Filed Jan. 7, 2026 {lpm_filed}; won the May 5 Republican primary over John Colburn, 4,159 votes (68.5%) to 1,914 {wiki_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Values",
+     "items": [
+      "His campaign says Southern Indiana needs \"strong conservative voices in Indianapolis\" who will fight for \"faith, family, freedom, and hard work\" {fluhr_site}.",
+      "His campaign site cites an \"AQ\" rating from the National Rifle Association and an Indiana Right to Life endorsement {fluhr_site}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Endorsed in the primary by Rep. Karen Engleman, the departing seat holder {fluhr_site}. No statements by Fluhr on the seat's direction or on his opponents were found."
+   ],
+   "plans": [
+    "No specific legislative plans were found on his campaign site or in news coverage."
+   ],
+   "endorsements_finance": [
+    "Primary endorsements listed by his campaign: Indiana Right to Life, U.S. Sen. Jim Banks, U.S. Rep. Erin Houchin, Attorney General Todd Rokita, State Treasurer Daniel Elliott, state Sen. Gary Byrne, Rep. Karen Engleman and the Indiana Manufacturers Association {fluhr_site}. iVoterGuide lists contributions from Sen. Gary Byrne and state Republican Party organizations in 2026 {ivg_fluhr}. No fundraising totals were verified."
+   ],
+   "gaps": [
+    "No issue positions on taxes, schools, health care or data centers were found. A partisan blog says he has backed private-school vouchers in the press, but this was not verified.",
+    "What he said at the Floyd County Republican debate was not reported in the sources found.",
+    "No campaign finance reports were reviewed."
+   ]
+  }
+ ],
+ "sources": {
+  "caucus_engleman": [
+   "State Rep. Karen Engleman: biography and committees",
+   "Indiana House Republican Caucus",
+   "accessed 2026-10-10",
+   "https://www.indianahouserepublicans.com/members/general/karen-engleman/"
+  ],
+  "caucus_ethics_chair": [
+   "Engleman, May to chair key committees at Statehouse",
+   "Indiana House Republican Caucus",
+   "2022-12-05",
+   "https://www.indianahouserepublicans.com/news/press-releases/engleman-may-to-chair-key-committees-at-statehouse/"
+  ],
+  "nt_finn": [
+   "Finn files for District 70 state representative",
+   "News and Tribune",
+   "2026-02-05",
+   "https://www.newsandtribune.com/news/finn-files-for-district-70-state-representative/article_f7486035-19f4-4947-b368-7ba10d55066d.html"
+  ],
+  "lpm_2024_hd70": [
+   "LPM Southern Indiana Voter Guide: State Representative, District 70",
+   "Louisville Public Media",
+   "2024-10-04",
+   "https://lpm.org/news/2024-10-04/lpm-southern-indiana-voter-guide-state-representative-district-70"
+  ],
+  "lpm_2024_primary": [
+   "2024 Southern Indiana primary election results",
+   "Louisville Public Media",
+   "2024-05-07",
+   "https://lpm.org/news/2024-05-07/2024-southern-indiana-primary-election-results"
+  ],
+  "lpm_filed": [
+   "Here's who's filed for the primary in Southern Indiana so far",
+   "Louisville Public Media",
+   "2026-01-15",
+   "https://www.lpm.org/news/2026-01-15/heres-whos-filed-for-the-primary-in-southern-indiana-so-far"
+  ],
+  "lpm_hd72_debate": [
+   "Republican candidates outline commitments for Indiana House District 72 race",
+   "Louisville Public Media (via IPM)",
+   "2026-03-09",
+   "https://www.ipm.org/news/2026-03-09/republican-candidates-outline-commitments-for-indiana-house-district-72-race"
+  ],
+  "wct_ballot": [
+   "Election 2026: Candidates on the General Ballot",
+   "The Washington County Times",
+   "2026",
+   "https://www.washingtoncountytimes.com/post/election-2026-candidates-on-the-general-ballot"
+  ],
+  "wct_blessing": [
+   "Election 2026 Interview Series: Candidate for State Representative D70 Sarah Blessing",
+   "The Washington County Times",
+   "2026-09-14",
+   "https://www.washingtoncountytimes.com/post/election-2026-interview-series-candidate-for-state-representative-d70-sarah-blessing"
+  ],
+  "harrison_list": [
+   "Candidate List: 2026 General Election",
+   "Harrison County Clerk",
+   "2026",
+   "https://secure.in.gov/counties/harrison/files/2026generalelectioncandidates/Candidate_List_2026_General_Harp.pdf"
+  ],
+  "blessing_site": [
+   "Sarah Blessing for Indiana House District 70",
+   "Sarah Blessing campaign",
+   "accessed 2026-10-10",
+   "https://www.sarahblessing.com/"
+  ],
+  "blessing_about": [
+   "About Sarah",
+   "Sarah Blessing campaign",
+   "accessed 2026-10-10",
+   "https://www.sarahblessing.com/about/"
+  ],
+  "blessing_issues": [
+   "Issues",
+   "Sarah Blessing campaign",
+   "accessed 2026-10-10",
+   "https://www.sarahblessing.com/issues/"
+  ],
+  "ivg_blessing": [
+   "Sarah Blessing: State Representative, District 70",
+   "iVoterGuide",
+   "accessed 2026-10-10",
+   "https://ivoterguide.com/candidate/83607/race/30719/election/1456"
+  ],
+  "fluhr_site": [
+   "Scott Fluhr for State Rep District 70",
+   "Hoosiers for Scott Fluhr (campaign)",
+   "accessed 2026-10-10",
+   "https://www.hoosiersforscott.com/"
+  ],
+  "ballotready_fluhr": [
+   "Scott L. Fluhr",
+   "BallotReady",
+   "accessed 2026-10-10",
+   "https://www.ballotready.org/people/scott-l-fluhr"
+  ],
+  "ivg_fluhr": [
+   "Scott L. Fluhr: State Representative, District 70",
+   "iVoterGuide",
+   "accessed 2026-10-10",
+   "https://ivoterguide.com/candidate/90435/race/30719/election/1456"
+  ],
+  "rc_hb1032_28": [
+   "House Roll Call 28: HB 1032 (Redistricting), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-12-05",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  ],
+  "rc_sea1_433": [
+   "House Roll Call 433: SB 1 (Local government finance), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-10",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  ],
+  "rc_hb1001_576": [
+   "House Roll Call 576: HB 1001 (State budget), conference committee report",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-25",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  ],
+  "wiki_2026": [
+   "2026 Indiana House of Representatives election",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  ]
+ }
+}

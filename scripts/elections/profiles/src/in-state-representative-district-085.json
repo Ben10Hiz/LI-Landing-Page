@@ -1,0 +1,118 @@
+{
+ "race_id": "in-state-representative-district-085",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_house",
+ "incumbent": {
+  "name": "Dave Heine",
+  "party": "Republican",
+  "summary": "Dave Heine, a Republican who lists Fort Wayne as his hometown, has represented House District 85 since 2016 and serves on the House Ways and Means, Agriculture and Rural Development, and Roads and Transportation committees {caucus_heine}. He is a farmer and retired Do It Best Corp. executive {caucus_heine} and is seeking reelection in 2026 {wiki_2026}.",
+  "record": [
+   "Committees: Ways and Means; Agriculture and Rural Development; Roads and Transportation (vice chair), according to his House Republican caucus page {caucus_heine}.",
+   "2025: Authored House Enrolled Act 1253, which the caucus says lets school-based child care programs serve children across a whole school corporation, extends child care voucher waivers from two years to three, and lets owners of multi-site child care centers operate under a single license; it passed both chambers and went to the governor in April 2025 {caucus_hea1253}. Heine said the bill \"provides a practical solution to increase availability and help providers operate more efficiently\" {caucus_hea1253}.",
+   "Feb. 14, 2025: The House Ways and Means Committee advanced Heine's bill to boost Indiana's teacher pipeline, according to the caucus {caucus_heine}.",
+   "April 10, 2025: Voted yes on SEA 1, the 2025 property-tax law (passed 65-29) {rc_sea1_433}. Heine said in an April 2025 caucus release that it \"delivers property tax relief to Hoosiers, especially in our rural communities where every dollar counts\" {caucus_sea1_allen}.",
+   "April 25, 2025: Voted yes on HEA 1001, the 2025-27 state budget, adopted 66-27 {rc_hb1001_576}. Dec. 5, 2025: Voted yes on HB 1032, the mid-decade congressional redistricting bill, which passed the House 57-41 {rc_hb1032_28} {isf_hb1032}. He was recorded as excused on the Jan. 28, 2026 House vote on HB 1002, the utility-affordability bill {rc_hb1002_149}.",
+   "2026: Highlighted House Enrolled Act 1177, which the caucus says expands the state's employer child care tax credit; Heine said it gives \"employers and communities more flexibility to invest in childcare solutions\" {caucus_laws26_allen}."
+  ]
+ },
+ "race_context": [
+  "House District 85 covers eastern portions of Allen County in northeast Indiana, according to Heine's caucus page {caucus_heine}.",
+  "Heine is seeking a sixth full term; he won reelection in 2024 with 74.4% of the vote {wiki_2026}.",
+  "May 5, 2026 primaries: Wikipedia's 2026 election page lists Heine as the only declared Republican and Mark Wehrle as the only declared Democrat, so neither faced a primary opponent {wiki_2026}.",
+  "No debate or forum between the two candidates was found, and no news coverage of the 2026 race was found in the Fort Wayne media searched.",
+  "Differences on policy cannot be compared: Wehrle has published no positions that could be found, and iVoterGuide shows every question on its questionnaire as unanswered by him {ivg_wehrle}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Dave Heine",
+   "summary": "Republican incumbent since 2016; farmer and retired Do It Best Corp. vice president {caucus_heine}. His legislative work has focused on child care licensing, teacher recruitment and tax measures {caucus_hea1253} {caucus_heine}.",
+   "website": "https://www.daveheine85.com/",
+   "background": [
+    "Owner of Heine Farms and retired vice president and corporate officer of Do It Best Corp.; B.S. in accounting from Indiana University (1979) {caucus_heine}.",
+    "Community roles listed by the caucus include vice chair of the Lutheran Foundation board, the Big Brothers Big Sisters of Northeast Indiana board, the Central Lutheran School board in New Haven, and chairman of the New Haven Republican Committee {caucus_heine}.",
+    "His campaign site describes him as a lifelong Allen County resident {heine_site}."
+   ],
+   "path_to_ballot": [
+    "Listed as the only declared Republican for District 85 in the May 5, 2026 primary {wiki_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Property taxes",
+     "items": [
+      "Supported SEA 1 (2025); said it \"delivers property tax relief to Hoosiers, especially in our rural communities\" and is \"about supporting local homeowners and others who have been feeling the impact of rising property taxes\" {caucus_sea1_allen} {rc_sea1_433}."
+     ]
+    },
+    {
+     "topic": "Child care",
+     "items": [
+      "Said in 2025 that \"Child care access is a major concern for Hoosier families\" and that HEA 1253 is \"an important step toward eliminating regulations that limit access to care\" {caucus_hea1253}.",
+      "Said in 2026 that \"Finding quality childcare shouldn't be a barrier for Hoosier parents trying to work\" {caucus_laws26_allen}."
+     ]
+    },
+    {
+     "topic": "Taxes & government",
+     "items": [
+      "His campaign site, which carries a 2022 copyright notice, lists co-authoring \"the largest tax cut bill in Indiana history,\" \"Safeguarding against government overreach,\" abortion restrictions, and \"Empowering parents to choose the best education for their children\" {heine_site}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No statements by Heine about his 2026 challenger were found."
+   ],
+   "plans": [
+    "His campaign site says he \"will continue to use my common sense farming and business background to be a conservative voice for House District 85\" {heine_site}. No 2026-specific agenda was found."
+   ],
+   "endorsements_finance": [
+    "No endorsements or 2026 fundraising totals were found in the sources reviewed."
+   ],
+   "gaps": [
+    "His campaign website appears not to have been updated since 2022; no 2026 platform found.",
+    "No statement found explaining his vote for HB 1032 (redistricting).",
+    "Whether the 2025 teacher-pipeline bill became law was not verified.",
+    "Campaign finance reports were not reviewed (the Indiana campaign finance portal was not checked)."
+   ]
+  },
+  {
+   "ballot_name": "Mark (Bird) Wehrle",
+   "summary": "Democratic nominee; almost no public information about his background or positions could be found {ivg_wehrle}.",
+   "website": null,
+   "background": [
+    "iVoterGuide lists him as a Democrat for District 85 and shows his education, work, affiliations and offices held as \"Candidate did not provide\" {ivg_wehrle}. No other biographical information was found."
+   ],
+   "path_to_ballot": [
+    "Listed as the only declared Democrat for District 85 in the May 5, 2026 primary {wiki_2026}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements by Wehrle about Heine or the district's record were found."
+   ],
+   "plans": [
+    "No campaign plans found."
+   ],
+   "endorsements_finance": [
+    "No endorsements or fundraising reports were found."
+   ],
+   "gaps": [
+    "Very little coverage: no campaign website, news coverage or questionnaire answers were found.",
+    "iVoterGuide links to a Facebook page whose web address refers to \"district43\" (facebook.com/markbirdfordistrict43); it could not be viewed without logging in, so its contents and the reason for the district number are unverified.",
+    "Unverified (search snippets only): a Mark Wehrle ran as the Democratic nominee in House District 84 in 2006 and appeared on a 2008 candidate list; a third-party aggregator (GoodParty) also lists a Phil Goss as a 2026 Democratic candidate. Not confirmed against official records."
+   ]
+  }
+ ],
+ "sources": {
+  "caucus_heine": ["Dave Heine (member page)", "Indiana House Republicans", "accessed 2026-10-10", "https://www.indianahouserepublicans.com/members/general/dave-heine"],
+  "caucus_hea1253": ["Rep. Heine's bill to simplify child care licensing moves to the governor's desk", "Indiana House Republicans", "2025-04-21", "https://www.indianahouserepublicans.com/news/press-releases/rep.-heine-s-bill-to-simplify-child-care-licensing-moves-to-the-governor-s-desk/"],
+  "caucus_sea1_allen": ["Allen County legislators: Legislation delivering robust property tax relief and reform to Hoosiers signed into law", "Indiana House Republicans", "2025-04-16", "https://www.indianahouserepublicans.com/news/press-releases/allen-county-legislators-legislation-delivering-robust-property-tax-relief-and-reform-to-hoosiers-signed-into-law/"],
+  "caucus_laws26_allen": ["Allen County legislators highlight new state laws taking effect", "Indiana House Republicans", "2026-06-25", "https://www.indianahouserepublicans.com/news/press-releases/allen-county-legislators-highlight-new-state-laws-taking-effect/"],
+  "heine_site": ["Vote for Dave Heine", "Citizens for Dave Heine (campaign)", "accessed 2026-10-10", "https://www.daveheine85.com/"],
+  "ivg_wehrle": ["Mark (Bird) Wehrle, State Representative, District 85", "iVoterGuide", "accessed 2026-10-10", "https://ivoterguide.com/candidate/95707/race/30734/election/1456"],
+  "isf_hb1032": ["BILL ADVANCES: 12 House Republicans join Democrats to oppose redistricting, but map moves to Senate", "TheStatehouseFile.com (via The Indiana Citizen)", "2025-12-05", "https://indianacitizen.org/bill-advances-12-house-republicans-join-democrats-to-oppose-redistricting-but-map-moves-to-senate/"],
+  "rc_sea1_433": ["House Roll Call 433: SB 1 (Local government finance), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-04-10", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"],
+  "rc_hb1001_576": ["House Roll Call 576: HB 1001 (State budget), conference committee report", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-04-25", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"],
+  "rc_hb1032_28": ["House Roll Call 28: HB 1032 (Redistricting), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-12-05", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"],
+  "rc_hb1002_149": ["House Roll Call 149: HB 1002 (Electric utility affordability), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2026-01-28", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1002-rollcalls-HB1002-149-H-pdf.pdf"],
+  "wiki_2026": ["2026 Indiana House of Representatives election", "Wikipedia", "accessed 2026-10-10", "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"]
+ }
+}
