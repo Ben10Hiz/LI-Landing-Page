@@ -100,9 +100,7 @@
    "on_incumbent": [
     "No statement by Polk about Criswell's record was found on her campaign site {polk_site}."
    ],
-   "plans": [
-    "Her campaign is organized around the theme \"Faith. Family. Future.\" with the three priorities above {polk_site}."
-   ],
+   "plans": [],
    "endorsements_finance": [
     "No endorsements are listed on her campaign site {polk_site}."
    ],
@@ -115,20 +113,95 @@
   }
  ],
  "sources": {
-  "criswell_bio": ["Cory Criswell — member page", "Indiana House Republicans", "2026-10", "https://www.indianahouserepublicans.com/members/general/cory-criswell/"],
-  "criswell_hea1064": ["Rep. Criswell: Governor ceremonially signs law to improve the athletic transfer process for Indiana students", "Indiana House Republicans", "2025-07-08", "https://www.indianahouserepublicans.com/news/press-releases/rep.-criswell-governor-ceremonially-signs-law-to-improve-the-athletic-transfer-process-for-indiana-students/"],
-  "criswell_hea1131": ["Governor ceremonially signs bill authored by Criswell to modernize cosmetology licensing and strengthen professional standards", "Indiana House Republicans", "2026-05-06", "https://www.indianahouserepublicans.com/news/press-releases/governor-ceremonially-signs-bill-authored-by-criswell-to-modernize-cosmetology-licensing-and-strengthen-professional-standards/"],
-  "criswell_interim": ["Reps. Criswell, Patterson receive 2026 summer study committee appointments", "Indiana House Republicans", "2026-07-02", "https://www.indianahouserepublicans.com/news/press-releases/reps.-criswell-patterson-receive-2026-summer-study-committee-appointments/"],
-  "criswell_site": ["Hoosiers for Criswell", "Cory Criswell campaign", "2026-10", "https://www.hoosiersforcriswell.com/"],
-  "polk_site": ["Nan Polk for Indiana House District 54", "Nan Polk campaign", "2026-10", "https://www.nanforindiana.com/"],
-  "ballotready_polk": ["Nan Polk", "BallotReady", "2026-10", "https://www.ballotready.org/people/nan-polk"],
-  "ct_polk": ["Polk enters District 54 race", "The Courier-Times (New Castle)", "2026-06-30", "https://www.thecouriertimes.com/news/polk-enters-district-54-race/article_663b30a9-6f10-52d0-937e-04d5e0a04e9c.html"],
-  "wiki_2026_inhouse": ["2026 Indiana House of Representatives election", "Wikipedia", "2026-10", "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"],
-  "wiki_2022_inhouse": ["2022 Indiana House of Representatives election", "Wikipedia", "2026-10", "https://en.wikipedia.org/wiki/2022_Indiana_House_of_Representatives_election"],
-  "rc_sb1_433": ["House Roll Call 433: SB 1 (Local government finance), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-04-10", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"],
-  "rc_hb1001_576": ["House Roll Call 576: HB 1001 (State budget), conference committee report", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-04-25", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"],
-  "rc_hb1032_28": ["House Roll Call 28: HB 1032 (Redistricting), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-12-05", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"],
-  "rc_hb1032_8": ["Senate Roll Call 8: HB 1032 (Redistricting), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-12-11", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-8-S-pdf.pdf"],
-  "rc_hb1002_149": ["House Roll Call 149: HB 1002 (Electric utility affordability), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2026-01-28", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1002-rollcalls-HB1002-149-H-pdf.pdf"]
+  "criswell_bio": [
+   "Cory Criswell — member page",
+   "Indiana House Republicans",
+   "2026-10",
+   "https://www.indianahouserepublicans.com/members/general/cory-criswell/"
+  ],
+  "criswell_hea1064": [
+   "Rep. Criswell: Governor ceremonially signs law to improve the athletic transfer process for Indiana students",
+   "Indiana House Republicans",
+   "2025-07-08",
+   "https://www.indianahouserepublicans.com/news/press-releases/rep.-criswell-governor-ceremonially-signs-law-to-improve-the-athletic-transfer-process-for-indiana-students/"
+  ],
+  "criswell_hea1131": [
+   "Governor ceremonially signs bill authored by Criswell to modernize cosmetology licensing and strengthen professional standards",
+   "Indiana House Republicans",
+   "2026-05-06",
+   "https://www.indianahouserepublicans.com/news/press-releases/governor-ceremonially-signs-bill-authored-by-criswell-to-modernize-cosmetology-licensing-and-strengthen-professional-standards/"
+  ],
+  "criswell_interim": [
+   "Reps. Criswell, Patterson receive 2026 summer study committee appointments",
+   "Indiana House Republicans",
+   "2026-07-02",
+   "https://www.indianahouserepublicans.com/news/press-releases/reps.-criswell-patterson-receive-2026-summer-study-committee-appointments/"
+  ],
+  "criswell_site": [
+   "Hoosiers for Criswell",
+   "Cory Criswell campaign",
+   "2026-10",
+   "https://www.hoosiersforcriswell.com/"
+  ],
+  "polk_site": [
+   "Nan Polk for Indiana House District 54",
+   "Nan Polk campaign",
+   "2026-10",
+   "https://www.nanforindiana.com/"
+  ],
+  "ballotready_polk": [
+   "Nan Polk",
+   "BallotReady",
+   "2026-10",
+   "https://www.ballotready.org/people/nan-polk"
+  ],
+  "ct_polk": [
+   "Polk enters District 54 race",
+   "The Courier-Times (New Castle)",
+   "2026-06-30",
+   "https://www.thecouriertimes.com/news/polk-enters-district-54-race/article_663b30a9-6f10-52d0-937e-04d5e0a04e9c.html"
+  ],
+  "wiki_2026_inhouse": [
+   "2026 Indiana House of Representatives election",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  ],
+  "wiki_2022_inhouse": [
+   "2022 Indiana House of Representatives election",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/2022_Indiana_House_of_Representatives_election"
+  ],
+  "rc_sb1_433": [
+   "House Roll Call 433: SB 1 (Local government finance), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-10",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  ],
+  "rc_hb1001_576": [
+   "House Roll Call 576: HB 1001 (State budget), conference committee report",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-25",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  ],
+  "rc_hb1032_28": [
+   "House Roll Call 28: HB 1032 (Redistricting), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-12-05",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  ],
+  "rc_hb1032_8": [
+   "Senate Roll Call 8: HB 1032 (Redistricting), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-12-11",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-8-S-pdf.pdf"
+  ],
+  "rc_hb1002_149": [
+   "House Roll Call 149: HB 1002 (Electric utility affordability), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2026-01-28",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1002-rollcalls-HB1002-149-H-pdf.pdf"
+  ]
  }
 }

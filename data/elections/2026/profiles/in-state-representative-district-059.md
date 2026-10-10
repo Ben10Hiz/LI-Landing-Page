@@ -126,7 +126,7 @@ Campaign website: https://ryanlauer.com
 **Public safety**
 
 - On HEA 1286: "When a victim of domestic violence goes to court seeking a protective order, they should have every tool ready and available to them" [6].
-- Says he co-authored Indiana's law allowing adults to carry handguns without a permit [14].
+- Says he co-authored Indiana's constitutional carry law, which he describes as allowing all adult citizens to possess firearms [14].
 
 **Property taxes**
 

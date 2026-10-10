@@ -95,7 +95,7 @@ Campaign website: https://www.tom4indiana.com/
 ### Background
 
 - Pastor of a small rural church and a denominational leader; has also run a small forestry business working with farmers and landowners [13].
-- Earned a Master of Divinity from the Earlham School of Religion in 2024 and works at Western Yearly Meeting; he and his wife co-pastor a Quaker church [18].
+- Earned a Master of Divinity from the Earlham School of Religion in 2024 and works at Western Yearly Meeting; he co-pastors a Quaker church [18].
 - Age 34; has lived in Richmond for six years [15].
 
 ### Path to the ballot

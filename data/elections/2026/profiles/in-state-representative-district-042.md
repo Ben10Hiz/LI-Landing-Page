@@ -47,7 +47,7 @@ Campaign website: https://brandifor42.com/
 ### Background
 
 - Neonatal intensive care nurse practitioner, according to her campaign website [17].
-- Her website says her husband and grandparents were public school teachers and that she was a caregiver for her grandfather [17].
+- Her website says she was a caregiver for her grandfather [17].
 
 ### Path to the ballot
 

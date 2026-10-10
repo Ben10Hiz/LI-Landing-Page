@@ -37,7 +37,6 @@ Ben Smaltz, a Republican from Auburn, has served in the Indiana House since his 
 - Smaltz was re-elected in 2024 with 76.7% of the vote over Democrat Walt Sorg [15].
 - In the May 5, 2026 Republican primary, Smaltz defeated Eve Peters, 4,408 votes (73.7%) to 1,573 (26.3%), according to Wikipedia, which lists no Democratic primary candidate for the district [16]. Trost appears on the official general-election list [2].
 - No debate or forum between the two candidates was found as of October 10, 2026; Trost's campaign-trail page lists parades and fairs but no forums [17].
-- An October 9, 2026 letter to the editor in KPC News from Tobias Blech of Auburn criticized Smaltz for carrying the redistricting bill [18].
 
 ## Ben Smaltz
 
@@ -73,7 +72,7 @@ The Republican incumbent since 2012 and chair of the House Rules Committee [3].
 
 ### How they say they'd run the office
 
-- No campaign website or published 2026 platform was found; The Ballot Brief reported no campaign website as of September 21, 2026 [19].
+- No campaign website or published 2026 platform was found; The Ballot Brief reported no campaign website as of September 21, 2026 [18].
 
 ### Endorsements & fundraising
 
@@ -87,14 +86,14 @@ The Republican incumbent since 2012 and chair of the House Rules Committee [3].
 
 ## Joseph Trost
 
-The Democratic nominee, a construction worker, according to his campaign [14, 20].
+The Democratic nominee, a construction worker, according to his campaign [14, 19].
 
 Campaign website: https://www.trostfordistrict52.com/
 
 ### Background
 
-- Says he has worked "with my hands and on my feet" his whole adult life, including building housing foundations; his campaign says he works in concrete construction [20, 14].
-- Grew up in LaGrange and earned a bachelor's degree in political science from Indiana University; took part in the Indiana Legislative Youth Advisory Council and Hoosier Boys State, according to his campaign [20].
+- Says he has worked "with my hands and on my feet" his whole adult life, including building housing foundations; his campaign says he works in concrete construction [19, 14].
+- Grew up in LaGrange and earned a bachelor's degree in political science from Indiana University; took part in the Indiana Legislative Youth Advisory Council and Hoosier Boys State, according to his campaign [19].
 - His campaign lists a mailing address in Avilla [14].
 
 ### Path to the ballot
@@ -109,7 +108,7 @@ Campaign website: https://www.trostfordistrict52.com/
 
 **Economy & jobs**
 
-- Focuses on rural development and incentives to help small businesses, according to his campaign [14]. Says "all Hoosiers deserve the ability to make a decent living" [20].
+- Focuses on rural development and incentives to help small businesses, according to his campaign [14]. Says "all Hoosiers deserve the ability to make a decent living" [19].
 
 **Veterans**
 
@@ -152,6 +151,5 @@ Campaign website: https://www.trostfordistrict52.com/
 15. [2024 Indiana House of Representatives election](https://en.wikipedia.org/wiki/2024_Indiana_House_of_Representatives_election) — Wikipedia, 2026-10
 16. [2026 Indiana House of Representatives election](https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election) — Wikipedia, 2026-10
 17. [On the Campaign Trail](https://www.trostfordistrict52.com/on-the-campaign-trail) — Joseph Trost campaign, 2026-10
-18. [Remember what Smaltz did when outsiders came calling (letter to the editor)](https://www.kpcnews.com/opinions/letters/kpcnews/article_43d49781-b387-4129-ac7c-9b6d249fe163.html) — KPC News, 2026-10-09
-19. [Indiana House District 52](https://theballotbrief.com/state/indiana/dekalb-county/indiana-house-district-52) — The Ballot Brief, 2026-09
-20. [About](https://www.trostfordistrict52.com/about) — Joseph Trost campaign, 2026-10
+18. [Indiana House District 52](https://theballotbrief.com/state/indiana/dekalb-county/indiana-house-district-52) — The Ballot Brief, 2026-09
+19. [About](https://www.trostfordistrict52.com/about) — Joseph Trost campaign, 2026-10

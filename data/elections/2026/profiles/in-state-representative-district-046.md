@@ -104,7 +104,6 @@ Campaign website: https://www.pittsford4indiana.com/
 
 - Born in Bloomington, grew up in Ellettsville and graduated from Edgewood High School [16].
 - Apprenticed with Plumbers and Steamfitters Local 136 and worked in the trade for 40 years before retiring; served two terms on the local's executive board and one on its finance committee [16].
-- Member of Bethel Baptist Church in Owen County [16].
 
 ### Path to the ballot
 

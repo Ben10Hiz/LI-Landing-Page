@@ -92,8 +92,7 @@
    "website": "https://www.pittsford4indiana.com/",
    "background": [
     "Born in Bloomington, grew up in Ellettsville and graduated from Edgewood High School {pittsford_about}.",
-    "Apprenticed with Plumbers and Steamfitters Local 136 and worked in the trade for 40 years before retiring; served two terms on the local's executive board and one on its finance committee {pittsford_about}.",
-    "Member of Bethel Baptist Church in Owen County {pittsford_about}."
+    "Apprenticed with Plumbers and Steamfitters Local 136 and worked in the trade for 40 years before retiring; served two terms on the local's executive board and one on its finance committee {pittsford_about}."
    ],
    "path_to_ballot": [
     "Was the only Democrat listed in the May 5, 2026 primary {wiki_2026} {br_pittsford}."
@@ -148,21 +147,101 @@
   }
  ],
  "sources": {
-  "caucus_heaton": ["State Rep. Bob Heaton", "Indiana House Republicans", "accessed 2026-10-10", "https://www.indianahouserepublicans.com/members/leadership/bob-heaton/"],
-  "caucus_heaton_2025wrap": ["Heaton: Wrapping up the 2025 legislative session", "Indiana House Republicans", "2025-04-30", "https://www.indianahouserepublicans.com/news/press-releases/heaton-wrapping-up-the-2025-legislative-session/"],
-  "caucus_hea1253": ["Legislation co-authored by Rep. Heaton to simplify child care licensing moves to the governor's desk", "Indiana House Republicans", "2025-04", "https://www.indianahouserepublicans.com/news/press-releases/legislation-co-authored-by-rep.-heaton-to-simplify-child-care-licensing-moves-to-the-governor-s-desk/"],
-  "caucus_hr28": ["Resolution co-authored by Rep. Heaton urging action on national debt passes House Ways and Means Committee", "Indiana House Republicans", "2026-02-17", "https://www.indianahouserepublicans.com/news/press-releases/resolution-co-authored-by-rep.-heaton-urging-action-on-national-debt-passes-house-ways-and-means-committee/"],
-  "caucus_heaton_session26": ["Reps. Heaton, Yocum: Legislative session ends with new laws to help Hoosiers", "Indiana House Republicans", "2026-03-25", "https://www.indianahouserepublicans.com/news/press-releases/reps.-heaton-yocum-legislative-session-ends-with-new-laws-to-help-hoosiers/"],
-  "caucus_diesel": ["Reps. Heaton, Yocum: Governor answers lawmakers' call to provide diesel fuel relief for farmers", "Indiana House Republicans", "2026-10-05", "https://www.indianahouserepublicans.com/news/press-releases/reps.-heaton-yocum-governor-answers-lawmakers-call-to-provide-diesel-fuel-relief-for-farmers/"],
-  "rc_hb1032_28": ["House Roll Call 28: HB 1032 (Redistricting), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-12-05", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"],
-  "rc_sea1_433": ["House Roll Call 433: SB 1 (Local government finance), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-04-10", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"],
-  "rc_hb1001_576": ["House Roll Call 576: HB 1001 (State budget), conference committee report", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-04-25", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"],
-  "wiki_2026": ["2026 Indiana House of Representatives election", "Wikipedia", "accessed 2026-10-10", "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"],
-  "ts_primary": ["Primary race: Indiana State Representative District 46 - Republicans", "Tribune-Star", "2026-04-24", "https://www.tribstar.com/news/local_news/primary-race-indiana-state-representative-district-46---republicans/article_395c8b94-f3c9-471a-ac33-099f3a6a425e.html"],
-  "infb_endorse": ["Indiana Farm Bureau PACs endorse 33 candidates for primary", "Indiana Farm Bureau", "2026-03-30", "https://www.infarmbureau.org/resources/news-media/news-article/2026/03/30/indiana-farm-bureau-pacs-endorse-33-candidates-for-primary"],
-  "pittsford_home": ["Pittsford for Indiana", "Pittsford campaign", "accessed 2026-10-10", "https://www.pittsford4indiana.com/"],
-  "pittsford_about": ["About", "Pittsford campaign", "accessed 2026-10-10", "https://www.pittsford4indiana.com/about"],
-  "pittsford_endorse": ["Endorsements", "Pittsford campaign", "accessed 2026-10-10", "https://www.pittsford4indiana.com/endorsements"],
-  "br_pittsford": ["James Pittsford III", "BallotReady", "accessed 2026-10-10", "https://www.ballotready.org/people/james-pittsford-iii"]
+  "caucus_heaton": [
+   "State Rep. Bob Heaton",
+   "Indiana House Republicans",
+   "accessed 2026-10-10",
+   "https://www.indianahouserepublicans.com/members/leadership/bob-heaton/"
+  ],
+  "caucus_heaton_2025wrap": [
+   "Heaton: Wrapping up the 2025 legislative session",
+   "Indiana House Republicans",
+   "2025-04-30",
+   "https://www.indianahouserepublicans.com/news/press-releases/heaton-wrapping-up-the-2025-legislative-session/"
+  ],
+  "caucus_hea1253": [
+   "Legislation co-authored by Rep. Heaton to simplify child care licensing moves to the governor's desk",
+   "Indiana House Republicans",
+   "2025-04",
+   "https://www.indianahouserepublicans.com/news/press-releases/legislation-co-authored-by-rep.-heaton-to-simplify-child-care-licensing-moves-to-the-governor-s-desk/"
+  ],
+  "caucus_hr28": [
+   "Resolution co-authored by Rep. Heaton urging action on national debt passes House Ways and Means Committee",
+   "Indiana House Republicans",
+   "2026-02-17",
+   "https://www.indianahouserepublicans.com/news/press-releases/resolution-co-authored-by-rep.-heaton-urging-action-on-national-debt-passes-house-ways-and-means-committee/"
+  ],
+  "caucus_heaton_session26": [
+   "Reps. Heaton, Yocum: Legislative session ends with new laws to help Hoosiers",
+   "Indiana House Republicans",
+   "2026-03-25",
+   "https://www.indianahouserepublicans.com/news/press-releases/reps.-heaton-yocum-legislative-session-ends-with-new-laws-to-help-hoosiers/"
+  ],
+  "caucus_diesel": [
+   "Reps. Heaton, Yocum: Governor answers lawmakers' call to provide diesel fuel relief for farmers",
+   "Indiana House Republicans",
+   "2026-10-05",
+   "https://www.indianahouserepublicans.com/news/press-releases/reps.-heaton-yocum-governor-answers-lawmakers-call-to-provide-diesel-fuel-relief-for-farmers/"
+  ],
+  "rc_hb1032_28": [
+   "House Roll Call 28: HB 1032 (Redistricting), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-12-05",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  ],
+  "rc_sea1_433": [
+   "House Roll Call 433: SB 1 (Local government finance), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-10",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  ],
+  "rc_hb1001_576": [
+   "House Roll Call 576: HB 1001 (State budget), conference committee report",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-25",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  ],
+  "wiki_2026": [
+   "2026 Indiana House of Representatives election",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  ],
+  "ts_primary": [
+   "Primary race: Indiana State Representative District 46 - Republicans",
+   "Tribune-Star",
+   "2026-04-24",
+   "https://www.tribstar.com/news/local_news/primary-race-indiana-state-representative-district-46---republicans/article_395c8b94-f3c9-471a-ac33-099f3a6a425e.html"
+  ],
+  "infb_endorse": [
+   "Indiana Farm Bureau PACs endorse 33 candidates for primary",
+   "Indiana Farm Bureau",
+   "2026-03-30",
+   "https://www.infarmbureau.org/resources/news-media/news-article/2026/03/30/indiana-farm-bureau-pacs-endorse-33-candidates-for-primary"
+  ],
+  "pittsford_home": [
+   "Pittsford for Indiana",
+   "Pittsford campaign",
+   "accessed 2026-10-10",
+   "https://www.pittsford4indiana.com/"
+  ],
+  "pittsford_about": [
+   "About",
+   "Pittsford campaign",
+   "accessed 2026-10-10",
+   "https://www.pittsford4indiana.com/about"
+  ],
+  "pittsford_endorse": [
+   "Endorsements",
+   "Pittsford campaign",
+   "accessed 2026-10-10",
+   "https://www.pittsford4indiana.com/endorsements"
+  ],
+  "br_pittsford": [
+   "James Pittsford III",
+   "BallotReady",
+   "accessed 2026-10-10",
+   "https://www.ballotready.org/people/james-pittsford-iii"
+  ]
  }
 }

@@ -98,7 +98,7 @@
    "website": "https://www.peopleforpepper.com",
    "background": [
     "Worked more than 13 years for the Indiana Family and Social Services Administration as an eligibility specialist, fraud investigator and state eligibility manager {snyder_home}; her campaign says she supervised and investigated food stamp and Medicaid fraud {snyder_meet}.",
-    "Lives in Huntington County; Seeger High School graduate; her husband is a U.S. Army infantry veteran {snyder_meet}.",
+    "Lives in Huntington County; Seeger High School graduate {snyder_meet}.",
     "A Pepper Snyder of Huntington was the Libertarian Party's 2016 nominee for Indiana's 3rd Congressional District {wowo_2016} {wiki_2026}."
    ],
    "path_to_ballot": [
@@ -160,23 +160,113 @@
   }
  ],
  "sources": {
-  "caucus_sweet": ["Lorissa Sweet (member page)", "Indiana House Republicans", "accessed 2026-10-10", "https://www.indianahouserepublicans.com/members/general/lorissa-sweet/"],
-  "caucus_interim_2026": ["Reps. Sweet, Snow receive 2026 summer study committee appointments", "Indiana House Republicans", "2026-07-13", "https://www.indianahouserepublicans.com/news/press-releases/reps.-sweet-snow-receive-2026-summer-study-committee-appointments/"],
-  "caucus_hb1286": ["Rep. Sweet's bill would return Indiana to hand-marked, hand-counted paper ballots", "Indiana House Republicans", "2024-01-24", "https://www.indianahouserepublicans.com/news/press-releases/rep.-sweet-s-bill-would-return-indiana-to-hand-marked-hand-counted-paper-ballots/"],
-  "caucus_hb1413": ["Legislation co-authored by Rep. Sweet addressing backlog of untested rape kits heads to Senate", "Indiana House Republicans", "2025-03-03", "https://www.indianahouserepublicans.com/news/press-releases/legislation-co-authored-by-rep.-sweet-addressing-backlog-of-untested-rape-kits-heads-to-senate/"],
-  "caucus_jamming": ["Gov. Braun ceremonially signs bill co-sponsored by Rep. Sweet banning signal jamming devices", "Indiana House Republicans", "2025-09-09", "https://www.indianahouserepublicans.com/news/press-releases/gov.-braun-ceremonially-signs-bill-co-sponsored-by-rep.-sweet-banning-signal-jamming-devices/"],
-  "wfyi_kinsey": ["House Republicans vote to block public funding from Kinsey Institute at Indiana University", "WFYI (via WVPE)", "2023-02-23", "https://www.wvpe.org/wvpe-news/2023-02-23/house-republicans-vote-to-block-public-funding-from-kinsey-institute-at-indiana-university"],
-  "fd_hb1166": ["HB 1166 (2026): Elections", "FastDemocracy", "accessed 2026-10-10", "https://fastdemocracy.com/bill/in/2026/bills/INB00015116"],
-  "wiki_sweet": ["Lorissa Sweet", "Wikipedia", "accessed 2026-10-10", "https://en.wikipedia.org/wiki/Lorissa_Sweet"],
-  "sweet_site": ["Lorissa Sweet for Indiana State Representative", "Lorissa Sweet campaign", "accessed 2026-10-10", "https://www.sweet4indiana.com/"],
-  "rc_sea1_433": ["House Roll Call 433: SB 1 (Local government finance), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-04-10", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"],
-  "rc_hb1001_576": ["House Roll Call 576: HB 1001 (State budget), conference committee report", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-04-25", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"],
-  "rc_hb1032_28": ["House Roll Call 28: HB 1032 (Redistricting), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-12-05", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"],
-  "wiki_2026": ["2026 Indiana House of Representatives election", "Wikipedia", "accessed 2026-10-10", "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"],
-  "wowo_2016": ["Libertarian candidate chosen for 3rd District congress race", "WOWO", "2016-05-31", "https://www.wowo.com/libertarian-candidate-chosen-3rd-district-congress-race/"],
-  "snyder_home": ["People for Pepper (home page)", "Pepper Snyder campaign", "accessed 2026-10-10", "https://www.peopleforpepper.com/"],
-  "snyder_meet": ["Meet Pepper", "Pepper Snyder campaign", "accessed 2026-10-10", "https://www.peopleforpepper.com/meet_pepper"],
-  "snyder_issues": ["Issues", "Pepper Snyder campaign", "accessed 2026-10-10", "https://www.peopleforpepper.com/issues"],
-  "snyder_endorse": ["Endorsements", "Pepper Snyder campaign", "accessed 2026-10-10", "https://www.peopleforpepper.com/view-endorsements"]
+  "caucus_sweet": [
+   "Lorissa Sweet (member page)",
+   "Indiana House Republicans",
+   "accessed 2026-10-10",
+   "https://www.indianahouserepublicans.com/members/general/lorissa-sweet/"
+  ],
+  "caucus_interim_2026": [
+   "Reps. Sweet, Snow receive 2026 summer study committee appointments",
+   "Indiana House Republicans",
+   "2026-07-13",
+   "https://www.indianahouserepublicans.com/news/press-releases/reps.-sweet-snow-receive-2026-summer-study-committee-appointments/"
+  ],
+  "caucus_hb1286": [
+   "Rep. Sweet's bill would return Indiana to hand-marked, hand-counted paper ballots",
+   "Indiana House Republicans",
+   "2024-01-24",
+   "https://www.indianahouserepublicans.com/news/press-releases/rep.-sweet-s-bill-would-return-indiana-to-hand-marked-hand-counted-paper-ballots/"
+  ],
+  "caucus_hb1413": [
+   "Legislation co-authored by Rep. Sweet addressing backlog of untested rape kits heads to Senate",
+   "Indiana House Republicans",
+   "2025-03-03",
+   "https://www.indianahouserepublicans.com/news/press-releases/legislation-co-authored-by-rep.-sweet-addressing-backlog-of-untested-rape-kits-heads-to-senate/"
+  ],
+  "caucus_jamming": [
+   "Gov. Braun ceremonially signs bill co-sponsored by Rep. Sweet banning signal jamming devices",
+   "Indiana House Republicans",
+   "2025-09-09",
+   "https://www.indianahouserepublicans.com/news/press-releases/gov.-braun-ceremonially-signs-bill-co-sponsored-by-rep.-sweet-banning-signal-jamming-devices/"
+  ],
+  "wfyi_kinsey": [
+   "House Republicans vote to block public funding from Kinsey Institute at Indiana University",
+   "WFYI (via WVPE)",
+   "2023-02-23",
+   "https://www.wvpe.org/wvpe-news/2023-02-23/house-republicans-vote-to-block-public-funding-from-kinsey-institute-at-indiana-university"
+  ],
+  "fd_hb1166": [
+   "HB 1166 (2026): Elections",
+   "FastDemocracy",
+   "accessed 2026-10-10",
+   "https://fastdemocracy.com/bill/in/2026/bills/INB00015116"
+  ],
+  "wiki_sweet": [
+   "Lorissa Sweet",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/Lorissa_Sweet"
+  ],
+  "sweet_site": [
+   "Lorissa Sweet for Indiana State Representative",
+   "Lorissa Sweet campaign",
+   "accessed 2026-10-10",
+   "https://www.sweet4indiana.com/"
+  ],
+  "rc_sea1_433": [
+   "House Roll Call 433: SB 1 (Local government finance), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-10",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  ],
+  "rc_hb1001_576": [
+   "House Roll Call 576: HB 1001 (State budget), conference committee report",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-25",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  ],
+  "rc_hb1032_28": [
+   "House Roll Call 28: HB 1032 (Redistricting), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-12-05",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  ],
+  "wiki_2026": [
+   "2026 Indiana House of Representatives election",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  ],
+  "wowo_2016": [
+   "Libertarian candidate chosen for 3rd District congress race",
+   "WOWO",
+   "2016-05-31",
+   "https://www.wowo.com/libertarian-candidate-chosen-3rd-district-congress-race/"
+  ],
+  "snyder_home": [
+   "People for Pepper (home page)",
+   "Pepper Snyder campaign",
+   "accessed 2026-10-10",
+   "https://www.peopleforpepper.com/"
+  ],
+  "snyder_meet": [
+   "Meet Pepper",
+   "Pepper Snyder campaign",
+   "accessed 2026-10-10",
+   "https://www.peopleforpepper.com/meet_pepper"
+  ],
+  "snyder_issues": [
+   "Issues",
+   "Pepper Snyder campaign",
+   "accessed 2026-10-10",
+   "https://www.peopleforpepper.com/issues"
+  ],
+  "snyder_endorse": [
+   "Endorsements",
+   "Pepper Snyder campaign",
+   "accessed 2026-10-10",
+   "https://www.peopleforpepper.com/view-endorsements"
+  ]
  }
 }

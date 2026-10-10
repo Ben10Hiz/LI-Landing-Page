@@ -22,8 +22,7 @@
   "House District 52 covers all of DeKalb County and parts of Noble and Steuben counties, according to the House Republican caucus {smaltz_bio}; Trost's campaign lists Allen and Wayne townships in Noble County and York, Steuben, Richland and Otsego townships in Steuben County {trost_site}.",
   "Smaltz was re-elected in 2024 with 76.7% of the vote over Democrat Walt Sorg {wiki_2024_inhouse}.",
   "In the May 5, 2026 Republican primary, Smaltz defeated Eve Peters, 4,408 votes (73.7%) to 1,573 (26.3%), according to Wikipedia, which lists no Democratic primary candidate for the district {wiki_2026_inhouse}. Trost appears on the official general-election list {in_list}.",
-  "No debate or forum between the two candidates was found as of October 10, 2026; Trost's campaign-trail page lists parades and fairs but no forums {trost_trail}.",
-  "An October 9, 2026 letter to the editor in KPC News from Tobias Blech of Auburn criticized Smaltz for carrying the redistricting bill {kpc_letter}."
+  "No debate or forum between the two candidates was found as of October 10, 2026; Trost's campaign-trail page lists parades and fairs but no forums {trost_trail}."
  ],
  "candidates": [
   {
@@ -122,23 +121,107 @@
   }
  ],
  "sources": {
-  "smaltz_bio": ["Ben Smaltz — member page", "Indiana House Republicans", "2026-10", "https://www.indianahouserepublicans.com/members/general/ben-smaltz/"],
-  "smaltz_hea1137": ["Senate approves Smaltz's legislation to expunge specific red flag records, uphold Second Amendment rights", "Indiana House Republicans", "2025-03-26", "https://www.indianahouserepublicans.com/news/press-releases/senate-approves-smaltz-s-legislation-to-expunge-specific-red-flag-records-uphold-second-amendment-rights/"],
-  "smaltz_hea1687": ["Rep. Smaltz's bill to strengthen sex offender relocation rules signed into law", "Indiana House Republicans", "2025-04-17", "https://www.indianahouserepublicans.com/news/press-releases/rep.-smaltz-s-bill-to-strengthen-sex-offender-relocation-rules-signed-into-law/"],
-  "smaltz_casino": ["Smaltz responds to Indiana Gaming Commission report identifying Auburn as a possible casino site", "Indiana House Republicans", "2025-11-05", "https://www.indianahouserepublicans.com/news/press-releases/smaltz-responds-to-indiana-gaming-commission-report-identifying-auburn-as-a-possible-casino-site/"],
-  "smaltz_hb1032": ["Smaltz issues statement on House Bill 1032", "Indiana House Republicans", "2025-12-03", "https://www.indianahouserepublicans.com/news/press-releases/smaltz-issues-statement-on-house-bill-1032/"],
-  "ipm_hb1032": ["House panel advances Indiana map drawn 'purely for political performance' of GOP (Indiana Capital Chronicle)", "Indiana Public Media (WFIU)", "2025-12-02", "https://www.ipm.org/news/2025-12-02/indiana-map-drawn-purely-for-political-performance-of-gop-bill-author-says"],
-  "kpc_letter": ["Remember what Smaltz did when outsiders came calling (letter to the editor)", "KPC News", "2026-10-09", "https://www.kpcnews.com/opinions/letters/kpcnews/article_43d49781-b387-4129-ac7c-9b6d249fe163.html"],
-  "trost_site": ["Joseph Trost for Indiana House District 52", "Joseph Trost campaign", "2026-10", "https://www.trostfordistrict52.com/"],
-  "trost_about": ["About", "Joseph Trost campaign", "2026-10", "https://www.trostfordistrict52.com/about"],
-  "trost_trail": ["On the Campaign Trail", "Joseph Trost campaign", "2026-10", "https://www.trostfordistrict52.com/on-the-campaign-trail"],
-  "ballotbrief_hd52": ["Indiana House District 52", "The Ballot Brief", "2026-09", "https://theballotbrief.com/state/indiana/dekalb-county/indiana-house-district-52"],
-  "wiki_2026_inhouse": ["2026 Indiana House of Representatives election", "Wikipedia", "2026-10", "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"],
-  "wiki_2024_inhouse": ["2024 Indiana House of Representatives election", "Wikipedia", "2026-10", "https://en.wikipedia.org/wiki/2024_Indiana_House_of_Representatives_election"],
-  "rc_sb1_433": ["House Roll Call 433: SB 1 (Local government finance), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-04-10", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"],
-  "rc_hb1001_576": ["House Roll Call 576: HB 1001 (State budget), conference committee report", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-04-25", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"],
-  "rc_hb1032_28": ["House Roll Call 28: HB 1032 (Redistricting), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-12-05", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"],
-  "rc_hb1032_8": ["Senate Roll Call 8: HB 1032 (Redistricting), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-12-11", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-8-S-pdf.pdf"],
-  "rc_hb1002_149": ["House Roll Call 149: HB 1002 (Electric utility affordability), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2026-01-28", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1002-rollcalls-HB1002-149-H-pdf.pdf"]
+  "smaltz_bio": [
+   "Ben Smaltz — member page",
+   "Indiana House Republicans",
+   "2026-10",
+   "https://www.indianahouserepublicans.com/members/general/ben-smaltz/"
+  ],
+  "smaltz_hea1137": [
+   "Senate approves Smaltz's legislation to expunge specific red flag records, uphold Second Amendment rights",
+   "Indiana House Republicans",
+   "2025-03-26",
+   "https://www.indianahouserepublicans.com/news/press-releases/senate-approves-smaltz-s-legislation-to-expunge-specific-red-flag-records-uphold-second-amendment-rights/"
+  ],
+  "smaltz_hea1687": [
+   "Rep. Smaltz's bill to strengthen sex offender relocation rules signed into law",
+   "Indiana House Republicans",
+   "2025-04-17",
+   "https://www.indianahouserepublicans.com/news/press-releases/rep.-smaltz-s-bill-to-strengthen-sex-offender-relocation-rules-signed-into-law/"
+  ],
+  "smaltz_casino": [
+   "Smaltz responds to Indiana Gaming Commission report identifying Auburn as a possible casino site",
+   "Indiana House Republicans",
+   "2025-11-05",
+   "https://www.indianahouserepublicans.com/news/press-releases/smaltz-responds-to-indiana-gaming-commission-report-identifying-auburn-as-a-possible-casino-site/"
+  ],
+  "smaltz_hb1032": [
+   "Smaltz issues statement on House Bill 1032",
+   "Indiana House Republicans",
+   "2025-12-03",
+   "https://www.indianahouserepublicans.com/news/press-releases/smaltz-issues-statement-on-house-bill-1032/"
+  ],
+  "ipm_hb1032": [
+   "House panel advances Indiana map drawn 'purely for political performance' of GOP (Indiana Capital Chronicle)",
+   "Indiana Public Media (WFIU)",
+   "2025-12-02",
+   "https://www.ipm.org/news/2025-12-02/indiana-map-drawn-purely-for-political-performance-of-gop-bill-author-says"
+  ],
+  "trost_site": [
+   "Joseph Trost for Indiana House District 52",
+   "Joseph Trost campaign",
+   "2026-10",
+   "https://www.trostfordistrict52.com/"
+  ],
+  "trost_about": [
+   "About",
+   "Joseph Trost campaign",
+   "2026-10",
+   "https://www.trostfordistrict52.com/about"
+  ],
+  "trost_trail": [
+   "On the Campaign Trail",
+   "Joseph Trost campaign",
+   "2026-10",
+   "https://www.trostfordistrict52.com/on-the-campaign-trail"
+  ],
+  "ballotbrief_hd52": [
+   "Indiana House District 52",
+   "The Ballot Brief",
+   "2026-09",
+   "https://theballotbrief.com/state/indiana/dekalb-county/indiana-house-district-52"
+  ],
+  "wiki_2026_inhouse": [
+   "2026 Indiana House of Representatives election",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  ],
+  "wiki_2024_inhouse": [
+   "2024 Indiana House of Representatives election",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/2024_Indiana_House_of_Representatives_election"
+  ],
+  "rc_sb1_433": [
+   "House Roll Call 433: SB 1 (Local government finance), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-10",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  ],
+  "rc_hb1001_576": [
+   "House Roll Call 576: HB 1001 (State budget), conference committee report",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-25",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  ],
+  "rc_hb1032_28": [
+   "House Roll Call 28: HB 1032 (Redistricting), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-12-05",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  ],
+  "rc_hb1032_8": [
+   "Senate Roll Call 8: HB 1032 (Redistricting), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-12-11",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-8-S-pdf.pdf"
+  ],
+  "rc_hb1002_149": [
+   "House Roll Call 149: HB 1002 (Electric utility affordability), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2026-01-28",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1002-rollcalls-HB1002-149-H-pdf.pdf"
+  ]
  }
 }

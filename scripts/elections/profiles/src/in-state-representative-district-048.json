@@ -84,7 +84,7 @@
    "website": "https://emilyyaw.com",
    "background": [
     "Accountant at ATC Trailers in Nappanee; grew up in Goshen and attended Fairfield High School and Bethel College in Mishawaka {yaw_about}.",
-    "Says she has lived in Elkhart County her entire life {yaw_home}. Was a foster parent for about six years and is involved with Servant's Hearth Community Church, including its farmers-market fundraising for community outreach {yaw_about}."
+    "Says she has lived in Elkhart County her entire life {yaw_home}. Was a foster parent for about six years {yaw_about}."
    ],
    "path_to_ballot": [
     "Won the May 5, 2026 Democratic primary over Carl Stutsman, 1,007 votes (54%) to 858 (46%) {wiki_2026}."
@@ -204,19 +204,89 @@
   }
  ],
  "sources": {
-  "caucus_miller": ["Doug Miller (member page)", "Indiana House Republicans", "accessed 2026-10-10", "https://www.indianahouserepublicans.com/members/general/doug-miller/"],
-  "caucus_interim_2026": ["Elkhart County legislators receive 2026 summer study committee appointments", "Indiana House Republicans", "2026-07-10", "https://www.indianahouserepublicans.com/news/press-releases/elkhart-county-legislators-receive-2026-summer-study-committee-appointments/"],
-  "caucus_goshen_housing": ["Reps. King, Miller: New Goshen housing development breaks ground with help from new state law", "Indiana House Republicans", "2024-10-16", "https://www.indianahouserepublicans.com/news/press-releases/reps.-king-miller-new-goshen-housing-development-breaks-ground-with-help-from-new-state-law/"],
-  "caucus_hea1001_2026": ["Rep. Miller: House Republican priority bill to increase home ownership signed into law", "Indiana House Republicans", "2026-04-14", "https://www.indianahouserepublicans.com/news/press-releases/rep.-miller-house-republican-priority-bill-to-increase-home-ownership-signed-into-law/"],
-  "icc_hb1001_house": ["Proposed limits on local housing regulations clears Indiana House", "Indiana Capital Chronicle (via Yahoo News)", "2026-01-28", "https://www.yahoo.com/news/articles/proposed-limits-local-housing-regulations-111018683.html"],
-  "rc_sea1_433": ["House Roll Call 433: SB 1 (Local government finance), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-04-10", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"],
-  "rc_hb1001_576": ["House Roll Call 576: HB 1001 (State budget), conference committee report", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-04-25", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"],
-  "rc_hb1032_28": ["House Roll Call 28: HB 1032 (Redistricting), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-12-05", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"],
-  "wiki_2026": ["2026 Indiana House of Representatives election", "Wikipedia", "accessed 2026-10-10", "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"],
-  "et_travis": ["Travis announces run for state House 48", "The Elkhart Truth (via Yahoo News)", "2026-01-22", "https://www.yahoo.com/news/articles/travis-announces-run-state-house-045900940.html"],
-  "yaw_home": ["Emily Yaw for Indiana House District 48 (home page)", "Emily Yaw campaign", "accessed 2026-10-10", "https://emilyyaw.com/"],
-  "yaw_about": ["About me", "Emily Yaw campaign", "accessed 2026-10-10", "https://emilyyaw.com/about-me"],
-  "yaw_issues": ["Issues", "Emily Yaw campaign", "accessed 2026-10-10", "https://emilyyaw.com/issues"],
-  "travis_site": ["Travis for Indiana 48", "Indiana Green Party (candidate page)", "accessed 2026-10-10", "https://greenpartyin.com/travisforindiana48/"]
+  "caucus_miller": [
+   "Doug Miller (member page)",
+   "Indiana House Republicans",
+   "accessed 2026-10-10",
+   "https://www.indianahouserepublicans.com/members/general/doug-miller/"
+  ],
+  "caucus_interim_2026": [
+   "Elkhart County legislators receive 2026 summer study committee appointments",
+   "Indiana House Republicans",
+   "2026-07-10",
+   "https://www.indianahouserepublicans.com/news/press-releases/elkhart-county-legislators-receive-2026-summer-study-committee-appointments/"
+  ],
+  "caucus_goshen_housing": [
+   "Reps. King, Miller: New Goshen housing development breaks ground with help from new state law",
+   "Indiana House Republicans",
+   "2024-10-16",
+   "https://www.indianahouserepublicans.com/news/press-releases/reps.-king-miller-new-goshen-housing-development-breaks-ground-with-help-from-new-state-law/"
+  ],
+  "caucus_hea1001_2026": [
+   "Rep. Miller: House Republican priority bill to increase home ownership signed into law",
+   "Indiana House Republicans",
+   "2026-04-14",
+   "https://www.indianahouserepublicans.com/news/press-releases/rep.-miller-house-republican-priority-bill-to-increase-home-ownership-signed-into-law/"
+  ],
+  "icc_hb1001_house": [
+   "Proposed limits on local housing regulations clears Indiana House",
+   "Indiana Capital Chronicle (via Yahoo News)",
+   "2026-01-28",
+   "https://www.yahoo.com/news/articles/proposed-limits-local-housing-regulations-111018683.html"
+  ],
+  "rc_sea1_433": [
+   "House Roll Call 433: SB 1 (Local government finance), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-10",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  ],
+  "rc_hb1001_576": [
+   "House Roll Call 576: HB 1001 (State budget), conference committee report",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-25",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  ],
+  "rc_hb1032_28": [
+   "House Roll Call 28: HB 1032 (Redistricting), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-12-05",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  ],
+  "wiki_2026": [
+   "2026 Indiana House of Representatives election",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  ],
+  "et_travis": [
+   "Travis announces run for state House 48",
+   "The Elkhart Truth (via Yahoo News)",
+   "2026-01-22",
+   "https://www.yahoo.com/news/articles/travis-announces-run-state-house-045900940.html"
+  ],
+  "yaw_home": [
+   "Emily Yaw for Indiana House District 48 (home page)",
+   "Emily Yaw campaign",
+   "accessed 2026-10-10",
+   "https://emilyyaw.com/"
+  ],
+  "yaw_about": [
+   "About me",
+   "Emily Yaw campaign",
+   "accessed 2026-10-10",
+   "https://emilyyaw.com/about-me"
+  ],
+  "yaw_issues": [
+   "Issues",
+   "Emily Yaw campaign",
+   "accessed 2026-10-10",
+   "https://emilyyaw.com/issues"
+  ],
+  "travis_site": [
+   "Travis for Indiana 48",
+   "Indiana Green Party (candidate page)",
+   "accessed 2026-10-10",
+   "https://greenpartyin.com/travisforindiana48/"
+  ]
  }
 }

@@ -90,7 +90,6 @@ Campaign website: https://sites.google.com/view/indianadistrict41jacksonhayes/ho
 **Civil rights**
 
 - Opposes requiring identification documents to match birth certificates, which he says was designed to hurt transgender people [11].
-- His website's "Thoughts" page contains an essay criticizing what it calls "MAGA Republicanism" [13].
 
 ### On the current officeholder
 
@@ -163,4 +162,3 @@ Rep. Mark Genda, the Republican incumbent seeking a third term, is a Clinton Cou
 10. [2026 Indiana House of Representatives election](https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election) — Wikipedia, accessed 2026-10-10
 11. [Jackson Hayes for Indiana House District 41](https://sites.google.com/view/indianadistrict41jacksonhayes/home) — Hayes campaign, accessed 2026-10-10
 12. [Jackson T. Hayes](https://www.ballotready.org/people/jackson-t-hayes) — BallotReady, accessed 2026-10-10
-13. [Thoughts](https://sites.google.com/view/indianadistrict41jacksonhayes/thoughts) — Hayes campaign, accessed 2026-10-10

@@ -40,7 +40,7 @@ Greg Steuerwald, an Avon Republican and attorney, has served in the Indiana Hous
 
 ## Gregory E. Steuerwald
 
-Rep. Greg Steuerwald, the Republican incumbent and House Majority Caucus Chair, is a Danville-area attorney who has focused on criminal law and courts legislation [3].
+Rep. Greg Steuerwald, the Republican incumbent and House Majority Caucus Chair, is an attorney who has focused on criminal law and courts legislation [3].
 
 Campaign website: https://gregsteuerwald.com/
 

@@ -109,7 +109,7 @@ Campaign website: https://www.peopleforpepper.com
 ### Background
 
 - Worked more than 13 years for the Indiana Family and Social Services Administration as an eligibility specialist, fraud investigator and state eligibility manager [17]; her campaign says she supervised and investigated food stamp and Medicaid fraud [18].
-- Lives in Huntington County; Seeger High School graduate; her husband is a U.S. Army infantry veteran [18].
+- Lives in Huntington County; Seeger High School graduate [18].
 - A Pepper Snyder of Huntington was the Libertarian Party's 2016 nominee for Indiana's 3rd Congressional District [19, 14].
 
 ### Path to the ballot

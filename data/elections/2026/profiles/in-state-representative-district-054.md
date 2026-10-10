@@ -115,10 +115,6 @@ Campaign website: https://www.nanforindiana.com/
 
 - No statement by Polk about Criswell's record was found on her campaign site [17].
 
-### How they say they'd run the office
-
-- Her campaign is organized around the theme "Faith. Family. Future." with the three priorities above [17].
-
 ### Endorsements & fundraising
 
 - No endorsements are listed on her campaign site [17].

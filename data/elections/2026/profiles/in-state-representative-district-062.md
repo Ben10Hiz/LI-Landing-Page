@@ -36,7 +36,7 @@ Dave Hall, a Norman Republican who farms and owns a crop insurance agency, has r
 - House District 62 includes all of Brown County and parts of Monroe and Jackson counties [3]. The Oliver campaign describes the Monroe portion as parts of six townships outside Bloomington and the Jackson portion as Owen, Pershing and Salt Creek townships [16].
 - The seat has been close: Hall's 2022 opponent lost by 40 votes [5], and in 2024 Hall beat Democrat Thomas Horrocks by just under 800 votes, per unofficial results [17], with 51.1% [18]. Wikipedia reports Kamala Harris carried the district by 0.3% in 2024 [18].
 - Hall and Oliver were each the only candidate listed in their party's May 5, 2026 primary [18]; both are on the November ballot [2]. The Democratic Legislative Campaign Committee lists the race as a target [19].
-- Data centers have become a point of dispute: in a campaign letter, Hall says his opponent has questioned his record and his financial disclosure on the topic; he says siting decisions should be made locally and that he has no interest in any Indiana data center project [20]. Oliver's campaign says data centers should "pay their own way and get community support" [21].
+- Data centers are a point of dispute: Hall says siting decisions should be made locally and that he has no interest in any Indiana data center project [20]; Oliver's campaign says data centers should "pay their own way and get community support" [21].
 - Key differences: Oliver calls for cutting the state sales tax on home utility bills and reversing school funding cuts [21, 22]; Hall voted for the 2025 budget and property-tax law [10, 9] and emphasizes addiction treatment, rural internet and opposing involuntary annexation [23].
 - No debate or forum for this race was found.
 
@@ -80,7 +80,7 @@ Campaign website: https://www.voteamyoliver.com/
 ### On the current officeholder
 
 - Her campaign's fundraising page says Democrats lost the district "by a tiny margin" in 2022 and 2024 and that she will not accept donations from utility and construction PACs, "unlike her opponent" [26].
-- Hall's campaign letter says his opponent has repeatedly criticized his data center record and cited stocks in his financial disclosure; Oliver's own statements on this were not found on her website [20].
+- Hall's campaign letter says she has criticized his data center record; her own statements on this were not found on her website [20].
 
 ### How they say they'd run the office
 
@@ -95,7 +95,7 @@ Campaign website: https://www.voteamyoliver.com/
 ### What we couldn't verify
 
 - Campaign finance totals were not found.
-- Her specific statements about Hall's data center record and financial disclosure (as described in Hall's letter) were not found; likely on social media or in mailers.
+- Her specific statements about Hall's data center record (described in Hall's campaign letter) were not found.
 - Indiana Capital Chronicle voter guide (403) could not be read; search snippets indicate she said she does not support eliminating property and/or gas taxes — unverified.
 - No position found on the 2025 property-tax law (SEA 1) or congressional redistricting.
 
@@ -146,7 +146,7 @@ Campaign website: https://www.votedavehall.com/
 ### On the current officeholder
 
 - Is the current officeholder.
-- In a campaign letter, Hall says his opponent has mischaracterized his record on data centers several times and has cited stocks in his candidate financial disclosure; he says the holdings are among about 150 publicly traded companies in his retirement fund and that he has no ownership or private interest in any Indiana data center project [20].
+- In a campaign letter, Hall says his opponent has mischaracterized his record on data centers and that he has no ownership or private interest in any Indiana data center project [20].
 
 ### How they say they'd run the office
 

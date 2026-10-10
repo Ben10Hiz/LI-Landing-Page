@@ -97,7 +97,7 @@ Campaign website: https://emilyyaw.com
 ### Background
 
 - Accountant at ATC Trailers in Nappanee; grew up in Goshen and attended Fairfield High School and Bethel College in Mishawaka [15].
-- Says she has lived in Elkhart County her entire life [16]. Was a foster parent for about six years and is involved with Servant's Hearth Community Church, including its farmers-market fundraising for community outreach [15].
+- Says she has lived in Elkhart County her entire life [16]. Was a foster parent for about six years [15].
 
 ### Path to the ballot
 

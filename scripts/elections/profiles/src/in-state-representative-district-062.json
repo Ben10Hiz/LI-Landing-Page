@@ -22,7 +22,7 @@
   "House District 62 includes all of Brown County and parts of Monroe and Jackson counties {caucus_hall}. The Oliver campaign describes the Monroe portion as parts of six townships outside Bloomington and the Jackson portion as Owen, Pershing and Salt Creek townships {oliver_faq}.",
   "The seat has been close: Hall's 2022 opponent lost by 40 votes {ipm_slopes}, and in 2024 Hall beat Democrat Thomas Horrocks by just under 800 votes, per unofficial results {ipm_2024}, with 51.1% {wiki_2026}. Wikipedia reports Kamala Harris carried the district by 0.3% in 2024 {wiki_2026}.",
   "Hall and Oliver were each the only candidate listed in their party's May 5, 2026 primary {wiki_2026}; both are on the November ballot {in_list}. The Democratic Legislative Campaign Committee lists the race as a target {dlcc_oliver}.",
-  "Data centers have become a point of dispute: in a campaign letter, Hall says his opponent has questioned his record and his financial disclosure on the topic; he says siting decisions should be made locally and that he has no interest in any Indiana data center project {hall_letter}. Oliver's campaign says data centers should \"pay their own way and get community support\" {oliver_site}.",
+  "Data centers are a point of dispute: Hall says siting decisions should be made locally and that he has no interest in any Indiana data center project {hall_letter}; Oliver's campaign says data centers should \"pay their own way and get community support\" {oliver_site}.",
   "Key differences: Oliver calls for cutting the state sales tax on home utility bills and reversing school funding cuts {oliver_site} {oliver_priorities}; Hall voted for the 2025 budget and property-tax law {rc_hb1001_576} {rc_sea1_433} and emphasizes addiction treatment, rural internet and opposing involuntary annexation {hall_issues}.",
   "No debate or forum for this race was found."
  ],
@@ -70,7 +70,7 @@
    ],
    "on_incumbent": [
     "Her campaign's fundraising page says Democrats lost the district \"by a tiny margin\" in 2022 and 2024 and that she will not accept donations from utility and construction PACs, \"unlike her opponent\" {oliver_actblue}.",
-    "Hall's campaign letter says his opponent has repeatedly criticized his data center record and cited stocks in his financial disclosure; Oliver's own statements on this were not found on her website {hall_letter}."
+    "Hall's campaign letter says she has criticized his data center record; her own statements on this were not found on her website {hall_letter}."
    ],
    "plans": [
     "Says she will focus on lowering the cost of gas, housing, utilities and everyday essentials {oliver_site}.",
@@ -82,7 +82,7 @@
    ],
    "gaps": [
     "Campaign finance totals were not found.",
-    "Her specific statements about Hall's data center record and financial disclosure (as described in Hall's letter) were not found; likely on social media or in mailers.",
+    "Her specific statements about Hall's data center record (described in Hall's campaign letter) were not found.",
     "Indiana Capital Chronicle voter guide (403) could not be read; search snippets indicate she said she does not support eliminating property and/or gas taxes — unverified.",
     "No position found on the 2025 property-tax law (SEA 1) or congressional redistricting."
    ]
@@ -141,7 +141,7 @@
    ],
    "on_incumbent": [
     "Is the current officeholder.",
-    "In a campaign letter, Hall says his opponent has mischaracterized his record on data centers several times and has cited stocks in his candidate financial disclosure; he says the holdings are among about 150 publicly traded companies in his retirement fund and that he has no ownership or private interest in any Indiana data center project {hall_letter}."
+    "In a campaign letter, Hall says his opponent has mischaracterized his record on data centers and that he has no ownership or private interest in any Indiana data center project {hall_letter}."
    ],
    "plans": [
     "Says he will keep examining ways to improve the consistency and accountability of Indiana's utilities before the next session {caucus_energy_col}.",
@@ -160,32 +160,167 @@
   }
  ],
  "sources": {
-  "caucus_hall": ["State Rep. Dave Hall: biography and committees", "Indiana House Republican Caucus", "accessed 2026-10-10", "https://www.indianahouserepublicans.com/members/general/dave-hall/"],
-  "caucus_hall_2026": ["Hall - Working for you: Accomplishments from 2026 session", "Indiana House Republican Caucus", "2026-03-19", "https://www.indianahouserepublicans.com/news/press-releases/hall-working-for-you-accomplishments-from-2026-session/"],
-  "caucus_hb1204": ["Rep. Hall's legislation to bolster public safety funding, support state park counties passes committee", "Indiana House Republican Caucus", "2026-01-16", "https://www.indianahouserepublicans.com/news/press-releases/rep.-hall-s-legislation-to-bolster-public-safety-funding-support-state-park-counties-passes-committee/"],
-  "caucus_energy_col": ["Hall: Keeping energy affordable for Hoosier families", "Indiana House Republican Caucus (guest column)", "2026-09-21", "https://www.indianahouserepublicans.com/news/guest-column/hall-keeping-energy-affordable-for-hoosier-families/"],
-  "caucus_bc_col": ["Delivering for Brown County: how new laws will benefit our community", "Indiana House Republican Caucus (guest column)", "2026-05-15", "https://www.indianahouserepublicans.com/news/guest-column/column-delivering-for-brown-county-how-new-laws-will-benefit-our-community/"],
-  "caucus_sea5": ["State Rep. Hall: Governor signs bill to accelerate replacement of lead water lines", "Indiana House Republican Caucus", "2024-03-26", "https://www.indianahouserepublicans.com/news/press-releases/state-rep.-hall-governor-signs-bill-to-accelerate-replacement-of-lead-water-lines/"],
-  "caucus_hb1281": ["House passes Hall's bill to add a personal financial literacy curriculum for high school students", "Indiana House Republican Caucus", "2023-02-22", "https://www.indianahouserepublicans.com/news/press-releases/house-passes-hall-s-bill-to-add-a-personal-financial-literacy-curriculum-for-high-school-students/"],
-  "caucus_hb1458": ["Legislation authored by Hall to ensure dogs and cats used in research can be adopted moves to Senate", "Indiana House Republican Caucus", "2025-02-04", "https://www.indianahouserepublicans.com/news/press-releases/legislation-authored-by-hall-to-ensure-dogs-and-cats-used-in-research-can-be-adopted-moves-to-senate/"],
-  "caucus_laws_2025": ["Hall highlights new state laws in effect this July", "Indiana House Republican Caucus", "2025-07-22", "https://www.indianahouserepublicans.com/news/press-releases/hall-highlights-new-state-laws-in-effect-this-july/"],
-  "ipm_slopes": ["Holcomb signs law allowing construction on steeper slopes", "Indiana Public Media", "2024-03-14", "https://www.ipm.org/2024-03-14/holcomb-signs-law-allowing-construction-on-steeper-slopes"],
-  "ipm_2024": ["Incumbent Dave Hall wins District 62", "Indiana Public Media", "2024-11-07", "https://www.ipm.org/2024-11-07/incumbent-dave-hall-wins-district-62"],
-  "hall_site": ["Elect Dave Hall | District 62", "Dave Hall campaign", "accessed 2026-10-10", "https://www.votedavehall.com/"],
-  "hall_issues": ["Issues", "Dave Hall campaign", "accessed 2026-10-10", "https://www.votedavehall.com/issues"],
-  "hall_letter": ["A Letter from Dave: Let's Talk About Data Centers", "Dave Hall campaign", "accessed 2026-10-10", "https://www.votedavehall.com/_files/ugd/aaa08c_3d98fa2ef9ed4ec982a394b4faa6b618.pdf"],
-  "oliver_site": ["Amy Huffman Oliver for State Representative", "Amy Huffman Oliver campaign", "accessed 2026-10-10", "https://www.voteamyoliver.com/"],
-  "oliver_about": ["About Amy", "Amy Huffman Oliver campaign", "accessed 2026-10-10", "https://www.voteamyoliver.com/about-amy"],
-  "oliver_priorities": ["Amy's Priorities", "Amy Huffman Oliver campaign", "accessed 2026-10-10", "https://www.voteamyoliver.com/priorities"],
-  "oliver_faq": ["FAQs", "Amy Huffman Oliver campaign", "accessed 2026-10-10", "https://www.voteamyoliver.com/faqs"],
-  "oliver_endorse": ["Endorsements", "Amy Huffman Oliver campaign", "accessed 2026-10-10", "https://www.voteamyoliver.com/endorsements"],
-  "oliver_primary": ["Post-Primary Press Release", "Amy Huffman Oliver campaign", "2026-05-06", "https://www.voteamyoliver.com/2026may06"],
-  "oliver_actblue": ["Amy Huffman Oliver (fundraising page)", "ActBlue / Amy Huffman Oliver campaign", "accessed 2026-10-10", "https://secure.actblue.com/donate/voteforamyoliver"],
-  "dlcc_oliver": ["Amy Huffman Oliver", "Democratic Legislative Campaign Committee", "accessed 2026-10-10", "https://www.dlcc.org/candidates/amy-huffman-oliver/"],
-  "wiki_2026": ["2026 Indiana House of Representatives election", "Wikipedia", "accessed 2026-10-10", "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"],
-  "rc_sea1_433": ["House Roll Call 433: SB 1 (Local government finance), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-04-10", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"],
-  "rc_hb1001_576": ["House Roll Call 576: HB 1001 (State budget), conference committee report", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-04-25", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"],
-  "rc_hb1032_28": ["House Roll Call 28: HB 1032 (Redistricting), third reading", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2025-12-05", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"],
-  "rc_hb1002_293": ["House Roll Call 293: HB 1002 (Electric utility affordability), motion to concur", "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)", "2026-02-19", "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1002-rollcalls-HB1002-293-H-pdf.pdf"]
+  "caucus_hall": [
+   "State Rep. Dave Hall: biography and committees",
+   "Indiana House Republican Caucus",
+   "accessed 2026-10-10",
+   "https://www.indianahouserepublicans.com/members/general/dave-hall/"
+  ],
+  "caucus_hall_2026": [
+   "Hall - Working for you: Accomplishments from 2026 session",
+   "Indiana House Republican Caucus",
+   "2026-03-19",
+   "https://www.indianahouserepublicans.com/news/press-releases/hall-working-for-you-accomplishments-from-2026-session/"
+  ],
+  "caucus_hb1204": [
+   "Rep. Hall's legislation to bolster public safety funding, support state park counties passes committee",
+   "Indiana House Republican Caucus",
+   "2026-01-16",
+   "https://www.indianahouserepublicans.com/news/press-releases/rep.-hall-s-legislation-to-bolster-public-safety-funding-support-state-park-counties-passes-committee/"
+  ],
+  "caucus_energy_col": [
+   "Hall: Keeping energy affordable for Hoosier families",
+   "Indiana House Republican Caucus (guest column)",
+   "2026-09-21",
+   "https://www.indianahouserepublicans.com/news/guest-column/hall-keeping-energy-affordable-for-hoosier-families/"
+  ],
+  "caucus_bc_col": [
+   "Delivering for Brown County: how new laws will benefit our community",
+   "Indiana House Republican Caucus (guest column)",
+   "2026-05-15",
+   "https://www.indianahouserepublicans.com/news/guest-column/column-delivering-for-brown-county-how-new-laws-will-benefit-our-community/"
+  ],
+  "caucus_sea5": [
+   "State Rep. Hall: Governor signs bill to accelerate replacement of lead water lines",
+   "Indiana House Republican Caucus",
+   "2024-03-26",
+   "https://www.indianahouserepublicans.com/news/press-releases/state-rep.-hall-governor-signs-bill-to-accelerate-replacement-of-lead-water-lines/"
+  ],
+  "caucus_hb1281": [
+   "House passes Hall's bill to add a personal financial literacy curriculum for high school students",
+   "Indiana House Republican Caucus",
+   "2023-02-22",
+   "https://www.indianahouserepublicans.com/news/press-releases/house-passes-hall-s-bill-to-add-a-personal-financial-literacy-curriculum-for-high-school-students/"
+  ],
+  "caucus_hb1458": [
+   "Legislation authored by Hall to ensure dogs and cats used in research can be adopted moves to Senate",
+   "Indiana House Republican Caucus",
+   "2025-02-04",
+   "https://www.indianahouserepublicans.com/news/press-releases/legislation-authored-by-hall-to-ensure-dogs-and-cats-used-in-research-can-be-adopted-moves-to-senate/"
+  ],
+  "caucus_laws_2025": [
+   "Hall highlights new state laws in effect this July",
+   "Indiana House Republican Caucus",
+   "2025-07-22",
+   "https://www.indianahouserepublicans.com/news/press-releases/hall-highlights-new-state-laws-in-effect-this-july/"
+  ],
+  "ipm_slopes": [
+   "Holcomb signs law allowing construction on steeper slopes",
+   "Indiana Public Media",
+   "2024-03-14",
+   "https://www.ipm.org/2024-03-14/holcomb-signs-law-allowing-construction-on-steeper-slopes"
+  ],
+  "ipm_2024": [
+   "Incumbent Dave Hall wins District 62",
+   "Indiana Public Media",
+   "2024-11-07",
+   "https://www.ipm.org/2024-11-07/incumbent-dave-hall-wins-district-62"
+  ],
+  "hall_site": [
+   "Elect Dave Hall | District 62",
+   "Dave Hall campaign",
+   "accessed 2026-10-10",
+   "https://www.votedavehall.com/"
+  ],
+  "hall_issues": [
+   "Issues",
+   "Dave Hall campaign",
+   "accessed 2026-10-10",
+   "https://www.votedavehall.com/issues"
+  ],
+  "hall_letter": [
+   "A Letter from Dave: Let's Talk About Data Centers",
+   "Dave Hall campaign",
+   "accessed 2026-10-10",
+   "https://www.votedavehall.com/_files/ugd/aaa08c_3d98fa2ef9ed4ec982a394b4faa6b618.pdf"
+  ],
+  "oliver_site": [
+   "Amy Huffman Oliver for State Representative",
+   "Amy Huffman Oliver campaign",
+   "accessed 2026-10-10",
+   "https://www.voteamyoliver.com/"
+  ],
+  "oliver_about": [
+   "About Amy",
+   "Amy Huffman Oliver campaign",
+   "accessed 2026-10-10",
+   "https://www.voteamyoliver.com/about-amy"
+  ],
+  "oliver_priorities": [
+   "Amy's Priorities",
+   "Amy Huffman Oliver campaign",
+   "accessed 2026-10-10",
+   "https://www.voteamyoliver.com/priorities"
+  ],
+  "oliver_faq": [
+   "FAQs",
+   "Amy Huffman Oliver campaign",
+   "accessed 2026-10-10",
+   "https://www.voteamyoliver.com/faqs"
+  ],
+  "oliver_endorse": [
+   "Endorsements",
+   "Amy Huffman Oliver campaign",
+   "accessed 2026-10-10",
+   "https://www.voteamyoliver.com/endorsements"
+  ],
+  "oliver_primary": [
+   "Post-Primary Press Release",
+   "Amy Huffman Oliver campaign",
+   "2026-05-06",
+   "https://www.voteamyoliver.com/2026may06"
+  ],
+  "oliver_actblue": [
+   "Amy Huffman Oliver (fundraising page)",
+   "ActBlue / Amy Huffman Oliver campaign",
+   "accessed 2026-10-10",
+   "https://secure.actblue.com/donate/voteforamyoliver"
+  ],
+  "dlcc_oliver": [
+   "Amy Huffman Oliver",
+   "Democratic Legislative Campaign Committee",
+   "accessed 2026-10-10",
+   "https://www.dlcc.org/candidates/amy-huffman-oliver/"
+  ],
+  "wiki_2026": [
+   "2026 Indiana House of Representatives election",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/2026_Indiana_House_of_Representatives_election"
+  ],
+  "rc_sea1_433": [
+   "House Roll Call 433: SB 1 (Local government finance), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-10",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-senate-bills-SB0001-rollcalls-SB0001-433-H-pdf.pdf"
+  ],
+  "rc_hb1001_576": [
+   "House Roll Call 576: HB 1001 (State budget), conference committee report",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-04-25",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2025-house-bills-HB1001-rollcalls-HB1001-576-H-pdf.pdf"
+  ],
+  "rc_hb1032_28": [
+   "House Roll Call 28: HB 1032 (Redistricting), third reading",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2025-12-05",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1032-rollcalls-HB1032-28-H-pdf.pdf"
+  ],
+  "rc_hb1002_293": [
+   "House Roll Call 293: HB 1002 (Electric utility affordability), motion to concur",
+   "Indiana General Assembly (roll-call PDF mirrored by FastDemocracy/BillTexts)",
+   "2026-02-19",
+   "https://billtexts.s3.amazonaws.com/_data/in/https-iga-in-gov-pdf-documents-124-2026-house-bills-HB1002-rollcalls-HB1002-293-H-pdf.pdf"
+  ]
  }
 }
