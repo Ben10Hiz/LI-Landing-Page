@@ -13,6 +13,8 @@ app as public/elections/2026/. Layout:
     indiana/counties/{slug}.json  county, judicial, township (and some town)
                                races for one county
     indiana/places/{id}.json   city/town or school-board races for one place
+    profiles/{race-id}.json    researched race profiles, copied from
+                               data/elections/2026/profiles/
 """
 import csv
 import json
@@ -26,6 +28,7 @@ ROOT = Path(__file__).resolve().parents[2]
 DATA = ROOT / "data" / "elections" / "2026"
 ELECTION = {"id": "2026-general", "name": "2026 General Election",
             "date": "2026-11-03", "type": "general"}
+PROFILES = DATA / "profiles"
 IN_SOURCE = ("Indiana Election Division, 2026 General Election Candidate List "
              "(Sept 22, 2026)")
 
@@ -162,6 +165,7 @@ def in_race(office_row, cands):
         desc = (desc + " " if desc else "") + "Write-in candidates must be written in by name."
     return {
         "id": rid,
+        "has_profile": (PROFILES / f"{rid}.json").exists(),
         "level": LEVEL_TO_TAB[level],
         "category": o["office_category"],
         "office": display_office(o["office"]),
@@ -251,13 +255,23 @@ def build_indiana(out):
     return len(county_index), len(places)
 
 
+def copy_profiles(out):
+    n = 0
+    for path in sorted(PROFILES.glob("*.json")):
+        profile = json.loads(path.read_text(encoding="utf-8"))  # validates JSON
+        write(out / "profiles" / path.name, profile)
+        n += 1
+    return n
+
+
 def main():
     out = Path(sys.argv[1]) if len(sys.argv) > 1 else DATA / "app"
     n_states = build_congress(out)
     n_counties, n_places = build_indiana(out)
+    n_profiles = copy_profiles(out)
     total = sum(f.stat().st_size for f in out.rglob("*.json"))
     print(f"{n_states} congress files, {n_counties} IN counties, {n_places} IN places; "
-          f"{total / 1024:.0f} KB total -> {out}")
+          f"{n_profiles} race profiles; {total / 1024:.0f} KB total -> {out}")
 
 
 if __name__ == "__main__":
