@@ -1,0 +1,189 @@
+{
+  "race_id": "in-school-board-southwest-parke",
+  "reviewed": "2026-10-10",
+  "status": "draft",
+  "status_note": "Pending editorial review.",
+  "office": "@in_school_board",
+  "incumbent": null,
+  "race_context": [
+    "The district: Southwest Parke Community School Corporation, based in Montezuma in Parke County, operated Montezuma Elementary, Rosedale Elementary and Riverton Parke Junior-Senior High School through 2025–26 {swp_july}. Beginning in 2026–27, all K–4 students attend Rosedale Elementary and grades 5–6 moved to Riverton Parke {swp_feed2}. Superintendent Philip T. Harrison, Ph.D., reported enrollment of 880 including preschool in August 2026, down from 1,015 in August 2025: 253 at Rosedale and 627 in grades 5–12 at Riverton Parke {swp_sept}.",
+    "The board has five members {swp_sept}. As of the September 2026 board packet they are Kevin Allen (president), Max Case (vice president), Daniel J. Harkrider (secretary), Nathan Adams and Tanner Edge {swp_sept}. The July 2026 packet listed Case as vice president and Harkrider as secretary, with Adams and Allen as members and no president {swp_july}. The ballot names numbered districts tied to townships (District 2 Wabash, District 3 Florida) plus an at-large District 5 {in_list}.",
+    "Seats on the 2026 ballot: three, one each for District 2 (Wabash), District 3 (Florida) and District 5 (At Large), each vote for one, matching the state list {in_list}. Nathan P. Adams, the only candidate for District 2, was elected to the board in 2022, according to state results, which do not name the district seat {sos_enr}. Board president Kevin Allen is running for the District 5 at-large seat against Lucas D. Collom {in_list}{swp_sept}.",
+    "Florida Township (District 3) seat: the board announced a vacancy effective July 1, 2026, with the appointee to serve through Dec. 31, 2026 {swp_feed1}. The board scheduled a July 23, 2026 special meeting to interview applicants, appoint a member and elect a board president {swp_feed1}{swp_july}. Tanner Edge first appears as a board member in the September 2026 packet; that he is the Florida appointee is an inference {swp_sept}. Edge is not on the ballot, so the District 3 race between Joshua T. Helton and Luke A. MacDonald will seat a new member {in_list}.",
+    "Montezuma Elementary closure (2026): on Feb. 10, 2026, the board voted 5–0 to close Montezuma Elementary, citing budget shortfalls; WTWO reported the school had 226 students who would go to Rosedale Elementary (317 students), 18.5 miles away {wtwo_close}{swp_feed2}. Parents quoted by WTWO said the item was added to the meeting with little notice and that the board had not run numbers on closing Rosedale instead; the superintendent had not responded to WTWO's request for comment {wtwo_close}. In his July 2026 report, Harrison said documents transferring Montezuma Elementary to Indiana Agriculture and Technology School (IATS) had been filed and recorded as of July 1, 2026 {swp_july}.",
+    "Charter school (2026): a group called United for Southwest Parke Schools worked with IATS on a charter school in Montezuma {ts_charter}. The University of Southern Indiana, a charter authorizer, held a public session in April 2026 on IATS's application for a K–6 charter school there; residents spoke in support and two Parke County superintendents raised concerns {ts_usi}.",
+    "Budget and cash flow (2026): Harrison reported that the enrollment drop of 135 students means an estimated $877,875.53 less in revenue, at state support of $7,768.81 per pupil {swp_sept}. The Operations Fund ended May 2026 at about –$755,474 and August 2026 at about –$166,115 in cash {swp_july}{swp_sept}. Harrison put the district on the interest list for the Indiana Bond Bank's Advance Funding Program (tax anticipation warrants), which he wrote could 'buy us some additional time to make more reductions as needed to fully align our expenses and revenue' {swp_sept}. Hearings on the 2027 budget, capital projects plan and bus replacement plan were held Sept. 9, 2026, with budget adoption set for Oct. 21, 2026 {swp_sept}.",
+    "Referendum (2025): on May 6, 2025, voters rejected a proposal for up to $10 million in bonds or a lease over 22 years to build an auxiliary gym at Riverton Parke Junior-Senior High School, 762 to 392 {wtwo_ref}.",
+    "Other 2026 items: the board took up a personal communication devices policy (5136R) on second reading in July 2026 {swp_july}, and in spring 2026 the district surveyed families on possible changes to the elementary school's name, colors and mascot {swp_feed2}.",
+    "Forums: no candidate forum, questionnaire or news coverage of the 2026 Southwest Parke races was found."
+  ],
+  "candidates": [
+    {
+      "website": null,
+      "background": [
+        "State election results list Nathan P. Adams as elected to the Southwest Parke board in November 2022 with 963 votes {sos_enr}.",
+        "Listed as a member of the board in the July and September 2026 board packets {swp_july}{swp_sept}."
+      ],
+      "path_to_ballot": [
+        "Listed on the state candidate list as Nonpartisan, the only candidate for District 2 (Wabash) {in_list}."
+      ],
+      "positions": [],
+      "on_incumbent": [
+        "Is a current board member. No public statements by him about the board's decisions, including the Montezuma Elementary closure, were found."
+      ],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "No campaign statements, website, questionnaire answers or news coverage found.",
+        "State results do not name the district seat he won in 2022; that it is the Wabash seat is inferred from the 2026 ballot.",
+        "Individual votes on the Feb. 2026 closure were not available (WTWO reported a 5–0 vote without names).",
+        "Occupation and community roles not found.",
+        "No campaign finance reports reviewed."
+      ],
+      "ballot_name": "Nathan P Adams",
+      "seat": "District 2, Wabash",
+      "summary": "Incumbent board member, elected in 2022; running unopposed {sos_enr}{swp_sept}{in_list}."
+    },
+    {
+      "website": null,
+      "background": [],
+      "path_to_ballot": [
+        "Listed on the state candidate list as Nonpartisan {in_list}."
+      ],
+      "positions": [],
+      "on_incumbent": [],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "No campaign statements, website, social media, questionnaire answers or news coverage found.",
+        "Background, occupation and ties to the schools not found in the sources reviewed.",
+        "No campaign finance reports reviewed.",
+        "Whether he applied for the July 2026 Florida Township appointment is not known."
+      ],
+      "ballot_name": "Joshua T Helton",
+      "seat": "District 3, Florida",
+      "summary": "Candidate for the open Florida Township seat; the current appointee is not on the ballot {in_list}{swp_feed1}."
+    },
+    {
+      "website": null,
+      "background": [],
+      "path_to_ballot": [
+        "Listed on the state candidate list as Independent {in_list}."
+      ],
+      "positions": [],
+      "on_incumbent": [],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "No campaign statements, website, social media, questionnaire answers or news coverage found.",
+        "Background, occupation and ties to the schools not found in the sources reviewed.",
+        "No campaign finance reports reviewed.",
+        "Whether he applied for the July 2026 Florida Township appointment is not known."
+      ],
+      "ballot_name": "Luke A MacDonald",
+      "seat": "District 3, Florida",
+      "summary": "Candidate for the open Florida Township seat, listed on the ballot as an Independent {in_list}."
+    },
+    {
+      "website": null,
+      "background": [
+        "Listed as a board member in the July 2026 packet and as board president in the September 2026 packet {swp_july}{swp_sept}."
+      ],
+      "path_to_ballot": [
+        "Listed on the state candidate list as Nonpartisan {in_list}."
+      ],
+      "positions": [],
+      "on_incumbent": [
+        "Is a current board member and its president. No public statements by him about the board's decisions, including the Montezuma Elementary closure and the district's cash-flow measures, were found."
+      ],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "How and when he joined the board was not found: the state's 2018–2024 Parke County results reviewed do not list him, which suggests he may have been appointed (unconfirmed).",
+        "That he holds the District 5 at-large seat is inferred from the 2026 ballot.",
+        "No campaign statements, website, questionnaire answers or news coverage found.",
+        "Occupation and community roles not found.",
+        "No campaign finance reports reviewed."
+      ],
+      "ballot_name": "Kevin Andrew Allen",
+      "seat": "District 5, At Large",
+      "summary": "Incumbent board member and current board president {swp_sept}{in_list}."
+    },
+    {
+      "website": null,
+      "background": [],
+      "path_to_ballot": [
+        "Listed on the state candidate list as Nonpartisan {in_list}."
+      ],
+      "positions": [],
+      "on_incumbent": [],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "No campaign statements, website, social media, questionnaire answers or news coverage found.",
+        "Background, occupation and ties to the schools not found in the sources reviewed.",
+        "No campaign finance reports reviewed."
+      ],
+      "ballot_name": "Lucas D Collom",
+      "seat": "District 5, At Large",
+      "summary": "Challenger for the District 5 at-large seat held by board president Kevin Allen {in_list}{swp_sept}."
+    }
+  ],
+  "review_flags": [],
+  "sources": {
+    "swp_feed1": [
+      "Montezuma Elementary live feed (district board notices), page 1",
+      "Southwest Parke Community Schools",
+      "2026-10",
+      "https://www.swparke.k12.in.us/o/montezuma-elementary/live-feed/?page_no=1"
+    ],
+    "swp_feed2": [
+      "Montezuma Elementary live feed (district board notices), page 2",
+      "Southwest Parke Community Schools",
+      "2026-10",
+      "https://www.swparke.k12.in.us/o/montezuma-elementary/live-feed/?page_no=2"
+    ],
+    "swp_july": [
+      "July 2026 Board Packet (public)",
+      "Southwest Parke Community School Corporation",
+      "2026-07-08",
+      "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/73/District/0fed7a0a-b65f-489c-a5e7-ccce88fdc61b/JULY-2026-BOARD-PACKET---PUBLIC.pdf?disposition=inline"
+    ],
+    "swp_sept": [
+      "September 2026 Board Packet (public)",
+      "Southwest Parke Community School Corporation",
+      "2026-09-09",
+      "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/73/District/8c86c84f-ce73-457a-8731-0e392a64ee78/SEPTEMBER-2026-BOARD-PACKET---PUBLIC.pdf?disposition=inline"
+    ],
+    "wtwo_close": [
+      "School board votes to shut down Montezuma Elementary School",
+      "WTWO/WAWV (MyWabashValley)",
+      "2026-02-11",
+      "https://digital-release.mywabashvalley.com/?p=2259933"
+    ],
+    "wtwo_ref": [
+      "Parke County holds special election on property taxes",
+      "WTWO/WAWV via Yahoo News",
+      "2025-05-06",
+      "https://www.yahoo.com/news/parke-county-holds-special-election-220018730.html"
+    ],
+    "ts_charter": [
+      "Montezuma explores charter school",
+      "Tribune-Star",
+      "2026-03-30",
+      "https://www.tribstar.com/news/local_news/montezuma-explores-charter-school/article_b32ff989-ba8f-4a31-aeb6-977ff4671e22.html"
+    ],
+    "ts_usi": [
+      "University of Southern Indiana holds public session on proposed Montezuma charter school",
+      "Tribune-Star",
+      "2026-04-25",
+      "https://www.tribstar.com/news/local_news/university-of-southern-indiana-holds-public-session-on-proposed-montezuma-charter-school/article_9b9ee263-8fd6-40f2-a3e8-2e68ce701e8b.html"
+    ],
+    "sos_enr": [
+      "Historical Election Results, Parke County general elections 2018–2024",
+      "Indiana Secretary of State (indianavoters.in.gov)",
+      "2026-10",
+      "https://indianavoters.in.gov/ENRHistorical/ElectionResults?year=2022"
+    ]
+  }
+}
