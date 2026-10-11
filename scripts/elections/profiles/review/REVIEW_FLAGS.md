@@ -184,6 +184,14 @@ Sensitive items held for a second, careful editorial pass (criminal cases, misco
   Note: An unspecified nepotism claim against current officials; the profile text keeps only his general management criticism.
   - [NH Jackson Township school board seat draws four (Chad Schenck questionnaire)](https://www.madisoncourier.com/the_clarion_news/news/nh-jackson-township-school-board-seat-draws-four/article_c86c6e80-b7a8-57df-918a-e41461f5fbe3.html) — The Corydon Democrat / Clarion News, 2026-09-23
 
+## Indiana School Board Member (`in-school-board-north-lawrence`)
+
+- **Scott King** — other — _held_
+  Former superintendent Ty Mungle sued North Lawrence Community Schools, the school board and then-board president Dr. Wendy Miller in Lawrence Superior Court on April 12, 2024, alleging breach of contract, defamation and violation of Indiana's blacklisting law; the complaint cited a May 11, 2023 board meeting at which Wendy Miller allegedly agreed with board member Scott King that terminating Mungle was the correct decision. The case was mediated May 16, 2025 and settled; terms were not in court documents. King made the January 2023 motion to buy out Mungle's contract.
+  Note: King was not named as a defendant; the statements at issue are attributed to Wendy Miller, who is not on the 2026 ballot. The settlement was with the board, which included King and Barb Miller at the time. No response from King was found. Editors should decide whether any of this belongs in the profile.
+  - [Settlement reached in Dr. Thomas Mungle's lawsuit against North Lawrence Community School Corporation](https://www.wbiw.com/2025/06/09/settlement-reached-in-dr-thomas-mungles-lawsuit-against-north-lawrence-community-school-corporation/) — WBIW, 2025-06-09
+  - [North Lawrence school board votes to end contract of superintendent Ty Mungle](https://www.yahoo.com/news/north-lawrence-school-board-votes-101910368.html) — The Times-Mail (via Yahoo News), 2023-01-23
+
 ## Indiana School Board Member (`in-school-board-oregon-davis`)
 
 - **Terry Minix** — criminal case — _held_
