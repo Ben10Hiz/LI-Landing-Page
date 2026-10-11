@@ -178,6 +178,8 @@ SEAT_OVERRIDES = {
     "Smith-Green School Board, At Large (Whitley, Noble)": 2,  # Whitley County candidate list
     "Jackson Medora Community School Board, Seats 4 & 5": 2,  # office title names Seats 4 and 5
     "Jackson Seymour City Community School Board, Seats 1 & 2, At Large": 2,  # two seats in title and 2022 results
+    "Tri-Creek School Board, At Large": 2,  # Lake County sample ballot
+    "Vincennes School Board, At Large": 2,  # Vincennes Sun-Commercial / Knox County clerk
 }
 
 

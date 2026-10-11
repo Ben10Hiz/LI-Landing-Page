@@ -1,0 +1,286 @@
+{
+ "race_id": "in-school-board-vincennes",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The Vincennes Community School Corporation (VCSC) in Knox County covers Vincennes Township, including the city of Vincennes {wiki_vcsc}. It enrolled about 2,700 students in 2024–25 across seven schools, according to federal data: Lincoln High School, Washington Learning Academy, George Rogers Clark Middle School and the Franklin, Tecumseh-Harrison, Vigo and Riley elementary schools {plainschools_vcsc}. Greg Parsley is superintendent {sboa_2025}{sc_budget_2027}. Bobe said in 2026 that the board has kept him 'for over 15 years' {sc_candidates}. In 2026 the state superintendents' association named Parsley its District VII Superintendent of the Year {mwv_parsley}.",
+  "The board has five members, all elected at large. In January 2025 they were Pat Hutchison (president), Karla Smith, Lynne Bobe, Kolby Kerzan and Aaron Bauer {sc_reorg_2025}. Smith, Kerzan and Bauer were among the five candidates in the 2024 at-large race, and they took the oath of office in January 2025 {sc_races_2024}{sc_reorg_2025}. Smith was board president as of May 2026 {mwv_parsley}.",
+  "Seats on the 2026 ballot: two at-large seats, not one as on the state list. Board members Pat Hutchison and Lynne Bobe are running for reelection, and Breanne Clark is the only other candidate {sc_candidates}. Knox County Clerk David Shelton said the race has 'three candidates running for two at-large positions.' Machines were reprogrammed before early voting began Oct. 6 because the ballot wrongly told voters they could choose three. About 60 absentee ballots that had already been mailed carried the error; affected voters may request a replacement {sc_ballot_error}.",
+  "Budget and SEA 1 (2025–2026): in August 2026 the board voted to advertise a 2027 budget of about $47 million, at an advertised tax rate of $1.50 per $100 of assessed value. The 2026 rate was advertised at $1.32 and finalized at $1.04 {sc_budget_2027}. Parsley said the district has left some positions vacant through attrition {sc_budget_2027}. In August 2025 he told the board that state budget cuts meant VCSC could not give the same 'significant' wage increases as in the past {sc_budget_2026}. The board ratified a 2025–27 teacher contract in November 2025 {sc_contract}.",
+  "Facilities contract (Sept. 2026): the board voted to end Sodexo's maintenance, grounds and custodial contract, worth about $2.5 million, and bring the work in-house as of Oct. 31. The Sun-Commercial reported that the move is part of efforts to cut costs 'amid the financial impact of Indiana Senate Bill 1.' Parsley said, 'We're looking for every savings that's potentially out there' {sc_sodexo}.",
+  "Building projects (2025–2026): the board held public hearings in January and February 2026 on a bond-financed renovation project of up to $16.23 million. The project is centered on Lincoln High School and also covers Clark Middle School and support buildings {sc_projects_jan26}{sc_bonds}. Under the plan the debt service tax rate would rise from $0.5342 to a projected maximum of $0.6548 per $100 of assessed value, first paid in 2027 {sc_bonds}. In March 2026 the board approved a $1.66 million culinary arts renovation at Lincoln High and a new Franklin Elementary playground. It also laid out a longer-range plan that includes moving the football facility to the high school campus within five to ten years {sc_plan_mar26}.",
+  "School safety: VCSC created its own police department, and its first officers were sworn in in January 2025 {sc_reorg_2025}{wiki_vcsc}. Hutchison says the department has six full-time officers {sc_candidates}.",
+  "Forums and differences: the Sun-Commercial published profiles of all three candidates on Oct. 1, 2026 {sc_candidates}. No 2026 candidate forum was found. All three cite school safety and responsible spending. The incumbents point to the board's record (program additions, building remodels, the police department) and to tighter finances under SEA 1. Clark, a former VCSC teacher and now an assistant principal elsewhere, stresses reading and literacy, support for teachers, and the board's oversight role {sc_candidates}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Breanne Clark",
+   "seat": "At Large",
+   "summary": "Educator and VCSC parent running for one of two at-large seats; not a current board member {sc_candidates}.",
+   "website": null,
+   "background": [
+    "Assistant principal at Richland County Elementary School. Previously taught at Vigo Elementary in Vincennes for 10 years and has worked many years as a university instructor; she says she has more than 18 years in education {sc_candidates}.",
+    "Holds an Educational Specialist degree in reading and literacy, a master's in education (early childhood), a bachelor's in health services and nutrition, and a principal preparation certificate. Licensed in early childhood, elementary, reading and school administration in Indiana and Illinois {sc_candidates}.",
+    "Attended VCSC from kindergarten through 12th grade. Parent of students at Lincoln High School and has held booster and PTO leadership roles {sc_candidates}."
+   ],
+   "path_to_ballot": [
+    "On the ballot for one of two at-large seats; the state list shows her as Nonpartisan {sc_candidates}{in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Academics",
+     "items": [
+      "Said one of her biggest priorities would be continuing to give students a strong academic foundation, particularly in reading and literacy {sc_candidates}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Wants to support teachers and staff, saying, 'I know firsthand how important they are to the success of our students.' {sc_candidates}"
+     ]
+    },
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Listed making sure resources are used responsibly among her focus areas {sc_candidates}."
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "Listed maintaining safe and welcoming schools among her focus areas {sc_candidates}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Said she understands that a school board's role is 'to provide governance and oversight rather than manage the day-to-day operations of our schools,' and that she would respect administrators' expertise while keeping the board 'informed, engaged, and accountable to the community.' {sc_candidates}"
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "No statements about the current board's decisions found."
+   ],
+   "plans": [
+    "Also listed supporting extracurricular opportunities and building relationships between schools, families and the community {sc_candidates}."
+   ],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign website, social media page, questionnaire responses, endorsements or finance reports found.",
+    "Positions on SEA 1 budget pressures, the $16.23 million building project and the Sodexo decision not found.",
+    "The state list did not give her filing date or petition details."
+   ]
+  },
+  {
+   "ballot_name": "Lynne Rupple Bobe",
+   "seat": "At Large",
+   "summary": "Incumbent; board member for 16 years by her account {sc_candidates}.",
+   "website": null,
+   "background": [
+    "Registered nurse at Good Samaritan Hospital for 35 years and a small-business owner for 25 years {sc_candidates}.",
+    "Lives in Vincennes, where she was born and raised. Her children went through VCSC {sc_candidates}.",
+    "Has served as board president (2023), board secretary (2025) and the board's representative to the special education cooperative {sboa_2025}{sc_reorg_2025}."
+   ],
+   "path_to_ballot": [
+    "Running for reelection to one of two at-large seats; the state list shows her as Nonpartisan {sc_candidates}{in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Said that 'as funding tightens, we will ensure to remain financially responsible and maximize our resources, not only for the corporation but also for the City as a whole.' {sc_candidates}"
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "Says she is running to help create a safe, high-quality learning environment for all students, and wants to work against bullying by increasing programs and resources that foster inclusivity, respect and mental well-being {sc_candidates}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Plans to work toward more opportunities for parent and community input and involvement in the corporation's future {sc_candidates}."
+     ]
+    },
+    {
+     "topic": "Facilities",
+     "items": [
+      "Wants to continue the corporation's short- and long-range goals for maintaining and improving the schools {sc_candidates}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member {sc_reorg_2025}{sc_candidates}.",
+    "Credits the board and administration with remodeling the elementary schools, opening Washington Learning Academy and Little Alice Learning Center, adding early-college credit and renewing the construction trades program. She also cites retaining the superintendent for more than 15 years {sc_candidates}.",
+    "Said it is important to have a board that 'works together and can collaborate' {sc_candidates}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign website, questionnaire responses, endorsements or finance reports found.",
+    "Her votes on the 2026 bond project, the 2027 budget and the Sodexo contract are not individually reported.",
+    "Name spelling: the state list has 'Rupple'. A search snippet of 2018 Knox County results (not opened) showed 'Lynne Marie Ruppel Bobe'. Unverified; the county's old results pages no longer load.",
+    "A search snippet said she was elected board vice president in January 2026; the district page could not be loaded to confirm."
+   ]
+  },
+  {
+   "ballot_name": "Patrick Hutchison",
+   "seat": "At Large",
+   "summary": "Incumbent and former board president; listed as Republican on the state list {sc_reorg_2025}{in_list}.",
+   "website": null,
+   "background": [
+    "Has worked 35 years in education as a counselor and academic advisor, in career development, financial aid and curriculum {sc_candidates}.",
+    "Lifelong Vincennes resident and Lincoln High School graduate {sc_candidates}.",
+    "Former president of the Vincennes Educational Foundation (six years) and scholarship chairman for Elks Lodge #291. He announces sports broadcasts for WZDM and has worked with the Lincoln football program for more than 40 years {sc_candidates}.",
+    "Says he holds Master School Board status from the Indiana School Boards Association. He was VCSC's voting delegate at the ISBA Delegate Assembly on Oct. 5, 2026 {sc_candidates}{sc_isba}."
+   ],
+   "path_to_ballot": [
+    "Running for reelection to one of two at-large seats; the state list shows him with a Republican label {sc_candidates}{in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Said continuing the district's work 'could become more difficult financially with the enactment of Senate Bill 1 with property tax reform,' and that VCSC is in strong financial shape but 'there will have to be adjustments going forward, but I am up to that challenge.' {sc_candidates}"
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "Calls school safety a high priority and points to the board's decision to create an in-house police department with six full-time officers {sc_candidates}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Cites continued curriculum investment from preschool (Little Alice Learning Center) through high school, including returning automotive and welding programs, Vincennes University Early College, and alternative education at Washington Learning Academy {sc_candidates}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member; served as board president in 2020 and 2025 {sboa_2023}{sc_reorg_2025}.",
+    "Credits the administration and board with the district's financial position and the programs listed above {sc_candidates}."
+   ],
+   "plans": [
+    "Wants to continue the work VCSC has under way over the next four years {sc_candidates}."
+   ],
+   "endorsements_finance": [],
+   "gaps": [
+    "Current employer not stated in the coverage found.",
+    "No campaign website, questionnaire responses, endorsements or finance reports found.",
+    "Year first elected not confirmed. A 2018 Knox County precinct-results snippet (not opened) showed him in that year's at-large race.",
+    "Name spelling varies in sources: 'Hutchinson' appears in the State Board of Accounts schedule of officials and once in the Oct. 1 Sun-Commercial article; the ballot uses 'Hutchison'.",
+    "How or when he obtained the Republican ballot label (party declaration vs. nomination) not found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "sc_candidates": [
+   "VCSC at-large candidates share why they are running",
+   "Vincennes Sun-Commercial",
+   "2026-10-01",
+   "https://www.suncommercial.com/news/article_03292be7-0ff0-518c-864b-e654d2f2f1ad.html"
+  ],
+  "sc_ballot_error": [
+   "County voting machines to be re-programmed for the third time",
+   "Vincennes Sun-Commercial",
+   "2026-10-02",
+   "https://www.suncommercial.com/news/article_2855a0b0-e820-5428-b018-e7346b75c422.html"
+  ],
+  "sc_isba": [
+   "VCSC represents community in statewide discussions",
+   "Vincennes Sun-Commercial",
+   "2026-10-07",
+   "https://www.suncommercial.com/news/article_c9e3155a-989c-59fd-ae00-f8630ea127a4.html"
+  ],
+  "sc_sodexo": [
+   "VCSC ends Sodexo's facilities contract",
+   "Vincennes Sun-Commercial",
+   "2026-09-17",
+   "https://www.suncommercial.com/news/article_80af4881-8a97-5f7e-a6d4-5c1d56fc3036.html"
+  ],
+  "sc_budget_2027": [
+   "VCSC to advertise $47 million budget for 2027",
+   "Vincennes Sun-Commercial",
+   "2026-08-13",
+   "https://www.suncommercial.com/news/article_9fb018e3-ea67-56bc-9d7c-aacf3830e511.html"
+  ],
+  "sc_plan_mar26": [
+   "VCSC board makes plan for the future",
+   "Vincennes Sun-Commercial",
+   "2026-03-11",
+   "https://www.suncommercial.com/news/article_c571e73f-1b42-5899-bab8-da39bb911f8f.html"
+  ],
+  "sc_bonds": [
+   "VCSC inches closer to selling bonds",
+   "Vincennes Sun-Commercial",
+   "2026-02-04",
+   "https://www.suncommercial.com/article_8c8412a3-2b79-509a-8b04-d61c25d958f7.html"
+  ],
+  "sc_projects_jan26": [
+   "VCSC moves forward with projects",
+   "Vincennes Sun-Commercial",
+   "2026-01-12",
+   "https://www.suncommercial.com/news/article_2c682131-690e-58ee-b8b4-b31c401c878b.html"
+  ],
+  "sc_contract": [
+   "VCSC ratifies 2025-27 teacher contract",
+   "Vincennes Sun-Commercial",
+   "2025-11-13",
+   "https://www.suncommercial.com/news/article_224b1efc-8ea0-5cfc-a2f8-75f5f6828737.html"
+  ],
+  "sc_budget_2026": [
+   "VCSC advertises 2026 budget",
+   "Vincennes Sun-Commercial",
+   "2025-08-13",
+   "https://www.suncommercial.com/news/article_e805ccfa-57f0-5a72-a09f-5813658d549f.html"
+  ],
+  "sc_reorg_2025": [
+   "VCSC reorganizes board at first meeting of the year",
+   "Vincennes Sun-Commercial",
+   "2025-01-14",
+   "https://www.suncommercial.com/news/article_f31eb13c-b559-5dfc-993c-6c44011de48c.html"
+  ],
+  "sc_races_2024": [
+   "Local races in Knox County; Contested and uncontested",
+   "Vincennes Sun-Commercial",
+   "2024-11-02",
+   "https://www.suncommercial.com/news/article_2ff686be-8414-5304-a257-499892e72cef.html"
+  ],
+  "mwv_parsley": [
+   "VCSC Superintendent named District 7 Superintendent of the Year",
+   "MyWabashValley (WTWO/WAWV)",
+   "2026-05",
+   "https://www.mywabashvalley.com/news/local-news/vcsc-superintendent-named-district-7-superintendent-of-the-year/amp/"
+  ],
+  "sboa_2025": [
+   "Compliance Examination Report, Vincennes Community School Corporation, July 1, 2022 to June 30, 2024 (Schedule of Officials)",
+   "Indiana State Board of Accounts",
+   "2025-04-01",
+   "https://www.in.gov/sboa/WebReports/11380S.pdf"
+  ],
+  "sboa_2023": [
+   "Supplemental Audit Report, Vincennes Community School Corporation, July 1, 2020 to June 30, 2022 (Schedule of Officials)",
+   "Indiana State Board of Accounts",
+   "2023-04-12",
+   "https://www.in.gov/sboa/WebReports/B61227.pdf"
+  ],
+  "wiki_vcsc": [
+   "Vincennes Community School Corporation",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/Vincennes_Community_School_Corporation"
+  ],
+  "plainschools_vcsc": [
+   "Vincennes Community School Corp (NCES Common Core of Data, 2024-25)",
+   "PlainSchools",
+   "2026-10",
+   "https://plainschools.com/districts/vincennes-community-school-corp-in"
+  ]
+ }
+}
