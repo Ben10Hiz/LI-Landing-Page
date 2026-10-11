@@ -31,6 +31,8 @@ multi-seat but not yet confirmed from a 2026 county ballot:
 | Crawford County School Board, District 3 | 0 on ballot | four trustees' terms end 2026; no D3 race on the state list |
 | South Gibson School Board, District 1 | 0 on ballot | no candidate filed for this seat |
 | Oak Hill United School Corporation, District 6 At Large | 2 | both at-large terms end 2026 and both incumbents are the only candidates |
+| South Adams School Board, District 3 | 2 | both D3 terms end 2026; 2022 was vote for 2 |
+| Shelby Southwestern School Board, Washington | 2? | four seats should be up but only three races listed |
 | Jay School Board, District 1 | 0 on ballot | seat due in 2026 but no one filed; how it is filled is unknown |
 
 Also confirm with county election offices:

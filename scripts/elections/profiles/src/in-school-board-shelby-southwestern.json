@@ -1,0 +1,291 @@
+{
+ "race_id": "in-school-board-shelby-southwestern",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The district: Southwestern Consolidated School District of Shelby County is a small K-12 district with its office at 3406 W. 600 S., Shelbyville {sw_home}. It runs Southwestern Elementary, Southwestern Jr./Sr. High School and the Little Spartans Preschool {sw_home}. The junior-senior high school is about 7 miles southwest of Shelbyville and had 280 students in 2023–24, according to federal data cited by Wikipedia {wiki_swhs}. Superintendent Dr. Jamison Wilkins reported a fall 2025 count-day enrollment of 599 students, not counting preschool {sw_min_oct25}. In September 2026 he said the district expected record enrollment (at least since 2020), with about 20 more K-12 students than the year before {at_sep26}. On March 11, 2026 the board voted 7-0 for a new contract for Wilkins, with a condition that he gets no raise in a year when teachers get none {sw_min_mar26}.",
+  "The board: there are seven members {sw_board}{sw_min_jan26}. They are President Jon Deater, Vice President Blake Newkirk, Secretary Dustin Simpson, John Blue, Daryl Thomas, Derrek Tennell and Brad Stamper {sw_board}{sw_min_jan26}. Seats are tied to townships, plus one at-large seat {at_2024_results}{sn_2024_goals}. In 2024, Daryl Thomas defeated incumbent Travis Beck for a Hendricks Township seat, 950 votes to 915 {at_2024_results}{sn_2024_goals}. Jonathan Deater and John Blue won the two Jackson Township seats in an uncontested race {sn_2024_goals}{at_2024_results}. The 2026 ballot has three races: At Large, Hendricks Township and Washington Township {in_list}.",
+  "Seats on the 2026 ballot: current members Brad Stamper (running at large) and Derrek Tennell (running in Washington Township) are on the ballot {sw_board}{in_list}. Tennell first joined the board by appointment in March 2022 {sn_2022_supt}. Two members said they will not run again {sw_min_aug25}{sw_min_jun26}. Blake Newkirk said so at the Aug. 13, 2025 meeting {sw_min_aug25}, and Dustin Simpson said so at the June 10, 2026 meeting {sw_min_jun26}. Doug Swift is the only candidate for the Hendricks Township seat {in_list}. This guide did not find 2022 results or a district source showing which seat each current member holds.",
+  "Seat count is uncertain {in_list}{sn_2024_goals}. Three of the seven members were elected in 2024, which suggests four seats end this year {in_list}{sn_2024_goals}. The state list, however, shows three races, each 'vote for 1' {in_list}{sn_2024_goals}. If Washington Township has two seats on the ballot, both of its candidates would be elected. This guide did not find a 2026 sample ballot or county candidate list to confirm the number of seats in each race.",
+  "Budget, staffing and property taxes (2025–2026): at an Oct. 29, 2025 hearing on the tentative teacher contract, Wilkins said the deal lowered the starting teacher salary to $46,000 and that staff cuts might come the next year to help cover salary and benefit costs {sw_min_oct29}. Newkirk asked residents unhappy about the reduced funding to contact their state legislators {sw_min_oct29}. The teachers association president told the board on Nov. 12, 2025 that 'with the changes made by the state, this would be a fiscally challenging year' {sw_min_nov25}. On May 13, 2026 the board voted 7-0 to cut four positions: a high school health/PE job, the elementary assistant principal, an elementary teaching job and an instructional assistant {sw_min_may26}. In June it ended one contract through a reduction in force {sw_min_jun26}.",
+  "Assessed value and the 2027 budget: in September 2026 Wilkins said the district's assessed value was about $389 million, down roughly $18 million to $19 million from the year before {at_sep26}. He attributed much of the drop to SEA 1 and changes affecting farmland {at_sep26}. No one commented at the budget hearing, and the board was expected to adopt the 2027 budget in October {at_sep26}. The 2026 budget was adopted 7-0 on Oct. 15, 2025 {sw_min_oct25}.",
+  "Facilities (2025–2026): the board paid for a roofing project in 2025 {sw_min_aug25}{sw_min_oct25}. On Nov. 12, 2025 it approved bids for an HVAC project paid for with GO bonds: $180,000 for general trades, $3,189,000 for HVAC and $314,900 for electrical {sw_min_nov25}. The construction manager said the work would be done by the start of the August 2026 school year {sw_min_nov25}. Bond project payments went on through summer 2026, including $1,307,328.65 to the HVAC contractor {sw_min_jul26}{sw_min_aug26}.",
+  "Academics (2025–2026): in September 2025 the district set goals of 48% ILEARN proficiency in English and 45% in math {sw_min_sep25}. Wilkins said current results were 46.3% and 42.7% {sw_min_sep25}. On the redesigned 2026 ILEARN, 33.5% of Southwestern students in grades 3–8 were proficient in both English and math {at_oct26}. That was above the statewide rate of 31.5% and second among Shelby County districts {at_oct26}. Wilkins said Southwestern Elementary was one of three schools in the state with a 100% IREAD passing rate {sw_min_apr26}. The high school received a $50,000 Project Lead The Way Biomedical Sciences startup grant {sw_min_mar26}.",
+  "Enrollment and school choice (2025–2026): the board approved moving 6th grade to the junior-senior high school starting in 2026–27 {sw_min_aug25}. It approved an out-of-district enrollment policy for 2026–27 in March 2026 {sw_min_mar26}. In May 2026 it created the Spartan Virtual Academy for grades 6–12, run through Edmentum {sw_min_may26}{at_may26}. Eleven students had enrolled in the online academy by July 2026 {sw_min_jul26}.",
+  "Policies and planning: the board held community brainstorming nights in April 2025 {sw_min_mar25ws} and approved a strategic plan 7-0 on Aug. 13, 2025 {sw_min_aug25}. In May 2026 it approved a stricter high school cellphone rule tied to new state law: phones must be put away all day, including on buses {at_may26}. On May 13, 2026 the board voted 7-0 to continue a partnership with Girls Inc. for its Healthy Sexuality Program and to approve the 'I Decide For Me' curriculum for the high school human sexuality unit {sw_min_may26}.",
+  "County tournaments (June 2026): at the June 10, 2026 meeting, members of the public and board members objected to the cancellation of the Shelby County tournaments after Shelby Eastern schools withdrew {sw_min_jun26}. Wilkins said the athletic directors from Morristown and Waldron had chosen to withdraw and that no formal rules prevented it {sw_min_jun26}.",
+  "Party labels: under a recent state law change, school board candidates now declare a party or a 'non-disclosed' status {at_dec25}. A Triton Central board president told a December 2025 county meeting that a declared party can decide who fills a seat that becomes vacant mid-term {at_dec25}. On the state list, Tennell is labeled Republican and the other three candidates Nonpartisan {in_list}.",
+  "Forums: this guide found no candidate forums, questionnaires or news profiles of the 2026 Southwestern candidates."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Bradley Joseph Stamper",
+   "seat": "At Large",
+   "summary": "Incumbent board member (listed on the district site as Brad Stamper) running for the at-large seat, with no party (Nonpartisan) {sw_board}{in_list}. This guide could not confirm which seat he holds now.",
+   "website": null,
+   "background": [
+    "Current member of the Southwestern school board {sw_board}. He was the board's representative to Blue River Career Programs until August 2025, when Tennell replaced him because of scheduling conflicts {sw_min_aug25}."
+   ],
+   "path_to_ballot": [
+    "Listed as Nonpartisan on the state candidate list {in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Moved to adopt the 2026 budget, which passed 7-0 on Oct. 15, 2025 {sw_min_oct25}."
+     ]
+    },
+    {
+     "topic": "Facilities",
+     "items": [
+      "Moved to approve the HVAC project bids, which passed 6-0 on Nov. 12, 2025 {sw_min_nov25}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Seconded approval of the 2025–26 master teacher contract, which passed 6-0 on Nov. 12, 2025 {sw_min_nov25}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member {sw_min_aug26}. At the Aug. 12, 2026 meeting he said the change in the district over the last couple of years 'was positive and moving the district in the right direction' {sw_min_aug26}. In August 2025 he thanked those who helped create the strategic plan and thanked the superintendent for completing it {sw_min_aug25}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "Occupation and other background not found.",
+    "The district does not say which seat he holds now or when his term began. 2022 results were not found."
+   ]
+  },
+  {
+   "ballot_name": "Doug Swift",
+   "seat": "Hendricks Township",
+   "summary": "Only candidate for the Hendricks Township seat, with no party (Nonpartisan) {in_list}. He is not a current board member {sw_board}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed as Nonpartisan on the state candidate list {in_list}. He has no opponent {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "Occupation and ties to the schools not found.",
+    "Unconfirmed same-name items: board minutes record a 'Mr. Doug Swift' who spoke at the June 10, 2026 meeting against dropping the county tournaments, and a Doug Swift hired as 5th grade girls basketball coach for 2025–26 (Nov. 12, 2025). This guide could not confirm either is the candidate.",
+    "Which current member's Hendricks Township seat is on the ballot was not confirmed."
+   ]
+  },
+  {
+   "ballot_name": "Derrek Porter Allen Tennell",
+   "seat": "Washington Township",
+   "summary": "Incumbent board member (Derrek Tennell) running in Washington Township, listed as Republican {sw_board}{in_list}. He was board president in 2025 {sw_min_aug25}{sw_min_jan26}.",
+   "website": null,
+   "background": [
+    "Joined the Southwestern board by appointment {sn_2022_supt}. His first meeting was in March 2022, when he abstained on the superintendent hire because, he said, he had not been part of the decision process {sn_2022_supt}.",
+    "Was board president in 2025 {sw_min_aug25}{sw_min_oct25}. He became the board's representative to Blue River Career Programs in August 2025 {sw_min_aug25}.",
+    "Recognized at the April 15, 2026 meeting for receiving the Advanced Individual Award from the Indiana Association of School Boards {sw_min_apr26}."
+   ],
+   "path_to_ballot": [
+    "Listed as Republican on the state candidate list {in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Moved to approve the four position cuts, which passed 7-0 on May 13, 2026 {sw_min_may26}. Moved to approve the superintendent's contract with the condition that he gets no raise in a year when teachers get none (passed 7-0, March 11, 2026) {sw_min_mar26}."
+     ]
+    },
+    {
+     "topic": "Enrollment & school choice",
+     "items": [
+      "Moved to approve the Spartan Virtual School guidelines for grades 6–12 (passed 7-0, May 13, 2026) {sw_min_may26}. On Aug. 12, 2026 he said out-of-district transfers were 'a positive look for the future' {sw_min_aug26}."
+     ]
+    },
+    {
+     "topic": "Curriculum & library policy",
+     "items": [
+      "Moved to continue the Girls Inc {sw_min_may26}. Healthy Sexuality Program partnership for 2026–27 (passed 7-0, May 13, 2026) {sw_min_may26}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member {sw_min_aug25}. In August 2025 he said the district's path 'has improved immensely over the past four years' {sw_min_aug25}. In June 2026 he said the decision to end the county tournaments was made by a small number of people {sw_min_jun26}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "Occupation not found.",
+    "Whether he holds a Washington Township seat now, and the 2022 result, not confirmed."
+   ]
+  },
+  {
+   "ballot_name": "Ethan Isley Krise",
+   "seat": "Washington Township",
+   "summary": "Challenger in Washington Township, with no party (Nonpartisan) {in_list}. He is not a current board member {sw_board}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed as Nonpartisan on the state candidate list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "Occupation and ties to the schools not found.",
+    "If Washington Township has two seats on the ballot, Krise and Tennell would both be elected. Not confirmed."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "sw_home": [
+   "Southwestern Consolidated Schools (home page)",
+   "Southwestern Consolidated School District of Shelby County",
+   "2026-10",
+   "https://www.swshelby.k12.in.us/"
+  ],
+  "sw_board": [
+   "Board Information",
+   "Southwestern Consolidated School District of Shelby County",
+   "2026-10",
+   "http://www.swshelby.k12.in.us/board/board-information"
+  ],
+  "sw_min_mar25ws": [
+   "Special Work Session Minutes, March 26, 2025",
+   "Southwestern Consolidated School District of Shelby County",
+   "2025-03-26",
+   "https://www.swshelby.k12.in.us/document-library/school-board/meeting-minutes/school-year-2024-2025/907-march-26-2025-special-work-session-minutes/file"
+  ],
+  "sw_min_aug25": [
+   "Board Meeting Minutes, August 13, 2025",
+   "Southwestern Consolidated School District of Shelby County",
+   "2025-08-13",
+   "https://www.swshelby.k12.in.us/document-library/school-board/meeting-minutes/school-year-2025-2026/958-august-13-2025-board-meeting-minutes/file"
+  ],
+  "sw_min_sep25": [
+   "Board Meeting Minutes, September 4, 10 and 19, 2025",
+   "Southwestern Consolidated School District of Shelby County",
+   "2025-09",
+   "https://www.swshelby.k12.in.us/document-library/school-board/meeting-minutes/school-year-2025-2026/962-board-meeting-minutes-9-4-9-10-9-19-25/file"
+  ],
+  "sw_min_oct25": [
+   "Meeting Minutes, October 15, 2025",
+   "Southwestern Consolidated School District of Shelby County",
+   "2025-10-15",
+   "https://www.swshelby.k12.in.us/document-library/school-board/meeting-minutes/school-year-2025-2026/976-october-15-2025-meeting-minutes/file"
+  ],
+  "sw_min_oct29": [
+   "Public Hearing Minutes, October 29, 2025",
+   "Southwestern Consolidated School District of Shelby County",
+   "2025-10-29",
+   "https://www.swshelby.k12.in.us/document-library/school-board/meeting-minutes/school-year-2025-2026/977-october-29-2025-meeting-minutes/file"
+  ],
+  "sw_min_nov25": [
+   "Board Meeting Minutes, November 12, 2025",
+   "Southwestern Consolidated School District of Shelby County",
+   "2025-11-12",
+   "https://www.swshelby.k12.in.us/document-library/school-board/meeting-minutes/school-year-2025-2026/980-november-12-2025-board-meeting-minutes/file"
+  ],
+  "sw_min_jan26": [
+   "Board Meeting Minutes, January 14, 2026",
+   "Southwestern Consolidated School District of Shelby County",
+   "2026-01-14",
+   "https://www.swshelby.k12.in.us/document-library/school-board/meeting-minutes/school-year-2025-2026/992-january-14-2026-board-meeting-minutes/file"
+  ],
+  "sw_min_mar26": [
+   "Board Meeting Minutes, March 11, 2026",
+   "Southwestern Consolidated School District of Shelby County",
+   "2026-03-11",
+   "https://www.swshelby.k12.in.us/document-library/school-board/meeting-minutes/school-year-2025-2026/1003-march-11-2026-board-meeting-minutes/file"
+  ],
+  "sw_min_apr26": [
+   "Board Meeting Minutes, April 15, 2026",
+   "Southwestern Consolidated School District of Shelby County",
+   "2026-04-15",
+   "https://www.swshelby.k12.in.us/document-library/school-board/meeting-minutes/school-year-2025-2026/1007-april-15-2026-board-meeting-minutes/file"
+  ],
+  "sw_min_may26": [
+   "Board Meeting Minutes, May 13, 2026",
+   "Southwestern Consolidated School District of Shelby County",
+   "2026-05-13",
+   "https://www.swshelby.k12.in.us/document-library/school-board/meeting-minutes/school-year-2025-2026/1027-may-13-2026-board-meeting-minutes/file"
+  ],
+  "sw_min_jun26": [
+   "Board Meeting Minutes, June 10, 2026",
+   "Southwestern Consolidated School District of Shelby County",
+   "2026-06-10",
+   "https://www.swshelby.k12.in.us/document-library/school-board/meeting-minutes/school-year-2025-2026/1029-june-10th-2026-board-meeting-minutes/file"
+  ],
+  "sw_min_jul26": [
+   "Meeting Minutes, July 15, 2026",
+   "Southwestern Consolidated School District of Shelby County",
+   "2026-07-15",
+   "https://www.swshelby.k12.in.us/document-library/school-board/meeting-minutes/school-year-2025-2026/1035-july-15-2026-meeting-minutes/file"
+  ],
+  "sw_min_aug26": [
+   "Meeting Minutes, August 12, 2026",
+   "Southwestern Consolidated School District of Shelby County",
+   "2026-08-12",
+   "https://www.swshelby.k12.in.us/document-library/school-board/meeting-minutes/school-year-2026-2027/1042-august-12-2026-meeting-minutes/file"
+  ],
+  "at_2024_results": [
+   "Wednesday, November 6, 2024 (local election results)",
+   "The Addison Times",
+   "2024-11-06",
+   "https://addisontimes.substack.com/p/wednesday-november-6-2024"
+  ],
+  "sn_2024_goals": [
+   "Southwestern school board candidates share goals",
+   "The Shelbyville News",
+   "2024-10-25",
+   "https://www.shelbynews.com/news/southwestern-school-board-candidates-share-goals/article_6c6da8e5-935a-5f62-a4b4-6ee7b2b5dc08.html"
+  ],
+  "sn_2022_supt": [
+   "Leadership change at Southwestern schools: School board picks new superintendent",
+   "The Shelbyville News",
+   "2022-03-10",
+   "https://www.shelbynews.com/news/leadership-change-at-southwestern-schools-school-board-picks-new-superintendent/article_9e11f308-2968-545c-8cf2-ad0713bb33a0.html"
+  ],
+  "at_dec25": [
+   "Monday, December 8, 2025 (Coalition meeting centers on 2026 elections)",
+   "The Addison Times",
+   "2025-12-08",
+   "https://addisontimes.substack.com/p/monday-december-8-2025"
+  ],
+  "at_may26": [
+   "Tuesday, May 19, 2026 (Notebook)",
+   "The Addison Times",
+   "2026-05-19",
+   "https://addisontimes.substack.com/p/tuesday-may-19-2026"
+  ],
+  "at_sep26": [
+   "Sunday, September 13, 2026 (school board roundup)",
+   "The Addison Times",
+   "2026-09-13",
+   "https://addisontimes.substack.com/p/sunday-september-13-2026"
+  ],
+  "at_oct26": [
+   "Saturday, October 10, 2026 (Notebook)",
+   "The Addison Times",
+   "2026-10-10",
+   "https://addisontimes.substack.com/p/saturday-october-10-2026"
+  ],
+  "wiki_swhs": [
+   "Southwestern Junior-Senior High School",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/Southwestern_Junior-Senior_High_School"
+  ]
+ }
+}

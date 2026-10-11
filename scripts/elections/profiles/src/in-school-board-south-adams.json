@@ -1,0 +1,286 @@
+{
+ "race_id": "in-school-board-south-adams",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The district: South Adams Schools has its office at 1075 Starfire Way in Berne, Adams County, and runs an elementary, a middle and a high school {sa_home}. South Adams High School was formed by consolidating the Berne, Geneva, Hartford Township and Jefferson Township high schools, and it had 347 students in 2024–25, according to Wikipedia {wiki_sahs}. This guide did not find a current districtwide enrollment figure.",
+  "Superintendent: Superintendent Michelle Clouser Penrod announced in July 2025 that she would retire after the 2025–26 school year, and Meyer was selected to replace her {bw_penrod}. The district's notice for the Feb. 10, 2026 contract hearing summarized an agreement employing Joseph Meyer as superintendent from July 1, 2026, with a $118,000 base salary {sa_supt_notice}{sa_ag_feb26}. The district site lists Joe Meyer as superintendent {sa_home}.",
+  "The board: there are seven members, and each seat has a defined area {sa_board}. District I is west of County Road 000 and south of State Highway 218, not counting Berne and Geneva {sa_board}. District II is east of County Road 000 and south of SR 218, also not counting Berne and Geneva {sa_board}. District III is the City of Berne, District IV is the Town of Geneva, District V is north of SR 218 (not counting Berne), and District VI is at large {sa_board}. The members are President Arlene Amstutz (II, term ends 2028), Vice President Adam Lehman (III, 2026), Secretary Landon Patterson (I, 2026), Rhonda Briggs (IV, 2028), Brian Caffee (V, 2028), Kyle Litwiller (VI, 2028) and Mitch Sprunger (III, 2026) {sa_board}. At its first meeting of 2026, the board passed a motion to keep things the same for 2026 {bw_jan26}.",
+  "District 1 (one seat): this is a rematch {adams_2022}. In 2022 Landon Patterson defeated Benjamin M. Rediger 1,181 votes to 1,009 {adams_2022}. Patterson's term ends in 2026 {sa_board}. On the 2026 state list, Rediger is labeled Republican and Patterson Independent {in_list}.",
+  "District 3 (likely two seats): District III has two board members, Adam Lehman and Mitch Sprunger, and both terms end in 2026 {sa_board}. In 2022 the District 3 race was 'Vote For 2,' and Lehman (1,791 votes) and Mitchel W. Sprunger (1,338) were the only candidates {adams_2022}. The state list shows District 3 as 'vote for 1,' with Adam S Lehman (Republican) and Mitch Sprunger (Nonpartisan) {in_list}. If both seats are on the ballot, as in 2022, both incumbents would be elected. This guide did not find a 2026 sample ballot to confirm. Both District 3 candidates are sitting members {sa_board}.",
+  "How candidates qualified: school board candidates filed petitions with the county clerk by noon on June 18, 2026 {bw_filing}.",
+  "Budget and property taxes (2025–2026): the board approved its 2026 budget in October 2025 {bw_oct25}. For 2027, the district's budget notice lists a total of $19,635,361: $11,820,875 for Education, $4,257,211 for Operations, $2,357,275 for Debt Service and $1,200,000 for the Rainy Day fund {sa_budget27}. It also lists a property tax cap credit estimate of $539,000 and a maximum operating levy estimate of $3,739,580 {sa_budget27}. The hearing was set for Aug. 18, 2026 and adoption for Oct. 13, 2026 {sa_budget27}. The board held its 2027 budget workshop in July 2026 {bw_budget27}. This guide did not find district statements on how SEA 1 affects South Adams.",
+  "Facilities and bonds (2025–2026): in October 2025 the board approved phase 2 of its facility improvement project {bw_oct25}. In early 2026 the board discussed a sanitary project, auditorium lighting and upgrades, and authorizing and refinancing bonds {sa_ag_jan26}{sa_ag_feb26}{sa_ag_mar26}. The March 10, 2026 agenda included a review of bids for phase 2 of the sanitary project {sa_ag_mar26}. On April 14, 2026 it held a hearing on a '2026 Unified Project' covering renovations and improvements across the district, site work, and buying equipment, buses and technology {sa_unified_notice}{sa_ag_apr26}. That meeting's agenda included a project resolution and a declaration of intent to reimburse expenditures {sa_unified_notice}{sa_ag_apr26}. The board approved bids for summer projects in June 2026 and got construction updates in July {bw_bids}{bw_renov}. In August 2026 the district gave notice of a plan to issue about $7,780,000 in bonds to refinance its Series 2016 building corporation bonds {sa_bldg_corp}{sa_determination}.",
+  "Teachers (2025–2026): the board held a public hearing on teacher pay and bargaining on Sept. 9, 2025, and a hearing on a tentative teacher contract on Nov. 4, 2025 {sa_ag_sep25}{sa_ag_nov25}. The district has posted a tentative 2026–27 master contract {sa_home}.",
+  "Policies and scheduling (2026): the March and April 2026 agendas included retiring all of the district's NEOLA policies and approving the Indiana School Boards Association's required policies {sa_ag_mar26}{sa_ag_apr26}. A February 2026 Berne Witness report said the board was divided over synchronous e-learning while discussing the 2026–27 calendar {bw_sync}{sa_ag_feb26}. In June 2026 administrators told the board about an attendance policy updated to match state standards {bw_absence}. In April 2026 a resident used the guest comment time to object to a Turning Point USA club {bw_tpusa}.",
+  "School safety (2026): the board discussed a safety ordinance in January 2026 {sa_ag_jan26}. In May 2026 the school resource officer brought a traffic-enforcement ordinance for South Adams Schools to the Berne Board of Public Works and Safety {bw_ordinance}. In September 2026 the director of operations reported to the board on a mock disaster drill {bw_drill}.",
+  "Forums: this guide found no candidate forums, questionnaires or news profiles of the 2026 South Adams candidates."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Benjamin Rediger",
+   "seat": "District 1",
+   "summary": "Challenger for the District 1 seat, listed as Republican {in_list}. He lost the 2022 race for this seat to Landon Patterson {adams_2022}.",
+   "website": null,
+   "background": [
+    "Ran for the District 1 seat in 2022 (as Benjamin M Rediger) and received 1,009 votes (46%) to Patterson's 1,181 {adams_2022}. Ran for the at-large seat in 2024 and received 1,317 votes (41%), losing to Kyle Litwiller {adams_2024}."
+   ],
+   "path_to_ballot": [
+    "Listed as Republican on the state candidate list {in_list}. School board candidates qualified by petition filed with the county clerk by June 18, 2026 {bw_filing}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "Occupation and ties to the schools not found."
+   ]
+  },
+  {
+   "ballot_name": "Landon Patterson",
+   "seat": "District 1",
+   "summary": "Incumbent and board secretary, running for reelection in District 1, listed as Independent {sa_board}{in_list}.",
+   "website": null,
+   "background": [
+    "Board secretary {sa_board}. His District I term ends in 2026 {sa_board}. He won the seat in 2022, defeating Rediger 1,181 votes to 1,009 {adams_2022}."
+   ],
+   "path_to_ballot": [
+    "Listed as Independent on the state candidate list {in_list}. School board candidates qualified by petition filed with the county clerk by June 18, 2026 {bw_filing}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member and board secretary {sa_board}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "Occupation not found.",
+    "His votes and stated views on board issues (such as the February 2026 e-learning debate) were not found. Board minutes and full Berne Witness articles were not available to this guide."
+   ]
+  },
+  {
+   "ballot_name": "Adam S Lehman",
+   "seat": "District 3",
+   "summary": "Incumbent and board vice president, running for reelection in District 3, listed as Republican {sa_board}{in_list}.",
+   "website": null,
+   "background": [
+    "Board vice president {sa_board}. His District III (City of Berne) term ends in 2026 {sa_board}. He won in 2022 with 1,791 votes in a two-seat race with two candidates {adams_2022}."
+   ],
+   "path_to_ballot": [
+    "Listed as Republican on the state candidate list {in_list}. School board candidates qualified by petition filed with the county clerk by June 18, 2026 {bw_filing}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member and vice president {sa_board}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "Occupation not found.",
+    "Not to be confused with South Adams assistant principal Jeff Lehman or State Rep. Matt Lehman, who appear in the same local coverage.",
+    "His votes and stated views on board issues were not found. Board minutes were not available to this guide."
+   ]
+  },
+  {
+   "ballot_name": "Mitch Sprunger",
+   "seat": "District 3",
+   "summary": "Incumbent board member running for reelection in District 3, with no party (Nonpartisan) {sa_board}{in_list}.",
+   "website": null,
+   "background": [
+    "His District III (Berne) term ends in 2026 {sa_board}. He won in 2022 (as Mitchel W Sprunger) with 1,338 votes in a two-seat race with two candidates {adams_2022}."
+   ],
+   "path_to_ballot": [
+    "Listed as Nonpartisan on the state candidate list {in_list}. School board candidates qualified by petition filed with the county clerk by June 18, 2026 {bw_filing}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {sa_board}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "Occupation not found.",
+    "Not to be confused with other Sprungers in Berne-area government, such as the Berne mayor and a county council member.",
+    "His votes and stated views on board issues were not found. Board minutes were not available to this guide."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "sa_home": [
+   "District home page",
+   "South Adams Schools",
+   "2026-10",
+   "https://www.southadams.k12.in.us/district/homepage"
+  ],
+  "sa_board": [
+   "School Board Members",
+   "South Adams Schools",
+   "2026-10",
+   "https://www.southadams.k12.in.us/district/school-board-agendas-minutes/school-board-members"
+  ],
+  "sa_ag_sep25": [
+   "Public hearings and regular board meeting agenda, Sept. 9, 2025",
+   "South Adams Schools",
+   "2025-09-09",
+   "https://resources.finalsite.net/images/v1760019044/southadamsk12inus/qbqzh2kkyx5wfhf5uyob/September2025PublicHearingsBoardAgenda.pdf"
+  ],
+  "sa_ag_nov25": [
+   "Public hearing and special board meeting agenda, Nov. 4, 2025",
+   "South Adams Schools",
+   "2025-11-04",
+   "https://resources.finalsite.net/images/v1762262610/southadamsk12inus/mwz7hh7zkrsnccdqwcnl/November4thPublicHearingSpecialMeetingAgenda.pdf"
+  ],
+  "sa_ag_jan26": [
+   "Regular board meeting agenda, Jan. 13, 2026",
+   "South Adams Schools",
+   "2026-01-13",
+   "https://resources.finalsite.net/images/v1776432653/southadamsk12inus/yoyv8rhkrsul1aznp6d1/January2026SchoolBoardAgenda.pdf"
+  ],
+  "sa_ag_feb26": [
+   "Public hearing and board meeting agenda, Feb. 10, 2026",
+   "South Adams Schools",
+   "2026-02-10",
+   "https://resources.finalsite.net/images/v1776432653/southadamsk12inus/bnrpukvwpxcce6dclxf3/February2026PublicHearingBoardAgenda.pdf"
+  ],
+  "sa_ag_mar26": [
+   "Work session and board meeting agenda, March 10, 2026",
+   "South Adams Schools",
+   "2026-03-10",
+   "https://resources.finalsite.net/images/v1776432653/southadamsk12inus/rktmuincnwkjljpjni6c/March2026SchoolBoardWorkSessionAgenda.pdf"
+  ],
+  "sa_ag_apr26": [
+   "Public hearing and board meeting agenda, April 14, 2026",
+   "South Adams Schools",
+   "2026-04-14",
+   "https://resources.finalsite.net/images/v1776432653/southadamsk12inus/ldjwtox87ea2puwo4s8u/April2026PublicHearingBoardAgenda.pdf"
+  ],
+  "sa_supt_notice": [
+   "Notice of Public Hearing: Superintendent's Compensation Package",
+   "South Adams Schools",
+   "2026-01",
+   "https://resources.finalsite.net/images/v1769455358/southadamsk12inus/b7fq90ylzay7zmequaco/2026AdvertisementSuptContractHearingFebruary2026.pdf"
+  ],
+  "sa_unified_notice": [
+   "Notice of Hearing: 2026 Unified Project",
+   "South Adams Schools",
+   "2026-04-01",
+   "https://resources.finalsite.net/images/v1774874858/southadamsk12inus/h2hct1079wsijt1rlnns/NoticeofHearing-2026UnifiedProject.pdf"
+  ],
+  "sa_budget27": [
+   "2027 Budget Notice (Notice to Taxpayers)",
+   "South Adams Schools",
+   "2026-08-07",
+   "https://resources.finalsite.net/images/v1786109488/southadamsk12inus/sqobpbyizhoekdymopzi/2027BudgetNotice.pdf"
+  ],
+  "sa_bldg_corp": [
+   "Public Notice: South Adams School Building Corporation",
+   "South Adams Schools",
+   "2026-08",
+   "https://resources.finalsite.net/images/v1786642527/southadamsk12inus/oajd9q6dji0yt75plwxj/PublicNoticeSouthAdamsBuildingCorporation.pdf"
+  ],
+  "sa_determination": [
+   "Notice of Determination",
+   "South Adams Schools",
+   "2026-08-26",
+   "https://resources.finalsite.net/images/v1787661863/southadamsk12inus/lljfgiyuals8t0folrc4/Advertisement-NoticeofDetermination.pdf"
+  ],
+  "adams_2022": [
+   "2022 General Election Summary Report (final)",
+   "Adams County, Indiana",
+   "2022-11-08",
+   "https://www.co.adams.in.us/DocumentCenter/View/46411/2022-General-Final"
+  ],
+  "adams_2024": [
+   "2024 General Election Summary Report",
+   "Adams County, Indiana",
+   "2024-11-15",
+   "https://www.co.adams.in.us/DocumentCenter/View/47561/2024-General-Election-Summary-Report"
+  ],
+  "wiki_sahs": [
+   "South Adams High School",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/South_Adams_High_School"
+  ],
+  "bw_penrod": [
+   "Penrod retiring from South Adams after 2025-2026 school year, Meyer selected as replacement",
+   "The Berne Witness",
+   "2025-07-09",
+   "https://bernewitness.com/news/penrod-retiring-from-south-adams-after-2025-2026-school-year-meyer-selected-as-replacement"
+  ],
+  "bw_oct25": [
+   "South Adams School Board approves phase 2 facilities project, adopts 2026 budget",
+   "The Berne Witness",
+   "2025-10-15",
+   "https://bernewitness.com/news/south-adams-school-board-approves-phase-2-facilities-project-adopts-2026-budget"
+  ],
+  "bw_jan26": [
+   "South Adams School Board maintains status quo for 2026",
+   "The Berne Witness",
+   "2026-01-16",
+   "https://bernewitness.com/news/south-adams-school-board-maintains-status-quo-for-2026"
+  ],
+  "bw_sync": [
+   "Synchronous learning divides South Adams School Board",
+   "The Berne Witness",
+   "2026-02-18",
+   "https://bernewitness.com/news/synchronous-learning-divides-south-adams-school-board"
+  ],
+  "bw_tpusa": [
+   "South Adams School Board hears plea against Turning Point USA club",
+   "The Berne Witness",
+   "2026-04-20",
+   "https://bernewitness.com/news/south-adams-school-board-hears-plea-against-turning-point-usa-club"
+  ],
+  "bw_filing": [
+   "School board filing deadline June 18",
+   "The Berne Witness",
+   "2026-05-29",
+   "https://bernewitness.com/news/school-board-filing-deadline-june-18"
+  ],
+  "bw_ordinance": [
+   "Ordinance presented to enforce traffic at South Adams Schools",
+   "The Berne Witness",
+   "2026-05-22",
+   "https://bernewitness.com/news/ordinance-presented-to-enforce-traffic-at-south-adams-schools"
+  ],
+  "bw_absence": [
+   "South Adams absence policy updated to align with state standards",
+   "The Berne Witness",
+   "2026-06-22",
+   "https://bernewitness.com/news/south-adams-absence-policy-updated-to-align-with-state-standards"
+  ],
+  "bw_bids": [
+   "Three projects at South Adams receive bid approval",
+   "The Berne Witness",
+   "2026-06-24",
+   "https://bernewitness.com/news/three-projects-at-south-adams-receive-bid-approval"
+  ],
+  "bw_renov": [
+   "South Adams on track to finish renovations",
+   "The Berne Witness",
+   "2026-07-24",
+   "https://bernewitness.com/news/south-adams-on-track-to-finish-renovations"
+  ],
+  "bw_budget27": [
+   "SA School Board holds 2027 budget workshop",
+   "The Berne Witness",
+   "2026-07-31",
+   "https://bernewitness.com/news/sa-school-board-holds-2027-budget-workshop"
+  ],
+  "bw_drill": [
+   "Mock drill inspires district leadership",
+   "The Berne Witness",
+   "2026-09-16",
+   "https://bernewitness.com/news/mock-drill-inspires-district-leadership"
+  ]
+ }
+}
