@@ -34,6 +34,21 @@ Sensitive items held for a second, careful editorial pass (criminal cases, misco
   Note: Board-approved firing as Irwin STEM principal, with his account. Previously shown in the public profile.
   - [Fort Wayne school board candidate axed from principal post](https://www.journalgazette.net/local/schools/fort-wayne-school-board-candidate-axed-from-principal-post/article_f52aa56a-d5da-4bb9-a95e-a198c82f14a5.html) — The Journal Gazette, 2026-09-28
 
+## Indiana School Board Member (`in-school-board-frankfort`)
+
+- **Joel Patrick Tatum** — personnel action — _held_
+  On Oct. 11, 2017, Frankfort Mayor Chris McBarnes and Clerk-Treasurer Judy Sheets announced that Parks Superintendent Joel Tatum was terminated after he declined a different position in the department, following city review of 'financial variances' in Parks Department operations; they said the State Board of Accounts might be involved and made no further comment. A Feb. 21, 2018 statement issued by Jeff Tatum on his behalf said the prosecutor found no basis for charges and that the State Board of Accounts found no missing money or misappropriation, while acknowledging that record-keeping and deposits could have been better. No charges were reported.
+  Note: The 2017-18 articles do not mention the school board; the tie to the candidate rests on the same name and the same job (the Joel Tatum hired as parks superintendent in 2023 was identified as a CSF board member). The State Board of Accounts findings come only from Tatum's own statement and were not independently checked.
+  - [Tatum Terminated as Frankfort Parks Superintendent](https://clintoncountydailynews.com/tatum-terminated-as-frankfort-parks-superintendent/) — Clinton County Daily News, 2017-10-11
+  - [Statement Issued on Behalf of Joel Tatum in Parks Situation](https://clintoncountydailynews.com/statement-issued-on-behalf-of-joel-tatum-in-parks-situation/) — Clinton County Daily News, 2018-02-21
+
+- **Joel Patrick Tatum** — personnel action — _held_
+  The City of Frankfort announced on Jan. 21, 2025 that Parks Superintendent Joel Tatum had resigned effective immediately, after reports of USDA violations filed in December 2024 and the deaths of animals at the TPA Park Aviary and Petting Zoo. Mayor Judy Sheets thanked him 'for his dedication to our parks'. Tatum was identified as a sitting CSF board member when he took the job in 2023. No response from Tatum was found.
+  Note: The articles do not state that he was asked to resign or found responsible; USDA findings were not reviewed.
+  - [Frankfort Parks Superintendent Tatum Resigns](https://clintoncountydailynews.com/frankfort-parks-superintendent-tatum-resigns/) — Clinton County Daily News, 2025-01-21
+  - [Frankfort deer succumbs to injuries; parks superintendent resigns](https://www.ftimes.com/news/frankfort-deer-succumbs-to-injuries-parks-superintendent-resigns/article_b6c55a5e-bcd3-5259-81a3-5368187a69d3.html) — The Times (Frankfort), 2025-01-27
+  - [Tatum sworn in](https://www.ftimes.com/news/tatum-sworn-in/article_d1f130d1-abae-5e56-a5f1-b82333541d41.html) — The Times (Frankfort), 2023-08-16
+
 ## Indiana School Board Member (`in-school-board-greater-clark`)
 
 - **Greater Clark board incl. Brian Jones, John Buckwalter, Tamara Tammy Yenawine Mustain** — personnel action — _held_

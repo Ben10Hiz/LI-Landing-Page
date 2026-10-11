@@ -1,0 +1,225 @@
+{
+ "race_id": "in-school-board-knox",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Knox Community School Corporation is based in Knox, the Starke County seat, and runs three schools: Knox Community Elementary, Knox Community Middle School and Knox High School, plus a virtual school {kcsc_home}{kcsc_supt}{nces_knox}. Federal data list 1,673 students in 2024-25 {nces_knox}. Greg Mikulich is superintendent {kcsc_supt}{wkvi_jan2025}.",
+  "The Board of School Trustees has seven members {kcsc_board}. Seats are tied to townships: the three seats on the 2026 ballot are one each for California, Center and Washington townships, and candidates must live in the township they seek to represent {wkvi_filing_2026}. Each race elects one member, matching the state list's 'vote for 1' {wkvi_filing_2026}{in_list}. In the 2022 county results each of the three township races drew roughly 2,600 votes {starke_2022}.",
+  "Who holds the seats now: all three incumbents are on the ballot. Jason Downs won the California Township seat in 2022, Gary Dulin kept the Center Township seat and Erin Duff won the Washington Township seat {wkvi_results_2022}{wkvi_sworn_2023}. The other four members (Kirk Bennett, Wendy McIntire, Autumn Ferch and Dr. Thomas Browne) were elected in November 2024 {wkvi_jan2025}. The district website lists Bennett as president, Downs as vice president and McIntire as secretary {kcsc_board}.",
+  "Rematches from 2022: the California and Center township races repeat 2022 contests. Downs beat Mary Lynn Ritchie 1,329 to 1,303 (50.49% to 49.51%), and Dulin beat Raymond Stephenson 1,392 to 1,259 (52.51% to 47.49%) {starke_2022}. Duff beat Michael Yankauskas 1,387 to 1,235 in Washington Township {starke_2022}.",
+  "Party labels: 2026 is the first partisan school board election under the new state law; candidates could list a party or none, there was no primary, and straight-ticket voting does not apply to these races {wkvi_filing_2026}. WKVI's ballot list shows Downs, Stephenson, Duff and Brooke Norem as Republicans, Julie Berndt as a Democrat, and Ritchie and Dulin with no party; the state lists Ritchie and Dulin as Nonpartisan {wkvi_election_central}{in_list}. Both Washington Township candidates are Republicans {wkvi_election_central}{in_list}.",
+  "Budget and pay (fall 2026): the board's Oct. 12, 2026 agenda included a public hearing on the proposed 2027 budget, Capital Projects Fund plan and Bus Replacement Fund plan, setting an Oct. 26 adoption meeting, a $1-per-hour raise for classified staff and $3 more in the daily base rate for bus drivers (both retroactive to July 1, 2026), a one-time $100 classroom supply stipend for teachers, and a telehealth benefit for employees not eligible for the district's health insurance {wkvi_budget_1012}. The board held a work session for a fiscal review on Jan. 26, 2026 {wkvi_jan26}. This guide found no reporting on how the 2025 property-tax law (SEA 1) affects Knox's budget, and no operating or safety referendum.",
+  "Safety: in September 2024 the board passed a resolution to create a school corporation police department; Mikulich said the assistant principal had been serving as safety director and 'We want one person in charge of our schools and our school safety' {wkvi_police_2024}. A school safety handbook was on the May 4, 2026 agenda {wkvi_may4}.",
+  "Facilities: construction at Knox High School was a recurring agenda item in 2025-26, with an update on an upcoming high school project on Jan. 5, 2026 and an update on upcoming construction projects on May 4, 2026 {wkvi_jan5_2026}{wkvi_may4}. The Oct. 12, 2026 agenda included a bid recommendation for the pool air handling unit {wkvi_budget_1012}.",
+  "Academics: at Knox Community Elementary in 2025, 38.8% of tested students were proficient on ILEARN English/language arts, 45.9% in math, and 85.1% passed the IREAD-3 reading test {idoe_kce}. This guide did not find corporation-wide grades.",
+  "Board recognition: the Indiana School Boards Association gave the board an Exemplary Governance Award for 2025, based mainly on members' training and goal-setting; Browne, Downs and Ferch received individual awards {wkvi_isba_2026}.",
+  "Forums: this guide found no 2026 candidate forum, questionnaire or news coverage of the candidates' views for this race."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Jason Downs",
+   "seat": "California",
+   "summary": "Incumbent, elected to the California Township seat in 2022; listed with the Republican label {wkvi_results_2022}{in_list}.",
+   "website": null,
+   "background": [
+    "Elected in 2022 and sworn in in January 2023 {wkvi_sworn_2023}. Remained board president into 2025 when the board could not reach a majority on a new president in January 2025 {wkvi_jan2025}. The district website lists him as vice president {kcsc_board}.",
+    "Received an individual Level 2 (Advanced) Exemplary Governance Award from the Indiana School Boards Association in 2026 {wkvi_isba_2026}."
+   ],
+   "path_to_ballot": [
+    "Filed for the California Township seat as a Republican; candidates filed by petition with at least 10 signatures, and there was no primary {wkvi_filing_2026}{wkvi_election_central}{in_list}.",
+    "Beat Mary Lynn Ritchie 1,329 to 1,303 in 2022 {starke_2022}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. No statement from him on the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, questionnaire, forum remarks or news coverage of his 2026 campaign were found.",
+    "Occupation and ties to the schools beyond board service could not be confirmed.",
+    "Starke County posts only blank campaign finance forms online; candidate reports were not available."
+   ]
+  },
+  {
+   "ballot_name": "Mary Lynn Ritchie",
+   "seat": "California",
+   "summary": "Challenger for the California Township seat; lost the 2022 race for the same seat to Jason Downs by 26 votes {starke_2022}.",
+   "website": null,
+   "background": [
+    "Ran for the California Township seat in 2022 {wkvi_cands_2022}{starke_2022}."
+   ],
+   "path_to_ballot": [
+    "Filed without a party label; the state lists her as Nonpartisan {wkvi_election_central}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No website, questionnaire, forum remarks or news coverage of her 2026 campaign were found.",
+    "Occupation and ties to the schools could not be confirmed.",
+    "Starke County campaign finance reports were not available online."
+   ]
+  },
+  {
+   "ballot_name": "Gary L. Dulin",
+   "seat": "Center",
+   "summary": "Incumbent in the Center Township seat; won reelection in 2022 {wkvi_sworn_2023}{starke_2022}. Runs without a party label {in_list}.",
+   "website": null,
+   "background": [
+    "Kept his seat in the 2022 election and was sworn in for a new term in January 2023 {wkvi_sworn_2023}. In January 2025 the board named him its representative to the Knox Park Board {wkvi_jan2025}."
+   ],
+   "path_to_ballot": [
+    "Filed without a party label; the state lists him as Nonpartisan {wkvi_election_central}{in_list}.",
+    "Beat Raymond Stephenson 1,392 to 1,259 in 2022 {starke_2022}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. No statement from him on the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "How long he has served on the board was not confirmed.",
+    "No campaign website, questionnaire, forum remarks or news coverage of his 2026 campaign were found.",
+    "Occupation could not be confirmed.",
+    "Starke County campaign finance reports were not available online."
+   ]
+  },
+  {
+   "ballot_name": "Julie Berndt",
+   "seat": "Center",
+   "summary": "Candidate for the Center Township seat, listed with the Democratic label; little public information about her campaign was found {wkvi_election_central}{in_list}.",
+   "website": null,
+   "background": [
+    "Listed with a Knox address for the Center Township seat {wkvi_election_central}."
+   ],
+   "path_to_ballot": [
+    "Filed for the Center Township seat as a Democrat; there was no school board primary {wkvi_filing_2026}{wkvi_election_central}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "A 2017 WKVI article reports that a Julie Berndt resigned as a Culver Community Schools administrator (assistant principal and test coordinator, and earlier a principal); this guide could not confirm she is the same person as the candidate.",
+    "No website, questionnaire, forum remarks or news coverage of her campaign were found.",
+    "Current occupation could not be confirmed.",
+    "Starke County campaign finance reports were not available online."
+   ]
+  },
+  {
+   "ballot_name": "Raymond Edward Stephenson",
+   "seat": "Center",
+   "summary": "Candidate for the Center Township seat, listed with the Republican label; ran for the same seat in 2022 {starke_2022}{in_list}.",
+   "website": null,
+   "background": [
+    "Ran for the Center Township seat in 2022 as 'Raymond E. Stephenson' and lost to Gary Dulin {wkvi_cands_2022}{starke_2022}."
+   ],
+   "path_to_ballot": [
+    "Filed for the Center Township seat as a Republican; there was no school board primary {wkvi_filing_2026}{wkvi_election_central}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No website, questionnaire, forum remarks or news coverage of his campaign were found.",
+    "Occupation and ties to the schools could not be confirmed.",
+    "Starke County campaign finance reports were not available online."
+   ]
+  },
+  {
+   "ballot_name": "Brooke Norem",
+   "seat": "Washington",
+   "summary": "Candidate for the Washington Township seat, listed with the Republican label; little public information about her campaign was found {wkvi_election_central}{in_list}.",
+   "website": null,
+   "background": [
+    "Listed with a Knox address for the Washington Township seat {wkvi_election_central}."
+   ],
+   "path_to_ballot": [
+    "Filed for the Washington Township seat as a Republican; with no primary, she and incumbent Erin Duff both appear on the ballot as Republicans {wkvi_filing_2026}{wkvi_election_central}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No website, questionnaire, forum remarks or news coverage of her campaign were found.",
+    "Occupation and ties to the schools could not be confirmed.",
+    "Starke County campaign finance reports were not available online."
+   ]
+  },
+  {
+   "ballot_name": "Erin Duff",
+   "seat": "Washington",
+   "summary": "Incumbent, elected to the Washington Township seat in 2022; listed with the Republican label {starke_2022}{in_list}.",
+   "website": null,
+   "background": [
+    "Ran in 2022 as 'Erin A. Duff', won, and was sworn in in January 2023 {wkvi_cands_2022}{wkvi_sworn_2023}. Was elected board secretary and named the board's legislative liaison in January 2025 {wkvi_jan2025}."
+   ],
+   "path_to_ballot": [
+    "Filed for the Washington Township seat as a Republican; there was no school board primary {wkvi_filing_2026}{wkvi_election_central}{in_list}.",
+    "Beat Michael Yankauskas 1,387 to 1,235 in 2022 {starke_2022}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. No statement from her on the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "A 2013 WKVI item names a nurse practitioner Erin Duff conducting cancer screenings; this guide could not confirm it is the same person.",
+    "No campaign website, questionnaire, forum remarks or news coverage of her 2026 campaign were found.",
+    "Starke County campaign finance reports were not available online."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "kcsc_home": ["Knox Community School Corporation (home page)", "Knox Community School Corporation", "2026-10", "https://www.knox.k12.in.us/"],
+  "kcsc_board": ["Meet the Board", "Knox Community School Corporation", "2026-10", "https://www.knox.k12.in.us/about_k_c_s_c/school_board/meet_the_board"],
+  "kcsc_supt": ["Superintendent and Corporation Office", "Knox Community School Corporation", "2026-10", "https://www.knox.k12.in.us/about_k_c_s_c/superintendent_and_corporation_office"],
+  "nces_knox": ["Search for Public School Districts: Knox Community School Corp", "National Center for Education Statistics", "2026-10", "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1805340"],
+  "idoe_kce": ["Knox Community Elementary School report card", "Indiana Department of Education (Indiana GPS)", "2026-10", "https://indianagps.doe.in.gov/ReportCard/698"],
+  "wkvi_filing_2026": ["Candidate filing open for Knox School Board", "WKVI", "2026-05-22", "https://wkvi.com/2026/05/candidate-filing-open-for-knox-school-board/"],
+  "wkvi_election_central": ["Election Central", "WKVI", "2026-10-07", "https://wkvi.com/election-central/"],
+  "wkvi_budget_1012": ["Knox School Board to consider employee pay increases, classroom supply stipends, Monday", "WKVI", "2026-10-09", "https://wkvi.com/2026/10/knox-school-board-to-consider-employee-pay-increases-classroom-supply-stipends-monday/"],
+  "wkvi_isba_2026": ["Knox School Board Honored by the Indiana School Boards Association", "WKVI", "2026-04-13", "https://wkvi.com/2026/04/knox-school-board-honored-by-the-indiana-school-boards-association/"],
+  "wkvi_may4": ["Knox School Board to meet May 4", "WKVI", "2026-05-01", "https://wkvi.com/2026/05/knox-school-board-to-meet-may-4/"],
+  "wkvi_jan26": ["Knox School Board to hold work session January 26", "WKVI", "2026-01-23", "https://wkvi.com/2026/01/knox-school-board-to-hold-work-session-january-26/"],
+  "wkvi_jan5_2026": ["Knox School Board and School Finance Board to meet January 5", "WKVI", "2025-12-31", "https://wkvi.com/2025/12/knox-school-board-and-school-finance-board-to-meet-january-5/"],
+  "wkvi_police_2024": ["Knox Community School Board Creates Police Department", "WKVI", "2024-09-16", "https://wkvi.com/2024/09/knox-community-school-board-creates-police-department/"],
+  "wkvi_jan2025": ["Knox Community School Board Meets for First Time in 2025", "WKVI", "2025-01-09", "https://wkvi.com/2025/01/knox-community-school-board-meets-for-first-time-in-2025/"],
+  "wkvi_sworn_2023": ["Knox School Board Holds Swearing-In Ceremony", "WKVI", "2023-01-06", "https://wkvi.com/2023/01/knox-school-board-holds-swearing-in-ceremony/"],
+  "wkvi_cands_2022": ["Starke County, Pulaski County Candidates File for School Board", "WKVI", "2022-08-29", "https://wkvi.com/2022/08/starke-county-pulaski-county-candidates-file-for-school-board/"],
+  "wkvi_results_2022": ["Republicans Come up with Election Night Victories in Starke County", "WKVI", "2022-11-09", "https://wkvi.com/2022/11/republicans-come-up-with-election-night-victories-in-starke-county-2/"],
+  "starke_2022": ["2022 General Election Summary Report", "Starke County Election Board", "2022-11-18", "https://starke.in.gov/wp-content/uploads/2022/11/2022_General_Election_Summary-1.pdf"]
+ }
+}

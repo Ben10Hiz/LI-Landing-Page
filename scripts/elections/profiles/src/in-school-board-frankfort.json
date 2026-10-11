@@ -1,0 +1,240 @@
+{
+ "race_id": "in-school-board-frankfort",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The 'Frankfort Community School Board' seats belong to Community Schools of Frankfort, the public school district for Frankfort, the Clinton County seat {csf_home}{sboe_csf_plan}. Its seven residence districts cover the city's five wards, Center Township outside the city and Union Township {sboe_csf_plan}. Federal data list five schools and 2,972 students in 2024-25 {nces_csf}. Dr. Matthew (Matt) Rhoda has been superintendent since July 1, 2022, after serving as assistant superintendent {csf_home}{ft_rhoda_named}.",
+  "The Board of School Trustees has seven members, one living in each of seven districts, but every voter in the school corporation votes for every seat on the ballot; members serve four-year terms, Districts 1-3 are elected in 2024, 2028 and so on, and Districts 4-7 in 2022, 2026 and so on {sboe_csf_plan}. So each 2026 race elects one member, matching the state list's 'vote for 1' {sboe_csf_plan}{in_list}. Current members are Sandra Miller (president), Robert Marcum (vice president), James McQuade (secretary), Kristen Beardsley, Mandi Mitchell, Joel Tatum and Mark Sanders {csf_board}.",
+  "Who holds the seats now: all four were filled without opposition in 2022, when Kristen Beardsley won District 4, Amanda 'Mandi' Mitchell District 5, Joel Tatum District 6 and Sandra Miller District 7 {ft_2022_results}. Beardsley is not on the 2026 ballot, so District 4 will have a new member {ft_2022_results}{in_list}. Mitchell (District 5) and Tatum (District 6) are unopposed, and Miller faces two challengers in District 7 {in_list}.",
+  "Party labels: 2026 is the first year Indiana school board candidates could list a party {ft_party_split}. The state list shows Edward H Niehaus and Sandra Miller as Republicans, Jennifer Fitch as a Democrat, and the other candidates as Nonpartisan {in_list}. Candidates filed by petition with at least 10 voter signatures; filing closed at noon June 18, 2026, and there was no school board primary {ccdn_filing_2026}.",
+  "Staffing and enrollment (2026): Superintendent Rhoda announced a reduction of 16 teaching positions for 2026-27, saying in a March 2026 video that the cuts align staffing with enrollment, which has declined over the past decade {ft_staff_video}. At a February 2026 board meeting, Brenda Buckingham-Ehrmann, speaking for the Frankfort Education Association, urged the board to reconsider the reductions {ft_fea_cuts}.",
+  "Budget and property taxes: this guide found no reporting on how the 2025 property-tax law (SEA 1) affects the district's budget, and no operating or safety referendum. The board's 2026-27 meetings are scheduled for Oct. 20, Nov. 17 and Dec. 15, 2026 {csf_board}.",
+  "Facilities: a renovation of Frankfort Middle School, described in June 2025 as a $25 million project begun in 2024, added a secure main entrance, relocated front office, and a performing arts center with more than 600 seats {ft_fms_reno}. In August 2026 the board heard updates on ongoing construction at both Frankfort High School and Frankfort Middle School {ft_gem_city}.",
+  "Policies and safety: at a July 29, 2025 special meeting the board revised its attendance policy to match new state law aimed at chronic absenteeism (parent notes for illness no longer count as excused absences) and updated its bullying policy {ft_policy_2025}. Frankfort police officers serve as school resource officers under a 2022 agreement with the city {ft_sro_2022}.",
+  "Academics: the board recognized Frankfort High School's Gem City University early college program in August 2026 after it won a Change-Maker Award at the Early College Summit {ft_gem_city}. This guide did not check the district's state accountability grades.",
+  "Forums: this guide found no 2026 candidate forum, questionnaire or news coverage of the candidates' views. The Clinton County Democratic Party announced a public meet-and-greet for Oct. 13, 2026; the announcement does not name which candidates will attend {ccdn_dem_meet}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Edward H Niehaus",
+   "seat": "District 4",
+   "summary": "Candidate for the open District 4 seat, listed with the Republican label; little public information about his campaign was found {in_list}.",
+   "website": null,
+   "background": [
+    "No campaign biography was found; see gaps."
+   ],
+   "path_to_ballot": [
+    "Filed for the District 4 seat as a Republican; there was no school board primary {ccdn_filing_2026}{in_list}. The incumbent, Kristen Beardsley, is not on the ballot {ft_2022_results}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "Local news reports that Ed Niehaus retired in May 2025 after 42 years at Frankfort High School as a math teacher, coach and athletic director; this guide could not confirm he is the same person as the candidate.",
+    "No website, questionnaire, forum remarks or news coverage of his campaign were found.",
+    "Clinton County does not post candidate lists or campaign finance reports online; these were not checked."
+   ]
+  },
+  {
+   "ballot_name": "Jennifer Fitch",
+   "seat": "District 4",
+   "summary": "Candidate for the open District 4 seat, listed with the Democratic label; little public information about her campaign was found {in_list}.",
+   "website": null,
+   "background": [
+    "No campaign biography was found; see gaps."
+   ],
+   "path_to_ballot": [
+    "Filed for the District 4 seat as a Democrat; there was no school board primary {ccdn_filing_2026}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No website, questionnaire, forum remarks or news coverage of her campaign were found.",
+    "Occupation and ties to the schools could not be confirmed.",
+    "Clinton County does not post candidate lists or campaign finance reports online; these were not checked."
+   ]
+  },
+  {
+   "ballot_name": "Amanda Mitchell",
+   "seat": "District 5",
+   "summary": "Incumbent, unopposed; appointed to the board in 2019 and elected to the District 5 seat without opposition in 2022 {ccdn_mitchell_2019}{ft_2022_results}{in_list}.",
+   "website": null,
+   "background": [
+    "Known as Mandi Mitchell; a Frankfort native and Frankfort graduate {ccdn_mitchell_2019}{ft_2022_results}.",
+    "When appointed in May 2019 she was treasurer of the Clinton Prairie School Corporation; then-superintendent Don DeWeese said the board believed she could bring 'some expertise on school funding' {ccdn_mitchell_2019}."
+   ],
+   "path_to_ballot": [
+    "Sworn in in May 2019 to replace Jeff Tatum, who had resigned {ccdn_mitchell_2019}. Elected to District 5 unopposed in 2022 with 1,901 votes {ft_2022_results}.",
+    "Filed for reelection without a party label; the state lists her as Nonpartisan and as the only candidate {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. In 2019 she said she wanted to serve on a board that prepares students to pursue whatever goals they choose {ccdn_mitchell_2019}. No 2026 statement on the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "Whether she still works as Clinton Prairie's treasurer was not confirmed.",
+    "No 2026 campaign website, questionnaire or forum remarks were found.",
+    "Clinton County campaign finance reports were not checked."
+   ]
+  },
+  {
+   "ballot_name": "Joel Patrick Tatum",
+   "seat": "District 6",
+   "summary": "Incumbent, unopposed; elected to the District 6 seat without opposition in 2022 {ft_2022_results}{in_list}.",
+   "website": null,
+   "background": [
+    "Elected to District 6 in 2022 with 1,823 votes {ft_2022_results}.",
+    "Was hired as City of Frankfort Parks Department superintendent in August 2023, while serving on the school board {ft_tatum_sworn}. He left that post in January 2025 {ft_tatum_resign}."
+   ],
+   "path_to_ballot": [
+    "Filed for reelection without a party label; the state lists him as Nonpartisan and as the only candidate {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. No statement from him on the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "Current occupation could not be confirmed.",
+    "No 2026 campaign website, questionnaire or forum remarks were found.",
+    "Clinton County campaign finance reports were not checked."
+   ]
+  },
+  {
+   "ballot_name": "Callie Evans",
+   "seat": "District 7",
+   "summary": "Challenger for the District 7 seat held by board president Sandra Miller; little public information about her campaign was found {in_list}{csf_board}.",
+   "website": null,
+   "background": [
+    "No campaign biography was found; see gaps."
+   ],
+   "path_to_ballot": [
+    "Filed without a party label; the state lists her as Nonpartisan {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No website, questionnaire, forum remarks or news coverage of her campaign were found.",
+    "Occupation and ties to the schools could not be confirmed.",
+    "Clinton County campaign finance reports were not checked."
+   ]
+  },
+  {
+   "ballot_name": "Larry (Chip) Jay Wright",
+   "seat": "District 7",
+   "summary": "Challenger for the District 7 seat held by board president Sandra Miller; little public information about his campaign was found {in_list}{csf_board}.",
+   "website": null,
+   "background": [
+    "No campaign biography was found; see gaps."
+   ],
+   "path_to_ballot": [
+    "Filed without a party label; the state lists him as Nonpartisan {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No website, questionnaire, forum remarks or news coverage of his campaign were found.",
+    "Occupation and ties to the schools could not be confirmed.",
+    "Clinton County campaign finance reports were not checked."
+   ]
+  },
+  {
+   "ballot_name": "Sandra MIller",
+   "seat": "District 7",
+   "summary": "Incumbent and board president, listed with the Republican label; elected to District 7 without opposition in 2022 {csf_board}{ft_2022_results}{in_list}.",
+   "website": null,
+   "background": [
+    "Was board president by January 2022 and is president now {ft_mckinney_retire}{csf_board}. Elected to District 7 in 2022 with 1,908 votes {ft_2022_results}."
+   ],
+   "path_to_ballot": [
+    "Filed for reelection as a Republican; there was no school board primary {ccdn_filing_2026}{in_list}. The state list spells her surname 'MIller' {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. As board president in January 2022 she said retiring superintendent Joel McKinney left the district 'in better shape than he found us' {ft_mckinney_retire}. No 2026 statement on the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "Occupation and total years on the board could not be confirmed.",
+    "No 2026 campaign website, questionnaire or forum remarks were found.",
+    "Clinton County campaign finance reports were not checked."
+   ]
+  }
+ ],
+ "review_flags": [
+  {
+   "person": "Joel Patrick Tatum",
+   "category": "personnel action",
+   "status": "held",
+   "summary": "On Oct. 11, 2017, Frankfort Mayor Chris McBarnes and Clerk-Treasurer Judy Sheets announced that Parks Superintendent Joel Tatum was terminated after he declined a different position in the department, following city review of 'financial variances' in Parks Department operations; they said the State Board of Accounts might be involved and made no further comment {ccdn_tatum_2017}. A Feb. 21, 2018 statement issued by Jeff Tatum on his behalf said the prosecutor found no basis for charges and that the State Board of Accounts found no missing money or misappropriation, while acknowledging that record-keeping and deposits could have been better {ccdn_tatum_stmt}. No charges were reported.",
+   "note": "The 2017-18 articles do not mention the school board; the tie to the candidate rests on the same name and the same job (the Joel Tatum hired as parks superintendent in 2023 was identified as a CSF board member). The State Board of Accounts findings come only from Tatum's own statement and were not independently checked."
+  },
+  {
+   "person": "Joel Patrick Tatum",
+   "category": "personnel action",
+   "status": "held",
+   "summary": "The City of Frankfort announced on Jan. 21, 2025 that Parks Superintendent Joel Tatum had resigned effective immediately, after reports of USDA violations filed in December 2024 and the deaths of animals at the TPA Park Aviary and Petting Zoo {ccdn_tatum_resign}{ft_tatum_resign}. Mayor Judy Sheets thanked him 'for his dedication to our parks' {ft_tatum_resign}. Tatum was identified as a sitting CSF board member when he took the job in 2023 {ft_tatum_sworn}. No response from Tatum was found.",
+   "note": "The articles do not state that he was asked to resign or found responsible; USDA findings were not reviewed."
+  }
+ ],
+ "sources": {
+  "csf_home": ["Community Schools of Frankfort (home page)", "Community Schools of Frankfort", "2026-10", "https://www.frankfortschools.org/"],
+  "csf_board": ["School Board", "Community Schools of Frankfort", "2026-10", "https://www.frankfortschools.org/apps/pages/index.jsp?uREC_ID=813657&type=d&pREC_ID=1199704"],
+  "nces_csf": ["Search for Public School Districts: Community Schools of Frankfort", "National Center for Education Statistics", "2026-10", "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1803660"],
+  "sboe_csf_plan": ["Approval of Governing Body Change - Community Schools of Frankfort (memo and board resolution)", "Indiana State Board of Education", "2022-06-08", "https://secure.in.gov/sboe/files/Approval-of-Gov-Body-Change-Frankfort-Packet-to-Board61.pdf"],
+  "ft_2022_results": ["Price, Mink, Genda claim victory in midterm election", "The Times (Frankfort)", "2022-11-07", "https://www.ftimes.com/news/price-mink-genda-claim-victory-in-midterm-election/article_f720d09b-585b-5e24-b8a4-bd29513f3aac.html"],
+  "ft_rhoda_named": ["Frankfort Schools names Rhoda new superintendent", "The Times (Frankfort)", "2022-04-22", "https://www.ftimes.com/news/frankfort-schools-names-rhoda-new-superintendent/article_dcbd843b-bff4-5c26-963f-8a823096ba20.html"],
+  "ft_staff_video": ["Community Schools of Frankfort explains staffing changes in video message", "The Times (Frankfort)", "2026-03-10", "https://www.ftimes.com/news/community-schools-of-frankfort-explains-staffing-changes-in-video-message/article_cdfd9ebd-1435-521a-9808-d2c45a00f9ca.html"],
+  "ft_fea_cuts": ["Frankfort teachers union raises concerns over proposed staff cuts at CSF board meeting", "The Times (Frankfort)", "2026-02-24", "https://www.ftimes.com/news/frankfort-teachers-union-raises-concerns-over-proposed-staff-cuts-at-csf-board-meeting/article_45c29a0d-4c5f-59e4-82fe-c25fe8380b57.html"],
+  "ft_fms_reno": ["Frankfort Middle School renovation makes major strides ahead of fall", "The Times (Frankfort)", "2025-06-24", "https://www.ftimes.com/news/frankfort-middle-school-renovation-makes-major-strides-ahead-of-fall/article_58484f85-4188-5337-9d2a-aa0d1e8ac05d.html"],
+  "ft_gem_city": ["Frankfort High School's Gem City University earns national recognition as construction projects continue", "The Times (Frankfort)", "2026-08-04", "https://www.ftimes.com/news/frankfort-high-school-s-gem-city-university-earns-national-recognition-as-construction-projects-continue/article_0f236af8-41a9-5c46-8be7-7e27710f87f8.html"],
+  "ft_policy_2025": ["Frankfort School Board approves key policy changes on attendance and bullying", "The Times (Frankfort)", "2025-08-05", "https://www.ftimes.com/news/frankfort-school-board-approves-key-policy-changes-on-attendance-and-bullying/article_1cca19a1-eb3c-56da-96cd-e0fc850693e2.html"],
+  "ft_sro_2022": ["Frankfort schools reinstate school officers", "The Times (Frankfort)", "2022-07-18", "https://www.ftimes.com/news/frankfort-schools-reinstate-school-officers/article_63c7dbb7-d394-595a-a716-4ff4782c91f8.html"],
+  "ft_party_split": ["Indiana school board candidates split 50-50 on affiliating with a party", "The Times (Frankfort)", "2026-07-21", "https://www.ftimes.com/news/indiana-school-board-candidates-split-50-50-on-affiliating-with-a-party/article_fdac46e1-8b09-5ab3-9e56-1943d7af4cae.html"],
+  "ft_mckinney_retire": ["CSF Superintendent McKinney announces retirement", "The Times (Frankfort)", "2022-01-14", "https://www.ftimes.com/news/csf-superintendent-mckinney-announces-retirement/article_e9701ed4-f23c-51d2-ac74-34537d2522d7.html"],
+  "ft_tatum_sworn": ["Tatum sworn in", "The Times (Frankfort)", "2023-08-16", "https://www.ftimes.com/news/tatum-sworn-in/article_d1f130d1-abae-5e56-a5f1-b82333541d41.html"],
+  "ft_tatum_resign": ["Frankfort deer succumbs to injuries; parks superintendent resigns", "The Times (Frankfort)", "2025-01-27", "https://www.ftimes.com/news/frankfort-deer-succumbs-to-injuries-parks-superintendent-resigns/article_b6c55a5e-bcd3-5259-81a3-5368187a69d3.html"],
+  "ccdn_filing_2026": ["Filing Deadline Approaches for Clinton County School Board Candidates", "Clinton County Daily News", "2026-06-16", "https://clintoncountydailynews.com/filing-deadline-approaches-for-clinton-county-school-board-candidates/"],
+  "ccdn_dem_meet": ["Clinton County Democrats to Host Community Meet & Greet", "Clinton County Daily News", "2026-10-06", "https://clintoncountydailynews.com/clinton-county-democrats-to-host-community-meet-greet/"],
+  "ccdn_mitchell_2019": ["Mitchell Named New Frankfort School Board Member", "Clinton County Daily News", "2019-05-15", "https://clintoncountydailynews.com/mitchell-named-new-frankfort-school-board-member/"],
+  "ccdn_tatum_2017": ["Tatum Terminated as Frankfort Parks Superintendent", "Clinton County Daily News", "2017-10-11", "https://clintoncountydailynews.com/tatum-terminated-as-frankfort-parks-superintendent/"],
+  "ccdn_tatum_stmt": ["Statement Issued on Behalf of Joel Tatum in Parks Situation", "Clinton County Daily News", "2018-02-21", "https://clintoncountydailynews.com/statement-issued-on-behalf-of-joel-tatum-in-parks-situation/"],
+  "ccdn_tatum_resign": ["Frankfort Parks Superintendent Tatum Resigns", "Clinton County Daily News", "2025-01-21", "https://clintoncountydailynews.com/frankfort-parks-superintendent-tatum-resigns/"]
+ }
+}
