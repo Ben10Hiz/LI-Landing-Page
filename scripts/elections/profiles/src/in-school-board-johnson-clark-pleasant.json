@@ -1,0 +1,134 @@
+{
+ "race_id": "in-school-board-johnson-clark-pleasant",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Clark-Pleasant Community School Corporation, headquartered in Whiteland in Johnson County, serves Whiteland, New Whiteland, parts of Greenwood and a very small section of Franklin, with Whiteland Community High School, Clark-Pleasant Middle School and five elementary schools {wiki_cp}. Whiteland Community High School reported 2,082 students in 2023-24; a current district-wide enrollment figure was not found in fetched sources {wiki_whs}.",
+  "Wikipedia lists Timothy Edsell as superintendent {wiki_whs}; his current contract status was not confirmed in fetched sources.",
+  "The board has five members: two represent Clark Township, two represent Pleasant Township and one is elected at large, according to IndyStar's 2022 filing roundup {indystar_2022}.",
+  "Seats on the 2026 ballot: the state list shows two Clark Township candidates (Kent Lewis Beeson and Linda Polesel) under 'vote for 1' and one Pleasant Township candidate (Kimberly Crawford) {in_list}{jc_list}. In 2022, three seats were on the ballot and Beeson and Polesel both ran in Clark Township, with Beeson and Crawford listed as incumbents {indystar_2022}. If the 2022 Clark Township contest filled both township seats for four-year terms, the 2026 Clark Township race would also elect two members, and both candidates would win; the true seat count was not confirmed in fetched sources and should be checked with the Johnson County election office.",
+  "Filing: Polesel filed May 28, 2026 and listed a Republican affiliation; Crawford filed June 9, 2026 as an Independent; Beeson filed June 18, 2026 with no party listed {jc_list}{inc_list}.",
+  "Operating referendum renewal: Clark-Pleasant asks voters Nov. 3, 2026 to continue its operating referendum levy for up to eight years at a rate of no more than $0.09 per $100 of assessed value, raising up to $4.4 million a year, to fund 'school safety initiatives, including the Clark-Pleasant police department, student support services and programming in response to reductions in property tax revenue' {dlgf_cp}. The ballot question says that if it is not approved, the tax bill on a $300,000 median residence would fall by $127 a year, and that the 2018 referendum it renews carried a $0.10 rate {dlgf_cp}. The state Department of Local Government Finance received the board's resolution and approved the ballot language on June 18, 2026 {dlgf_cp}.",
+  "Chalkbeat Indiana and WFYI's 2026 referendum guide lists Clark-Pleasant's $0.09 request among 38 Indiana district referendums and reports that many districts tie their requests to 2025's Senate Enrolled Act 1 property tax changes {chalkbeat_ref}.",
+  "Forums: no 2026 candidate forum, questionnaire or VOTE411 responses for these races were found in fetched sources. All three races appear uncontested in practice if the Clark Township race elects two members."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Kent Lewis Beeson",
+   "seat": "Clark Township",
+   "summary": "Filed for a Clark Township seat with no party listed; he was listed as an incumbent when he ran for the same township in 2022 {jc_list}{indystar_2022}.",
+   "website": null,
+   "background": [
+    "No occupational or background details were found in fetched sources; IndyStar's 2022 roundup listed him as the Clark Township incumbent {indystar_2022}."
+   ],
+   "path_to_ballot": [
+    "Filed his petition of nomination June 18, 2026 with no party affiliation listed {jc_list}.",
+    "Listed on the ballot as Nonpartisan {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsements were found in fetched sources."
+   ],
+   "gaps": [
+    "Search-result snippets (Daily Journal pages that could not be fetched) say Beeson was appointed to the board in 2021 after two members resigned, kept his seat in the 2022 election with 32.8% of the vote, served as board secretary, is a former Whiteland Town Council president and owns Beeson Mechanical; none of this was verified on a fetched page.",
+    "No candidate website, questionnaire response, forum remarks or campaign finance report was found."
+   ]
+  },
+  {
+   "ballot_name": "Linda Polesel",
+   "seat": "Clark Township",
+   "summary": "Filed for a Clark Township seat as a Republican; she was a non-incumbent candidate for the same township in 2022, and snippets of 2022 results say she won a seat then {jc_list}{indystar_2022}.",
+   "website": null,
+   "background": [
+    "No occupational or background details were found in fetched sources; IndyStar's 2022 roundup listed her as a Clark Township candidate who filed July 28, 2022 {indystar_2022}."
+   ],
+   "path_to_ballot": [
+    "Filed her petition of nomination May 28, 2026, listing a Republican affiliation {jc_list}.",
+    "Listed on the ballot as Republican {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsements were found in fetched sources."
+   ],
+   "gaps": [
+    "Search-result snippets (Daily Journal pages that could not be fetched) say she won a Clark Township seat in 2022 with 38.1% of the vote, unseating Craig Koch, and that she is a retired music teacher who taught for nearly four decades at Clark Elementary School; not verified on a fetched page. Whether she is the sitting member was not confirmed.",
+    "No candidate website, questionnaire response, forum remarks or campaign finance report was found."
+   ]
+  },
+  {
+   "ballot_name": "Kimberly Crawford",
+   "seat": "Pleasant Township",
+   "summary": "The only candidate for the Pleasant Township seat on the ballot, filed as an Independent; she was listed as the Pleasant Township incumbent when she ran in 2022 {jc_list}{indystar_2022}.",
+   "website": null,
+   "background": [
+    "No occupational or background details were found in fetched sources; IndyStar's 2022 roundup listed her as the Pleasant Township incumbent {indystar_2022}."
+   ],
+   "path_to_ballot": [
+    "Filed her petition of nomination June 9, 2026 as an Independent {jc_list}.",
+    "Listed on the ballot as Independent {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsements were found in fetched sources."
+   ],
+   "gaps": [
+    "Search-result snippets of the district's board page (which could not be fetched) and Daily Journal pages say she is board president, was appointed in 2021 to fill a vacancy, won the Pleasant Township seat in 2022 with 35.5% of the vote in a four-way race, holds a chemical engineering degree from Purdue and a law degree from the IU McKinney School of Law, and works at Rolls-Royce; none of this was verified on a fetched page.",
+    "No candidate website, questionnaire response, forum remarks or campaign finance report was found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "jc_list": [
+   "Candidate List - Abbreviated, 2026 General Election",
+   "Johnson County, Indiana",
+   "2026-06",
+   "https://johnsoncounty.in.gov/egov/documents/1781804994_2758.pdf"
+  ],
+  "inc_list": [
+   "2026 Indiana General Election School Board Candidate List",
+   "The Indiana Citizen",
+   "2026",
+   "https://indianacitizen.org/2026-indiana-general-election-school-board-candidate-list/"
+  ],
+  "dlgf_cp": [
+   "Findings and Final Determination on Proposed Question, No. 26-010-REF (Clark-Pleasant Community School Corporation)",
+   "Indiana Department of Local Government Finance",
+   "2026-06-18",
+   "https://www.in.gov/dlgf/files/referendum-documentation2/2026-november-referendum-documents/26-010-Clark-Pleasant-Community-Schools-Operating-Extension-Determination.pdf"
+  ],
+  "chalkbeat_ref": [
+   "Indiana school district referendum guide 2026: What to know about your district's requested tax increase",
+   "Chalkbeat Indiana / WFYI",
+   "2026-08-17",
+   "https://www.chalkbeat.org/indiana/2026/08/17/indiana-school-district-referendum-voter-guide-2026-ballot-question/"
+  ],
+  "indystar_2022": [
+   "Here's who is running for school board elections in suburban school districts",
+   "Indianapolis Star (via Yahoo News)",
+   "2022-08-31",
+   "https://www.yahoo.com/news/heres-running-school-board-elections-085916539.html"
+  ],
+  "wiki_cp": [
+   "Clark-Pleasant Community School Corporation",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/Clark-Pleasant_Community_School_Corporation"
+  ],
+  "wiki_whs": [
+   "Whiteland Community High School",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/Whiteland_Community_High_School"
+  ]
+ }
+}

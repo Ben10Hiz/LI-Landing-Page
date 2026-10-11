@@ -1,0 +1,204 @@
+{
+ "race_id": "in-school-board-warrick-county",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Warrick County School Corporation's boundaries are those of Warrick County, and its high schools are Boonville, Castle (Newburgh) and Tecumseh (Lynnville) {wiki_wcsc}. Wikipedia gives enrollment as 9,647 students, an undated figure {wiki_wcsc}; a current count was not found in fetched sources.",
+  "Dr. Abbie Redmon is superintendent {wcsc_admin}; the board unanimously chose her in March 2023 to succeed Todd Lambert, making her the district's first woman superintendent, after she served as its director of learning and earlier as a teacher, counselor and principal there {wnin_redmon}.",
+  "The board has seven members: President Lynda Glover, Vice President Jeffrey Baker, Secretary Jordan Aigner and members Jane Wilhelmus, Andrew Skinner, Eric Franz and Tim Mosbey {wcsc_board}. It meets the second and fourth Mondays of each month at 7 p.m. {wcsc_board}",
+  "Seats on the 2026 ballot: although the state list shows 'vote for 1', VOTE411 lists the race as 'Choose 4' {vote411_wr}, and The Ballot Brief reports that voters choose four, the top four finishers win, and the four sitting members filed unopposed while Glover, Skinner and Mosbey are not up this year {ballotbrief_wr}. All four incumbents (Baker, Wilhelmus, Aigner and Franz) are running, so all four would be reelected {ballotbrief_wr}{vote411_wr}.",
+  "Filing: Wilhelmus filed June 2, Franz June 12 (Republican), Baker June 17 and Aigner June 18 (Republican), 2026; Baker and Wilhelmus listed no party {inc_list}.",
+  "Budget: the board held a work session Aug. 24, 2026 to review proposed budget estimates and scheduled official adoption of the 2027 budget, capital projects fund plan and bus replacement plan for Sept. 28, 2026 {wcsc_ws0824}{wcsc_ag0928}. No statement from the district on the effect of 2025's Senate Enrolled Act 1 property tax changes was found in fetched sources.",
+  "Teacher contract: the board scheduled a public meeting for Oct. 21, 2026 to discuss the terms of a tentative 2026-27 agreement with the WCSC Teachers Association {wcsc_ta}{wcsc_ag1021}.",
+  "Other 2026 board business included a closed-session school safety plan presentation (Sept. 28), approval of 2026-27 school improvement plans (Sept. 28 agenda) and superintendent evaluation sessions in May and June {wcsc_ex0928}{wcsc_ag0928}{wcsc_ex0526}{wcsc_ex0622}.",
+  "Forums: VOTE411 did not send questionnaires because the race is not competitive, and no candidate forum was found {vote411_wr}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Eric Franz",
+   "seat": "At Large",
+   "summary": "Incumbent, running for reelection in an uncontested race in which four candidates seek four seats {wcsc_board}{vote411_wr}.",
+   "website": null,
+   "background": [
+    "Listed on the district's website as a board member {wcsc_board}; no occupational or other background was found in fetched sources."
+   ],
+   "path_to_ballot": [
+    "Filed a petition of nomination on June 12, 2026 with a Republican affiliation {inc_list}.",
+    "Listed on the ballot as Republican {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member; no public account from the candidate of the board's record was found in fetched sources {wcsc_board}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsements were found in fetched sources."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire response, forum remarks, local news coverage or campaign finance report was found; VOTE411 did not send questions because the race is not competitive. When or how the candidate first joined the board was not found in fetched sources."
+   ]
+  },
+  {
+   "ballot_name": "Jane Wilhelmus",
+   "seat": "At Large",
+   "summary": "Incumbent, running for reelection in an uncontested race in which four candidates seek four seats {wcsc_board}{vote411_wr}.",
+   "website": null,
+   "background": [
+    "Listed on the district's website as a board member {wcsc_board}; no occupational or other background was found in fetched sources."
+   ],
+   "path_to_ballot": [
+    "Filed a petition of nomination on June 2, 2026 with no party listed {inc_list}.",
+    "Listed on the ballot as Nonpartisan {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member; no public account from the candidate of the board's record was found in fetched sources {wcsc_board}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsements were found in fetched sources."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire response, forum remarks, local news coverage or campaign finance report was found; VOTE411 did not send questions because the race is not competitive. When or how the candidate first joined the board was not found in fetched sources."
+   ]
+  },
+  {
+   "ballot_name": "Jeffrey B Baker",
+   "seat": "At Large",
+   "summary": "Incumbent and board vice president, running for reelection in an uncontested race in which four candidates seek four seats {wcsc_board}{vote411_wr}.",
+   "website": null,
+   "background": [
+    "Listed on the district's website as board vice president {wcsc_board}; no occupational or other background was found in fetched sources."
+   ],
+   "path_to_ballot": [
+    "Filed a petition of nomination on June 17, 2026 with no party listed {inc_list}.",
+    "Listed on the ballot as Nonpartisan {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member; no public account from the candidate of the board's record was found in fetched sources {wcsc_board}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsements were found in fetched sources."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire response, forum remarks, local news coverage or campaign finance report was found; VOTE411 did not send questions because the race is not competitive. When or how the candidate first joined the board was not found in fetched sources."
+   ]
+  },
+  {
+   "ballot_name": "Jordan M Aigner",
+   "seat": "At Large",
+   "summary": "Incumbent and board secretary, running for reelection in an uncontested race in which four candidates seek four seats {wcsc_board}{vote411_wr}.",
+   "website": null,
+   "background": [
+    "Listed on the district's website as board secretary {wcsc_board}; no occupational or other background was found in fetched sources."
+   ],
+   "path_to_ballot": [
+    "Filed a petition of nomination on June 18, 2026 with a Republican affiliation {inc_list}.",
+    "Listed on the ballot as Republican {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member; no public account from the candidate of the board's record was found in fetched sources {wcsc_board}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsements were found in fetched sources."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire response, forum remarks, local news coverage or campaign finance report was found; VOTE411 did not send questions because the race is not competitive. When or how the candidate first joined the board was not found in fetched sources."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "wcsc_board": [
+   "School Board",
+   "Warrick County School Corporation",
+   "2026-10",
+   "https://www.warrick.k12.in.us/school-board-2"
+  ],
+  "wcsc_admin": [
+   "Administration",
+   "Warrick County School Corporation",
+   "2026-10",
+   "https://www.warrick.k12.in.us/administration"
+  ],
+  "vote411_wr": [
+   "Warrick County School Board race detail",
+   "League of Women Voters VOTE411",
+   "2026-10",
+   "https://onyourballot.vote411.org/m/race-detail.do?id=4264811"
+  ],
+  "ballotbrief_wr": [
+   "Warrick County School Board",
+   "The Ballot Brief",
+   "2026-10-04",
+   "https://theballotbrief.com/state/indiana/warrick-county/school-board"
+  ],
+  "inc_list": [
+   "2026 Indiana General Election School Board Candidate List",
+   "The Indiana Citizen",
+   "2026",
+   "https://indianacitizen.org/2026-indiana-general-election-school-board-candidate-list/"
+  ],
+  "wiki_wcsc": [
+   "Warrick County School Corporation",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/Warrick_County_School_Corporation"
+  ],
+  "wnin_redmon": [
+   "Redmon is first female superintendent in Warrick",
+   "WNIN",
+   "2023-03-14",
+   "https://news.wnin.org/2023-03-14/redmon-is-first-female-superintendent-in-warrick"
+  ],
+  "wcsc_ws0824": [
+   "Work Session - Aug 24 2026 - Agenda",
+   "Warrick County School Corporation (Diligent Community)",
+   "2026-08-24",
+   "https://warrickk12.diligent.community/Portal/MeetingInformation.aspx?Id=150"
+  ],
+  "wcsc_ag0928": [
+   "Board of School Trustees - Sep 28 2026 - Agenda",
+   "Warrick County School Corporation (Diligent Community)",
+   "2026-09-28",
+   "https://warrickk12.diligent.community/Portal/MeetingInformation.aspx?Id=152"
+  ],
+  "wcsc_ex0928": [
+   "Executive Session - Sep 28 2026 - Agenda",
+   "Warrick County School Corporation (Diligent Community)",
+   "2026-09-28",
+   "https://warrickk12.diligent.community/Portal/MeetingInformation.aspx?Id=153"
+  ],
+  "wcsc_ex0526": [
+   "Executive Session - May 26 2026 - Agenda",
+   "Warrick County School Corporation (Diligent Community)",
+   "2026-05-26",
+   "https://warrickk12.diligent.community/Portal/MeetingInformation.aspx?Id=137"
+  ],
+  "wcsc_ex0622": [
+   "Executive Session - Jun 22 2026 - Agenda",
+   "Warrick County School Corporation (Diligent Community)",
+   "2026-06-22",
+   "https://warrickk12.diligent.community/Portal/MeetingInformation.aspx?Id=141"
+  ],
+  "wcsc_ag1021": [
+   "Board of School Trustees - Oct 21 2026 - Agenda",
+   "Warrick County School Corporation (Diligent Community)",
+   "2026-10-21",
+   "https://warrickk12.diligent.community/Portal/MeetingInformation.aspx?Id=158"
+  ],
+  "wcsc_ta": [
+   "Public Meeting Notice: 2026-27 tentative agreement",
+   "Warrick County School Corporation",
+   "2026-10",
+   "https://files.smartsites.parentsquare.com/7259/public_notice_for_2026-27_tentative_agreement.pdf"
+  ]
+ }
+}
