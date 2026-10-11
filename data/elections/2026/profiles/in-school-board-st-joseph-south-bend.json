@@ -1,0 +1,624 @@
+{
+ "race_id": "in-school-board-st-joseph-south-bend",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": {
+  "title": "Indiana School Board Member",
+  "summary": "A school board is the elected or appointed governing body of a public school corporation, the legal unit that runs a local school district [1, 2]. The board hires and evaluates the superintendent, adopts policies, and approves the annual budget, while the superintendent and staff run schools day to day [3]. Most boards have five or seven members serving staggered four-year terms [3]. Starting in 2026, candidates may list a political party, run as independents, or list no affiliation on the ballot, and there is no primary for these seats [2, 4].",
+  "facts": [
+   {
+    "label": "Term",
+    "value": "4 years, with elections staggered so part of the board is chosen every two years [3]"
+   },
+   {
+    "label": "Elected",
+    "value": "At the November general election (November 3, 2026, or November 2028 for some seats); depending on the local organization plan, members represent the whole school corporation (at large) or a district within it, and some boards are wholly or partly appointed [2]"
+   },
+   {
+    "label": "Ballot label",
+    "value": "Each candidate chooses a party label, 'Independent', or no affiliation, shown next to the name; no primary and no straight-ticket voting for these races [2, 4]"
+   },
+   {
+    "label": "Pay",
+    "value": "Set by board resolution: an annual amount of no more than 10% of the lowest starting teacher salary in the school corporation, plus a capped per diem [5]"
+   },
+   {
+    "label": "On the 2026 ballot",
+    "value": "632 races in 299 school corporations; 1,039 candidates [6]"
+   }
+  ],
+  "duties": [
+   "Hires, evaluates and can dismiss the superintendent, and approves the hiring and firing of principals, teachers and other staff recommended by the superintendent [1, 7, 3].",
+   "Adopts the annual budget, appropriates funds and oversees school finances [1, 3].",
+   "Decides whether to ask voters to approve an operating referendum (an extra property tax levy); the board adopts the resolution and the Department of Local Government Finance reviews the ballot language for compliance with state law [8].",
+   "Approves contracts, buys and sells property, and decides on construction, repair and demolition of school buildings [1].",
+   "Bargains with the teachers' union over salary, wages and wage-related benefits such as health insurance and retirement; state law excludes teacher evaluation procedures from those bargaining subjects [9].",
+   "Writes and updates policies and rules for schools, often in a policy handbook, including the student handbook [1, 3].",
+   "Buys curricular materials, provides them to students without charge, and runs programs such as student transportation and school lunch [1].",
+   "Must adopt a process for parents and residents to ask that library material be removed as obscene or harmful to minors, review requests at public meetings and keep a public catalog of library materials [10].",
+   "Hears written appeals of student expulsions, unless the board has voted not to hear them [11].",
+   "Must take official action openly; Indiana's Open Door Law says public agencies' official action is to be conducted openly so the people may be fully informed [12, 13].",
+   "A school board member must have lived in the school corporation (and, for a district seat, the district) for at least one year before the election, and a teacher or other employee of the school corporation may not serve on its board [2].",
+   "What the board does not control: the State Board of Education adopts statewide academic standards [14], the General Assembly sets the state school funding formula in the state budget [15], and voucher (Choice Scholarship) eligibility is set by state law [16]."
+  ],
+  "recent_changes": [
+   "2025: Senate Enrolled Act 287 allowed school board candidates to declare a party affiliation; the Indiana School Boards Association opposed the change, and a supporter quoted by WNDU, a Noblesville school board member, said it adds transparency [17].",
+   "2026: Candidates choose a party, 'Independent' or no affiliation on their nominating petition, and that choice appears on the ballot; a candidate claiming the Democratic or Republican party must have voted in that party's primary in the two most recent primaries they voted in, or have certification from the county party chair, or can be challenged and removed from the ballot [2].",
+   "July 2026: Chalkbeat reported, citing Indiana School Boards Association data, that 524 of 1,044 candidates chose a party, about 72% of them Republicans [18]; the Indiana Election Division's 2026 guidance and the wording of the law differ on the primary-voting test, a question county election boards decide [19].",
+   "February 2026: Senate Enrolled Act 25 set the order of school board candidates on the ballot, grouped by party, with candidates who list no affiliation placed after the party and independent candidates [20].",
+   "2025: Senate Enrolled Act 1, a property tax law, limits how much operating revenue districts can raise through taxes and restricts school referendums to statewide general elections in even-numbered years [21, 22].",
+   "2025: The same law requires districts to share operating revenue with brick-and-mortar charter schools that enroll their students, statewide starting in 2028 [21, 22].",
+   "2025: The state budget opened Choice Scholarship vouchers to all Indiana families starting in June 2026 [16].",
+   "2026: The Indianapolis Public Education Corporation, rather than the Indianapolis Public Schools board, now certifies Indianapolis Public Schools referendum questions for the ballot [20].",
+   "2023: Senate Enrolled Act 391 changed the so-called $1 law so the Indiana Department of Education can order districts that lost at least 10% of enrollment over five years to close schools under 60% capacity and offer them to charter schools [23].",
+   "2023: House Enrolled Act 1447 required school districts to set up procedures for complaints that library material is obscene or harmful to minors [10]."
+  ]
+ },
+ "incumbent": null,
+ "race_context": [
+  "The South Bend Community School Corporation (SBCSC) serves about 13,000 students in pre-K through grade 12 in 26 schools, employs more than 2,400 people and has an annual budget of over $200 million [24]. Superintendent Mansour Eid, a former Clay High School principal, was named interim superintendent in February 2025 by a 6–0 vote with one abstention after Superintendent Todd Cummings stepped down [25]. WSBT reported it is unclear whether Eid will stay past 2027 [26]; District 5 candidate John Paczesny said Eid has said he will leave on June 30, 2027 [27].",
+  "The board has seven members: five elected from districts and two at large, all serving four-year terms [24]. 2026 is the first year school board candidates could list a party affiliation under a new state law [28].",
+  "Three of the seven seats are on the 2026 ballot, each electing one member, matching the state list [24]. District 1 (east part of the city): incumbent Kate Lee is not running; Kevin Jerome Hawkins, Emily McClements and Cheryl H Moody are running, the only contested race [24]. District 2: incumbent Mark Costello is running unopposed [24]. District 5 (Clay Township): board president Stuart Greene is not running; John Paczesny is the only candidate [24].",
+  "Budget and the 2028 referendum (2026): SBCSC's operating referendum, passed in 2020, runs through 2028 [28]. At August 17 and September 21 budget meetings, Chief Financial Officer Ahnaf Tahmid said that without a 2028 referendum the district could have to cut administration, end all transportation and close or merge at least five schools; WSBT reported the 2025 property-tax law (SEA 1) is squeezing school funding, with larger effects expected after 2028 [26]. In March 2026 the board extended Tahmid's contract through 2028 [29].",
+  "State audit (March 2026): a State Board of Accounts audit of the district's 2023 records, covering the Cummings administration, found systemic problems with controls over federal funds; the district said its current administration had already begun reforms and has corrected the problems [30].",
+  "State takeover bill (January–February 2026): Senate Bill 248, co-authored by Sen. Linda Rogers, would have replaced the elected SBCSC board with members selected by the Secretary of Education [31]. At its hearing, Superintendent Eid, teachers union president Linda Lucy and board attorney Pete Agostino said the district was moving in the right direction, while South Bend Regional Chamber president Jeff Rea supported the bill, citing test scores, chronic absenteeism and declining enrollment [32]. Rogers pulled the bill on Jan. 15 and said in February she has no plans to revive it this year [31].",
+  "Academics and operations (2025–2026): Eid told lawmakers the district freed $15 million through operational changes and used it for a $9,000 teacher raise, and that IREAD passing rates rose from 52% to 71% with a Notre Dame tutoring partnership [32]. In August 2026 the district began a new strategic plan expected to be finished in December; local NAACP and Black Lives Matter chapters asked for a separate plan for Black student achievement [33].",
+  "Forums and differences: Cheryl Moody's campaign site lists a Sept. 16, 2026 Meet the Candidates forum at the St. Joseph County Public Library hosted with the American Democracy Project at IU South Bend [34]; this guide did not find a recording or report of it. In WSBT's questionnaire, all five candidates said they support asking voters for a 2028 referendum [26]. Among District 1 candidates, Moody said she would back closing schools if it were the only way to balance the budget, McClements said closures are on the table, and Hawkins said all options should be examined before committing to closures [26]. Hawkins and Moody said they would support extending Eid's tenure, while McClements said she would wait until seated before taking a position [35, 36, 28]."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Cheryl H Moody",
+   "seat": "District 1",
+   "summary": "Self-employed online reseller and longtime SBCSC parent running for the open District 1 seat; listed as Nonpartisan [6, 36].",
+   "website": "https://sites.google.com/view/cheryl-moody-for-school-board",
+   "background": [
+    "Self-employed online reseller of antiques and vintage collectibles [36].",
+    "Parent of students in the district; she says she will have had at least one child enrolled in SBCSC for 35 straight years [36].",
+    "Holds bachelor's degrees in political science and religion and a master's in political science from the University of Florida [36].",
+    "Coaches the Adams High School Mock Trial team, which her site says was state runner-up in 2022 and 2026 [34].",
+    "Says she has attended school board meetings regularly for the past year [36]."
+   ],
+   "path_to_ballot": [
+    "Listed as Nonpartisan on the state candidate list [6].",
+    "Says she wrote 'none' for party on her filing paperwork because she does not consider herself either a Republican or a Democrat [36]."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Calls the end of the current referendum the district's main challenge and says she will urge voters to approve a new one whether or not she is elected [36].",
+      "Says she would support closing schools if it were the only way to balance the budget, noting that 'School districts, unlike the federal government, cannot run a deficit' [26].",
+      "Wants a clear public plan of which schools and programs would be lost without a referendum, and wants the district to pay down as much debt as possible [36].",
+      "Says she does not believe there is a lot of waste in the budget and that most spending goes to teachers [36]."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Top priority is improving education quality in every school so parents do not feel they need to leave SBCSC [36].",
+      "On early literacy, suggests volunteer reading partnerships, reading-buddy programs in every school, reading incentives and library-card sign-ups at school events [36].",
+      "Proposes rewarding good attendance and said she hoped the board would approve an attendance-tracking software contract [36]."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Supports regular cultural competency training for teachers and recruiting new teachers from HBCUs, citing recommendations of the Reparatory Justice Commission report [36]."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Supports the board's practice of voting on individual contracts at a lower dollar threshold and says audit-related changes have already been made [36].",
+      "Opposed the bill to replace the elected board; says she is open to a hybrid board with some appointed members [36]."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Says the current board has improved the professionalism of its meetings [36].",
+    "Says there was a lack of transparency in the board's decisions on Todd Cummings' departure and Eid's appointment [36]. WVPE reported Cummings stepped down in February 2025 and the board approved Eid 6–0 with one abstention [25].",
+    "Says Eid is 'doing an excellent job' and she would extend his contract as long as he wanted the job [36]."
+   ],
+   "plans": [
+    "Would work with the administration on both a referendum campaign and a contingency plan for school and program cuts if it fails [36].",
+    "Wants the district to publicize successes more and suggests media training for board members [36]."
+   ],
+   "endorsements_finance": [
+    "Her campaign site links to an online fundraising page; no endorsements are listed [34]."
+   ],
+   "gaps": [
+    "No campaign finance totals found.",
+    "No independent news coverage of her candidacy beyond the WSBT questionnaire.",
+    "No report found of what was said at the Sept. 16 forum."
+   ]
+  },
+  {
+   "ballot_name": "Emily McClements",
+   "seat": "District 1",
+   "summary": "Self-employed real estate and property manager and SBCSC parent running for the open District 1 seat; listed as Independent [6, 28].",
+   "website": null,
+   "background": [
+    "Self-employed in real estate and property management; has lived in the South Bend area for 22 years [28].",
+    "Parent of students in the district [28].",
+    "Previously worked on fundraising and events with the South Bend Education Alliance and received Restorative Justice training through the district [28].",
+    "Bachelor's degree in psychology from Wheaton College [28]."
+   ],
+   "path_to_ballot": [
+    "Listed as Independent on the state candidate list [6].",
+    "Says she disagrees with the law allowing party labels and filed as an Independent because partisan politics should not play a role in school board decisions [28]."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Would support asking voters for a new operating referendum in 2028, while preparing alternative funding and reviewing costs in case it fails [28].",
+      "Said 'The discussion around closing schools is, of course, on the table' [26].",
+      "After the state audit, supports clear procedures with checks and balances and regular, understandable financial reports [28]."
+     ]
+    },
+    {
+     "topic": "Enrollment & school choice",
+     "items": [
+      "Names declining enrollment as the district's main challenge and wants SBCSC to be schools 'that families actively choose' [28]."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "On attendance and IREAD, says the board should set expectations and monitor results while relying on staff to choose methods [28]."
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "On racial disparities in discipline, says she would review district data and supports continued and expanded use of Restorative Justice where it is shown to work [28]."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Top priority is rebuilding trust; says decisions by previous boards and administrations created distrust about spending, outside contractors and facilities [28].",
+      "Wants the board to follow Robert's Rules of Order and reinstate parliamentary procedure [28]."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Attributes community distrust to decisions by previous boards and administrations [28].",
+    "Says she will wait until seated before taking a position on Superintendent Eid's contract [28]."
+   ],
+   "plans": [
+    "Commits to reading board materials in advance, asking questions publicly and avoiding micromanagement of staff [28].",
+    "Wants the board and administration to share more student and school successes and build ties with businesses and city leaders [28]."
+   ],
+   "endorsements_finance": [
+    "No endorsements or fundraising reports found."
+   ],
+   "gaps": [
+    "No campaign website or social media page found.",
+    "No campaign finance totals found.",
+    "No independent news coverage beyond WSBT's questionnaire."
+   ]
+  },
+  {
+   "ballot_name": "Kevin Jerome Hawkins",
+   "seat": "District 1",
+   "summary": "Retired federal mediator and founder of a family foundation running youth literacy programs, seeking the open District 1 seat; listed as Democratic [6, 35].",
+   "website": null,
+   "background": [
+    "Retired in October 2025 after 22 years as a federal mediator with the Federal Mediation and Conciliation Service; has lived in South Bend for nine years [35].",
+    "In 2017 co-founded the Hawkins Family Foundation, which runs after-school, literacy, art and food-assistance programs for South Bend children, including a Comic Book Club at Coquillard Elementary [35].",
+    "Bachelor's degree in psychology from the University of Notre Dame [35]."
+   ],
+   "path_to_ballot": [
+    "Listed as Democratic on the state candidate list [6].",
+    "Says he is a registered Democrat but does not believe school board service should be tied to a party platform [35]."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Supports a 2028 referendum, calling it 'a statement of investment in our children' [26].",
+      "On closing schools, said 'I think we have to look at all options to see what makes sense' and did not commit without all the facts [26].",
+      "After the state audit, says each budget item should be judged by whether it improves the learning environment and student growth and safety [35]."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "On IREAD, wants other schools to adapt the approach used at Coquillard Elementary and expand community literacy partnerships [35].",
+      "On attendance, cites transportation, family and financial factors and wants better communication with parents and efficient bus service [35]."
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "On racial disparities in discipline, supports relationship-building and cultural competency training and ongoing review of how policies are applied at each school [35]."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Names rebuilding community trust and reconciling stakeholders as the district's main challenge [35]."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Says recent board meetings he attended have been 'for the most part orderly and focused' and people should not conflate them with past struggles [35].",
+    "Attributes damaged trust to leadership before the current board and superintendent [35].",
+    "Says he is pleased with Superintendent Eid's performance and would favor extending his tenure [35].",
+    "Says the lawmaker behind the takeover bill 'needed to dig a little deeper' into the community's views [35]."
+   ],
+   "plans": [
+    "First priority is to listen and learn from the board member's perspective [35]."
+   ],
+   "endorsements_finance": [
+    "No endorsements or fundraising reports found."
+   ],
+   "gaps": [
+    "No campaign website found.",
+    "No campaign finance totals found; no information found on Democratic Party involvement in his campaign.",
+    "No independent news coverage beyond WSBT's questionnaire and referendum story."
+   ]
+  },
+  {
+   "ballot_name": "Mark E. Costello",
+   "seat": "District 2",
+   "summary": "Incumbent, a retired educator first elected in 2022, running unopposed; listed as Nonpartisan [6, 24].",
+   "website": null,
+   "background": [
+    "Retired educator who worked as a teacher, administrator and principal in several districts over 51 years in education [37]."
+   ],
+   "path_to_ballot": [
+    "Listed as Nonpartisan on the state candidate list [6].",
+    "Won the District 2 seat in 2022 with 48% of the vote in a four-candidate race [37]."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "At the September 2026 board meeting he said 'This referendum is going to be very key for the success of the South Bend schools for the future' [26]."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member. He did not respond to WSBT's candidate questionnaire [24]."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or fundraising reports found."
+   ],
+   "gaps": [
+    "Did not answer WSBT's questionnaire; no statement of 2026 priorities found.",
+    "No record of his individual votes on major 2025-2026 decisions (Eid appointment, CFO contract) was found in coverage reviewed.",
+    "WSBT labeled him '(I)', while the state list shows Nonpartisan."
+   ]
+  },
+  {
+   "ballot_name": "John Andrew Paczesny",
+   "seat": "District 5",
+   "summary": "Retired health care employee and former SBCSC substitute teacher who has attended board meetings for over four years; the only candidate for the open District 5 seat; listed as Nonpartisan [6, 27].",
+   "website": null,
+   "background": [
+    "Lifelong South Bend resident who lives in Clay Township; retired from Healthwin Health and Rehabilitation in 2021 [27].",
+    "Worked as an SBCSC substitute teacher from 2021 to 2023 [27].",
+    "Bachelor's degree in mathematics from St. Joseph's College in Rensselaer [27].",
+    "Says he has attended board meetings regularly for over four years and spoken on spending and other concerns [27]."
+   ],
+   "path_to_ballot": [
+    "Listed as Nonpartisan on the state candidate list [6].",
+    "Says he chose to run as an independent with no party affiliation [27]."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Says the 2028 choice is between asking taxpayers for about $40 million or closing five buildings, cutting staff and programs and ending busing; he supports a referendum because the alternative 'would be catastrophic' [27].",
+      "Wants all financial transactions, including the Title department's, to go through the CFO, and less spending on travel [27]."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Wants to keep raising attendance toward the state's 95% target and to study Coquillard Elementary's IREAD gains as a model [27].",
+      "Wants under-performing schools to receive the resources they need for reading proficiency [27]."
+     ]
+    },
+    {
+     "topic": "Enrollment & school choice",
+     "items": [
+      "Says over 5,000 students living in the district attend other public districts and the reasons need to be answered [27]."
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "On discipline disparities, says discipline should follow the student code of conduct based on the offense and its frequency, starting with a review of the data [27]."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Supports elected boards and opposed outside special-interest involvement [27]."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Says the board 'is not as transparent as it should be' and that some members have personal agendas [27].",
+    "Credits Superintendent Eid with bringing administrative knowledge and says he would support Eid staying another year if Eid chose to [27]."
+   ],
+   "plans": [
+    "Calls hiring the next superintendent, with help from the Indiana School Boards Association, the main task ahead [27]."
+   ],
+   "endorsements_finance": [
+    "No endorsements or fundraising reports found."
+   ],
+   "gaps": [
+    "No campaign website found.",
+    "No campaign finance totals found.",
+    "WSBT labeled him '(I)' and he says he ran as an independent, while the state list shows Nonpartisan."
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": 1,
+   "title": "Indiana Code 20-26-5-4: Specific powers of governing body",
+   "publisher": "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "date": "accessed 2026-10-10",
+   "url": "https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-5-4/"
+  },
+  {
+   "id": 2,
+   "title": "2026 Indiana Candidate Guide (School Board Offices)",
+   "publisher": "Indiana Election Division",
+   "date": "accessed 2026-10-10",
+   "url": "https://www.in.gov/dA/1eada35c3e/2026-Candidate-Guide.FINAL.pdf"
+  },
+  {
+   "id": 3,
+   "title": "800 school board seats are up for election in Indiana",
+   "publisher": "Chalkbeat Indiana / WFYI",
+   "date": "2024-06-13",
+   "url": "https://chalkbeat.org/indiana/2024/06/13/school-board-seats-up-for-election-in-indiana-in-2024"
+  },
+  {
+   "id": 4,
+   "title": "Why there are no education elections on your primary ballot",
+   "publisher": "Chalkbeat Indiana",
+   "date": "2026-04-07",
+   "url": "https://www.chalkbeat.org/indiana/2026/04/07/primary-election-ballot-changes-exclude-education-races-and-referendums/"
+  },
+  {
+   "id": 5,
+   "title": "Indiana Code 20-26-4-7: Compensation of governing body members",
+   "publisher": "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "date": "accessed 2026-10-10",
+   "url": "https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-4-7/"
+  },
+  {
+   "id": 6,
+   "title": "2026 General Election Candidate List",
+   "publisher": "Indiana Election Division",
+   "date": "2026-09-22",
+   "url": "https://www.in.gov/sos/elections/candidate-information/"
+  },
+  {
+   "id": 7,
+   "title": "Indiana Code 20-26-5-4.5: Selection and discharge of employees",
+   "publisher": "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "date": "accessed 2026-10-10",
+   "url": "https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-5-4-5/"
+  },
+  {
+   "id": 8,
+   "title": "School Tax Levy Referendum",
+   "publisher": "Indiana Department of Local Government Finance",
+   "date": "accessed 2026-10-10",
+   "url": "https://www.in.gov/dlgf/referendum-information/school-tax-levy-referendum/"
+  },
+  {
+   "id": 9,
+   "title": "Indiana Code 20-29-6-4: Subjects of collective bargaining",
+   "publisher": "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "date": "accessed 2026-10-10",
+   "url": "https://codes.findlaw.com/in/title-20-education/in-code-sect-20-29-6-4/"
+  },
+  {
+   "id": 10,
+   "title": "Obscene, or just objectionable? Here's how Indiana schools are tackling library book complaints",
+   "publisher": "Arnolt Center for Investigative Journalism / Indiana Capital Chronicle",
+   "date": "2024-02-05",
+   "url": "https://arnoltcenter.org/?p=1345"
+  },
+  {
+   "id": 11,
+   "title": "Indiana Code 20-33-8-19: Expulsion appeals",
+   "publisher": "FindLaw (Indiana Code)",
+   "date": "accessed 2026-10-10",
+   "url": "https://codes.findlaw.com/in/title-20-education/in-code-sect-20-33-8-19/"
+  },
+  {
+   "id": 12,
+   "title": "Indiana Code 5-14-1.5-1: Open Door Law policy",
+   "publisher": "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "date": "accessed 2026-10-10",
+   "url": "https://codes.findlaw.com/in/title-5-state-and-local-administration/in-code-sect-5-14-1-5-1/"
+  },
+  {
+   "id": 13,
+   "title": "What We Do",
+   "publisher": "Indiana Public Access Counselor",
+   "date": "accessed 2026-10-10",
+   "url": "https://www.in.gov/pac/about-us/what-we-do/"
+  },
+  {
+   "id": 14,
+   "title": "Indiana Code 20-31-3-1: State academic standards",
+   "publisher": "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "date": "accessed 2026-10-10",
+   "url": "https://codes.findlaw.com/in/title-20-education/in-code-sect-20-31-3-1/"
+  },
+  {
+   "id": 15,
+   "title": "Indiana K-12 State Tuition Support Annual Report FY2023",
+   "publisher": "Indiana Department of Education",
+   "date": "2023",
+   "url": "https://www.in.gov/doe/files/2023-Tuition-Support-Report.pdf"
+  },
+  {
+   "id": 16,
+   "title": "Indiana lawmakers expand voucher eligibility, increase school funding in budget",
+   "publisher": "Chalkbeat Indiana",
+   "date": "2025-04-24",
+   "url": "https://chalkbeat.org/indiana/2025/04/24/vouchers-for-all-start-in-2026-budget-year"
+  },
+  {
+   "id": 17,
+   "title": "Indiana school board candidates split 50-50 on affiliating with a party",
+   "publisher": "WNDU",
+   "date": "2026-07-20",
+   "url": "https://www.wndu.com/2026/07/20/indiana-school-board-candidates-split-50-50-affiliating-with-party/"
+  },
+  {
+   "id": 18,
+   "title": "5 takeaways from Chalkbeat's panel on Indiana's changes to school board elections and referendums",
+   "publisher": "Chalkbeat Indiana",
+   "date": "2026-07-10",
+   "url": "https://www.chalkbeat.org/indiana/2026/07/10/indiana-school-board-elections-partisan-referendums-takeaways/"
+  },
+  {
+   "id": 19,
+   "title": "Confusion on partisan school board law puts two IPS candidates' spots at risk",
+   "publisher": "Chalkbeat Indiana",
+   "date": "2026-07-27",
+   "url": "https://www.chalkbeat.org/indiana/2026/07/27/confusion-on-partisan-schoolboard-threatens-ips-ballot-spots/"
+  },
+  {
+   "id": 20,
+   "title": "2026 Indiana Election Legislation Summary",
+   "publisher": "Indiana Election Division",
+   "date": "2026",
+   "url": "https://www.in.gov/dA/d13ecb1f55/2026-Indiana-Election-Legislation-Summary.FINAL.pdf"
+  },
+  {
+   "id": 21,
+   "title": "Indiana school referendum elections: Districts seek funding for teacher pay, class size, buses",
+   "publisher": "Chalkbeat Indiana",
+   "date": "2025-10-27",
+   "url": "https://www.chalkbeat.org/indiana/2025/10/27/schools-property-tax-referendum-election-2025"
+  },
+  {
+   "id": 22,
+   "title": "Indiana school district referendum guide 2026: What to know about your district's requested tax increase",
+   "publisher": "WFYI and Chalkbeat Indiana (via WVXU)",
+   "date": "2026-08-17",
+   "url": "https://www.wvxu.org/2026-08-17/indiana-school-district-referendum-guide-2026-what-to-know-about-your-districts-requested-tax-increase"
+  },
+  {
+   "id": 23,
+   "title": "Indiana charter schools could now have an easier path to acquiring district buildings",
+   "publisher": "Chalkbeat Indiana",
+   "date": "2023-06-11",
+   "url": "https://www.chalkbeat.org/indiana/2023/6/11/23755769/indiana-charters-acquire-traditional-public-school-buildings-underutilized-enrollment"
+  },
+  {
+   "id": 24,
+   "title": "Operation Education: Learn more about the candidates on the ballot for South Bend Schools",
+   "publisher": "WSBT 22",
+   "date": "2026-09-28",
+   "url": "https://wsbt.com/newsletter-daily/school-board-trustees-candidates-election-education-race-vote-ballot-south-bend-indiana-early-voting-community-students-financial-referendum-challenge-priority-learn-more-three-district-one"
+  },
+  {
+   "id": 25,
+   "title": "Mansour Eid appointed as SBCSC interim superintendent",
+   "publisher": "WVPE",
+   "date": "2025-02-20",
+   "url": "https://www.wvpe.org/wvpe-news/2025-02-20/mansour-eid-appointed-as-sbcsc-interim-superintendent"
+  },
+  {
+   "id": 26,
+   "title": "Operation Education: How South Bend School Board candidates would vote on referendum",
+   "publisher": "WSBT 22",
+   "date": "2026-09-30",
+   "url": "https://wsbt.com/newsletter-daily/november-ballot-school-board-election-candidate-contested-referendum-financial-cut-million-dollars-voters-senate-enrolled-act-property-tax-bill-meeting-south-bend"
+  },
+  {
+   "id": 27,
+   "title": "Meet the Candidates: John Paczesny (candidate questionnaire)",
+   "publisher": "WSBT 22",
+   "date": "2026-09",
+   "url": "https://wsbt.com/resources/pdf/42e28f4a-867c-40e8-8a28-b0a1b9d27df3-SchoolBoardCandidateProfilePaczesny1.pdf"
+  },
+  {
+   "id": 28,
+   "title": "Meet the Candidates: Emily McClements (candidate questionnaire)",
+   "publisher": "WSBT 22",
+   "date": "2026-09",
+   "url": "https://wsbt.com/resources/pdf/3fde045a-b99d-4daf-9c2c-a43f9ffedc39-SchoolBoardCandidateProfileMcClements1.pdf"
+  },
+  {
+   "id": 29,
+   "title": "South Bend School Board takes action to keep chief financial officer, board attorney",
+   "publisher": "WVPE",
+   "date": "2026-03-11",
+   "url": "https://www.wvpe.org/wvpe-news/2026-03-11/south-bend-school-board-takes-action-to-keep-chief-financial-officer-board-attorney"
+  },
+  {
+   "id": 30,
+   "title": "South Bend schools say changes will prevent errors found in audit",
+   "publisher": "WVPE",
+   "date": "2026-03-20",
+   "url": "https://www.wvpe.org/wvpe-news/2026-03-20/south-bend-schools-say-changes-will-prevent-errors-found-in-audit"
+  },
+  {
+   "id": 31,
+   "title": "Bill to replace South Bend school board will not be revived this year",
+   "publisher": "WNDU",
+   "date": "2026-02-03",
+   "url": "https://www.wndu.com/2026/02/04/bill-replace-south-bend-school-board-will-not-be-revived-this-year/"
+  },
+  {
+   "id": 32,
+   "title": "Rogers vows to change bill replacing South Bend elected board with state appointees",
+   "publisher": "WVPE",
+   "date": "2026-01-14",
+   "url": "https://www.wvpe.org/wvpe-news/2026-01-14/rogers-vows-to-change-bill-replacing-south-bend-elected-board-with-state-appointees"
+  },
+  {
+   "id": 33,
+   "title": "South Bend Community School Corporation starts working on new strategic plan",
+   "publisher": "WVPE",
+   "date": "2026-08-06",
+   "url": "https://www.wvpe.org/wvpe-news/2026-08-06/south-bend-community-school-corporation-starts-working-on-new-strategic-plan"
+  },
+  {
+   "id": 34,
+   "title": "Cheryl Moody for School Board",
+   "publisher": "Cheryl Moody campaign",
+   "date": "2026",
+   "url": "https://sites.google.com/view/cheryl-moody-for-school-board"
+  },
+  {
+   "id": 35,
+   "title": "Meet the Candidates: Kevin Jerome Hawkins (candidate questionnaire)",
+   "publisher": "WSBT 22",
+   "date": "2026-09",
+   "url": "https://wsbt.com/resources/pdf/bcab2c71-8c61-49e3-9ab9-17fa780c859e-SchoolBoardCandidateProfileHawkins1.pdf"
+  },
+  {
+   "id": 36,
+   "title": "Meet the Candidates: Cheryl H Moody (candidate questionnaire)",
+   "publisher": "WSBT 22",
+   "date": "2026-09",
+   "url": "https://wsbt.com/resources/pdf/ea15a161-134c-4f38-a700-523693f2ec1f-SchoolBoardCandidateProfileMoody1.pdf"
+  },
+  {
+   "id": 37,
+   "title": "Costello wins District 2 seat on South Bend school board",
+   "publisher": "ABC57",
+   "date": "2022-11-08",
+   "url": "https://abc57.com/news/south-bend-school-board-winners-mark-costello"
+  }
+ ]
+}

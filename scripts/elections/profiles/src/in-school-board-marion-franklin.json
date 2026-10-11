@@ -1,0 +1,483 @@
+{
+  "race_id": "in-school-board-marion-franklin",
+  "reviewed": "2026-10-10",
+  "status": "draft",
+  "status_note": "Pending editorial review.",
+  "office": "@in_school_board",
+  "incumbent": null,
+  "race_context": [
+    "Franklin Township Community School Corporation (FTCSC) serves Franklin Township in southeast Marion County (Indianapolis). Chalkbeat reported that enrollment grew 48% over the past 20 years, that nearly half of students qualify for free or reduced-price lunch, and that about half of students are white, about 20% Asian and 14% Black {cb_ft_guide}. WFYI reported in September 2025 that about 11,200 students attend the district {wfyi_google}. The superintendent is Chase Huotari {mi_huotari}.",
+    "The board has five members: one at-large seat and four seats tied to geographic quadrants of the township. Every voter in the district may vote in all three 2026 races; quadrant members represent their area of the township and the at-large member represents the whole district {cb_ft_guide}.",
+    "Three seats are on the Nov. 3, 2026 ballot, each electing one member: the at-large seat and the northeast and southeast quadrant seats; the northwest and southwest seats are up in 2028. Winners serve four-year terms ending in December 2030 {cb_ft_guide}. This matches the state list's \"vote for 1\" in each race {in_list}.",
+    "Incumbents: at-large, Dawn Downer, who faces three challengers; northeast quadrant, board president Zachary Smith Howard, who is unopposed; southeast quadrant, Larry J. Walker, who is challenged by Matt Morgan. All three are seeking reelection {cb_ft_guide}. Chalkbeat reported that in Franklin Township all eligible incumbents are running again {cb_overview}.",
+    "Party labels: 2026 is the first year Indiana school board candidates could declare a party. The Franklin Township field has three Republicans, one Democrat, one independent and two candidates with no party declared {cb_ft_guide}; school board races are not part of straight-ticket voting {cb_overview}.",
+    "Budget and property taxes: WFYI reported in September 2025 that the district expected to lose about $2.4 million in local property tax revenue in 2026 and 2027 because of the state's 2025 property tax law, money that pays for transportation, facilities and utilities {wfyi_google}. Superintendent Huotari held a public presentation June 23, 2026 on enrollment projections, property tax reform and funding {mi_huotari}. Candidates Howard and Key noted that the township's tax base is about 85% residential {cb_ft_guide}.",
+    "Referendum: no Franklin Township Community School Corporation referendum appears on the state Department of Local Government Finance's list of November 2026 referendum filings (the \"Franklin Community Schools\" filing on that list is a different district) {dlgf_list}. In May 2022 voters rejected a district capital referendum, with 62% voting no {cb_ft_2022}.",
+    "Google data center: in September 2025 the district reversed its earlier opposition and backed Google's proposed data center campus in the township as a way to expand the commercial tax base; Huotari wrote that he \"would not have supported this project if it had not been the best financial decision for FTCSC.\" City-County Councilor Michael-Paul Hart and resident opponents criticized the district's support; Google later withdrew the project before a council vote {wfyi_google} {mi_huotari}.",
+    "Programs: the Lilly Endowment gave the district $29.5 million in 2025 to build a 38,617-square-foot health sciences facility, and in 2024 the district received a $1.5 million Richard M. Fairbanks Foundation grant aimed at increasing college enrollment {cb_ft_guide}.",
+    "State law passed in 2026 requires public school districts to share more property tax revenue with charter schools, which Chalkbeat reported could make referendums harder to pass {cb_takeaways}.",
+    "Forums: no 2026 candidate forum for this district was found. The Chalkbeat Indiana / Mirror Indy / WFYI survey published Sept. 11, 2026 is the main source of candidate positions {cb_ft_guide}.",
+    "Points of difference in the survey answers: on referendums, Walker said he would continue to oppose any referendum, McVey said a referendum is not the answer, and Morgan said he wants to eliminate or significantly delay the need for one; Downer cited the district's balanced budget record and pursuing outside funding; Chohan and Key emphasized audits and transparency in spending and student mental health supports {cb_ft_guide}."
+  ],
+  "candidates": [
+    {
+      "ballot_name": "Antonio Dewayne Key, Sr",
+      "seat": "At Large",
+      "summary": "Owner of a behavioral health services company and parent of two district students, running as a Democrat for the at-large seat {cb_ft_guide}.",
+      "website": "https://www.facebook.com/profile.php?id=61592307177955",
+      "background": [
+        "Age 48; CEO and owner of Pacers Behavioral Services LLC, and works as a mental healthcare professional and psychology professor {cb_ft_guide}.",
+        "Holds a bachelor's degree from Indiana University and a master's degree in community psychology from Martin University {cb_ft_guide}.",
+        "Parent of two Franklin Township students {cb_ft_guide}."
+      ],
+      "path_to_ballot": [
+        "Filed to run as a Democrat and is listed on the state candidate list as a Democrat {cb_ft_guide} {in_list}."
+      ],
+      "positions": [
+        {
+          "topic": "Academics",
+          "items": [
+            "Listed student achievement and opportunity as a top priority, including expanding college, career, trade, dual-credit and workforce pathways {cb_ft_guide}.",
+            "Said the academic focus should be on foundational reading, writing, math and critical thinking, with early intervention for students who struggle with those skills {cb_ft_guide}."
+          ]
+        },
+        {
+          "topic": "School safety",
+          "items": [
+            "Listed student mental health, safety and support as a top priority, including early intervention and behavioral and mental-health resources {cb_ft_guide}."
+          ]
+        },
+        {
+          "topic": "Budget & taxes",
+          "items": [
+            "Said he would support transparent budgeting, regular review of expenditures, pursuit of grants and partnerships, and long-term financial planning, while protecting classroom programs and retaining educators {cb_ft_guide}.",
+            "Noted that about 85% of the township's property-tax base is residential, which he said limits local revenue {cb_ft_guide}.",
+            "On the Lilly-funded health sciences academy, said he would want a multi-year sustainability plan for staffing, maintenance, equipment and program costs before operating costs are absorbed, and would seek health-care and higher-education partners to help fund it {cb_ft_guide}."
+          ]
+        },
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "Said his approach would be to listen first to teachers, parents, students and staff, then use data to find where students are falling through the cracks {cb_ft_guide}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "In the survey reviewed, did not directly assess the current board's decisions; said he would not support funding a new program by taking resources from existing programs {cb_ft_guide}."
+      ],
+      "plans": [
+        "Early intervention for academics, attendance, behavior and mental health; expanded career and technical education and dual credit; aggressive pursuit of grants and partnerships {cb_ft_guide}."
+      ],
+      "endorsements_finance": [],
+      "gaps": [
+        "No endorsements or campaign finance reports (Marion County Election Board filings) were found; fundraising is unknown.",
+        "No coverage of Key beyond the Chalkbeat/Mirror Indy/WFYI survey was found; his campaign Facebook page could not be reviewed.",
+        "The ballot spells his name \"Antonio Dewayne Key, Sr\"; Chalkbeat uses \"Antonio Key Sr.\""
+      ]
+    },
+    {
+      "ballot_name": "Dawn Downer",
+      "seat": "At Large",
+      "summary": "Incumbent at-large board member seeking reelection with no party declared; a former state First Steps director {cb_ft_guide}.",
+      "website": "https://dawndownerforschoolboard.godaddysites.com/",
+      "background": [
+        "Age 60; project manager in early childhood education; previously state director of Indiana's First Steps early intervention program and chief of staff for Indiana's disability services agency {cb_ft_guide}.",
+        "Graduate of Franklin Central High School and Purdue University, and parent of a district graduate {cb_ft_guide}.",
+        "Was board vice president in 2022 {cb_ft_2022}."
+      ],
+      "path_to_ballot": [
+        "Listed on the state candidate list as Nonpartisan; Chalkbeat reported she did not declare a party {in_list} {cb_ft_guide}.",
+        "Won the at-large seat in 2022 by 20 votes over Tim McVey, 6,019 to 5,999, with Adrian D. Pettis Sr. receiving 1,055 {wfyi_results_2022}."
+      ],
+      "positions": [
+        {
+          "topic": "Budget & taxes",
+          "items": [
+            "Listed fiscal responsibility as a top priority: a balanced, sustainable budget with investments in student achievement and competitive, equitable staff pay {cb_ft_guide}.",
+            "Said the district has kept a balanced budget for more than a decade, and that she supports pursuing outside funding and partnerships, advocating at the state level for school funding, and exploring options such as expanded online learning {cb_ft_guide}.",
+            "Said the health sciences academy's ongoing costs are built into the district's long-term financial plan, and that the academy might serve students from outside the district when capacity allows to bring in revenue {cb_ft_guide}."
+          ]
+        },
+        {
+          "topic": "Academics",
+          "items": [
+            "Said the district's reading achievement declined in recent years, that it fully implemented a new reading curriculum, and that results are improving; supports continued emphasis on elementary literacy {cb_ft_guide}.",
+            "Supports expanding career and technical education, health sciences, dual-credit and advanced coursework, including through Central Nine Career Center {cb_ft_guide}."
+          ]
+        },
+        {
+          "topic": "School safety",
+          "items": [
+            "Listed safety and student well-being as a top priority, including physical safety and behaviors that interfere with learning {cb_ft_guide}."
+          ]
+        },
+        {
+          "topic": "Teachers & staff",
+          "items": [
+            "Said teachers' and staff experience and input should be part of decisions on curriculum, instruction and student support, and cited staffing levels, class sizes and workloads as budget considerations {cb_ft_guide}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Is a current board member. Cites the district's balanced budgets for more than a decade and the new reading curriculum's early results {cb_ft_guide}."
+      ],
+      "plans": [
+        "Continue monitoring reading data, expand career pathways, pursue outside funding and state-level advocacy, and keep the budget balanced {cb_ft_guide}."
+      ],
+      "endorsements_finance": [],
+      "gaps": [
+        "No endorsements or 2026 campaign finance reports were found; fundraising is unknown.",
+        "Her campaign website, reviewed in October 2026, contained only general voting information and no detailed platform.",
+        "No record of her individual board votes was reviewed."
+      ]
+    },
+    {
+      "ballot_name": "Komal (Komal Kaur) Chohan",
+      "seat": "At Large",
+      "summary": "Mental health therapist and district graduate running as an independent for the at-large seat {cb_ft_guide}.",
+      "website": "https://www.facebook.com/votekomal",
+      "background": [
+        "Age 31; mental health therapist at Salam Therapy and mental health hub director at Umeed-Hope {cb_ft_guide}.",
+        "Holds a master's degree in social work and graduated from Franklin Central High School {cb_ft_guide}."
+      ],
+      "path_to_ballot": [
+        "Running as an independent; listed on the state candidate list as Independent {cb_ft_guide} {in_list}."
+      ],
+      "positions": [
+        {
+          "topic": "School safety",
+          "items": [
+            "Top priority is expanding on-site mental health and early intervention supports so students get help before a crisis {cb_ft_guide}."
+          ]
+        },
+        {
+          "topic": "Budget & taxes",
+          "items": [
+            "Proposes resource audits and \"open-book\" audits to cut administrative costs and direct funding to classrooms and educator pay, and pursuing state and federal grants and community partnerships {cb_ft_guide}.",
+            "On the health sciences academy, proposes building Career and Technical Education per-pupil funding into its base budget, seeking industry partnerships with health-care networks, and treating educator pay as a fixed line item {cb_ft_guide}."
+          ]
+        },
+        {
+          "topic": "Academics",
+          "items": [
+            "Said the district should look beyond test preparation to real-world problem-solving and critical thinking, and give teachers more instructional freedom {cb_ft_guide}."
+          ]
+        },
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "Wants parents, teachers and residents to have a larger voice in district decisions, and partnerships with local organizations and businesses {cb_ft_guide}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Said student needs are growing faster than the district's support systems, and called for \"restoring true community collaboration\" {cb_ft_guide}."
+      ],
+      "plans": [
+        "Expand on-site mental health services, audit spending, pursue grants, and protect class sizes and educator pay {cb_ft_guide}."
+      ],
+      "endorsements_finance": [],
+      "gaps": [
+        "No endorsements or campaign finance reports were found; fundraising is unknown.",
+        "No coverage of Chohan beyond the Chalkbeat/Mirror Indy/WFYI survey was found; her campaign Facebook page could not be reviewed."
+      ]
+    },
+    {
+      "ballot_name": "Tim McVey",
+      "seat": "At Large",
+      "summary": "District parent in executive management, running as a Republican; he lost the 2022 at-large race to Downer by 20 votes and ran for Indiana House District 90 in 2024 {cb_ft_guide} {wfyi_results_2022} {ibj_hd90}.",
+      "website": "https://www.facebook.com/tim.mcvey.for.state.representative.2024",
+      "background": [
+        "Age 46; works in executive management; 1998 graduate of Franklin Central High School; has two sons in the district {cb_ft_guide}.",
+        "In 2022 Chalkbeat described him as a substitute bus driver for the district and a district manager for a self-storage company {cb_ft_2022}. In 2024 IBJ described him as a property manager and part-time school bus driver who was vice president of an excavating company, a volunteer basketball coach and a court-appointed special advocate (CASA) {ibj_hd90}."
+      ],
+      "path_to_ballot": [
+        "Running as a Republican; listed on the state candidate list as Republican {cb_ft_guide} {in_list}.",
+        "Ran for the at-large seat in 2022 and received 5,999 votes to Downer's 6,019 {wfyi_results_2022}.",
+        "Was one of four Republicans in the May 2024 primary for the open Indiana House District 90 seat, which covers most of Franklin Township {ibj_hd90} {mi_hd90}."
+      ],
+      "positions": [
+        {
+          "topic": "School safety",
+          "items": [
+            "Listed student safety as his first priority {cb_ft_guide}."
+          ]
+        },
+        {
+          "topic": "Budget & taxes",
+          "items": [
+            "Wants to work with state and local officials to find ways to fund schools without raising property taxes, and said a referendum \"is not the answer\" {cb_ft_guide}.",
+            "Said the district is at a breaking point in affording growth from the township's dense population, and that he would act as a conduit to state and city government to direct more money to local schools {cb_ft_guide}.",
+            "In his 2024 legislative race, told IBJ he wanted to diversify the tax base because residential growth, taxed at lower rates, was outpacing local revenue {ibj_hd90}.",
+            "On the health sciences academy, proposed internships and a long-term relationship with Eli Lilly {cb_ft_guide}."
+          ]
+        },
+        {
+          "topic": "Teachers & staff",
+          "items": [
+            "Said a large staffing shortage affects the quality of education {cb_ft_guide}."
+          ]
+        },
+        {
+          "topic": "Academics",
+          "items": [
+            "Wants a focus on practical life skills that prepare students for work after high school {cb_ft_guide}."
+          ]
+        },
+        {
+          "topic": "Enrollment & school choice",
+          "items": [
+            "Told IBJ in 2024, during his legislative race, that he would support school choice {ibj_hd90}."
+          ]
+        },
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "Wants to be a voice and resource connecting the community and school administration {cb_ft_guide}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "In the survey reviewed, did not directly assess the current board's decisions; described the district as at a breaking point financially because of enrollment growth {cb_ft_guide}."
+      ],
+      "plans": [
+        "Partner with state and city officials to seek more school funding without property tax increases; emphasize safety and life-skills instruction {cb_ft_guide}."
+      ],
+      "endorsements_finance": [
+        "In his 2024 House race, reported raising $4,317 from Jan. 1 to April 12, 2024, including $4,000 from G&W Excavators, where he was vice president {ibj_hd90}. No 2026 school board finance reports were found."
+      ],
+      "gaps": [
+        "The 2024 House District 90 primary result was not verified.",
+        "The campaign Facebook page linked by Chalkbeat is the one from his 2024 legislative race; it could not be reviewed.",
+        "No 2026 endorsements were found."
+      ]
+    },
+    {
+      "ballot_name": "Zachary Smith Howard",
+      "seat": "NE Quadrant",
+      "summary": "Incumbent and current board president, running unopposed as a Republican; director of state relations for Indiana University {cb_ft_guide}.",
+      "website": "https://www.facebook.com/ZSHoward4FT/",
+      "background": [
+        "Age 38; director of state relations for Indiana University; bachelor's degree in political science from Missouri State University and a master's in public affairs from Indiana University Indianapolis {cb_ft_guide}.",
+        "First elected to the board in 2018 {cb_ft_2022}."
+      ],
+      "path_to_ballot": [
+        "Running as a Republican; listed on the state candidate list as Republican and is the only candidate for the seat {cb_ft_guide} {in_list}.",
+        "Won reelection in 2022 over Andrew Filler, 6,049 votes (52.25%) to 5,528 {wfyi_results_2022}."
+      ],
+      "positions": [
+        {
+          "topic": "Budget & taxes",
+          "items": [
+            "Called the long-term effects of SEA 1 (2025) and the state school funding formula the district's most pressing issue, noting the township is over 85% residential so most property tax revenue comes from homesteads capped at 1% {cb_ft_guide}.",
+            "Said the district has a balanced budget while working to raise educator and staff salaries, and pointed residents to the district's public finance explainer {cb_ft_guide}.",
+            "Said Career and Technical Education and state performance funding will help sustain the health sciences program {cb_ft_guide}."
+          ]
+        },
+        {
+          "topic": "Enrollment & school choice",
+          "items": [
+            "Said maintaining and growing enrollment is essential, and listed keeping FTCSC families' first choice as a priority {cb_ft_guide}."
+          ]
+        },
+        {
+          "topic": "Academics",
+          "items": [
+            "Supports continuing the Science of Reading implementation with a goal of exceeding the district's 90% IREAD passage rate, and the new enVision math curriculum in grades 4-8 {cb_ft_guide}."
+          ]
+        },
+        {
+          "topic": "Teachers & staff",
+          "items": [
+            "Lists recruiting and retaining quality educators as a top priority {cb_ft_guide}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Is a current board member and board president. Cites the district's balanced budget, salary increases, a 98.64% graduation rate at Franklin Central High School and the reading curriculum {cb_ft_guide}. In 2022 he cited livestreamed board meetings and managing growth without raising property taxes {cb_ft_2022}."
+      ],
+      "plans": [
+        "Prepare students for an AI-driven economy, keep reading and math curriculum changes on track, and direct more money to classrooms and staff {cb_ft_guide}."
+      ],
+      "endorsements_finance": [],
+      "gaps": [
+        "No endorsements or campaign finance reports were found; fundraising is unknown.",
+        "No record of his individual board votes (including on the 2025 Google data center position) was reviewed.",
+        "The WFYI 2022 results table labels challenger Andrew Filler as \"Winner\" despite Howard receiving more votes; Chalkbeat's 2026 guide confirms Howard is the incumbent."
+      ]
+    },
+    {
+      "ballot_name": "Larry J. Walker",
+      "seat": "SE Quadrant",
+      "summary": "Incumbent southeast quadrant member seeking reelection as a Republican; custom home builder, realtor and land developer {cb_ft_guide}.",
+      "website": "https://www.facebook.com/profile.php?id=61591656847445",
+      "background": [
+        "Age 79; custom home builder, realtor and land developer; graduate of Franklin Central High School {cb_ft_guide}.",
+        "Mirror Indy reported in 2024 that he was in his third term, was president and CEO of Timberwood Custom Homes, and, according to his business website, had been vice president and treasurer of the Franklin Township Education Foundation and an appointee to the Indianapolis Board of Zoning Appeals {mi_walker}."
+      ],
+      "path_to_ballot": [
+        "Running as a Republican; listed on the state candidate list as Republican {cb_ft_guide} {in_list}.",
+        "Was unopposed in 2022 {cb_ft_2022} {wfyi_results_2022}."
+      ],
+      "positions": [
+        {
+          "topic": "Budget & taxes",
+          "items": [
+            "Priorities include continuing a balanced budget and continuing to oppose any referendum {cb_ft_guide}.",
+            "Would address finances by drawing commercial and industrial uses to appropriate areas of the township {cb_ft_guide}.",
+            "Would support the health sciences academy by working with the superintendent, the chief operating officer and local hospitals for donations {cb_ft_guide}."
+          ]
+        },
+        {
+          "topic": "School safety",
+          "items": [
+            "Lists safety first for students as his top priority {cb_ft_guide}."
+          ]
+        },
+        {
+          "topic": "Facilities",
+          "items": [
+            "Called the township's housing growth the most pressing issue and wants facilities that keep pace {cb_ft_guide}."
+          ]
+        },
+        {
+          "topic": "Academics",
+          "items": [
+            "Wants a focus on reading and math, and a properly staffed health sciences academy {cb_ft_guide}."
+          ]
+        },
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "Lists an open-door policy for parent concerns as a priority {cb_ft_guide}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Is a current board member. Describes the board's record in terms of continuing a balanced budget and safety, and is enthusiastic about the new health sciences academy {cb_ft_guide}."
+      ],
+      "plans": [
+        "Keep the budget balanced without a referendum, attract commercial and industrial development, and seek hospital partnerships for the health sciences academy {cb_ft_guide}."
+      ],
+      "endorsements_finance": [],
+      "gaps": [
+        "No endorsements or campaign finance reports were found; fundraising is unknown.",
+        "No record of his individual board votes was reviewed."
+      ]
+    },
+    {
+      "ballot_name": "Matt Morgan",
+      "seat": "SE Quadrant",
+      "summary": "Owner of a Franklin Township handyman business and parent of two district students, challenging the southeast quadrant incumbent as a Republican {cb_ft_guide}.",
+      "website": "https://www.facebook.com/profile.php?id=61590995987758",
+      "background": [
+        "Age 46; owns and operates a handyman business based in Franklin Township; graduated high school in 1998 and attended two years of community college {cb_ft_guide}.",
+        "Parent of two children in Franklin Township schools {cb_ft_guide}."
+      ],
+      "path_to_ballot": [
+        "Declared as a Republican; listed on the state candidate list as Republican {cb_ft_guide} {in_list}."
+      ],
+      "positions": [
+        {
+          "topic": "Budget & taxes",
+          "items": [
+            "Priority is finding additional revenue to offset funding cuts from the recent legislative session, and spending wisely to eliminate or significantly delay the need for a referendum {cb_ft_guide}.",
+            "Said he needs to learn more about school finance, funding and vouchers before offering a detailed plan {cb_ft_guide}.",
+            "Proposes renting district facilities, including a new field house, to outside groups and events for revenue {cb_ft_guide}."
+          ]
+        },
+        {
+          "topic": "Teachers & staff",
+          "items": [
+            "Wants to fully support front-line and support staff {cb_ft_guide}."
+          ]
+        },
+        {
+          "topic": "Academics",
+          "items": [
+            "Wants the high school to expand pathways for students not planning on college beyond Central Nine Career Center {cb_ft_guide}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Listed addressing \"the current atmosphere of athletics and coaching\" at the high school as a priority; did not elaborate in the survey {cb_ft_guide}."
+      ],
+      "plans": [
+        "Generate facility-rental revenue, expand non-college pathways, and support staff {cb_ft_guide}."
+      ],
+      "endorsements_finance": [],
+      "gaps": [
+        "No endorsements or campaign finance reports were found; fundraising is unknown.",
+        "No coverage of Morgan beyond the Chalkbeat/Mirror Indy/WFYI survey was found; the specifics of his concern about high school athletics and coaching are not known."
+      ]
+    }
+  ],
+  "sources": {
+    "cb_ft_guide": [
+      "Voter guide 2026: Franklin Township school board race has 7 candidates for 3 seats",
+      "Chalkbeat Indiana / Mirror Indy / WFYI",
+      "2026-09-11",
+      "https://www.chalkbeat.org/indiana/2026/09/11/franklin-township-school-board-voter-guide-2026/"
+    ],
+    "cb_overview": [
+      "Voter guide: 2026 school board elections across Indianapolis",
+      "Chalkbeat Indiana",
+      "2026-09-11",
+      "https://www.chalkbeat.org/indiana/2026/09/11/voter-guides-for-2026-school-board-elections-in-marion-county/"
+    ],
+    "cb_takeaways": [
+      "5 takeaways from Chalkbeat's panel on Indiana's changes to school board elections and referendums",
+      "Chalkbeat Indiana",
+      "2026-07-10",
+      "https://www.chalkbeat.org/indiana/2026/07/10/indiana-school-board-elections-partisan-referendums-takeaways/"
+    ],
+    "mi_huotari": [
+      "Franklin Township superintendent to discuss district's financial future",
+      "Mirror Indy",
+      "2026-06-16",
+      "https://mirrorindy.org/franklin-township-community-school-corporation-indianapolis-budget-chase-huotari/"
+    ],
+    "wfyi_google": [
+      "Franklin Township Schools reverses stance, backs controversial Google data center",
+      "WFYI / Mirror Indy",
+      "2025-09-16",
+      "https://mirrorindy.org/franklin-township-schools-indianapolis-google-data-center/"
+    ],
+    "mi_walker": [
+      "Franklin Township: Board member did not joke about sex offenders",
+      "Mirror Indy",
+      "2024-05-28",
+      "https://mirrorindy.org/franklin-township-school-board-member-larry-walker-sparks-concern-public-comment/"
+    ],
+    "cb_ft_2022": [
+      "Six candidates vie for three seats on Franklin Township school board",
+      "Chalkbeat Indiana / WFYI",
+      "2022-10-04",
+      "https://www.chalkbeat.org/indiana/2022/10/4/23385422/election-franklin-township-test-scores-capital-referendum-school-board-candidates"
+    ],
+    "wfyi_results_2022": [
+      "Marion County school board election winners 2022",
+      "WFYI",
+      "2022-11-23",
+      "https://www.wfyi.org/news/articles/marion-county-school-board-election-winners-2022"
+    ],
+    "ibj_hd90": [
+      "Indy Statehouse primaries: Open seat draws four GOP candidates; Democratic incumbents face challengers",
+      "Indianapolis Business Journal",
+      "2024-05-03",
+      "https://www.ibj.com/articles/indy-statehouse-primaries-open-seat-draws-four-gop-candidates-democratic-incumbents-face-challengers"
+    ],
+    "mi_hd90": [
+      "In the Mirror: Local issues dominate southeast Indy GOP primary",
+      "Mirror Indy",
+      "2024-04-12",
+      "https://mirrorindy.org/?p=18338"
+    ],
+    "dlgf_list": [
+      "Referendum Information (November 2026 referendum documents)",
+      "Indiana Department of Local Government Finance",
+      "2026-10",
+      "https://www.in.gov/dlgf/referendum-information/"
+    ]
+  }
+}

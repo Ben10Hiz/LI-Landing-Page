@@ -1,0 +1,398 @@
+{
+ "race_id": "in-school-board-st-joseph-south-bend",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The South Bend Community School Corporation (SBCSC) serves about 13,000 students in pre-K through grade 12 in 26 schools, employs more than 2,400 people and has an annual budget of over $200 million {wsbt_profiles}. Superintendent Mansour Eid, a former Clay High School principal, was named interim superintendent in February 2025 by a 6–0 vote with one abstention after Superintendent Todd Cummings stepped down {wvpe_eid}. WSBT reported it is unclear whether Eid will stay past 2027 {wsbt_referendum}; District 5 candidate John Paczesny said Eid has said he will leave on June 30, 2027 {wsbt_q_paczesny}.",
+  "The board has seven members: five elected from districts and two at large, all serving four-year terms {wsbt_profiles}. 2026 is the first year school board candidates could list a party affiliation under a new state law {wsbt_q_mcclements}.",
+  "Three of the seven seats are on the 2026 ballot, each electing one member, matching the state list {wsbt_profiles}. District 1 (east part of the city): incumbent Kate Lee is not running; Kevin Jerome Hawkins, Emily McClements and Cheryl H Moody are running, the only contested race {wsbt_profiles}. District 2: incumbent Mark Costello is running unopposed {wsbt_profiles}. District 5 (Clay Township): board president Stuart Greene is not running; John Paczesny is the only candidate {wsbt_profiles}.",
+  "Budget and the 2028 referendum (2026): SBCSC's operating referendum, passed in 2020, runs through 2028 {wsbt_q_mcclements}. At August 17 and September 21 budget meetings, Chief Financial Officer Ahnaf Tahmid said that without a 2028 referendum the district could have to cut administration, end all transportation and close or merge at least five schools; WSBT reported the 2025 property-tax law (SEA 1) is squeezing school funding, with larger effects expected after 2028 {wsbt_referendum}. In March 2026 the board extended Tahmid's contract through 2028 {wvpe_cfo}.",
+  "State audit (March 2026): a State Board of Accounts audit of the district's 2023 records, covering the Cummings administration, found systemic problems with controls over federal funds; the district said its current administration had already begun reforms and has corrected the problems {wvpe_audit}.",
+  "State takeover bill (January–February 2026): Senate Bill 248, co-authored by Sen. Linda Rogers, would have replaced the elected SBCSC board with members selected by the Secretary of Education {wndu_sb248}. At its hearing, Superintendent Eid, teachers union president Linda Lucy and board attorney Pete Agostino said the district was moving in the right direction, while South Bend Regional Chamber president Jeff Rea supported the bill, citing test scores, chronic absenteeism and declining enrollment {wvpe_sb248_hearing}. Rogers pulled the bill on Jan. 15 and said in February she has no plans to revive it this year {wndu_sb248}.",
+  "Academics and operations (2025–2026): Eid told lawmakers the district freed $15 million through operational changes and used it for a $9,000 teacher raise, and that IREAD passing rates rose from 52% to 71% with a Notre Dame tutoring partnership {wvpe_sb248_hearing}. In August 2026 the district began a new strategic plan expected to be finished in December; local NAACP and Black Lives Matter chapters asked for a separate plan for Black student achievement {wvpe_strategic}.",
+  "Forums and differences: Cheryl Moody's campaign site lists a Sept. 16, 2026 Meet the Candidates forum at the St. Joseph County Public Library hosted with the American Democracy Project at IU South Bend {moody_site}; this guide did not find a recording or report of it. In WSBT's questionnaire, all five candidates said they support asking voters for a 2028 referendum {wsbt_referendum}. Among District 1 candidates, Moody said she would back closing schools if it were the only way to balance the budget, McClements said closures are on the table, and Hawkins said all options should be examined before committing to closures {wsbt_referendum}. Hawkins and Moody said they would support extending Eid's tenure, while McClements said she would wait until seated before taking a position {wsbt_q_hawkins}{wsbt_q_moody}{wsbt_q_mcclements}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Cheryl H Moody",
+   "seat": "District 1",
+   "summary": "Self-employed online reseller and longtime SBCSC parent running for the open District 1 seat; listed as Nonpartisan {in_list}{wsbt_q_moody}.",
+   "website": "https://sites.google.com/view/cheryl-moody-for-school-board",
+   "background": [
+    "Self-employed online reseller of antiques and vintage collectibles {wsbt_q_moody}.",
+    "Parent of students in the district; she says she will have had at least one child enrolled in SBCSC for 35 straight years {wsbt_q_moody}.",
+    "Holds bachelor's degrees in political science and religion and a master's in political science from the University of Florida {wsbt_q_moody}.",
+    "Coaches the Adams High School Mock Trial team, which her site says was state runner-up in 2022 and 2026 {moody_site}.",
+    "Says she has attended school board meetings regularly for the past year {wsbt_q_moody}."
+   ],
+   "path_to_ballot": [
+    "Listed as Nonpartisan on the state candidate list {in_list}.",
+    "Says she wrote 'none' for party on her filing paperwork because she does not consider herself either a Republican or a Democrat {wsbt_q_moody}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Calls the end of the current referendum the district's main challenge and says she will urge voters to approve a new one whether or not she is elected {wsbt_q_moody}.",
+      "Says she would support closing schools if it were the only way to balance the budget, noting that 'School districts, unlike the federal government, cannot run a deficit' {wsbt_referendum}.",
+      "Wants a clear public plan of which schools and programs would be lost without a referendum, and wants the district to pay down as much debt as possible {wsbt_q_moody}.",
+      "Says she does not believe there is a lot of waste in the budget and that most spending goes to teachers {wsbt_q_moody}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Top priority is improving education quality in every school so parents do not feel they need to leave SBCSC {wsbt_q_moody}.",
+      "On early literacy, suggests volunteer reading partnerships, reading-buddy programs in every school, reading incentives and library-card sign-ups at school events {wsbt_q_moody}.",
+      "Proposes rewarding good attendance and said she hoped the board would approve an attendance-tracking software contract {wsbt_q_moody}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Supports regular cultural competency training for teachers and recruiting new teachers from HBCUs, citing recommendations of the Reparatory Justice Commission report {wsbt_q_moody}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Supports the board's practice of voting on individual contracts at a lower dollar threshold and says audit-related changes have already been made {wsbt_q_moody}.",
+      "Opposed the bill to replace the elected board; says she is open to a hybrid board with some appointed members {wsbt_q_moody}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Says the current board has improved the professionalism of its meetings {wsbt_q_moody}.",
+    "Says there was a lack of transparency in the board's decisions on Todd Cummings' departure and Eid's appointment {wsbt_q_moody}. WVPE reported Cummings stepped down in February 2025 and the board approved Eid 6–0 with one abstention {wvpe_eid}.",
+    "Says Eid is 'doing an excellent job' and she would extend his contract as long as he wanted the job {wsbt_q_moody}."
+   ],
+   "plans": [
+    "Would work with the administration on both a referendum campaign and a contingency plan for school and program cuts if it fails {wsbt_q_moody}.",
+    "Wants the district to publicize successes more and suggests media training for board members {wsbt_q_moody}."
+   ],
+   "endorsements_finance": [
+    "Her campaign site links to an online fundraising page; no endorsements are listed {moody_site}."
+   ],
+   "gaps": [
+    "No campaign finance totals found.",
+    "No independent news coverage of her candidacy beyond the WSBT questionnaire.",
+    "No report found of what was said at the Sept. 16 forum."
+   ]
+  },
+  {
+   "ballot_name": "Emily McClements",
+   "seat": "District 1",
+   "summary": "Self-employed real estate and property manager and SBCSC parent running for the open District 1 seat; listed as Independent {in_list}{wsbt_q_mcclements}.",
+   "website": null,
+   "background": [
+    "Self-employed in real estate and property management; has lived in the South Bend area for 22 years {wsbt_q_mcclements}.",
+    "Parent of students in the district {wsbt_q_mcclements}.",
+    "Previously worked on fundraising and events with the South Bend Education Alliance and received Restorative Justice training through the district {wsbt_q_mcclements}.",
+    "Bachelor's degree in psychology from Wheaton College {wsbt_q_mcclements}."
+   ],
+   "path_to_ballot": [
+    "Listed as Independent on the state candidate list {in_list}.",
+    "Says she disagrees with the law allowing party labels and filed as an Independent because partisan politics should not play a role in school board decisions {wsbt_q_mcclements}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Would support asking voters for a new operating referendum in 2028, while preparing alternative funding and reviewing costs in case it fails {wsbt_q_mcclements}.",
+      "Said 'The discussion around closing schools is, of course, on the table' {wsbt_referendum}.",
+      "After the state audit, supports clear procedures with checks and balances and regular, understandable financial reports {wsbt_q_mcclements}."
+     ]
+    },
+    {
+     "topic": "Enrollment & school choice",
+     "items": [
+      "Names declining enrollment as the district's main challenge and wants SBCSC to be schools 'that families actively choose' {wsbt_q_mcclements}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "On attendance and IREAD, says the board should set expectations and monitor results while relying on staff to choose methods {wsbt_q_mcclements}."
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "On racial disparities in discipline, says she would review district data and supports continued and expanded use of Restorative Justice where it is shown to work {wsbt_q_mcclements}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Top priority is rebuilding trust; says decisions by previous boards and administrations created distrust about spending, outside contractors and facilities {wsbt_q_mcclements}.",
+      "Wants the board to follow Robert's Rules of Order and reinstate parliamentary procedure {wsbt_q_mcclements}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Attributes community distrust to decisions by previous boards and administrations {wsbt_q_mcclements}.",
+    "Says she will wait until seated before taking a position on Superintendent Eid's contract {wsbt_q_mcclements}."
+   ],
+   "plans": [
+    "Commits to reading board materials in advance, asking questions publicly and avoiding micromanagement of staff {wsbt_q_mcclements}.",
+    "Wants the board and administration to share more student and school successes and build ties with businesses and city leaders {wsbt_q_mcclements}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or fundraising reports found."
+   ],
+   "gaps": [
+    "No campaign website or social media page found.",
+    "No campaign finance totals found.",
+    "No independent news coverage beyond WSBT's questionnaire."
+   ]
+  },
+  {
+   "ballot_name": "Kevin Jerome Hawkins",
+   "seat": "District 1",
+   "summary": "Retired federal mediator and founder of a family foundation running youth literacy programs, seeking the open District 1 seat; listed as Democratic {in_list}{wsbt_q_hawkins}.",
+   "website": null,
+   "background": [
+    "Retired in October 2025 after 22 years as a federal mediator with the Federal Mediation and Conciliation Service; has lived in South Bend for nine years {wsbt_q_hawkins}.",
+    "In 2017 co-founded the Hawkins Family Foundation, which runs after-school, literacy, art and food-assistance programs for South Bend children, including a Comic Book Club at Coquillard Elementary {wsbt_q_hawkins}.",
+    "Bachelor's degree in psychology from the University of Notre Dame {wsbt_q_hawkins}."
+   ],
+   "path_to_ballot": [
+    "Listed as Democratic on the state candidate list {in_list}.",
+    "Says he is a registered Democrat but does not believe school board service should be tied to a party platform {wsbt_q_hawkins}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Supports a 2028 referendum, calling it 'a statement of investment in our children' {wsbt_referendum}.",
+      "On closing schools, said 'I think we have to look at all options to see what makes sense' and did not commit without all the facts {wsbt_referendum}.",
+      "After the state audit, says each budget item should be judged by whether it improves the learning environment and student growth and safety {wsbt_q_hawkins}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "On IREAD, wants other schools to adapt the approach used at Coquillard Elementary and expand community literacy partnerships {wsbt_q_hawkins}.",
+      "On attendance, cites transportation, family and financial factors and wants better communication with parents and efficient bus service {wsbt_q_hawkins}."
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "On racial disparities in discipline, supports relationship-building and cultural competency training and ongoing review of how policies are applied at each school {wsbt_q_hawkins}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Names rebuilding community trust and reconciling stakeholders as the district's main challenge {wsbt_q_hawkins}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Says recent board meetings he attended have been 'for the most part orderly and focused' and people should not conflate them with past struggles {wsbt_q_hawkins}.",
+    "Attributes damaged trust to leadership before the current board and superintendent {wsbt_q_hawkins}.",
+    "Says he is pleased with Superintendent Eid's performance and would favor extending his tenure {wsbt_q_hawkins}.",
+    "Says the lawmaker behind the takeover bill 'needed to dig a little deeper' into the community's views {wsbt_q_hawkins}."
+   ],
+   "plans": [
+    "First priority is to listen and learn from the board member's perspective {wsbt_q_hawkins}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or fundraising reports found."
+   ],
+   "gaps": [
+    "No campaign website found.",
+    "No campaign finance totals found; no information found on Democratic Party involvement in his campaign.",
+    "No independent news coverage beyond WSBT's questionnaire and referendum story."
+   ]
+  },
+  {
+   "ballot_name": "Mark E. Costello",
+   "seat": "District 2",
+   "summary": "Incumbent, a retired educator first elected in 2022, running unopposed; listed as Nonpartisan {in_list}{wsbt_profiles}.",
+   "website": null,
+   "background": [
+    "Retired educator who worked as a teacher, administrator and principal in several districts over 51 years in education {abc57_costello_2022}."
+   ],
+   "path_to_ballot": [
+    "Listed as Nonpartisan on the state candidate list {in_list}.",
+    "Won the District 2 seat in 2022 with 48% of the vote in a four-candidate race {abc57_costello_2022}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "At the September 2026 board meeting he said 'This referendum is going to be very key for the success of the South Bend schools for the future' {wsbt_referendum}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member. He did not respond to WSBT's candidate questionnaire {wsbt_profiles}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or fundraising reports found."
+   ],
+   "gaps": [
+    "Did not answer WSBT's questionnaire; no statement of 2026 priorities found.",
+    "No record of his individual votes on major 2025-2026 decisions (Eid appointment, CFO contract) was found in coverage reviewed.",
+    "WSBT labeled him '(I)', while the state list shows Nonpartisan."
+   ]
+  },
+  {
+   "ballot_name": "John Andrew Paczesny",
+   "seat": "District 5",
+   "summary": "Retired health care employee and former SBCSC substitute teacher who has attended board meetings for over four years; the only candidate for the open District 5 seat; listed as Nonpartisan {in_list}{wsbt_q_paczesny}.",
+   "website": null,
+   "background": [
+    "Lifelong South Bend resident who lives in Clay Township; retired from Healthwin Health and Rehabilitation in 2021 {wsbt_q_paczesny}.",
+    "Worked as an SBCSC substitute teacher from 2021 to 2023 {wsbt_q_paczesny}.",
+    "Bachelor's degree in mathematics from St. Joseph's College in Rensselaer {wsbt_q_paczesny}.",
+    "Says he has attended board meetings regularly for over four years and spoken on spending and other concerns {wsbt_q_paczesny}."
+   ],
+   "path_to_ballot": [
+    "Listed as Nonpartisan on the state candidate list {in_list}.",
+    "Says he chose to run as an independent with no party affiliation {wsbt_q_paczesny}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Says the 2028 choice is between asking taxpayers for about $40 million or closing five buildings, cutting staff and programs and ending busing; he supports a referendum because the alternative 'would be catastrophic' {wsbt_q_paczesny}.",
+      "Wants all financial transactions, including the Title department's, to go through the CFO, and less spending on travel {wsbt_q_paczesny}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Wants to keep raising attendance toward the state's 95% target and to study Coquillard Elementary's IREAD gains as a model {wsbt_q_paczesny}.",
+      "Wants under-performing schools to receive the resources they need for reading proficiency {wsbt_q_paczesny}."
+     ]
+    },
+    {
+     "topic": "Enrollment & school choice",
+     "items": [
+      "Says over 5,000 students living in the district attend other public districts and the reasons need to be answered {wsbt_q_paczesny}."
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "On discipline disparities, says discipline should follow the student code of conduct based on the offense and its frequency, starting with a review of the data {wsbt_q_paczesny}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Supports elected boards and opposed outside special-interest involvement {wsbt_q_paczesny}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Says the board 'is not as transparent as it should be' and that some members have personal agendas {wsbt_q_paczesny}.",
+    "Credits Superintendent Eid with bringing administrative knowledge and says he would support Eid staying another year if Eid chose to {wsbt_q_paczesny}."
+   ],
+   "plans": [
+    "Calls hiring the next superintendent, with help from the Indiana School Boards Association, the main task ahead {wsbt_q_paczesny}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or fundraising reports found."
+   ],
+   "gaps": [
+    "No campaign website found.",
+    "No campaign finance totals found.",
+    "WSBT labeled him '(I)' and he says he ran as an independent, while the state list shows Nonpartisan."
+   ]
+  }
+ ],
+ "sources": {
+  "wsbt_profiles": [
+   "Operation Education: Learn more about the candidates on the ballot for South Bend Schools",
+   "WSBT 22",
+   "2026-09-28",
+   "https://wsbt.com/newsletter-daily/school-board-trustees-candidates-election-education-race-vote-ballot-south-bend-indiana-early-voting-community-students-financial-referendum-challenge-priority-learn-more-three-district-one"
+  ],
+  "wsbt_referendum": [
+   "Operation Education: How South Bend School Board candidates would vote on referendum",
+   "WSBT 22",
+   "2026-09-30",
+   "https://wsbt.com/newsletter-daily/november-ballot-school-board-election-candidate-contested-referendum-financial-cut-million-dollars-voters-senate-enrolled-act-property-tax-bill-meeting-south-bend"
+  ],
+  "wsbt_q_moody": [
+   "Meet the Candidates: Cheryl H Moody (candidate questionnaire)",
+   "WSBT 22",
+   "2026-09",
+   "https://wsbt.com/resources/pdf/ea15a161-134c-4f38-a700-523693f2ec1f-SchoolBoardCandidateProfileMoody1.pdf"
+  ],
+  "wsbt_q_mcclements": [
+   "Meet the Candidates: Emily McClements (candidate questionnaire)",
+   "WSBT 22",
+   "2026-09",
+   "https://wsbt.com/resources/pdf/3fde045a-b99d-4daf-9c2c-a43f9ffedc39-SchoolBoardCandidateProfileMcClements1.pdf"
+  ],
+  "wsbt_q_hawkins": [
+   "Meet the Candidates: Kevin Jerome Hawkins (candidate questionnaire)",
+   "WSBT 22",
+   "2026-09",
+   "https://wsbt.com/resources/pdf/bcab2c71-8c61-49e3-9ab9-17fa780c859e-SchoolBoardCandidateProfileHawkins1.pdf"
+  ],
+  "wsbt_q_paczesny": [
+   "Meet the Candidates: John Paczesny (candidate questionnaire)",
+   "WSBT 22",
+   "2026-09",
+   "https://wsbt.com/resources/pdf/42e28f4a-867c-40e8-8a28-b0a1b9d27df3-SchoolBoardCandidateProfilePaczesny1.pdf"
+  ],
+  "moody_site": [
+   "Cheryl Moody for School Board",
+   "Cheryl Moody campaign",
+   "2026",
+   "https://sites.google.com/view/cheryl-moody-for-school-board"
+  ],
+  "wndu_sb248": [
+   "Bill to replace South Bend school board will not be revived this year",
+   "WNDU",
+   "2026-02-03",
+   "https://www.wndu.com/2026/02/04/bill-replace-south-bend-school-board-will-not-be-revived-this-year/"
+  ],
+  "wvpe_sb248_hearing": [
+   "Rogers vows to change bill replacing South Bend elected board with state appointees",
+   "WVPE",
+   "2026-01-14",
+   "https://www.wvpe.org/wvpe-news/2026-01-14/rogers-vows-to-change-bill-replacing-south-bend-elected-board-with-state-appointees"
+  ],
+  "wvpe_audit": [
+   "South Bend schools say changes will prevent errors found in audit",
+   "WVPE",
+   "2026-03-20",
+   "https://www.wvpe.org/wvpe-news/2026-03-20/south-bend-schools-say-changes-will-prevent-errors-found-in-audit"
+  ],
+  "wvpe_eid": [
+   "Mansour Eid appointed as SBCSC interim superintendent",
+   "WVPE",
+   "2025-02-20",
+   "https://www.wvpe.org/wvpe-news/2025-02-20/mansour-eid-appointed-as-sbcsc-interim-superintendent"
+  ],
+  "wvpe_cfo": [
+   "South Bend School Board takes action to keep chief financial officer, board attorney",
+   "WVPE",
+   "2026-03-11",
+   "https://www.wvpe.org/wvpe-news/2026-03-11/south-bend-school-board-takes-action-to-keep-chief-financial-officer-board-attorney"
+  ],
+  "wvpe_strategic": [
+   "South Bend Community School Corporation starts working on new strategic plan",
+   "WVPE",
+   "2026-08-06",
+   "https://www.wvpe.org/wvpe-news/2026-08-06/south-bend-community-school-corporation-starts-working-on-new-strategic-plan"
+  ],
+  "abc57_costello_2022": [
+   "Costello wins District 2 seat on South Bend school board",
+   "ABC57",
+   "2022-11-08",
+   "https://abc57.com/news/south-bend-school-board-winners-mark-costello"
+  ]
+ }
+}

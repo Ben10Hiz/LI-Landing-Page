@@ -1,0 +1,169 @@
+{
+ "race_id": "in-school-board-marion-perry-township",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The Metropolitan School District of Perry Township serves about 16,000 students on the south side of Indianapolis in Marion County {cb_perry_guide}. English learners make up nearly one-third of students {cb_perry_guide}. The superintendent is Dr. Patrick Spray, who started July 1, 2023 {wrtv_spray} {uindy_innovation}.",
+  "The board has seven members, all elected at large to four-year terms; every voter in the district may vote for any candidate {cb_perry_guide} {cb_perry_2024}.",
+  "Three of the seven seats are on the Nov. 3, 2026 ballot, so voters choose up to three candidates; the state list shows \"vote for 1,\" which does not match the three open seats {cb_perry_guide} {in_list}.",
+  "The three seats now belong to Lee Shively, Chris Lewis and Hre Mang {cb_perry_2024}. Shively and Lewis are running for reelection, Mang is not running, and newcomer Brianna Bible is running {cb_perry_guide}.",
+  "Only three candidates filed for the three seats, so the race is effectively uncontested {cb_perry_guide} {wfyi_mc_guide}. In 2024, two candidates filed for four seats; a write-in candidate won one seat and one incumbent held over under state law {cb_perry_2024}.",
+  "Budget: voters approved a $154 million operating referendum in 2022 {cb_perry_guide}. Both incumbents named the 2025 state tax law (SEA 1) as a growing strain on school funding in their 2026 questionnaire answers {cb_perry_guide}.",
+  "Federal grant: in February 2025, the U.S. Department of Education ended Perry's Teacher and School Leader grant, putting about $3.5 million in limbo for the second and third years. The grant paid for performance bonuses for highly effective teachers and two literacy coach positions. The district appealed, and a spokesperson said in May 2025 that no positions had been cut {wfyi_tsl_grant}.",
+  "Career program: with a $40 million Lilly Endowment grant, Perry is building a $30 million innovation and entrepreneurship center on the University of Indianapolis campus for Southport and Perry Meridian high school students. The program began in temporary space in July 2026, and the building is expected to open for the 2028-29 school year {uindy_innovation} {cb_lilly}. The next board will oversee the construction {cb_perry_guide}.",
+  "Academics: Perry students' scores on IREAD, the state third-grade reading test, improved over the past two years, and the district has been recognized for its English-learner instruction, Chalkbeat reported {cb_perry_guide}.",
+  "Forums and differences: no candidate forum was found. All three candidates answered the Chalkbeat Indiana/Mirror Indy/WFYI questionnaire {cb_perry_guide}. Shively emphasized teacher pay and a K-12 entrepreneurship focus. Lewis emphasized spending on needs, teacher salaries and facilities. Bible emphasized student support services, literacy and career readiness, and community engagement {cb_perry_guide}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Brianna Bible",
+   "seat": "At Large",
+   "summary": "First-time candidate, a housing navigator and founder of a behavioral and mental health services organization, listed on the ballot as a Democrat; she is running for the seat now held by Hre Mang, who is not seeking reelection {cb_perry_guide} {in_list}.",
+   "website": "https://www.facebook.com/profile.php?id=61592467656733",
+   "background": [
+    "Works as a step-up housing navigator, finding housing for people leaving incarceration {cb_perry_guide}.",
+    "Founded Impact Her Behavioral and Mental Health Services, which supports girls and women with mental and physical health needs {cb_perry_guide}.",
+    "Perry parent and community member; age 42 {cb_perry_guide}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state candidate list as a Democrat {in_list}.",
+    "Running for an at-large seat; three candidates filed for three seats {cb_perry_guide}."
+   ],
+   "positions": [
+    {"topic": "Academics", "items": [
+     "Lists as a top priority strengthening student achievement through \"high-quality academics and individualized support\" {cb_perry_guide}.",
+     "Said the district should keep strengthening literacy and career readiness, and expand career exploration and workforce partnerships {cb_perry_guide}."
+    ]},
+    {"topic": "Budget & taxes", "items": [
+     "Said spending should put classroom instruction, student services and teacher support first, with careful review of spending decisions {cb_perry_guide}.",
+     "Said the district should actively pursue grants and partnerships to add resources \"without placing unnecessary financial burdens on taxpayers\" {cb_perry_guide}."
+    ]},
+    {"topic": "Teachers & staff", "items": [
+     "Supports continued investment in competitive pay, staff diversity, professional development, mentorship and wellness resources, and said educators should have a meaningful voice in district decisions {cb_perry_guide}."
+    ]},
+    {"topic": "Transparency & community input", "items": [
+     "Plans to hold listening sessions, attend school events and communicate regularly through social media and community meetings {cb_perry_guide}."
+    ]}
+   ],
+   "on_incumbent": [
+    "In her questionnaire, did not comment on specific decisions of the current board; she said Perry \"should continue\" strengthening literacy and career readiness {cb_perry_guide}."
+   ],
+   "plans": [
+    "Wants to expand access to mental health resources, counseling and community partnerships, and to build partnerships among schools, families, community groups and local government to address issues such as food and housing insecurity {cb_perry_guide}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance figures were found in reviewed sources {cb_perry_guide}."
+   ],
+   "gaps": [
+    "Her campaign Facebook page could not be reviewed; positions come only from the Chalkbeat/Mirror Indy/WFYI questionnaire.",
+    "Marion County Election Board campaign finance filings were not reviewed; fundraising is unknown.",
+    "No candidate forum or other news coverage of her campaign was found."
+   ]
+  },
+  {
+   "ballot_name": "Chris Lewis",
+   "seat": "At Large",
+   "summary": "Incumbent board member and analyst at the Indiana Utility Regulatory Commission, listed on the ballot as a Republican {cb_perry_guide} {in_list}.",
+   "website": "https://www.facebook.com/100086389843421/",
+   "background": [
+    "Analyst at the Indiana Utility Regulatory Commission {cb_perry_guide}.",
+    "Perry parent; age 49 {cb_perry_guide}.",
+    "Was one of seven candidates for three at-large seats in 2022; Chalkbeat could not reach him for that year's guide {cb_perry_2022}. He was listed as a board member in November 2024 {cb_perry_2024}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state candidate list as a Republican {in_list}.",
+    "Running for reelection to an at-large seat {cb_perry_guide}."
+   ],
+   "positions": [
+    {"topic": "Budget & taxes", "items": [
+     "Called school funding the district's most pressing near-term issue and said he would make sure available money is spent \"for the needs versus the wants\" the district requests {cb_perry_guide}.",
+     "Said that because of SEA 1 (2025), schools \"are going to have to do more with less,\" and money should go to items that help teachers and students succeed {cb_perry_guide}."
+    ]},
+    {"topic": "Academics", "items": [
+     "Named student achievement as a top priority and said he trusts district leaders, principals and teachers to use data to identify student needs {cb_perry_guide}."
+    ]},
+    {"topic": "Teachers & staff", "items": [
+     "Wants to work with administrators to give teachers the tools to educate the district's diverse students and to keep teacher salaries competitive {cb_perry_guide}."
+    ]},
+    {"topic": "Facilities", "items": [
+     "Named updating and maintaining facilities as a top priority {cb_perry_guide}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Is a current board member. In his questionnaire he described future funding pressure as the board's main challenge and expressed trust in district staff's use of data {cb_perry_guide}."
+   ],
+   "plans": [
+    "Plans to engage the community by attending community events and listening to residents' concerns and suggestions {cb_perry_guide}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance figures were found in reviewed sources {cb_perry_guide}."
+   ],
+   "gaps": [
+    "How and when he joined the board (2022 election or appointment) was not confirmed from a fetched source; a search-result snippet attributed to Ballotpedia, not verified, suggested he did not win in 2022.",
+    "His campaign Facebook page could not be reviewed; positions come only from the Chalkbeat/Mirror Indy/WFYI questionnaire.",
+    "No record of his board votes was reviewed.",
+    "Marion County Election Board campaign finance filings were not reviewed; fundraising is unknown."
+   ]
+  },
+  {
+   "ballot_name": "Lee Shively",
+   "seat": "At Large",
+   "summary": "Incumbent board member since 2019 and a Beech Grove schools teacher, listed on the ballot as an Independent {cb_perry_guide} {cb_perry_2022} {in_list}.",
+   "website": null,
+   "background": [
+    "Teacher at Beech Grove schools {cb_perry_guide}.",
+    "Graduated from Perry Meridian High School in 2002; his children attend Perry schools {cb_perry_2022} {cb_perry_guide}.",
+    "Has served on the board since 2019 and was board president in 2022 {cb_perry_2022}. Age 42 {cb_perry_guide}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state candidate list as an Independent {in_list}.",
+    "Running for reelection to an at-large seat {cb_perry_guide}. He was reelected in 2022 in a seven-candidate race for three seats {cb_perry_2022} {cb_perry_2024}."
+   ],
+   "positions": [
+    {"topic": "Budget & taxes", "items": [
+     "Said Perry has stayed fiscally responsible since he joined the board in fall 2019, but that SEA 1 has made school funding \"at best, complicated\" {cb_perry_guide}.",
+     "Said he has confidence in the staff who build and monitor the budget, and will keep attending Finance Committee meetings {cb_perry_guide}.",
+     "Lists fiscal responsibility that also respects \"the budgets of Perry Township taxpayers\" as a top priority {cb_perry_guide}."
+    ]},
+    {"topic": "Teachers & staff", "items": [
+     "Wants to keep pay competitive to attract and keep educators, and named this his top priority {cb_perry_guide}."
+    ]},
+    {"topic": "Academics", "items": [
+     "Wants to build out the new UIndy innovation and entrepreneurship program and extend innovation and entrepreneurship into a K-12 focus {cb_perry_guide}."
+    ]},
+    {"topic": "Transparency & community input", "items": [
+     "Encourages students, staff and residents to make public comment at board meetings: \"we can't help make change on issues or concerns we don't know about!\" {cb_perry_guide}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Is a current board member. He said the district has kept a fiscally responsible outlook during his tenure and expressed confidence in its budget staff {cb_perry_guide}."
+   ],
+   "plans": [
+    "Plans to attend Finance Committee meetings regularly to check whether competitive pay can be sustained {cb_perry_guide}.",
+    "Wants to see how innovation and entrepreneurship can be built into a K-12 focus {cb_perry_guide}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance figures were found in reviewed sources {cb_perry_guide}."
+   ],
+   "gaps": [
+    "No current campaign website was found; Chalkbeat linked a campaign website in 2022 that was not reviewed.",
+    "No record of his board votes was reviewed.",
+    "Marion County Election Board campaign finance filings were not reviewed; fundraising is unknown.",
+    "Ballotpedia's page (seen only as a search snippet, not verified) says his current term ends Dec. 31, 2026."
+   ]
+  }
+ ],
+ "sources": {
+  "cb_perry_guide": ["Perry Township school board voter guide 2026: Meet the 3 candidates", "Chalkbeat Indiana / Mirror Indy / WFYI", "2026-09-11", "https://www.chalkbeat.org/indiana/2026/09/10/perry-township-school-board-voter-guide-2026/"],
+  "cb_perry_2024": ["2024 election: A new face joins the Perry Township school board", "Chalkbeat Indiana", "2024-11-12", "https://chalkbeat.org/indiana/2024/11/12/perry-school-board-election-update"],
+  "cb_perry_2022": ["Meet the seven candidates running for Perry school board", "Chalkbeat Indiana", "2022-10-03", "https://www.chalkbeat.org/indiana/2022/10/3/23380320/perry-school-board-candidates-2022-election-voters/"],
+  "wfyi_tsl_grant": ["Over $3 million in federal funding for Perry teachers' bonus pay in jeopardy after grant terminated", "WFYI / Chalkbeat Indiana", "2025-05-08", "https://www.wfyi.org/education/2025-05-08/over-3-million-in-federal-funding-for-perry-teachers-bonus-pay-in-jeopardy-after-grant-terminated"],
+  "wfyi_mc_guide": ["Your guide to 2026 school board elections in Marion County", "WFYI / Chalkbeat Indiana", "2026-09-11", "https://www.wfyi.org/education/2026-09-11/voter-guides-for-2026-school-board-elections-in-marion-county"],
+  "uindy_innovation": ["UIndy partners with Perry Township Schools to build $30M Innovation and Entrepreneurship Program, Indiana's first on a university campus", "University of Indianapolis", "2026-07-28", "https://news.uindy.edu/2026/07/28/uindy-partners-with-perry-township-schools-to-build-30m-innovation-and-entrepreneurship-program-indianas-first-on-a-university-campus/"],
+  "cb_lilly": ["The Lilly Endowment is pouring millions into Indy school buildings. What does that mean for students?", "Chalkbeat Indiana", "2026-10-02", "https://www.chalkbeat.org/indiana/2026/10/02/lilly-endowment-grant-funds-indianapolis-schools-building-boom/"],
+  "wrtv_spray": ["Perry Township goes back to school, welcomes new superintendent this school year", "WRTV", "2023-07-26", "https://www.wrtv.com/news/local-news/perry-township-goes-back-to-school-welcomes-new-superintendent-this-school-year"]
+ }
+}

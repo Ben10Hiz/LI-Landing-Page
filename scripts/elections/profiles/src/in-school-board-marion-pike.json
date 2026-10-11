@@ -1,0 +1,267 @@
+{
+ "race_id": "in-school-board-marion-pike",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The Metropolitan School District of Pike Township serves northwest Marion County and enrolls about 10,640 students; about 60% are Black, 27% are Hispanic and 47% qualify for free or reduced-price lunch {cb_guide}. The superintendent is Larry Young, chosen in June 2022 after the departure of Superintendent Flora Reichanadter {wfyi_letter}.",
+  "The board has seven members, all elected at large to represent the whole district {cb_2024}. The district's board page lists Terry Webster Sr. (president), Alonzo Anderson (vice president) and Wayne Moore with terms ending Dec. 31, 2026, and Angela Barnes, Steve Hoofer, Nichole Kelley and Toni Wilson with terms ending Dec. 31, 2028 {pike_board}.",
+  "Three at-large seats are on the Nov. 3, 2026 ballot, and all district voters may vote for up to three of the four candidates; winners serve four-year terms through December 2030 {cb_guide}. The state candidate list shows this race as \"vote for 1\" {in_list}, which does not match the three seats reported by Chalkbeat/WFYI and the board's term dates {cb_guide} {pike_board}.",
+  "Incumbents Webster, Anderson and Moore are all seeking new terms; Sherie Latoya Scott is the only challenger {cb_guide}. All four filed as Democrats, the first year Indiana school board candidates could declare a party {cb_guide}.",
+  "Referendum and charter sharing: in May 2024 voters approved an eight-year operating levy of about $14.5 million a year, with 59% of the vote, mostly to raise teacher pay and add academic support {cb_2024}. Pike is one of the first districts in the state to share referendum revenue with charter schools that enroll students living in the district {cb_guide}.",
+  "Co-athletic director hiring (2026): after the board rejected an administration proposal on March 26 to replace the co-director structure with an assistant athletic director, a recommended co-director candidate withdrew citing online backlash, and parents at a July 8 town hall said the process lacked transparency {wfyi_ad}. In written answers, the board said the administration had given it inaccurate information about a candidate and that it acted under its legal authority to hire; it said it is preparing policies for board involvement in hiring directors and cabinet-level positions {pike_townhall}.",
+  "Board president Webster's home mailbox was vandalized around July 9, a day after the town hall; a board statement said threats or intimidation against board members are illegal, and police said the case remained open {wfyi_ad}.",
+  "District climate letter (Sept. 9, 2026): the board published a letter saying a confidential survey it commissioned found 93% of respondents described the prevailing leadership style as \"autocratic/dictatorial/authoritarian\" and 50% did not feel valued and respected, and that staff had complained of bullying and retaliation by senior leadership {pike_letter}. WFYI noted the letter does not identify the leaders or say how many people were surveyed; Superintendent Young had not publicly responded, and at the Sept. 10 meeting Webster said Young remains the active superintendent {wfyi_letter} {wfyi_parents}. Some residents at that meeting called the letter misleading and asked for survey details {wfyi_parents}.",
+  "No candidate forum for this race was found in reviewed coverage. In the Chalkbeat/WFYI survey, the three incumbents differed in emphasis: Anderson on fiscal oversight, career pathways and earlier public communication; Moore on reviewing the hiring process and reporting proficiency rates; Webster on school safety and yearly measurable goals in math and reading {cb_guide}. Scott did not respond to the survey {cb_guide}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Alonzo Anderson",
+   "seat": "At Large",
+   "summary": "Incumbent and board vice president; a firefighter and former banker whose term ends Dec. 31, 2026 {cb_guide} {pike_board}.",
+   "website": null,
+   "background": [
+    "Firefighter with the Monroe Township Fire Department, according to the district's board page {pike_board}.",
+    "Spent 15 years as a financial banker and studied at Vincennes University {cb_guide}.",
+    "His daughter graduated from Pike High School in 2026 {cb_guide}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state candidate list as a Democrat {in_list}.",
+    "Filed as a Democrat and is seeking another term {cb_guide}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Lists maintaining fiscal responsibility as a top priority, including \"responsible budgeting, financial oversight, and long-term fiscal sustainability\" {cb_guide}.",
+      "Says changes in state education and fiscal law should be implemented \"without compromising Pike's high-quality educational experience\" {cb_guide}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Supports expanding pathways in skilled trades, technical careers, teaching and entrepreneurship, saying college is \"not the only pathway\" {cb_guide}.",
+      "Wants the district to explore strengthening financial literacy instruction {cb_guide}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Proposes town hall meetings, legislative-session podcasts on the district website and other updates so residents understand how state changes affect the schools {cb_guide}.",
+      "Says \"Transparency should not come after a decision is made — it should be part of the process from the beginning\" {cb_guide}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member.",
+    "On the co-athletic director hiring, said he understood community frustration, that human-resources confidentiality rules limited what the board could share, and that the experience was an opportunity to develop \"a more streamlined and equitable hiring process\" {cb_guide}.",
+    "Says the district has \"a strong public history of responsible financial stewardship\" {cb_guide}."
+   ],
+   "plans": [
+    "Expand community engagement through more opportunities for families, staff and students to give feedback on district decisions {cb_guide}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports found in reviewed sources; he told Chalkbeat/WFYI his social media campaign would begin in September {cb_guide}."
+   ],
+   "gaps": [
+    "No campaign website or social media page reviewed.",
+    "No campaign finance filings reviewed.",
+    "Signed on to the board's Sept. 9 letter as a board member; no individual comment from him on it was found."
+   ]
+  },
+  {
+   "ballot_name": "Sherie Latoya Scott",
+   "seat": "At Large",
+   "summary": "Challenger; a longtime educator who has worked in Pike Township schools and at the Indiana Charter School Board {cb_guide}.",
+   "website": null,
+   "background": [
+    "Longtime educator who held positions in Pike Township and at the Indiana Charter School Board and was a founding principal at Global Prep Academy, according to Chalkbeat/WFYI's summary of her LinkedIn profile {cb_guide}.",
+    "WFYI reported she was director of schools for the Indiana Charter School Board {wfyi_scott}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state candidate list as a Democrat {in_list}.",
+    "Filed as a Democrat; she is the only non-incumbent in the race {cb_guide}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements about the current board's decisions found in reviewed sources; she did not respond to multiple requests to complete the Chalkbeat/WFYI candidate survey {cb_guide}."
+   ],
+   "plans": [
+    "No stated plans found in reviewed sources {cb_guide}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports found in reviewed sources {cb_guide}."
+   ],
+   "gaps": [
+    "Did not answer the Chalkbeat/WFYI survey; no policy positions found.",
+    "Chalkbeat/WFYI reference a campaign Facebook page; it was not reviewed.",
+    "No campaign finance filings reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Terry A. Webster, Sr.",
+   "seat": "At Large",
+   "summary": "Incumbent and board president; his term ends Dec. 31, 2026 {cb_guide} {pike_board}.",
+   "website": null,
+   "background": [
+    "Pike school board president, age 65 {cb_guide}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state candidate list as a Democrat {in_list}.",
+    "Filed as a Democrat and is seeking another term {cb_guide}."
+   ],
+   "positions": [
+    {
+     "topic": "School safety",
+     "items": [
+      "Lists school safety among his top three priorities {cb_guide}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Says the most pressing issue is raising students with low test scores to college readiness by graduation, and proposes district goals with yearly measurable outcomes {cb_guide}.",
+      "Names math and reading as focus areas {cb_guide}.",
+      "Lists student retention as a priority {cb_guide}."
+     ]
+    },
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Says finances should continue to be monitored by the board and administration and that, with state budget cuts, the district must be \"prudent and prepared for the unknown\" {cb_guide}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member and the board's president.",
+    "At the July 8 town hall he said board members wanted more say in reviewing finalists for the co-athletic director job; he read aloud the withdrawn candidate's letter citing online backlash {wfyi_ad}.",
+    "After the Sept. 10 meeting he directed questions about the climate letter back to the letter and said Superintendent Young remains the active superintendent {wfyi_parents}.",
+    "Asked how the board should handle high-interest hires, he answered: \"Continue to explore the best options available or introduce new options\" {cb_guide}."
+   ],
+   "plans": [
+    "Set district goals that show yearly measurable improvement {cb_guide}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports found in reviewed sources; he said he does not have a campaign website {cb_guide}."
+   ],
+   "gaps": [
+    "Reviewed sources list his occupation and schooling; these are omitted under this guide's rule against listing religious roles.",
+    "No campaign finance filings reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Wayne L. Moore",
+   "seat": "At Large",
+   "summary": "Incumbent board member whose term ends Dec. 31, 2026 {cb_guide} {pike_board}.",
+   "website": null,
+   "background": [
+    "Current board member, age 64 {cb_guide}.",
+    "Holds bachelor's and master's degrees, according to Chalkbeat/WFYI {cb_guide}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state candidate list as a Democrat {in_list}.",
+    "Filed as a Democrat and is seeking another term; news coverage lists him as Wayne Moore {cb_guide}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Names fiscal responsibility as the most pressing issue {cb_guide}.",
+      "Would hold the superintendent and staff accountable for finances and communicate them to voters \"as often as possible\" {cb_guide}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Wants a focus on English, math and reading and wants the community to have \"a greater understanding of the proficiency of our students, not just graduation rates\" {cb_guide}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Lists continued support for teachers, staff and support systems among his priorities {cb_guide}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Says the hiring process \"needs to be reevaluated\" and that he would make human resources more transparent about how hiring works {cb_guide}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member.",
+    "Says many community members are not familiar with Pike's hiring process and that the community is not aware human resources does not control it, which he called problematic {cb_guide}."
+   ],
+   "plans": [
+    "Make the human-resources hiring process more transparent to the community {cb_guide}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports found in reviewed sources {cb_guide}."
+   ],
+   "gaps": [
+    "Reviewed sources list his occupation and schooling; these are omitted under this guide's rule against listing religious roles.",
+    "Chalkbeat/WFYI reference a Facebook page; it was not reviewed.",
+    "No campaign finance filings reviewed."
+   ]
+  }
+ ],
+ "sources": {
+  "cb_guide": [
+   "Voter guide 2026: 4 candidates are running for 3 seats on Pike Township school board",
+   "Chalkbeat Indiana / WFYI / Mirror Indy",
+   "2026-09-11",
+   "https://www.chalkbeat.org/indiana/2026/09/11/msd-pike-township-school-board-voter-guide-2026/"
+  ],
+  "cb_2024": [
+   "Pike Township school board election: Who's running and how to vote",
+   "Chalkbeat Indiana / WFYI / Mirror Indy",
+   "2024-10-01",
+   "https://www.chalkbeat.org/indiana/2024/10/01/pike-township-school-board-2024-election-voter-guide/"
+  ],
+  "pike_board": [
+   "Board of Education",
+   "MSD of Pike Township",
+   "2026-10",
+   "https://www.pike.k12.in.us/board-of-education-section"
+  ],
+  "pike_letter": [
+   "Re: A Letter to the MSD of Pike Township Community from the Board of Education",
+   "MSD of Pike Township",
+   "2026-09-09",
+   "https://www.pike.k12.in.us/re-a-letter-to-the-msd-of-pike-town"
+  ],
+  "pike_townhall": [
+   "MSD of Pike Township's School Board responses to questions from the Board's July 8, 2026 Town Hall Meeting",
+   "MSD of Pike Township",
+   "2026-07",
+   "https://www.pike.k12.in.us/432357_2"
+  ],
+  "wfyi_ad": [
+   "What to know about the Pike Township athletic director dispute and a board member's vandalized mailbox",
+   "WFYI",
+   "2026-07-21",
+   "https://www.wfyi.org/education/2026-07-21/what-to-know-about-the-pike-township-athletic-director-dispute-and-a-board-members-vandalized-mailbox"
+  ],
+  "wfyi_letter": [
+   "Pike Township school board says district leadership fostered fear, but won't say who",
+   "WFYI",
+   "2026-09-09",
+   "https://www.wfyi.org/education/2026-09-09/pike-township-school-board-says-district-leadership-fostered-fear-but-wont-say-who"
+  ],
+  "wfyi_parents": [
+   "'Are my kids safe?' Parents question Pike Township school board after it alleges a culture of fear",
+   "WFYI",
+   "2026-09-10",
+   "https://www.wfyi.org/education/2026-09-10/msd-pike-township-parents-demand-answers-school-board-culture-letter"
+  ],
+  "wfyi_scott": [
+   "Pike Township school board candidate arrested, faces felony charge",
+   "WFYI",
+   "2026-10-08",
+   "https://www.wfyi.org/education/2026-10-08/pike-township-school-board-candidate-arrested-faces-felony-charge"
+  ]
+ }
+}

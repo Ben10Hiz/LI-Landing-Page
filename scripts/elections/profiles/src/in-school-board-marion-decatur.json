@@ -1,0 +1,355 @@
+{
+  "race_id": "in-school-board-marion-decatur",
+  "reviewed": "2026-10-10",
+  "status": "draft",
+  "status_note": "Pending editorial review.",
+  "office": "@in_school_board",
+  "incumbent": null,
+  "race_context": [
+    "The Metropolitan School District (MSD) of Decatur Township serves Decatur Township on the southwest side of Marion County (Indianapolis) and enrolled roughly 6,500 students last year {cb_dec_guide} {cb_dec_times}. Chalkbeat reported in 2024 that nearly 72% of students come from low-income households {cb_dec_2024}. The superintendent is Scott Collins, who started in July 2024 after leading Fayette County Schools {cb_dec_2024} {cb_dec_times}.",
+    "The board has five members, all elected at large by voters throughout the district {cb_dec_guide} {cb_dec_2024}.",
+    "Seat count: three at-large seats are on the Nov. 3, 2026 ballot, and the top three vote-getters win; new members serve through 2030 {cb_dec_guide} {wfyi_results_2022}. The state candidate list shows this race as \"vote for 1\"; reporting indicates voters choose three {in_list} {cb_dec_guide}.",
+    "Incumbents: the three seats are held by Judith Collins, Dale Henson and Chase Lyday, all Republicans seeking reelection; Chalkbeat reported that Collins and Henson have each served about two decades and Lyday since 2023 {cb_dec_guide}. The other two members, Larry Taylor and Estella Vandeventer, were reelected unopposed in 2024 to terms through 2028 {cb_dec_2024}. A Mirror Indy Documenters agency page lists Henson as board president, Lyday as vice president and Collins as secretary {documenters}.",
+    "Field: eight candidates, the second-largest field in Marion County: four with no party, three Republicans and one independent {cb_dec_guide} {cb_overview}. School board races are not part of straight-ticket voting {cb_overview}.",
+    "Budget and property taxes: district leaders anticipated $3 million less in property taxes in 2026 because of the state's 2025 property tax changes {cb_dec_times}. In June 2026 the district announced new school start and end times, moving from six bell schedules to three to cut bus routes and save on a roughly $6.7 million transportation budget; more than 70% of students ride the bus daily {cb_dec_times}.",
+    "Referendum: the board placed an operating referendum on the Nov. 3, 2026 ballot that would repeal the levy voters approved in 2019 and replace it with a new eight-year levy of up to $0.2690 per $100 of assessed value (maximum $9 million a year) for student transportation, utilities, school safety and security, building maintenance and support services. The state-approved ballot language says the tax bill on a median $250,000 home would increase by $306 a year if approved {dlgf_dec}. The current rate is roughly 29 cents {cb_dec_times}; Chalkbeat described the measure as replacing the existing rate with a lower one, while still a tax increase from the base amount through 2034 {cb_dec_guide}. Superintendent Collins said without referendum funds the district would have to consider busing changes such as walk zones and cutting after-school buses {cb_dec_times}.",
+    "State law passed in 2026 requires public school districts to share more property tax revenue with charter schools, which Chalkbeat reported could make referendums harder to pass {cb_takeaways}.",
+    "Forums: no 2026 candidate forum for this district was found. The Chalkbeat Indiana / Mirror Indy / WFYI survey published Sept. 11, 2026 is the main source of candidate positions; Teresa A. Burns, Judith Collins, Steve Jacobi and Kristyn D. Stoddard did not respond to it {cb_dec_guide}.",
+    "Points of difference among survey respondents: Berryman, Henson and Lyday said they support the referendum, while Johnson said it deserves careful consideration rather than a yes-or-no answer; Berryman raised concerns about the new school start times, while Henson and Lyday cited the change as a cost saving; Berryman named academic underperformance relative to neighboring districts as the top issue, while Henson and Lyday emphasized literacy and funding pressures {cb_dec_guide}."
+  ],
+  "candidates": [
+    {
+      "ballot_name": "Chase Lyday",
+      "seat": "At Large",
+      "summary": "Incumbent board member since 2023, running as a Republican; former police chief for Avon Community Schools {cb_dec_guide}.",
+      "website": null,
+      "background": [
+        "Age 39; graduated from Decatur Central High School and attended Ivy Tech Community College; has no children in the district {cb_dec_guide}.",
+        "Previously served as police chief for Avon Community Schools {cb_dec_guide}."
+      ],
+      "path_to_ballot": [
+        "Listed on the state candidate list as a Republican {in_list} {cb_dec_guide}.",
+        "Won his seat in 2022 as \"Steven Chase Lyday\" by a single vote, 2,540 to 2,539, over Jimmy Ray for the third at-large seat; no recount was requested {wfyi_results_2022}."
+      ],
+      "positions": [
+        {
+          "topic": "Budget & taxes",
+          "items": [
+            "Supports the referendum, saying it is needed to continue services such as mental health support, school resource officers and child nutrition workers {cb_dec_guide}.",
+            "Listed solidifying fiscal plans in light of the deficit created by tax code changes as a priority, and wants data to drive spending decisions and more outside grants and local partnerships {cb_dec_guide}."
+          ]
+        },
+        {
+          "topic": "School safety",
+          "items": [
+            "Lists continuing a comprehensive approach to school safety as a top priority {cb_dec_guide}."
+          ]
+        },
+        {
+          "topic": "Academics",
+          "items": [
+            "Wants substantial resources focused on early elementary students reading at grade level and passing IREAD, and literacy resources for older students {cb_dec_guide}."
+          ]
+        },
+        {
+          "topic": "Teachers & staff",
+          "items": [
+            "Called taking care of teachers and funding literacy specialists, mental health counselors, school resource officers and coaches the most pressing issue {cb_dec_guide}."
+          ]
+        },
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "Said he meets community members for coffee and lunch, takes calls at all hours, and routes concerns to administrators and follows up {cb_dec_guide}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Is a current board member. Said the district has done \"an excellent job\" saving money and executing an efficient spending plan {cb_dec_guide}."
+      ],
+      "plans": [
+        "Pass the referendum, continue the safety program, raise early literacy scores and pursue grants and partnerships {cb_dec_guide}."
+      ],
+      "endorsements_finance": [],
+      "gaps": [
+        "No endorsements or campaign finance reports were found; fundraising is unknown.",
+        "No campaign website was found.",
+        "No record of his individual board votes was reviewed. The board officer roles listed on the Documenters page are undated."
+      ]
+    },
+    {
+      "ballot_name": "Dale Henson",
+      "seat": "At Large",
+      "summary": "Incumbent board member for about two decades, running as a Republican; retired Decatur Township fire chief {cb_dec_guide}.",
+      "website": null,
+      "background": [
+        "Age 69; graduate of Decatur Central High School and the National Fire Academy; does not have children in district schools {cb_dec_guide}.",
+        "Retired as Decatur Township's fire chief in 2014 after 35 years, and was executive director of the Indiana Fire Chiefs Association {cb_dec_guide}."
+      ],
+      "path_to_ballot": [
+        "Listed on the state candidate list as a Republican {in_list} {cb_dec_guide}.",
+        "Reelected in 2022 with 2,899 votes, second among four candidates for three seats {wfyi_results_2022}."
+      ],
+      "positions": [
+        {
+          "topic": "Budget & taxes",
+          "items": [
+            "Supports the referendum, citing legislative changes to school funding and a $3 million reduction in 2026 {cb_dec_guide}.",
+            "Said the new start times will cut fuel costs, and that Decatur was the only Marion County school corporation to reduce its total 2026 budget, by half a million dollars {cb_dec_guide}."
+          ]
+        },
+        {
+          "topic": "Academics",
+          "items": [
+            "Goals: keep the graduation rate at 95% or higher (he cited 97.48% in 2025), meet the state average on IREAD-3 with a goal of 95%, and raise ILEARN language arts and math scores by 3% {cb_dec_guide}.",
+            "Called reading the district's top academic focus {cb_dec_guide}."
+          ]
+        },
+        {
+          "topic": "School safety",
+          "items": [
+            "Listed being safety-conscious for students and staff among the most pressing issues {cb_dec_guide}."
+          ]
+        },
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "Said he has always been open to listening to community members and attends many district events besides monthly meetings {cb_dec_guide}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Is a current board member. Cites the 2025 graduation rate, the 2026 budget reduction and the start-time change as evidence of the board's fiscal responsibility {cb_dec_guide}."
+      ],
+      "plans": [
+        "Meet stated graduation, IREAD and ILEARN targets and pass the referendum {cb_dec_guide}."
+      ],
+      "endorsements_finance": [],
+      "gaps": [
+        "No endorsements or campaign finance reports were found; fundraising is unknown.",
+        "No campaign website was found.",
+        "A Ballotpedia page for \"Dale Henson\" appeared in search results but was not reviewed."
+      ]
+    },
+    {
+      "ballot_name": "Judith Collins",
+      "seat": "At Large",
+      "summary": "Incumbent board member for about two decades, running as a Republican; did not respond to the Chalkbeat survey {cb_dec_guide}.",
+      "website": null,
+      "background": [
+        "Chalkbeat reported she has served on the board for two decades {cb_dec_guide}. A Mirror Indy Documenters page lists her as board secretary {documenters}."
+      ],
+      "path_to_ballot": [
+        "Listed on the state candidate list as a Republican {in_list} {cb_dec_guide}.",
+        "Received the most votes in the 2022 at-large race, 2,991 {wfyi_results_2022}."
+      ],
+      "positions": [],
+      "on_incumbent": [
+        "Is a current board member. No statement of her account of the board's record was found {cb_dec_guide}."
+      ],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "Did not respond to multiple requests to complete the Chalkbeat/Mirror Indy/WFYI survey; no stated 2026 positions were found, including on the referendum.",
+        "No occupation or other background was found.",
+        "No campaign website, endorsements or campaign finance reports were found.",
+        "No record of her individual board votes was reviewed."
+      ]
+    },
+    {
+      "ballot_name": "Kristyn D. Stoddard",
+      "seat": "At Large",
+      "summary": "Candidate running as an independent; did not respond to the Chalkbeat survey {cb_dec_guide}.",
+      "website": null,
+      "background": [],
+      "path_to_ballot": [
+        "Listed on the state candidate list as Independent {in_list} {cb_dec_guide}."
+      ],
+      "positions": [],
+      "on_incumbent": [],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "Did not respond to multiple requests to complete the Chalkbeat/Mirror Indy/WFYI survey.",
+        "No background, positions, website, endorsements or campaign finance information was found in reviewed sources.",
+        "Whether she has run for office before was not determined."
+      ]
+    },
+    {
+      "ballot_name": "Patrice Johnson",
+      "seat": "At Large",
+      "summary": "Community service provider and district parent running with no party affiliation {cb_dec_guide}.",
+      "website": "https://www.facebook.com/share/14mBdMZvVhp/",
+      "background": [
+        "Age 36; holds a bachelor of science in public health education and works as a community service provider {cb_dec_guide}.",
+        "Her daughter graduated from Decatur Central High School; her son attends school online {cb_dec_guide}."
+      ],
+      "path_to_ballot": [
+        "Listed on the state candidate list as Nonpartisan {in_list} {cb_dec_guide}."
+      ],
+      "positions": [
+        {
+          "topic": "Budget & taxes",
+          "items": [
+            "Said the referendum \"deserves thoughtful consideration rather than a simple yes or no answer,\" and that taxpayers should know why more money is requested, how it would be spent, what accountability would apply and what alternatives were explored {cb_dec_guide}.",
+            "Proposed reviewing operating expenses, contracts and vendor agreements, pursuing grants and partnerships, and aligning programs with measurable outcomes before asking taxpayers for more {cb_dec_guide}."
+          ]
+        },
+        {
+          "topic": "Academics",
+          "items": [
+            "Wants to strengthen reading and math, use achievement data to identify struggling students, and support advanced coursework {cb_dec_guide}."
+          ]
+        },
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "Lists transparency as a top priority; said the district must rebuild trust and explain why decisions are made, and plans regular communication through events and social media {cb_dec_guide}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Called rebuilding trust while balancing financial pressures one of the district's biggest challenges, saying families want to know why decisions are made {cb_dec_guide}."
+      ],
+      "plans": [
+        "Review spending and contracts, hold the district accountable for measurable results, and communicate regularly with families {cb_dec_guide}."
+      ],
+      "endorsements_finance": [],
+      "gaps": [
+        "No endorsements or campaign finance reports were found; fundraising is unknown.",
+        "No coverage beyond the Chalkbeat/Mirror Indy/WFYI survey was found; her campaign Facebook page could not be reviewed."
+      ]
+    },
+    {
+      "ballot_name": "Randi Berryman",
+      "seat": "At Large",
+      "summary": "Scientist running with no party affiliation, focused on academic performance and budget review {cb_dec_guide}.",
+      "website": null,
+      "background": [
+        "Age 42; holds a bachelor of science degree and works as a scientist {cb_dec_guide}.",
+        "Has a child who does not attend a district school {cb_dec_guide}."
+      ],
+      "path_to_ballot": [
+        "Listed on the state candidate list as Nonpartisan {in_list} {cb_dec_guide}."
+      ],
+      "positions": [
+        {
+          "topic": "Academics",
+          "items": [
+            "Called underperformance the district's most pressing issue, saying Decatur is falling behind neighboring districts; wants to focus on math, science and language arts and review curriculum against top-performing districts {cb_dec_guide}."
+          ]
+        },
+        {
+          "topic": "Budget & taxes",
+          "items": [
+            "Supports the referendum, but said funding must be paired with a clear plan for how dollars improve student outcomes and teacher salaries {cb_dec_guide}.",
+            "Would conduct a budget review across departments, compare spending with other districts, and scrutinize administrative overhead and vendor contracts {cb_dec_guide}."
+          ]
+        },
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "Plans regular listening sessions, input channels for parents, teachers, staff and students, and public reporting back {cb_dec_guide}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Expressed \"serious concerns\" about the district's new school start times, citing research on age-appropriate schedules and student health {cb_dec_guide}."
+      ],
+      "plans": [
+        "Budget analysis and reallocation toward classrooms, curriculum review, and data-driven decision-making {cb_dec_guide}."
+      ],
+      "endorsements_finance": [],
+      "gaps": [
+        "No endorsements or campaign finance reports were found; fundraising is unknown.",
+        "No campaign website or coverage beyond the Chalkbeat/Mirror Indy/WFYI survey was found."
+      ]
+    },
+    {
+      "ballot_name": "Steve Jacobi",
+      "seat": "At Large",
+      "summary": "Candidate running with no party affiliation; did not respond to the Chalkbeat survey {cb_dec_guide}.",
+      "website": null,
+      "background": [],
+      "path_to_ballot": [
+        "Listed on the state candidate list as Nonpartisan {in_list} {cb_dec_guide}."
+      ],
+      "positions": [],
+      "on_incumbent": [],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "Did not respond to multiple requests to complete the Chalkbeat/Mirror Indy/WFYI survey.",
+        "No background, positions, website, endorsements or campaign finance information was found in reviewed sources."
+      ]
+    },
+    {
+      "ballot_name": "Teresa A. Burns",
+      "seat": "At Large",
+      "summary": "Candidate running with no party affiliation; did not respond to the Chalkbeat survey {cb_dec_guide}.",
+      "website": null,
+      "background": [],
+      "path_to_ballot": [
+        "Listed on the state candidate list as Nonpartisan {in_list} {cb_dec_guide}."
+      ],
+      "positions": [],
+      "on_incumbent": [],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "Did not respond to multiple requests to complete the Chalkbeat/Mirror Indy/WFYI survey.",
+        "No background, positions, website, endorsements or campaign finance information was found in reviewed sources."
+      ]
+    }
+  ],
+  "sources": {
+    "cb_dec_guide": [
+      "Metropolitan School District of Decatur Township: School board election voter guide",
+      "Chalkbeat Indiana / Mirror Indy / WFYI",
+      "2026-09-11",
+      "https://www.chalkbeat.org/indiana/2026/09/11/msd-decatur-township-indianapolis-board-election-voter-guide-2026/"
+    ],
+    "cb_dec_times": [
+      "Why this Indianapolis-area district is changing the start and end times for school days",
+      "Chalkbeat Indiana",
+      "2026-06-15",
+      "https://www.chalkbeat.org/indiana/2026/06/15/decatur-township-changes-start-and-end-times/"
+    ],
+    "cb_dec_2024": [
+      "Decatur Township school board election: Who's running and how to vote",
+      "Chalkbeat Indiana",
+      "2024-10-01",
+      "https://www.chalkbeat.org/indiana/2024/10/01/decatur-township-school-board-2024-election-voter-guide"
+    ],
+    "cb_overview": [
+      "Voter guide: 2026 school board elections across Indianapolis",
+      "Chalkbeat Indiana",
+      "2026-09-11",
+      "https://www.chalkbeat.org/indiana/2026/09/11/voter-guides-for-2026-school-board-elections-in-marion-county/"
+    ],
+    "cb_takeaways": [
+      "5 takeaways from Chalkbeat's panel on Indiana's changes to school board elections and referendums",
+      "Chalkbeat Indiana",
+      "2026-07-10",
+      "https://www.chalkbeat.org/indiana/2026/07/10/indiana-school-board-elections-partisan-referendums-takeaways/"
+    ],
+    "dlgf_dec": [
+      "Findings and Final Determination on Proposed Question, No. 26-039-REF (MSD of Decatur Township)",
+      "Indiana Department of Local Government Finance",
+      "2026-07-07",
+      "https://www.in.gov/dlgf/files/referendum-documentation2/2026-november-referendum-documents/26-039-Metropolitan-School-District-of-Decatur-Township-Operating-Determination.pdf"
+    ],
+    "wfyi_results_2022": [
+      "Marion County school board election winners 2022",
+      "WFYI",
+      "2022-11-23",
+      "https://www.wfyi.org/news/articles/marion-county-school-board-election-winners-2022"
+    ],
+    "documenters": [
+      "Decatur Township School Board (agency page)",
+      "Documenters Network / Mirror Indy",
+      "2026-10",
+      "https://www.documenters.org/agencies/decatur-township-school-board-989"
+    ]
+  }
+}
