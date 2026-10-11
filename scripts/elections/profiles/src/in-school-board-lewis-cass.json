@@ -1,0 +1,230 @@
+{
+ "race_id": "in-school-board-lewis-cass",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The office is the board of Lewis Cass Schools, based in Walton in southeastern Cass County (100 S. Main St., Walton) {lc_trustees}{lc_supt}. State records list the corporation as Southeastern School Corp. through 2017 and as Lewis Cass Schools since 2018 {idoe_enroll}. State enrollment counts were 1,293 students in 2023-24, 1,283 in 2024-25 and 1,279 in 2025-26 {idoe_enroll}.",
+  "Superintendent: Tim Shoaff, a 1997 Lewis Cass graduate who spent the previous 13 years at Northwestern High School in Kokomo as assistant principal and then principal, started in July 2026. He is the fourth superintendent since 2024: Tim Garland resigned in April 2024 after nearly 10 years, Steve Darnell served as interim through 2024, and Chris Daughtry led the district for about 18 months before leaving for Wabash City Schools {pt_shoaff_hired}. Shoaff said his priorities include better communication with parents, including around the new state ban on student cell phones in schools {pt_shoaff_profile}.",
+  "Board: the district website lists five board members: Tim Johnson (president), Becky Comoglio (vice president), Ryan Zeck (secretary), Rick Lee and Kristi Hull {lc_trustees}. Members have been elected to five numbered districts, one member each, with every district race on the ballot in every Lewis Cass precinct and a residency requirement tied to township {lc_vacancy_2022}{cass_2022}{cass_2024}. In 2022 Kristi Hull won District 3 (635 votes to 601 for Robert S. McLaughlin, 560 for Brian Thomas and 393 for Jeffrey A. Packard) and Ryan Zeck was unopposed in District 4; in 2024 Becky Comoglio was unopposed in District 1 and Tim Johnson beat Rick Lee in District 5, 1,680 to 1,523 {cass_2022}{cass_2024}.",
+  "Seats on the 2026 ballot: two seats, each 'vote for one,' matching the state list: 'Lewis Cass School Board District 2 At Large' (Mark W Chambers and Lucas R. Shideler) and 'Lewis Cass School Board District 2' (Maggie Hintz, Kristi Hull and Ryne D. Stover) {cass_ballot_miami}{cass_ballot_walton}{in_list}. Both contests appear on ballots across the district's precincts {cass_ballot_miami}{cass_ballot_walton}{cass_ballot_deercreek}. The seats up are the ones filled in 2022 (Hull's District 3 seat and Zeck's District 4 seat) {cass_2022}; the ballot labels differ from the old district numbers, and this guide could not find a public explanation of the new seat structure. Hull, a current board member, is running; Zeck is not on the ballot {lc_trustees}{cass_ballot_walton}.",
+  "Budget: in February 2025, then-superintendent Chris Daughtry said nearly all of the district's Debt Service Fund and just under half of its Operations Fund come from property taxes, and that 'further property tax losses prevent schools from being able to maintain their facilities and provide a safe and adequate learning environment for students' {pt_sb1_2025}. This guide found no later reporting on how the final 2025 property-tax law (SEA 1) affects Lewis Cass, and no operating or safety referendum.",
+  "Programs and grants: Starting in fall 2025, Lewis Cass High School partnered with IU Kokomo to offer Indiana College Core classes for college credit {pt_college_core}. In May 2026 the Logansport Redevelopment Commission approved $41,443 to upgrade the high school's culinary pathway classroom {pt_culinary}. In September 2026 the state awarded Lewis Cass Schools a $27,950 Secured School Safety grant {pt_safety}.",
+  "Forums: the League of Women Voters of Cass County and the Logansport/Cass County Chamber of Commerce invited candidates in both Lewis Cass board races to a Sept. 29, 2026 debate {pt_debate_set}. The Pharos-Tribune's report on the event covered four offices (county council, Eel Township trustee, sheriff and state representative) and did not mention the school board races {pt_debate}. This guide found no candidate questionnaire, website or campaign page for any Lewis Cass candidate."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Kristi Hull",
+   "seat": "District 2",
+   "summary": "Incumbent board member, elected in 2022 to the District 3 seat, now running for the District 2 seat; listed without a party {lc_trustees}{cass_2022}{in_list}.",
+   "website": null,
+   "background": [
+    "Won the Lewis Cass District 3 seat in November 2022 with 635 votes in a four-way race {cass_2022}.",
+    "Listed as a member of the Lewis Cass Board of Trustees on the district website {lc_trustees}."
+   ],
+   "path_to_ballot": [
+    "On the Cass County general-election ballot for 'Lewis Cass School Board District 2' with no party label {cass_ballot_walton}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {lc_trustees}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no candidate website, social-media page, questionnaire, forum appearance or news interview for this candidate.",
+    "Occupation, community roles and ties to the schools are not reported.",
+    "No statements found on her board votes, the superintendent changes, the budget or other district issues.",
+    "Why the seat she holds is labeled differently on the 2026 ballot (District 2 rather than District 3) is not explained in any source found.",
+    "No endorsements or campaign-finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Maggie Hintz",
+   "seat": "District 2",
+   "summary": "Candidate for the District 2 seat; listed as a Republican {in_list}{cass_ballot_walton}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "On the Cass County general-election ballot as a Republican for 'Lewis Cass School Board District 2' {cass_ballot_walton}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no candidate website, social-media page, questionnaire, forum appearance or news interview for this candidate.",
+    "Occupation, community roles and ties to the schools are not reported.",
+    "No statements found on the board's record, the budget or other district issues.",
+    "No endorsements or campaign-finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Ryne D. Stover",
+   "seat": "District 2",
+   "summary": "Candidate for the District 2 seat; listed without a party {in_list}{cass_ballot_walton}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "On the Cass County general-election ballot for 'Lewis Cass School Board District 2' with no party label {cass_ballot_walton}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no candidate website, social-media page, questionnaire, forum appearance or news interview for this candidate.",
+    "Occupation, community roles and ties to the schools are not reported.",
+    "No statements found on the board's record, the budget or other district issues.",
+    "No endorsements or campaign-finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Lucas R. Shideler",
+   "seat": "District 2 At Large",
+   "summary": "Candidate for the District 2 At Large seat; listed as a Republican {in_list}{cass_ballot_miami}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "On the Cass County general-election ballot as a Republican for 'Lewis Cass School Board District 2 At Large' {cass_ballot_miami}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no candidate website, social-media page, questionnaire, forum appearance or news interview for this candidate.",
+    "Occupation, community roles and ties to the schools are not reported.",
+    "No statements found on the board's record, the budget or other district issues.",
+    "No endorsements or campaign-finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Mark W Chambers",
+   "seat": "District 2 At Large",
+   "summary": "Candidate for the District 2 At Large seat; listed as a Republican {in_list}{cass_ballot_miami}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "On the Cass County general-election ballot as a Republican for 'Lewis Cass School Board District 2 At Large' {cass_ballot_miami}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no candidate website, social-media page, questionnaire, forum appearance or news interview for this candidate.",
+    "Occupation, community roles and ties to the schools are not reported.",
+    "No statements found on the board's record, the budget or other district issues.",
+    "No endorsements or campaign-finance reports found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "lc_trustees": [
+   "Board of Trustees",
+   "Lewis Cass Schools",
+   "2026",
+   "https://www.lewiscass.net/board-of-trustees/"
+  ],
+  "lc_supt": [
+   "Superintendent's Message",
+   "Lewis Cass Schools",
+   "2026",
+   "https://www.lewiscass.net/superintendents-message/"
+  ],
+  "lc_vacancy_2022": [
+   "Board opening",
+   "Lewis Cass Schools",
+   "2022-01-18",
+   "https://www.lewiscass.net/board-opening/"
+  ],
+  "idoe_enroll": [
+   "Corporation Enrollment by Grade Level, 2006-26",
+   "Indiana Department of Education",
+   "2026",
+   "https://www.in.gov/doe/files/corporation-enrollment-grade-2006-26.xlsx"
+  ],
+  "cass_2022": [
+   "2022 General Election Official Results (precinct report)",
+   "Cass County Clerk",
+   "2022-11-18",
+   "https://www.in.gov/counties/cass/files/2022-official-general-election-results.pdf"
+  ],
+  "cass_2024": [
+   "2024 General Election Official Cumulative Results",
+   "Cass County Clerk",
+   "2024-11-15",
+   "https://www.in.gov/counties/cass/files/Official-Cumulative-Results-11-15-2024-01-03-53-PM.pdf"
+  ],
+  "cass_ballot_miami": [
+   "2026 General sample ballot, Precinct Miami-Lewis Cass",
+   "Cass County Clerk",
+   "2026",
+   "https://www.in.gov/counties/cass/files/7_Miami-Lewis-Cass_English.pdf"
+  ],
+  "cass_ballot_walton": [
+   "2026 General sample ballot, Precinct Tipton II-Walton",
+   "Cass County Clerk",
+   "2026",
+   "https://www.in.gov/counties/cass/files/9_Tipton-II-Walton_English.pdf"
+  ],
+  "cass_ballot_deercreek": [
+   "2026 General sample ballot, Precinct Deer Creek East",
+   "Cass County Clerk",
+   "2026",
+   "https://www.in.gov/counties/cass/files/12_Deer-Creek-East_English.pdf"
+  ],
+  "pt_shoaff_hired": [
+   "Timothy Shoaff hired as Lewis Cass Schools superintendent",
+   "Pharos-Tribune",
+   "2026-07-17",
+   "https://www.pharostribune.com/news/article_f126b219-a854-43b0-8384-805dceb478b2.html"
+  ],
+  "pt_shoaff_profile": [
+   "Shoaff brings compassion, partnership to role of Lewis Cass superintendent",
+   "Pharos-Tribune",
+   "2026-08-01",
+   "https://www.pharostribune.com/news/article_b195eab3-1638-423a-a7d9-ccf2117d3d0f.html"
+  ],
+  "pt_sb1_2025": [
+   "Senate bill looks to save homeowners money, would stunt funding for local entities",
+   "Pharos-Tribune",
+   "2025-02-01",
+   "https://www.pharostribune.com/news/article_8d9f822e-e023-11ef-9dde-0b02ee1573ad.html"
+  ],
+  "pt_college_core": [
+   "Lewis Cass set to offer Indiana College Core credits through IUK",
+   "Pharos-Tribune",
+   "2025-06-04",
+   "https://www.pharostribune.com/news/article_6de1cb1b-dad9-4a5a-af96-ae1aa71591f0.html"
+  ],
+  "pt_culinary": [
+   "Funding approved for Lewis Cass culinary pathway classroom",
+   "Pharos-Tribune",
+   "2026-05-22",
+   "https://www.pharostribune.com/news/article_26ac84c8-73ec-4dc6-b1ea-0b92444f18f6.html"
+  ],
+  "pt_safety": [
+   "Indiana Board approves $26.9M for school safety initiatives",
+   "Pharos-Tribune",
+   "2026-09-02",
+   "https://www.pharostribune.com/news/article_ce2fd75c-0f94-4832-be1d-1cb07572f9e4.html"
+  ],
+  "pt_debate_set": [
+   "Cass County general election town hall set for Sept. 29",
+   "Pharos-Tribune",
+   "2026-09-14",
+   "https://www.pharostribune.com/news/article_0c1d86f9-3fb9-4adc-985a-1edadec52063.html"
+  ],
+  "pt_debate": [
+   "Candidates debate in McHale Performing Arts Center",
+   "Pharos-Tribune",
+   "2026-10-01",
+   "https://www.pharostribune.com/news/article_55ab33c2-59a9-4efa-9c29-a689a5c8a339.html"
+  ]
+ }
+}

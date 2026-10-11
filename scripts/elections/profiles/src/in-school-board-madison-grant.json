@@ -1,0 +1,334 @@
+{
+ "race_id": "in-school-board-madison-grant",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The office is the board of Madison-Grant United School Corporation, headquartered near Fairmount (11580 S. E 00 W) and serving parts of Grant and Madison counties, including Fairmount and Summitville {mg_board}{hb_summitville}. State enrollment counts rose from 1,073 students in 2020-21 to 1,987 in 2023-24, 2,024 in 2024-25 and 2,110 in 2025-26 {idoe_enroll}. The district also runs virtual programs with Accel Online (Virtual Preparatory Academy of Indiana and Beacon Academy); in April 2026 the VPREP principal told the board 500 students were already scheduled for 2026-27 and about 150 would graduate that spring {mg_min_20260414}. Superintendent Ben Mann told the board that enrollment fell by 135 students from 2020 to 2025 and by 333 from 2015 to 2025, with graduating classes of 85 to 90 being replaced by kindergarten classes of about 55 {ct_kids}. This guide did not confirm whether the state counts include the virtual students.",
+  "Superintendent: Ben Mann, who joined the district in 2016 and has been high school principal and chief financial officer, was named interim superintendent on Jan. 20, 2026 and permanent superintendent on May 26, 2026; he also remains CFO {ct_mann_interim}{ct_mann_perm}. He replaced Steve Vore, who resigned effective Jan. 31, 2026 after 2.5 years as superintendent to take a superintendent job outside Grant County {ct_vore}.",
+  "Board: seven members. In 2026 Amanda Kelich is president, Dr. Katti Sneed vice president, David Whybrew secretary and John Hanes assistant secretary; the other members are Wendy Longacre, Bruce Stanley and Lisa Martin {mg_board}{ct_vore}. Members are elected by district (Districts 2, 3 and 7 are labeled 'Grant & Madison' on the state list and District 4 'Madison') {in_list}{gc_cand}.",
+  "Seats on the 2026 ballot: four seats, one each in Districts 2, 3, 4 and 7, each 'vote for one,' matching the state list {in_list}{gc_cand}{ct_contested}. The Herald Bulletin listed the four incumbents whose seats are up as John Hanes, Katti Sneed, Donald Bruce Stanley and Wendy Longacre {hb_oneweek}. Hanes (District 2) and Stanley (District 4) are unopposed; Sneed faces Dylan C. Vetor in District 3, the only contested race; Erik Davidson is the only District 7 candidate, and Longacre is not on the ballot {gc_cand}{ct_contested}.",
+  "Party labels: 2026 is the first election in which Indiana school board candidates may declare a party (Senate Bill 287, 2025). Hanes and Stanley filed as Republicans; Sneed, Vetor and Davidson did not declare a party {ct_contested}{gc_cand}{hb_9cand}.",
+  "Elementary consolidation (April 2026): a Lancer Associates facility study presented Jan. 20, 2026 found structural problems at Summitville Elementary's 1938 gym section and offered two options: close Summitville and renovate Park Elementary ($23 million-$30 million) or build a new elementary and close both ($30 million-$36 million) {ct_facility}. On April 28 the board voted 6-1 to merge Summitville into Park Elementary in Fairmount, renamed Madison-Grant Elementary, starting in 2026-27; Bruce Stanley voted no {ct_consol}. Mann said the district was 'not in a financial hardship' and called it 'a stewardship of resources conversation'; he said no employee would lose a job {ct_consol}. A Summitville parent raised concerns about bus ride times and the loss of a community building {hb_summitville}.",
+  "Sixth grade move: on Dec. 9, 2025 the board voted 6-0 to move sixth graders to Madison-Grant Jr./Sr. High School starting in fall 2026 {ct_6th}. The new middle-school plan uses three 65-minute morning blocks for math, English and science/social studies, with special education staff joining those classes {ct_6th_plan}.",
+  "Budget and SEA 1: Mann told the board SEA 1 is projected to cost the district an average of $500,000 a year from its operations fund over the next five years {ct_kids}. In August 2025 the board heard a Policy Analytics presentation on SEA 1, which the district hired to provide monthly finance reports {ct_sea1}. On Sept. 29, 2026 the board adopted a 2027 budget advertised at $25,750,517, plus capital projects and bus replacement plans, 6-0 with Hanes absent {ct_budget27}. No operating or safety referendum is on the ballot for Madison-Grant; neighboring Mississinewa and Oak Hill have operating referendums {ct_contested}.",
+  "Library policy: on June 3, 2025 the board approved removing the novel 'We Are the Ants' from the junior/senior high library after a parent complaint and a staff committee review. At the July 22, 2025 meeting a resident criticized the decision as lacking transparency and asked the board to involve parents, community members and students in future book challenges {ct_book}.",
+  "Academics and career programs: the district reported that 27% of the Class of 2026 earned the Indiana College Core, 8% an associate degree and 50% an industry certification {ct_grad}. In 2025 the board received Indiana School Boards Association governance awards (Level 3 Distinguished for the board) {mg_min_20260414}.",
+  "Forums: this guide found no 2026 candidate forum, questionnaire or campaign website for any Madison-Grant candidate."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "John Hanes",
+   "seat": "District 2",
+   "summary": "Incumbent board member, unopposed; listed as a Republican {hb_oneweek}{gc_cand}{in_list}.",
+   "website": null,
+   "background": [
+    "Current board member and the board's assistant secretary for 2026 {mg_board}{ct_vore}."
+   ],
+   "path_to_ballot": [
+    "Listed on the Grant County 2026 general-election candidate list as a Republican for Madison-Grant School Board District 2 {gc_cand}{in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Facilities",
+     "items": [
+      "After the January 2026 facility study, asked whether it included an estimate for repairs to Summitville Elementary; the architects said a structural engineer would need to evaluate it {ct_facility}.",
+      "Asked in September 2025 about the companies that supplied three quotes for proposed athletic-field irrigation {mg_min_20250923}.",
+      "Voted with the 6-1 majority on April 28, 2026 to consolidate Summitville and Park elementaries {ct_consol}."
+     ]
+    },
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Asked how a bus damaged in a 2024-25 accident affected the bus replacement plan; the CFO said older buses could cover the gap but the insurance payment would not cover full replacement {mg_min_20250923}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Asked the high school principal in September 2025 whether he saw grade-level trends in failing-grade reports {mg_min_20250923}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member {mg_board}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no candidate website, questionnaire, forum appearance or news interview for this candidate.",
+    "Occupation, community roles and years on the board are not reported in sources found.",
+    "No stated goals for a new term found.",
+    "No endorsements or campaign-finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Dylan C. Vetor",
+   "seat": "District 3",
+   "summary": "Challenger to incumbent Katti Sneed in District 3; no party declared {gc_cand}{ct_contested}{in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the Grant County 2026 general-election candidate list for Madison-Grant School Board District 3 with no party {gc_cand}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no candidate website, social-media page, questionnaire, forum appearance or news interview for this candidate.",
+    "Occupation, community roles and ties to the schools are not reported.",
+    "No statements found on the consolidation vote, the budget or other district issues.",
+    "No endorsements or campaign-finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Katti Sneed",
+   "seat": "District 3",
+   "summary": "Incumbent board member and board vice president, facing Dylan C. Vetor; no party declared {mg_board}{hb_oneweek}{gc_cand}.",
+   "website": null,
+   "background": [
+    "Current board member and vice president, re-elected to that office for 2026 {mg_board}{ct_vore}.",
+    "Received a 2025 Indiana School Boards Association individual governance award at the 'Level 4 Exemplary' level {mg_min_20260414}."
+   ],
+   "path_to_ballot": [
+    "Listed on the Grant County 2026 general-election candidate list for Madison-Grant School Board District 3 with no party {gc_cand}{in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Facilities",
+     "items": [
+      "Made the April 28, 2026 motion to merge Summitville and Park elementaries as Madison-Grant Elementary. She said the buildings 'are full of memories, of relationships, of community pride,' but that merging them would let the district 'provide more resources for those students who will have a more streamlined education process' {ct_consol}.",
+      "In September 2025 asked about future visitor bleachers at the baseball and softball fields; the CFO said they were on a 'wish list' pending the facility study {mg_min_20250923}."
+     ]
+    },
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Asked the CFO in September 2025 to explain the property-tax 'circuit breaker,' which he described as the maximum tax-cap loss {mg_min_20250909}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Thanked the superintendent for his transparency and community outreach during the consolidation process {ct_consol}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member {mg_board}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no candidate website, questionnaire, forum appearance or news interview for this candidate.",
+    "Occupation, community roles and years on the board are not reported in sources found.",
+    "No stated goals for a new term found.",
+    "No endorsements or campaign-finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Donald Bruce Stanley",
+   "seat": "District 4",
+   "summary": "Incumbent board member (Bruce Stanley), unopposed; listed as a Republican {hb_oneweek}{gc_cand}{in_list}.",
+   "website": null,
+   "background": [
+    "Current board member; lives in Summitville, and the Herald Bulletin described him as representing the town {mg_board}{ct_consol}{hb_summitville}.",
+    "Said in December 2025 he remembered the board discussing a sixth-grade move nearly 15 years earlier {ct_6th}."
+   ],
+   "path_to_ballot": [
+    "Listed on the Grant County 2026 general-election candidate list as a Republican for Madison-Grant School Board District 4 {gc_cand}{in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Facilities",
+     "items": [
+      "Cast the only vote against consolidating Summitville and Park elementaries on April 28, 2026. He said he understood the reasons and that it would benefit students, but 'I also have to think about my community'; he said he would support teachers and students through the change {ct_consol}.",
+      "Told the Herald Bulletin: 'While I could not vote for the restructuring, I understand this is a necessary step to preserve small classroom size for our students' {hb_summitville}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Supported moving sixth grade to the junior/senior high building and said he was pleased 'to see it finally happen' {ct_6th_plan}."
+     ]
+    },
+    {
+     "topic": "Enrollment & school choice",
+     "items": [
+      "Linked declining enrollment to job losses in the area: 'we have lost thousands of jobs in the last two decades, which means fewer students' {hb_summitville}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member {mg_board}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no candidate website, questionnaire, forum appearance or news interview for this candidate.",
+    "Occupation, community roles and years on the board are not reported in sources found.",
+    "No stated goals for a new term found.",
+    "No endorsements or campaign-finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Erik Davidson",
+   "seat": "District 7",
+   "summary": "Only candidate for District 7; no party declared. The seat's current holder is not on the ballot {gc_cand}{ct_contested}{in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the Grant County 2026 general-election candidate list for Madison-Grant School Board District 7 with no party {gc_cand}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no candidate website, social-media page, questionnaire, forum appearance or news interview for this candidate.",
+    "Occupation, community roles and ties to the schools are not reported.",
+    "No statements found on the consolidation vote, the budget or other district issues.",
+    "No source names the current District 7 member. Wendy Longacre is the only incumbent listed by the Herald Bulletin who is not on the ballot, so District 7 appears to be her seat; this is not confirmed.",
+    "No endorsements or campaign-finance reports found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "mg_board": [
+   "School Board",
+   "Madison-Grant United School Corporation",
+   "2026",
+   "https://www.mgusc.k12.in.us/governing-board"
+  ],
+  "mg_min_20250909": [
+   "Minutes of the School Board Meeting, Sept. 9, 2025",
+   "Madison-Grant United School Corporation",
+   "2025-09-09",
+   "https://files.smartsites.parentsquare.com/13013/september_9_2025___reg_school_board_mtg_minutes_1.pdf"
+  ],
+  "mg_min_20250923": [
+   "Minutes of the School Board Meeting, Sept. 23, 2025",
+   "Madison-Grant United School Corporation",
+   "2025-09-23",
+   "https://files.smartsites.parentsquare.com/13013/september_23_2025___reg_school_board_mtg_minutes.pdf"
+  ],
+  "mg_min_20260414": [
+   "Minutes of the School Board Meeting, April 14, 2026",
+   "Madison-Grant United School Corporation",
+   "2026-04-14",
+   "https://files.smartsites.parentsquare.com/13013/april_14_2026___reg_school_board_mtg_minutes.pdf"
+  ],
+  "idoe_enroll": [
+   "Corporation Enrollment by Grade Level, 2006-26",
+   "Indiana Department of Education",
+   "2026",
+   "https://www.in.gov/doe/files/corporation-enrollment-grade-2006-26.xlsx"
+  ],
+  "gc_cand": [
+   "2026 General Election Candidates",
+   "Grant County Clerk",
+   "2026",
+   "https://www.in.gov/counties/grant/files/2026-General-Election-Candidates_Website.pdf"
+  ],
+  "ct_contested": [
+   "School board elections yield multiple contested races",
+   "Chronicle-Tribune",
+   "2026-09-05",
+   "https://www.chronicle-tribune.com/news/school-board-elections-yield-multiple-contested-races/article_9f4992ba-3094-5e52-8c75-cbed61795b54.html"
+  ],
+  "hb_9cand": [
+   "9 candidates file for school board seats in Madison County",
+   "The Herald Bulletin",
+   "2026-06-09",
+   "https://www.heraldbulletin.com/news/9-candidates-file-for-school-board-seats-in-madison-county/article_8fff2fe3-5b73-48b5-9d2b-6e52b256dfe9.html"
+  ],
+  "hb_oneweek": [
+   "One week remaining to file for school board elections",
+   "The Herald Bulletin",
+   "2026-06-12",
+   "https://www.heraldbulletin.com/news/local_news/one-week-remaining-to-file-for-school-board-elections/article_2f621501-4bb4-4570-b6f8-68661a982250.html"
+  ],
+  "ct_vore": [
+   "Superintendent Vore to resign Jan. 31",
+   "Chronicle-Tribune",
+   "2026-01-09",
+   "https://www.chronicle-tribune.com/news/superintendent-vore-to-resign-jan-31/article_b92fd1c9-e2c3-5519-b6c2-a47040b688d2.html"
+  ],
+  "ct_mann_interim": [
+   "Mann named M-G interim superintendent",
+   "Chronicle-Tribune",
+   "2026-01-24",
+   "https://www.chronicle-tribune.com/news/mann-named-m-g-interim-superintendent/article_6f832acd-6788-5127-958a-6e156bed0310.html"
+  ],
+  "ct_mann_perm": [
+   "A time to stand",
+   "Chronicle-Tribune",
+   "2026-05-29",
+   "https://www.chronicle-tribune.com/news/a-time-to-stand/article_7b64f43b-4861-5428-b119-6f83a4271dbe.html"
+  ],
+  "ct_facility": [
+   "Madison-Grant faces possible building closures",
+   "Chronicle-Tribune",
+   "2026-01-24",
+   "https://www.chronicle-tribune.com/news/madison-grant-faces-possible-building-closures/article_ecbe531f-d091-5375-8890-ebb825dbd9b6.html"
+  ],
+  "ct_6th": [
+   "Madison-Grant HS building to house grades 6-12",
+   "Chronicle-Tribune",
+   "2025-12-16",
+   "https://www.chronicle-tribune.com/news/madison-grant-hs-building-to-house-grades-6-12/article_933af30d-b513-595d-b247-661580c976f7.html"
+  ],
+  "ct_6th_plan": [
+   "M-G gears up to welcome 6th grade at HS building",
+   "Chronicle-Tribune",
+   "2026-04-16",
+   "https://www.chronicle-tribune.com/news/m-g-gears-up-to-welcome-6th-grade-at-hs-building/article_417cca4e-eb55-574a-a3a1-da52fa6b4c87.html"
+  ],
+  "ct_kids": [
+   "'This is about our kids, all of them'",
+   "Chronicle-Tribune",
+   "2026-04-23",
+   "https://www.chronicle-tribune.com/news/this-is-about-our-kids-all-of-them/article_f7cc8546-a213-501f-8d3a-e71e1341db3f.html"
+  ],
+  "ct_consol": [
+   "M-G greenlights elementary school consolidation",
+   "Chronicle-Tribune",
+   "2026-04-29",
+   "https://www.chronicle-tribune.com/news/m-g-greenlights-elementary-school-consolidation/article_631e6fdd-dc08-526f-b8a1-1eca4d7d9544.html"
+  ],
+  "hb_summitville": [
+   "Summitville Elementary to close this year",
+   "The Herald Bulletin",
+   "2026-04-30",
+   "https://www.heraldbulletin.com/news/local_news/summitville-elementary-to-close-this-year/article_7045a9ef-f396-4dee-881d-51d370e0a8a7.html"
+  ],
+  "ct_sea1": [
+   "M-G board examines potential SEA 1 impacts",
+   "Chronicle-Tribune",
+   "2025-08-09",
+   "https://www.chronicle-tribune.com/news/m-g-board-examines-potential-sea-1-impacts/article_1a1b9744-e451-5f11-8081-25ce6fec9568.html"
+  ],
+  "ct_budget27": [
+   "Local schools gear up to finalize next year's budgets",
+   "Chronicle-Tribune",
+   "2026-10-07",
+   "https://www.chronicle-tribune.com/news/local-schools-gear-up-to-finalize-next-years-budgets/article_cfd5ba34-c30b-58d5-9436-fb7750cebea3.html"
+  ],
+  "ct_book": [
+   "'Let's be champions for literacy, not barriers to it'",
+   "Chronicle-Tribune",
+   "2025-07-26",
+   "https://www.chronicle-tribune.com/news/lets-be-champions-for-literacy-not-barriers-to-it/article_afcbb207-79ab-51fa-a893-86f99c256c96.html"
+  ],
+  "ct_grad": [
+   "Madison-Grant boasts 2026 graduation stats",
+   "Chronicle-Tribune",
+   "2026-06-30",
+   "https://www.chronicle-tribune.com/news/madison-grant-boasts-2026-graduation-stats/article_88cf071a-4c26-557c-a736-64932d637ce9.html"
+  ]
+ }
+}
