@@ -180,6 +180,7 @@ SEAT_OVERRIDES = {
     "Jackson Seymour City Community School Board, Seats 1 & 2, At Large": 2,  # two seats in title and 2022 results
     "Tri-Creek School Board, At Large": 2,  # Lake County sample ballot
     "Vincennes School Board, At Large": 2,  # Vincennes Sun-Commercial / Knox County clerk
+    "Whiting School Board, At Large": 2,  # Lake County sample ballot
 }
 
 
