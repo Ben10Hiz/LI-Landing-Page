@@ -1,0 +1,151 @@
+{
+ "race_id": "in-school-board-hammond",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The School City of Hammond serves the city of Hammond in Lake County; Wikipedia says all of Hammond is in the district and lists enrollment of 11,275, without saying which year that figure is from {wiki_hammond}.",
+  "Superintendent: Lake County's public officials directory, dated Aug. 13, 2026, still lists Dr. Brent A. Wilson as interim superintendent {lc_directory}. Wilson was interim superintendent in January 2025, while the board searched for a permanent superintendent {lsp_bus_2025}. This guide could not load the district website to confirm who leads the district now.",
+  "The board has five members, all elected at large {lc_directory}. Members elected in 2022 serve terms that expire Dec. 31, 2026 {lc_directory}. In 2022 voters chose three members from four candidates: Kelly Spencer-Cline, Carlotta Blake-King and Manuel Candelaria Jr. won {lc_results_2022}.",
+  "Seats on the 2026 ballot: the state list says 'vote for 1,' but Lake County's sample ballots and results page say 'Vote for not more than Three (3)' for School City of Hammond At Large {lc_sample_hammond}{lc_results_2026}. The three seats are now held by Blake-King, Candelaria and Spencer-Cline {lc_directory}. Of those three, only Blake-King filed for reelection {lc_candidates}.",
+  "Seats not on this ballot: Mellissa Guerra and Evangeline Stanford won the two seats on the 2024 ballot, and their terms run through 2028 {lc_results_2024}{lc_directory}. Former board vice president Lucinda (Cindy) Murphy finished last of six candidates in 2024 and left the board at the end of that year {lsp_newleaders_2024}{lc_results_2024}.",
+  "Candidate list: the county's Aug. 11, 2026 candidate list shows four Hammond filers, with Rina Horgan, Carlotta Blake King and Lucinda (Cindy) Murphy as Democrats and Cristina McNeiley as Non Partisan {lc_candidates}. The county's sample ballots, created Sept. 18, 2026, and its results page list only Horgan, Blake King and Murphy, so the three candidates on the ballot are running for three seats {lc_sample_hammond}{lc_results_2026}. Under the new state rules, a straight-party vote does not count for school board candidates {lc_sample_hammond}.",
+  "Finances and state oversight (2023–2025): voters rejected an operating referendum renewal ($0.44 per $100 of assessed value) and an $84 million high school capital referendum on Nov. 7, 2023 {wfyi_referendum_2023}. A 2024 corrective action plan overseen by the state Distressed Unit Appeal Board closed three elementary schools and made significant cuts to teaching and support staff {lsp_cfo_2025}. In January 2025, the board president announced that the state had ended the corrective action plan, and Wilson reported that the education fund grew from $759,447 to $13,584,827 during 2024 {lsp_cfo_2025}.",
+  "Transportation (2025): in January 2025 the board approved a plan to restore some bus service within the 1.5-mile walk zone in parts of five elementary attendance areas, after cuts that had affected about 400 general education students {lsp_bus_2025}.",
+  "Staffing and contracts (2025): in January 2025 the board approved firing Chief Financial Officer Eric Kurtz and agreed to hire a financial consultant while it considered a search {lsp_cfo_2025}. In February 2025 the board reviewed its outsourced substitute-teacher contract with Kelly Services, which reported fill rates above 93% in fall 2024 {lsp_kelly_2025}.",
+  "Academics (2024): in September 2024 district officials reported that just over 22% of students passed SAT reading and writing, just over 1.2% passed SAT math, and fewer than half of third graders passed IREAD-3 {lsp_scores_2024}.",
+  "Forums: this guide found no candidate forums, questionnaires or news coverage of the 2026 Hammond race. The Times of Northwest Indiana (nwitimes.com) could not be read for this guide."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Carlotta Blake King",
+   "seat": "At Large",
+   "summary": "Incumbent and the board's president as of 2025, seeking another term {lsp_bus_2025}{lc_candidates}.",
+   "website": null,
+   "background": [
+    "Has served on the board since at least 2019, when she was board secretary {cbs_closures_2019}. In September 2024 she said, 'I've been on this board five years' {lsp_scores_2024}.",
+    "Re-elected at large in 2022 {lc_results_2022}. The board elected her president unanimously in January 2025 {lsp_bus_2025}."
+   ],
+   "path_to_ballot": [
+    "Filed May 29, 2026 and is listed as a Democrat {lc_candidates}{in_list}."
+   ],
+   "positions": [
+    {"topic": "Academics", "items": ["In September 2024 she said the board had 'accepted the low increments' in student achievement for five years, and she noted that a new state law will require holding back students who fail IREAD-3 {lsp_scores_2024}."]},
+    {"topic": "Budget & taxes", "items": ["In February 2025 she called some bills at the Statehouse 'an attack on public education, on our teachers, on our staff' and asked residents, students and the PTA to contact lawmakers {lsp_legislature_2025}.", "In February 2025, citing expected federal spending cuts, she said the district would have to do 'some deep cutting' {lsp_kelly_2025}."]},
+    {"topic": "Teachers & staff", "items": ["In February 2025 she asked Kelly Services for more detailed data on substitutes who accept assignments and then leave, and she said the district could end the contract if her concerns were not addressed {lsp_kelly_2025}."]},
+    {"topic": "Transparency & community input", "items": ["In 2024 she moved to request a forensic audit of district finances, saying federal pandemic (ESSER) money had been spent on buildings and other costs rather than learning loss; administrators said existing audits had found no problems and that the state would need specifics {lsp_audit_2024}."]}
+   ],
+   "on_incumbent": [
+    "Is a current board member {lc_directory}.",
+    "In February 2024 her motion to put on the agenda a notice that the board did not plan to renew then-Superintendent Scott Miller's contract failed on a 2–2 tie; she told the board, 'We don't listen to anybody' {lsp_supt_2024}.",
+    "In May 2019 she cast the only vote against closing three schools and cutting 130 to 150 positions {cbs_closures_2019}.",
+    "As president in January 2025 she said, '2025 will be a year of restoration and elevation' {lsp_bus_2025}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No 2026 campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "This guide could not confirm whether she is still board president in 2026.",
+    "Ballot lists the name as 'Carlotta Blake King'; news coverage spells it 'Blake-King'."
+   ]
+  },
+  {
+   "ballot_name": "Cristina McNeiley",
+   "seat": "At Large",
+   "summary": "Filed as a Non Partisan candidate, but does not appear on the county's sample ballots or results page {lc_candidates}{lc_sample_hammond}{lc_results_2026}.",
+   "website": null,
+   "background": [
+    "No background information found."
+   ],
+   "path_to_ballot": [
+    "Filed June 17, 2026 and is listed as Non Partisan on the county's Aug. 11 candidate list {lc_candidates}{in_list}.",
+    "Lake County's 2026 general election sample ballots for Hammond precincts, created Sept. 18, 2026, and the county's results page list only Rina Horgan, Carlotta Blake King and Lucinda (Cindy) Murphy {lc_sample_hammond}{lc_results_2026}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "Could not find out why her name is missing from the county sample ballots (for example a withdrawal, a challenge or a petition problem); this needs to be confirmed with the Lake County Board of Elections and Registration before publication.",
+    "No news coverage, campaign statements, website, endorsements or finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Lucinda (Cindy) Murphy",
+   "seat": "At Large",
+   "summary": "Former board vice president who left the board after losing in 2024 and is running again {lsp_newleaders_2024}{lc_candidates}.",
+   "website": null,
+   "background": [
+    "Was board vice president in September 2024 {lsp_ellis_2024}.",
+    "Finished last of six candidates for two at-large seats in November 2024 (3,405 votes, 10.90%) and left the board when her term ended {lc_results_2024}{lsp_newleaders_2024}."
+   ],
+   "path_to_ballot": [
+    "Filed June 12, 2026 and is listed as a Democrat {lc_candidates}{in_list}."
+   ],
+   "positions": [
+    {"topic": "Academics", "items": ["As a board member in September 2024 she said, 'We need to allow our teachers and the principals and the support staff to do these implementations,' and that results would show 'with the next set of data' {lsp_scores_2024}."]},
+    {"topic": "Teachers & staff", "items": ["Speaking at a February 2025 meeting, she said the district had trouble finding substitutes before it hired Kelly Services and that outsourcing reduces the district's risk on disability claims {lsp_kelly_2025}."]}
+   ],
+   "on_incumbent": [
+    "In January 2025 she said the board's bus-restoration plan divided the city into 'haves' and 'have-nots,' noting that it left out the Harding, Edison, Jefferson and Franklin attendance areas and that some students still had to cross busy streets {lsp_bus_2025}.",
+    "In January 2025 she objected to the board's firing of the chief financial officer and asked, 'who are you going to get for a new superintendent if you're not going to listen to your current superintendent?' {lsp_cfo_2025}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No 2026 campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "Years of earlier board service not confirmed."
+   ]
+  },
+  {
+   "ballot_name": "Rina Horgan",
+   "seat": "At Large",
+   "summary": "Candidate for an open at-large seat; not a current board member {lc_candidates}{lc_directory}.",
+   "website": null,
+   "background": [
+    "No background information found."
+   ],
+   "path_to_ballot": [
+    "Filed June 12, 2026 and is listed as a Democrat {lc_candidates}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, campaign statements, website, questionnaire responses, endorsements or finance reports found."
+   ]
+  }
+ ],
+ "review_flags": [
+  {
+   "person": "Carlotta Blake King",
+   "category": "remark",
+   "status": "held",
+   "summary": "In a January 2025 article, Lakeshore Public Media described Blake-King as a frequent critic of how the district cut spending and reported that she had called top administrators 'carpetbaggers' {lsp_bus_2025}.",
+   "note": "Second-hand description of past remarks; the article does not give the date or setting, and no response from administrators was reported. Probably context only."
+  }
+ ],
+ "sources": {
+  "wiki_hammond": ["School City of Hammond", "Wikipedia", "2026-10", "https://en.wikipedia.org/wiki/School_City_of_Hammond"],
+  "lc_directory": ["2026 Lake County Public Officials Directory (School Corporations, p. 38)", "Lake County, Indiana", "2026-08-13", "https://lakecountyin.gov/dA/8ee74908-61bf-46b8-8c34-a648d6d3ed59/pdfFile/2026%2008%2013%20LAKE%20COUNTY%20PUBLIC%20OFFICIALS%20DIRECTORY.pdf"],
+  "lc_candidates": ["2026 General Election Candidate List (as of Aug. 11, 2026)", "Lake County Board of Elections and Registration", "2026-08-11", "https://lakecountyin.gov/departments/voters/election-candidates/2026_General_Candidate_List_08_11_26.xlsx"],
+  "lc_sample_hammond": ["2026 General Election sample ballot, Precinct 137-H1 01 (Hammond)", "Lake County Board of Elections and Registration", "2026-09-18", "https://lakecountyin.gov/departments/voters/2026-ELECTION/2026-General-Election-Sample-Ballots/Pct%20137-H1%2001%20Act%2001-GENERAL.pdf"],
+  "lc_results_2026": ["2026 General Election Summary (results page, pre-election)", "Lake County Board of Elections and Registration", "2026-10", "https://lakecountyin.gov/departments/voters/election-results-c/2026GeneralElectionResults/Lake_ElecSumm_All.htm"],
+  "lc_results_2022": ["2022 General Election Summary", "Lake County Board of Elections and Registration", "2022-11", "https://lakecountyin.gov/departments/voters/election-results-c/2022GeneralElectionResults/Lake_ElecSumm_All.htm"],
+  "lc_results_2024": ["2024 General Election Summary", "Lake County Board of Elections and Registration", "2024-11", "https://lakecountyin.gov/departments/voters/election-results-c/2024GeneralElectionResults/Lake_ElecSumm_All.htm"],
+  "lsp_newleaders_2024": ["School City of Hammond can expect new leadership in 2025", "Lakeshore Public Media", "2024-12-28", "https://lakeshorepublicmedia.org/local-news/2024-12-28/school-city-of-hammond-can-expect-new-leadership-in-2025"],
+  "lsp_ellis_2024": ["Ellis appointed to Hammond School Board", "Lakeshore Public Media", "2024-09-25", "https://www.lakeshorepublicmedia.org/local-news/2024-09-25/ellis-appointed-to-hammond-school-board"],
+  "lsp_bus_2025": ["Hammond schools to restore some bus service, new board president promises restoration and elevation", "Lakeshore Public Media", "2025-01-08", "https://www.lakeshorepublicmedia.org/local-news/2025-01-08/hammond-schools-to-restore-some-bus-service-new-board-president-promises-restoration-and-elevation"],
+  "lsp_cfo_2025": ["Hammond School Board fires CFO as state eases financial oversight", "Lakeshore Public Media", "2025-01-22", "https://www.lakeshorepublicmedia.org/local-news/2025-01-22/hammond-school-board-fires-cfo-as-state-eases-financial-oversight"],
+  "lsp_kelly_2025": ["Hammond School Board, Kelly Services discuss substitute teaching contract", "Lakeshore Public Media", "2025-02-19", "https://www.lakeshorepublicmedia.org/local-news/2025-02-19/hammond-school-board-kelly-services-discuss-substitute-teaching-contract"],
+  "lsp_legislature_2025": ["Region school leaders react to Statehouse bills as legislative session reaches halfway point", "Lakeshore Public Media", "2025-02-24", "https://www.lakeshorepublicmedia.org/local-news/2025-02-24/region-school-leaders-react-to-statehouse-bills-as-legislative-session-reaches-halfway-point"],
+  "lsp_scores_2024": ["School City of Hammond's efforts to improve test scores met with skepticism", "Lakeshore Public Media", "2024-09-19", "https://www.lakeshorepublicmedia.org/local-news/2024-09-19/school-city-of-hammonds-efforts-to-improve-test-scores-met-with-skepticism"],
+  "lsp_audit_2024": ["Hammond School Board member who requested forensic audit expresses frustration with process", "Lakeshore Public Media", "2024-06-19", "https://www.lakeshorepublicmedia.org/local-news/2024-06-19/hammond-school-board-member-who-requested-forensic-audit-expresses-frustration-with-process"],
+  "lsp_supt_2024": ["Hammond School Board declines to consider member's request not to renew superintendent's contract", "Lakeshore Public Media", "2024-02-22", "https://www.lakeshorepublicmedia.org/local-news/2024-02-22/hammond-school-board-declines-to-consider-members-request-not-to-renew-superintendents-contract"],
+  "wfyi_referendum_2023": ["School referendums rejected in Hammond, Whiting, Lake Station", "WFYI Public Media (via Lakeshore Public Media)", "2023-11-08", "https://www.lakeshorepublicmedia.org/local-news/2023-11-08/school-referendums-rejected-in-hammond-whiting-lake-station"],
+  "cbs_closures_2019": ["Hammond To Close 3 Schools, Cut At Least 130 Staff Positions", "CBS Chicago", "2019-05-22", "https://www.cbsnews.com/chicago/news/hammond-school-closings-columbia-miller-lafayette/"]
+ }
+}

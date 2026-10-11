@@ -9,6 +9,14 @@ Sensitive items held for a second, careful editorial pass (criminal cases, misco
   Note: A later WVPE report (source not retained) said Elizalde and Nafziger pleaded guilty to a Level 6 felony; other outcomes unconfirmed. None of these members is on the 2026 ballot.
   - [Four Goshen School Board members criminally charged with campaign finance violations](https://www.wvpe.org/wvpe-news/2024-02-21/four-goshen-school-board-members-criminally-charged-with-campaign-finance-violations) — WVPE, 2024-02-21
 
+## Indiana School Board Member (`in-school-board-floyd-county`)
+
+- **Lee Ann Wiseheart** — other — _held_
+  On Aug. 29, 2022, District 2 opponent Ryan Topping challenged her candidacy, arguing she had improperly completed her statement of economic interests (CAN-12) by writing 'N/A' for her employer; the Floyd County Election Board set a Sept. 6, 2022 hearing. Wiseheart said 'I have nothing to hide' and that she has no economic interests with NAFCS. She appeared on the ballot and was re-elected in November 2022.
+  Note: A 2022 ballot-access challenge, not a misconduct finding. The election board's ruling was not read directly; inferred from her later re-election.
+  - [Challenge filed against Wiseheart's candidacy for NAFCS school board race](https://www.yahoo.com/news/challenge-filed-against-wisehearts-candidacy-022300539.html) — News and Tribune (via Yahoo News), 2022-08-31
+  - [New Floyd County school board members to take office in January](https://www.newsandtribune.com/news/new-floyd-county-school-board-members-to-take-office-in-january/article_3535b218-86ff-11ed-9ce2-57d21f982518.html) — News and Tribune, 2022-12-31
+
 ## Indiana School Board Member (`in-school-board-fort-wayne`)
 
 - **Brandon J Foster** — personnel action — _held_
@@ -25,6 +33,13 @@ Sensitive items held for a second, careful editorial pass (criminal cases, misco
   Personnel: in September 2026 the board approved the termination of at-large candidate Brandon Foster as Irwin STEM Magnet School principal, effective in May.
   Note: Board-approved firing as Irwin STEM principal, with his account. Previously shown in the public profile.
   - [Fort Wayne school board candidate axed from principal post](https://www.journalgazette.net/local/schools/fort-wayne-school-board-candidate-axed-from-principal-post/article_f52aa56a-d5da-4bb9-a95e-a198c82f14a5.html) — The Journal Gazette, 2026-09-28
+
+## Indiana School Board Member (`in-school-board-hammond`)
+
+- **Carlotta Blake King** — remark — _held_
+  In a January 2025 article, Lakeshore Public Media described Blake-King as a frequent critic of how the district cut spending and reported that she had called top administrators 'carpetbaggers'.
+  Note: Second-hand description of past remarks; the article does not give the date or setting, and no response from administrators was reported. Probably context only.
+  - [Hammond schools to restore some bus service, new board president promises restoration and elevation](https://www.lakeshorepublicmedia.org/local-news/2025-01-08/hammond-schools-to-restore-some-bus-service-new-board-president-promises-restoration-and-elevation) — Lakeshore Public Media, 2025-01-08
 
 ## Indiana School Board Member (`in-school-board-marion-decatur`)
 
@@ -44,6 +59,13 @@ Sensitive items held for a second, careful editorial pass (criminal cases, misco
   WFYI reported Oct. 8, 2026 that Scott was arrested Oct. 2 and charged with felony domestic battery; a magistrate found probable cause and the case is pending; no response from her was found.
   Note: The same WFYI article says she was director of schools for the Indiana Charter School Board.
   - [Pike Township school board candidate arrested, faces felony charge](https://www.wfyi.org/education/2026-10-08/pike-township-school-board-candidate-arrested-faces-felony-charge) — WFYI, 2026-10-08
+
+## Indiana School Board Member (`in-school-board-michigan-city-area`)
+
+- **Nicole Santana (MCAS employee; not a candidate)** — criminal case — _held_
+  Hometown News Now reported on Oct. 5, 2026 that a Michigan City Area Schools employee faces one Level 6 felony fraud count, filed in July 2025, over alleged personal use of $3,986.11 in district funds. The State Board of Accounts reported in late August 2026 that MCAS lacked proper internal controls over some financial policies. The district's business manager acknowledged the findings and listed eight corrective actions. The employee resigned May 6, 2025, and a hearing was set for Oct. 26 in La Porte Superior Court 4. The case is unresolved.
+  Note: This concerns a district employee, not a candidate. It may matter for board oversight of finances during the referendum campaign. The charge is unresolved. No candidate statement on the audit findings was found.
+  - [School Official Allegedly Misused Funds](https://hometownnewsnow.com/local-news/934759) — Hometown News Now, 2026-10-05
 
 ## Indiana School Board Member (`in-school-board-vanderburgh`)
 

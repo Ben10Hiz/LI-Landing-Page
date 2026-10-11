@@ -1,0 +1,488 @@
+{
+ "race_id": "in-school-board-floyd-county",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "New Albany-Floyd County Consolidated School Corporation (NAFCS) serves all of Floyd County, with headquarters in New Albany; it operates two high schools (Floyd Central and New Albany), three middle schools, nine elementary schools, an early learning center and the Prosser Career Center {wiki_nafcs}. A current total enrollment figure was not found in fetched sources.",
+  "Superintendent Travis Madison, hired in 2023, left Sept. 25, 2026 for a post at Vincennes University {nt_supt_leave}{nt_supt_reflect}. On Sept. 21, 2026 the board unanimously named former Crawford County and North Harrison superintendent Mark Eastridge interim superintendent; board President Rebecca Gardenour said she wants to begin the permanent search in January, after the November election {nt_interim}. (WDRB's report lists his prior district as South Harrison {wdrb_interim}.)",
+  "The board has seven members serving four-year terms {nafcs_board}{nafcs_meet}: Becky Gardenour (president, District 4), Thad Neafus (vice president, at large), Connie Baugh (secretary, at large), Ann Carruthers (at large), Elizabeth Galligan (District 3), Melanie Stumler Northup (District 1) and Lee Ann Wiseheart (District 2) {nafcs_board}{nafcs_meet}. District members must live in their district, but voters across the county vote in every seat's race, according to SoINformed {so_meet}.",
+  "Four seats are on the 2026 ballot: District 1, District 2 and two at-large seats {nt_filed}{so_meet}. The state list shows the at-large race as 'vote for 1', but the News and Tribune and SoINformed both describe two at-large seats {nt_filed}{so_meet}; the two current at-large members whose terms end in 2026 (Baugh and Neafus) are both running {nafcs_meet}{nt_filed}, and the 2022 at-large race was 'Vote For 2' {fc_2022}. Voters should check their ballot for the number to choose.",
+  "All four incumbents filed: Northup is unopposed in District 1, Wiseheart faces Steve Morris in District 2, and Baugh and Neafus face Brad Striegel and Heather Naville-Cooley for the two at-large seats {nt_filed}{fc_list}. Of the seven candidates, Baugh and Neafus filed as Republicans and Morris as an Independent; the rest are nonpartisan {fc_list}{lpm_running}. 2026 is the first Indiana election in which school board candidates could declare a party {nt_filed}.",
+  "Budget and SEA 1 (Sept. 21, 2026): the CFO presented a draft 2027 budget of $165.7 million, to be adopted Oct. 19; he said the district lost more money than expected from the 2025 property-tax law (Senate Enrolled Act 1), projected a total loss of more than $5 million from it (more than $3 million from the operations fund), and said the budget is still on track to balance {nt_budget27}.",
+  "Facilities: under the Vision 2030 plan approved in December 2025, NAFCS may borrow up to $395 million for facility work {nt_activity}{nt_supt_reflect}. Proposals presented in June 2026 included two student activity centers estimated at $20 million each and $7 million in science-lab renovations at New Albany High {nt_activity}; 2027 capital plans include roof and HVAC work and two new elementary schools to replace Grant Line and Georgetown elementaries {nt_budget27}.",
+  "Public comment policy (Feb.–April 2026): after some residents used meetings to raise claims about district personnel, the board considered requiring advance approval for non-agenda comments; after tabling it twice, the board voted unanimously April 13 to keep the existing policy, amended so a set statement is read when a speaker is stopped {nt_pc_feb}{nt_pc_mar}{nt_pc_apr}.",
+  "Academic programs (2026): in May, eight speakers objected to a plan to phase out Latin at both high schools {nt_latin}; in August, the district first planned to replace middle-school Algebra I and Geometry for high-ability students with 'Advanced Math', then reversed course after parent objections, and Madison apologized for how the change was communicated {nt_ha1}{nt_ha2}. On June 8, 2026 the board unanimously approved a device policy to carry out the state's bell-to-bell student phone ban and reinstated the NAFCS Virtual Academy for 2026-27 {nt_virtual}.",
+  "Test scores: 91% of NAFCS third graders passed IREAD in 2026 {nt_iread}; in 2025, NAFCS had the highest ILEARN proficiency in the Clark-Floyd area (50.2% in English, 50.3% in math) {nt_ilearn}.",
+  "Forums: a Sept. 10, 2026 meet-the-candidates open house hosted by Hoosier Action's TAG chapter drew five of the seven candidates (Neafus, Northup, Naville-Cooley, Morris and Striegel) {so_meet}. SoINformed published a Floyd County voter guide questionnaire on Oct. 2, 2026 {so_guide}, but its candidate answers are in a separate Canva document that could not be read for this profile."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Melanie Stumler Northup",
+   "seat": "District 1",
+   "summary": "Incumbent, unopposed; on the board since January 2023 {nafcs_meet}{nt_filed}.",
+   "website": null,
+   "background": [
+    "Mortgage loan officer since 2016 and owner of Greet Floyds Knobs magazine, according to her district board biography {nafcs_meet}.",
+    "Served one year as board vice president and is the board's representative on the Floyd County Redevelopment Commission {nafcs_meet}."
+   ],
+   "path_to_ballot": [
+    "Filed May 29, 2026; listed without party (nonpartisan) {fc_list}{in_list}.",
+    "First elected to the District 1 seat in November 2022, succeeding Donna Corbett {nt_2022_new}."
+   ],
+   "positions": [
+    {
+     "topic": "Academics",
+     "items": [
+      "At the Sept. 10, 2026 open house, said building leaders should \"support every program, whether you're an athlete, or a theater kid, or a band kid, or an orchestra kid\" and that all students should get the same opportunities, as reported by SoINformed {so_meet}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "After her 2022 election, said her long-term hope was \"to create a higher level of cohesiveness between the board and the community and the parents and administration\" {nt_2022_new}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member {nafcs_meet}. No 2026 account by her of specific board votes was found in fetched sources."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsement for 2026 was found in fetched sources."
+   ],
+   "gaps": [
+    "Her 2026 responses to the SoINformed questionnaire, if any, could not be read.",
+    "No 2026 statements on the budget, SEA 1, the superintendent search or the high-ability math change were found."
+   ]
+  },
+  {
+   "ballot_name": "Lee Ann Wiseheart",
+   "seat": "District 2",
+   "summary": "Incumbent seeking a fifth term; on the board 2006-2010 and since 2014 {nt_filed}{nt_2022_d2}.",
+   "website": null,
+   "background": [
+    "Listed by the district as a Floyd County adult probation officer and adult sex offender probation officer {nafcs_meet}; in 2022 the News and Tribune described her as a victim assistance coordinator for Jefferson County {nt_2022_d2}.",
+    "Founded K.I.P.S. in 2012, co-founded S.U.R.F. Board in 2006 and has more than 25 years of coaching experience, according to her board biography {nafcs_meet}.",
+    "Has served in leadership with the Indiana School Boards Association {nt_2022_forum}."
+   ],
+   "path_to_ballot": [
+    "Filed June 17, 2026; listed without party (nonpartisan) {fc_list}{in_list}.",
+    "Re-elected to District 2 in 2022 over two challengers {nt_2022_new}."
+   ],
+   "positions": [
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "At the April 13, 2026 meeting, urged strict adherence to the three-minute public-comment limit: \"The policy won't mean squat if we don't abide by what the policy says\" {nt_pc_apr}."
+     ]
+    },
+    {
+     "topic": "Facilities",
+     "items": [
+      "When a $20 million student activity center for New Albany High was proposed in June 2026, said the idea was \"a lot\" for her and asked why it was needed {nt_activity}."
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "In 2022 named school safety a top priority and said she wanted to \"stabilize\" mental-health resources in schools {nt_2022_d2}."
+     ]
+    },
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "In 2022 said she would build \"a stable budget with responsible spending\" and advocate for better teacher pay and benefits {nt_2022_d2}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member {nafcs_meet}. Seconded the April 2026 motion to keep the public comment policy with an added statement {nt_pc_apr}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsement for 2026 was found in fetched sources."
+   ],
+   "gaps": [
+    "Did not attend the Sept. 10, 2026 open house, per SoINformed's list of attendees; no 2026 campaign statements found.",
+    "Her current occupation differs between her district bio and 2022 news coverage; not resolved."
+   ]
+  },
+  {
+   "ballot_name": "Steve Morris",
+   "seat": "District 2",
+   "summary": "Challenger, listed as Independent; former superintendent of Lanesville Community School Corporation {nt_filed}{in_list}.",
+   "website": null,
+   "background": [
+    "Was superintendent of Lanesville Community School Corporation for 13 years, according to the News and Tribune {nt_filed}."
+   ],
+   "path_to_ballot": [
+    "Filed May 19, 2026 as an Independent {fc_list}{in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Academics",
+     "items": [
+      "At the Sept. 10, 2026 open house, said \"Public education does so much for our community\" and described defending public education as his reason for running, per SoINformed {so_meet}."
+     ]
+    }
+   ],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsement for 2026 was found in fetched sources."
+   ],
+   "gaps": [
+    "No candidate website, social media page or detailed platform found.",
+    "Dates of his Lanesville tenure and his current occupation were not found.",
+    "No statements on the budget, SEA 1, facilities or the superintendent search found."
+   ]
+  },
+  {
+   "ballot_name": "Brad Striegel",
+   "seat": "At Large",
+   "summary": "Challenger; small business owner and former Floyd County Council member {nt_filed}{so_meet}.",
+   "website": null,
+   "background": [
+    "Owner of C-TEK Security Systems, a home security company; served 12 years in the Floyd County Sheriff's Office reserve and 16 years on the Floyd County Council as a Democrat, per the News and Tribune {nt_filed}.",
+    "Graduate of Indiana University and the Indiana Law Enforcement Academy, per a 2024 LPM voter guide {lpm_2024_council}."
+   ],
+   "path_to_ballot": [
+    "Filed June 10, 2026; listed without party (nonpartisan) {fc_list}{in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "At the Sept. 10, 2026 open house, said \"Status quo - I'm not happy with that\" and cited his government and business experience as preparation for funding challenges, per SoINformed {so_meet}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Said he is not happy with the \"status quo\" {so_meet}; no more specific comment on board decisions was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsement for 2026 was found in fetched sources."
+   ],
+   "gaps": [
+    "No candidate website or detailed platform found.",
+    "No statements on specific board decisions (Vision 2030, high-ability math, superintendent search) found."
+   ]
+  },
+  {
+   "ballot_name": "Connie Baugh",
+   "seat": "At Large",
+   "summary": "Incumbent seeking a second term; board secretary; listed as Republican {nafcs_meet}{nt_filed}{in_list}.",
+   "website": null,
+   "background": [
+    "A Floyd Central graduate whose children and grandchildren have attended NAFCS schools, per 2022 News and Tribune coverage {nt_2022_atlarge}.",
+    "Her district board biography lists no occupation {nafcs_meet}."
+   ],
+   "path_to_ballot": [
+    "Filed May 19, 2026 as a Republican {fc_list}{in_list}.",
+    "Elected to an at-large seat in November 2022 {nt_2022_new}."
+   ],
+   "positions": [
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "In 2022 said parents should \"have their voices back again\" and that the board should be open to \"fully answering the questions that the public and the parents are asking\" {nt_2022_atlarge}."
+     ]
+    },
+    {
+     "topic": "Curriculum & library policy",
+     "items": [
+      "In 2022 said she wanted more emphasis on civics and agriculture, and a return to \"classical and traditional ways of teaching\" {nt_2022_atlarge}{nt_2022_new}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member and the board's secretary {nafcs_board}. No 2026 account by her of the board's record was found in fetched sources."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "In 2022, a political action committee called Liberty Defense endorsed her and sent mailers, per the News and Tribune {nt_2022_new}.",
+    "No campaign finance report or endorsement for 2026 was found in fetched sources."
+   ],
+   "gaps": [
+    "Did not attend the Sept. 10, 2026 open house, per SoINformed's attendee list; declined a News and Tribune interview in 2022.",
+    "No 2026 campaign statements found; positions above date from 2022."
+   ]
+  },
+  {
+   "ballot_name": "Heather Naville- Cooley",
+   "seat": "At Large",
+   "summary": "Challenger; chief operating officer of a New Albany trucking company {nt_filed}.",
+   "website": null,
+   "background": [
+    "Chief operating officer of All Star Trucking in New Albany, according to her LinkedIn profile as cited by the News and Tribune {nt_filed}."
+   ],
+   "path_to_ballot": [
+    "Filed June 15, 2026; listed without party (nonpartisan) {fc_list}{in_list}. Her name appears as 'Heather Naville- Cooley' on official lists and 'Heather Naville-Cooley' in news coverage {fc_list}{nt_filed}."
+   ],
+   "positions": [
+    {
+     "topic": "Academics",
+     "items": [
+      "At the Sept. 10, 2026 open house, said \"The school system is really the driver for our economy\" and argued that weak schools would drive residents and workers away, per SoINformed {so_meet}."
+     ]
+    }
+   ],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsement for 2026 was found in fetched sources."
+   ],
+   "gaps": [
+    "No candidate website or detailed platform found.",
+    "No statements on the budget, facilities, or board decisions found."
+   ]
+  },
+  {
+   "ballot_name": "Thad Lewis Neafus",
+   "seat": "At Large",
+   "summary": "Incumbent seeking a second term; board vice president; listed as Republican {nafcs_board}{nt_filed}{in_list}.",
+   "website": null,
+   "background": [
+    "Has worked for the Floyd County Sheriff's Department (nearly 28 years as of 2022, when he was a sergeant); a New Albany High graduate whose children attended NAFCS, per 2022 coverage {nt_2022_atlarge}{nt_2022_forum}."
+   ],
+   "path_to_ballot": [
+    "Filed May 26, 2026 as a Republican {fc_list}{in_list}. He originally filed as a nonpartisan; he told the News and Tribune that public figures privately encouraged him to file as a Republican, and declined to say who {nt_filed}.",
+    "Elected to an at-large seat in November 2022 {nt_2022_new}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "At the Sept. 10, 2026 open house, pointed to upcoming challenges tied to \"SB 1\" and budget issues, per SoINformed {so_meet}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "In April 2026, said he would back keeping the public comment policy if it were amended to require a set statement when a speaker goes over time or is stopped {nt_pc_apr}.",
+      "In 2022 called for curriculum to be posted online so parents could see it {nt_2022_atlarge}."
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "In 2022 listed school safety, including school resource officers in all schools, as a priority {nt_2022_atlarge}."
+     ]
+    },
+    {
+     "topic": "Curriculum & library policy",
+     "items": [
+      "In 2022 said he wanted to focus on reading, writing and arithmetic, and raised concerns about social-emotional learning and sex education {nt_2022_atlarge}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member and vice president {nafcs_board}. Cites his police experience working with diverse groups {so_meet}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "In 2022, a political action committee called Liberty Defense endorsed him and sent mailers, per the News and Tribune {nt_2022_new}.",
+    "No campaign finance report or endorsement for 2026 was found in fetched sources."
+   ],
+   "gaps": [
+    "Most of his detailed positions date from 2022; few 2026 statements found.",
+    "His current rank and role with the sheriff's department were not confirmed for 2026."
+   ]
+  }
+ ],
+ "review_flags": [
+  {
+   "person": "Lee Ann Wiseheart",
+   "category": "other",
+   "status": "held",
+   "summary": "On Aug. 29, 2022, District 2 opponent Ryan Topping challenged her candidacy, arguing she had improperly completed her statement of economic interests (CAN-12) by writing 'N/A' for her employer; the Floyd County Election Board set a Sept. 6, 2022 hearing. Wiseheart said 'I have nothing to hide' and that she has no economic interests with NAFCS {nt_wiseheart_2022}. She appeared on the ballot and was re-elected in November 2022 {nt_2022_new}.",
+   "note": "A 2022 ballot-access challenge, not a misconduct finding. The election board's ruling was not read directly; inferred from her later re-election."
+  }
+ ],
+ "sources": {
+  "nt_filed": [
+   "School board candidates for Clark, Floyd counties are in. Who's running in 2026",
+   "News and Tribune",
+   "2026-06-30",
+   "https://www.newsandtribune.com/news/school-board-candidates-for-clark-floyd-counties-are-in-whos-running-in-2026/article_f70583a6-c025-4768-b4dc-7ce503ce098a.html"
+  ],
+  "lpm_running": [
+   "Here's who's running for local seats in Clark and Floyd counties",
+   "Louisville Public Media",
+   "2026-07-17",
+   "https://www.lpm.org/news/2026-07-17/heres-whos-running-for-local-seats-in-clark-and-floyd-counties"
+  ],
+  "fc_list": [
+   "Candidate List - Abbreviated, 2026 General Election",
+   "Floyd County Clerk",
+   "2026-08-14",
+   "https://floydcountyclerk.org/index.php/component/rsfiles/preview?path=Candidates%2FCandidate+List+for+the+2026+General+Election.pdf&Itemid=101"
+  ],
+  "nafcs_board": [
+   "New Albany Floyd County School Board Information",
+   "New Albany-Floyd County Schools",
+   "2026-10",
+   "https://nafcs.org/en-US/board-members-34443ada"
+  ],
+  "nafcs_meet": [
+   "Meet the Board",
+   "New Albany-Floyd County Schools",
+   "2026-10",
+   "https://nafcs.org/en-US/board-members-34443ada/meet-the-board-80dff55b"
+  ],
+  "wiki_nafcs": [
+   "New Albany-Floyd County Consolidated School Corporation",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/New_Albany-Floyd_County_Consolidated_School_Corporation"
+  ],
+  "so_meet": [
+   "Meet the Candidates for the New Albany Floyd County School Board",
+   "SoINformed (Hoosier Action)",
+   "2026-09-14",
+   "https://soinformed812.substack.com/p/meet-the-candidates-for-the-new-albany"
+  ],
+  "so_guide": [
+   "Floyd County Voter Guide",
+   "SoINformed (Hoosier Action)",
+   "2026-10-02",
+   "https://soinformed812.substack.com/p/floyd-county-voter-guide"
+  ],
+  "nt_supt_leave": [
+   "NAFCS superintendent stepping down",
+   "News and Tribune",
+   "2026-09-04",
+   "https://www.newsandtribune.com/news/nafcs-superintendent-stepping-down/article_8fbea3cd-f0e1-4b76-a9c6-ab2f9400914d.html"
+  ],
+  "nt_supt_reflect": [
+   "Ahead of departure, NAFCS superintendent reflects on three years of service",
+   "News and Tribune",
+   "2026-09-10",
+   "https://www.newsandtribune.com/news/ahead-of-departure-nafcs-superintendent-reflects-on-three-years-of-service/article_ec2a2272-fa84-4715-b575-7c2d25a5cee2.html"
+  ],
+  "nt_interim": [
+   "NAFCS selects interim superintendent",
+   "News and Tribune",
+   "2026-09-21",
+   "https://www.newsandtribune.com/news/nafcs-selects-interim-superintendent/article_34a286e1-a6bc-4078-8e38-eda5d33e9418.html"
+  ],
+  "wdrb_interim": [
+   "New Albany Floyd County School Board selects interim superintendent",
+   "WDRB",
+   "2026-09-22",
+   "https://www.wdrbwave.com/2026/09/22/new-albany-floyd-county-school-board-selects-interim-superintendent/"
+  ],
+  "nt_budget27": [
+   "NAFCS hears proposed budget, approves sports streaming app",
+   "News and Tribune",
+   "2026-09-22",
+   "https://www.newsandtribune.com/news/nafcs-hears-proposed-budget-approves-sports-streaming-app/article_ce212a39-dff9-41ac-9d07-fc99236281d3.html"
+  ],
+  "nt_pc_feb": [
+   "NAFCS considers changes for public comment",
+   "News and Tribune",
+   "2026-02-11",
+   "https://www.newsandtribune.com/news/nafcs-considers-changes-for-public-comment/article_2bcaa497-79fb-467f-bef4-b4518502af39.html"
+  ],
+  "nt_pc_mar": [
+   "NAFCS tables vote on changes to public comment process",
+   "News and Tribune",
+   "2026-03-11",
+   "https://www.newsandtribune.com/news/nafcs-tables-vote-on-changes-to-public-comment-process/article_3104f0d4-cd0b-40bf-b3bf-f25e4d23fe16.html"
+  ],
+  "nt_pc_apr": [
+   "NAFCS school board votes against changing public comment policy",
+   "News and Tribune",
+   "2026-04-13",
+   "https://www.newsandtribune.com/news/nafcs-school-board-votes-against-changing-public-comment-policy/article_2868107a-cd8c-4987-988b-69a280819762.html"
+  ],
+  "nt_ha1": [
+   "NAFCS parents express frustration over changes to high-ability program",
+   "News and Tribune",
+   "2026-08-11",
+   "https://www.newsandtribune.com/news/nafcs-parents-express-frustration-over-changes-to-high-ability-program/article_e4d4ba06-3fcb-4da4-8b91-d5f87f42da91.html"
+  ],
+  "nt_ha2": [
+   "NAFCS reverses course on controversial high-ability program change",
+   "News and Tribune",
+   "2026-08-13",
+   "https://www.newsandtribune.com/news/nafcs-reverses-course-on-controversial-high-ability-program-change/article_509dd5fa-d576-4a6d-867c-888d753cdb8e.html"
+  ],
+  "nt_latin": [
+   "New Albany-Floyd County schools grapple with phone ban, Latin elimination",
+   "News and Tribune",
+   "2026-05-12",
+   "https://www.newsandtribune.com/news/new-albany-floyd-county-schools-grapple-with-phone-ban-latin-elimination/article_4db8c5ef-da8e-45d3-9b8c-bd62c91e3652.html"
+  ],
+  "nt_activity": [
+   "Student activity centers proposed for NAFCS high schools",
+   "News and Tribune",
+   "2026-06-23",
+   "https://www.newsandtribune.com/news/student-activity-centers-proposed-for-nafcs-high-schools/article_3e7fa300-f6fb-46ff-87e8-77860a03b9ec.html"
+  ],
+  "nt_iread": [
+   "Local school districts see more gains in reading scores, following in state's footsteps",
+   "News and Tribune",
+   "2026-08-14",
+   "https://www.newsandtribune.com/news/local-school-districts-see-more-gains-in-reading-scores-following-in-states-footsteps/article_b83fa2b9-cffe-4694-a696-94a842b02057.html"
+  ],
+  "nt_ilearn": [
+   "Southern Indiana school officials analyze ILEARN results",
+   "News and Tribune",
+   "2025-07-21",
+   "https://www.newsandtribune.com/news/southern-indiana-school-officials-analyze-ilearn-results/article_c7fd459c-2ac1-486b-a514-029d4dc35e99.html"
+  ],
+  "nt_virtual": [
+   "NAFCS approves virtual academy, cell phone policy for 26-27 school year",
+   "News and Tribune",
+   "2026-06-11",
+   "https://www.newsandtribune.com/news/nafcs-approves-virtual-academy-cell-phone-policy-for-26-27-school-year/article_732df935-e085-4a3b-afc1-c74fd2569cfd.html"
+  ],
+  "nt_2022_atlarge": [
+   "Eight candidates vie for NAFCS at-large seats",
+   "News and Tribune",
+   "2022-10-02",
+   "https://www.newsandtribune.com/news/eight-candidates-vie-for-nafcs-at-large-seats/article_db5f1d2a-40f8-11ed-9885-6ba4ffb9bf93.html"
+  ],
+  "nt_2022_d2": [
+   "Three candidates seek NAFCS District 2 seat",
+   "News and Tribune",
+   "2022-10-13",
+   "https://www.newsandtribune.com/news/three-candidates-seek-nafcs-district-2-seat/article_a280ac98-4b35-11ed-8235-b3bc72a62ccd.html"
+  ],
+  "nt_2022_forum": [
+   "New Albany-Floyd County school board candidates discuss priorities at public forum",
+   "News and Tribune",
+   "2022-09-29",
+   "https://www.newsandtribune.com/news/new-albany-floyd-county-school-board-candidates-discuss-priorities-at-public-forum/article_5959d052-4032-11ed-97c4-57f76c065cde.html"
+  ],
+  "nt_2022_new": [
+   "New Floyd County school board members to take office in January",
+   "News and Tribune",
+   "2022-12-31",
+   "https://www.newsandtribune.com/news/new-floyd-county-school-board-members-to-take-office-in-january/article_3535b218-86ff-11ed-9ce2-57d21f982518.html"
+  ],
+  "fc_2022": [
+   "2022 General Election Precinct Summary Report",
+   "Floyd County Clerk",
+   "2022-11",
+   "https://floydcountyclerk.org/index.php/floyd-county-indiana-elections/floyd-county-indiana-election-results/download-file?path=2022-General-Precinct-Summary-Report.pdf"
+  ],
+  "nt_wiseheart_2022": [
+   "Challenge filed against Wiseheart's candidacy for NAFCS school board race",
+   "News and Tribune (via Yahoo News)",
+   "2022-08-31",
+   "https://www.yahoo.com/news/challenge-filed-against-wisehearts-candidacy-022300539.html"
+  ],
+  "lpm_2024_council": [
+   "LPM Southern Indiana Voter Guide: Floyd County Council, at-large",
+   "Louisville Public Media",
+   "2024-10-04",
+   "https://lpm.org/news/2024-10-04/lpm-southern-indiana-voter-guide-floyd-county-council-at-large"
+  ]
+ }
+}

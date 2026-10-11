@@ -1,0 +1,113 @@
+{
+ "race_id": "in-school-board-kokomo",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Kokomo School Corporation serves Kokomo and is Howard County's largest school district; Wikipedia lists Dr. Mike Sargent as superintendent {wiki_ksc}. The Kokomo Lantern reported in October 2024 that the district has about 5,400 students and 800 staff {lantern_referendum}. This guide could not open the district's website to confirm current enrollment or the superintendent in 2026.",
+  "The board is chosen in staggered elections: three at-large seats were on the 2022 ballot {tribune_2022_results}, and four other members' terms expired in 2024 {tribune_2024_races}. In May 2025 the board appointed Joey Hurlocker to fill the term of the late Charley Hinkle through 2028 {tribune_hurlocker}.",
+  "Seats on the 2026 ballot: the Howard County election office lists the race as 'Kokomo School Corporation - At Large (3 Seats)', so voters choose up to three, not one as shown on the state list {howard_2026}{in_list}. The three at-large seats are held by Lisa Ellison, Nicole Fain Mundy and Issac White, who won them in November 2022 {tribune_2022_results}. Mundy and White are on the ballot; Ellison is listed by the state as a write-in candidate {howard_2026}{in_list}. With two names on the ballot for three seats, all three incumbents are seeking another term.",
+  "Board leadership: Ellison was board president in May 2025 {tribune_hurlocker}. Search-result text indicates the board named Mundy president and White vice president for 2026, but this guide could not open that article.",
+  "Budget and property taxes (2024–2026): voters rejected the district's first operating referendum in November 2024, which would have raised about $6.1 million a year for staff pay, academic support and technology {lantern_referendum}{ipm_referendum_result}. At a Sept. 2, 2026 work session, the board reviewed a proposed 2027 budget with an education fund of more than $48 million and an operations fund of about $18.8 million, and discussed the effect of the 2025 property-tax law SEA 1; a public hearing was set for Oct. 7 and adoption for Oct. 28 {govly_budget}.",
+  "Teacher discussion policy (2023): in December 2023 the board unanimously adopted a policy requiring that discipline, class size, teaching methods and curriculum materials be discussed with the Kokomo Teachers Association after a 2023 state law made such discussion optional {tribune_discussion}.",
+  "Forums: this guide found no 2026 candidate forum or questionnaire for this race."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Issac White",
+   "seat": "At Large",
+   "summary": "Incumbent first elected in November 2022, seeking a second term {tribune_2022_results}{howard_2026}.",
+   "website": null,
+   "background": [
+    "Was elected to an at-large seat in November 2022 in his first run for office, edging incumbent Lisa Hemmeger by eight votes for third place {tribune_2022_results}.",
+    "Spoke at a Sept. 15, 2022 candidate forum during that campaign {lantern_2022_roundup}."
+   ],
+   "path_to_ballot": [
+    "Filed a petition of nomination for an at-large seat; the county lists him without a party label, and the state lists him as Nonpartisan {white_petition}{howard_2026}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. This guide found no statement from him on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "Was backed by the UAW and UAW Local 685 in 2022 {tribune_2022_results}. No 2026 endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No 2026 news coverage, questionnaire, website or social media statements were found; his occupation could not be confirmed.",
+    "Unverified (search-result text only): the Kokomo Tribune reported in January 2026 that he was named board vice president."
+   ]
+  },
+  {
+   "ballot_name": "Lisa Ellison",
+   "seat": "At Large",
+   "summary": "Incumbent and former board president running as a write-in candidate {tribune_hurlocker}{in_list}.",
+   "website": null,
+   "background": [
+    "Was the top vote-getter for the three at-large seats in November 2022, when she was described as an incumbent and a teacher with 26 years of experience {tribune_2022_results}.",
+    "Was board president in May 2025, when the board appointed Joey Hurlocker to a vacant seat; she said, 'We just thought his presentation was right on point' {tribune_hurlocker}."
+   ],
+   "path_to_ballot": [
+    "Is listed on the state candidate list as a write-in candidate with the label Independent {in_list}. Her name is not on the county's list of printed ballot names, so voters would need to write it in {howard_2026}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. This guide found no statement from her on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No 2026 coverage explaining why she is running as a write-in rather than by ballot petition was found.",
+    "Her current occupation could not be confirmed beyond the 2022 description as a teacher.",
+    "No questionnaire, website or social media statements were found."
+   ]
+  },
+  {
+   "ballot_name": "Nicole Fain Mundy",
+   "seat": "At Large",
+   "summary": "Incumbent first elected in November 2022, seeking a second term; a former teacher and former Kokomo Teachers Association president {tribune_2022_results}{howard_2026}.",
+   "website": null,
+   "background": [
+    "Former teacher and former president of the Kokomo Teachers Association {tribune_2022_results}{tribune_2022_field}.",
+    "Was elected to an at-large seat in November 2022, finishing second {tribune_2022_results}."
+   ],
+   "path_to_ballot": [
+    "Filed a petition of nomination for an at-large seat, stamped filed June 17, 2026; the county lists her without a party label, and the state lists her as Nonpartisan {mundy_petition}{howard_2026}{in_list}."
+   ],
+   "positions": [
+    {"topic": "Teachers & staff", "items": ["Supported the December 2023 policy requiring the district to discuss discipline, class size, teaching methods and curriculum materials with the teachers union, saying, 'It gives a voice to our teachers which is desperately lacking in the state of Indiana and education policy' {tribune_discussion}."]}
+   ],
+   "on_incumbent": [
+    "Is a current board member. This guide found no 2026 statement from her on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No 2026 news coverage, questionnaire, website or social media statements were found; her current occupation could not be confirmed.",
+    "Unverified (search-result text only): the Kokomo Tribune reported in January 2026 that she was named board president."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "howard_2026": ["2026 General Election", "Howard County, Indiana (Clerk / Election Office)", "2026", "https://secure.in.gov/counties/howard/elections/2026-general/"],
+  "white_petition": ["Petition of Nomination and Consent for School Board Office (CAN-34): Issac White, At-Large", "Howard County, Indiana", "2026-06", "https://secure.in.gov/counties/howard/elections/candidate-forms/2026/Issac-White__At-Large.pdf"],
+  "mundy_petition": ["Petition of Nomination and Consent for School Board Office (CAN-34): Nicole Fain Mundy, At-Large", "Howard County, Indiana", "2026-06-17", "https://secure.in.gov/counties/howard/elections/candidate-forms/2026/Nicole-Mundy__At-Large.pdf"],
+  "wiki_ksc": ["Kokomo-Center Township Consolidated School Corporation", "Wikipedia", "2026", "https://en.wikipedia.org/wiki/Kokomo-Center_Township_Consolidated_School_Corporation"],
+  "lantern_referendum": ["Kokomo Schools ask for tax bump", "The Kokomo Lantern", "2024-10-22", "https://kokomolantern.substack.com/p/kokomo-schools-ask-for-tax-bump"],
+  "ipm_referendum_result": ["Lake Station wins referendum ask, but Kokomo and Twin Lakes fall short", "Indiana Public Media", "2024-11-06", "https://www.ipm.org/2024-11-06/lake-station-wins-referendum-ask-but-kokomo-and-twin-lakes-fall-short"],
+  "tribune_2022_results": ["Two newcomers elected to Kokomo School Board", "Kokomo Tribune", "2022-11-08", "https://www.kokomotribune.com/news/two-newcomers-elected-to-kokomo-school-board/article_a4f8e2b0-5fda-11ed-af22-fb4d4834ff4d.html"],
+  "tribune_2022_field": ["Local school board races take shape", "Kokomo Tribune (via Yahoo News)", "2022-09-10", "https://www.yahoo.com/news/local-school-board-races-shape-035900452.html"],
+  "lantern_2022_roundup": ["An early season political round-up", "The Kokomo Lantern", "2022-09-18", "https://kokomolantern.substack.com/p/an-early-season-political-round-up"],
+  "tribune_2024_races": ["School board races set for Kokomo, Western", "Kokomo Tribune (via Yahoo News)", "2024-06-27", "https://www.yahoo.com/news/school-board-races-set-kokomo-094600504.html"],
+  "tribune_hurlocker": ["Kokomo School Board adds new member", "Kokomo Tribune", "2025-05-14", "https://www.kokomotribune.com/news/kokomo-school-board-adds-new-member/article_d96b6349-b773-4f20-9f49-c728ca12d082.html"],
+  "tribune_discussion": ["Kokomo School Board adopts new discussion policy", "Kokomo Tribune (via Yahoo News)", "2023-12-13", "https://www.yahoo.com/news/kokomo-school-board-adopts-discussion-232500030.html"],
+  "govly_budget": ["KSC Board Work Session - September 2nd, 2026 (meeting summary)", "Govly", "2026-09-03", "https://app.govly.com/public/meetings/75225"]
+ }
+}

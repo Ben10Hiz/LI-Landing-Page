@@ -1,0 +1,188 @@
+{
+  "race_id": "in-school-board-michigan-city-area",
+  "reviewed": "2026-10-10",
+  "status": "draft",
+  "status_note": "Pending editorial review.",
+  "office": "@in_school_board",
+  "incumbent": null,
+  "race_context": [
+    "Michigan City Area Schools (MCAS) runs 11 K-12 schools: Michigan City High School, Barker and Krueger middle schools and eight elementary schools. It also runs LaPorte County Career & Technical Education, the Little Wolves Early Learning Center and adult education {mcas_leadership}. Its board seats are named for the Civil City, Coolspring/Pine townships and Michigan/Springfield townships, plus one at-large seat, and the state ballot list shows the Civil City race in LaPorte and Porter counties {mcas_board}{in_list}. No current enrollment figure was found on the district pages reviewed; the district cites declining enrollment {mcas_ref}.",
+    "The superintendent is Dr. Wendel McCollum, who took the job on Aug. 5, 2024 {mcas_leadership}.",
+    "The board has seven members: four Civil City seats, one Coolspring/Pine Township seat, one Michigan/Springfield Township seat and one at-large seat {mcas_board}. Meetings are held on the last Tuesday of each month at 6 p.m., with different dates in November and December {mcas_board}.",
+    "Civil City seats on the 2026 ballot: the state list says vote for 1, but the Civil City race elects three members. County candidate lists show 'Vote for 3' for this race in 2018 and 2022, and the fourth Civil City seat was elected alone in 2024 {lpc_2018res}{lpc_2022cand}{lpc_2024res}{in_list}. The three Civil City members elected in 2022 were Thomas R. Dombkowski, Michael J. Gresham and Jenilee Haynes Peterson, chosen from four candidates; the district lists their terms as 2023-2026 {lpc_2022cand}{mcas_board}. Gresham and Haynes Peterson are running again. Dombkowski, the board's vice president, is not on the 2026 list {mcas_board}{in_list}.",
+    "Because the state list shows three different people for the Civil City race (Haynes Peterson's name appears twice), three candidates are running for what county records indicate are three seats {in_list}{lpc_2022cand}.",
+    "The fourth Civil City seat belongs to board president Marty Corley, Michigan City's police chief. He won it in November 2024 over Rodney McCormick, 60.8% to 39.2%, and was sworn in in January 2025, so his seat is not on the 2026 ballot {lpc_2024res}{hd_welcome}. The district's web page still lists his term as '2021-2026' {mcas_board}.",
+    "At-large seat (one seat): at-large member Phyllis Stark resigned in July 2025 {nwi_stark}. On Sept. 29, 2025, the board voted unanimously to appoint Vera Gaston to the seat {hd_gaston}. The district lists Gaston's term as 2025-2026, and she is running against Michelle Lynn Duck {mcas_board}{in_list}.",
+    "Party labels: 2026 is the first year Porter and LaPorte county school board candidates could file under a political party {nwi_parties}. In this district, the state list shows Duck and Gillespie as Independent, Gresham as Democratic, and Gaston and Haynes Peterson as Nonpartisan {in_list}.",
+    "Operating referendum: on June 30, 2026, the board voted to put an eight-year operating referendum on the Nov. 3, 2026 ballot {hd_refboard}{nwi_ref80}. The district says the maximum rate would be about $0.2998 per $100 of assessed value, or about $260 a year on a home with a $200,000 median assessed value, through 2034 {mcas_ref}. The NWI Times describes it as an $80 million referendum {nwi_ref80}. The district says the money would pay for student programs, transportation, safety, staff recruitment and retention, and student behavior and health services, and could not be used for construction {mcas_ref}.",
+    "Budget and SEA 1: MCAS projects about $2.56 million less revenue over three years than it had expected, because of the 2025 property-tax law (SEA 1) and the tax caps {mcas_finance}. It says it has already cut about $3 million in spending and has eliminated positions or left them vacant {mcas_finance}. The district says it currently has no referendum fund {mcas_ref}. It held community meetings and launched a school-finance video series ahead of the vote {nwi_refmeet}{hd_finvideo}.",
+    "Facilities: on May 26, 2026, the board unanimously approved three resolutions for a bond project covering elementary school renovations, HVAC work and a new athletic facility. Gresham made the motion {hd_bonds}. Construction of a new track and turf field started in May 2026 {hd_sports}. On July 28, 2026, the board approved a $182 million long-term facilities and grade-configuration plan that turns Krueger Middle School into a grades 5-8 intermediate school {nwi_config}{hd_facilities}.",
+    "Staff: in October 2025 the board considered a new collective bargaining agreement with the Michigan City Education Association {hd_contract}.",
+    "Forums: no 2026 school board forum or candidate questionnaire for this district was found. The League of Women Voters of La Porte County announced two general-election candidate forums, but the coverage reviewed does not say whether school board candidates were included {hd_lwv}.",
+    "Coverage of these candidates is sparse. The main local daily, the Herald-Dispatch, and the NWI Times are paywalled, and only the openings of their articles could be read."
+  ],
+  "candidates": [
+    {
+      "ballot_name": "Michelle Lynn Duck",
+      "seat": "At Large",
+      "summary": "Running as an Independent for the at-large seat now held by appointed member Vera Gaston {in_list}{mcas_board}.",
+      "website": null,
+      "background": [
+        "No published background information was found."
+      ],
+      "path_to_ballot": [
+        "Listed as Independent for the at-large seat on the state candidate list {in_list}."
+      ],
+      "positions": [],
+      "on_incumbent": [],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "No news coverage, candidate website, questionnaire or forum answers were found.",
+        "Occupation, community roles and ties to the schools are unknown.",
+        "Positions on the 2026 operating referendum and the facilities plan are unknown.",
+        "No campaign finance reports were located."
+      ]
+    },
+    {
+      "ballot_name": "Vera N Gaston",
+      "seat": "At Large",
+      "summary": "Incumbent. The board appointed her to the at-large seat in September 2025 after Phyllis Stark resigned {hd_gaston}{nwi_stark}.",
+      "website": null,
+      "background": [
+        "Current at-large board member, with a term the district lists as 2025-2026 {mcas_board}."
+      ],
+      "path_to_ballot": [
+        "Appointed by unanimous board vote at a special meeting on Sept. 29, 2025 {hd_gaston}.",
+        "Listed as Nonpartisan for the at-large seat on the state candidate list {in_list}."
+      ],
+      "positions": [],
+      "on_incumbent": [
+        "Is a current board member {mcas_board}. No statement from her about the board's record was found."
+      ],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "Her occupation and background were not available; the article on her appointment is paywalled past its opening.",
+        "No 2026 campaign statements, questionnaire or forum answers were found.",
+        "Her votes and statements on the operating referendum and facilities plan were not confirmed.",
+        "No campaign finance reports were located."
+      ]
+    },
+    {
+      "ballot_name": "Jenilee Haynes Peterson",
+      "seat": "Civil City",
+      "summary": "Incumbent board secretary and director of Friendship Botanic Gardens in Michigan City, running for reelection in the Civil City race {mcas_board}{hd_fbg}.",
+      "website": null,
+      "background": [
+        "Director of Friendship Botanic Gardens in Michigan City, which ran a $75,000 emergency repair fundraising campaign in 2025 {hd_fbg}{hd_windphone}.",
+        "Board secretary, holding a Civil City seat with a term the district lists as 2023-2026 {mcas_board}."
+      ],
+      "path_to_ballot": [
+        "Elected to a Civil City seat in 2022 from a field of four candidates for three seats {lpc_2022cand}{mcas_board}.",
+        "Listed as Nonpartisan on the 2026 state candidate list {in_list}."
+      ],
+      "positions": [],
+      "on_incumbent": [
+        "Is a current board member {mcas_board}. No statement from her about the board's record was found."
+      ],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "The state candidate list shows her name twice in the Civil City race; this profile lists her once.",
+        "No 2026 campaign statements, questionnaire or forum answers were found.",
+        "Her individual votes on the referendum resolution and facilities plan were not confirmed (news reports describe board votes as unanimous where stated).",
+        "No campaign finance reports were located."
+      ]
+    },
+    {
+      "ballot_name": "Kurtess R. \"Kurt\" Gillespie",
+      "seat": "Civil City",
+      "summary": "Running as an Independent in the Civil City race; he is not a current board member {in_list}{mcas_board}.",
+      "website": null,
+      "background": [
+        "No published background information was found."
+      ],
+      "path_to_ballot": [
+        "Listed as Independent in the Civil City race on the state candidate list {in_list}."
+      ],
+      "positions": [],
+      "on_incumbent": [],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "No news coverage, candidate website, questionnaire or forum answers were found.",
+        "Occupation, community roles and ties to the schools are unknown.",
+        "Positions on the 2026 operating referendum and facilities plan are unknown.",
+        "No campaign finance reports were located."
+      ]
+    },
+    {
+      "ballot_name": "Michael J. Gresham",
+      "seat": "Civil City",
+      "summary": "Incumbent Civil City board member running for reelection, listed as Democratic on the state ballot list {mcas_board}{in_list}.",
+      "website": null,
+      "background": [
+        "Current board member holding a Civil City seat, with a term the district lists as 2023-2026 {mcas_board}."
+      ],
+      "path_to_ballot": [
+        "Elected to a Civil City seat in 2022 from a field of four candidates for three seats {lpc_2022cand}{mcas_board}.",
+        "Listed as Democratic on the 2026 state candidate list; 2026 is the first year local school board candidates could file under a party {in_list}{nwi_parties}."
+      ],
+      "positions": [
+        {
+          "topic": "Facilities",
+          "items": [
+            "Moved to approve the three bond resolutions for elementary school renovations, HVAC work and a new athletic facility on May 26, 2026; the board approved them unanimously {hd_bonds}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Is a current board member {mcas_board}. No campaign statement from him about the board's record was found."
+      ],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "Occupation and background were not available in the sources reviewed.",
+        "No 2026 campaign statements, questionnaire or forum answers were found.",
+        "A 2010 NWI Times voter guide names a Michael Gresham as an at-large MCAS candidate who did not answer the questionnaire; it is not confirmed whether this is the same person.",
+        "No campaign finance reports were located."
+      ]
+    }
+  ],
+  "review_flags": [
+    {
+      "person": "Nicole Santana (MCAS employee; not a candidate)",
+      "category": "criminal case",
+      "status": "held",
+      "summary": "Hometown News Now reported on Oct. 5, 2026 that a Michigan City Area Schools employee faces one Level 6 felony fraud count, filed in July 2025, over alleged personal use of $3,986.11 in district funds. The State Board of Accounts reported in late August 2026 that MCAS lacked proper internal controls over some financial policies. The district's business manager acknowledged the findings and listed eight corrective actions. The employee resigned May 6, 2025, and a hearing was set for Oct. 26 in La Porte Superior Court 4. The case is unresolved {htn_sboa}.",
+      "note": "This concerns a district employee, not a candidate. It may matter for board oversight of finances during the referendum campaign. The charge is unresolved. No candidate statement on the audit findings was found."
+    }
+  ],
+  "sources": {
+    "mcas_board": ["School Board", "Michigan City Area Schools", "2026-10", "https://www.educatemc.net/welcome-to-city/about-us/school-board"],
+    "mcas_leadership": ["Leadership", "Michigan City Area Schools", "2026-10", "https://www.educatemc.net/welcome-to-city/about-us/leadership"],
+    "mcas_ref": ["2026 Operating Referendum", "Michigan City Area Schools", "2026-10", "https://www.educatemc.net/community/2026-operating-referendum"],
+    "mcas_finance": ["School Finance: Where Your Dollars Go", "Michigan City Area Schools", "2026-10", "https://www.educatemc.net/community/2026-operating-referendum/school-finance"],
+    "nwi_parties": ["School board candidates file under political parties in Porter and LaPorte Counties for first time", "The Times (NWI)", "2026-06-22", "https://nwitimes.com/news/local/education/article_4876f19c-ff20-42c8-aefb-73a556aa0e5f.html"],
+    "nwi_ref80": ["Michigan City schools voters to decide $80M operating referendum", "The Times (NWI)", "2026-07-02", "https://nwitimes.com/news/local/education/article_e7b9878b-4d2f-43a4-be0e-e618ae8aabfa.html"],
+    "nwi_refmeet": ["Michigan City schools to host community meetings about $80M operating referendum", "The Times (NWI)", "2026-07-07", "https://nwitimes.com/news/local/education/article_4fa84e3f-a466-4000-9263-ab5145fd06b6.html"],
+    "nwi_config": ["Michigan City school board approves new $182M configuration plan, changing grade levels", "The Times (NWI)", "2026-07-29", "https://nwitimes.com/news/local/education/article_ef37f6a8-b653-4e5d-a698-8b63b0bd42c0.html"],
+    "nwi_stark": ["Michigan City School Board member resigns, potential rebrand of virtual academy", "The Times (NWI)", "2025-07-30", "https://www.nwitimes.com/news/local/education/article_d008e04f-5ef0-4349-9a52-d196604ab4d5.html"],
+    "hd_refboard": ["MCAS board OKs placing referendum before voters", "The Herald-Dispatch", "2026-07-02", "https://www.lpheralddispatch.com/news/local/mcas-board-oks-placing-referendum-before-voters/article_1b5ac7b8-20f5-533b-89a1-ed5fec5a9351.html"],
+    "hd_finvideo": ["MCAS launches school finance video series", "The Herald-Dispatch", "2026-09-30", "https://www.lpheralddispatch.com/news/local/mcas-launches-school-finance-video-series/article_3a74e248-07fc-5259-978a-54877dce3a5c.html"],
+    "hd_facilities": ["MC school board OK's facilities plan", "The Herald-Dispatch", "2026-07-30", "https://www.lpheralddispatch.com/news/local/mc-school-board-ok-s-facilities-plan/article_bf1f8433-d14e-59d2-8297-6b0221d9d784.html"],
+    "hd_bonds": ["MC school board approves key bond resolutions", "The Herald-Dispatch", "2026-06-19", "https://www.lpheralddispatch.com/news/local/mc-school-board-approves-key-bond-resolutions/article_ffa4b9d3-a6a0-5636-a9eb-3c741f9c60cf.html"],
+    "hd_sports": ["MCAS breaks ground on sports complex", "The Herald-Dispatch", "2026-05-19", "https://www.lpheralddispatch.com/news/local/mcas-breaks-ground-on-sports-complex/article_383160b3-05b8-5e00-b705-a7f19fd20c95.html"],
+    "hd_gaston": ["Gaston chosen to fill MC school board vacancy", "The Herald-Dispatch", "2025-10-07", "https://www.lpheralddispatch.com/news/local/gaston-chosen-to-fill-mc-school-board-vacancy/article_db1f8403-855c-5fd9-a349-0e937dd110d3.html"],
+    "hd_welcome": ["MC school board welcomes new members, elects officers", "The Herald-Dispatch", "2025-01-20", "https://www.lpheralddispatch.com/news/local/mc-school-board-welcomes-new-members-elects-officers/article_25d1b045-778d-532b-9ebe-6bff4e8f9091.html"],
+    "hd_contract": ["New contract in works for MC schools teachers", "The Herald-Dispatch", "2025-10-27", "https://www.lpheralddispatch.com/news/local/new-contract-in-works-for-mc-schools-teachers/article_97765aa5-aa4c-57f6-bc1e-93f148d02c61.html"],
+    "hd_fbg": ["Friendship Botanic Gardens seeking to raise $75K by fall", "The Herald-Dispatch", "2025-07-17", "https://www.lpheralddispatch.com/news/local/friendship-botanic-gardens-seeking-to-raise-75k-by-fall/article_6c1cfae9-975d-5563-b87b-4415c88c9278.html"],
+    "hd_windphone": ["Wind phone placed at Friendship Botanic Gardens", "The Herald-Dispatch", "2025-08-25", "https://www.lpheralddispatch.com/news/local/wind-phone-placed-at-friendship-botanic-gardens/article_b6b9f832-ec40-5658-80b2-76f71f44457c.html"],
+    "hd_lwv": ["League of Women Voters to hold candidate forums", "The Herald-Dispatch", "2026-09-16", "https://www.lpheralddispatch.com/news/local/league-of-women-voters-to-hold-candidate-forums/article_0090d6d2-dee0-5fcb-b5c6-dff3be0a5b98.html"],
+    "lpc_2018res": ["2018 General Election Summary Report", "La Porte County", "2018-11", "https://laporteco.in.gov/Elections/ElectionResults/2018General/LaporteElecSumm%20.htm"],
+    "lpc_2022cand": ["2022 General Election Candidates", "La Porte County", "2022-09", "https://laporteco.in.gov/wp-content/uploads/2022/09/2022-09-09-2.pdf"],
+    "lpc_2024res": ["2024 General Election Summary Report", "La Porte County", "2024-11-16", "https://laporteco.in.gov/Elections/ElectionResults/2024General/Laporte_ElecSumm_All.htm"],
+    "htn_sboa": ["School Official Allegedly Misused Funds", "Hometown News Now", "2026-10-05", "https://hometownnewsnow.com/local-news/934759"]
+  }
+}
