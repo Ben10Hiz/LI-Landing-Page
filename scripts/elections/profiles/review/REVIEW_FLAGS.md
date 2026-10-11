@@ -97,6 +97,13 @@ Sensitive items held for a second, careful editorial pass (criminal cases, misco
   Note: Second-hand description of past remarks; the article does not give the date or setting, and no response from administrators was reported. Probably context only.
   - [Hammond schools to restore some bus service, new board president promises restoration and elevation](https://www.lakeshorepublicmedia.org/local-news/2025-01-08/hammond-schools-to-restore-some-bus-service-new-board-president-promises-restoration-and-elevation) — Lakeshore Public Media, 2025-01-08
 
+## Indiana School Board Member (`in-school-board-jackson-seymour-city`)
+
+- **Joe Tormoehlen** — other — _held_
+  At the June 9, 2026 board meeting, 'Mr. Nate Tormoehlen with Beatty Insurance' gave the board an update on the district's property and liability insurance quoting process and said two quotes were expected for review in July. The minutes record no vote on insurance at that meeting.
+  Note: Search snippets (Seymour Tribune, unverified) say board member Joe Tormoehlen was an owner of Beatty Insurance before retiring. This guide did not confirm any family or business tie between the two, whether Joe Tormoehlen retains an interest in the firm, or how he voted on any later insurance contract. Editors may want to check July-September 2026 minutes and any conflict-of-interest disclosure before deciding whether this is relevant.
+  - [School Board Minutes, June 9, 2026](https://www.scsc.k12.in.us/document-library/school-board/board-minutes/2026-1/1408-june-9-2026-1/file) — Seymour Community Schools, 2026-06-09
+
 ## Indiana School Board Member (`in-school-board-jefferson-madison`)
 
 - **Michael Scott** — board censure — _held_

@@ -1,0 +1,251 @@
+{
+ "race_id": "in-school-board-cloverdale",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The district: Cloverdale Community School Corporation serves Cloverdale Township in Putnam County and Jackson, Jennings and Taylor townships in Owen County {bg_2022_results}. Its main offices are at 310 E. Logan St. in Cloverdale {ccsc_board}. Since 2020 it has also run the Cloverdale Distance Learning Academy (CDLA), a virtual school run with a private partner. Former Superintendent Greg Linton said CDLA grew from 174 students in 2020 to a little over 2,100 {bg_linton_mar}. At the August 2026 budget workshop, Linton reported 1,013 in-person students in 2025-26, up 53 from the year before, and 2,053 CDLA students as of February 2026 {bg_turf}. State enrollment data, which include the virtual students, show 3,206 students in 2026, compared with 1,406 in 2022 {idoe_enroll}.",
+  "Superintendent: Dr. Stacy Mason took over on July 1, 2026, on a three-year contract with a base salary of $123,500 {bg_mason_may}. She spent nearly 30 years with the Vigo County School Corporation {bg_mason_may}. She succeeded Greg Linton, superintendent for 12 years, who now leads CDLA {bg_linton_jun}. In July 2026 the board approved an independent contractor agreement making Apex Education Services the chief financial officer and executive director of CDLA, with Linton serving in both roles {bg_mason_jul}.",
+  "Board: seven members. They are Vivian Whitaker (president), Mike Rightmyer II (vice president), Donna Fidler (secretary), Joe Mann, Katrina Lewis, Emily Haltom and Melissa Carrell {ccsc_board}. Seats are tied to townships, but the whole district votes on every seat {bg_2022_results}. Cloverdale Township has four seats {bg_2022_results}. Three were filled in 2024, when Fidler, Lewis and Mann were re-elected over Aragon Gould {bg_2024_results}{enr_2024}. The Banner Graphic called those three seats at-large {bg_2024_preview}. The fourth is Whitaker's seat, last elected in 2022 {enr_2022}.",
+  "Seats on the 2026 ballot: ONE seat, the Cloverdale Township seat held by Whitaker. The state list says '1 seat', which matches the one-seat Cloverdale Township race in 2022 {in_list}{enr_2022}. Whitaker is running for re-election against Aragon Gould, a rematch of 2022, when Whitaker won 939 to 600 {bg_cand_2026}{enr_2022}. The Banner Graphic reported that no candidate filed for the Taylor Township (Owen County) seat {bg_cand_2026}. In an earlier race the paper noted that incumbents keep their seats in unfilled positions unless they resign {bg_2024_preview}.",
+  "Party labels: Gould is listed as Republican and Whitaker as Nonpartisan {in_list}{bg_cand_2026}. In March 2025, the full board, including Whitaker, signed a letter opposing SB 287, the bill that allowed party labels in school board races. The letter said that 'to have members declare their political party would undermine the integrity of our decisions' {bg_sb287}.",
+  "Facilities and debt: in August 2026 the board approved a $4.5 million project to put synthetic turf on the football field and replace the track. Mason said the project would fix drainage problems and save on upkeep {bg_turf}. Mason estimated the net tax increase at about $0.0453 per $100 of assessed value. She said the district pays $1.36 million a year in debt service, falling to $1.17 million in 2036 {bg_turf}. On September 8, 2026 the board made a preliminary determination to issue up to $4,895,000 in bonds for district-wide renovations, including site and athletic improvements, equipment and technology {ccsc_determination}. A hearing on an amendment to the Cloverdale High School lease is set for October 12, 2026 {ccsc_lease_notice}.",
+  "Budget and taxes: at the August 2026 budget workshop, Linton reported an education fund balance of $5,823,521 at the start of 2026 and a proposed 2027 operations fund levy of $3,991,449 {bg_turf}. He said the district always advertises a higher tax rate than is finally approved. 'The rate this year is much lower than last year and that's due to us having solid cash balances,' he said {bg_turf}. The board held a budget hearing on August 24, 2026 and planned to adopt the budget on September 14 {ccsc_hearing_agenda}{bg_turf}. This guide found no board statement on how the 2025 property-tax law (SEA 1) affects Cloverdale. The district is not listed among those with referendums on the November 2026 ballot {dlgf_ref}.",
+  "Other 2026 decisions: in June 2026 the board added a special education teacher position at Cloverdale High School {bg_linton_jun}. In August it adopted the SuperEval tool for superintendent evaluations {bg_turf}. A pre-bargaining hearing with the Cloverdale Education Association was held on September 9, 2026 {ccsc_bargain_agenda}.",
+  "Forums: this guide found no 2026 candidate forum or questionnaire for this race. The most recent statements from both candidates are their 2022 Banner Graphic biographies and Whitaker's 2026 comments as board president {bg_bios_2022}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Aragon Gould",
+   "seat": "Cloverdale Township (Putnam-Owen)",
+   "summary": "Challenger listed as Republican. Ran for this seat in 2022 and for a Cloverdale Township seat in 2024 {in_list}{enr_2022}{enr_2024}.",
+   "website": null,
+   "background": [
+    "Graduated from Cloverdale High School in 1994, according to his 2022 candidate biography {bg_bios_2022}.",
+    "Worked as an executive manager for a restaurant chain and as a regional manager for U.S. Bank, then served in the U.S. Army, including in Iraq in 2007-2008, and later in the Army Reserves as a squad leader, according to the 2022 biography {bg_bios_2022}.",
+    "In 2022 he worked as National Executive for Commercial Merchant Services with PNC Bank {bg_bios_2022}.",
+    "In 2022 he had a child at Cloverdale Elementary, coached youth football, basketball and baseball, and was treasurer of the Cloverdale Community Youth League {bg_bios_2022}."
+   ],
+   "path_to_ballot": [
+    "Filed for the Cloverdale Township seat by the June 18, 2026 deadline, listed as Republican {bg_cand_2026}{in_list}.",
+    "Lost to Whitaker for this seat in 2022, 939 to 600 {enr_2022}. In 2024 he finished fourth of four candidates for three seats, with 1,352 votes. The Banner Graphic called these the board's at-large seats and the state's results list them under Cloverdale Township {bg_2024_results}{bg_2024_preview}{enr_2024}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "In 2022 he said he wanted to be 'a good steward of the resources that the town provides the school' {bg_bios_2022}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "In 2022 he said he wanted to help create 'a place where our children can learn the foundational skills need to launch a successful life' and to give students the skills to 'thrive in today's world' {bg_bios_2022}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "This guide found no public statement from him on the current board's decisions."
+   ],
+   "plans": [
+    "In 2022 he cited his experience in 'time management, managerial collaboration, financial stewardship, executive leadership' as preparation for the board {bg_bios_2022}."
+   ],
+   "endorsements_finance": [],
+   "gaps": [
+    "No 2026 campaign website, questionnaire, forum answers or interview found. His stated positions come from his 2022 biography.",
+    "His current job was not confirmed for 2026.",
+    "No campaign finance reports found.",
+    "The Republican label is as shown on the state list and the Banner Graphic list. This guide did not find whether a county party took any action on his candidacy."
+   ]
+  },
+  {
+   "ballot_name": "Vivian M Whitaker",
+   "seat": "Cloverdale Township (Putnam-Owen)",
+   "summary": "Incumbent and board president, on the board since the 2014 election, listed as Nonpartisan {ccsc_board}{bg_2022_results}{in_list}.",
+   "website": null,
+   "background": [
+    "Retired educator. She graduated from Cloverdale High School in 1968 and earned three degrees from Indiana State University, according to her 2022 candidate biography {bg_bios_2022}.",
+    "Her career included teaching middle school physical science and high school chemistry, coaching girls' basketball and volleyball, and work as an athletic director, middle school assistant principal and principal, and assistant to the superintendent {bg_bios_2022}.",
+    "Board member since the 2014 election and board president {bg_2022_results}{ccsc_board}. In 2026 she completed the Indiana School Boards Association's Board Presidents' Gold Seal Leadership Certification {bg_goldseal}."
+   ],
+   "path_to_ballot": [
+    "Filed for re-election to the Cloverdale Township seat by the June 18, 2026 deadline, listed as Nonpartisan {bg_cand_2026}{in_list}.",
+    "Won the seat in 2022 over Gould, 939 to 600 {enr_2022}. She ran unopposed in 2018 {bg_2019_reorg}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "In 2022 she wrote that the board and superintendent 'must work together to stretch the available funds without raising taxes if possible,' and that 'the current board has done just that' {bg_bios_2022}.",
+      "In 2022 she said she intended 'to work with legislators to ensure that public schools receive funds proportionate to enrollment' {bg_bios_2022}."
+     ]
+    },
+    {
+     "topic": "Enrollment & school choice",
+     "items": [
+      "In 2026 she said she is 'firmly against private schools or academies.' She said the board approved the CDLA virtual academy because its curriculum meets state standards, its students take state tests and each student is supervised by a licensed Indiana teacher. 'Now the money was attractive, but if we hadn't had those three things I wouldn't have been interested in it at all,' she said {bg_linton_mar}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "As president she signed the board's March 2025 letter opposing party labels in school board elections. The letter said members should be known 'by our reputation as strong supporters of our school community' {bg_sb287}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member and the board president {ccsc_board}.",
+    "In 2026 she praised outgoing Superintendent Greg Linton: 'He knows his finances beyond anybody probably in the state of Indiana' {bg_linton_mar}.",
+    "On hiring Mason, she said she 'was looking for someone who had strengths outside of finance' {bg_mason_may}.",
+    "She said the ISBA training introduced SuperEval, 'the tool we're using for our superintendent evaluations' {bg_goldseal}."
+   ],
+   "plans": [
+    "After winning in 2022 she pointed to raises, new course offerings, the Leader in Me program and preschool, and said she looked forward to 'building positive relations with the board and all of the faculty' {bg_2022_results}.",
+    "In 2026 she said, 'I want to truly do what's best for kids' {bg_goldseal}."
+   ],
+   "endorsements_finance": [],
+   "gaps": [
+    "No 2026 campaign website, questionnaire or forum answers found.",
+    "No campaign finance reports found.",
+    "Her 2026 comments were made as board president in news coverage, not as campaign statements."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "ccsc_board": [
+   "School Board",
+   "Cloverdale Community School Corporation",
+   "2026-10",
+   "https://cloverdale.k12.in.us/schoolboard"
+  ],
+  "ccsc_determination": [
+   "Notice of Determination (bonds, $4,895,000)",
+   "Cloverdale Community School Corporation",
+   "2026-09-08",
+   "https://files.smartsites.parentsquare.com/13474/1453_001.pdf"
+  ],
+  "ccsc_lease_notice": [
+   "Notice of Hearing on Proposed Amendment to Lease",
+   "Cloverdale Community School Corporation",
+   "2026-09-08",
+   "https://files.smartsites.parentsquare.com/13474/1454_001.pdf"
+  ],
+  "ccsc_hearing_agenda": [
+   "Public Budget Hearing Agenda, August 24, 2026",
+   "Cloverdale Community School Corporation",
+   "2026-08-24",
+   "https://files.smartsites.parentsquare.com/13474/082426_public_hearing_-_media.docx"
+  ],
+  "ccsc_bargain_agenda": [
+   "Pre-Bargaining Public Hearing Agenda, September 9, 2026",
+   "Cloverdale Community School Corporation",
+   "2026-09-09",
+   "https://files.smartsites.parentsquare.com/13474/091426_budget_public_hearing_-_media.docx"
+  ],
+  "idoe_enroll": [
+   "Corporation Enrollment by Grade, 2006-2026",
+   "Indiana Department of Education",
+   "2026",
+   "https://www.in.gov/doe/files/corporation-enrollment-grade-2006-26.xlsx"
+  ],
+  "enr_2022": [
+   "2022 General Election Results (School Board Member)",
+   "Indiana Election Division",
+   "2022-11",
+   "https://enr.indianavoters.in.gov/archive/2022General/index.html"
+  ],
+  "enr_2024": [
+   "2024 General Election Results (School Board Member)",
+   "Indiana Election Division",
+   "2024-11",
+   "https://enr.indianavoters.in.gov/archive/2024General/index.html"
+  ],
+  "dlgf_ref": [
+   "Referendum Information",
+   "Indiana Department of Local Government Finance",
+   "2026-10",
+   "https://www.in.gov/dlgf/referendum-information/"
+  ],
+  "bg_cand_2026": [
+   "School Board candidates for November General Election",
+   "Banner Graphic",
+   "2026-06-25",
+   "https://www.suncommercial.com/banner_graphic/article_4143fe88-ee0d-5367-8747-c49712be04d0.html"
+  ],
+  "bg_linton_mar": [
+   "Greg Linton stepping down as Cloverdale superintendent; to take over Cloverdale Learning Academy",
+   "Banner Graphic",
+   "2026-03-30",
+   "https://www.suncommercial.com/banner_graphic/article_d7e4e762-0e60-5226-b1bc-98e60ca85a2b.html"
+  ],
+  "bg_mason_may": [
+   "Stacy Mason welcomed as next superintendent of Cloverdale Community Schools",
+   "Banner Graphic",
+   "2026-05-12",
+   "https://www.suncommercial.com/banner_graphic/article_cb96a10c-de9e-57fa-b529-80950cdc1b73.html"
+  ],
+  "bg_linton_jun": [
+   "Linton recognized at last school board meeting",
+   "Banner Graphic",
+   "2026-06-11",
+   "https://www.suncommercial.com/banner_graphic/article_dc3ed7c5-a59a-567a-8a32-13686bda79b1.html"
+  ],
+  "bg_mason_jul": [
+   "Mason completes first board meeting as Cloverdale superintendent",
+   "Banner Graphic",
+   "2026-07-15",
+   "https://www.suncommercial.com/banner_graphic/article_aab3cf43-0c55-5936-a1a6-c5fa631639a1.html"
+  ],
+  "bg_turf": [
+   "Cloverdale football field to receive turf upgrade",
+   "Banner Graphic",
+   "2026-08-17",
+   "https://www.suncommercial.com/banner_graphic/article_83677fb0-361f-54cd-bf6e-54d5541d963a.html"
+  ],
+  "bg_goldseal": [
+   "Whitaker earns Gold Seal Certification from ISBA",
+   "Banner Graphic",
+   "2026-10-02",
+   "https://www.suncommercial.com/banner_graphic/article_b16202fb-77e8-53d4-9da1-ad73670e780a.html"
+  ],
+  "bg_sb287": [
+   "LETTER: Cloverdale School Board firmly opposes SB 287",
+   "Banner Graphic",
+   "2025-03-24",
+   "https://www.suncommercial.com/banner_graphic/article_9e461dc1-03fd-5b9f-b3f3-7af42c2aa945.html"
+  ],
+  "bg_bios_2022": [
+   "Clovedale School Board Candidate Bios",
+   "Banner Graphic",
+   "2022-10-20",
+   "https://www.suncommercial.com/banner_graphic/archives/article_0d870725-e322-565a-92ea-614da9fd6012.html"
+  ],
+  "bg_2022_results": [
+   "Whitaker, Haltom take Cloverdale School Board seats",
+   "Banner Graphic",
+   "2022-11-09",
+   "https://www.suncommercial.com/banner_graphic/archives/article_eada62d4-03a8-5877-88b2-b473789bdcb1.html"
+  ],
+  "bg_2024_preview": [
+   "County school boards feature just one contested race",
+   "Banner Graphic",
+   "2024-06-24",
+   "https://www.suncommercial.com/banner_graphic/story/3044775.html"
+  ],
+  "bg_2024_results": [
+   "Lewis, Fidler and Mann re-elected to Cloverdale school board",
+   "Banner Graphic",
+   "2024-11-05",
+   "https://www.suncommercial.com/banner_graphic/news/article_2b9bb745-a2dd-5af0-9e36-2bda400a088f.html"
+  ],
+  "bg_2019_reorg": [
+   "Cloverdale School Board reorganizes, introduces SRO",
+   "Banner Graphic",
+   "2019-01-15",
+   "https://www.suncommercial.com/banner_graphic/archives/article_78f09747-7bb3-5ad6-b7a5-c6f7a0e99b3e.html"
+  ]
+ }
+}
