@@ -1,0 +1,16 @@
+{
+ "race_id": "in-office-sheriff",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review. This race has not been researched individually yet; this page explains the office.",
+ "office": "@in_sheriff",
+ "incumbent": null,
+ "race_context": [
+  "How the seat is elected: every county elects its sheriff countywide in 2026 for a four-year term; a person may not serve as sheriff more than eight years in any twelve-year period, and candidates must have lived in the county for at least one year before the election {in_guide}.",
+  "Finding the current sheriff and the office's work: county government websites post the sheriff's office and its legal duties, which include running the jail, serving court papers and keeping order in the courts {miami_sheriff}{ic_36_2_13_5}.",
+  "Following jail spending: the county commissioners maintain the jail building and the county sets the sheriff's salary and the appropriation for feeding prisoners, so commissioners' and county council minutes and budget hearings show decisions about the jail {ic_36_2_2_24}{ic_36_2_13_2_8}.",
+  "Comparing candidates: the Indiana Election Division publishes the official list of candidates on the November 3, 2026 ballot; this year voters will also decide Public Question 1 on bail, which affects who is held in county jails before trial {in_list}{indypolitics_2026_bail}."
+ ],
+ "candidates": [],
+ "sources": {}
+}
