@@ -1,0 +1,117 @@
+{
+ "race_id": "in-sullivan-county-sheriff",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_sheriff",
+ "incumbent": {
+  "name": "Jason Bobbitt",
+  "party": "Democratic",
+  "summary": "Jason Bobbitt, a Democrat and former chief deputy, won the open Sullivan County sheriff's seat in November 2022 with 53% of the vote over Republican Billy Snead and was sworn in January 1, 2023, succeeding term-limited Sheriff Clark Cottom {wtwo_bobbitt_wins_2022}. He is seeking a second term {wtwo_candidates_2026} {in_list}.",
+  "record": [
+   "November 2022: Elected sheriff, 53% to 47%, with 6,499 votes cast in the race {wtwo_bobbitt_wins_2022}.",
+   "October 2023: During construction of the new county jail, Bobbitt said move-in was looking more likely in March than April, with a transition period for staff to learn the control tower, new equipment and new policies {wtwo_jail_2023}.",
+   "March 2024: The county held a public open house for the new 55,000-square-foot, 197-bed jail, built to address overpopulation at the old jail {wtwo_jail_open_house}.",
+   "July 2025: The sheriff's office announced a recovery treatment program for jail inmates with the nonprofit Quality 360 Healthcare, funded by a state grant backed by the Indiana Sheriffs' Association; Bobbitt said it is 'of no cost to the taxpayers of Sullivan County' and that the county would consider next steps such as community housing for ongoing support {wtwo_recovery_2025}.",
+   "March 2026: At a Farm Bureau candidate forum, Bobbitt and all three Republican candidates identified recruiting and retaining deputies, jail officers and dispatchers as the department's top challenge, citing competition from higher-paying agencies and the demands of covering a large rural county {st_farm_bureau_forum}."
+  ]
+ },
+ "race_context": [
+  "Sheriff Jason Bobbitt is completing his first term and is eligible to run again; he faces Republican Justin Copeland, a sergeant in Bobbitt's own office, on November 3, 2026 {wtwo_copeland_wins} {in_list}.",
+  "In the May 5, 2026 Republican primary, Copeland received 1,785 votes (55.3%) to Matt Price's 1,089 (33.7%) and Mike Luttrell's 356 (11%) in results reported by the Sullivan Times {st_primary_2026}. No contested Democratic sheriff primary appears in that report.",
+  "On March 20, 2026, Sullivan County Farm Bureau and the Sullivan Civic Center held a moderated candidate forum that included Bobbitt, Copeland, Luttrell and Price; discussion covered recruitment and retention, expanding reserve deputies, proactive patrols and leadership qualifications {st_farm_bureau_forum}.",
+  "Key differences in available statements: Bobbitt points to his administrative experience and record, while Copeland says the county has fallen behind on investigative resources and that the sheriff should be more visible in schools and at public events {wtwo_candidates_2026}.",
+  "No general-election forum or debate between Bobbitt and Copeland was found in available coverage."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Jason Bobbitt",
+   "summary": "Jason Bobbitt is the incumbent Sullivan County sheriff, elected in 2022 after serving as the office's chief deputy; he says he has been a police officer for 30 years {wtwo_candidates_2026} {wtwo_bobbitt_wins_2022}.",
+   "website": null,
+   "background": [
+    "Sullivan County sheriff since January 2023 {wtwo_bobbitt_wins_2022}.",
+    "Previously chief deputy of the Sullivan County Sheriff's Office: described as seven years in 2022 coverage {wtwo_bobbitt_snead_2022}, and as eight years by Bobbitt in an April 2026 interview, in which he also said he has been a police officer for 30 years {wtwo_candidates_2026}.",
+    "Said in 2022 that as chief deputy he sat in county council budget hearings for seven years and was familiar with the budget line items, though the sheriff managed the budget {wtwo_bobbitt_snead_2022}."
+   ],
+   "path_to_ballot": [
+    "Democratic nominee for sheriff in 2026 {in_list}; no contested Democratic sheriff primary was reported {st_primary_2026}."
+   ],
+   "positions": [
+    {"topic": "Jail & corrections", "items": [
+     "In 2022 said he would emphasize rehabilitation in the new jail, including Bible studies for inmates who want them, and that 'the majority of the people in that jail are really decent people. They just made a bad decision' {wtwo_bobbitt_snead_2022}.",
+     "In 2025 said of the inmate recovery program, 'If we can help one person, it's worth the whole effort,' and pointed to a lack of state hospital beds for people with mental illness, many of whom end up incarcerated {wtwo_recovery_2025}."
+    ]},
+    {"topic": "Staffing & pay", "items": [
+     "At the March 2026 forum, identified recruitment and retention of deputies, jail officers and dispatchers as a top challenge, as did the other candidates {st_farm_bureau_forum}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. In April 2026 he said, 'I feel like I've earned the community's trust,' and that he had proven his leadership over 12 years in administration, including four as sheriff {wtwo_candidates_2026}. No statements about Copeland specifically were found."
+   ],
+   "plans": [
+    "At the March 2026 forum he said, 'I feel like I've accomplished quite a bit, but I'm not done' {st_farm_bureau_forum}.",
+    "Said in July 2025 that after inmates complete program assessments, the county would consider further steps such as community housing for ongoing support {wtwo_recovery_2025}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance totals were found in available coverage."
+   ],
+   "gaps": [
+    "No 2026 campaign website or questionnaire was found; detailed forum answers beyond the summary in the Sullivan Times were not available.",
+    "Reported length of his chief-deputy service differs (seven years in 2022 coverage; eight years in his own 2026 statement).",
+    "The exact date the new jail opened to inmates, current jail population and staffing vacancy numbers were not found.",
+    "No information found on school resource officers, immigration-detainer agreements or budget requests to the county council during his term."
+   ]
+  },
+  {
+   "ballot_name": "Justin Copeland",
+   "summary": "Justin Copeland is a sergeant at the Sullivan County Sheriff's Office who won a three-way Republican primary in May 2026 {wtwo_copeland_wins} {st_primary_2026}.",
+   "website": null,
+   "background": [
+    "Sergeant at the Sullivan County Sheriff's Office {wtwo_copeland_wins} {wtwo_candidates_2026}.",
+    "Said at the March 2026 forum that he has served Sullivan County for the last 10 years {st_farm_bureau_forum}."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Republican primary with 1,785 votes (55.3%) over Matt Price and Mike Luttrell {st_primary_2026} {wtwo_copeland_wins} {in_list}."
+   ],
+   "positions": [
+    {"topic": "Patrol & response", "items": [
+     "Says Sullivan County has 'fallen behind some neighboring counties' in the resources it uses, citing the Internet Crimes Against Children (ICAC) task force and the High-Tech Crimes Unit, which he said also help with human trafficking cases {wtwo_candidates_2026}."
+    ]},
+    {"topic": "School safety", "items": [
+     "Wants deputies 'in the schools' and at public events, building rapport and trust with the community, 'especially the kids' {wtwo_copeland_wins}."
+    ]},
+    {"topic": "Staffing & pay", "items": [
+     "At the March 2026 forum, identified recruitment and retention of deputies, jail officers and dispatchers as a top challenge, as did the other candidates {st_farm_bureau_forum}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Has not been reported criticizing Sheriff Bobbitt by name. He says the county has fallen behind other counties on investigative resources, and that 'I believe the sheriff should be out in the county engaging in the schools at the events with the public,' adding that he does not see the job as one 'where you are in an office all the time' {wtwo_candidates_2026}."
+   ],
+   "plans": [
+    "Said his 'main objective as sheriff is to be more community-oriented' {wtwo_candidates_2026}.",
+    "Said at the March 2026 forum he looks forward to 'leading from the top and continuing to serve just how I've always served' {st_farm_bureau_forum}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance totals were found in available coverage."
+   ],
+   "gaps": [
+    "No campaign website or questionnaire was found; his law-enforcement career before becoming a sergeant (start date, assignments, training) was not found beyond his statement of 10 years serving the county.",
+    "An undated Sullivan County staff directory listing a 'Justin Copeland' as a deputy appeared only in search results and could not be opened (unverified).",
+    "A Sullivan County Ag Day listing reportedly named 'Justin Copeland for Sheriff' as a sponsor (search snippet only; unverified).",
+    "No stated positions found on the jail, drugs, budget or immigration enforcement."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "wtwo_bobbitt_wins_2022": ["Election 2022: Bobbitt wins Sullivan Sheriff race", "WTWO/WAWV (MyWabashValley.com)", "2022-11-09", "https://www.mywabashvalley.com/news/your-local-election-hq/election-2022-bobbitt-wins-sullivan-sheriff-race/amp/"],
+  "wtwo_bobbitt_snead_2022": ["Bobbitt, Snead face off for Sullivan Co. Sheriff seat", "WTWO/WAWV (MyWabashValley.com)", "2022-11-07", "https://www.mywabashvalley.com/news/your-local-election-hq/bobbitt-snead-face-off-for-sullivan-co-sheriff-seat/amp/"],
+  "wtwo_jail_2023": ["Sullivan Co. jail may be completed sooner than expected", "WTWO/WAWV (MyWabashValley.com)", "2023-10-16", "https://digital-release.mywabashvalley.com/?p=1486344"],
+  "wtwo_jail_open_house": ["Sullivan County hosts open house at new jail", "WTWO/WAWV (MyWabashValley.com)", "2024-03-17", "https://www.mywabashvalley.com/news/sullivan-county-hosts-open-house-at-new-jail/amp/"],
+  "wtwo_recovery_2025": ["Sullivan County starting a recovery treatment program", "WTWO (via Yahoo News)", "2025-07-16", "https://www.yahoo.com/news/sullivan-county-starting-recovery-treatment-232255442.html"],
+  "st_farm_bureau_forum": ["SC Farm Bureau hosts 'Meet the Candidates' forum", "Sullivan Times", "2026-03-27", "https://www.suncommercial.com/sullivan_times/article_812a477b-7d17-53ff-bfc7-8cfbcd76060a.html"],
+  "wtwo_candidates_2026": ["Sullivan County Sheriff candidates talk leadership, community", "WTWO/WAWV (MyWabashValley.com)", "2026-04-06", "https://www.mywabashvalley.com/news/your-local-election-hq/sullivan-county-sheriff-candidates-talk-leadership-community/amp/"],
+  "wtwo_copeland_wins": ["Justin Copeland wins the Republican nomination for Sullivan County Sheriff", "WTWO/WAWV (MyWabashValley.com)", "2026-05-06", "https://www.mywabashvalley.com/news/your-local-election-hq/justin-copeland-wins-the-republication-nomination-for-sullivan-county-sheriff/amp/"],
+  "st_primary_2026": ["Sullivan County Primary Election results", "Sullivan Times", "2026-05-08", "https://www.suncommercial.com/sullivan_times/article_0272e8d9-e272-56a5-9a83-3aa3c630eba9.html"]
+ }
+}

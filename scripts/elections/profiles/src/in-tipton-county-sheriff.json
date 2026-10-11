@@ -1,0 +1,103 @@
+{
+ "race_id": "in-tipton-county-sheriff",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_sheriff",
+ "incumbent": {
+  "name": "Matt Tebbe",
+  "party": "Democratic",
+  "summary": "Matthew D. (Matt) Tebbe, a Democrat, has been Tipton County sheriff since 2023 after winning the open seat in November 2022 with 55% of the vote in unofficial returns; the Kokomo Tribune described him then as a 22-year veteran of the sheriff's department {kt_tebbe_2022} {tipton_former_sheriffs}. He is seeking a second term {tipton_primary_2026}.",
+  "record": [
+   "November 2022: Defeated Republican Lea Stout, a Tipton County Jail matron, with 55% of the vote in unofficial results to succeed Sheriff Tony Frawley, who did not seek re-election; Tebbe said he would organize the office and announce staffing positions in the following weeks {kt_tebbe_2022} {kt_primary_2022}.",
+   "2023: Took office; the county's list of sheriffs shows his term beginning in 2023 {tipton_former_sheriffs}.",
+   "Ongoing: The county's sheriff's-office page carries a statement from Sheriff Tebbe asking residents to report suspicious activity and promoting an anonymous tip line for criminal or drug activity {tipton_sheriff_page}.",
+   "Jail: The county jail on State Road 28, which replaced the 1890s Madison Street jail in 2020, has 98 beds and houses the sheriff's administration and patrol {tipton_jail_history}.",
+   "January 2026: The county auditor gave notice that the county council would consider $292,000 in additional appropriations for jail operating lines (including $165,000 for prisoner meals and $50,000 for jail supplies) from the local income tax special-purpose justice fund, noted as moved from the general fund after January 1, 2026 {tipton_jail_approp}."
+  ]
+ },
+ "race_context": [
+  "Sheriff Matt Tebbe is completing his first term and is eligible to run again; he faces Republican Craig R. Henderson on November 3, 2026 {tipton_primary_2026} {in_list}.",
+  "Both candidates were unopposed in the May 5, 2026 primary: Henderson received 1,828 Republican votes and Tebbe 573 Democratic votes {tipton_primary_2026}.",
+  "In 2022 the seat was open; the Republican primary between deputy Korey Henderson and jail matron Lea Stout was separated by one vote in unofficial results, and Stout was the Republican nominee in November {fox59_2022} {kt_primary_2022} {kt_tebbe_2022}.",
+  "A public forum with Tebbe and Henderson was scheduled for September 30, 2026 at the Tipton High School auditorium, with questions written by the Indiana State Fraternal Order of Police and a neutral moderator; organizers described it as a public-information event focused on the duties and challenges of a county sheriff {reporter_forum}. No coverage of what was said at the forum was found."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Craig R Henderson",
+   "summary": "Craig R. Henderson is the Republican nominee, unopposed in the May 2026 primary {tipton_primary_2026}. His background and platform were not found in available coverage.",
+   "website": null,
+   "background": [
+    "No verified biographical information was found in available coverage."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Republican primary unopposed with 1,828 votes {tipton_primary_2026} {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements by Henderson about Sheriff Tebbe's record were found in available coverage."
+   ],
+   "plans": [
+    "No campaign plans were found in available coverage."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance totals were found in available coverage."
+   ],
+   "gaps": [
+    "Coverage is very thin: no campaign website, social-media page, questionnaire, interview or forum report was found.",
+    "The county's list of former sheriffs includes a Craig Henderson who served 2002–2006, and a search-result snippet of an older WTHR story refers to a 'Tipton County Sheriff Craig Henderson'; no source reviewed confirms that this is the 2026 candidate (unverified).",
+    "A Kokomo Tribune voter guide page of uncertain date (apparently 2014 or earlier) lists a Republican incumbent named Henderson against a Democratic challenger named Tebbe; its text could not be reliably read and it was not used.",
+    "He is a different person by first name from Korey Henderson, who ran in the 2022 Republican sheriff primary; any relationship was not checked.",
+    "Who appeared at and what was said at the September 30, 2026 forum is not known."
+   ]
+  },
+  {
+   "ballot_name": "Matt Tebbe",
+   "summary": "Matt Tebbe is the incumbent Tipton County sheriff, first elected in 2022 after a career with the Tipton County Sheriff's Department that the Kokomo Tribune put at 22 years at the time {kt_tebbe_2022}.",
+   "website": null,
+   "background": [
+    "Tipton County sheriff since 2023 {tipton_former_sheriffs}.",
+    "Before his election, a deputy with the Tipton County Sheriff's Department; described in November 2022 as a 22-year veteran of the department {fox59_2022} {kt_tebbe_2022}."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Democratic primary unopposed with 573 votes {tipton_primary_2026} {in_list}.",
+    "In the 2022 Democratic primary he defeated Deputy Travis Rhoades {fox59_2022} {kt_primary_2022}."
+   ],
+   "positions": [
+    {"topic": "Drugs", "items": [
+     "His statement on the county website asks residents to report suspicious activity and points to an anonymous tip line for criminal or drug activity, saying the office will 'conduct any follow-up investigation as needed' {tipton_sheriff_page}."
+    ]},
+    {"topic": "Staffing & pay", "items": [
+     "After his 2022 election he said he would announce staffing positions so that 'nobody's second guessing who's going to be doing what' {kt_tebbe_2022}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No statements by Tebbe about his challenger were found."
+   ],
+   "plans": [
+    "No 2026 campaign plans were found in available coverage."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance totals were found in available coverage."
+   ],
+   "gaps": [
+    "No 2026 campaign website, questionnaire or interview was found; his record in office (budget, jail population, staffing) is thinly covered in sources that could be read.",
+    "Search-result snippets (unverified) say he lost the 2014 sheriff's race to Tony Frawley by 98 votes; the article could not be opened.",
+    "The Kokomo Tribune's reported 2022 primary percentages (69.5% to 34.1%) add to more than 100% and were not used.",
+    "Tipton County council minutes on the county website are scanned images and could not be reviewed for sheriff budget requests."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "tipton_primary_2026": ["2026 Primary Election Results (Election Summary Report)", "Tipton County", "2026-05-07", "https://www.tiptongov.com/egov/apps/document/center.egov?view=item&id=3306"],
+  "reporter_forum": ["Tipton County voters can hear from their Sheriff candidates", "The Reporter", "2026-09-23", "https://readthereporter.com/tipton-county-voters-can-hear-from-their-sheriff-candidates/"],
+  "tipton_sheriff_page": ["Sheriff's Office", "Tipton County", "2026-10", "https://www.tiptongov.com/county/department/index.php?structureid=41"],
+  "tipton_former_sheriffs": ["Former Sheriff's", "Tipton County", "2026-10", "https://www.tiptongov.com/county/topic/subtopic.php?topicid=157&structureid=41"],
+  "tipton_jail_history": ["History of the former County Jail & Sheriff's Home", "Tipton County", "2026-10", "https://www.tiptongov.com/county/topic"],
+  "tipton_jail_approp": ["Notice to Taxpayers of Additional Appropriations (01.20.26 Council Additional Appropriations)", "Tipton County Auditor", "2026-01-03", "https://www.tiptongov.com/egov/apps/document/center.egov?view=item&id=3167"],
+  "kt_tebbe_2022": ["Tipton County elects new sheriff", "Kokomo Tribune (via Yahoo News)", "2022-11-09", "https://www.yahoo.com/entertainment/tipton-county-elects-sheriff-105100969.html"],
+  "kt_primary_2022": ["Wild night in Tipton Co Sheriff race", "Kokomo Tribune (via Yahoo News)", "2022-05-04", "https://www.yahoo.com/news/wild-night-tipton-co-sheriff-094700069.html"],
+  "fox59_2022": ["Primary sheriff election comes down to 1 vote in Tipton County", "FOX59", "2022-05-04", "https://digital-release.fox59.com/?p=1383367"]
+ }
+}
