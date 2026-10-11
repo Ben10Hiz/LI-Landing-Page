@@ -22,6 +22,18 @@ Sensitive items held for a second, careful editorial pass (criminal cases, misco
   - [Governor removes Dubois County sheriff from Indiana law enforcement board after failed settlement](https://duboiscountyfreepress.com/governor-removes-dubois-county-sheriff-from-indiana-law-enforcement-board-after-failed-settlement/) — Indiana Capital Chronicle (via Dubois County Free Press), 2026-04-20
   - [Sheriff Kleinhelter loses Indiana law enforcement certification but keeps elected office](https://duboiscountyfreepress.com/dubois-county-sheriff-loses-indiana-law-enforcement-certification-but-keeps-elected-office/) — Indiana Capital Chronicle (via Dubois County Free Press), 2026-06-15
 
+## Indiana County Sheriff (`in-henry-county-sheriff`)
+
+- **John Sproles** — lawsuit — _held_
+  A FOX59/CBS4 primary-night roundup (May 2026) described Sproles's tenure as including two lawsuits. One was a 2023 First Amendment suit alleging the sheriff's office deleted comments and blocked a user on Facebook. The other alleged a cover-up of sexual abuse at the county jail. The roundup also said dozens of tort claims reportedly led to the cancellation of the office's insurance policies. Outcomes and Sproles's responses were not given.
+  Note: Only the roundup summary was read, not the underlying reports or court records. Outcomes of the suits are unknown. Liability insurance was a campaign topic (see the March 2026 podcast).
+  - [FOX59/CBS4 sheriff primary tracker: Kellys out in Clinton County, Dixon wins GOP race in Hamilton County](https://fox59.com/news/fox59-cbs4-sheriff-primary-tracker-kellys-out-in-clinton-county-dixon-wins-gop-race-in-hamilton-county/amp/) — FOX59/CBS4, 2026-05
+
+- **John Sproles** — other — _held_
+  The same FOX59/CBS4 roundup listed other events during Sproles's tenure. Two pursuits ended in deaths: a 2024 chase involving a rookie deputy ended in Muncie, and in that case no criminal charges were filed against the deputy. A 2025 chase that began on State Road 3 ended in Indianapolis. A jail officer was charged after firing non-lethal rounds at inmates on two occasions, and the sheriff was not charged. The office launched a probe into alleged jail abuse in January 2026.
+  Note: Office-level events that concern employees, not the candidates on the ballot. Underlying reports were not fetched, and case outcomes are unconfirmed.
+  - [FOX59/CBS4 sheriff primary tracker: Kellys out in Clinton County, Dixon wins GOP race in Hamilton County](https://fox59.com/news/fox59-cbs4-sheriff-primary-tracker-kellys-out-in-clinton-county-dixon-wins-gop-race-in-hamilton-county/amp/) — FOX59/CBS4, 2026-05
+
 ## Indiana County Sheriff (`in-jennings-county-sheriff`)
 
 - **William K. "Kenny" Freeman Jr.** — criminal case — _held_

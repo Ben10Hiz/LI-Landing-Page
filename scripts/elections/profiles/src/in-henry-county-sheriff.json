@@ -1,0 +1,99 @@
+{
+ "race_id": "in-henry-county-sheriff",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_sheriff",
+ "incumbent": {
+  "name": "John Sproles",
+  "party": "Republican",
+  "summary": "John Sproles was elected Henry County sheriff in 2022. He ran for re-election in 2026 but lost the May 5 Republican primary to James (Jim) Nicholson, so he is not on the November ballot {fox_tracker} {ipr_henry}.",
+  "record": [
+   "2022: Elected Henry County sheriff, according to FOX59/CBS4 {fox_tracker}.",
+   "May 5, 2026: Finished second of five in the Republican primary with 1,720 votes. Nicholson received 2,408 {ipr_henry} {fox_blog}."
+  ]
+ },
+ "race_context": [
+  "Henry County (county seat: New Castle) will elect a sheriff on Nov. 3, 2026. This is an open seat because incumbent Republican John Sproles lost his primary {fox_blog} {in_list}.",
+  "Seven candidates ran in the May 2026 primary {ct_may9}. In the Republican primary, election-night results were: James (Jim) Nicholson 2,408, John M. Sproles 1,720, Jason L. Williams 1,216, Randy Howard 343 and Craig Ring 133. In the Democratic primary: David Bockover 845, Landon J. Dean 516 {ipr_henry}.",
+  "Both nominees have local law-enforcement backgrounds. Nicholson is a captain at the New Castle Police Department, and Bockover is a special deputy court security officer at the Henry County Justice Center {ct_may9}.",
+  "The office's insurance coverage was a 2026 topic. A March 2026 podcast with the Democratic primary candidates listed recent changes in the department's liability insurance among its subjects {bhol432}.",
+  "No general-election forums or debates were found in sources reviewed."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "David Bockover",
+   "summary": "Democrat David Bockover is a special deputy court security officer at the Henry County Justice Center. He won the Democratic primary over Landon J. Dean {ct_may9} {ipr_henry}.",
+   "website": null,
+   "background": [
+    "Current position: special deputy court security officer at the Henry County Justice Center {ct_may9}.",
+    "In a March 2026 podcast interview, he said he began working in the county jail about 10 to 12 years earlier. This comes from an auto-generated transcript {bhol432}."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Democratic primary with 845 votes to 516 for Landon J. Dean (election-night results) {ipr_henry}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "In the visible part of a March 2026 podcast transcript, he said he is running to give voters a competitive election. No statements about Sproles's record were found in freely available sources {bhol432}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance reports were found in sources reviewed."
+   ],
+   "gaps": [
+    "No policy positions found in freely available sources. A Courier-Times post-primary article (May 9, 2026) and a candidate questionnaire are behind the paywall. Snippets say he cited 10 years with the sheriff's department as a correctional officer, transport officer and assistant jail commander. This is unverified.",
+    "Unverified (paywalled or snippet only): post-primary statements, including a pledge on fairness and respect, and that he would be the county's first Democratic sheriff since Vaughn Reid Jr. (1987-1994).",
+    "Most of the March 6, 2026 Boss Hog of Liberty podcast transcript (topics: insurance, road and jail divisions) requires registration and was not reviewed.",
+    "No campaign website, endorsements or fundraising reports found."
+   ]
+  },
+  {
+   "ballot_name": "James (Jim) Nicholson",
+   "summary": "Republican James (Jim) Nicholson is a captain at the New Castle Police Department. He defeated Sheriff John Sproles and three others in the May 2026 Republican primary {ct_may9} {ipr_henry}.",
+   "website": null,
+   "background": [
+    "Current position: captain at the New Castle Police Department {ct_may9}."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Republican primary with 2,408 votes. Incumbent John Sproles had 1,720, Jason L. Williams 1,216, Randy Howard 343 and Craig Ring 133 (election-night results) {ipr_henry} {fox_blog}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements by Nicholson about Sproles's record were found in freely available sources."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance reports were found in sources reviewed."
+   ],
+   "gaps": [
+    "No policy positions found in freely available sources. Courier-Times coverage, including the May 9, 2026 article and a candidate forum write-up, is behind the paywall.",
+    "Unverified (paywalled or snippet only): about 36 years in law enforcement, joined New Castle PD in 1990, police chief 2004-2012, and wants to move from serving the city to serving the county.",
+    "Unverified (Ballotpedia snippet): ran in the 2022 Republican primary for Henry County sheriff.",
+    "No campaign website, endorsements or fundraising reports found."
+   ]
+  }
+ ],
+ "review_flags": [
+  {
+   "person": "John Sproles",
+   "category": "lawsuit",
+   "status": "held",
+   "summary": "A FOX59/CBS4 primary-night roundup (May 2026) described Sproles's tenure as including two lawsuits. One was a 2023 First Amendment suit alleging the sheriff's office deleted comments and blocked a user on Facebook. The other alleged a cover-up of sexual abuse at the county jail. The roundup also said dozens of tort claims reportedly led to the cancellation of the office's insurance policies. Outcomes and Sproles's responses were not given {fox_tracker}.",
+   "note": "Only the roundup summary was read, not the underlying reports or court records. Outcomes of the suits are unknown. Liability insurance was a campaign topic (see the March 2026 podcast)."
+  },
+  {
+   "person": "John Sproles",
+   "category": "other",
+   "status": "held",
+   "summary": "The same FOX59/CBS4 roundup listed other events during Sproles's tenure. Two pursuits ended in deaths: a 2024 chase involving a rookie deputy ended in Muncie, and in that case no criminal charges were filed against the deputy. A 2025 chase that began on State Road 3 ended in Indianapolis. A jail officer was charged after firing non-lethal rounds at inmates on two occasions, and the sheriff was not charged. The office launched a probe into alleged jail abuse in January 2026 {fox_tracker}.",
+   "note": "Office-level events that concern employees, not the candidates on the ballot. Underlying reports were not fetched, and case outcomes are unconfirmed."
+  }
+ ],
+ "sources": {
+  "ct_may9": ["Bockover, Nicholson competing for sheriff in November election", "The Courier-Times (New Castle)", "2026-05-09", "https://www.thecouriertimes.com/news/bockover-nicholson-competing-for-sheriff-in-november-election/article_0d766b81-9395-5dd8-bba1-09e968132dcb.html"],
+  "ipr_henry": ["Henry County election results (2026 primary)", "Indiana Public Radio", "2026-05-05", "https://indianapublicradio.org/election/henry/"],
+  "fox_blog": ["Henry County sheriff loses reelection bid (Central Indiana primary election blog)", "FOX59", "2026-05", "https://fox59.com/indianapolitics/blog-central-indiana-primary-election-2026/amp/"],
+  "fox_tracker": ["FOX59/CBS4 sheriff primary tracker: Kellys out in Clinton County, Dixon wins GOP race in Hamilton County", "FOX59/CBS4", "2026-05", "https://fox59.com/news/fox59-cbs4-sheriff-primary-tracker-kellys-out-in-clinton-county-dixon-wins-gop-race-in-hamilton-county/amp/"],
+  "bhol432": ["BHOL 432: Landon Dean & David Bockover - Candidates for Sheriff (podcast listing and partial transcript)", "The Boss Hog of Liberty via Podscan", "2026-03-06", "https://podscan.fm/podcasts/the-boss-hog-of-liberty/episodes/bhol-432-landon-dean-amp-david-bockover-candidates-for-sheriff-1"]
+ }
+}
