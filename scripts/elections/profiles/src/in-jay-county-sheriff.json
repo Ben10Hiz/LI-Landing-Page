@@ -1,0 +1,107 @@
+{
+ "race_id": "in-jay-county-sheriff",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_sheriff",
+ "incumbent": {
+  "name": "Larry (Ray) Newton Jr.",
+  "party": "Republican",
+  "summary": "Ray Newton (ballot name Larry (Ray) Newton Jr.) is the current Jay County sheriff and is running for re-election. He was sheriff from 2007 to 2014, was elected again in 2022, and returned to office in 2023. This is his third term overall {cr_apr13} {cr_may5} {cr_feb20} {in_list}.",
+  "record": [
+   "2007-2014: Served two terms as sheriff, then could not run again because of term limits {cr_jan7}.",
+   "2022: Won the general election over Democrat \"Watermellon\" Jim Phillips with 84% of the vote. He returned as sheriff in 2023 {cr_may5} {cr_apr13}.",
+   "September 2025: The county signed a $4.64 million lease with Motorola for new emergency-responder radios. Newton had spent about three years coordinating the project with county officials, consultant Ritter Strategic Services and Motorola {cr_apr13} {cr_jan7}.",
+   "2025: Worked with the county to use American Rescue Plan Act funds for body cameras for deputies and correctional officers, and for in-car camera systems {cr_apr13}.",
+   "Current term: The Integrated Reentry and Correctional Support and Moral Reconation Therapy programs began at Jay County Jail. Both aim to reduce recidivism {cr_apr13}.",
+   "January 2026: Cited department grants and new equipment, including body cameras, in-car cameras and new firearms. Also cited plans for jail updates, training and policy changes {cr_jan7}.",
+   "May 5, 2026: Defeated former sheriff Dwane Ford 1,602-1,244 (56.3%) in the Republican primary {cr_may5}."
+  ]
+ },
+ "race_context": [
+  "Jay County (county seat: Portland) will elect a sheriff on Nov. 3, 2026. Incumbent Republican Ray Newton faces Democrat \"Watermellon\" Jim Phillips in a rematch of 2022, when Newton won with 84% of the vote {cr_may5}.",
+  "In the May 5 Republican primary, Newton defeated former two-term sheriff Dwane Ford (2015-2022), 1,602-1,244. This reversed their 2018 primary, which Ford won 1,626-1,171 {cr_may5}. During the primary, Newton said he inherited unpaid bills, unfinished projects and equipment problems when he returned in 2023. Ford pointed to his own record {cr_apr13}.",
+  "Phillips was unopposed in the Democratic primary {cr_apr13}. The Democratic ballot had no contested races {cr_may5}.",
+  "Office issues in 2025-2026: (1) The county-wide emergency radio upgrade under the Motorola lease. (2) Whether to consolidate Portland's emergency dispatch with the county's. Portland City Council voted in December 2025 to explore it, and on April 2, 2026 the Portland Board of Works approved a feasibility-study contract with Ritter Strategic Services. (3) Sheriff's office wages {cr_jan7} {cr_apr13}.",
+  "No general-election forums or debates were found in sources reviewed."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Larry (Ray) Newton Jr.",
+   "summary": "Republican Ray Newton is the incumbent sheriff. He joined the sheriff's office in 1991, served as sheriff from 2007 to 2014, and returned to the office in 2023 {cr_apr13}.",
+   "website": null,
+   "background": [
+    "Jay County High School graduate (1981). Served four years in the U.S. Navy. Worked about 20 years in plumbing construction, then four years in the Portland Police Department reserve program {cr_apr13}.",
+    "Joined the Jay County Sheriff's Office in 1991. Sheriff 2007-2014, retired in 2018, served two years on the Jay County Council, and returned as sheriff in 2023 {cr_apr13}.",
+    "Also works part-time, as needed, as a police officer at IU Health Jay {cr_apr13}.",
+    "Cites 39 years of law-enforcement experience {cr_feb20}."
+   ],
+   "path_to_ballot": [
+    "Filed on Jan. 7, 2026, the first day of filing {cr_jan7}.",
+    "Won the May 5, 2026 Republican primary over Dwane Ford, 1,602-1,244 (56.3%) {cr_may5}."
+   ],
+   "positions": [
+    {"topic": "Jail & corrections", "items": [
+     "Plans to continue jail updates and to replace equipment throughout the security center as needed {cr_jan7} {cr_apr13}.",
+     "Points to the reentry and Moral Reconation Therapy programs started at the jail during his current term {cr_apr13}."
+    ]},
+    {"topic": "Staffing & pay", "items": [
+     "Supports continued raises for sheriff's office employees so their salaries are comparable to other agencies. Planned to approach the county council again during the fall budget process {cr_jan7}.",
+     "Cites better department training and updated policies as goals {cr_jan7}."
+    ]},
+    {"topic": "Patrol & response", "items": [
+     "Calls the public-safety radio upgrade his biggest project {cr_feb20}.",
+     "On consolidating dispatch with Portland: 'Am I against it? No. But, like I've told the city council, I've told the board of works, does it make sense? Yes, but that's not for me to decide' {cr_apr13}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No statements by Newton about his Democratic opponent were found in sources reviewed. His published criticisms were aimed at his primary opponent, the former sheriff {cr_apr13} {cr_feb20}."
+   ],
+   "plans": [
+    "Finish the radio upgrade and continue equipment replacement {cr_apr13} {cr_jan7}.",
+    "Seek further wage increases for staff in the county budget {cr_jan7}.",
+    "Continue jail updates, training and policy updates {cr_jan7}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance reports were found in sources reviewed."
+   ],
+   "gaps": [
+    "No campaign website found.",
+    "Discrepancy: a Jan. 7, 2026 Commercial Review article says he was elected in 2021. Later Commercial Review coverage says 2022, the year of the general election.",
+    "No statements found on school resource officers, immigration-detainer agreements or drug enforcement in the 2026 race.",
+    "No endorsements or fundraising reports found."
+   ]
+  },
+  {
+   "ballot_name": "Watermellon Jim",
+   "summary": "Democrat \"Watermellon\" Jim Phillips, as The Commercial Review calls him, was unopposed in the Democratic primary. He was also the party's 2022 nominee against Newton {cr_apr13} {cr_may5}.",
+   "website": null,
+   "background": [
+    "Local coverage identifies the candidate as \"Watermellon\" Jim Phillips {cr_apr13}. No information on his occupation or experience was found in sources reviewed."
+   ],
+   "path_to_ballot": [
+    "Unopposed in the May 5, 2026 Democratic primary {cr_apr13} {cr_may5}.",
+    "Was the Democratic nominee in 2022 and lost to Newton, who received 84% of the vote {cr_may5}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements by Phillips about Newton's record were found in sources reviewed."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance reports were found in sources reviewed."
+   ],
+   "gaps": [
+    "Coverage is very thin. No background, positions, website, social-media page, interviews, endorsements or fundraising information was found.",
+    "The ballot name lists no surname. The surname Phillips comes from The Commercial Review."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "cr_jan7": ["Early election filing sets up rematch for county sheriff", "The Commercial Review (Portland)", "2026-01-07", "https://www.thecr.com/news/early-election-filing-sets-up-rematch-for-county-sheriff/article_e8f5c5af-3621-4f89-8d6c-aeaa0f9b0148.html"],
+  "cr_feb20": ["Candidates focused on making Jay County a better place", "The Commercial Review (Portland)", "2026-02-20", "https://www.thecr.com/news/candidates-focused-on-making-jay-county-a-better-place/article_505d84bc-c0ae-4dfc-a548-178a2ca69a12.html"],
+  "cr_apr13": ["Republican sheriff candidates battling for nomination", "The Commercial Review (Portland)", "2026-04-13", "https://www.thecr.com/news/republican-sheriff-candidates-battling-for-nomination/article_27305663-50cd-40ea-92cc-0e04a1ca9a4f.html"],
+  "cr_may5": ["Newton wins rematch over Ford; Loy gets commissioner nod", "The Commercial Review (Portland)", "2026-05-05", "https://www.thecr.com/news/newton-wins-rematch-over-ford-loy-gets-commissioner-nod/article_08897340-44bf-48eb-9818-04655a27353d.html"]
+ }
+}
