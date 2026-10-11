@@ -1,0 +1,97 @@
+{
+ "race_id": "in-martin-county-sheriff",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_sheriff",
+ "incumbent": {
+  "name": "Josh Greene",
+  "party": "Republican",
+  "summary": "Josh Greene, a Republican and former chief deputy, was chosen sheriff by a Republican caucus in August 2022 after Sheriff Travis Roush stepped down early, and had already won the 2022 Republican primary with no fall opponent; he is not on the 2026 ballot, and no public explanation of his decision was found {wth_greene} {in_list}.",
+  "record": [
+   "August 2022: Republican precinct committee members selected Greene, then chief deputy, to finish Roush's term about five months early; Greene, a 21-year Army veteran who retired from the Indiana Army National Guard as a first sergeant, said he did not plan major changes and did not seek to expand one of the smallest departments in the state {wth_greene}.",
+   "January 2025: told the County Council a staffing evaluation recommended 19 jail staff while the jail had nine, and that he believed a few more jail and dispatch staff would make operations safer; commissioners asked the council to explore $5,000 raises for deputies, Greene said Martin County pay was probably $15,000 behind other counties, and the council tabled the raise pending an executive session {mc_council_2025_01_09}.",
+   "February 2025: reported hiring a full-time dispatcher, a full-time jailer, part-time dispatchers and jailer, and two full-time deputies, leaving only a part-time cook position open; commissioners approved $4,528 for jail shower-floor repairs {mc_comm_2025_02_18}.",
+   "2025: the jail sought out-of-county inmates to offset costs; in January 2025 Greene reported 10 out-of-county inmates against an average in the thirties the prior year {mc_council_2025_01_09}, and at the August 2025 budget meeting the county's financial adviser said $463,000 in out-of-county inmate revenue had been lost and Greene described inconsistent state payments for Department of Correction inmates {mc_budget_2025_08_04}.",
+   "2026 budget: the sheriff's general budget was set at $924,620, up from $915,164; Greene said nine deputies including the chief provide patrol coverage and that the 911 system needs replacement as 911 fund revenue declines {mc_budget_2025_08_04}. In September 2025 the council cut the $65,000 patrol-vehicle line to zero, citing financial constraints, and moved two dispatcher positions from the 911 fund to the public safety income tax fund {mc_council_2025_09_29}.",
+   "March 2026: Loogootee's police chief and mayor raised delays from split city-county dispatching and proposed a 911 advisory board and possible central dispatch; the sheriff's dispatch commander told commissioners Martin County is the only Indiana county without a computer-aided dispatch (CAD) system {mc_comm_2026_03_17} {mc_comm_2026_03_31}."
+  ]
+ },
+ "race_context": [
+  "Martin County's sheriff runs a small department and county jail based in Shoals; the department's 2026 staff roster lists a sheriff, chief deputy, nine sworn deputies and jail and dispatch commanders {mc_sheriff_roster}.",
+  "This is an open seat: Sheriff Josh Greene is not on the November ballot {in_list}. Both ballot names match senior members of Greene's department on the county roster, Chief Deputy Keith Keller and Capt. Larry Gibson {mc_sheriff_roster}.",
+  "Main office issues in 2025–2026 county minutes: deputy and jail staff pay and staffing, lost out-of-county inmate revenue and inconsistent state reimbursements, an aging 911 system and the lack of a CAD system, and split dispatching with Loogootee {mc_council_2025_01_09} {mc_budget_2025_08_04} {mc_comm_2026_03_31}.",
+  "May 5, 2026 Republican primary: Keith Keller defeated Jonah Shaw, 1,645 to 468 {sn_primary}.",
+  "Larry Gibson is on the ballot as an Independent {in_list}; no coverage of how he qualified was found.",
+  "No debate, forum or general-election news coverage of this race was found as of October 11, 2026."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Keith D Keller",
+   "summary": "Keith Keller, the Republican nominee, is chief deputy of the Martin County Sheriff's Office {mc_sheriff_roster} {sn_primary}.",
+   "website": null,
+   "background": [
+    "Chief deputy under Sheriff Josh Greene, listed on the county's sheriff's office roster {mc_sheriff_roster}; county minutes show him in that role from at least January 2025 {mc_council_2025_01_09}.",
+    "Has represented the department before the commissioners: in May 2025 he reported jail population, open deputy and dispatch positions, and costs of the sheriff's mobile app, which commissioners voted 2–1 to reimburse with opioid settlement funds {mc_comm_2025_05_27}; in December 2025 he obtained approval to replace three patrol laptops {mc_comm_2025_12_15}."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Republican primary over Jonah Shaw, 1,645 to 468 {sn_primary}."
+   ],
+   "positions": [
+    {"topic": "Patrol & response", "items": ["Speaking as chief deputy in March 2026, said dispatchers \"do an outstanding job with the equipment they have,\" that the 911 system needs improvement, and that a CAD system \"would be everyone's dream in law enforcement\"; he suggested a lower-cost option might be available if bundled with a needed 911 upgrade, recalling an earlier quote of about $400,000 {mc_comm_2026_03_31}."]},
+    {"topic": "Transparency", "items": ["In May 2025 described the sheriff's mobile app, downloaded by thousands of residents, as an important tool for reaching people who do not use social media {mc_comm_2025_05_27}."]}
+   ],
+   "on_incumbent": [
+    "Is chief deputy to the current sheriff; no campaign statements about Sheriff Greene's record or the office's direction were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance totals were found."
+   ],
+   "gaps": [
+    "No campaign website, social media platform, interview or candidate questionnaire was found; positions above are statements made as chief deputy at public meetings, not campaign promises.",
+    "Years of service, prior ranks and training were not found; older county records reportedly show him as a sergeant around 2015 (search snippet only, unverified).",
+    "No positions found on jail staffing, pay, drugs, school resource officers or immigration detainers."
+   ]
+  },
+  {
+   "ballot_name": "Larry Gibson",
+   "summary": "Larry Gibson is on the ballot as an Independent; the Martin County sheriff's office roster lists a Capt. Larry Gibson among its deputies {in_list} {mc_sheriff_roster}.",
+   "website": null,
+   "background": [
+    "The county's sheriff's office roster lists Larry Gibson as a captain, the only captain shown {mc_sheriff_roster}. It was not confirmed on a fetched page that this is the same person as the ballot candidate."
+   ],
+   "path_to_ballot": [
+    "Listed as an Independent candidate on the official 2026 general election candidate list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements about Sheriff Greene's record or the office's direction were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance totals were found."
+   ],
+   "gaps": [
+    "Coverage is very thin: no news article, campaign website, social media page, interview or questionnaire was found for this candidate.",
+    "Identity with the sheriff's office captain of the same name is likely but unconfirmed; years of service and rank history were not found.",
+    "How he qualified as an Independent (petition signatures, filing date) was not found.",
+    "No stated positions on any office issue were found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "mc_sheriff_roster": ["Martin County: Sheriff", "Martin County, Indiana", "2026", "https://www.in.gov/counties/martin/government/sheriff/"],
+  "wth_greene": ["Greene named new Martin County sheriff", "Washington Times-Herald (via Yahoo News)", "2022-08-01", "https://www.yahoo.com/news/greene-named-martin-county-sheriff-222900352.html"],
+  "sn_primary": ["2026 Primary Election Results", "The Shoals News", "2026-05-05", "https://www.theshoalsnews.com/news/2026-primary-election-results/article_e5e552b9-1de6-442d-a7d5-22bb2541881b.html"],
+  "mc_council_2025_01_09": ["County Council minutes, January 9, 2025", "Martin County Council", "2025-01-09", "https://www.in.gov/counties/martin/files/Council-Minutes-1-9-2025.docx"],
+  "mc_comm_2025_02_18": ["Commissioners minutes, February 18, 2025", "Martin County Board of Commissioners", "2025-02-18", "https://www.in.gov/counties/martin/files/COMMISSIONER-MINUTES-02-18-25.doc"],
+  "mc_comm_2025_05_27": ["Commissioners meeting minutes, May 27, 2025", "Martin County Board of Commissioners", "2025-05-27", "https://www.in.gov/counties/martin/files/COMMISSIONER-MEETING-MINUTES-5-27-25.docx"],
+  "mc_budget_2025_08_04": ["Department budget meeting minutes, August 4, 2025", "Martin County Council", "2025-08-04", "https://www.in.gov/counties/martin/files/Department-Budget-Meeting-Minutes-8-04-2025.docx"],
+  "mc_council_2025_09_29": ["County Council special session minutes, September 29, 2025", "Martin County Council", "2025-09-29", "https://www.in.gov/counties/martin/files/Council-Minutes-Special-Session-9-29-2025.docx"],
+  "mc_comm_2025_12_15": ["Commissioners meeting minutes, December 15, 2025", "Martin County Board of Commissioners", "2025-12-15", "https://www.in.gov/counties/martin/files/COMMISSIONER-MEETING-MINUTES-12-15-25.docx"],
+  "mc_comm_2026_03_17": ["Commissioners minutes, March 17, 2026", "Martin County Board of Commissioners", "2026-03-17", "https://www.in.gov/counties/martin/files/Commissioner-Minutes-3-17-26.pdf"],
+  "mc_comm_2026_03_31": ["Commissioners minutes, March 31, 2026", "Martin County Board of Commissioners", "2026-03-31", "https://www.in.gov/counties/martin/files/Commissioner-Minutes-3-31-26.pdf"]
+ }
+}

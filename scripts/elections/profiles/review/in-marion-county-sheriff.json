@@ -1,0 +1,42 @@
+{
+ "race_id": "in-marion-county-sheriff",
+ "office": "Indiana County Sheriff",
+ "flags": [
+  {
+   "person": "Kelvis T. Williams",
+   "category": "other",
+   "status": "held",
+   "summary": "April 2026: Mirror Indy reported that a Williams campaign mailer for the May 5 primary, captioned \"Your official Democratic team!\" with an \"Official candidates\" stamp, was criticized as implying Marion County Democratic Party backing the party no longer gives; opponent Gregory Patrick called it a \"last-minute trick\" and several listed candidates said they had not been consulted. The mailer carried a disclaimer that only Williams's campaign paid for and approved it. Williams did not respond to Mirror Indy; the outlet said he told IndyStar he had permission from the other candidates, then retracted that. No formal consequence was reported.",
+   "note": "Campaign-conduct criticism from a rival and others; IndyStar interview not read directly.",
+   "sources": [
+    {
+     "title": "Marion County sheriff's candidate accused of 'shady tactics'",
+     "publisher": "Mirror Indy",
+     "date": "2026-04-30",
+     "url": "https://mirrorindy.org/kelvis-williams-marion-county-sheriff-democrat-candidate-campaign-mailer/"
+    }
+   ]
+  },
+  {
+   "person": "Tom Vaughn",
+   "category": "personnel action",
+   "status": "held",
+   "summary": "August 2024: Southport Mayor Jim Cooney removed Vaughn as police chief, saying Vaughn had not provided documents the mayor requested and that the decision was not political; Vaughn told Fox59 he believed the removal was unjust and followed a complaint he had filed about the mayor's involvement in a city property inspection. After more than 100 residents rallied in support, the two met and Cooney reinstated Vaughn days later .",
+   "note": "Resolved by reinstatement; IndyPolitics also mentions it. Terms of the agreement were not reported in the pages read.",
+   "sources": [
+    {
+     "title": "Southport police chief reinstated after discord with mayor",
+     "publisher": "WISH-TV (via Mirror Indy)",
+     "date": "2024-08-16",
+     "url": "https://mirrorindy.org/southport-police-chief-reinstated-after-discord-with-mayor/"
+    },
+    {
+     "title": "Longtime Southport police chief announces campaign for Marion County sheriff",
+     "publisher": "FOX59",
+     "date": "2026-07",
+     "url": "https://fox59.com/news/longtime-southport-police-chief-announces-campaign-for-marion-county-sheriff/amp/"
+    }
+   ]
+  }
+ ]
+}

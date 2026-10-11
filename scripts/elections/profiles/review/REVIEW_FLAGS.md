@@ -77,6 +77,19 @@ Sensitive items held for a second, careful editorial pass (criminal cases, misco
   Note: The SBOA report itself and a Lakeshore Public Media article (404) were not read. Search snippets (unverified) said the report flagged 221 purchases totaling about $265,000, required repayment of about $59,000 in audit costs, was referred to the Attorney General and U.S. Attorney, and that Martinez said non-qualifying purchases came from his campaign fund. Crane urged voters to read the report and suggested some funds could be tied to certain candidates' financial forms (no candidate named). Could be moved into the incumbent record as an office-level audit finding once the report is read.
   - [Firestorms In County Jail Fuel Sheriff's Race](https://chicagocrusader.com/firestorms-county-jail-spark-lake-county-indiana-sheriffs-race/) — Chicago Crusader, 2026-05-02
 
+## Indiana County Sheriff (`in-marion-county-sheriff`)
+
+- **Kelvis T. Williams** — other — _held_
+  April 2026: Mirror Indy reported that a Williams campaign mailer for the May 5 primary, captioned "Your official Democratic team!" with an "Official candidates" stamp, was criticized as implying Marion County Democratic Party backing the party no longer gives; opponent Gregory Patrick called it a "last-minute trick" and several listed candidates said they had not been consulted. The mailer carried a disclaimer that only Williams's campaign paid for and approved it. Williams did not respond to Mirror Indy; the outlet said he told IndyStar he had permission from the other candidates, then retracted that. No formal consequence was reported.
+  Note: Campaign-conduct criticism from a rival and others; IndyStar interview not read directly.
+  - [Marion County sheriff's candidate accused of 'shady tactics'](https://mirrorindy.org/kelvis-williams-marion-county-sheriff-democrat-candidate-campaign-mailer/) — Mirror Indy, 2026-04-30
+
+- **Tom Vaughn** — personnel action — _held_
+  August 2024: Southport Mayor Jim Cooney removed Vaughn as police chief, saying Vaughn had not provided documents the mayor requested and that the decision was not political; Vaughn told Fox59 he believed the removal was unjust and followed a complaint he had filed about the mayor's involvement in a city property inspection. After more than 100 residents rallied in support, the two met and Cooney reinstated Vaughn days later .
+  Note: Resolved by reinstatement; IndyPolitics also mentions it. Terms of the agreement were not reported in the pages read.
+  - [Southport police chief reinstated after discord with mayor](https://mirrorindy.org/southport-police-chief-reinstated-after-discord-with-mayor/) — WISH-TV (via Mirror Indy), 2024-08-16
+  - [Longtime Southport police chief announces campaign for Marion County sheriff](https://fox59.com/news/longtime-southport-police-chief-announces-campaign-for-marion-county-sheriff/amp/) — FOX59, 2026-07
+
 ## Indiana School Board Member (`in-school-board-elkhart-goshen`)
 
 - **Allan Kauffman, Mario Garber, José Elizalde, Roger Nafziger (board members, not on the ballot)** — criminal case — _held_

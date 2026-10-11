@@ -1,0 +1,232 @@
+{
+ "race_id": "in-marion-county-sheriff",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_sheriff",
+ "incumbent": {
+  "name": "Kerry Forestal",
+  "party": "Democratic",
+  "summary": "Kerry Forestal, a Democrat who has led the Marion County Sheriff's Office since 2018 and is in his second term, is term-limited and not on the ballot; he is running for Indiana Senate District 31 {mi_meet} {mi_senate} {in_list}.",
+  "record": [
+   "Background: a Marion County law enforcement officer since 1977, he was appointed U.S. Marshal for the Southern District of Indiana by President Barack Obama in 2010 {mi_senate}.",
+   "September 3, 2025: at a City-County Council committee hearing on his 2026 budget, residents and some Democratic councilors pressed him to stop holding U.S. Immigration and Customs Enforcement (ICE) detainees in the jail under a federal agreement paying $75 per detainee per day; about 700 people were held for ICE from January to July 2025. Forestal said he was following the law, citing Gov. Mike Braun's executive order and a letter from Attorney General Todd Rokita threatening to sue non-cooperating sheriffs, and said \"I don't believe we can\" when asked whether he could refuse the detainees. Council Republicans praised his jail staffing increases {mi_ice_budget}.",
+   "November 2025: the office asked the City-County Council for a $6.8 million transfer to cover raises for deputies under a new collective bargaining agreement with the Indiana Fraternal Order of Police Labor Council that runs through 2028, plus new equipment {mi_salary}.",
+   "January 2026: after the jail reached its council-funded cap of 2,400 people (physical capacity about 2,900), the office said it would no longer hold ICE detainees beyond 48 hours. Forestal attributed the crowding partly to about 175 state-sentenced people awaiting transfer to the Indiana Department of Correction, which reimburses $42 a day against a cost of $82, creating a shortfall of about $2.7 million a year. He said \"I think it'd be reckless for me to say we're not going to cooperate\" with federal agencies {mi_capacity}.",
+   "September 2026: the office asked a court to order the Department of Correction to accept felony-sentenced people within the five days it says state law requires; it reported 258 such people waiting in the jail, nearly 10% of the population, and estimated the gap between its roughly $85 daily cost and the state's $42 reimbursement at about $4 million a year {mi_transfer}.",
+   "Criticism: in January 2026 the Rev. Fatima Yakubu-Madus criticized Forestal for not mounting a legal defense on the ICE holds {mi_capacity}; Republican nominee Tom Vaughn has said deputies raised concerns about staffing, safety, promotions and leadership direction and that confidence in the office needs to be restored {ip_vaughn} {wfyi_vaughn}."
+  ]
+ },
+ "race_context": [
+  "The Marion County sheriff runs the county jail, serves criminal warrants, protects county government buildings and courts, and maintains the sex offender registry, with more than 800 employees and a budget of roughly $140 million {mi_meet} {wfyi_vaughn}.",
+  "This is an open seat: Sheriff Kerry Forestal is term-limited and is running for the Indiana Senate {mi_senate}.",
+  "WFYI identifies jail overcrowding and the office's relationship with ICE as the two central issues for the office heading into the election {wfyi_vaughn}.",
+  "May 5, 2026 Democratic primary: Kelvis T. Williams, the office's executive officer, defeated jail Capt. Gregory Patrick with about 55% of the vote to 45% {mi_primary}.",
+  "No Republican ran in the primary; in July 2026 the Marion County Republican chair placed Southport Police Chief Tom Vaughn on the ballot {wfyi_vaughn} {ip_vaughn}. IndyPolitics described the county as roughly 65–35 Democratic {ip_vaughn}.",
+  "No general-election debate or forum between Williams and Vaughn was found as of October 11, 2026.",
+  "Key differences: Williams presents his candidacy as continuing the work of past sheriffs and lists more sex-offender checks, higher staff pay, expanded jail programming and youth outreach {mi_meet} {mi_primary}; Vaughn emphasizes longer detention-officer training, contraband scanners, juvenile gun crime and closer cooperation with IMPD and surrounding agencies {ip_vaughn}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Kelvis T. Williams",
+   "summary": "Kelvis Williams, the Democratic nominee, is deputy chief and executive officer of the Marion County Sheriff's Office, heading its Homeland Security Division, with about four decades in law enforcement {mi_meet} {mi_primary}.",
+   "website": null,
+   "background": [
+    "Deputy chief and executive officer at the sheriff's office under Sheriff Kerry Forestal; heads the Homeland Security Division, which handles security for county buildings and large events such as the Indianapolis 500 {mi_meet} {mi_primary}.",
+    "About four decades in law enforcement, including service as an Indiana state trooper and as a counterterrorism official with the Indiana State Police {mi_meet}.",
+    "Holds a bachelor's degree in criminal justice from Martin University and attended the FBI National Academy and Northwestern University's School of Police Staff & Command {mi_meet}."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Democratic primary over Gregory Patrick, about 55% to 45% {mi_primary}."
+   ],
+   "positions": [
+    {
+     "topic": "Jail & corrections",
+     "items": [
+      "Would expand self-development classes in the jail, including talks from formerly incarcerated speakers, and add de-escalation training for jail staff {mi_meet}."
+     ]
+    },
+    {
+     "topic": "Staffing & pay",
+     "items": [
+      "Supports higher pay for employees and more training for jail staff {mi_meet} {mi_primary}."
+     ]
+    },
+    {
+     "topic": "Patrol & response",
+     "items": [
+      "Would increase checks on registered sex offenders, which Mirror Indy reported occur every other month {mi_meet}."
+     ]
+    },
+    {
+     "topic": "Immigration enforcement",
+     "items": [
+      "In the primary, supported ending the jail's housing of ICE detainees beyond short-term holds required under a new state law, a position Mirror Indy reported both Democratic candidates shared {mi_meet}."
+     ]
+    },
+    {
+     "topic": "Transparency",
+     "items": [
+      "Said a civilian review board is not necessary because the office is already \"extremely transparent\" with the media and public {mi_meet}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Presents his candidacy as continuing the work of past sheriffs, including Frank Anderson and Kerry Forestal, saying \"Each sheriff has taken our agency to the next level\" {mi_meet}."
+   ],
+   "plans": [
+    "Work with faith leaders and community groups on youth crime and other youth problems {mi_meet} {mi_primary}.",
+    "Address homelessness in response to the new state law criminalizing encampments, a priority Mirror Indy reported both Democratic candidates shared {mi_meet}."
+   ],
+   "endorsements_finance": [
+    "Marion County Prosecutor Ryan Mears supported Williams in the primary, according to Mirror Indy {mi_mailer}.",
+    "No campaign finance totals were found."
+   ],
+   "gaps": [
+    "No campaign website or general-election platform was found; positions come from primary-season coverage.",
+    "No general-election statements found on jail overcrowding, the Department of Correction transfer dispute, or how he would handle ICE holds in light of state requirements.",
+    "No FOP or union endorsement found."
+   ]
+  },
+  {
+   "ballot_name": "Tom Vaughn",
+   "summary": "Tom Vaughn, the Republican nominee, has been Southport's police chief since 2014 and began his career in 1997 at the Marion County Sheriff's Department {ip_vaughn} {wfyi_vaughn}.",
+   "website": null,
+   "background": [
+    "Southport police chief since 2014 {wfyi_vaughn} {ip_vaughn}.",
+    "Began in 1997 with the Marion County Sheriff's Department, working in the jail, court security and county facility security, and later joined the Indianapolis Park Rangers; IndyPolitics describes him as a 30-year law enforcement veteran {ip_vaughn}.",
+    "Describes himself as a lifelong Marion County resident {fox59_vaughn}."
+   ],
+   "path_to_ballot": [
+    "No Republican filed in the May primary; the Marion County Republican Party chair appointed Vaughn to the general-election ballot, announced in July 2026 {wfyi_vaughn} {ip_vaughn}."
+   ],
+   "positions": [
+    {
+     "topic": "Jail & corrections",
+     "items": [
+      "Lists improving \"safety, training, and professionalism inside the Marion County Jail\" as his top goal; says the three-week detention-staff training is insufficient and supports more training, equipment and technology, including full-body scanners to reduce contraband {ip_vaughn}."
+     ]
+    },
+    {
+     "topic": "Staffing & pay",
+     "items": [
+      "Says deputies have raised concerns about staffing, personal safety, promotions and leadership direction {ip_vaughn}."
+     ]
+    },
+    {
+     "topic": "Patrol & response",
+     "items": [
+      "Says the IMPD–Sheriff's Office merger has not worked as intended and the office has gradually given up core duties; calls for better cooperation among the sheriff's office, IMPD, excluded cities and surrounding communities, saying \"crime is regional\" {ip_vaughn}.",
+      "Cites rising juvenile crime; wants more consistent accountability for young offenders found with guns and suggests parents should sometimes be held responsible when minors easily get firearms at home {ip_vaughn} {wfyi_vaughn}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Has cited \"increasing demands on our jail system\" and the need to restore confidence in the Sheriff's Office {wfyi_vaughn} {fox59_vaughn}; says deputies have raised concerns about leadership direction {ip_vaughn}."
+   ],
+   "plans": [
+    "Lengthen and improve detention-staff training and add contraband-detection technology in the jail {ip_vaughn}.",
+    "Improve coordination with IMPD and neighboring departments {ip_vaughn}."
+   ],
+   "endorsements_finance": [
+    "Announced his campaign through a press release issued by the Indy Republicans {wfyi_vaughn}.",
+    "No endorsements or campaign finance totals were found."
+   ],
+   "gaps": [
+    "No campaign website found.",
+    "No stated position found on ICE detainer holds, the Department of Correction transfer backlog, or jail capacity limits.",
+    "Fox59 announcement article carried no exact publication date (shown as about three months old in October 2026)."
+   ]
+  }
+ ],
+ "review_flags": [
+  {
+   "person": "Kelvis T. Williams",
+   "category": "other",
+   "status": "held",
+   "summary": "April 2026: Mirror Indy reported that a Williams campaign mailer for the May 5 primary, captioned \"Your official Democratic team!\" with an \"Official candidates\" stamp, was criticized as implying Marion County Democratic Party backing the party no longer gives; opponent Gregory Patrick called it a \"last-minute trick\" and several listed candidates said they had not been consulted. The mailer carried a disclaimer that only Williams's campaign paid for and approved it. Williams did not respond to Mirror Indy; the outlet said he told IndyStar he had permission from the other candidates, then retracted that. No formal consequence was reported {mi_mailer}.",
+   "note": "Campaign-conduct criticism from a rival and others; IndyStar interview not read directly."
+  },
+  {
+   "person": "Tom Vaughn",
+   "category": "personnel action",
+   "status": "held",
+   "summary": "August 2024: Southport Mayor Jim Cooney removed Vaughn as police chief, saying Vaughn had not provided documents the mayor requested and that the decision was not political; Vaughn told Fox59 he believed the removal was unjust and followed a complaint he had filed about the mayor's involvement in a city property inspection. After more than 100 residents rallied in support, the two met and Cooney reinstated Vaughn days later {mi_southport} {fox59_vaughn}.",
+   "note": "Resolved by reinstatement; IndyPolitics also mentions it. Terms of the agreement were not reported in the pages read."
+  }
+ ],
+ "sources": {
+  "wfyi_vaughn": [
+   "Republican challenger joins race for Marion County sheriff",
+   "WFYI Public Media",
+   "2026-07-07",
+   "https://www.wfyi.org/wfyi-news/2026-07-07/republican-challenger-joins-race-for-marion-county-sheriff"
+  ],
+  "ip_vaughn": [
+   "The Republican Candidate for Sheriff Is Near",
+   "IndyPolitics.org",
+   "2026-07-06",
+   "https://indypolitics.org/the-republican-candidate-for-sheriff-is-near/"
+  ],
+  "fox59_vaughn": [
+   "Longtime Southport police chief announces campaign for Marion County sheriff",
+   "FOX59",
+   "2026-07",
+   "https://fox59.com/news/longtime-southport-police-chief-announces-campaign-for-marion-county-sheriff/amp/"
+  ],
+  "mi_primary": [
+   "Kelvis Williams wins Democratic primary for Marion County sheriff",
+   "Mirror Indy",
+   "2026-05-05",
+   "https://mirrorindy.org/indiana-primary-election-2026-sheriff-results-marion-county-indianapolis-kelvis-williams-gregory-patrick/"
+  ],
+  "mi_meet": [
+   "Meet the Democrats running for Marion County sheriff",
+   "Mirror Indy",
+   "2026-04-17",
+   "https://mirrorindy.org/indianapolis-marion-county-sheriff-election-kelvis-williams-gregory-patrick/"
+  ],
+  "mi_mailer": [
+   "Marion County sheriff's candidate accused of 'shady tactics'",
+   "Mirror Indy",
+   "2026-04-30",
+   "https://mirrorindy.org/kelvis-williams-marion-county-sheriff-democrat-candidate-campaign-mailer/"
+  ],
+  "mi_capacity": [
+   "The Marion County jail reached capacity and will no longer hold people for ICE beyond 48 hours",
+   "WFYI / Mirror Indy",
+   "2026-01-16",
+   "https://mirrorindy.org/indianapolis-marion-county-jail-reached-capacity-no-longer-hold-for-ice-beyond-48-hours/"
+  ],
+  "mi_ice_budget": [
+   "Indy Democrats clash with sheriff over holding ICE detainees in the jail",
+   "Mirror Indy",
+   "2025-09-05",
+   "https://mirrorindy.org/indianapolis-ice-detainees-sheriff-kerry-forestal-todd-rokita-trump-jail/"
+  ],
+  "mi_senate": [
+   "Marion County sheriff to run for open state Indiana Senate seat",
+   "Indiana Capital Chronicle (via Mirror Indy)",
+   "2025-12-17",
+   "https://mirrorindy.org/marion-county-sheriff-to-run-for-open-state-indiana-senate-seat/"
+  ],
+  "mi_transfer": [
+   "Marion County seeks court order over delayed Indiana convict transfers",
+   "WRTV (via Mirror Indy)",
+   "2026-09-03",
+   "https://mirrorindy.org/marion-county-seeks-court-order-over-delayed-indiana-convict-transfers/"
+  ],
+  "mi_salary": [
+   "Sheriff seeks funding transfer to cover officer salaries",
+   "Mirror Indy",
+   "2025-11-24",
+   "https://mirrorindy.org/documenters-city-county-council-nov-police-labor-union-budget-inmates-health-care/"
+  ],
+  "mi_southport": [
+   "Southport police chief reinstated after discord with mayor",
+   "WISH-TV (via Mirror Indy)",
+   "2024-08-16",
+   "https://mirrorindy.org/southport-police-chief-reinstated-after-discord-with-mayor/"
+  ]
+ }
+}
