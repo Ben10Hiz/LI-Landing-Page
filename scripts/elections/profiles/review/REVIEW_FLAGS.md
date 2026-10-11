@@ -22,6 +22,28 @@ Sensitive items held for a second, careful editorial pass (criminal cases, misco
   - [Governor removes Dubois County sheriff from Indiana law enforcement board after failed settlement](https://duboiscountyfreepress.com/governor-removes-dubois-county-sheriff-from-indiana-law-enforcement-board-after-failed-settlement/) — Indiana Capital Chronicle (via Dubois County Free Press), 2026-04-20
   - [Sheriff Kleinhelter loses Indiana law enforcement certification but keeps elected office](https://duboiscountyfreepress.com/dubois-county-sheriff-loses-indiana-law-enforcement-certification-but-keeps-elected-office/) — Indiana Capital Chronicle (via Dubois County Free Press), 2026-06-15
 
+## Indiana County Sheriff (`in-jennings-county-sheriff`)
+
+- **William K. "Kenny" Freeman Jr.** — criminal case — _held_
+  A Jennings County grand jury indicted the sitting sheriff in June 2026 on two misdemeanor theft counts and Level 6 felony counts of official misconduct, obstruction of justice and perjury, after a roughly six- to seven-month Indiana State Police investigation into stolen campaign signs; a sheriff candidate had put a GPS tracker in a sign that was traced to a trash bin at Freeman's property, where a judicial candidate's sign was also found . Freeman turned himself in and was released on his own recognizance; a special prosecutor (Dearborn/Ohio counties) and a special judge (Ripley County) were assigned . WFIU/Free Press Indiana reported Freeman later issued sign-placement summonses to the two candidates whose signs were found, that GOP sheriff candidate Tom Webster reported missing signs in September 2025, and that Freeman's attorney Mark Dove said Freeman "did what any conscientious law enforcement officer would do" and expects a jury to find he broke no laws; an Oct. 8 pretrial hearing was set. No outcome as of Oct. 11, 2026.
+  Note: Freeman is not on the ballot, but the case involves the office and campaign signs from the 2026 sheriff primary. Outlets differ on whether he surrendered at the Ripley County Jail (WRTV/WFIU June, Fox59) or the Jennings County Jail (WFIU Sept.). A Republic article (June 20, 2026; 403, not read) reportedly set a Nov. 30 trial date. Which sheriff candidate placed the GPS tracker is not named in the articles read; nothing read ties either ballot candidate to the conduct.
+  - [Indiana sheriff indicted on charges of misconduct, theft of campaign signs](https://www.wrtv.com/news/local-news/crime/indiana-sheriff-indicted-on-charges-of-misconduct-theft-of-campaign-signs) — WRTV, 2026-06-08
+  - [Jennings County Sheriff charged with stealing competitor's campaign signs](https://www.ipm.org/news/2026-06-08/jennings-county-sheriff-charged-with-stealing-competitors-campaign-signs) — WFIU / Indiana Public Media, 2026-06-08
+  - [Indiana sheriff charged with stealing campaign signs in Jennings County](https://fox59.com/indiana-news/indiana-sheriff-charged-with-stealing-campaign-signs-in-jennings-county/) — FOX59, 2026-06
+  - [Jennings County Sheriff accused of stealing political yard signs and lying about it](https://www.ipm.org/news/2026-09-29/jennings-county-sheriff-accused-of-stealing-political-yard-signs-and-lying-about-it) — Free Press Indiana / WFIU, 2026-09-29
+
+## Indiana County Sheriff (`in-lake-county-sheriff`)
+
+- **Oscar Martinez Jr.** — criminal case — _held_
+  In January 2022 a Lake County grand jury indicted Martinez on a felony count of resisting law enforcement and a misdemeanor count of reckless driving over a Sept. 18, 2021 incident in which Crown Point police reported pursuing a speeding unmarked SUV; special prosecutor Stanley Levco announced the indictment. Martinez denied the allegations and called the case "a political witch hunt" started by an unnamed rival politician.
+  Note: Outcome not confirmed from a reliable fetched source: Wikipedia states he pleaded guilty to misdemeanor reckless driving in February 2024 with the felony dropped and 60 days' probation (citing a paywalled NWI Times article). Republican candidate Crane referred to "a sheriff who was indicted" in May 2026 remarks reported by the Chicago Crusader.
+  - [NW Indiana sheriff indicted on felony, misdemeanor charges](https://www.wfyi.org/public-affairs/2022-01-07/nw-indiana-sheriff-indicted-on-felony-misdemeanor-charges) — Associated Press via WFYI, 2022-01-07
+
+- **Oscar Martinez Jr.** — misconduct allegation — _held_
+  The Chicago Crusader reported that a January 2026 Indiana State Board of Accounts audit found Martinez spent nearly $300,000 in jail commissary funds from 2022 to 2024 on donations, golf and travel, which the paper described as violating state law; the article did not include a response from Martinez.
+  Note: The SBOA report itself and a Lakeshore Public Media article (404) were not read. Search snippets (unverified) said the report flagged 221 purchases totaling about $265,000, required repayment of about $59,000 in audit costs, was referred to the Attorney General and U.S. Attorney, and that Martinez said non-qualifying purchases came from his campaign fund. Crane urged voters to read the report and suggested some funds could be tied to certain candidates' financial forms (no candidate named). Could be moved into the incumbent record as an office-level audit finding once the report is read.
+  - [Firestorms In County Jail Fuel Sheriff's Race](https://chicagocrusader.com/firestorms-county-jail-spark-lake-county-indiana-sheriffs-race/) — Chicago Crusader, 2026-05-02
+
 ## Indiana School Board Member (`in-school-board-elkhart-goshen`)
 
 - **Allan Kauffman, Mario Garber, José Elizalde, Roger Nafziger (board members, not on the ballot)** — criminal case — _held_

@@ -1,0 +1,83 @@
+{
+ "race_id": "in-fountain-county-sheriff",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_sheriff",
+ "incumbent": {
+  "name": "Terry R. Holt",
+  "party": "Republican",
+  "summary": "Terry R. Holt, a Republican, is Fountain County sheriff; a committee to re-elect him advertised in spring 2022, and he was unopposed in the November 2022 general election, indicating he is in a second consecutive term {fcc_holt_2022} {fc_general_2022}. He is not on the 2026 sheriff ballot {fc_primary_2026} {in_list}.",
+  "record": [
+   "April–May 2022: The Committee to Re-elect Terry Holt Fountain County Sheriff bought radio advertising, according to a station's FCC political file {fcc_holt_2022}.",
+   "November 2022: Holt was the only candidate for sheriff on the general-election ballot and received 4,336 votes, per the county's unofficial results {fc_general_2022}.",
+   "May 2026: A candidate listed as Terry R. Holt finished third of four in the Republican primary for County Commissioner District 3 with 24.26% of the vote; Kerry Randles won with 36.79% {fc_primary_2026}."
+  ]
+ },
+ "race_context": [
+  "This is an open seat. Sheriff Holt is not on the 2026 sheriff ballot, which is consistent with Indiana's two-consecutive-term limit if he is in his second term {fcc_holt_2022} {fc_general_2022} {in_list}.",
+  "Five Republicans ran in the May 5, 2026 primary. Official results: Andrew Krout 1,475 votes (40.36%), Jon Clawson 932 (25.50%), Robert D. (Bobby) Bass 903 (24.71%), Richard Livengood 316 (8.65%) and Rocky L. Brown II 29 (0.79%) {fc_primary_2026}.",
+  "Paul Davis is running as an independent {in_list} {goodparty_davis}.",
+  "No candidate forum, debate or local news coverage of the 2026 sheriff race was found in available sources."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Andrew Krout",
+   "summary": "Andrew Krout won a five-way Republican primary for sheriff in May 2026 with 40.36% of the vote; no other public information about his background or platform was found {fc_primary_2026}.",
+   "website": null,
+   "background": [
+    "No published information about his occupation or law-enforcement experience was found."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Republican primary with 1,475 votes (40.36%) over Jon Clawson, Robert D. (Bobby) Bass, Richard Livengood and Rocky L. Brown II {fc_primary_2026}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No public statements about Sheriff Holt's record were found."
+   ],
+   "plans": [
+    "No published platform was found."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance totals were found in available coverage."
+   ],
+   "gaps": [
+    "No news coverage, campaign website or social-media page was found; background, experience and positions are unknown.",
+    "Campaign-finance reports filed with the Fountain County clerk were not reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Paul Davis",
+   "summary": "Paul Davis is an independent candidate for Fountain County sheriff; no public information about his background or platform was found {in_list} {goodparty_davis}.",
+   "website": null,
+   "background": [
+    "No published information about his occupation or law-enforcement experience was found; a third-party candidate directory lists him as an independent with no profile details {goodparty_davis}."
+   ],
+   "path_to_ballot": [
+    "Listed on the general-election ballot as an independent {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No public statements about Sheriff Holt's record were found."
+   ],
+   "plans": [
+    "No published platform was found."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance totals were found in available coverage."
+   ],
+   "gaps": [
+    "No news coverage, campaign website or social-media page was found; background, experience and positions are unknown.",
+    "How he qualified as an independent (petition details) was not found.",
+    "Paul Davis is a common name; no source was found tying this candidate to a specific background."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "fc_primary_2026": ["2026 Primary Election Official Results (Cumulative Results Report)", "Fountain County Clerk", "2026-05-11", "https://www.fountaincounty.net/egov/documents/1778519208_11213.pdf"],
+  "fc_general_2022": ["2022 General Election Unofficial Results", "Fountain County Clerk", "2022-11-08", "https://www.fountaincounty.net/egov/documents/1668454185_77003.pdf"],
+  "fcc_holt_2022": ["WKZS Political Files, 2022 Local", "Federal Communications Commission public file", "2022-05", "https://publicfiles.fcc.gov/fm-profile/wkzs/political-files/2022/local/5273a0ca-e283-131d-601d-1193fe84b2f0"],
+  "goodparty_davis": ["Paul Davis — candidate for Fountain County Sheriff", "GoodParty.org", "2026-10", "https://goodparty.org/people/paul-davis-f0626223"]
+ }
+}

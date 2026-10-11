@@ -1,0 +1,128 @@
+{
+ "race_id": "in-lake-county-sheriff",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_sheriff",
+ "incumbent": {
+  "name": "Oscar Martinez Jr.",
+  "party": "Democratic (party not confirmed in a source fetched for this profile)",
+  "summary": "Martinez took office in 2017 and cannot seek a third consecutive term, making this an open seat {pt_race_apr25}. Jail staffing, conditions and the office's budget have been recurring issues in 2025–2026 {pt_union} {pt_range}.",
+  "record": [
+   "2017: Took office as sheriff {pt_race_apr25}.",
+   "March 2025: After Attorney General Todd Rokita's office said the department had \"reversed course\" and was cooperating with ICE following two warning letters, Martinez said the department has always cooperated with federal agencies, has never adopted policies limiting communication with ICE, and has never restricted compliance with ICE detainer requests within federal time limits {abc7_ice}.",
+   "May 2026: The correctional officers' union told the county council that bargaining had stalled after its contract expired Dec. 31, 2025, that the jail was short about 70 officers, and that the jail had gone about seven months without a warden. Martinez said he supports the union's bargaining rights, that staffing shortages \"are nothing new,\" that he changed the hiring process and expanded hiring campaigns, and that he worked with the council to raise officer pay from about $31,000 to $54,000 over three years {pt_union}.",
+   "May 2026: Council President Christine Cid said the council has raised pay and worked to reduce overcrowding and that many applicants fail required testing; Commissioner Michael Repay said commissioners lack authority over the jail and had previously lost a court bid for more oversight {pt_union}.",
+   "June 2026: The council approved $890,722 in transfers within the sheriff's budget, mostly to renovate the department's 1975 firing range; Martinez said no new county money was requested and the funds came from asset forfeiture, the public safety fund, sheriff's sales and firearms permit fees {pt_range}.",
+   "June 2026: Martinez said his office emails commissioners daily about structural and mechanical jail problems and cited new radios, stun guns, cameras, a Vivitrol addiction-treatment program and a reentry program; Repay said commissioners act on repairs the sheriff requests and that \"We have not been allowed to have an independent inspection of the jail\" {pt_range}.",
+   "Background: The jail was under U.S. Department of Justice oversight from 2010 to 2019 following a 2007 inmate lawsuit over conditions and health care {pt_union}."
+  ]
+ },
+ "race_context": [
+  "Open seat: Sheriff Oscar Martinez Jr. is in his second consecutive term and is barred from running again {pt_williams_announce} {pt_race_apr25}.",
+  "May 5, 2026 Democratic primary (unofficial): Jerry Williams 10,137 (26.16%), Steven Flores 8,448, Edward Jenkins 6,916, Jason Gore 6,881, Maria Garcia Trajkovich 5,174, Jack \"John Gregory\" Sanchez 1,187 {crusader_primary}. Several losing candidates conceded and pledged support for Williams {pt_primary}.",
+  "David K Crane, Jr filed Jan. 9, 2026 and was the only Republican candidate for sheriff in the primary {lake_rep_list} {crusader_jail}.",
+  "Jail staffing and conditions were a central primary issue; candidate Edward Jenkins said the jail is budgeted for 220 correctional officers but has about 150 {crusader_jail}.",
+  "If elected, Williams would be the first Black sheriff in Lake County history {capb_primary}.",
+  "No general-election forums or debates between Williams and Crane were found in the sources reviewed."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "David K Crane, Jr",
+   "summary": "Crane, of Cedar Lake, retired after 17 years with the Lake County Sheriff's Department {crusader_jail}. He was unopposed in the Republican primary {pt_primary}.",
+   "website": null,
+   "background": [
+    "Retired after 17 years with the Lake County Sheriff's Department; lives in Cedar Lake {crusader_jail}."
+   ],
+   "path_to_ballot": [
+    "Filed Jan. 9, 2026 as a Republican candidate for Lake County Sheriff {lake_rep_list}.",
+    "Unopposed in the May 5, 2026 Republican primary {pt_primary} {capb_primary}."
+   ],
+   "positions": [
+    {"topic": "Jail & corrections", "items": ["Attributed the jail's problems to long-running single-party control of county government {crusader_jail}."]},
+    {"topic": "Transparency", "items": ["Urged voters to review the State Board of Accounts report on the sheriff's commissary fund {crusader_jail}."]}
+   ],
+   "on_incumbent": [
+    "Said the department lacks leadership {crusader_jail}."
+   ],
+   "plans": [
+    "No specific plans for the office were found in the sources reviewed."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance figures were found in the sources reviewed."
+   ],
+   "gaps": [
+    "Coverage of Crane is very thin; no campaign website, social page or interview with policy plans was found.",
+    "Northwest Indiana Times articles that appear to cover a 2022 Republican sheriff run by a retired deputy named Dave Crane of Cedar Lake (\"Retired deputy is Republican nominee for Lake County sheriff\"; \"Republican sees 'culture of criminal behavior' in Lake County Sheriff's Department\") are behind a paid access gateway and were not read; whether he is the same person and his 2022 result are unverified.",
+    "No statements found on staffing and pay, budget, drugs, school safety or immigration enforcement."
+   ]
+  },
+  {
+   "ballot_name": "Jerry Williams",
+   "summary": "Williams, a Gary native, is an Indiana State Police major with about 33 years of service who began his career as a Lake County Sheriff's corrections officer {pt_primary} {pt_williams_announce}. He won a six-way Democratic primary {crusader_primary}.",
+   "website": null,
+   "background": [
+    "Began as a corrections officer with the Lake County Sheriff's Office before joining the Indiana State Police {pt_williams_announce}.",
+    "ISP roles have included Lake County road trooper, gang task force investigator, fiscal division sergeant, internal investigations, and lieutenant of the seven-county Lowell District {pt_williams_announce}.",
+    "Helped lead a 15-month state effort starting in 2022 to reorganize the Gary Police Department and was Gary's interim police chief for the first half of 2023 {pt_williams_announce}.",
+    "Was ISP assistant chief of staff of logistics in 2024–2025 {pt_williams_announce} {pt_race_apr25}; in May 2026 the Chicago Crusader reported he commands the ISP Capitol Police Division {crusader_primary}."
+   ],
+   "path_to_ballot": [
+    "Announced his candidacy in June 2024 {pt_williams_announce}.",
+    "Won the May 5, 2026 Democratic primary with 10,137 votes (26.16%) in a six-candidate field (unofficial) {crusader_primary}."
+   ],
+   "positions": [
+    {"topic": "Jail & corrections", "items": ["Plans to address jail conditions {pt_primary} {crusader_primary}.", "Said his experience in other jails and facilities qualifies him to lead and improve the jail {crusader_jail}."]},
+    {"topic": "Staffing & pay", "items": ["Plans to address staffing by hiring more correctional officers {pt_primary}."]},
+    {"topic": "Budget", "items": ["Plans to address the department's financial challenges and strengthen financial oversight, citing his experience overseeing more than $400 million in assets at the State Police {pt_primary} {crusader_primary}."]},
+    {"topic": "Transparency", "items": ["Would adopt a day-one policy barring sheriff's employees from taking part in sheriff campaigns {pt_primary} {crusader_primary}."]}
+   ],
+   "on_incumbent": [
+    "No direct statements by Williams about Sheriff Martinez's record were found. After the primary he said he wants to restore public confidence in the department {crusader_primary}."
+   ],
+   "plans": [
+    "Fix infrastructure at the county animal shelter {pt_primary}.",
+    "Work with stakeholders countywide to build unity {pt_primary}."
+   ],
+   "endorsements_finance": [
+    "Endorsed by the Gary Crusader, per the Chicago Crusader {crusader_jail}.",
+    "No campaign finance figures were found in the sources reviewed."
+   ],
+   "gaps": [
+    "No campaign website found.",
+    "Reported ISP tenure differs by date (31 years in 2024–2025 coverage, 33 years in 2026 coverage), consistent with time elapsed.",
+    "No statements found on immigration enforcement, drugs or school safety.",
+    "Northwest Indiana Times coverage of the primary is behind a paid access gateway and was not read."
+   ]
+  }
+ ],
+ "review_flags": [
+  {
+   "person": "Oscar Martinez Jr.",
+   "category": "criminal case",
+   "status": "held",
+   "summary": "In January 2022 a Lake County grand jury indicted Martinez on a felony count of resisting law enforcement and a misdemeanor count of reckless driving over a Sept. 18, 2021 incident in which Crown Point police reported pursuing a speeding unmarked SUV; special prosecutor Stanley Levco announced the indictment. Martinez denied the allegations and called the case \"a political witch hunt\" started by an unnamed rival politician {wfyi_indict}.",
+   "note": "Outcome not confirmed from a reliable fetched source: Wikipedia states he pleaded guilty to misdemeanor reckless driving in February 2024 with the felony dropped and 60 days' probation (citing a paywalled NWI Times article). Republican candidate Crane referred to \"a sheriff who was indicted\" in May 2026 remarks reported by the Chicago Crusader."
+  },
+  {
+   "person": "Oscar Martinez Jr.",
+   "category": "misconduct allegation",
+   "status": "held",
+   "summary": "The Chicago Crusader reported that a January 2026 Indiana State Board of Accounts audit found Martinez spent nearly $300,000 in jail commissary funds from 2022 to 2024 on donations, golf and travel, which the paper described as violating state law; the article did not include a response from Martinez {crusader_jail}.",
+   "note": "The SBOA report itself and a Lakeshore Public Media article (404) were not read. Search snippets (unverified) said the report flagged 221 purchases totaling about $265,000, required repayment of about $59,000 in audit costs, was referred to the Attorney General and U.S. Attorney, and that Martinez said non-qualifying purchases came from his campaign fund. Crane urged voters to read the report and suggested some funds could be tied to certain candidates' financial forms (no candidate named). Could be moved into the incumbent record as an office-level audit finding once the report is read."
+  }
+ ],
+ "sources": {
+  "pt_race_apr25": ["Lake County sheriff 2026 race grows to four candidates; Oscar Martinez Jr. can't seek another term", "Post-Tribune (via Yahoo News)", "2025-04-13", "https://www.yahoo.com/news/lake-county-sheriff-2026-race-204500950.html"],
+  "pt_williams_announce": ["Williams throws hat in the ring for Lake Sheriff's race", "Post-Tribune (via Yahoo News)", "2024-06-22", "https://www.yahoo.com/news/williams-throws-hat-ring-lake-160000261.html"],
+  "pt_primary": ["Lake County Sheriff Democratic primary: ISP Major Williams claims victory, other candidates concede", "Post-Tribune (via Yahoo News)", "2026-05-06", "https://www.yahoo.com/news/articles/lake-county-sheriff-democratic-primary-204200759.html"],
+  "pt_union": ["Lake County correctional officers union raises concern over contract negotiations, jail conditions", "Post-Tribune (via Yahoo News)", "2026-05-12", "https://www.yahoo.com/news/articles/lake-county-correctional-officers-union-210700794.html"],
+  "pt_range": ["Lake County sheriff focuses on gun range amid reports of deteriorating jail conditions", "Post-Tribune (via Yahoo News)", "2026-06-10", "https://www.yahoo.com/news/us/articles/lake-county-sheriff-focuses-gun-194300143.html"],
+  "crusader_primary": ["Jerry Williams captures Democratic Lake County Sheriff nomination", "Chicago Crusader", "2026-05-09", "https://chicagocrusader.com/jerry-williams-captures-democratic-lake-county-sheriff-nomination/"],
+  "crusader_jail": ["Firestorms In County Jail Fuel Sheriff's Race", "Chicago Crusader", "2026-05-02", "https://chicagocrusader.com/firestorms-county-jail-spark-lake-county-indiana-sheriffs-race/"],
+  "capb_primary": ["Williams Moves Closer to Historic Sheriff Win After Election Primary", "Capital B Gary", "2026-05-06", "https://gary.capitalbnews.org/jerry-williams-lake-county-sheriff-primary-election/"],
+  "abc7_ice": ["Lake County Sheriff's now cooperating with ICE, Indiana attorney general says", "ABC7 Chicago", "2025-03-06", "https://abc7chicago.com/post/lake-county-sheriffs-now-cooperating-ice-indiana-attorney-general-todd-rokita-says/15983400/"],
+  "lake_rep_list": ["2026 Primary Republican Candidates (Ballot Order)", "Lake County Board of Elections and Voter Registration", "2026", "https://lakecountyin.gov/departments/voters/election-candidates/2026%20Primary%20Rep%20Candidates%20(Ballot%20Order).pdf"],
+  "wfyi_indict": ["NW Indiana sheriff indicted on felony, misdemeanor charges", "Associated Press via WFYI", "2022-01-07", "https://www.wfyi.org/public-affairs/2022-01-07/nw-indiana-sheriff-indicted-on-felony-misdemeanor-charges"]
+ }
+}

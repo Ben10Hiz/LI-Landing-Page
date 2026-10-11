@@ -1,0 +1,113 @@
+{
+ "race_id": "in-jennings-county-sheriff",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_sheriff",
+ "incumbent": {
+  "name": "William K. \"Kenny\" Freeman Jr.",
+  "party": "Republican (party not confirmed in a source fetched for this profile)",
+  "summary": "Freeman has been Jennings County sheriff since 2019 {wrtv_indict}. He is serving his second term, cannot seek a third, and will remain in office until January {ipm_sep}. He is not on the November ballot.",
+  "record": [
+   "2019: Took office as sheriff {wrtv_indict}.",
+   "March 2024: Appointed Cody Low, now the Republican nominee, as the office's chief deputy {mc_low_announce}.",
+   "January 2025: When Low announced his candidacy, Freeman praised him and said he would be proud to see Low succeed him {mc_low_announce}.",
+   "2026: Supported Low in the May Republican primary to succeed him, according to WFIU/Free Press Indiana {ipm_sep}."
+  ]
+ },
+ "race_context": [
+  "Open seat: Sheriff Kenny Freeman is completing his second consecutive term and is barred from seeking a third {ipm_sep} {mc_low_announce}.",
+  "May 5, 2026 Republican primary (unofficial results reported on election night): Cody Low 2,297 votes, Tom Webster 1,319, Casey Shelton 259, Roddnie Liggett Sr. 230 {mc_primary}.",
+  "May 5, 2026 Democratic primary: Gary M. Driver, the only Democratic candidate listed, received 573 votes {mc_primary}.",
+  "The race pairs the office's current chief deputy (Low) with a former sheriff who held the office from 2015 to 2018 (Driver) {mc_low_announce} {driver_site}.",
+  "No candidate forums or debates for the general election were found in the sources reviewed."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Cody Low",
+   "summary": "Low is chief deputy of the Jennings County Sheriff's Office, where he has worked since 2013 {mc_low_announce}. He won a four-way Republican primary {mc_primary}.",
+   "website": null,
+   "background": [
+    "Employed by the Jennings County Sheriff's Office since 2013; became a canine handler in 2019, was promoted to sergeant the same year, and was appointed chief deputy in March 2024 {mc_low_announce}.",
+    "Described by the Madison Courier as born and raised in Jennings County, based on his announcement {mc_low_announce}.",
+    "As chief deputy, detained a fleeing suspect while off duty in April 2026 after being contacted by dispatch, according to Local News Digital {lnd_low}."
+   ],
+   "path_to_ballot": [
+    "Announced in January 2025, on social media, that he would run as a Republican {mc_low_announce}.",
+    "Won the May 5, 2026 Republican primary with 2,297 votes against Tom Webster (1,319), Casey Shelton (259) and Roddnie Liggett Sr. (230), per unofficial results {mc_primary}."
+   ],
+   "positions": [
+    {"topic": "Transparency", "items": ["Named transparency, accountability and service to every resident as priorities in his announcement {mc_low_announce}."]},
+    {"topic": "Staffing & pay", "items": ["Pointed to his work improving deputy training and introducing new technology at the office {mc_low_announce}."]}
+   ],
+   "on_incumbent": [
+    "Low is the current chief deputy under Sheriff Freeman, who has publicly backed him {mc_low_announce} {ipm_sep}. No statements by Low assessing the office's direction or the sheriff's record were found in the sources reviewed."
+   ],
+   "plans": [
+    "Said he would continue the focus on public safety, technology and deputy training he cited from his time at the office {mc_low_announce}."
+   ],
+   "endorsements_finance": [
+    "Sheriff Kenny Freeman said he would be proud to see Low succeed him {mc_low_announce}.",
+    "No campaign finance figures were found in the sources reviewed."
+   ],
+   "gaps": [
+    "No campaign website found; GoodParty.org lists a Facebook page, \"Cody Low for Jennings County Sheriff 2026,\" which was not reviewed.",
+    "No detailed policy statements on the jail, budget, drugs, school safety or immigration enforcement were found.",
+    "A March 2024 KORN Country article on his promotion (describing him as an 11-year veteran with patrol, K-9 and sergeant experience) was seen only in search snippets; the page returned 404.",
+    "The Republic (Columbus) coverage of the primary returned 403 and was not read."
+   ]
+  },
+  {
+   "ballot_name": "Gary M. Driver",
+   "summary": "Driver is a former Jennings County sheriff (2015–2018) and longtime North Vernon Police Department officer, per his campaign website {driver_site}. He was unopposed in the Democratic primary {mc_primary}.",
+   "website": "https://driverforsheriff.com/",
+   "background": [
+    "Campaign site lists 28 years of service, including 24 years with the North Vernon Police Department as a detective, sergeant and lieutenant, and four years as Jennings County sheriff (2015–2018) {driver_site}.",
+    "Campaign site also lists him as a local small business owner {driver_site}."
+   ],
+   "path_to_ballot": [
+    "Unopposed in the May 5, 2026 Democratic primary, receiving 573 votes per unofficial results {mc_primary}."
+   ],
+   "positions": [
+    {"topic": "Patrol & response", "items": ["Proposes community liaison officers, regular town halls and a visible deputy presence across the county {driver_site}.", "Pledges to improve response times in rural areas and expand neighborhood watch partnerships {driver_site}.", "Supports \"data-driven, intelligence-led strategies\" aimed at crime hot spots {driver_site}."]},
+    {"topic": "Transparency", "items": ["Proposes public reporting on department activities, open-door policies and quarterly community briefings {driver_site}."]},
+    {"topic": "Drugs", "items": ["Proposes targeting drug trafficking while expanding partnerships with treatment providers and mental health professionals {driver_site}."]},
+    {"topic": "Staffing & pay", "items": ["Proposes recruiting deputies from within the county, offering competitive compensation and investing in advanced training {driver_site}."]}
+   ],
+   "on_incumbent": [
+    "No statements by Driver about Sheriff Freeman's record were found in the sources reviewed. His campaign site's stated priorities for the office's direction are community-based policing, public reporting and accountability {driver_site}."
+   ],
+   "plans": [
+    "Campaign site says a campaign platform PDF is \"coming soon\" {driver_site}."
+   ],
+   "endorsements_finance": [
+    "Campaign site's endorsements section says endorsements are \"coming soon\" {driver_site}.",
+    "No campaign finance figures were found in the sources reviewed."
+   ],
+   "gaps": [
+    "Independent news coverage of Driver's 2026 campaign was not found; most information comes from his own website.",
+    "A 2018 Republic article (\"Where the sheriff's candidates stand on issues\") covering his race against Freeman was seen only in search results and not read.",
+    "No statements on the jail, budget, school safety or immigration enforcement were found."
+   ]
+  }
+ ],
+ "review_flags": [
+  {
+   "person": "William K. \"Kenny\" Freeman Jr.",
+   "category": "criminal case",
+   "status": "held",
+   "summary": "A Jennings County grand jury indicted the sitting sheriff in June 2026 on two misdemeanor theft counts and Level 6 felony counts of official misconduct, obstruction of justice and perjury, after a roughly six- to seven-month Indiana State Police investigation into stolen campaign signs; a sheriff candidate had put a GPS tracker in a sign that was traced to a trash bin at Freeman's property, where a judicial candidate's sign was also found {wrtv_indict} {ipm_jun}. Freeman turned himself in and was released on his own recognizance; a special prosecutor (Dearborn/Ohio counties) and a special judge (Ripley County) were assigned {wrtv_indict} {fox59_indict}. WFIU/Free Press Indiana reported Freeman later issued sign-placement summonses to the two candidates whose signs were found, that GOP sheriff candidate Tom Webster reported missing signs in September 2025, and that Freeman's attorney Mark Dove said Freeman \"did what any conscientious law enforcement officer would do\" and expects a jury to find he broke no laws; an Oct. 8 pretrial hearing was set {ipm_sep}. No outcome as of Oct. 11, 2026.",
+   "note": "Freeman is not on the ballot, but the case involves the office and campaign signs from the 2026 sheriff primary. Outlets differ on whether he surrendered at the Ripley County Jail (WRTV/WFIU June, Fox59) or the Jennings County Jail (WFIU Sept.). A Republic article (June 20, 2026; 403, not read) reportedly set a Nov. 30 trial date. Which sheriff candidate placed the GPS tracker is not named in the articles read; nothing read ties either ballot candidate to the conduct."
+  }
+ ],
+ "sources": {
+  "wrtv_indict": ["Indiana sheriff indicted on charges of misconduct, theft of campaign signs", "WRTV", "2026-06-08", "https://www.wrtv.com/news/local-news/crime/indiana-sheriff-indicted-on-charges-of-misconduct-theft-of-campaign-signs"],
+  "ipm_jun": ["Jennings County Sheriff charged with stealing competitor's campaign signs", "WFIU / Indiana Public Media", "2026-06-08", "https://www.ipm.org/news/2026-06-08/jennings-county-sheriff-charged-with-stealing-competitors-campaign-signs"],
+  "ipm_sep": ["Jennings County Sheriff accused of stealing political yard signs and lying about it", "Free Press Indiana / WFIU", "2026-09-29", "https://www.ipm.org/news/2026-09-29/jennings-county-sheriff-accused-of-stealing-political-yard-signs-and-lying-about-it"],
+  "fox59_indict": ["Indiana sheriff charged with stealing campaign signs in Jennings County", "FOX59", "2026-06", "https://fox59.com/indiana-news/indiana-sheriff-charged-with-stealing-campaign-signs-in-jennings-county/"],
+  "mc_primary": ["Primary results: Low wins sheriff race, Bright, King, Abel fall", "Madison Courier", "2026-05-05", "https://www.madisoncourier.com/north_vernon/primary-results-low-wins-sheriff-race-bright-king-abel-fall/article_7eda5fe2-aa0b-5912-b547-157fb2196347.html"],
+  "mc_low_announce": ["Chief deputy announces run for sheriff", "Madison Courier", "2025-01-08", "https://www.madisoncourier.com/chief-deputy-announces-run-for-sheriff/article_caf23410-d380-5a9b-9acc-12fd889a8ed4.html"],
+  "lnd_low": ["Off-duty Chief Deputy Low, in right place at right time, captures fugitive", "Local News Digital", "2026-04-06", "https://www.localnewsdigital.com/news/jennings-county-news/off-duty-chief-deputy-low-in-right-place-at-right-time-captures-fugitive/"],
+  "driver_site": ["Gary M. Driver for Sheriff (campaign website)", "Committee to Elect Gary M. Driver, Sheriff", "2026-10", "https://driverforsheriff.com/"]
+ }
+}

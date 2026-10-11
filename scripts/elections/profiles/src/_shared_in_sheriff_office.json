@@ -3,12 +3,30 @@
   "title": "Indiana County Sheriff",
   "summary": "The sheriff is an elected county officer created by the Indiana Constitution who arrests offenders, keeps the peace, serves court papers, keeps order in county courts and runs the county jail {in_guide}{ic_36_2_13_5}. The Indiana Sheriffs' Association describes sheriffs as constitutional officers elected by the people, whose work includes operating jails, serving civil process, providing court security and coordinating emergency response {isa_2026}. Every county elects its sheriff in 2026 for a four-year term, and no one may serve as sheriff more than eight years in any twelve-year period {in_guide}.",
   "facts": [
-   {"label": "Term", "value": "4 years; the sheriff serves until a successor is elected and qualified {ic_36_2_13_2}{in_guide}"},
-   {"label": "Elected", "value": "Countywide by the county's voters on the partisan general election ballot; all county sheriffs are elected in 2026 {in_guide}"},
-   {"label": "Term limit", "value": "No more than eight years in any period of twelve years (Indiana Constitution, Article 6, Section 2) {in_guide}"},
-   {"label": "Qualifications", "value": "Must have lived in the county for at least one year before the election, be registered to vote in the county by the filing deadline, and file a statement of economic interests; a sheriff who moves out of the county forfeits the office {in_guide}{ic_36_2_13_2}"},
-   {"label": "Pay", "value": "A county may pay the sheriff a salary from the county general fund of at least 50% to 100% of the state minimum salary of a full-time prosecuting attorney, depending on county population {ic_36_2_13_2_8}"},
-   {"label": "On the 2026 ballot", "value": "92 races; 26 contested {in_list}"}
+   {
+    "label": "Term",
+    "value": "4 years; the sheriff serves until a successor is elected and qualified {ic_36_2_13_2}{in_guide}"
+   },
+   {
+    "label": "Elected",
+    "value": "Countywide by the county's voters on the partisan general election ballot; all county sheriffs are elected in 2026 {in_guide}"
+   },
+   {
+    "label": "Term limit",
+    "value": "No more than eight years in any period of twelve years (Indiana Constitution, Article 6, Section 2) {in_guide}"
+   },
+   {
+    "label": "Qualifications",
+    "value": "Must have lived in the county for at least one year before the election, be registered to vote in the county by the filing deadline, and file a statement of economic interests; a sheriff who moves out of the county forfeits the office {in_guide}{ic_36_2_13_2}"
+   },
+   {
+    "label": "Pay",
+    "value": "A county may pay the sheriff a salary from the county general fund of at least 50% to 100% of the state minimum salary of a full-time prosecuting attorney, depending on county population {ic_36_2_13_2_8}"
+   },
+   {
+    "label": "On the 2026 ballot",
+    "value": "92 races; 26 contested {in_list}"
+   }
   ],
   "duties": [
    "Arrests without a warrant people who commit an offense in the sheriff's view, brings them before a county court, and holds them while the arrest is investigated {ic_36_2_13_5}.",
@@ -36,21 +54,95 @@
   ]
  },
  "sources": {
-  "in_list": ["2026 General Election Candidate List", "Indiana Election Division", "2026-09-22", "https://www.in.gov/sos/elections/candidate-information/"],
-  "in_guide": ["2026 Indiana Candidate Guide (County Offices: County Sheriff)", "Indiana Election Division", "accessed 2026-10-11", "https://www.in.gov/dA/1eada35c3e/2026-Candidate-Guide.FINAL.pdf"],
-  "ic_36_2_13_2": ["Indiana Code 36-2-13-2: Sheriff residency and term", "FindLaw (Indiana Code, current as of 2026-01-01)", "accessed 2026-10-11", "https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-2-13-2/"],
-  "ic_36_2_13_2_8": ["Indiana Code 36-2-13-2.8: Sheriff's salary", "FindLaw (Indiana Code, current as of 2026-01-01)", "accessed 2026-10-11", "https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-2-13-2-8/"],
-  "ic_36_2_13_5": ["Indiana Code 36-2-13-5: Duties of sheriff", "FindLaw (Indiana Code, current as of 2026-01-01)", "accessed 2026-10-11", "https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-2-13-5/"],
-  "ic_36_2_2_24": ["Indiana Code 36-2-2-24: County courthouse, jail and offices", "FindLaw (Indiana Code, current as of 2026-01-01)", "accessed 2026-10-11", "https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-2-2-24/"],
-  "ic_36_8_10_3": ["Indiana Code 36-8-10-3: Sheriff's merit board", "FindLaw (Indiana Code, current as of 2026-01-01)", "accessed 2026-10-11", "https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-8-10-3/"],
-  "ic_33_39_1_5": ["Indiana Code 33-39-1-5: Duties of prosecuting attorneys", "FindLaw (Indiana Code, current as of 2026-01-01)", "accessed 2026-10-11", "https://codes.findlaw.com/in/title-33-courts-and-court-officers/in-code-sect-33-39-1-5/"],
-  "isa_2026": ["2026 ISA President Statement (Jeffrey A. Balon, Porter County Sheriff)", "Indiana Sheriffs' Association", "2026-01", "https://indianasheriffs.org/wp-content/uploads/2026/01/2026-ISA-President-Statement.pdf"],
-  "miami_sheriff": ["Powers & Duties of the Sheriff", "Miami County, Indiana", "accessed 2026-10-11", "https://www.miamicountyin.gov/387/Powers-Duties-of-the-Sheriff"],
-  "ibj_2025_jails": ["County jails on the hook as state stops paying prisoner costs", "Indiana Capital Chronicle (via Indianapolis Business Journal)", "2025-02-19", "https://www.ibj.com/articles/county-jails-on-the-hook-as-state-stops-paying-prisoner-costs"],
-  "iib_2025_jails": ["Indiana Department of Correction readies to pay $12 million in jail back payments", "Indiana Capital Chronicle (via Inside INdiana Business)", "2025-06-11", "https://www.insideindianabusiness.com/articles/indiana-department-of-correction-readies-to-pay-12-million-in-jail-back-payments"],
-  "network_2025_hea1393": ["Braun signs bill into law requiring jails to tell ICE about potential immigration violations", "Network Indiana (via WMNC 95.3)", "2025-05-05", "https://www.953mnc.com/2025/05/05/braun-signs-bill-into-law-requiring-jails-to-tell-ice-about-potential-immigration-violations/"],
-  "wndu_2026_sb76": ["Illegally in Indiana: New state law aims at cracking down on illegal immigration", "WNDU", "2026-04-01", "https://www.wndu.com/2026/04/02/illegally-indiana-new-state-law-aims-cracking-down-illegal-immigration"],
-  "ipm_2026_bail": ["Amendment to deny bail to some offenders moves closer to November ballot", "WFYI (via Indiana Public Media)", "2026-02-11", "https://www.ipm.org/news/2026-02-11/amendment-to-deny-bail-to-some-offenders-moves-closer-to-november-ballot"],
-  "indypolitics_2026_bail": ["Indiana bail amendment clears General Assembly, sending detention question to November ballot", "IndyPolitics.Org (reporting by Indiana Capital Chronicle)", "2026-02-17", "https://indypolitics.org/indiana-bail-amendment-clears-general-assembly-sending-detention-question-to-november-ballot/"]
+  "in_list": [
+   "2026 General Election Candidate List",
+   "Indiana Election Division",
+   "2026-09-22",
+   "https://www.in.gov/sos/elections/candidate-information/"
+  ],
+  "in_guide": [
+   "2026 Indiana Candidate Guide (County Offices: County Sheriff)",
+   "Indiana Election Division",
+   "accessed 2026-10-11",
+   "https://www.in.gov/dA/1eada35c3e/2026-Candidate-Guide.FINAL.pdf"
+  ],
+  "ic_36_2_13_2": [
+   "Indiana Code 36-2-13-2: Sheriff residency and term",
+   "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "accessed 2026-10-11",
+   "https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-2-13-2/"
+  ],
+  "ic_36_2_13_2_8": [
+   "Indiana Code 36-2-13-2.8: Sheriff's salary",
+   "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "accessed 2026-10-11",
+   "https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-2-13-2-8/"
+  ],
+  "ic_36_2_13_5": [
+   "Indiana Code 36-2-13-5: Duties of sheriff",
+   "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "accessed 2026-10-11",
+   "https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-2-13-5/"
+  ],
+  "ic_36_2_2_24": [
+   "Indiana Code 36-2-2-24: County courthouse, jail and offices",
+   "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "accessed 2026-10-11",
+   "https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-2-2-24/"
+  ],
+  "ic_36_8_10_3": [
+   "Indiana Code 36-8-10-3: Sheriff's merit board",
+   "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "accessed 2026-10-11",
+   "https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-8-10-3/"
+  ],
+  "ic_33_39_1_5": [
+   "Indiana Code 33-39-1-5: Duties of prosecuting attorneys",
+   "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "accessed 2026-10-11",
+   "https://codes.findlaw.com/in/title-33-courts-and-court-officers/in-code-sect-33-39-1-5/"
+  ],
+  "isa_2026": [
+   "2026 ISA President Statement (Jeffrey A. Balon, Porter County Sheriff)",
+   "Indiana Sheriffs' Association",
+   "2026-01",
+   "https://indianasheriffs.org/wp-content/uploads/2026/01/2026-ISA-President-Statement.pdf"
+  ],
+  "ibj_2025_jails": [
+   "County jails on the hook as state stops paying prisoner costs",
+   "Indiana Capital Chronicle (via Indianapolis Business Journal)",
+   "2025-02-19",
+   "https://www.ibj.com/articles/county-jails-on-the-hook-as-state-stops-paying-prisoner-costs"
+  ],
+  "iib_2025_jails": [
+   "Indiana Department of Correction readies to pay $12 million in jail back payments",
+   "Indiana Capital Chronicle (via Inside INdiana Business)",
+   "2025-06-11",
+   "https://www.insideindianabusiness.com/articles/indiana-department-of-correction-readies-to-pay-12-million-in-jail-back-payments"
+  ],
+  "network_2025_hea1393": [
+   "Braun signs bill into law requiring jails to tell ICE about potential immigration violations",
+   "Network Indiana (via WMNC 95.3)",
+   "2025-05-05",
+   "https://www.953mnc.com/2025/05/05/braun-signs-bill-into-law-requiring-jails-to-tell-ice-about-potential-immigration-violations/"
+  ],
+  "wndu_2026_sb76": [
+   "Illegally in Indiana: New state law aims at cracking down on illegal immigration",
+   "WNDU",
+   "2026-04-01",
+   "https://www.wndu.com/2026/04/02/illegally-indiana-new-state-law-aims-cracking-down-illegal-immigration"
+  ],
+  "ipm_2026_bail": [
+   "Amendment to deny bail to some offenders moves closer to November ballot",
+   "WFYI (via Indiana Public Media)",
+   "2026-02-11",
+   "https://www.ipm.org/news/2026-02-11/amendment-to-deny-bail-to-some-offenders-moves-closer-to-november-ballot"
+  ],
+  "indypolitics_2026_bail": [
+   "Indiana bail amendment clears General Assembly, sending detention question to November ballot",
+   "IndyPolitics.Org (reporting by Indiana Capital Chronicle)",
+   "2026-02-17",
+   "https://indypolitics.org/indiana-bail-amendment-clears-general-assembly-sending-detention-question-to-november-ballot/"
+  ]
  }
 }

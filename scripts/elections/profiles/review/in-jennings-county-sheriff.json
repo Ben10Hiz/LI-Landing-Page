@@ -1,0 +1,39 @@
+{
+ "race_id": "in-jennings-county-sheriff",
+ "office": "Indiana County Sheriff",
+ "flags": [
+  {
+   "person": "William K. \"Kenny\" Freeman Jr.",
+   "category": "criminal case",
+   "status": "held",
+   "summary": "A Jennings County grand jury indicted the sitting sheriff in June 2026 on two misdemeanor theft counts and Level 6 felony counts of official misconduct, obstruction of justice and perjury, after a roughly six- to seven-month Indiana State Police investigation into stolen campaign signs; a sheriff candidate had put a GPS tracker in a sign that was traced to a trash bin at Freeman's property, where a judicial candidate's sign was also found . Freeman turned himself in and was released on his own recognizance; a special prosecutor (Dearborn/Ohio counties) and a special judge (Ripley County) were assigned . WFIU/Free Press Indiana reported Freeman later issued sign-placement summonses to the two candidates whose signs were found, that GOP sheriff candidate Tom Webster reported missing signs in September 2025, and that Freeman's attorney Mark Dove said Freeman \"did what any conscientious law enforcement officer would do\" and expects a jury to find he broke no laws; an Oct. 8 pretrial hearing was set. No outcome as of Oct. 11, 2026.",
+   "note": "Freeman is not on the ballot, but the case involves the office and campaign signs from the 2026 sheriff primary. Outlets differ on whether he surrendered at the Ripley County Jail (WRTV/WFIU June, Fox59) or the Jennings County Jail (WFIU Sept.). A Republic article (June 20, 2026; 403, not read) reportedly set a Nov. 30 trial date. Which sheriff candidate placed the GPS tracker is not named in the articles read; nothing read ties either ballot candidate to the conduct.",
+   "sources": [
+    {
+     "title": "Indiana sheriff indicted on charges of misconduct, theft of campaign signs",
+     "publisher": "WRTV",
+     "date": "2026-06-08",
+     "url": "https://www.wrtv.com/news/local-news/crime/indiana-sheriff-indicted-on-charges-of-misconduct-theft-of-campaign-signs"
+    },
+    {
+     "title": "Jennings County Sheriff charged with stealing competitor's campaign signs",
+     "publisher": "WFIU / Indiana Public Media",
+     "date": "2026-06-08",
+     "url": "https://www.ipm.org/news/2026-06-08/jennings-county-sheriff-charged-with-stealing-competitors-campaign-signs"
+    },
+    {
+     "title": "Indiana sheriff charged with stealing campaign signs in Jennings County",
+     "publisher": "FOX59",
+     "date": "2026-06",
+     "url": "https://fox59.com/indiana-news/indiana-sheriff-charged-with-stealing-campaign-signs-in-jennings-county/"
+    },
+    {
+     "title": "Jennings County Sheriff accused of stealing political yard signs and lying about it",
+     "publisher": "Free Press Indiana / WFIU",
+     "date": "2026-09-29",
+     "url": "https://www.ipm.org/news/2026-09-29/jennings-county-sheriff-accused-of-stealing-political-yard-signs-and-lying-about-it"
+    }
+   ]
+  }
+ ]
+}

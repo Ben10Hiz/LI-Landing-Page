@@ -1,0 +1,36 @@
+{
+ "race_id": "in-lake-county-sheriff",
+ "office": "Indiana County Sheriff",
+ "flags": [
+  {
+   "person": "Oscar Martinez Jr.",
+   "category": "criminal case",
+   "status": "held",
+   "summary": "In January 2022 a Lake County grand jury indicted Martinez on a felony count of resisting law enforcement and a misdemeanor count of reckless driving over a Sept. 18, 2021 incident in which Crown Point police reported pursuing a speeding unmarked SUV; special prosecutor Stanley Levco announced the indictment. Martinez denied the allegations and called the case \"a political witch hunt\" started by an unnamed rival politician.",
+   "note": "Outcome not confirmed from a reliable fetched source: Wikipedia states he pleaded guilty to misdemeanor reckless driving in February 2024 with the felony dropped and 60 days' probation (citing a paywalled NWI Times article). Republican candidate Crane referred to \"a sheriff who was indicted\" in May 2026 remarks reported by the Chicago Crusader.",
+   "sources": [
+    {
+     "title": "NW Indiana sheriff indicted on felony, misdemeanor charges",
+     "publisher": "Associated Press via WFYI",
+     "date": "2022-01-07",
+     "url": "https://www.wfyi.org/public-affairs/2022-01-07/nw-indiana-sheriff-indicted-on-felony-misdemeanor-charges"
+    }
+   ]
+  },
+  {
+   "person": "Oscar Martinez Jr.",
+   "category": "misconduct allegation",
+   "status": "held",
+   "summary": "The Chicago Crusader reported that a January 2026 Indiana State Board of Accounts audit found Martinez spent nearly $300,000 in jail commissary funds from 2022 to 2024 on donations, golf and travel, which the paper described as violating state law; the article did not include a response from Martinez.",
+   "note": "The SBOA report itself and a Lakeshore Public Media article (404) were not read. Search snippets (unverified) said the report flagged 221 purchases totaling about $265,000, required repayment of about $59,000 in audit costs, was referred to the Attorney General and U.S. Attorney, and that Martinez said non-qualifying purchases came from his campaign fund. Crane urged voters to read the report and suggested some funds could be tied to certain candidates' financial forms (no candidate named). Could be moved into the incumbent record as an office-level audit finding once the report is read.",
+   "sources": [
+    {
+     "title": "Firestorms In County Jail Fuel Sheriff's Race",
+     "publisher": "Chicago Crusader",
+     "date": "2026-05-02",
+     "url": "https://chicagocrusader.com/firestorms-county-jail-spark-lake-county-indiana-sheriffs-race/"
+    }
+   ]
+  }
+ ]
+}

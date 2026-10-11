@@ -1,0 +1,126 @@
+{
+ "race_id": "in-harrison-county-sheriff",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_sheriff",
+ "incumbent": {
+  "name": "Nick Smith",
+  "party": "Republican",
+  "summary": "Nick Smith is the current Harrison County sheriff. He was elected in 2018 over Democrat Brad Shepherd and re-elected without a Democratic opponent in 2022 {hc_gen18} {hc_gen22}. He is not on the 2026 ballot. Republican nominee Brad R. Rothrock serves as his chief deputy {rothrock_q} {in_list}.",
+  "record": [
+   "November 2018: Elected sheriff with 9,719 votes (62.37%) to 5,863 (37.63%) for Democrat Brad Shepherd, according to the county's cumulative results report {hc_gen18}.",
+   "May 2022: Unopposed in the Republican primary with 3,771 votes in the county's unofficial cumulative results {hc_p22}.",
+   "November 2022: Re-elected with 11,093 votes. The county's results report notes that no Democrat filed for sheriff {hc_gen22}.",
+   "2026: Not a candidate. He has served two consecutive terms, and Indiana limits sheriffs to two consecutive terms {hc_gen18} {hc_gen22} {in_list}."
+  ]
+ },
+ "race_context": [
+  "Harrison County (county seat: Corydon) will elect a sheriff on Nov. 3, 2026. This is an open seat: Sheriff Nick Smith, elected in 2018 and re-elected in 2022, is not on the ballot {hc_gen18} {hc_gen22} {in_list}.",
+  "Brad R. Rothrock was the only sheriff candidate on the county's primary candidate list. He filed as a Republican on Jan. 7, 2026, and no Democrat appears on that list for sheriff {hc_cand26}. Rothrock was unopposed in the May 5 Republican primary and received 2,997 votes in the county's unofficial cumulative results report, run May 15, 2026 {hc_p26}.",
+  "Democrat Jim Slucher is on the general-election list but was not on the primary candidate list {in_list} {hc_cand26}. Sources reviewed do not say how he was placed on the ballot.",
+  "The Corydon Democrat sent both candidates the same questionnaire in August 2026 {cd_intro}. Rothrock's top priorities are training, equipment and staff retention, along with dismantling local drug networks. He would build on what he calls the department's 'strong foundation' {rothrock_q}. Slucher's top priorities are drug enforcement, a 'strong presence' in schools, youth drug-awareness programs and acting on citizens' input {slucher_q}.",
+  "Main differences in background: Rothrock has worked at the sheriff's department since 2012 and is now its chief deputy {rothrock_q}. Slucher is self-employed in auto repair. He cites his life, management and public-facing work experience, and lists no law-enforcement experience in the questionnaire {slucher_q}.",
+  "No candidate forums or debates were found in sources reviewed."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Brad R. Rothrock",
+   "summary": "Republican Brad R. Rothrock is chief deputy of the Harrison County Sheriff's Department and has worked there since 2012 {rothrock_q}. He was unopposed in the May 2026 primary {hc_p26}.",
+   "website": null,
+   "background": [
+    "Employment: chief deputy at the Harrison County Sheriff's Department {rothrock_q}.",
+    "He has worked at the department since July 2012. He has served as a deputy on all three shifts, as a narcotics detective and with a narcotics K-9, and as chief deputy under Sheriff Nick Smith. He also spent nine years on the regional SWAT team {rothrock_q}.",
+    "Education: associate degree in criminal justice. Political experience: none listed. Age 35 at the time of the questionnaire {rothrock_q}."
+   ],
+   "path_to_ballot": [
+    "Filed as a Republican for Harrison County Sheriff on Jan. 7, 2026 {hc_cand26}.",
+    "Unopposed in the May 5, 2026 Republican primary, with 2,997 votes in the county's unofficial cumulative results {hc_p26}."
+   ],
+   "positions": [
+    {"topic": "Staffing & pay", "items": [
+     "Says his top priority is giving residents 'personnel who are well-trained, professional and forward-thinking.' He plans to improve training and equipment and to 'recruit, train and retain the best officers' {rothrock_q}."
+    ]},
+    {"topic": "Drugs", "items": [
+     "Wants to continue 'dismantling local drug networks.' He describes the local drug problem as 'a key driver in other criminal activity' {rothrock_q}."
+    ]},
+    {"topic": "Transparency", "items": [
+     "Says he will work to build a relationship between the department and the community 'that stands on trust and transparency' {rothrock_q}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Rothrock is chief deputy under Sheriff Nick Smith. He says the department 'has a strong foundation that I intend to continue building from' and describes its deputies as 'a strong group' {rothrock_q}."
+   ],
+   "plans": [
+    "Improve training and equipment, and give deputies the resources they need {rothrock_q}.",
+    "Keep focusing on local drug networks, and work with the community so the county remains 'a safe place to live, work and play' {rothrock_q}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance reports were found in sources reviewed."
+   ],
+   "gaps": [
+    "No campaign website was found. A third-party listing points to a campaign Facebook page (rothrock4sheriff), which was not reviewed.",
+    "No positions found on the jail, budget requests to the county council, school resource officers or immigration-detainer agreements.",
+    "No endorsements, fundraising reports or forum appearances found.",
+    "Coverage is limited to one newspaper questionnaire and county election records."
+   ]
+  },
+  {
+   "ballot_name": "Jim Slucher",
+   "summary": "Democrat Jim Slucher is self-employed in auto repair. He says this is his third run for Harrison County sheriff and lists drug enforcement and school safety as his priorities {slucher_q}.",
+   "website": null,
+   "background": [
+    "Employment: self-employed, auto repair facility {slucher_q}.",
+    "Education: North Harrison High School, Prosser School of Technology, plus other certificates and licensing courses he did not specify {slucher_q}.",
+    "For qualifications, he cites 60 years of life experience, learning trades from a young age, managing people, workloads and inventory, and working with the public. He lists no law-enforcement experience in the questionnaire {slucher_q}.",
+    "Political experience: says this is his 'third time running for Harrison County Sheriff' and describes himself as a member of the Democratic Party and 'a strong union supporter' {slucher_q}."
+   ],
+   "path_to_ballot": [
+    "On the general-election ballot as the Democratic candidate {in_list}. He was not on the county's primary candidate list, which had no Democratic sheriff candidate {hc_cand26}."
+   ],
+   "positions": [
+    {"topic": "Drugs", "items": [
+     "Lists drug enforcement as his No. 1 priority. He names fentanyl, methamphetamine, heroin and cocaine, as well as illegal prescription-drug use and sales, and links drug activity to theft {slucher_q}.",
+     "Would 'institute as many drug awareness programs as possible' for young people {slucher_q}."
+    ]},
+    {"topic": "School safety", "items": [
+     "Says he will 'make a strong presence known in our school system to ensure the safety of our children at all times' {slucher_q}."
+    ]},
+    {"topic": "Transparency", "items": [
+     "Says he would 'implement actions that will actually come from the ideas and concerns of the citizens' and run the office with 'the citizens' input' {slucher_q}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Slucher says he would bring 'a new perspective' to the office. He says he will 'take this office back to protect and serve with good police work and have the citizens' input' {slucher_q}.",
+    "On drug enforcement, he says the department will 'diligently continue with these pursuits as the previous sheriffs have' {slucher_q}."
+   ],
+   "plans": [
+    "Focus on drug trafficking and illegal prescription-drug sales {slucher_q}.",
+    "Increase the department's presence in schools and expand youth drug-awareness programs {slucher_q}.",
+    "Base office actions on citizens' concerns {slucher_q}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance reports were found in sources reviewed."
+   ],
+   "gaps": [
+    "Sources reviewed do not say how he was placed on the general-election ballot (for example, by a Democratic Party vacancy filling after the primary).",
+    "He says this is his third run for sheriff. He was not the Democratic nominee in 2018 (Brad Shepherd was) or in 2022 (no Democrat filed), so his earlier runs could not be identified or dated.",
+    "No campaign website or social-media page was found.",
+    "No positions found on the jail, staffing and pay, the budget or immigration-detainer agreements.",
+    "No endorsements, fundraising reports or forum appearances found.",
+    "Coverage is limited to one newspaper questionnaire."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "rothrock_q": ["Rothrock, Slucher vie for HC Sheriff (Brad Rothrock questionnaire)", "The Corydon Democrat (madisoncourier.com)", "2026-08-19", "https://www.madisoncourier.com/corydon_democrat/news/rothrock-slucher-vie-for-hc-sheriff/article_27f0aee2-8770-5be9-8edd-bec8dead6ff2.html"],
+  "slucher_q": ["Rothrock, Slucher vie for HC Sheriff (Jim Slucher questionnaire)", "The Corydon Democrat (madisoncourier.com)", "2026-08-19", "https://www.madisoncourier.com/corydon_democrat/news/rothrock-slucher-vie-for-hc-sheriff/article_fead1bbf-6752-5669-920d-bd6fd4bc41ee.html"],
+  "cd_intro": ["Rothrock, Slucher vie for HC Sheriff", "The Corydon Democrat (madisoncourier.com)", "2026-08-19", "https://www.madisoncourier.com/corydon_democrat/news/rothrock-slucher-vie-for-hc-sheriff/article_d3f281f2-fc0a-53a8-b491-82c2cec77fc4.html"],
+  "hc_cand26": ["Candidate List - Abbreviated, 2026 Primary Election", "Harrison County, Indiana", "2026-02-06", "https://www.in.gov/counties/harrison/files/2026_preliminary_candidate_list/Candidate_List_Abbreviated_6Feb26.pdf"],
+  "hc_p26": ["Cumulative Results Report, 2026 Primary Election (unofficial)", "Harrison County, Indiana", "2026-05-15", "https://www.in.gov/counties/harrison/files/2026_co_election_results/primary/Cumulative-Results-5-15-2026-03-23-09-PM.pdf"],
+  "hc_p22": ["Cumulative Results Report, 2022 Primary Election", "Harrison County, Indiana", "2022-05-03", "https://www.in.gov/counties/harrison/files/Cumulative-Results-5-3-2022-09-51-58-PM-Final.pdf"],
+  "hc_gen22": ["Cumulative Results Report, 2022 General Election", "Harrison County, Indiana", "2022-11-14", "https://www.in.gov/counties/harrison/files/Cumulative-Results-11-14-2022-09-32-10-AM.pdf"],
+  "hc_gen18": ["2018 General Election Cumulative Results", "Harrison County, Indiana", "2018-11", "https://www.in.gov/counties/harrison/files/prior_election_results/18-General-Cumulative.pdf"]
+ }
+}
