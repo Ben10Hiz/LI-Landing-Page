@@ -1,0 +1,205 @@
+# Indiana School Board Member — 2026 race profile
+
+_Researched 2026-10-10 · status: draft._ Pending editorial review.
+
+## About the office
+
+A school board is the elected or appointed governing body of a public school corporation, the legal unit that runs a local school district [1, 2]. The board hires and evaluates the superintendent, adopts policies, and approves the annual budget, while the superintendent and staff run schools day to day [3]. Most boards have five or seven members serving staggered four-year terms [3]. Starting in 2026, candidates may list a political party, run as independents, or list no affiliation on the ballot, and there is no primary for these seats [2, 4].
+
+- **Term:** 4 years, with elections staggered so part of the board is chosen every two years [3]
+- **Elected:** At the November general election (November 3, 2026, or November 2028 for some seats); depending on the local organization plan, members represent the whole school corporation (at large) or a district within it, and some boards are wholly or partly appointed [2]
+- **Ballot label:** Each candidate chooses a party label, 'Independent', or no affiliation, shown next to the name; no primary and no straight-ticket voting for these races [2, 4]
+- **Pay:** Set by board resolution: an annual amount of no more than 10% of the lowest starting teacher salary in the school corporation, plus a capped per diem [5]
+- **On the 2026 ballot:** 632 races in 299 school corporations; 1,039 candidates [6]
+
+### What the office does
+
+- Hires, evaluates and can dismiss the superintendent, and approves the hiring and firing of principals, teachers and other staff recommended by the superintendent [1, 7, 3].
+- Adopts the annual budget, appropriates funds and oversees school finances [1, 3].
+- Decides whether to ask voters to approve an operating referendum (an extra property tax levy); the board adopts the resolution and the Department of Local Government Finance reviews the ballot language for compliance with state law [8].
+- Approves contracts, buys and sells property, and decides on construction, repair and demolition of school buildings [1].
+- Bargains with the teachers' union over salary, wages and wage-related benefits such as health insurance and retirement; state law excludes teacher evaluation procedures from those bargaining subjects [9].
+- Writes and updates policies and rules for schools, often in a policy handbook, including the student handbook [1, 3].
+- Buys curricular materials, provides them to students without charge, and runs programs such as student transportation and school lunch [1].
+- Must adopt a process for parents and residents to ask that library material be removed as obscene or harmful to minors, review requests at public meetings and keep a public catalog of library materials [10].
+- Hears written appeals of student expulsions, unless the board has voted not to hear them [11].
+- Must take official action openly; Indiana's Open Door Law says public agencies' official action is to be conducted openly so the people may be fully informed [12, 13].
+- A school board member must have lived in the school corporation (and, for a district seat, the district) for at least one year before the election, and a teacher or other employee of the school corporation may not serve on its board [2].
+- What the board does not control: the State Board of Education adopts statewide academic standards [14], the General Assembly sets the state school funding formula in the state budget [15], and voucher (Choice Scholarship) eligibility is set by state law [16].
+
+### Recent changes to the office
+
+- 2025: Senate Enrolled Act 287 allowed school board candidates to declare a party affiliation; the Indiana School Boards Association opposed the change, and a supporter quoted by WNDU, a Noblesville school board member, said it adds transparency [17].
+- 2026: Candidates choose a party, 'Independent' or no affiliation on their nominating petition, and that choice appears on the ballot; a candidate claiming the Democratic or Republican party must have voted in that party's primary in the two most recent primaries they voted in, or have certification from the county party chair, or can be challenged and removed from the ballot [2].
+- July 2026: Chalkbeat reported, citing Indiana School Boards Association data, that 524 of 1,044 candidates chose a party, about 72% of them Republicans [18]; the Indiana Election Division's 2026 guidance and the wording of the law differ on the primary-voting test, a question county election boards decide [19].
+- February 2026: Senate Enrolled Act 25 set the order of school board candidates on the ballot, grouped by party, with candidates who list no affiliation placed after the party and independent candidates [20].
+- 2025: Senate Enrolled Act 1, a property tax law, limits how much operating revenue districts can raise through taxes and restricts school referendums to statewide general elections in even-numbered years [21, 22].
+- 2025: The same law requires districts to share operating revenue with brick-and-mortar charter schools that enroll their students, statewide starting in 2028 [21, 22].
+- 2025: The state budget opened Choice Scholarship vouchers to all Indiana families starting in June 2026 [16].
+- 2026: The Indianapolis Public Education Corporation, rather than the Indianapolis Public Schools board, now certifies Indianapolis Public Schools referendum questions for the ballot [20].
+- 2023: Senate Enrolled Act 391 changed the so-called $1 law so the Indiana Department of Education can order districts that lost at least 10% of enrollment over five years to close schools under 60% capacity and offer them to charter schools [23].
+- 2023: House Enrolled Act 1447 required school districts to set up procedures for complaints that library material is obscene or harmful to minors [10].
+
+## This race
+
+- The 'Clinton Central School Board' seats belong to Clinton Central School Corporation, based in Michigantown in Clinton County, which runs two schools: Clinton Central Elementary and Clinton Central Jr./Sr. High School [24, 25]. Federal data list 902 students in 2024-25 [25]. Levi Yowell is superintendent [26, 27].
+- The board has seven members: six seats carry area labels (Warren, Sugar Creek, Kirklin, Michigantown, Forest and Johnson) and one is at large [28]. Current members are Joshua Davison (president), Amy Mennen (vice president), Gina Crenshaw (secretary), Katie Cohee, Bryce Eaton, Travis Robinson and Kyle Rule [28, 27]. This guide did not find the district's written election plan, so it could not confirm whether every voter in the corporation votes for every seat.
+- Seats on the 2026 ballot: three seats, each electing one member, consistent with the state list's 'vote for 1' [6, 29]. In 2022, Gina Crenshaw won District 10 over Craig Sheets (65.98% to 34.02%), Katie Cohee won District 12 unopposed and Bryce Eaton won the At Large seat unopposed [29]. The board's member page labels Crenshaw's seat Kirklin, Cohee's Sugar Creek and Eaton's At Large [28].
+- Who is running: none of the three members elected in 2022 (Crenshaw, Cohee, Eaton) is on the 2026 ballot, so all three seats will have new members [6, 29]. Jessica Jacobs (Nonpartisan) is unopposed in District 10, Melanie Harden (Republican) is unopposed in District 12, and Brett Hillis and Mark A McClain, both Republicans, are running for the At Large seat [6].
+- Party labels and filing: a 2025 state law (Senate Enrolled Act 287) let school board candidates list a party for the first time in 2026 [30]. Clinton County Daily News reported, citing Clinton County Red for Public Ed, that 11 school board seats across the county would be on the fall ballot [31].
+- Facilities and debt (2026): the board held a first preliminary determination hearing on a 2026 general obligation (G.O.) bond on June 15, 2026 [32]. On July 20, 2026 it voted 7-0 to adopt the bond's project resolution, preliminary determination resolution, preliminary bond resolution and reimbursement resolution [27]. The Sept. 21, 2026 agenda listed a hearing on an additional appropriation for the bond and a final bond resolution [33]. This guide did not find the bond's amount or the projects it would fund.
+- Budget and property taxes: Clinton Central voters approved an operating referendum in May 2023, a tax rate of $0.15 per $100 of assessed value for eight years, estimated to raise about $675,000 a year [34]. The board held a 2027 budget workshop on Aug. 31, 2026 and a 2027 budget hearing was on the Sept. 21 agenda [35, 33]. On June 29, 2026 the board approved a resolution for 2026 transfers between the debt service and operations funds [36]. This guide found no reporting on how the 2025 property-tax law (SEA 1) affects the district.
+- Partnerships and programs: on July 20, 2026 the board approved a Clinton Carroll joint services agreement and a memorandum of understanding with the Boys & Girls Club [27]. At the June 15 meeting a board member asked about before- and after-school care, and the minutes note the Boys & Girls Club was still interested and working on staffing [32].
+- Policies: the July 20, 2026 agenda included policies on wireless devices, student discipline, board vacancies, social media use by board members, restraint and seclusion, and police relations [37]. On Aug. 31, 2026 the board adopted a student attendance and truancy prevention policy (Policy 4320) and voted to retire older policies, and approved, pending attorney review, a naming-rights agreement for a new athletic entrance tied to a donation [35].
+- Forums: this guide found no 2026 candidate forum, questionnaire or news coverage of the candidates' views. Board meetings are held at 6 p.m. at the district office and broadcast on the district's YouTube channel; the next is Oct. 19, 2026 [38, 39].
+
+## Jessica Jacobs — District 10
+
+Candidate for the open District 10 seat, listed with the Nonpartisan label; this guide found no public information about the campaign [6].
+
+### Background
+
+- No campaign biography was found; see gaps.
+
+### Path to the ballot
+
+- Filed for the District 10 seat with the Nonpartisan label [6]. School board candidates in Clinton County filed by petition with signatures from at least 10 registered voters, due by noon June 18, 2026 [31].
+- She is unopposed. The incumbent elected in 2022, Gina Crenshaw, is not on the ballot [29, 6].
+
+### On the current officeholder
+
+- No statement on the current board's record was found.
+
+### Endorsements & fundraising
+
+- No endorsements or campaign finance reports were found.
+
+### What we couldn't verify
+
+- No website, social media page, questionnaire, forum remarks or news coverage of this campaign were found.
+- Occupation, community roles and ties to the schools could not be confirmed.
+- Clinton County campaign finance filings were not available online and were not checked.
+- This guide could not tie any online record to this candidate; other people share the name.
+
+## Melanie Harden — District 12
+
+Candidate for the open District 12 seat, listed with the Republican label; this guide found no public information about the campaign [6].
+
+### Background
+
+- No campaign biography was found; see gaps.
+
+### Path to the ballot
+
+- Filed for the District 12 seat with the Republican label [6]. School board candidates in Clinton County filed by petition with signatures from at least 10 registered voters, due by noon June 18, 2026 [31].
+- She is unopposed. The incumbent elected in 2022, Katie Cohee, is not on the ballot [29, 6].
+
+### On the current officeholder
+
+- No statement on the current board's record was found.
+
+### Endorsements & fundraising
+
+- No endorsements or campaign finance reports were found.
+
+### What we couldn't verify
+
+- No website, social media page, questionnaire, forum remarks or news coverage of this campaign were found.
+- Occupation, community roles and ties to the schools could not be confirmed.
+- Clinton County campaign finance filings were not available online and were not checked.
+
+## Brett Hillis — At Large
+
+Candidate for the open At Large seat, listed with the Republican label; this guide found no public information about the campaign [6].
+
+### Background
+
+- No campaign biography was found; see gaps.
+
+### Path to the ballot
+
+- Filed for the At Large seat with the Republican label [6]. School board candidates in Clinton County filed by petition with signatures from at least 10 registered voters, due by noon June 18, 2026 [31].
+- He faces Mark A McClain. The incumbent elected in 2022, Bryce Eaton, is not on the ballot [29, 6].
+
+### On the current officeholder
+
+- No statement on the current board's record was found.
+
+### Endorsements & fundraising
+
+- No endorsements or campaign finance reports were found.
+
+### What we couldn't verify
+
+- No website, social media page, questionnaire, forum remarks or news coverage of this campaign were found.
+- Occupation, community roles and ties to the schools could not be confirmed.
+- Clinton County campaign finance filings were not available online and were not checked.
+
+## Mark A McClain — At Large
+
+Candidate for the open At Large seat, listed with the Republican label; this guide found no public information about the campaign [6].
+
+### Background
+
+- No campaign biography was found; see gaps.
+
+### Path to the ballot
+
+- Filed for the At Large seat with the Republican label [6]. School board candidates in Clinton County filed by petition with signatures from at least 10 registered voters, due by noon June 18, 2026 [31].
+- He faces Brett Hillis. The incumbent elected in 2022, Bryce Eaton, is not on the ballot [29, 6].
+
+### On the current officeholder
+
+- No statement on the current board's record was found.
+
+### Endorsements & fundraising
+
+- No endorsements or campaign finance reports were found.
+
+### What we couldn't verify
+
+- No website, social media page, questionnaire, forum remarks or news coverage of this campaign were found.
+- Occupation, community roles and ties to the schools could not be confirmed.
+- Clinton County campaign finance filings were not available online and were not checked.
+
+## Sources
+
+1. [Indiana Code 20-26-5-4: Specific powers of governing body](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-5-4/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+2. [2026 Indiana Candidate Guide (School Board Offices)](https://www.in.gov/dA/1eada35c3e/2026-Candidate-Guide.FINAL.pdf) — Indiana Election Division, accessed 2026-10-10
+3. [800 school board seats are up for election in Indiana](https://chalkbeat.org/indiana/2024/06/13/school-board-seats-up-for-election-in-indiana-in-2024) — Chalkbeat Indiana / WFYI, 2024-06-13
+4. [Why there are no education elections on your primary ballot](https://www.chalkbeat.org/indiana/2026/04/07/primary-election-ballot-changes-exclude-education-races-and-referendums/) — Chalkbeat Indiana, 2026-04-07
+5. [Indiana Code 20-26-4-7: Compensation of governing body members](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-4-7/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+6. [2026 General Election Candidate List](https://www.in.gov/sos/elections/candidate-information/) — Indiana Election Division, 2026-09-22
+7. [Indiana Code 20-26-5-4.5: Selection and discharge of employees](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-5-4-5/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+8. [School Tax Levy Referendum](https://www.in.gov/dlgf/referendum-information/school-tax-levy-referendum/) — Indiana Department of Local Government Finance, accessed 2026-10-10
+9. [Indiana Code 20-29-6-4: Subjects of collective bargaining](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-29-6-4/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+10. [Obscene, or just objectionable? Here's how Indiana schools are tackling library book complaints](https://arnoltcenter.org/?p=1345) — Arnolt Center for Investigative Journalism / Indiana Capital Chronicle, 2024-02-05
+11. [Indiana Code 20-33-8-19: Expulsion appeals](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-33-8-19/) — FindLaw (Indiana Code), accessed 2026-10-10
+12. [Indiana Code 5-14-1.5-1: Open Door Law policy](https://codes.findlaw.com/in/title-5-state-and-local-administration/in-code-sect-5-14-1-5-1/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+13. [What We Do](https://www.in.gov/pac/about-us/what-we-do/) — Indiana Public Access Counselor, accessed 2026-10-10
+14. [Indiana Code 20-31-3-1: State academic standards](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-31-3-1/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+15. [Indiana K-12 State Tuition Support Annual Report FY2023](https://www.in.gov/doe/files/2023-Tuition-Support-Report.pdf) — Indiana Department of Education, 2023
+16. [Indiana lawmakers expand voucher eligibility, increase school funding in budget](https://chalkbeat.org/indiana/2025/04/24/vouchers-for-all-start-in-2026-budget-year) — Chalkbeat Indiana, 2025-04-24
+17. [Indiana school board candidates split 50-50 on affiliating with a party](https://www.wndu.com/2026/07/20/indiana-school-board-candidates-split-50-50-affiliating-with-party/) — WNDU, 2026-07-20
+18. [5 takeaways from Chalkbeat's panel on Indiana's changes to school board elections and referendums](https://www.chalkbeat.org/indiana/2026/07/10/indiana-school-board-elections-partisan-referendums-takeaways/) — Chalkbeat Indiana, 2026-07-10
+19. [Confusion on partisan school board law puts two IPS candidates' spots at risk](https://www.chalkbeat.org/indiana/2026/07/27/confusion-on-partisan-schoolboard-threatens-ips-ballot-spots/) — Chalkbeat Indiana, 2026-07-27
+20. [2026 Indiana Election Legislation Summary](https://www.in.gov/dA/d13ecb1f55/2026-Indiana-Election-Legislation-Summary.FINAL.pdf) — Indiana Election Division, 2026
+21. [Indiana school referendum elections: Districts seek funding for teacher pay, class size, buses](https://www.chalkbeat.org/indiana/2025/10/27/schools-property-tax-referendum-election-2025) — Chalkbeat Indiana, 2025-10-27
+22. [Indiana school district referendum guide 2026: What to know about your district's requested tax increase](https://www.wvxu.org/2026-08-17/indiana-school-district-referendum-guide-2026-what-to-know-about-your-districts-requested-tax-increase) — WFYI and Chalkbeat Indiana (via WVXU), 2026-08-17
+23. [Indiana charter schools could now have an easier path to acquiring district buildings](https://www.chalkbeat.org/indiana/2023/6/11/23755769/indiana-charters-acquire-traditional-public-school-buildings-underutilized-enrollment) — Chalkbeat Indiana, 2023-06-11
+24. [Clinton Central School Corporation (home page)](https://clintoncentral.org/) — Clinton Central School Corporation, 2026-10
+25. [Search for Public School Districts: Clinton Central School Corporation](https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1802130) — National Center for Education Statistics, 2026-10
+26. [Staff Directory](https://clintoncentral.org/apps/staff/) — Clinton Central School Corporation, 2026-10
+27. [General Board Meeting - Jul 20 2026 - Minutes](https://clinton-central.community.diligentoneplatform.com/document/7358b840-8742-47f9-841b-c82ee0b45683) — Clinton Central School Corporation, 2026-07-20
+28. [Board of Education: Members](https://clintoncentral.org/apps/pages/index.jsp?uREC_ID=351839&type=d&termREC_ID=&pREC_ID=665113) — Clinton Central School Corporation, 2026-10
+29. [Price, Mink, Genda claim victory in midterm election](https://www.ftimes.com/news/price-mink-genda-claim-victory-in-midterm-election/article_f720d09b-585b-5e24-b8a4-bd29513f3aac.html) — The Times (Frankfort), 2022-11-07
+30. [Indiana school board candidates split 50-50 on affiliating with a party](https://www.ftimes.com/news/indiana-school-board-candidates-split-50-50-on-affiliating-with-a-party/article_fdac46e1-8b09-5ab3-9e56-1943d7af4cae.html) — The Times (Frankfort) / Indiana Capital Chronicle, 2026-07-21
+31. [Filing Deadline Approaches for Clinton County School Board Candidates](https://clintoncountydailynews.com/filing-deadline-approaches-for-clinton-county-school-board-candidates/) — Clinton County Daily News, 2026-06-16
+32. [General Board Meeting - Jun 15 2026 - Minutes](https://clinton-central.community.diligentoneplatform.com/document/92f4ea85-706b-470a-9f47-46b5515f4256) — Clinton Central School Corporation, 2026-06-15
+33. [General Board Meeting - Sep 21 2026 - Agenda](https://clinton-central.community.diligentoneplatform.com/document/12026/General%20Board%20Meeting%20-%20Sep%2021%202026.docx?handle=CA4E4C02E7C044EDAB74A0A45FBA5A15) — Clinton Central School Corporation, 2026-09-21
+34. [These Indiana schools won a property-tax referendum in the May primary](https://www.wfyi.org/news/articles/indiana-schools-won-property-tax-referendums-may-primary) — WFYI, 2023-05-02
+35. [General Board Meeting - Aug 31 2026 - Minutes](https://clinton-central.community.diligentoneplatform.com/document/7091afad-ccc5-405f-9579-2be4c3324e67) — Clinton Central School Corporation, 2026-08-31
+36. [Special Board Meeting - Jun 29 2026 - Minutes](https://clinton-central.community.diligentoneplatform.com/document/a4996fc4-7efc-4ee1-acfd-e205dd3d054d) — Clinton Central School Corporation, 2026-06-29
+37. [General Board Meeting - Jul 20 2026 - Agenda](https://clinton-central.community.diligentoneplatform.com/document/11604/General%20Board%20Meeting%20-%20Jul%2020%202026.docx?handle=67A4100D1B9949A6B19BA7D5530C633F) — Clinton Central School Corporation, 2026-07-20
+38. [Clinton Central School Corporation board portal (2026 meeting schedule)](https://clinton-central.community.diligentoneplatform.com/Portal/) — Clinton Central School Corporation, 2026-10
+39. [Board of Education](https://clintoncentral.org/apps/pages/index.jsp?uREC_ID=351839&type=d) — Clinton Central School Corporation, 2026-10

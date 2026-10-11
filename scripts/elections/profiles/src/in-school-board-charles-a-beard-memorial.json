@@ -1,0 +1,204 @@
+{
+ "race_id": "in-school-board-charles-a-beard-memorial",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The Charles A. Beard Memorial School Corporation serves Knightstown and surrounding southwestern Henry County; it was formed in 1963 from Wayne and Greensboro townships, and Ripley Township in Rush County was added later {wiki_cab}. It runs Knightstown Elementary, Knightstown Intermediate and Knightstown High schools {cab_home}. Wikipedia lists 1,077 students, without a stated year; a current official figure was not found in fetched sources {wiki_cab}.",
+  "Jediah T. Behny is superintendent {cab_supt}. In March 2021 the board gave him a five-year contract running from July 1, 2021 to June 30, 2026 {ct_behny}; the district website still listed him as superintendent in October 2026, but no fetched source reported the terms of any renewal {cab_supt}.",
+  "The board has seven members: Wade Beatty (president), Tom Schaetzle (vice president), Melissa Toth (secretary), Gerald Leonard, Cynthia Neal, Graham Richardson and Monica Van Hoy {cab_board}. Seats are tied to townships: the 2026 ballot lists seats for Greensboro Township, Ripley Township and Wayne Township 1 {in_list}{hc_2026}, and in 2024 Toth ran for a Greensboro Township seat and Richardson for a Ripley Township seat {hc_2024}. The district website does not say which township seat each member holds or how voting districts are drawn {cab_board}.",
+  "Three seats are on the 2026 ballot, one member each: Greensboro Township, Ripley Township and Wayne Township 1 {in_list}{hc_2026}. Three of the four candidates share names with current board members, so Thomas J. Schaetzle (Greensboro), Wade Beatty (Ripley) and Cynthia (Suzee) Neal (Wayne Township 1) appear to be seeking reelection {cab_board}{hc_2026}. Only the Ripley Township race is contested, between Beatty and Wall {hc_2026}.",
+  "The ballot list labels Neal as Republican and the other three candidates as having no party {in_list}{hc_2026}{inc_list}.",
+  "Facilities (Project 27): the district says it has worked for more than 13 years toward \"consolidating our schools onto one secure, efficient campus while closing aging, costly facilities,\" with three stated requirements: student safety first, a design that meets community needs, and a project that will \"remain tax neutral\" {cab_p27pdf}. The district says it paid down existing debt ahead of schedule to make room for the project without raising the tax rate, and that the design was developed with CSO Architects and Meyer Najem {cab_p27pdf}.",
+  "Project 27 (formerly Project 24) was discussed at the Jan. 20, 2026 board meeting {ct_p27}, the district posted design and timeline materials on Jan. 23, 2026 {cab_p27page}, and in May 2026 the Courier-Times reported the project was underway {ct_p27b}. Cost figures and a construction timeline were not found in readable fetched sources.",
+  "No fetched source described the effect of the 2025 property-tax law (SEA 1) on the corporation, any operating or safety referendum, or 2025-2026 test-score results; 2025-2026 board agendas are kept in BoardDocs, which could not be accessed {cab_agendas}.",
+  "Forums: the New Castle-Henry County Chamber of Commerce and League of Women Voters of Henry County announced two nonpartisan candidate forums before the Nov. 3 election at the New Castle-Henry County Public Library {ct_forums}. Whether Beard board candidates were included was not confirmed, and no questionnaires or forum remarks from these candidates were found."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Thomas J Schaetzle",
+   "seat": "Greensboro Township (Henry-Rush)",
+   "summary": "Incumbent; current board vice president (listed by the district as Tom Schaetzle), running unopposed {cab_board}{hc_2026}.",
+   "website": null,
+   "background": [
+    "Listed by the district as board vice president {cab_board}.",
+    "No information on his occupation was found in fetched sources."
+   ],
+   "path_to_ballot": [
+    "Listed on the 2026 ballot for the Greensboro Township seat with no party affiliation; no other candidate filed {in_list}{hc_2026}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {cab_board}. No statements of his own on the board's record were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsements were found in fetched sources."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire, forum remarks or statements were found.",
+    "Length of service on the board not found."
+   ]
+  },
+  {
+   "ballot_name": "Laura Lane Wall",
+   "seat": "Ripley Township (Rush-Henry)",
+   "summary": "Challenger for the Ripley Township seat; listed without a party {in_list}{hc_2026}.",
+   "website": null,
+   "background": [
+    "No background information was found in fetched sources."
+   ],
+   "path_to_ballot": [
+    "Listed on the 2026 ballot for the Ripley Township seat with no party affiliation {in_list}{hc_2026}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsements were found in fetched sources."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire, forum remarks, news coverage or occupation was found."
+   ]
+  },
+  {
+   "ballot_name": "Wade Beatty",
+   "seat": "Ripley Township (Rush-Henry)",
+   "summary": "Current board president seeking the Ripley Township seat; listed without a party {cab_board}{in_list}{hc_2026}.",
+   "website": null,
+   "background": [
+    "Listed by the district as board president {cab_board}.",
+    "No information on his occupation was found in fetched sources."
+   ],
+   "path_to_ballot": [
+    "Listed on the 2026 ballot for the Ripley Township seat with no party affiliation {in_list}{hc_2026}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {cab_board}. No statements of his own on the board's record were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsements were found in fetched sources."
+   ],
+   "gaps": [
+    "The district does not say which township seat he holds; that he is the Ripley Township incumbent is likely but not confirmed.",
+    "No candidate website, questionnaire, forum remarks or statements were found."
+   ]
+  },
+  {
+   "ballot_name": "Cynthia (Suzee) Neal",
+   "seat": "Wayne Township 1 (Henry-Rush)",
+   "summary": "Current board member (listed by the district as Cynthia Neal) running unopposed; listed on the ballot as Republican {cab_board}{in_list}{hc_2026}.",
+   "website": null,
+   "background": [
+    "Listed by the district as a board member {cab_board}.",
+    "No information on her occupation was found in fetched sources."
+   ],
+   "path_to_ballot": [
+    "Listed on the 2026 ballot as Republican for the Wayne Township 1 seat; no other candidate filed {in_list}{hc_2026}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {cab_board}. No statements of her own on the board's record were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsements were found in fetched sources."
+   ],
+   "gaps": [
+    "The district does not say which township seat she holds; that she is the Wayne Township 1 incumbent is likely but not confirmed.",
+    "No candidate website, questionnaire, forum remarks or statements were found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "cab_home": [
+   "Charles A. Beard Memorial School Corporation (home page)",
+   "Charles A. Beard Memorial School Corporation",
+   "2026-10",
+   "https://www.cabeard.k12.in.us/"
+  ],
+  "cab_board": [
+   "Board of Trustees",
+   "Charles A. Beard Memorial School Corporation",
+   "2026-10",
+   "https://www.cabeard.k12.in.us/central-office/board-of-trustees"
+  ],
+  "cab_supt": [
+   "Superintendent",
+   "Charles A. Beard Memorial School Corporation",
+   "2026-10",
+   "https://www.cabeard.k12.in.us/central-office/superintendent"
+  ],
+  "cab_agendas": [
+   "Agendas (archive; current agendas on BoardDocs)",
+   "Charles A. Beard Memorial School Corporation",
+   "2026-10",
+   "https://www.cabeard.k12.in.us/central-office/board-of-trustees/board-meeting-audio-and-agendas/agendas"
+  ],
+  "cab_p27page": [
+   "Project 27 Updates",
+   "Charles A. Beard Memorial School Corporation",
+   "2026-01-23",
+   "https://www.cabeard.k12.in.us/construction-project-updates"
+  ],
+  "cab_p27pdf": [
+   "Project 27 Design Presentation (slideshow)",
+   "Charles A. Beard Memorial School Corporation",
+   "2026-01-21",
+   "https://resources.finalsite.net/images/v1769017909/cabeardk12inus/vklvf72jzsxlinn4heeu/Project27Slideshow_2.pdf"
+  ],
+  "wiki_cab": [
+   "Charles A. Beard Memorial School Corporation",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/Charles_A._Beard_Memorial_School_Corporation"
+  ],
+  "hc_2026": [
+   "2026 General Election Candidates",
+   "Henry County Voter Registration",
+   "2026",
+   "https://henrycounty.in.gov/DocumentCenter/View/944/2026-GENERAL-ELECTION-CANDIDATE-LIST-PDF"
+  ],
+  "hc_2024": [
+   "2024 General Election Candidates",
+   "Henry County Voter Registration",
+   "2024-08",
+   "https://henrycounty.in.gov/DocumentCenter/View/784/2024-GENERAL-Election-Candidates"
+  ],
+  "inc_list": [
+   "2026 Indiana General Election School Board Candidate List",
+   "The Indiana Citizen",
+   "2026-08-12",
+   "https://indianacitizen.org/2026-indiana-general-election-school-board-candidate-list/"
+  ],
+  "ct_p27": [
+   "Charles A. Beard Memorial School Corporation outlines Project 27",
+   "The Courier-Times (New Castle)",
+   "2026-01-30",
+   "https://www.thecouriertimes.com/news/charles-a-beard-memorial-school-corporation-outlines-project-27/article_bc41b08f-8020-518c-a812-040139a7ff63.html"
+  ],
+  "ct_p27b": [
+   "Charles A. Beard schools begin Project 27",
+   "The Courier-Times (New Castle)",
+   "2026-05-08",
+   "https://www.thecouriertimes.com/news/charles-a-beard-schools-begin-project-27/article_12f1b8b4-6c91-50d6-ab0c-3de0fb0cbb11.html"
+  ],
+  "ct_behny": [
+   "Knightstown Superintendent Behny extended for 5 years; Considering options for new school hours",
+   "The Courier-Times (New Castle)",
+   "2021-03-18",
+   "https://www.thecouriertimes.com/news/knightstown-superintendent-behny-extended-for-5-years-considering-options-for-new-school-hours/article_76e18183-ac8f-5064-9c75-fd9540ce3d93.html"
+  ],
+  "ct_forums": [
+   "New Castle-Henry County Chamber of Commerce and League of Women Voters hosting candidate forums",
+   "The Courier-Times (New Castle)",
+   "2026-10-03",
+   "https://www.thecouriertimes.com/government/new-castle-henry-county-chamber-of-commerce-and-league-of-women-voters-hosting-candidate-forums/article_a298ff49-9c5b-5582-aeeb-735238d73d72.html"
+  ]
+ }
+}

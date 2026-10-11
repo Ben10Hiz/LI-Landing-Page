@@ -1,0 +1,236 @@
+# Indiana School Board Member — 2026 race profile
+
+_Researched 2026-10-10 · status: draft._ Pending editorial review.
+
+## About the office
+
+A school board is the elected or appointed governing body of a public school corporation, the legal unit that runs a local school district [1, 2]. The board hires and evaluates the superintendent, adopts policies, and approves the annual budget, while the superintendent and staff run schools day to day [3]. Most boards have five or seven members serving staggered four-year terms [3]. Starting in 2026, candidates may list a political party, run as independents, or list no affiliation on the ballot, and there is no primary for these seats [2, 4].
+
+- **Term:** 4 years, with elections staggered so part of the board is chosen every two years [3]
+- **Elected:** At the November general election (November 3, 2026, or November 2028 for some seats); depending on the local organization plan, members represent the whole school corporation (at large) or a district within it, and some boards are wholly or partly appointed [2]
+- **Ballot label:** Each candidate chooses a party label, 'Independent', or no affiliation, shown next to the name; no primary and no straight-ticket voting for these races [2, 4]
+- **Pay:** Set by board resolution: an annual amount of no more than 10% of the lowest starting teacher salary in the school corporation, plus a capped per diem [5]
+- **On the 2026 ballot:** 632 races in 299 school corporations; 1,039 candidates [6]
+
+### What the office does
+
+- Hires, evaluates and can dismiss the superintendent, and approves the hiring and firing of principals, teachers and other staff recommended by the superintendent [1, 7, 3].
+- Adopts the annual budget, appropriates funds and oversees school finances [1, 3].
+- Decides whether to ask voters to approve an operating referendum (an extra property tax levy); the board adopts the resolution and the Department of Local Government Finance reviews the ballot language for compliance with state law [8].
+- Approves contracts, buys and sells property, and decides on construction, repair and demolition of school buildings [1].
+- Bargains with the teachers' union over salary, wages and wage-related benefits such as health insurance and retirement; state law excludes teacher evaluation procedures from those bargaining subjects [9].
+- Writes and updates policies and rules for schools, often in a policy handbook, including the student handbook [1, 3].
+- Buys curricular materials, provides them to students without charge, and runs programs such as student transportation and school lunch [1].
+- Must adopt a process for parents and residents to ask that library material be removed as obscene or harmful to minors, review requests at public meetings and keep a public catalog of library materials [10].
+- Hears written appeals of student expulsions, unless the board has voted not to hear them [11].
+- Must take official action openly; Indiana's Open Door Law says public agencies' official action is to be conducted openly so the people may be fully informed [12, 13].
+- A school board member must have lived in the school corporation (and, for a district seat, the district) for at least one year before the election, and a teacher or other employee of the school corporation may not serve on its board [2].
+- What the board does not control: the State Board of Education adopts statewide academic standards [14], the General Assembly sets the state school funding formula in the state budget [15], and voucher (Choice Scholarship) eligibility is set by state law [16].
+
+### Recent changes to the office
+
+- 2025: Senate Enrolled Act 287 allowed school board candidates to declare a party affiliation; the Indiana School Boards Association opposed the change, and a supporter quoted by WNDU, a Noblesville school board member, said it adds transparency [17].
+- 2026: Candidates choose a party, 'Independent' or no affiliation on their nominating petition, and that choice appears on the ballot; a candidate claiming the Democratic or Republican party must have voted in that party's primary in the two most recent primaries they voted in, or have certification from the county party chair, or can be challenged and removed from the ballot [2].
+- July 2026: Chalkbeat reported, citing Indiana School Boards Association data, that 524 of 1,044 candidates chose a party, about 72% of them Republicans [18]; the Indiana Election Division's 2026 guidance and the wording of the law differ on the primary-voting test, a question county election boards decide [19].
+- February 2026: Senate Enrolled Act 25 set the order of school board candidates on the ballot, grouped by party, with candidates who list no affiliation placed after the party and independent candidates [20].
+- 2025: Senate Enrolled Act 1, a property tax law, limits how much operating revenue districts can raise through taxes and restricts school referendums to statewide general elections in even-numbered years [21, 22].
+- 2025: The same law requires districts to share operating revenue with brick-and-mortar charter schools that enroll their students, statewide starting in 2028 [21, 22].
+- 2025: The state budget opened Choice Scholarship vouchers to all Indiana families starting in June 2026 [16].
+- 2026: The Indianapolis Public Education Corporation, rather than the Indianapolis Public Schools board, now certifies Indianapolis Public Schools referendum questions for the ballot [20].
+- 2023: Senate Enrolled Act 391 changed the so-called $1 law so the Indiana Department of Education can order districts that lost at least 10% of enrollment over five years to close schools under 60% capacity and offer them to charter schools [23].
+- 2023: House Enrolled Act 1447 required school districts to set up procedures for complaints that library material is obscene or harmful to minors [10].
+
+## This race
+
+- The 'Spencer Owen County School Board' seats belong to Spencer-Owen Community School Corporation (Spencer-Owen Community Schools), based in Spencer in Owen County [24, 25]. It runs four elementary schools (Gosport, McCormick's Creek, Patricksburg and Spencer, each pre-K to grade 6), Owen Valley Middle School and Owen Valley High School [24]. The district reports 2,172 enrolled students; federal data list 2,156 students in six schools in 2024-25 [24, 25]. Miles A. Cline is superintendent [26, 27].
+- The Board of School Trustees has seven members [24, 28]. The state candidate list shows the 2026 seats as residence districts (District 2, District 3 and 'District 5(1)'), each 'vote for 1' [6]. The district's website does not explain the district plan or say which seat each member holds, so the number of members per district and the meaning of the '(1)' label could not be confirmed from a fetched source [24].
+- Current members (2026 officers): Derek Morgan (president, on the board since 2021), Deana Stickels (vice president, since January 2025), Elizabeth 'Lizz' Bixler (secretary, since 2023), Rick Smeltzer (secretary pro tem, since 2005), Chad Cooper (since 2017), Mark Rogers (since 2021) and Jack White (since 2010) [24, 27].
+- Who is running again: Bixler is the only current member on the 2026 ballot list, in District 3 [24, 6]. Rogers and White are not on the 2026 ballot list [6]. Which current members hold the District 2 and District 5(1) seats could not be confirmed; if they are Rogers's and White's seats, both races will produce new members, but this guide did not verify that [24, 6].
+- Party labels: the state list shows Jama Brown with the Republican label and the other four candidates as nonpartisan [6].
+- Budget and the 2025 property-tax law: on February 26, 2026 the board held a work session at which Jason O'Neill of Policy Analytics presented on the impact of SEA 1 on property tax collections and funding for the district; the minutes attach but do not summarize the presentation [29]. On September 10, 2026 the board voted 5-0 to renew Policy Analytics' property tax base and revenue analysis at $11,000, up $1,000 [30].
+- 2027 budget: the superintendent presented the 2027 budget at an August 13, 2026 workshop, no one spoke at the September 10 public budget hearing, and on September 24, 2026 the board voted 6-0 to adopt the 2027 budget, tax rate, capital projects fund plan and bus replacement plan [31, 30, 32]. No operating or safety referendum appears in the 2026 minutes reviewed for this guide [32].
+- Facilities: the board has used 2024 bond money for projects including $112,100 in first-floor flooring at Owen Valley Middle School (approved 7-0 on June 11, 2026) and a Gosport Elementary HVAC demolition project estimated at $131,225 (approved 5-0 on July 16, 2026), when it also authorized seeking proposals for a Gosport Elementary roof repair of $150,000 [28, 33]. In May 2025 the board approved a reconstruction contract for flood damage at Owen Valley High School [34]. A March 31, 2026 public work session discussed future planning and potential projects [35].
+- Superintendent contract: the board held a public hearing on June 11, 2026 on a proposed contract for Superintendent Cline running July 1, 2026 to June 30, 2028 at a $135,000 base salary, with a $2,500 stipend if the corporation receives an 'A' state letter grade and $1,000 for a 'B'; no one commented [26, 28].
+- Programs and staffing: on February 12, 2026 the board voted 7-0 to approve the first phase of a cosmetology pathway at Owen Valley High School, and in March it reassigned a teaching position to a cosmetology instructor [36, 37]. A teacher compensation and collective bargaining hearing was held September 10, 2026 [38].
+- Board votes: nearly all 2026 votes in the minutes reviewed were unanimous; on January 22, 2026 Jack White abstained on one personnel item, which passed 5-0-1 [39].
+- Forums: no candidate forum or questionnaire for these races was found for this guide.
+
+## Joseph M Pavich — District 2
+
+Candidate for District 2 and the only name on the ballot for that seat; he is not a current board member [6, 24].
+
+### Background
+
+- No campaign biography was found; see gaps.
+
+### Path to the ballot
+
+- Filed for the District 2 seat as a nonpartisan candidate on June 1, 2026, according to the state candidate list; he is unopposed [6].
+
+### On the current officeholder
+
+- No statement on the current board's record was found.
+
+### Endorsements & fundraising
+
+- No endorsements or campaign finance reports were found.
+
+### What we couldn't verify
+
+- No campaign website, social media page, forum remarks or news coverage was found for this guide.
+- The local newspaper (Spencer Evening World) could not be accessed for this guide (the site returned an access-restricted page), so any candidate coverage there was not read.
+- No VOTE411 questionnaire, candidate forum or county campaign finance filing was located.
+- It could not be confirmed which current board member holds District 2 or whether that member is retiring. Unverified (search-result snippet only): a 2024 Owen County ballot listed board races for Districts 1, 4 and 5, with Derek Morgan and Deana L. Stickels in the District 5 race; this suggests District 2 was last elected in 2022, but the county document could not be opened.
+
+## Anthony Bonds — District 3
+
+Candidate for District 3, challenging incumbent board secretary Elizabeth Bixler [6, 24].
+
+### Background
+
+- No campaign biography was found; see gaps.
+
+### Path to the ballot
+
+- Filed for the District 3 seat as a nonpartisan candidate on June 17, 2026, according to the state candidate list [6].
+
+### On the current officeholder
+
+- No statement on the current board's record was found.
+
+### Endorsements & fundraising
+
+- No endorsements or campaign finance reports were found.
+
+### What we couldn't verify
+
+- No campaign website, social media page, forum remarks or news coverage was found for this guide.
+- The local newspaper (Spencer Evening World) could not be accessed for this guide (the site returned an access-restricted page), so any candidate coverage there was not read.
+- No VOTE411 questionnaire, candidate forum or county campaign finance filing was located.
+- District minutes list an instructional assistant with the surname Bonds resigning in May 2026; no connection to the candidate was established, and none is implied.
+
+## Elizabeth C Bixler — District 3
+
+Incumbent; board member since 2023 and the board's secretary for 2026 [24, 27].
+
+### Background
+
+- Parent of five children who attend Spencer-Owen schools; has lived in Owen County for about four years, according to her district board biography [24].
+- Elected board secretary at the January 8, 2026 reorganization, on a slate she nominated [27].
+
+### Path to the ballot
+
+- Filed for the District 3 seat as a nonpartisan candidate on June 18, 2026, according to the state candidate list [6].
+
+### On the current officeholder
+
+- Is a current board member. In 2026 she moved or seconded several budget and facilities items, including the motion to adopt the 2027 budget and tax rate (passed 6-0 on September 24, 2026), the renewal of the Policy Analytics property-tax analysis (passed 5-0 on September 10) and the Owen Valley Middle School flooring project paid with 2024 bond money (passed 7-0 on June 11) [32, 30, 28].
+- No public statement from her assessing the board's record was found.
+
+### Endorsements & fundraising
+
+- No endorsements or campaign finance reports were found.
+
+### What we couldn't verify
+
+- No campaign website, questionnaire answers or forum remarks were found; her record is described only from board minutes.
+- The district site does not say which residence district she represents; her District 3 candidacy is the only indication.
+- The ballot name includes a middle initial (C) not shown on the district site; the match to board member 'Elizabeth Bixler' is by name only.
+- The local newspaper (Spencer Evening World) could not be accessed for this guide (the site returned an access-restricted page), so any candidate coverage there was not read.
+- No VOTE411 questionnaire, candidate forum or county campaign finance filing was located.
+
+## Jacob Zeunik — District 5(1)
+
+Candidate for District 5(1), one of two candidates for the seat; he is not a current board member [6, 24].
+
+### Background
+
+- No campaign biography was found; see gaps.
+
+### Path to the ballot
+
+- Filed for the District 5(1) seat as a nonpartisan candidate on June 2, 2026, according to the state candidate list [6].
+
+### On the current officeholder
+
+- No statement on the current board's record was found.
+
+### Endorsements & fundraising
+
+- No endorsements or campaign finance reports were found.
+
+### What we couldn't verify
+
+- No campaign website, social media page, forum remarks or news coverage was found for this guide.
+- The local newspaper (Spencer Evening World) could not be accessed for this guide (the site returned an access-restricted page), so any candidate coverage there was not read.
+- No VOTE411 questionnaire, candidate forum or county campaign finance filing was located.
+- The '(1)' in the seat name was not explained in any fetched source. Unverified (search-result snippet only): a 2024 Owen County results report showed Derek Morgan and Deana L. Stickels in a District 5 race, and both now serve, which suggests District 5 has more than one seat; the report could not be opened.
+
+## Jama Brown — District 5(1)
+
+Candidate for District 5(1), listed with the Republican label; not a current board member [6, 24].
+
+### Background
+
+- No campaign biography was found; see gaps.
+
+### Path to the ballot
+
+- Filed for the District 5(1) seat listed with the Republican label on June 4, 2026, according to the state candidate list [6].
+
+### On the current officeholder
+
+- No statement on the current board's record was found.
+
+### Endorsements & fundraising
+
+- No endorsements or campaign finance reports were found.
+
+### What we couldn't verify
+
+- No campaign website, social media page, forum remarks or news coverage was found for this guide.
+- The local newspaper (Spencer Evening World) could not be accessed for this guide (the site returned an access-restricted page), so any candidate coverage there was not read.
+- No VOTE411 questionnaire, candidate forum or county campaign finance filing was located.
+- A web search for the name in Owen County returned no relevant results.
+
+## Sources
+
+1. [Indiana Code 20-26-5-4: Specific powers of governing body](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-5-4/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+2. [2026 Indiana Candidate Guide (School Board Offices)](https://www.in.gov/dA/1eada35c3e/2026-Candidate-Guide.FINAL.pdf) — Indiana Election Division, accessed 2026-10-10
+3. [800 school board seats are up for election in Indiana](https://chalkbeat.org/indiana/2024/06/13/school-board-seats-up-for-election-in-indiana-in-2024) — Chalkbeat Indiana / WFYI, 2024-06-13
+4. [Why there are no education elections on your primary ballot](https://www.chalkbeat.org/indiana/2026/04/07/primary-election-ballot-changes-exclude-education-races-and-referendums/) — Chalkbeat Indiana, 2026-04-07
+5. [Indiana Code 20-26-4-7: Compensation of governing body members](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-4-7/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+6. [2026 General Election Candidate List](https://www.in.gov/sos/elections/candidate-information/) — Indiana Election Division, 2026-09-22
+7. [Indiana Code 20-26-5-4.5: Selection and discharge of employees](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-5-4-5/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+8. [School Tax Levy Referendum](https://www.in.gov/dlgf/referendum-information/school-tax-levy-referendum/) — Indiana Department of Local Government Finance, accessed 2026-10-10
+9. [Indiana Code 20-29-6-4: Subjects of collective bargaining](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-29-6-4/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+10. [Obscene, or just objectionable? Here's how Indiana schools are tackling library book complaints](https://arnoltcenter.org/?p=1345) — Arnolt Center for Investigative Journalism / Indiana Capital Chronicle, 2024-02-05
+11. [Indiana Code 20-33-8-19: Expulsion appeals](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-33-8-19/) — FindLaw (Indiana Code), accessed 2026-10-10
+12. [Indiana Code 5-14-1.5-1: Open Door Law policy](https://codes.findlaw.com/in/title-5-state-and-local-administration/in-code-sect-5-14-1-5-1/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+13. [What We Do](https://www.in.gov/pac/about-us/what-we-do/) — Indiana Public Access Counselor, accessed 2026-10-10
+14. [Indiana Code 20-31-3-1: State academic standards](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-31-3-1/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+15. [Indiana K-12 State Tuition Support Annual Report FY2023](https://www.in.gov/doe/files/2023-Tuition-Support-Report.pdf) — Indiana Department of Education, 2023
+16. [Indiana lawmakers expand voucher eligibility, increase school funding in budget](https://chalkbeat.org/indiana/2025/04/24/vouchers-for-all-start-in-2026-budget-year) — Chalkbeat Indiana, 2025-04-24
+17. [Indiana school board candidates split 50-50 on affiliating with a party](https://www.wndu.com/2026/07/20/indiana-school-board-candidates-split-50-50-affiliating-with-party/) — WNDU, 2026-07-20
+18. [5 takeaways from Chalkbeat's panel on Indiana's changes to school board elections and referendums](https://www.chalkbeat.org/indiana/2026/07/10/indiana-school-board-elections-partisan-referendums-takeaways/) — Chalkbeat Indiana, 2026-07-10
+19. [Confusion on partisan school board law puts two IPS candidates' spots at risk](https://www.chalkbeat.org/indiana/2026/07/27/confusion-on-partisan-schoolboard-threatens-ips-ballot-spots/) — Chalkbeat Indiana, 2026-07-27
+20. [2026 Indiana Election Legislation Summary](https://www.in.gov/dA/d13ecb1f55/2026-Indiana-Election-Legislation-Summary.FINAL.pdf) — Indiana Election Division, 2026
+21. [Indiana school referendum elections: Districts seek funding for teacher pay, class size, buses](https://www.chalkbeat.org/indiana/2025/10/27/schools-property-tax-referendum-election-2025) — Chalkbeat Indiana, 2025-10-27
+22. [Indiana school district referendum guide 2026: What to know about your district's requested tax increase](https://www.wvxu.org/2026-08-17/indiana-school-district-referendum-guide-2026-what-to-know-about-your-districts-requested-tax-increase) — WFYI and Chalkbeat Indiana (via WVXU), 2026-08-17
+23. [Indiana charter schools could now have an easier path to acquiring district buildings](https://www.chalkbeat.org/indiana/2023/6/11/23755769/indiana-charters-acquire-traditional-public-school-buildings-underutilized-enrollment) — Chalkbeat Indiana, 2023-06-11
+24. [Spencer-Owen Community Schools (home page: board members, schools, district profile)](https://www.socs.k12.in.us/) — Spencer-Owen Community Schools, 2026-10
+25. [Search for Public School Districts: Spencer-Owen Community Schools (2024-25 data)](https://nces.ed.gov/ccd/districtsearch/district_list.asp?Search=1&details=1&InstName=Spencer&State=18) — National Center for Education Statistics, 2026-10
+26. [Notice of public meeting and proposed 2026 superintendent's contract](https://files.smartsites.parentsquare.com/9709/superintendent_proposed_2026_contract_1.pdf) — Spencer-Owen Community Schools, 2026-06
+27. [Board of School Trustees minutes, January 8, 2026 (reorganization)](https://files.smartsites.parentsquare.com/9709/01-08-2026_minutes.pdf) — Spencer-Owen Community Schools, 2026-01-08
+28. [Board of School Trustees minutes, June 11, 2026](https://files.smartsites.parentsquare.com/9709/6-11-2026_minutes.pdf) — Spencer-Owen Community Schools, 2026-06-11
+29. [Work session minutes, February 26, 2026 (Policy Analytics SEA 1 presentation)](https://files.smartsites.parentsquare.com/9709/2-26-2026_work_session_minutes.pdf) — Spencer-Owen Community Schools, 2026-02-26
+30. [Budget hearing and regular session minutes, September 10, 2026](https://files.smartsites.parentsquare.com/9709/9-10-2026_minutes.pdf) — Spencer-Owen Community Schools, 2026-09-10
+31. [Board of School Trustees minutes, August 13, 2026 (budget workshop)](https://files.smartsites.parentsquare.com/9709/8-13-2026_minutes.pdf) — Spencer-Owen Community Schools, 2026-08-13
+32. [Board of School Trustees minutes, September 24, 2026](https://files.smartsites.parentsquare.com/9709/9-24-2026_minutes_1.pdf) — Spencer-Owen Community Schools, 2026-09-24
+33. [Board of School Trustees minutes, July 16, 2026](https://files.smartsites.parentsquare.com/9709/7-16-2026_minutes.pdf) — Spencer-Owen Community Schools, 2026-07-16
+34. [Board of School Trustees minutes, May 8, 2025](https://files.smartsites.parentsquare.com/9709/5-8-2025_minutes.pdf) — Spencer-Owen Community Schools, 2025-05-08
+35. [Work session minutes, March 31, 2026](https://files.smartsites.parentsquare.com/9709/3-31-2026_work_session_mintues.pdf) — Spencer-Owen Community Schools, 2026-03-31
+36. [Board of School Trustees minutes, February 12, 2026](https://files.smartsites.parentsquare.com/9709/2-12-2026_minutes.pdf) — Spencer-Owen Community Schools, 2026-02-12
+37. [Board of School Trustees minutes, March 12, 2026](https://files.smartsites.parentsquare.com/9709/3-12-2026_minutes.pdf) — Spencer-Owen Community Schools, 2026-03-12
+38. [Notice of public hearing on teacher compensation and collective bargaining, September 10, 2026](https://files.smartsites.parentsquare.com/9709/public_hearing_9-10-2026.pdf) — Spencer-Owen Community Schools, 2026-09
+39. [Board of School Trustees minutes, January 22, 2026](https://files.smartsites.parentsquare.com/9709/1-22-2026_minutes.pdf) — Spencer-Owen Community Schools, 2026-01-22

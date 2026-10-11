@@ -1,0 +1,256 @@
+{
+ "race_id": "in-school-board-spencer-owen-county",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The 'Spencer Owen County School Board' seats belong to Spencer-Owen Community School Corporation (Spencer-Owen Community Schools), based in Spencer in Owen County {socs_home}{nces_socs}. It runs four elementary schools (Gosport, McCormick's Creek, Patricksburg and Spencer, each pre-K to grade 6), Owen Valley Middle School and Owen Valley High School {socs_home}. The district reports 2,172 enrolled students; federal data list 2,156 students in six schools in 2024-25 {socs_home}{nces_socs}. Miles A. Cline is superintendent {socs_sup_contract}{socs_min_20260108}.",
+  "The Board of School Trustees has seven members {socs_home}{socs_min_20260611}. The state candidate list shows the 2026 seats as residence districts (District 2, District 3 and 'District 5(1)'), each 'vote for 1' {in_list}. The district's website does not explain the district plan or say which seat each member holds, so the number of members per district and the meaning of the '(1)' label could not be confirmed from a fetched source {socs_home}.",
+  "Current members (2026 officers): Derek Morgan (president, on the board since 2021), Deana Stickels (vice president, since January 2025), Elizabeth 'Lizz' Bixler (secretary, since 2023), Rick Smeltzer (secretary pro tem, since 2005), Chad Cooper (since 2017), Mark Rogers (since 2021) and Jack White (since 2010) {socs_home}{socs_min_20260108}.",
+  "Who is running again: Bixler is the only current member on the 2026 ballot list, in District 3 {socs_home}{in_list}. Rogers and White are not on the 2026 ballot list {in_list}. Which current members hold the District 2 and District 5(1) seats could not be confirmed; if they are Rogers's and White's seats, both races will produce new members, but this guide did not verify that {socs_home}{in_list}.",
+  "Party labels: the state list shows Jama Brown with the Republican label and the other four candidates as nonpartisan {in_list}.",
+  "Budget and the 2025 property-tax law: on February 26, 2026 the board held a work session at which Jason O'Neill of Policy Analytics presented on the impact of SEA 1 on property tax collections and funding for the district; the minutes attach but do not summarize the presentation {socs_ws_20260226}. On September 10, 2026 the board voted 5-0 to renew Policy Analytics' property tax base and revenue analysis at $11,000, up $1,000 {socs_min_20260910}.",
+  "2027 budget: the superintendent presented the 2027 budget at an August 13, 2026 workshop, no one spoke at the September 10 public budget hearing, and on September 24, 2026 the board voted 6-0 to adopt the 2027 budget, tax rate, capital projects fund plan and bus replacement plan {socs_min_20260813}{socs_min_20260910}{socs_min_20260924}. No operating or safety referendum appears in the 2026 minutes reviewed for this guide {socs_min_20260924}.",
+  "Facilities: the board has used 2024 bond money for projects including $112,100 in first-floor flooring at Owen Valley Middle School (approved 7-0 on June 11, 2026) and a Gosport Elementary HVAC demolition project estimated at $131,225 (approved 5-0 on July 16, 2026), when it also authorized seeking proposals for a Gosport Elementary roof repair of $150,000 {socs_min_20260611}{socs_min_20260716}. In May 2025 the board approved a reconstruction contract for flood damage at Owen Valley High School {socs_min_20250508}. A March 31, 2026 public work session discussed future planning and potential projects {socs_ws_20260331}.",
+  "Superintendent contract: the board held a public hearing on June 11, 2026 on a proposed contract for Superintendent Cline running July 1, 2026 to June 30, 2028 at a $135,000 base salary, with a $2,500 stipend if the corporation receives an 'A' state letter grade and $1,000 for a 'B'; no one commented {socs_sup_contract}{socs_min_20260611}.",
+  "Programs and staffing: on February 12, 2026 the board voted 7-0 to approve the first phase of a cosmetology pathway at Owen Valley High School, and in March it reassigned a teaching position to a cosmetology instructor {socs_min_20260212}{socs_min_20260312}. A teacher compensation and collective bargaining hearing was held September 10, 2026 {socs_hearing_20260910}.",
+  "Board votes: nearly all 2026 votes in the minutes reviewed were unanimous; on January 22, 2026 Jack White abstained on one personnel item, which passed 5-0-1 {socs_min_20260122}.",
+  "Forums: no candidate forum or questionnaire for these races was found for this guide."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Joseph M Pavich",
+   "seat": "District 2",
+   "summary": "Candidate for District 2 and the only name on the ballot for that seat; he is not a current board member {in_list}{socs_home}.",
+   "website": null,
+   "background": [
+    "No campaign biography was found; see gaps."
+   ],
+   "path_to_ballot": [
+    "Filed for the District 2 seat as a nonpartisan candidate on June 1, 2026, according to the state candidate list; he is unopposed {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, social media page, forum remarks or news coverage was found for this guide.",
+    "The local newspaper (Spencer Evening World) could not be accessed for this guide (the site returned an access-restricted page), so any candidate coverage there was not read.",
+    "No VOTE411 questionnaire, candidate forum or county campaign finance filing was located.",
+    "It could not be confirmed which current board member holds District 2 or whether that member is retiring. Unverified (search-result snippet only): a 2024 Owen County ballot listed board races for Districts 1, 4 and 5, with Derek Morgan and Deana L. Stickels in the District 5 race; this suggests District 2 was last elected in 2022, but the county document could not be opened."
+   ]
+  },
+  {
+   "ballot_name": "Anthony Bonds",
+   "seat": "District 3",
+   "summary": "Candidate for District 3, challenging incumbent board secretary Elizabeth Bixler {in_list}{socs_home}.",
+   "website": null,
+   "background": [
+    "No campaign biography was found; see gaps."
+   ],
+   "path_to_ballot": [
+    "Filed for the District 3 seat as a nonpartisan candidate on June 17, 2026, according to the state candidate list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, social media page, forum remarks or news coverage was found for this guide.",
+    "The local newspaper (Spencer Evening World) could not be accessed for this guide (the site returned an access-restricted page), so any candidate coverage there was not read.",
+    "No VOTE411 questionnaire, candidate forum or county campaign finance filing was located.",
+    "District minutes list an instructional assistant with the surname Bonds resigning in May 2026; no connection to the candidate was established, and none is implied."
+   ]
+  },
+  {
+   "ballot_name": "Elizabeth C Bixler",
+   "seat": "District 3",
+   "summary": "Incumbent; board member since 2023 and the board's secretary for 2026 {socs_home}{socs_min_20260108}.",
+   "website": null,
+   "background": [
+    "Parent of five children who attend Spencer-Owen schools; has lived in Owen County for about four years, according to her district board biography {socs_home}.",
+    "Elected board secretary at the January 8, 2026 reorganization, on a slate she nominated {socs_min_20260108}."
+   ],
+   "path_to_ballot": [
+    "Filed for the District 3 seat as a nonpartisan candidate on June 18, 2026, according to the state candidate list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. In 2026 she moved or seconded several budget and facilities items, including the motion to adopt the 2027 budget and tax rate (passed 6-0 on September 24, 2026), the renewal of the Policy Analytics property-tax analysis (passed 5-0 on September 10) and the Owen Valley Middle School flooring project paid with 2024 bond money (passed 7-0 on June 11) {socs_min_20260924}{socs_min_20260910}{socs_min_20260611}.",
+    "No public statement from her assessing the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, questionnaire answers or forum remarks were found; her record is described only from board minutes.",
+    "The district site does not say which residence district she represents; her District 3 candidacy is the only indication.",
+    "The ballot name includes a middle initial (C) not shown on the district site; the match to board member 'Elizabeth Bixler' is by name only.",
+    "The local newspaper (Spencer Evening World) could not be accessed for this guide (the site returned an access-restricted page), so any candidate coverage there was not read.",
+    "No VOTE411 questionnaire, candidate forum or county campaign finance filing was located."
+   ]
+  },
+  {
+   "ballot_name": "Jacob Zeunik",
+   "seat": "District 5(1)",
+   "summary": "Candidate for District 5(1), one of two candidates for the seat; he is not a current board member {in_list}{socs_home}.",
+   "website": null,
+   "background": [
+    "No campaign biography was found; see gaps."
+   ],
+   "path_to_ballot": [
+    "Filed for the District 5(1) seat as a nonpartisan candidate on June 2, 2026, according to the state candidate list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, social media page, forum remarks or news coverage was found for this guide.",
+    "The local newspaper (Spencer Evening World) could not be accessed for this guide (the site returned an access-restricted page), so any candidate coverage there was not read.",
+    "No VOTE411 questionnaire, candidate forum or county campaign finance filing was located.",
+    "The '(1)' in the seat name was not explained in any fetched source. Unverified (search-result snippet only): a 2024 Owen County results report showed Derek Morgan and Deana L. Stickels in a District 5 race, and both now serve, which suggests District 5 has more than one seat; the report could not be opened."
+   ]
+  },
+  {
+   "ballot_name": "Jama Brown",
+   "seat": "District 5(1)",
+   "summary": "Candidate for District 5(1), listed with the Republican label; not a current board member {in_list}{socs_home}.",
+   "website": null,
+   "background": [
+    "No campaign biography was found; see gaps."
+   ],
+   "path_to_ballot": [
+    "Filed for the District 5(1) seat listed with the Republican label on June 4, 2026, according to the state candidate list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, social media page, forum remarks or news coverage was found for this guide.",
+    "The local newspaper (Spencer Evening World) could not be accessed for this guide (the site returned an access-restricted page), so any candidate coverage there was not read.",
+    "No VOTE411 questionnaire, candidate forum or county campaign finance filing was located.",
+    "A web search for the name in Owen County returned no relevant results."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "socs_home": [
+   "Spencer-Owen Community Schools (home page: board members, schools, district profile)",
+   "Spencer-Owen Community Schools",
+   "2026-10",
+   "https://www.socs.k12.in.us/"
+  ],
+  "nces_socs": [
+   "Search for Public School Districts: Spencer-Owen Community Schools (2024-25 data)",
+   "National Center for Education Statistics",
+   "2026-10",
+   "https://nces.ed.gov/ccd/districtsearch/district_list.asp?Search=1&details=1&InstName=Spencer&State=18"
+  ],
+  "socs_min_20250508": [
+   "Board of School Trustees minutes, May 8, 2025",
+   "Spencer-Owen Community Schools",
+   "2025-05-08",
+   "https://files.smartsites.parentsquare.com/9709/5-8-2025_minutes.pdf"
+  ],
+  "socs_min_20260108": [
+   "Board of School Trustees minutes, January 8, 2026 (reorganization)",
+   "Spencer-Owen Community Schools",
+   "2026-01-08",
+   "https://files.smartsites.parentsquare.com/9709/01-08-2026_minutes.pdf"
+  ],
+  "socs_min_20260122": [
+   "Board of School Trustees minutes, January 22, 2026",
+   "Spencer-Owen Community Schools",
+   "2026-01-22",
+   "https://files.smartsites.parentsquare.com/9709/1-22-2026_minutes.pdf"
+  ],
+  "socs_min_20260212": [
+   "Board of School Trustees minutes, February 12, 2026",
+   "Spencer-Owen Community Schools",
+   "2026-02-12",
+   "https://files.smartsites.parentsquare.com/9709/2-12-2026_minutes.pdf"
+  ],
+  "socs_ws_20260226": [
+   "Work session minutes, February 26, 2026 (Policy Analytics SEA 1 presentation)",
+   "Spencer-Owen Community Schools",
+   "2026-02-26",
+   "https://files.smartsites.parentsquare.com/9709/2-26-2026_work_session_minutes.pdf"
+  ],
+  "socs_min_20260312": [
+   "Board of School Trustees minutes, March 12, 2026",
+   "Spencer-Owen Community Schools",
+   "2026-03-12",
+   "https://files.smartsites.parentsquare.com/9709/3-12-2026_minutes.pdf"
+  ],
+  "socs_ws_20260331": [
+   "Work session minutes, March 31, 2026",
+   "Spencer-Owen Community Schools",
+   "2026-03-31",
+   "https://files.smartsites.parentsquare.com/9709/3-31-2026_work_session_mintues.pdf"
+  ],
+  "socs_sup_contract": [
+   "Notice of public meeting and proposed 2026 superintendent's contract",
+   "Spencer-Owen Community Schools",
+   "2026-06",
+   "https://files.smartsites.parentsquare.com/9709/superintendent_proposed_2026_contract_1.pdf"
+  ],
+  "socs_min_20260611": [
+   "Board of School Trustees minutes, June 11, 2026",
+   "Spencer-Owen Community Schools",
+   "2026-06-11",
+   "https://files.smartsites.parentsquare.com/9709/6-11-2026_minutes.pdf"
+  ],
+  "socs_min_20260716": [
+   "Board of School Trustees minutes, July 16, 2026",
+   "Spencer-Owen Community Schools",
+   "2026-07-16",
+   "https://files.smartsites.parentsquare.com/9709/7-16-2026_minutes.pdf"
+  ],
+  "socs_min_20260813": [
+   "Board of School Trustees minutes, August 13, 2026 (budget workshop)",
+   "Spencer-Owen Community Schools",
+   "2026-08-13",
+   "https://files.smartsites.parentsquare.com/9709/8-13-2026_minutes.pdf"
+  ],
+  "socs_hearing_20260910": [
+   "Notice of public hearing on teacher compensation and collective bargaining, September 10, 2026",
+   "Spencer-Owen Community Schools",
+   "2026-09",
+   "https://files.smartsites.parentsquare.com/9709/public_hearing_9-10-2026.pdf"
+  ],
+  "socs_min_20260910": [
+   "Budget hearing and regular session minutes, September 10, 2026",
+   "Spencer-Owen Community Schools",
+   "2026-09-10",
+   "https://files.smartsites.parentsquare.com/9709/9-10-2026_minutes.pdf"
+  ],
+  "socs_min_20260924": [
+   "Board of School Trustees minutes, September 24, 2026",
+   "Spencer-Owen Community Schools",
+   "2026-09-24",
+   "https://files.smartsites.parentsquare.com/9709/9-24-2026_minutes_1.pdf"
+  ]
+ }
+}

@@ -1,0 +1,285 @@
+{
+  "race_id": "in-school-board-carroll-delphi",
+  "reviewed": "2026-10-10",
+  "status": "draft",
+  "status_note": "Pending editorial review.",
+  "office": "@in_school_board",
+  "incumbent": null,
+  "race_context": [
+    "The ballot's \"Carroll Delphi Community School Board\" is the board of the Delphi Community School Corporation (DCSC) in Carroll County, which runs four schools: Delphi Community High School, Delphi Community Middle School, Delphi Community Elementary School and Camden Early Childhood Center {dcsc_home}{in_list}. A district-wide enrollment figure was not found in fetched sources; the high school reports 417 students {dchs_profile}.",
+    "Dr. Pamela Moore became superintendent in 2025; she previously led Tri-Township Consolidated School Corporation in Wanatah {ccc_moore}{dcsc_supt}.",
+    "The board has seven members {dcsc_board}. Members are elected by district, and \"only the voters of any given district elect the candidate from that district,\" according to a 2006 Carroll County Comet description; that article placed District 2 in Deer Creek Townships 3 and 5 and District 7 in Tippecanoe Townships 1 and 2 {ccc_districts}. Current district boundaries were not confirmed in a newer source.",
+    "Current members listed by the district are Zach Owen (president), Stephanie Mills (vice president), Kirk Schwarzkopf (secretary), Chris Nipple, Mike Priest, Gil Smith and Tim Strasser {dcsc_board}. The district lists terms ending in 2026 for Mills, Priest, Schwarzkopf and Smith {dcsc_board}; Strasser (District 4), Owen (District 5) and Nipple (District 6) were elected unopposed in 2024 {ccc_2024res}.",
+    "Two seats are on the 2026 ballot, each electing one member: District 2, held by Gil Smith (elected unopposed in 2022), and District 7, held by Mike Priest (elected 2018 and unopposed in 2022) {ccc_2022}{ccc_2018}{in_list}. Neither incumbent is on the 2026 candidate list, so both seats will have new members {inc_list}.",
+    "District 2 is contested among three candidates: Andrea R Smothers (Democratic), Kevin D Gaskill (Republican) and Pamela Minier (no party) {in_list}{inc_list}. District 7 has one candidate, Brandi Nichols Farrer (Republican) {in_list}.",
+    "Schwarzkopf won District 3 in 2018 and was unopposed in 2022 {ccc_2018}{ccc_2022}, and Mills was appointed to the District 1 seat after holdover member Steve Myer stepped down at the end of 2023 {ccc_vacancy}. The district lists both of their terms as ending in 2026, but Districts 1 and 3 do not appear on the 2026 candidate list {dcsc_board}{inc_list}; how those seats will be filled was not found in fetched sources.",
+    "Budget and taxes: in November 2022 voters rejected a DCSC referendum for a property tax to supplement the Education Fund, 1,608 (55.14%) against to 1,294 (44.59%) for {ccc_2022}. In 2026 the district posted a budget notice for public hearing, a 2027-2029 capital projects plan, a 2027-2039 bus replacement plan, a Sept. 14, 2026 notice of additional appropriations and a notice of determination to issue bonds {dcsc_home}{dcsc_budget}. No fetched source described the effect of the 2025 property-tax law (SEA 1) on DCSC or any 2026 referendum.",
+    "Academics: on 2025 state data, Delphi Community Elementary School had a 3rd-grade IREAD-3 pass rate of 84.1%, ILEARN English/language arts proficiency of 26.9% and ILEARN math proficiency of 35.4% {idoe_dces}.",
+    "Governance: in spring 2026 the Indiana School Boards Association recognized the DCSC board and members Zach Owen, Mike Priest, Gil Smith and Kirk Schwarzkopf with Exemplary Governance Awards {ccc_isba}.",
+    "No candidate forums or questionnaires for the DCSC races were found in fetched sources {dcsc_boardhome}."
+  ],
+  "candidates": [
+    {
+      "ballot_name": "Andrea R Smothers",
+      "seat": "District 2",
+      "summary": "Challenger for the open District 2 seat; listed on the state ballot list as Democratic {in_list}. Spoke at DCSC board meetings as a parent in 2018 {ccc_art2018}.",
+      "website": null,
+      "background": [
+        "In 2018 the Carroll County Comet described her as a district patron with a fourth-grade child in the schools {ccc_art2018}.",
+        "No information on her occupation was found in fetched sources."
+      ],
+      "path_to_ballot": [
+        "Listed on the 2026 general-election ballot as Democratic for District 2 {in_list}{inc_list}."
+      ],
+      "positions": [
+        {
+          "topic": "Curriculum & library policy",
+          "items": [
+            "In January 2018 she asked the board how elementary art classes could be brought back and suggested the corporation look for grant funding like the Delphi Public Library's visiting-artist grant {ccc_art2018}.",
+            "At an August 2018 public hearing she asked corporation leaders to find ways to fund an art teacher {ccc_contract2018}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "In a July 2018 letter to the editor she questioned why administrators and the board did not value art education and urged parents to attend the August 13, 2018 board meeting on the superintendent's contract, writing, \"The need for Art Education is so important.\" {ccc_letter2018}",
+        "No statements about the current board's 2025-2026 decisions were found in fetched sources."
+      ],
+      "plans": [],
+      "endorsements_finance": [
+        "No campaign finance report or endorsements were found in fetched sources."
+      ],
+      "gaps": [
+        "No candidate website, questionnaire, forum remarks or 2026 campaign statements were found; her known public statements on the schools date from 2018.",
+        "Occupation not found."
+      ]
+    },
+    {
+      "ballot_name": "Kevin D Gaskill",
+      "seat": "District 2",
+      "summary": "Challenger for the open District 2 seat; listed on the state ballot list as Republican {in_list}.",
+      "website": null,
+      "background": [
+        "No information on his occupation was found in fetched sources."
+      ],
+      "path_to_ballot": [
+        "Listed on the 2026 general-election ballot as Republican for District 2 {in_list}{inc_list}.",
+        "In February 2026 a Kevin Gaskill filed as a Republican candidate for township board (Tri-Township) and for Republican state convention delegate {ccc_filing2026}; he was also listed as a Republican state delegate candidate from Delphi in 2024 {ccc_filing2024}."
+      ],
+      "positions": [],
+      "on_incumbent": [],
+      "plans": [],
+      "endorsements_finance": [
+        "No campaign finance report or endorsements were found in fetched sources."
+      ],
+      "gaps": [
+        "No candidate website, questionnaire, forum remarks or stated positions on school issues were found.",
+        "The Comet items on the Redevelopment Commission, 2019 council race and 2024/2026 filings name 'Kevin Gaskill' without a middle initial; that they refer to the ballot candidate is likely but not confirmed.",
+        "Whether he remains on the November ballot for a township board seat as well was not checked.",
+        "Possible match by name only, not confirmed to be this candidate: A Kevin Gaskill of Delphi served on the Delphi Redevelopment Commission until he was replaced by Randy Strasser, appointed in January 2021.",
+        "Possible match by name only, not confirmed to be this candidate: A Republican Kevin Gaskill ran for the District 4 Delphi City Council seat in 2019 and lost to Sandy Flora by 51 votes."
+      ]
+    },
+    {
+      "ballot_name": "Pamela Minier",
+      "seat": "District 2",
+      "summary": "Challenger for the open District 2 seat; listed on the ballot without a party {in_list}{inc_list}.",
+      "website": null,
+      "background": [],
+      "path_to_ballot": [
+        "Listed on the 2026 general-election ballot for District 2 with no party affiliation {in_list}{inc_list}."
+      ],
+      "positions": [
+        {
+          "topic": "Facilities",
+          "items": [
+            "In April 2023 she wrote in response to a DCSC administration proposal \"to move two kindergarten classes from Camden to Delphi Community Elementary School,\" arguing that the Camden school already worked well for young children {ccc_minier_letter}."
+          ]
+        },
+        {
+          "topic": "Special education",
+          "items": [
+            "In the same letter she questioned why Camden's existing special-needs teachers could not serve the students, writing, \"Currently there are two special needs teachers employed at Camden with caseloads under 15 and under 5.\" {ccc_minier_letter}"
+          ]
+        },
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "She also asked how transportation for the young students would be handled and urged readers to \"Attend board meetings with your thoughts.\" {ccc_minier_letter}"
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Her 2023 letter opposed the administration's Camden kindergarten proposal {ccc_minier_letter}; no statements on the board's 2025-2026 decisions were found."
+      ],
+      "plans": [],
+      "endorsements_finance": [
+        "No campaign finance report or endorsements were found in fetched sources."
+      ],
+      "gaps": [
+        "The 2023 letter and CASA items name 'Pam Minier'; that they refer to the ballot candidate Pamela Minier is likely but not confirmed.",
+        "Whether she is still employed by DCSC was not found.",
+        "No candidate website, questionnaire or forum remarks were found.",
+        "Possible match by name only, not confirmed to be this candidate: A 2023 letter to the editor signed Pam Minier identified the writer as a \"Camden kindergarten teacher for 30+ years\".",
+        "Possible match by name only, not confirmed to be this candidate: In 2023 the Comet identified a Pam Minier as a volunteer court-appointed special advocate with the Carroll-White CASA program."
+      ]
+    },
+    {
+      "ballot_name": "Brandi Nichols Farrer",
+      "seat": "District 7",
+      "summary": "Only candidate for the open District 7 seat now held by Mike Priest; listed on the state ballot list as Republican {in_list}{dcsc_board}.",
+      "website": null,
+      "background": [
+        "Listed by the Comet as a past Miss Carroll County queen (2000), under the name Brandi (Nichols) Farrer {ccc_misscc}.",
+        "No information on her occupation or ties to the schools was found in fetched sources."
+      ],
+      "path_to_ballot": [
+        "Listed on the 2026 general-election ballot as Republican for District 7; no other candidate filed for the seat {in_list}{inc_list}."
+      ],
+      "positions": [],
+      "on_incumbent": [],
+      "plans": [],
+      "endorsements_finance": [
+        "No campaign finance report or endorsements were found in fetched sources."
+      ],
+      "gaps": [
+        "No candidate website, questionnaire, forum remarks or stated positions were found.",
+        "Occupation not found."
+      ]
+    }
+  ],
+  "review_flags": [],
+  "sources": {
+    "dcsc_home": [
+      "Delphi Community School Corporation (home page)",
+      "Delphi Community School Corporation",
+      "2026-10",
+      "https://www.delphi.k12.in.us/"
+    ],
+    "dcsc_board": [
+      "Board Members",
+      "Delphi Community School Corporation",
+      "2026-10",
+      "https://www.delphi.k12.in.us/36686_2"
+    ],
+    "dcsc_boardhome": [
+      "Board Home (meeting schedule)",
+      "Delphi Community School Corporation",
+      "2026-10",
+      "https://www.delphi.k12.in.us/37854_2"
+    ],
+    "dcsc_supt": [
+      "Superintendent Message",
+      "Delphi Community School Corporation",
+      "2026-10",
+      "https://www.delphi.k12.in.us/superintendentmessage"
+    ],
+    "dcsc_budget": [
+      "2026 Budget",
+      "Delphi Community School Corporation",
+      "2026-10",
+      "https://www.delphi.k12.in.us/266010_3"
+    ],
+    "dchs_profile": [
+      "School Profile & Info",
+      "Delphi Community High School",
+      "2026-10",
+      "https://hs.delphi.k12.in.us/32334_2"
+    ],
+    "idoe_dces": [
+      "Delphi Community Elementary School report card (2025 data)",
+      "Indiana Department of Education (Indiana GPS)",
+      "2025",
+      "https://indianagps.doe.in.gov/ReportCard/1006"
+    ],
+    "inc_list": [
+      "2026 Indiana General Election School Board Candidate List",
+      "The Indiana Citizen",
+      "2026-08-12",
+      "https://indianacitizen.org/2026-indiana-general-election-school-board-candidate-list/"
+    ],
+    "ccc_moore": [
+      "Delphi Community School Corporation welcomes Dr. Pamela Moore as new superintendent",
+      "Carroll County Comet",
+      "2025-07-30",
+      "https://www.carrollcountycomet.com/articles/delphi-community-school-corporation-welcomes-dr-pamela-moore-as-new-superintendent/"
+    ],
+    "ccc_isba": [
+      "Delphi school leaders recognized at ISBA spring meeting",
+      "Carroll County Comet",
+      "2026-04-15",
+      "https://www.carrollcountycomet.com/articles/delphi-school-leaders-recognized-at-isba-spring-meeting/"
+    ],
+    "ccc_2022": [
+      "Liggett prevails in County Sheriff's race; DCSC referendum fails",
+      "Carroll County Comet",
+      "2022-11-09",
+      "https://www.carrollcountycomet.com/articles/liggett-prevails-in-county-sheriffs-race-dcsc-referendum-fails/"
+    ],
+    "ccc_2018": [
+      "Record number of voters turn out for mid-term election",
+      "Carroll County Comet",
+      "2018-11-07",
+      "https://www.carrollcountycomet.com/articles/record-number-of-voters-turn-out-for-mid-term-election/"
+    ],
+    "ccc_vacancy": [
+      "Two candidates interview for vacant DCSC board seat",
+      "Carroll County Comet",
+      "2023-12-06",
+      "https://www.carrollcountycomet.com/articles/two-candidates-interview-for-vacant-dcsc-board-seat/"
+    ],
+    "ccc_2024res": [
+      "2024 Carroll County Election Results",
+      "Carroll County Comet",
+      "2024-11-27",
+      "https://www.carrollcountycomet.com/articles/2024-carroll-county-election-results/"
+    ],
+    "ccc_districts": [
+      "School board members to be elected in primary",
+      "Carroll County Comet",
+      "2006-04-05",
+      "https://www.carrollcountycomet.com/articles/school-board-members-to-be-elected-in-primary/"
+    ],
+    "ccc_filing2026": [
+      "Carroll County candidates file for primary election",
+      "Carroll County Comet",
+      "2026-02-11",
+      "https://www.carrollcountycomet.com/articles/carroll-county-candidates-file-for-primary-election/"
+    ],
+    "ccc_filing2024": [
+      "Filing deadline passes for May 7 Primary Election",
+      "Carroll County Comet",
+      "2024-02-14",
+      "https://www.carrollcountycomet.com/articles/filing-deadline-passes-for-may-7-primary-election/"
+    ],
+    "ccc_art2018": [
+      "Patron expresses concern about lack of art classes in DCES",
+      "Carroll County Comet",
+      "2018-01-10",
+      "https://www.carrollcountycomet.com/articles/patron-expresses-concern-about-lack-of-art-classes-in-dces/"
+    ],
+    "ccc_contract2018": [
+      "DCSC Board hears from community members about Superintendent's contract",
+      "Carroll County Comet",
+      "2018-08-15",
+      "https://www.carrollcountycomet.com/articles/dcsc-board-hears-from-community-members-about-superintendents-contract/"
+    ],
+    "ccc_letter2018": [
+      "Letters to the Editor (\"Advocates for DCSC adding Art Education\")",
+      "Carroll County Comet",
+      "2018-07-25",
+      "https://www.carrollcountycomet.com/articles/letters-to-the-editor-251/"
+    ],
+    "ccc_minier_letter": [
+      "Letters to the Editor (kindergarten proposal)",
+      "Carroll County Comet",
+      "2023-04-26",
+      "https://www.carrollcountycomet.com/articles/letters-to-the-editor-342/"
+    ],
+    "ccc_misscc": [
+      "Miss Carroll County and her court will be selected on Saturday",
+      "Carroll County Comet",
+      "2025-07-09",
+      "https://www.carrollcountycomet.com/articles/miss-carroll-county-and-her-court-will-be-selected-on-saturday/"
+    ]
+  }
+}

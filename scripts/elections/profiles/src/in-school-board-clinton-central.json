@@ -1,0 +1,226 @@
+{
+ "race_id": "in-school-board-clinton-central",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The 'Clinton Central School Board' seats belong to Clinton Central School Corporation, based in Michigantown in Clinton County, which runs two schools: Clinton Central Elementary and Clinton Central Jr./Sr. High School {cc_home}{nces_cc}. Federal data list 902 students in 2024-25 {nces_cc}. Levi Yowell is superintendent {cc_staff}{cc_min_0720}.",
+  "The board has seven members: six seats carry area labels (Warren, Sugar Creek, Kirklin, Michigantown, Forest and Johnson) and one is at large {cc_board}. Current members are Joshua Davison (president), Amy Mennen (vice president), Gina Crenshaw (secretary), Katie Cohee, Bryce Eaton, Travis Robinson and Kyle Rule {cc_board}{cc_min_0720}. This guide did not find the district's written election plan, so it could not confirm whether every voter in the corporation votes for every seat.",
+  "Seats on the 2026 ballot: three seats, each electing one member, consistent with the state list's 'vote for 1' {in_list}{ft_2022_results}. In 2022, Gina Crenshaw won District 10 over Craig Sheets (65.98% to 34.02%), Katie Cohee won District 12 unopposed and Bryce Eaton won the At Large seat unopposed {ft_2022_results}. The board's member page labels Crenshaw's seat Kirklin, Cohee's Sugar Creek and Eaton's At Large {cc_board}.",
+  "Who is running: none of the three members elected in 2022 (Crenshaw, Cohee, Eaton) is on the 2026 ballot, so all three seats will have new members {in_list}{ft_2022_results}. Jessica Jacobs (Nonpartisan) is unopposed in District 10, Melanie Harden (Republican) is unopposed in District 12, and Brett Hillis and Mark A McClain, both Republicans, are running for the At Large seat {in_list}.",
+  "Party labels and filing: a 2025 state law (Senate Enrolled Act 287) let school board candidates list a party for the first time in 2026 {ft_party_split}. Clinton County Daily News reported, citing Clinton County Red for Public Ed, that 11 school board seats across the county would be on the fall ballot {ccdn_filing_2026}.",
+  "Facilities and debt (2026): the board held a first preliminary determination hearing on a 2026 general obligation (G.O.) bond on June 15, 2026 {cc_min_0615}. On July 20, 2026 it voted 7-0 to adopt the bond's project resolution, preliminary determination resolution, preliminary bond resolution and reimbursement resolution {cc_min_0720}. The Sept. 21, 2026 agenda listed a hearing on an additional appropriation for the bond and a final bond resolution {cc_agenda_0921}. This guide did not find the bond's amount or the projects it would fund.",
+  "Budget and property taxes: Clinton Central voters approved an operating referendum in May 2023, a tax rate of $0.15 per $100 of assessed value for eight years, estimated to raise about $675,000 a year {wfyi_ref_2023}. The board held a 2027 budget workshop on Aug. 31, 2026 and a 2027 budget hearing was on the Sept. 21 agenda {cc_min_0831}{cc_agenda_0921}. On June 29, 2026 the board approved a resolution for 2026 transfers between the debt service and operations funds {cc_min_0629}. This guide found no reporting on how the 2025 property-tax law (SEA 1) affects the district.",
+  "Partnerships and programs: on July 20, 2026 the board approved a Clinton Carroll joint services agreement and a memorandum of understanding with the Boys & Girls Club {cc_min_0720}. At the June 15 meeting a board member asked about before- and after-school care, and the minutes note the Boys & Girls Club was still interested and working on staffing {cc_min_0615}.",
+  "Policies: the July 20, 2026 agenda included policies on wireless devices, student discipline, board vacancies, social media use by board members, restraint and seclusion, and police relations {cc_agenda_0720}. On Aug. 31, 2026 the board adopted a student attendance and truancy prevention policy (Policy 4320) and voted to retire older policies, and approved, pending attorney review, a naming-rights agreement for a new athletic entrance tied to a donation {cc_min_0831}.",
+  "Forums: this guide found no 2026 candidate forum, questionnaire or news coverage of the candidates' views. Board meetings are held at 6 p.m. at the district office and broadcast on the district's YouTube channel; the next is Oct. 19, 2026 {cc_portal}{cc_board_welcome}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Jessica Jacobs",
+   "seat": "District 10",
+   "summary": "Candidate for the open District 10 seat, listed with the Nonpartisan label; this guide found no public information about the campaign {in_list}.",
+   "website": null,
+   "background": [
+    "No campaign biography was found; see gaps."
+   ],
+   "path_to_ballot": [
+    "Filed for the District 10 seat with the Nonpartisan label {in_list}. School board candidates in Clinton County filed by petition with signatures from at least 10 registered voters, due by noon June 18, 2026 {ccdn_filing_2026}.",
+    "She is unopposed. The incumbent elected in 2022, Gina Crenshaw, is not on the ballot {ft_2022_results}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No website, social media page, questionnaire, forum remarks or news coverage of this campaign were found.",
+    "Occupation, community roles and ties to the schools could not be confirmed.",
+    "Clinton County campaign finance filings were not available online and were not checked.",
+    "This guide could not tie any online record to this candidate; other people share the name."
+   ]
+  },
+  {
+   "ballot_name": "Melanie Harden",
+   "seat": "District 12",
+   "summary": "Candidate for the open District 12 seat, listed with the Republican label; this guide found no public information about the campaign {in_list}.",
+   "website": null,
+   "background": [
+    "No campaign biography was found; see gaps."
+   ],
+   "path_to_ballot": [
+    "Filed for the District 12 seat with the Republican label {in_list}. School board candidates in Clinton County filed by petition with signatures from at least 10 registered voters, due by noon June 18, 2026 {ccdn_filing_2026}.",
+    "She is unopposed. The incumbent elected in 2022, Katie Cohee, is not on the ballot {ft_2022_results}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No website, social media page, questionnaire, forum remarks or news coverage of this campaign were found.",
+    "Occupation, community roles and ties to the schools could not be confirmed.",
+    "Clinton County campaign finance filings were not available online and were not checked."
+   ]
+  },
+  {
+   "ballot_name": "Brett Hillis",
+   "seat": "At Large",
+   "summary": "Candidate for the open At Large seat, listed with the Republican label; this guide found no public information about the campaign {in_list}.",
+   "website": null,
+   "background": [
+    "No campaign biography was found; see gaps."
+   ],
+   "path_to_ballot": [
+    "Filed for the At Large seat with the Republican label {in_list}. School board candidates in Clinton County filed by petition with signatures from at least 10 registered voters, due by noon June 18, 2026 {ccdn_filing_2026}.",
+    "He faces Mark A McClain. The incumbent elected in 2022, Bryce Eaton, is not on the ballot {ft_2022_results}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No website, social media page, questionnaire, forum remarks or news coverage of this campaign were found.",
+    "Occupation, community roles and ties to the schools could not be confirmed.",
+    "Clinton County campaign finance filings were not available online and were not checked."
+   ]
+  },
+  {
+   "ballot_name": "Mark A McClain",
+   "seat": "At Large",
+   "summary": "Candidate for the open At Large seat, listed with the Republican label; this guide found no public information about the campaign {in_list}.",
+   "website": null,
+   "background": [
+    "No campaign biography was found; see gaps."
+   ],
+   "path_to_ballot": [
+    "Filed for the At Large seat with the Republican label {in_list}. School board candidates in Clinton County filed by petition with signatures from at least 10 registered voters, due by noon June 18, 2026 {ccdn_filing_2026}.",
+    "He faces Brett Hillis. The incumbent elected in 2022, Bryce Eaton, is not on the ballot {ft_2022_results}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No website, social media page, questionnaire, forum remarks or news coverage of this campaign were found.",
+    "Occupation, community roles and ties to the schools could not be confirmed.",
+    "Clinton County campaign finance filings were not available online and were not checked."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "cc_home": [
+   "Clinton Central School Corporation (home page)",
+   "Clinton Central School Corporation",
+   "2026-10",
+   "https://clintoncentral.org/"
+  ],
+  "cc_staff": [
+   "Staff Directory",
+   "Clinton Central School Corporation",
+   "2026-10",
+   "https://clintoncentral.org/apps/staff/"
+  ],
+  "cc_board": [
+   "Board of Education: Members",
+   "Clinton Central School Corporation",
+   "2026-10",
+   "https://clintoncentral.org/apps/pages/index.jsp?uREC_ID=351839&type=d&termREC_ID=&pREC_ID=665113"
+  ],
+  "cc_board_welcome": [
+   "Board of Education",
+   "Clinton Central School Corporation",
+   "2026-10",
+   "https://clintoncentral.org/apps/pages/index.jsp?uREC_ID=351839&type=d"
+  ],
+  "cc_portal": [
+   "Clinton Central School Corporation board portal (2026 meeting schedule)",
+   "Clinton Central School Corporation",
+   "2026-10",
+   "https://clinton-central.community.diligentoneplatform.com/Portal/"
+  ],
+  "nces_cc": [
+   "Search for Public School Districts: Clinton Central School Corporation",
+   "National Center for Education Statistics",
+   "2026-10",
+   "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1802130"
+  ],
+  "ft_2022_results": [
+   "Price, Mink, Genda claim victory in midterm election",
+   "The Times (Frankfort)",
+   "2022-11-07",
+   "https://www.ftimes.com/news/price-mink-genda-claim-victory-in-midterm-election/article_f720d09b-585b-5e24-b8a4-bd29513f3aac.html"
+  ],
+  "ft_party_split": [
+   "Indiana school board candidates split 50-50 on affiliating with a party",
+   "The Times (Frankfort) / Indiana Capital Chronicle",
+   "2026-07-21",
+   "https://www.ftimes.com/news/indiana-school-board-candidates-split-50-50-on-affiliating-with-a-party/article_fdac46e1-8b09-5ab3-9e56-1943d7af4cae.html"
+  ],
+  "ccdn_filing_2026": [
+   "Filing Deadline Approaches for Clinton County School Board Candidates",
+   "Clinton County Daily News",
+   "2026-06-16",
+   "https://clintoncountydailynews.com/filing-deadline-approaches-for-clinton-county-school-board-candidates/"
+  ],
+  "wfyi_ref_2023": [
+   "These Indiana schools won a property-tax referendum in the May primary",
+   "WFYI",
+   "2023-05-02",
+   "https://www.wfyi.org/news/articles/indiana-schools-won-property-tax-referendums-may-primary"
+  ],
+  "cc_min_0615": [
+   "General Board Meeting - Jun 15 2026 - Minutes",
+   "Clinton Central School Corporation",
+   "2026-06-15",
+   "https://clinton-central.community.diligentoneplatform.com/document/92f4ea85-706b-470a-9f47-46b5515f4256"
+  ],
+  "cc_min_0629": [
+   "Special Board Meeting - Jun 29 2026 - Minutes",
+   "Clinton Central School Corporation",
+   "2026-06-29",
+   "https://clinton-central.community.diligentoneplatform.com/document/a4996fc4-7efc-4ee1-acfd-e205dd3d054d"
+  ],
+  "cc_agenda_0720": [
+   "General Board Meeting - Jul 20 2026 - Agenda",
+   "Clinton Central School Corporation",
+   "2026-07-20",
+   "https://clinton-central.community.diligentoneplatform.com/document/11604/General%20Board%20Meeting%20-%20Jul%2020%202026.docx?handle=67A4100D1B9949A6B19BA7D5530C633F"
+  ],
+  "cc_min_0720": [
+   "General Board Meeting - Jul 20 2026 - Minutes",
+   "Clinton Central School Corporation",
+   "2026-07-20",
+   "https://clinton-central.community.diligentoneplatform.com/document/7358b840-8742-47f9-841b-c82ee0b45683"
+  ],
+  "cc_min_0831": [
+   "General Board Meeting - Aug 31 2026 - Minutes",
+   "Clinton Central School Corporation",
+   "2026-08-31",
+   "https://clinton-central.community.diligentoneplatform.com/document/7091afad-ccc5-405f-9579-2be4c3324e67"
+  ],
+  "cc_agenda_0921": [
+   "General Board Meeting - Sep 21 2026 - Agenda",
+   "Clinton Central School Corporation",
+   "2026-09-21",
+   "https://clinton-central.community.diligentoneplatform.com/document/12026/General%20Board%20Meeting%20-%20Sep%2021%202026.docx?handle=CA4E4C02E7C044EDAB74A0A45FBA5A15"
+  ]
+ }
+}

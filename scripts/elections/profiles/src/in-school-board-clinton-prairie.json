@@ -1,0 +1,206 @@
+{
+ "race_id": "in-school-board-clinton-prairie",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The 'Clinton Prairie School Board' seats belong to Clinton Prairie School Corporation, west of Frankfort in Clinton County, formed in 1962 by consolidating the schools of Washington, Jackson, Madison and Perry townships; it runs Clinton Prairie Elementary and Clinton Prairie Jr./Sr. High School on one campus {cp_welcome}. Federal data list 1,153 students in 2024-25 {nces_cp}. John C. Sampson became superintendent under a contract running July 1, 2026 to June 30, 2029 {cp_supt_contract}.",
+  "The board has five members: four township representatives (Jackson, Washington, Madison and Perry) and one at-large member {cp_board}. Current members are Justin Brewer (president, at large), Bobbi Elliott (vice president, Jackson Township), David Larsh (secretary, Perry Township), Kerk Kesler (Washington Township) and Adam Beck (Madison Township) {cp_board}. This guide did not find the district's written election plan, so it could not confirm whether every voter in the corporation votes for every seat.",
+  "Seats on the 2026 ballot: two seats, each electing one member, consistent with the state list's 'vote for 1' {in_list}{ft_2022_results}. In 2022, Justin Brewer won the At Large seat over Rob Allen (51.34% to 48.66%), and Cynthia Neal won District 17 over Toby Boyer (63.90% to 36.10%) {ft_2022_results}. Neal is no longer listed as a board member; the board now lists Kerk Kesler as the Washington Township representative, which appears to be the District 17 seat {cp_board}{in_list}.",
+  "Who is running: Kerk Kesler, now on the board, faces Rob Allen in District 17, and board president Justin Brewer faces Michael Aaron Boesch for the At Large seat; all four are listed as Republicans {in_list}{cp_board}. A 2025 state law (Senate Enrolled Act 287) let school board candidates list a party for the first time in 2026 {ft_party_split}.",
+  "Superintendent change (2026): the signed contract with John C. Sampson runs July 1, 2026 to June 30, 2029 {cp_supt_contract}. An Aug. 17, 2026 hearing covered amendments that drop the board's 3% payment to the state teachers' retirement fund on the superintendent's behalf and raise its 401(a) contribution from 3% to 6% of base salary {cp_supt_amend}.",
+  "Teacher pay (2026-27): a tentative agreement dated Sept. 29, 2026 with the Clinton Prairie Classroom Teachers' Association adds $650 to every teacher's base salary, a $350 stipend for every teacher, and an extra stipend of $241 to $1,085 if the February 2027 enrollment count is at least two students higher than October 2026 {cp_cba_2026}. The board scheduled a public hearing on the agreement for Oct. 8, 2026, after a Sept. 1 hearing set to take public testimony before bargaining began {cp_cba_2026}{ccdn_cp_0901}.",
+  "Budget and capital plans: the board scheduled a hearing on its 2027 capital projects plan for Sept. 21, 2026 {cp_cap_plan} and a public hearing on its proposed 2027 budget for Oct. 8, 2026 {ccdn_cp_budget}. This guide found no reporting on how the 2025 property-tax law (SEA 1) affects the district and no operating or safety referendum.",
+  "Forums: this guide found no 2026 candidate forum, questionnaire or news coverage of the candidates' views. The board meets at 6 p.m. on the third Monday of each month; agendas and minutes are posted on BoardDocs and meetings are streamed on YouTube {cp_agendas}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Kerk Kesler",
+   "seat": "District 17",
+   "summary": "Current board member listed as the Washington Township representative; running in District 17 against Rob Allen {cp_board}{in_list}.",
+   "website": null,
+   "background": [
+    "Serves on the Clinton Prairie school board as the Washington Township representative {cp_board}."
+   ],
+   "path_to_ballot": [
+    "Filed for the District 17 seat with the Republican label {in_list}. School board candidates in Clinton County filed by petition with signatures from at least 10 registered voters, due by noon June 18, 2026 {ccdn_filing_2026}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {cp_board}. No statement from him on the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "Search results describe a district announcement that the board appointed him in April 2026 to fill the Washington Township seat after Cindy Neal resigned, to serve through January 2027; the page could not be opened, so the appointment date and term were not confirmed.",
+    "Occupation, community roles and ties to the schools could not be confirmed.",
+    "No website, social media page, questionnaire, forum remarks or news coverage of this campaign were found.",
+    "Clinton County campaign finance filings were not available online and were not checked."
+   ]
+  },
+  {
+   "ballot_name": "Rob Allen",
+   "seat": "District 17",
+   "summary": "Candidate for the District 17 seat, listed with the Republican label; little public information about his campaign was found {in_list}.",
+   "website": null,
+   "background": [
+    "No campaign biography was found; see gaps."
+   ],
+   "path_to_ballot": [
+    "Filed for the District 17 seat with the Republican label {in_list}. School board candidates in Clinton County filed by petition with signatures from at least 10 registered voters, due by noon June 18, 2026 {ccdn_filing_2026}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "A Rob Allen lost the 2022 Clinton Prairie At Large race to Justin Brewer by 51.34% to 48.66%; this guide could not confirm he is the same person as the 2026 District 17 candidate.",
+    "Occupation, community roles and ties to the schools could not be confirmed.",
+    "No website, social media page, questionnaire, forum remarks or news coverage of this campaign were found.",
+    "Clinton County campaign finance filings were not available online and were not checked."
+   ]
+  },
+  {
+   "ballot_name": "Justin Brewer",
+   "seat": "At Large",
+   "summary": "Incumbent; board president, holding the At Large seat he won in 2022 {cp_board}{ft_2022_results}.",
+   "website": null,
+   "background": [
+    "President of the Clinton Prairie school board and its at-large member {cp_board}. He was set to call the Oct. 8, 2026 budget hearing to order as board president {ccdn_cp_budget}."
+   ],
+   "path_to_ballot": [
+    "Filed for reelection to the At Large seat with the Republican label {in_list}. School board candidates in Clinton County filed by petition with signatures from at least 10 registered voters, due by noon June 18, 2026 {ccdn_filing_2026}.",
+    "Won the seat in 2022 over Rob Allen, 51.34% to 48.66% {ft_2022_results}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member and serves as board president {cp_board}{ccdn_cp_budget}. No statement from him on the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "Job postings seen only in search results list him as the contact for superintendent applications in spring 2026; not confirmed on a fetched page.",
+    "Occupation, community roles and ties to the schools could not be confirmed.",
+    "He is not to be confused with Jordan Brewer, a Clinton County commissioner.",
+    "No website, social media page, questionnaire, forum remarks or news coverage of this campaign were found.",
+    "Clinton County campaign finance filings were not available online and were not checked."
+   ]
+  },
+  {
+   "ballot_name": "Michael Aaron Boesch",
+   "seat": "At Large",
+   "summary": "Candidate for the At Large seat, listed with the Republican label; this guide found no public information about his campaign {in_list}.",
+   "website": null,
+   "background": [
+    "No campaign biography was found; see gaps."
+   ],
+   "path_to_ballot": [
+    "Filed for the At Large seat with the Republican label {in_list}. School board candidates in Clinton County filed by petition with signatures from at least 10 registered voters, due by noon June 18, 2026 {ccdn_filing_2026}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "Occupation, community roles and ties to the schools could not be confirmed.",
+    "No website, social media page, questionnaire, forum remarks or news coverage of this campaign were found.",
+    "Clinton County campaign finance filings were not available online and were not checked."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "cp_welcome": [
+   "Welcome to Clinton Prairie",
+   "Clinton Prairie School Corporation",
+   "2026-10",
+   "https://www.in.gov/schools/clinton-prairie/CPSC/School-Overview/welcome-prairie"
+  ],
+  "cp_board": [
+   "Board Members",
+   "Clinton Prairie School Corporation",
+   "2026-10",
+   "https://www.in.gov/schools/clinton-prairie/CPSC/School-Board/board-members"
+  ],
+  "cp_agendas": [
+   "Agendas & Minutes",
+   "Clinton Prairie School Corporation",
+   "2026-10",
+   "https://www.in.gov/schools/clinton-prairie/CPSC/School-Board/agendas-minutes"
+  ],
+  "nces_cp": [
+   "Search for Public School Districts: Clinton Prairie School Corporation",
+   "National Center for Education Statistics",
+   "2026-10",
+   "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1802160"
+  ],
+  "cp_supt_contract": [
+   "Addendum to Superintendent's Basic Contract (John C. Sampson)",
+   "Clinton Prairie School Corporation",
+   "2026-07",
+   "https://www.in.gov/schools/clinton-prairie/CPSC/Documents/Info/Annual-Notices/Superintendent-Contract/Chris%20Sampson%20Superintendent%20Contract%20Signed.pdf"
+  ],
+  "cp_supt_amend": [
+   "Public Hearing Notice - Amended Superintendent Contract - August 2026",
+   "Clinton Prairie School Corporation",
+   "2026-08",
+   "https://www.in.gov/schools/clinton-prairie/CPSC/Documents/6PE9247%20-%20Public%20Hearing%20Notice%20-%20Amended%20Superintendent%20Contract%20-%20August%202026.pdf"
+  ],
+  "cp_cba_2026": [
+   "Notice to Taxpayers and Tentative Agreement Summary (2026-27 collective bargaining agreement)",
+   "Clinton Prairie School Corporation",
+   "2026-09-29",
+   "https://www.in.gov/schools/clinton-prairie/CPSC/Documents/doc02424720261002170834.pdf"
+  ],
+  "cp_cap_plan": [
+   "Notice to Taxpayers: 2027 Capital Projects Plan hearing",
+   "Clinton Prairie School Corporation",
+   "2026-09",
+   "https://www.in.gov/schools/clinton-prairie/CPSC/Documents/Hearing%20Notice%20to%20Taxpayers%20-%20Capital%20Project%20Plan.pdf"
+  ],
+  "ccdn_cp_budget": [
+   "Clinton Prairie to Hold Budget Hearing October 8",
+   "Clinton County Daily News",
+   "2026-10-06",
+   "https://clintoncountydailynews.com/clinton-prairie-to-hold-budget-hearing-october-8/"
+  ],
+  "ccdn_cp_0901": [
+   "Clinton Prairie School Corporation to Hold Public Hearing September 1",
+   "Clinton County Daily News",
+   "2026-08-28",
+   "https://clintoncountydailynews.com/clinton-prairie-school-corporation-to-hold-public-hearing-september-1/"
+  ],
+  "ccdn_filing_2026": [
+   "Filing Deadline Approaches for Clinton County School Board Candidates",
+   "Clinton County Daily News",
+   "2026-06-16",
+   "https://clintoncountydailynews.com/filing-deadline-approaches-for-clinton-county-school-board-candidates/"
+  ],
+  "ft_2022_results": [
+   "Price, Mink, Genda claim victory in midterm election",
+   "The Times (Frankfort)",
+   "2022-11-07",
+   "https://www.ftimes.com/news/price-mink-genda-claim-victory-in-midterm-election/article_f720d09b-585b-5e24-b8a4-bd29513f3aac.html"
+  ],
+  "ft_party_split": [
+   "Indiana school board candidates split 50-50 on affiliating with a party",
+   "The Times (Frankfort) / Indiana Capital Chronicle",
+   "2026-07-21",
+   "https://www.ftimes.com/news/indiana-school-board-candidates-split-50-50-on-affiliating-with-a-party/article_fdac46e1-8b09-5ab3-9e56-1943d7af4cae.html"
+  ]
+ }
+}
