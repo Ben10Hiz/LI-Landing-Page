@@ -1,0 +1,128 @@
+{
+ "race_id": "in-franklin-county-sheriff",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_sheriff",
+ "incumbent": {
+  "name": "Peter Cates",
+  "party": "Republican",
+  "summary": "Peter Cates (Republican) is Franklin County sheriff; the county's list of elected officials shows his term expiring Dec. 31, 2026 {fc_officials}. He is not on the November ballot {in_list}.",
+  "record": [
+   "April 2025: County elected-officials list shows Cates as sheriff, term expiring Dec. 31, 2026 {fc_officials}.",
+   "2023: The sheriff's office released monthly activity reports and results of prescription-drug take-back events through local radio {wrbi_search}.",
+   "No 2025–2026 reporting on jail conditions, staffing, budget requests or other office-level issues was found in fetched sources."
+  ]
+ },
+ "race_context": [
+  "The Franklin County Sheriff's Office is at 371 Main St., Brookville, the county seat {fc_sheriff}.",
+  "Open seat: Sheriff Peter Cates's term ends Dec. 31, 2026, and he is not a candidate {fc_officials} {in_list}.",
+  "May 5, 2026 Republican primary: Sgt. Adam Henson defeated Chris Maxie, about 68 percent to 31 percent (unofficial) {noww_primary} {ba_primary}.",
+  "Independent Lucas Dakota Richardson is also on the ballot {in_list}. No news coverage of his candidacy was found.",
+  "No candidate forums, debates or detailed platforms were found in fetched sources."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Adam W Henson",
+   "summary": "Republican nominee and sergeant with the Franklin County Sheriff's Office, where he has worked since 1996 {wrbi_henson}.",
+   "website": null,
+   "background": [
+    "Sergeant with the Franklin County Sheriff's Office (promoted 2017); began as a jail officer in 1996 and became a deputy in 1999 {wrbi_henson}.",
+    "Supervises the office's evening shifts and administers the Indiana Traffic Safety Grant (Operation Pull Over); has been a law-enforcement instructor since 2004, a K-9 handler and a field training officer {wrbi_henson}.",
+    "Earlier worked with the Vincennes University Police Department; associate degree in law enforcement from Vincennes University; Indiana Law Enforcement Academy graduate (1999) {wrbi_henson}.",
+    "Received the office's Medal of Valor and Life Saving Award in 2022 {wrbi_henson}."
+   ],
+   "path_to_ballot": [
+    "Announced his candidacy Dec. 1, 2025 {wrbi_henson}.",
+    "Won the May 5, 2026 Republican primary over Chris Maxie, about 68 percent to 31 percent (unofficial) {noww_primary} {ba_primary}."
+   ],
+   "positions": [
+    {
+     "topic": "Staffing & pay",
+     "items": [
+      "Said his supervisory roles gave him \"extensive experience in budgeting, scheduling, and officer management\" {wrbi_henson}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "No public statements about Sheriff Cates's record were found."
+   ],
+   "plans": [
+    "No specific plans for the office were found in fetched sources."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance totals were found in fetched sources."
+   ],
+   "gaps": [
+    "No campaign website, questionnaire or detailed positions on the jail, staffing, budget, drugs, school safety or immigration were found.",
+    "Exact primary vote counts were not found; the results source gave percentages only.",
+    "Unverified (search snippet only): a payroll-database listing for Adam W Henson as a deputy sergeant in the sheriff's office."
+   ]
+  },
+  {
+   "ballot_name": "Lucas Dakota Richardson",
+   "summary": "Independent candidate on the November ballot {in_list}. No news coverage, campaign website or public statements were found.",
+   "website": null,
+   "background": [
+    "No background information was found in fetched sources."
+   ],
+   "path_to_ballot": [
+    "Listed as an Independent candidate on the state's 2026 general-election candidate list {in_list}. Details of how he qualified (filing date, petition) were not found."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No public statements about Sheriff Cates's record were found."
+   ],
+   "plans": [
+    "No plans for the office were found."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance totals were found."
+   ],
+   "gaps": [
+    "No coverage of this candidate was found in local outlets (WRBI, The Brookville American, 812 Now) or candidate directories searched.",
+    "Occupation, law-enforcement experience, petition details and positions are unknown.",
+    "Coverage is far thinner than for the Republican nominee; a direct questionnaire to the candidate is recommended."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "fc_officials": [
+   "Franklin County Elected Officials",
+   "Franklin County, Indiana",
+   "2025-04",
+   "https://www.franklincounty.in.gov/wp-content/uploads/2025/04/FRANKLIN_COUNTY_ELECTED_OFFICIALS.pdf"
+  ],
+  "fc_sheriff": [
+   "Sheriff",
+   "Franklin County, Indiana",
+   "2026-10",
+   "https://www.franklincounty.in.gov/department/sheriff/"
+  ],
+  "wrbi_henson": [
+   "Henson Announces Candidacy for Franklin County Sheriff",
+   "WRBI Radio",
+   "2025-12-01",
+   "https://wrbiradio.com/henson-announces-candidacy-for-franklin-county-sheriff/"
+  ],
+  "wrbi_search": [
+   "Franklin County Sheriff activity reports and releases (search listing)",
+   "WRBI Radio",
+   "2023-12",
+   "https://www.wrbiradio.com/?s=Franklin+County+sheriff"
+  ],
+  "noww_primary": [
+   "Franklin County Primary Election results",
+   "812 Now",
+   "2026-05-05",
+   "https://www.812noww.com/post/copy-of-franklin-county-contested-races-for-may-5-primary"
+  ],
+  "ba_primary": [
+   "Franklin County voters decide key races in primary election",
+   "The Brookville American",
+   "2026-05-06",
+   "https://www.brookvilleindiana.com/story/2026/05/06/news/franklin-county-voters-decide-key-races-in-primary-election/1483.html"
+  ]
+ }
+}

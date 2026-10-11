@@ -1,4 +1,58 @@
 {
- "office": {"title": "Placeholder", "summary": "Placeholder until the explainer is written {in_list}.", "facts": [], "duties": [], "recent_changes": []},
- "sources": {"in_list": ["2026 General Election Candidate List", "Indiana Election Division", "2026-09-22", "https://www.in.gov/sos/elections/candidate-information/"]}
+ "office": {
+  "title": "Indiana Prosecuting Attorney",
+  "summary": "The prosecuting attorney is the elected lawyer who brings criminal cases on behalf of the State of Indiana, conducting all prosecutions for felonies, misdemeanors and infractions within the prosecutor's jurisdiction {ic_33_39_1_5}. A prosecutor is elected in each judicial circuit rather than by county, and Indiana has 91 prosecuting attorneys {ic_3_10_2_12}{ipac}. Candidates must be admitted to practice law in Indiana before the election {in_guide}. Since July 2025, a state prosecutor review board can investigate complaints that a prosecutor is not following state law {courts_2025_hea1006}{mirror_2025_hea1006}.",
+  "facts": [
+   {"label": "Term", "value": "4 years; prosecutors are elected in 2026, 2030, 2034 and every four years after that {ic_3_10_2_12}"},
+   {"label": "Elected", "value": "One prosecutor per judicial circuit, on the partisan November ballot; Democratic and Republican nominees are chosen in the May primary, while the Libertarian Party nominates prosecutor candidates at its state convention {ic_3_10_2_12}{in_guide}"},
+   {"label": "Term limit", "value": "None; the office has a four-year term with no term limitations {clark_pros}"},
+   {"label": "Qualifications", "value": "Must be admitted to the practice of law in Indiana before the election, be registered to vote in the election district by the candidate filing deadline, and file a statement of economic interest with the courts {in_guide}"},
+   {"label": "Pay", "value": "The state pays the minimum salary: for a full-time prosecutor, equal to the minimum salary of the circuit court judge in the same circuit, and 60% (66% in certain circuits) of that amount for other prosecutors {ic_33_39_6_5}"},
+   {"label": "On the 2026 ballot", "value": "91 races; 11 contested {in_list}"}
+  ],
+  "duties": [
+   "Conducts all prosecutions for felonies, misdemeanors and infractions within the prosecutor's jurisdiction, and performs other duties required by law {ic_33_39_1_5}.",
+   "Represents the state in criminal cases, conducts criminal investigations, and convenes and oversees grand juries {clark_pros}.",
+   "Handles juvenile cases and prosecutes traffic and infraction violations {clark_pros}.",
+   "Enforces child support orders entered in divorce and paternity cases; the Indiana Prosecuting Attorneys Council runs a statewide child support services program to support this work {clark_pros}{ipac}.",
+   "Gives information and help to crime victims {clark_pros}, and must notify the victim when the prosecutor withholds prosecution under a diversion agreement {ic_33_39_1_8}.",
+   "May withhold prosecution of a misdemeanor, Level 6 felony or Level 5 felony if the person agrees in writing to a pretrial diversion program, with conditions such as treatment, restitution, fees or staying away from the victim; the program is not available for certain drunk-driving charges {ic_33_39_1_8}.",
+   "Superintends lawsuits in which the county or certain trust funds have an interest {ic_33_39_1_5}.",
+   "Appoints a chief deputy and other deputy prosecutors; the state pays set salaries for certain deputies, and the county council appropriates money each year for other deputies, investigators, clerical staff and office expenses {ic_33_39_6_2}.",
+   "Works with the county sheriff, a separately elected officer who arrests suspects and runs the county jail, and with local police agencies {ic_36_2_13_5}{isa_2026}.",
+   "Receives training, manuals and legal research support from the Indiana Prosecuting Attorneys Council, a state judicial branch agency governed by a board of 10 elected prosecutors {ipac}.",
+   "Since July 2025, can be the subject of a complaint to the state prosecutor review board, a board of five prosecuting attorneys that investigates whether a prosecutor is complying with state law and issues a report {mirror_2025_hea1006}{courts_2025_hea1006}.",
+   "What the prosecutor does not control: judges decide whether a defendant is released on bail {ipm_2026_bail}; the county council appropriates the county's share of the office budget {ic_33_39_6_2}; and the state sets the prosecutor's minimum salary {ic_33_39_6_5}."
+  ],
+  "recent_changes": [
+   "March 2023: Senate Bill 284, which would have set up a procedure to appoint a special prosecutor when a prosecutor refuses to enforce a law, passed a House committee 9-4 and was sent to the Ways and Means Committee; the Indiana Prosecuting Attorneys Council supported that bill and the ACLU opposed it {courts_2023_sb284}.",
+   "February 2025: As passed by the House 72-24, House Bill 1006 would have created a board to investigate prosecutors who categorically refuse to prosecute laws and required the Prosecuting Attorneys Council to withhold certain funding from a prosecutor labeled noncompliant; author Rep. Chris Jeter (R-Fishers) said it is lawmakers' job to make the law and prosecutors' job to enforce it, while Rep. Matt Pierce (D-Bloomington) said voters decide every four years how prosecutors use their resources {indianalawyer_2025_hb1006}.",
+   "May 2025: Gov. Mike Braun signed House Enrolled Act 1006 (Public Law 147-2025), which took effect July 1, 2025, and established the prosecutor review board {billtrack_hb1006}{courts_2025_hea1006}{wndu_2025_hea1006}.",
+   "July 2025: Mirror Indy reported that under the enacted law anyone can file a complaint, a board of five prosecuting attorneys investigates, and the law does not specify consequences beyond the board's report; Marion County Prosecutor Ryan Mears told Fox59 the law was deliberately targeted at his office, Jeter called it a step toward holding prosecutors accountable, and Chris Naylor of the Prosecuting Attorneys Council said his group did not oppose this version {mirror_2025_hea1006}.",
+   "2025: House Enrolled Act 1006 also requires that two members of the Indiana Commission on Court Appointed Attorneys be trial court judges {courts_2025_hea1006}.",
+   "November 2026: Public Question 1 asks voters whether to amend the Indiana Constitution so courts can deny bail, for offenses other than murder or treason, when the state proves by clear and convincing evidence that no release conditions will reasonably protect others or the community {indypolitics_2026_bail}.",
+   "2026: On the bail question, author Sen. Eric Koch (R-Bedford) said releasing some defendants before trial is too dangerous to public safety, while Samantha Bresnahan of the ACLU of Indiana said detention can cost someone their job, housing and custody of their children, and Zach Stock of the Indiana Public Defender Council raised concerns about jail overcrowding {ipm_2026_bail}."
+  ]
+ },
+ "sources": {
+  "in_list": ["2026 General Election Candidate List", "Indiana Election Division", "2026-09-22", "https://www.in.gov/sos/elections/candidate-information/"],
+  "in_guide": ["2026 Indiana Candidate Guide (Prosecuting Attorney)", "Indiana Election Division", "accessed 2026-10-11", "https://www.in.gov/dA/1eada35c3e/2026-Candidate-Guide.FINAL.pdf"],
+  "ic_33_39_1_5": ["Indiana Code 33-39-1-5: Duties of prosecuting attorneys", "FindLaw (Indiana Code, current as of 2026-01-01)", "accessed 2026-10-11", "https://codes.findlaw.com/in/title-33-courts-and-court-officers/in-code-sect-33-39-1-5/"],
+  "ic_33_39_1_8": ["Indiana Code 33-39-1-8: Pretrial diversion", "FindLaw (Indiana Code, current as of 2026-01-01)", "accessed 2026-10-11", "https://codes.findlaw.com/in/title-33-courts-and-court-officers/in-code-sect-33-39-1-8/"],
+  "ic_33_39_6_2": ["Indiana Code 33-39-6-2: Deputy prosecuting attorneys", "FindLaw (Indiana Code, current as of 2026-01-01)", "accessed 2026-10-11", "https://codes.findlaw.com/in/title-33-courts-and-court-officers/in-code-sect-33-39-6-2/"],
+  "ic_33_39_6_5": ["Indiana Code 33-39-6-5: Prosecuting attorney salaries", "FindLaw (Indiana Code, current as of 2026-01-01)", "accessed 2026-10-11", "https://codes.findlaw.com/in/title-33-courts-and-court-officers/in-code-sect-33-39-6-5/"],
+  "ic_3_10_2_12": ["Indiana Code 3-10-2-12: Election of prosecuting attorneys", "FindLaw (Indiana Code, current as of 2026-01-01)", "accessed 2026-10-11", "https://codes.findlaw.com/in/title-3-elections/in-code-sect-3-10-2-12/"],
+  "ic_36_2_13_5": ["Indiana Code 36-2-13-5: Duties of sheriff", "FindLaw (Indiana Code, current as of 2026-01-01)", "accessed 2026-10-11", "https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-2-13-5/"],
+  "ipac": ["Indiana Prosecuting Attorneys Council", "Indiana Prosecuting Attorneys Council", "accessed 2026-10-11", "https://www.in.gov/ipac/"],
+  "clark_pros": ["Prosecutor's Office", "Clark County, Indiana", "accessed 2026-10-11", "https://www.clarkcounty.in.gov/~ccounty/index.php/clark-county-indiana-government/clark-county-indiana-prosecutor-s-office"],
+  "isa_2026": ["2026 ISA President Statement (Jeffrey A. Balon, Porter County Sheriff)", "Indiana Sheriffs' Association", "2026-01", "https://indianasheriffs.org/wp-content/uploads/2026/01/2026-ISA-President-Statement.pdf"],
+  "courts_2023_sb284": ["Noncompliant prosecuting attorneys (SB 284)", "Indiana Legislative Update, Indiana Office of Court Services", "2023-03-31", "https://legislativeupdate.courts.in.gov/2023/03/31/noncompliant-prosecuting-attorneys-2"],
+  "indianalawyer_2025_hb1006": ["Indiana House OKs bill that could give county prosecutors less discretion", "Indiana Capital Chronicle (via The Indiana Lawyer)", "2025-02-20", "https://theindianalawyer.com/?p=232394"],
+  "billtrack_hb1006": ["IN HB1006 (2025): Prosecutors", "BillTrack50", "accessed 2026-10-11", "https://www.billtrack50.com/billdetail/1781144"],
+  "courts_2025_hea1006": ["Prosecutors (H.E.A. 1006, P.L. 147-2025)", "Indiana Legislative Update, Indiana Office of Court Services", "2025-05-16", "https://legislativeupdate.courts.in.gov/2025/05/16/prosecutors-5/"],
+  "wndu_2025_hea1006": ["Michiana-area lawmaker supports new bill aiming to hold prosecutors accountable", "WNDU", "2025-08-04", "https://www.wndu.com/2025/08/04/michiana-area-lawmaker-supports-new-bill-aiming-hold-prosecutors-accountable"],
+  "mirror_2025_hea1006": ["How a new Indiana law about 'noncompliant prosecutors' could affect Indy", "Mirror Indy", "2025-07-14", "https://mirrorindy.org/marion-county-prosecutor-ryan-mears-bill-indianapolis/"],
+  "ipm_2026_bail": ["Amendment to deny bail to some offenders moves closer to November ballot", "WFYI (via Indiana Public Media)", "2026-02-11", "https://www.ipm.org/news/2026-02-11/amendment-to-deny-bail-to-some-offenders-moves-closer-to-november-ballot"],
+  "indypolitics_2026_bail": ["Indiana bail amendment clears General Assembly, sending detention question to November ballot", "IndyPolitics.Org (reporting by Indiana Capital Chronicle)", "2026-02-17", "https://indypolitics.org/indiana-bail-amendment-clears-general-assembly-sending-detention-question-to-november-ballot/"]
+ }
 }

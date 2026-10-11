@@ -1,0 +1,16 @@
+{
+ "race_id": "in-office-county-council",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review. This race has not been researched individually yet; this page explains the office.",
+ "office": "@in_county_council",
+ "incumbent": null,
+ "race_context": [
+  "How the seat is elected: in 2026 every county council race on the state candidate list is a district seat, chosen only by voters in that district; the three at-large seats in most counties are filled together at a different election, when voters may pick up to three candidates {in_list}{ic_36_2_3_3}{bsb_monroe_2020}.",
+  "Finding the current officeholder and record: council agendas, minutes and the annual budget and salary ordinances show how members voted on spending, tax rates and pay {ic_36_2_5_11}{hancock_council}.",
+  "Checking the county's finances: the Department of Local Government Finance publishes each county's budget order, which certifies the approved budget, tax rate and levy for each fund {dlgf_county}.",
+  "Comparing candidates: the Indiana Election Division publishes the official 2026 candidate list, and county election boards post sample ballots {in_list}{in_guide}."
+ ],
+ "candidates": [],
+ "sources": {}
+}

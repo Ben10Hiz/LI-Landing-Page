@@ -1,0 +1,69 @@
+{
+ "race_id": "in-dubois-county-sheriff",
+ "office": "Placeholder",
+ "flags": [
+  {
+   "person": "Tom Kleinhelter",
+   "category": "other",
+   "status": "held",
+   "summary": "A State Board of Accounts special compliance report filed July 26, 2024 found jail commissary funds were used for travel and conference expenses for the sheriff's wife ($8,852.95) and for gifts ($7,921.76) without required council approval; the report says Kleinhelter reimbursed the fund $16,774.71 by personal check on June 27, 2024.",
+   "note": "Other outlets describe about $78,000 in questionable commissary spending; the SBOA summary of charges reviewed totals $16,774.71. The larger figure appears to come from the later state police probe and was not reconciled.",
+   "sources": [
+    {
+     "title": "Special Compliance Report of Dubois County Sheriff's Department Jail Commissary (14350C)",
+     "publisher": "Indiana State Board of Accounts",
+     "date": "2024-07-26",
+     "url": "https://in.gov/sboa/WebReports/14350C.pdf"
+    }
+   ]
+  },
+  {
+   "person": "Tom Kleinhelter",
+   "category": "criminal case",
+   "status": "held",
+   "summary": "April 9, 2026: Marion County Prosecutor Ryan Mears charged Kleinhelter with one count of official misconduct (Level 6 felony) and three counts of false informing (Class B misdemeanors), based on statements in a Dec. 19, 2024 recorded Indiana State Police interview. An earlier special prosecutor had declined to file charges. In the 2024 interview he said, 'There was nothing criminal. There was no intent to steal any money.' . As of June 2026 he had pleaded not guilty, with a pretrial conference set for June 30.",
+   "note": "Case was pending as of the last source reviewed (June 2026); current status unknown. One republished article describes 'multiple felony counts,' which conflicts with the charge list in the April reports.",
+   "sources": [
+    {
+     "title": "Dubois County sheriff faces criminal charges tied to lying in state police investigation",
+     "publisher": "Indiana Capital Chronicle (via Indiana Public Media)",
+     "date": "2026-04-09",
+     "url": "https://www.ipm.org/news/2026-04-09/dubois-county-sheriff-faces-criminal-charges-tied-to-lying-in-state-police-investigation"
+    },
+    {
+     "title": "Dubois Co. Sheriff charged with official misconduct and false informing",
+     "publisher": "WFIE 14 News",
+     "date": "2026-04-09",
+     "url": "https://www.14news.com/2026/04/09/dubois-co-sheriff-charged-with-official-misconduct-false-informing/"
+    },
+    {
+     "title": "Sheriff Kleinhelter loses Indiana law enforcement certification but keeps elected office",
+     "publisher": "Indiana Capital Chronicle (via Dubois County Free Press)",
+     "date": "2026-06-15",
+     "url": "https://duboiscountyfreepress.com/dubois-county-sheriff-loses-indiana-law-enforcement-certification-but-keeps-elected-office/"
+    }
+   ]
+  },
+  {
+   "person": "Tom Kleinhelter",
+   "category": "personnel action",
+   "status": "held",
+   "summary": "April 20, 2026: The Law Enforcement Training Board rejected a proposed settlement 9–4 and Gov. Mike Braun removed Kleinhelter from the board. June 15, 2026: The board accepted a settlement under which he voluntarily surrendered his law-enforcement certification; the agreement says it 'does not constitute an admission of misconduct.' He remains sheriff. Kleinhelter said, 'I voluntarily gave up the certification, and if you have read it, there is no finding or admission of any wrongdoing.'",
+   "note": "Affects the officeholder, not either ballot candidate. Lampert's and other candidates' primary questionnaire answers were framed around this controversy.",
+   "sources": [
+    {
+     "title": "Governor removes Dubois County sheriff from Indiana law enforcement board after failed settlement",
+     "publisher": "Indiana Capital Chronicle (via Dubois County Free Press)",
+     "date": "2026-04-20",
+     "url": "https://duboiscountyfreepress.com/governor-removes-dubois-county-sheriff-from-indiana-law-enforcement-board-after-failed-settlement/"
+    },
+    {
+     "title": "Sheriff Kleinhelter loses Indiana law enforcement certification but keeps elected office",
+     "publisher": "Indiana Capital Chronicle (via Dubois County Free Press)",
+     "date": "2026-06-15",
+     "url": "https://duboiscountyfreepress.com/dubois-county-sheriff-loses-indiana-law-enforcement-certification-but-keeps-elected-office/"
+    }
+   ]
+  }
+ ]
+}

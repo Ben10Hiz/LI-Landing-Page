@@ -1,0 +1,16 @@
+{
+ "race_id": "in-office-prosecutor",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review. This race has not been researched individually yet; this page explains the office.",
+ "office": "@in_prosecutor",
+ "incumbent": null,
+ "race_context": [
+  "How the seat is elected: one prosecuting attorney is elected for each judicial circuit to a four-year term, with no term limit, and every candidate must be a lawyer admitted to practice in Indiana {ic_3_10_2_12}{clark_pros}{in_guide}.",
+  "Finding the current prosecutor and the office's work: county prosecutor websites describe the office's divisions, such as criminal and child support, and the Indiana Prosecuting Attorneys Council directs people with case-specific questions to their local county prosecutor {clark_pros}{ipac}.",
+  "Following the office's budget: the county council appropriates money each year for deputy prosecutors, investigators, staff and office expenses beyond the state-paid salaries, so county council budget hearings and minutes show how the office is funded {ic_33_39_6_2}.",
+  "Comparing candidates: the Indiana Election Division publishes the official list of candidates on the November 3, 2026 ballot; this year voters will also decide Public Question 1 on bail, an issue prosecutors argue in court {in_list}{indypolitics_2026_bail}."
+ ],
+ "candidates": [],
+ "sources": {}
+}

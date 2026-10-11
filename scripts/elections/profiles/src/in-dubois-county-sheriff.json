@@ -1,0 +1,113 @@
+{
+ "race_id": "in-dubois-county-sheriff",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_sheriff",
+ "incumbent": {
+  "name": "Tom Kleinhelter",
+  "party": "Republican",
+  "summary": "Tom Kleinhelter, a Republican, has been Dubois County sheriff since January 1, 2019, and filed for a second term in January 2022; he was not eligible to run again in 2026 because of term limits {sboa_commissary} {dcfp_kleinhelter_2022} {dcfp_three_candidates}.",
+  "record": [
+   "January 2019: Term as sheriff began {sboa_commissary}.",
+   "January 2022: In his re-election filing, Kleinhelter listed a new jail phone provider with video visitation, a renegotiated jail medical contract he said saves nearly $25,000 a year, an ongoing jail expansion, the Fresh Start counseling program for inmates with LifeSpring, dashboard cameras in road deputies' vehicles, a K-9 program, and an added school resource officer for the Southeast Dubois school system {dcfp_kleinhelter_2022}.",
+   "July 2024: The State Board of Accounts filed a special compliance report on the jail commissary fund covering 2019–2023; it found internal-control deficiencies, including that expenditures outside the sheriff's discretionary authority were not approved in advance by the county council, and noted the council had formed a three-member committee in January 2024 to review commissary spending {sboa_commissary}. Further details are held for editorial review."
+  ]
+ },
+ "race_context": [
+  "This is an open seat: Sheriff Kleinhelter is barred by term limits from seeking another term {dcfp_three_candidates}.",
+  "Three Republicans sought the nomination in the May 5, 2026 primary: school resource officer Tim Lampert, Chief Deputy Jesus Monarrez and state trooper Brian LaRoche. In a Dubois County Free Press questionnaire, all three were asked about restoring trust and the use of public resources {dcfp_three_candidates}.",
+  "Lampert won the Republican nomination with about 61% of the vote in uncertified results, ahead of Monarrez (about 25%) and LaRoche (about 14%) {dcfp_lampert_thankful}.",
+  "Deputy Tim Rasche entered the race as an independent in July 2026 {dcfp_rasche}. Both general-election candidates are longtime employees of the sheriff's department {dcfp_rasche} {dcfp_lampert_files}.",
+  "No general-election forum or debate between Lampert and Rasche was found in available coverage."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Tim A. Rasche",
+   "summary": "Tim Rasche is a Dubois County deputy sheriff and field training officer who served as chief jailer from 2000 to 2004; he is running as an independent {dcfp_rasche}.",
+   "website": null,
+   "background": [
+    "Deputy sheriff with the Dubois County Sheriff's Department; his announcement says he has served the department for 32 years, including six years as a corrections officer and four years as chief jailer (2000–2004), and has been a field training officer for the past 10 years {dcfp_rasche}.",
+    "U.S. Army veteran who also served in the Army Reserve and Indiana National Guard; studied law enforcement at Vincennes University {dcfp_rasche}.",
+    "Member of the Fraternal Order of Police; has been drill instructor at the department's Kids Camp for 14 years {dcfp_rasche}."
+   ],
+   "path_to_ballot": [
+    "Announced as an independent candidate in July 2026 {dcfp_rasche}; listed on the general-election ballot as an independent {in_list}."
+   ],
+   "positions": [
+    {"topic": "Jail & corrections", "items": ["Says that as chief jailer from 2000 to 2004 he managed the jail during 'one of the most overcrowded periods' {dcfp_rasche}."]},
+    {"topic": "Budget", "items": ["Says he wants the office to operate 'as efficiently and effectively as possible while being a responsible steward of taxpayer dollars,' including pursuing every grant opportunity and evaluating how the department does business {dcfp_rasche}."]}
+   ],
+   "on_incumbent": [
+    "Has said he values 'honoring the traditions of our department,' having served under four sheriffs; no statements about Sheriff Kleinhelter's record were found {dcfp_rasche}."
+   ],
+   "plans": [
+    "Review department operations and make practical changes to improve efficiency without reducing service quality {dcfp_rasche}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance totals were found in available coverage."
+   ],
+   "gaps": [
+    "His announcement gives both 32 years with the department and 22 years as a deputy sheriff; the article does not reconcile these figures (the difference may reflect his corrections and jail service).",
+    "No campaign website, questionnaire answers or forum appearances were found; coverage is limited to his July 2026 announcement.",
+    "No stated positions found on staffing and pay, drugs, school safety, immigration enforcement or public-resource oversight.",
+    "Independent ballot access (petition) details were not found."
+   ]
+  },
+  {
+   "ballot_name": "Tim D. Lampert",
+   "summary": "Tim Lampert is a school resource officer with 35 years in the Dubois County Sheriff's Department, including eight years as chief deputy starting in 2011; he won the May 2026 Republican primary {dcfp_lampert_files} {dcfp_lampert_thankful}.",
+   "website": null,
+   "background": [
+    "School resource officer with the Dubois County Sheriff's Department; started as a jail officer in 1990, became a road deputy in 1994, and served as chief deputy for eight years beginning in 2011 {dcfp_lampert_files}.",
+    "Certified general instructor, firearms instructor and ALICE active-shooter instructor; licensed teacher through the Indiana Department of Education's Workplace Specialist program {dcfp_lampert_announce}.",
+    "Has served on the multi-agency emergency response team, the Substance Abuse Council and the 911 Advisory Board {dcfp_lampert_announce}."
+   ],
+   "path_to_ballot": [
+    "Announced in February 2025 and filed in January 2026 {dcfp_lampert_announce} {dcfp_lampert_files}.",
+    "Won the May 5, 2026 Republican primary with about 61% of the vote over Jesus Monarrez and Brian LaRoche (uncertified results) {dcfp_lampert_thankful}."
+   ],
+   "positions": [
+    {"topic": "Jail & corrections", "items": ["Supports expanding substance-abuse treatment and programs such as RISE in the jail, and better coordination with community partners so people leaving jail are connected to services; said 'when individuals are released without a plan, they are more likely to reoffend' {dcfp_three_candidates}."]},
+    {"topic": "Staffing & pay", "items": ["Pledged ongoing training and cross-training and said 'I want every deputy and jail officer to know that I have their back' {dcfp_three_candidates}."]},
+    {"topic": "Budget", "items": ["Pledged to pursue state and federal grants to reduce local taxpayer costs {dcfp_lampert_files}.", "Said 'There will be no gray areas when it comes to misuse of public funds, equipment, or time,' with clear policies, oversight and accurate records {dcfp_three_candidates}."]},
+    {"topic": "Drugs", "items": ["Named drugs and mental health as top public-safety challenges and called for accountability paired with treatment and reentry support {dcfp_three_candidates}."]},
+    {"topic": "School safety", "items": ["Said 'I would like to add another School Resource Officer' and wants cross-training so deputies can cover schools {dcfp_three_candidates}."]},
+    {"topic": "Transparency", "items": ["Pledged that retaliation against people who report misconduct in good faith 'will not be tolerated,' with clear policies and multiple reporting channels {dcfp_three_candidates}."]}
+   ],
+   "on_incumbent": [
+    "In the primary questionnaire, said trust needs to be rebuilt internally and with the public after recent negative publicity; he did not name Sheriff Kleinhelter {dcfp_three_candidates}."
+   ],
+   "plans": [
+    "Expand Coffee with a Cop to all levels of staff and make deputies visible at community events {dcfp_three_candidates}.",
+    "Work with groups such as the Justice Reinvestment Advisory Committee, the Dubois County Community Foundation and CARES on addiction and mental-health programs for people after incarceration {dcfp_lampert_announce}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance totals were found in available coverage."
+   ],
+   "gaps": [
+    "Official certified vote totals (reported in search snippets as 4,577 votes, 61.64%) come from a Dubois County Herald article not reviewed (possible paywall); not verified.",
+    "No campaign website found; no general-election forum statements found.",
+    "No stated position found on immigration enforcement."
+   ]
+  }
+ ],
+ "review_flags": [
+  {"person": "Tom Kleinhelter", "category": "other", "status": "held", "summary": "A State Board of Accounts special compliance report filed July 26, 2024 found jail commissary funds were used for travel and conference expenses for the sheriff's wife ($8,852.95) and for gifts ($7,921.76) without required council approval; the report says Kleinhelter reimbursed the fund $16,774.71 by personal check on June 27, 2024 {sboa_commissary}.", "note": "Other outlets describe about $78,000 in questionable commissary spending; the SBOA summary of charges reviewed totals $16,774.71. The larger figure appears to come from the later state police probe and was not reconciled."},
+  {"person": "Tom Kleinhelter", "category": "criminal case", "status": "held", "summary": "April 9, 2026: Marion County Prosecutor Ryan Mears charged Kleinhelter with one count of official misconduct (Level 6 felony) and three counts of false informing (Class B misdemeanors), based on statements in a Dec. 19, 2024 recorded Indiana State Police interview. An earlier special prosecutor had declined to file charges. In the 2024 interview he said, 'There was nothing criminal. There was no intent to steal any money.' {ipm_charges} {wfie_charges}. As of June 2026 he had pleaded not guilty, with a pretrial conference set for June 30 {dcfp_cert}.", "note": "Case was pending as of the last source reviewed (June 2026); current status unknown. One republished article describes 'multiple felony counts,' which conflicts with the charge list in the April reports."},
+  {"person": "Tom Kleinhelter", "category": "personnel action", "status": "held", "summary": "April 20, 2026: The Law Enforcement Training Board rejected a proposed settlement 9–4 and Gov. Mike Braun removed Kleinhelter from the board {dcfp_braun_removes}. June 15, 2026: The board accepted a settlement under which he voluntarily surrendered his law-enforcement certification; the agreement says it 'does not constitute an admission of misconduct.' He remains sheriff. Kleinhelter said, 'I voluntarily gave up the certification, and if you have read it, there is no finding or admission of any wrongdoing.' {dcfp_cert}", "note": "Affects the officeholder, not either ballot candidate. Lampert's and other candidates' primary questionnaire answers were framed around this controversy."}
+ ],
+ "sources": {
+  "dcfp_rasche": ["Tim Rasche running as Independent for Dubois County Sheriff", "Dubois County Free Press", "2026-07-31", "https://duboiscountyfreepress.com/tim-rasche-running-as-independent-for-dubois-county-sheriff/"],
+  "dcfp_lampert_announce": ["Tim Lampert announces candidacy for Dubois County Sheriff", "Dubois County Free Press", "2025-02-20", "https://duboiscountyfreepress.com/tim-lampert-announces-candidacy-for-dubois-county-sheriff/"],
+  "dcfp_lampert_files": ["Tim Lampert files candidacy for Dubois County Sheriff", "Dubois County Free Press", "2026-01-12", "https://duboiscountyfreepress.com/tim-lampert-files-candidacy-for-dubois-county-sheriff/"],
+  "dcfp_three_candidates": ["Three Sheriff candidates vying for Republican nomination in Primary", "Dubois County Free Press", "2026-04-14", "https://duboiscountyfreepress.com/three-sheriff-candidates-vying-for-republican-nomination-in-primary/"],
+  "dcfp_lampert_thankful": ["Lampert thankful for strong family, community support", "Dubois County Free Press", "2026-05-06", "https://duboiscountyfreepress.com/lampert-thankful-for-strong-family-community-support/"],
+  "dcfp_kleinhelter_2022": ["Sheriff Kleinhelter files for re-election", "Dubois County Free Press", "2022-01-06", "https://duboiscountyfreepress.com/sheriff-kleinhelter-files-for-re-election/"],
+  "sboa_commissary": ["Special Compliance Report of Dubois County Sheriff's Department Jail Commissary (14350C)", "Indiana State Board of Accounts", "2024-07-26", "https://in.gov/sboa/WebReports/14350C.pdf"],
+  "ipm_charges": ["Dubois County sheriff faces criminal charges tied to lying in state police investigation", "Indiana Capital Chronicle (via Indiana Public Media)", "2026-04-09", "https://www.ipm.org/news/2026-04-09/dubois-county-sheriff-faces-criminal-charges-tied-to-lying-in-state-police-investigation"],
+  "wfie_charges": ["Dubois Co. Sheriff charged with official misconduct and false informing", "WFIE 14 News", "2026-04-09", "https://www.14news.com/2026/04/09/dubois-co-sheriff-charged-with-official-misconduct-false-informing/"],
+  "dcfp_braun_removes": ["Governor removes Dubois County sheriff from Indiana law enforcement board after failed settlement", "Indiana Capital Chronicle (via Dubois County Free Press)", "2026-04-20", "https://duboiscountyfreepress.com/governor-removes-dubois-county-sheriff-from-indiana-law-enforcement-board-after-failed-settlement/"],
+  "dcfp_cert": ["Sheriff Kleinhelter loses Indiana law enforcement certification but keeps elected office", "Indiana Capital Chronicle (via Dubois County Free Press)", "2026-06-15", "https://duboiscountyfreepress.com/dubois-county-sheriff-loses-indiana-law-enforcement-certification-but-keeps-elected-office/"]
+ }
+}

@@ -1,4 +1,186 @@
 {
- "office": {"title": "Placeholder", "summary": "Placeholder until the explainer is written {in_list}.", "facts": [], "duties": [], "recent_changes": []},
- "sources": {"in_list": ["2026 General Election Candidate List", "Indiana Election Division", "2026-09-22", "https://www.in.gov/sos/elections/candidate-information/"]}
+ "office": {
+  "title": "Indiana County Council Member",
+  "summary": "The county council is the county's fiscal body: it sets the county property tax rate, appropriates the money the county spends and fixes the pay and number of county employees {ic_36_2_3_2}{ic_36_2_5_2}{ic_36_2_5_3}. Most councils have seven members, four elected from districts and three elected countywide (at large), though some larger counties elect all members by district {ic_36_2_3_2}{ic_36_2_3_4}. The board of commissioners runs county government day to day, while the council controls the money {boone_comm}{hancock_council}. Marion County has no separate county council; the 25-member Indianapolis City-County Council serves as the legislative body for the consolidated city-county government {ic_36_2_3_1}{naco_in}.",
+  "facts": [
+   {
+    "label": "Term",
+    "value": "4 years, starting January 1 after the election; district seats and at-large seats are filled at alternating general elections {ic_36_2_3_3}"
+   },
+   {
+    "label": "Elected",
+    "value": "On the partisan general-election ballot; in most counties four members are elected by district voters and three at large by the whole county, while counties of 400,000–700,000 residents elect seven members by district and opt-in counties of 185,000–300,000 elect nine by district {ic_36_2_3_4}{ic_36_2_3_2}. Every county council race on the 2026 state candidate list is a district seat {in_list}"
+   },
+   {
+    "label": "At-large races",
+    "value": "All three at-large seats are filled at the same election, so voters may choose up to three candidates and the top three vote-getters win; straight-ticket votes do not count in these multi-seat races {ic_36_2_3_4}{bsb_monroe_2020}"
+   },
+   {
+    "label": "Term limit",
+    "value": "None stated; the statute that sets the four-year term does not limit how many terms a member may serve {ic_36_2_3_3}"
+   },
+   {
+    "label": "Qualifications",
+    "value": "Must have lived in the county at least one year, and in the district (for a district seat) at least six months, before the election, and be registered to vote in the election district; a county employee who is elected must leave that county job on taking office {ic_3_8_1_22}{in_guide}"
+   },
+   {
+    "label": "Pay",
+    "value": "Set locally in the council's annual ordinance fixing the compensation of county officers and employees {ic_36_2_5_3}{ic_36_2_5_11}"
+   },
+   {
+    "label": "On the 2026 ballot",
+    "value": "368 races; 147 contested {in_list}"
+   }
+  ],
+  "duties": [
+   "Serves as the county fiscal body under the name of the county council {ic_36_2_3_2}.",
+   "Sets the county property tax rate and other countywide rates not fixed by state law {ic_36_2_5_2}.",
+   "Appropriates county money; except as otherwise provided by law, money may leave the county treasury only under an appropriation the council makes {ic_36_2_5_2}.",
+   "Adopts the annual budget at a yearly meeting where the county auditor presents budget estimates; budget ordinances must be read on two separate days, and funding an item above the estimates takes a three-fourths vote {ic_36_2_5_11}.",
+   "Adopts a separate salary ordinance setting the pay of county officers and employees and the number of deputies and employees in each office, after considering the commissioners' recommendations {ic_36_2_5_11}{ic_36_2_5_3}.",
+   "Sets pay schedules and job classifications paid from the county general, highway, park and other funds, except that each local health department board sets pay for its own staff {ic_36_2_5_3}.",
+   "Controls spending and revenue collection in the county, including special spending requests during the year {hancock_council}.",
+   "Authorizes by ordinance the bonds that fund county road and bridge projects and can create a county housing authority by resolution {naco_in}.",
+   "Serves as the county legislative body as well as the fiscal body in Lake and St. Joseph counties {naco_in}.",
+   "Declares a commissioner's seat vacant when the commissioner moves out of the county or district, and in certain cases can remove a county commissioner from office {ic_36_2_2_5}{in_guide}.",
+   "Becomes the body that adopts county local income tax rates under the 2025 SEA 1 overhaul, replacing local income tax councils; the change is now scheduled for ordinances adopted starting July 1, 2028 {btlaw_sea1}{dlgf_hea1210}.",
+   "Has its adopted budget, tax rate and levies reviewed by the state Department of Local Government Finance, whose county budget order certifies the approved budget, tax rate and levy for each fund {dlgf_county}.",
+   "Does not run county departments day to day; the commissioners provide administrative oversight and the council provides fiduciary oversight {boone_comm}."
+  ],
+  "recent_changes": [
+   "2023: State law gave counties with 185,000 to 300,000 residents until September 1, 2023, to opt in to a nine-member council elected entirely from single-member districts {ic_36_2_3_2}{ic_36_2_3_4}{ic_36_2_2_4}.",
+   "April 15, 2025: Gov. Mike Braun signed Senate Enrolled Act 1, a property tax law he called historic tax relief; Rep. Greg Porter (D-Indianapolis) called it a lose-lose and said it would cost local governments and schools up to $1.8 billion over three years {ipm_sea1}.",
+   "2025: SEA 1 rewrote county local income taxes: existing rates were set to be replaced by a new structure, local income tax councils were to be eliminated with the county fiscal body becoming the adopting body, the total county expenditure rate was capped at 2.9%, and cities and towns with at least 3,500 residents gained the power to adopt their own rate {btlaw_sea1}.",
+   "March 12, 2026: House Enrolled Act 1210 delayed the local income tax overhaul by one year; current ordinances now expire January 1, 2029, the repeal of local income tax councils and the levy freeze is also delayed a year, and counties may form a Municipal Unit Strategic Taskforce with city and town representatives to negotiate revenue sharing {dlgf_hea1210}{icc_lit_delay}.",
+   "2026: Senate tax committee chair Travis Holdman (R-Markle) said the delay aims for a more streamlined, tailored plan because counties are not all alike, while Amy Krieg of the organization representing cities and towns said the issue will be a multi-year discussion {icc_lit_delay}."
+  ]
+ },
+ "sources": {
+  "in_list": [
+   "2026 General Election Candidate List",
+   "Indiana Election Division",
+   "2026-09-22",
+   "https://www.in.gov/sos/elections/candidate-information/"
+  ],
+  "in_guide": [
+   "2026 Indiana Candidate Guide",
+   "Indiana Election Division",
+   "accessed 2026-10-11",
+   "https://www.in.gov/sos/elections/files/2026-Candidate-Guide.FINAL.pdf"
+  ],
+  "naco_in": [
+   "County Government Overview: Indiana",
+   "National Association of Counties (NACo)",
+   "2022-01",
+   "https://www.naco.org/sites/default/files/event_attachments/DRAFT_Indiana_012022.pdf"
+  ],
+  "ic_36_2_2_4": [
+   "Indiana Code 36-2-2-4: Commissioner districts",
+   "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "accessed 2026-10-11",
+   "https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-2-2-4.html"
+  ],
+  "ic_36_2_2_5": [
+   "Indiana Code 36-2-2-5: Qualifications and residency of members; district or countywide election",
+   "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "accessed 2026-10-11",
+   "https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-2-2-5.html"
+  ],
+  "ic_3_8_1_22": [
+   "Indiana Code 3-8-1-22: Candidates for county council",
+   "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "accessed 2026-10-11",
+   "https://codes.findlaw.com/in/title-3-elections/in-code-sect-3-8-1-22.html"
+  ],
+  "ic_36_2_3_1": [
+   "Indiana Code 36-2-3-1: Application of chapter",
+   "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "accessed 2026-10-11",
+   "https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-2-3-1.html"
+  ],
+  "ic_36_2_3_2": [
+   "Indiana Code 36-2-3-2: County council as fiscal body; size",
+   "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "accessed 2026-10-11",
+   "https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-2-3-2.html"
+  ],
+  "ic_36_2_3_3": [
+   "Indiana Code 36-2-3-3: Election and term of fiscal body",
+   "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "accessed 2026-10-11",
+   "https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-2-3-3.html"
+  ],
+  "ic_36_2_3_4": [
+   "Indiana Code 36-2-3-4: Council districts and at-large members",
+   "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "accessed 2026-10-11",
+   "https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-2-3-4.html"
+  ],
+  "ic_36_2_5_2": [
+   "Indiana Code 36-2-5-2: Tax rates and appropriations",
+   "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "accessed 2026-10-11",
+   "https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-2-5-2.html"
+  ],
+  "ic_36_2_5_3": [
+   "Indiana Code 36-2-5-3: Compensation of officers and employees",
+   "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "accessed 2026-10-11",
+   "https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-2-5-3.html"
+  ],
+  "ic_36_2_5_11": [
+   "Indiana Code 36-2-5-11: Annual budget, tax rate and salary ordinances",
+   "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "accessed 2026-10-11",
+   "https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-2-5-11.html"
+  ],
+  "boone_comm": [
+   "Commissioners Responsibilities",
+   "Boone County, Indiana",
+   "accessed 2026-10-11",
+   "https://boonecounty.in.gov/offices/commissioners/commissioners-responsibilities"
+  ],
+  "hancock_council": [
+   "About the County Council",
+   "Hancock County, Indiana",
+   "accessed 2026-10-11",
+   "https://hancockin.gov/372/About"
+  ],
+  "ipm_sea1": [
+   "Gov. Mike Braun signs 'historic' property tax relief bill into law, critics call it a 'lose-lose'",
+   "Indiana Public Media (Brandon Smith)",
+   "2025-04-15",
+   "https://www.ipm.org/2025-04-15/gov-mike-braun-signs-historic-property-tax-relief-bill-into-law-critics-call-it-a-lose-lose"
+  ],
+  "btlaw_sea1": [
+   "Major Changes to Expenditure Rate of LIT in SEA 1 (2025)",
+   "Barnes & Thornburg LLP",
+   "2025-05-19",
+   "https://btlaw.com/en/insights/alerts/2025/major-changes-to-expenditure-rate-of-lit-in-sea-1"
+  ],
+  "dlgf_hea1210": [
+   "Legislation Affecting Local Income Taxes (memorandum on HEA 1210-2026)",
+   "Indiana Department of Local Government Finance",
+   "2026-07-17",
+   "https://www.in.gov/dlgf/files/2026-memos/Legislation-Affecting-Local-Income-Taxes.pdf"
+  ],
+  "icc_lit_delay": [
+   "Delay in local income tax changes sets up more legislative debate next year",
+   "Indiana Capital Chronicle via Indiana Public Media (Tom Davies)",
+   "2026-03-23",
+   "https://www.ipm.org/news/2026-03-23/delay-in-local-income-tax-changes-sets-up-more-legislative-debate-next-year"
+  ],
+  "dlgf_county": [
+   "County Specific Information",
+   "Indiana Department of Local Government Finance",
+   "accessed 2026-10-11",
+   "https://www.in.gov/dlgf/county-specific-information/"
+  ],
+  "bsb_monroe_2020": [
+   "Monroe County voters put three incumbent Democrats back on county council",
+   "The B Square Bulletin (Dave Askins)",
+   "2020-11-04",
+   "https://bsquarebulletin.com/monroe-county-voters-put-three-incumbent-democrats-back-on-county-council/"
+  ]
+ }
 }

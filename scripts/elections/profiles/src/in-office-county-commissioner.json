@@ -1,0 +1,16 @@
+{
+ "race_id": "in-office-county-commissioner",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review. This race has not been researched individually yet; this page explains the office.",
+ "office": "@in_county_commissioner",
+ "incumbent": null,
+ "race_context": [
+  "How the seat is elected: the ballot names a commissioner district, and the candidate must live in it, but outside Lake and St. Joseph counties every voter in the county can vote in each commissioner race {in_guide}{ic_36_2_2_5}.",
+  "Finding the current officeholder and record: county websites list commissioners' responsibilities and meeting information, and board agendas and minutes show recent votes on contracts, claims, roads and rezoning requests {boone_comm}{ibj_datacenters}.",
+  "Comparing candidates: the Indiana Election Division publishes the official 2026 candidate list, and county clerks and election boards post sample ballots for each county {in_list}{in_guide}.",
+  "Marion County voters do not see a commissioner race: the elected assessor, auditor and treasurer serve as Marion County's commissioners {indy_enc_comm}."
+ ],
+ "candidates": [],
+ "sources": {}
+}

@@ -1,0 +1,121 @@
+{
+ "race_id": "in-hamilton-county-sheriff",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_sheriff",
+ "incumbent": {
+  "name": "Dennis Quakenbush",
+  "party": "Republican",
+  "summary": "Dennis Quakenbush (Republican) has been Hamilton County sheriff since January 2019 and is term-limited, so he is not on the 2026 ballot {lif_dems_add}. Before taking office he spent 16 years in the sheriff's office, starting as a dispatcher and rising to captain of the Patrol Division {towne_2018}.",
+  "record": [
+   "November 2018: Described as sheriff-elect, set to take office January 1; previously a dispatcher, sergeant and captain of the Patrol Division during 16 years with the office {towne_2018}.",
+   "November 2024: The county council's adopted 2025 budget included salary adjustments for sheriff's deputies and correction officers and authorized two additional deputy positions {reporter_budget_2025}.",
+   "January 2025: The sheriff's office announced an Immigration Commission to take part in the federal 287(g) program with ICE, led by Chief Deputy John Lowes; Quakenbush said the program was meant \"to enhance public safety by identifying and removing criminal illegal aliens from the community.\" Lowes said it would focus on people held in the county jail who had committed a crime, and that victims and witnesses \"don't have to hesitate to call us\" {fox59_287g}.",
+   "2026: Quakenbush endorsed his chief deputy, John Lowes, in the Republican primary for sheriff; Lowes lost to Dustin Dixon {lif_primary}."
+  ]
+ },
+ "race_context": [
+  "Open seat: Sheriff Dennis Quakenbush (Republican) is term-limited {lif_dems_add}.",
+  "May 5, 2026 Republican primary: Lt. Dustin Dixon won with more than 62 percent of the vote over Chief Deputy John Lowes (about 37 percent). No Democrat had filed at that point {lif_primary}.",
+  "July 2, 2026: Charles Hollowell filed as the Democratic candidate at the Hamilton County Clerk's Office, one of four Democrats added to the county ballot {lif_dems_add} {reporter_dems_file}.",
+  "October 6, 2026: Dixon and Hollowell were scheduled to appear together at The Exchange, a breakfast series of the Westfield and Noblesville chambers of commerce {reporter_exchange}. No account of what was said there was found.",
+  "Both candidates are career law-enforcement officers. Dixon is a lieutenant inside the sheriff's office; Hollowell reports more than 25 years in law enforcement {lif_dixon_file} {reporter_hollowell}. Published detail on either candidate's specific plans for the jail, staffing or immigration cooperation is limited."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Charles Hollowell",
+   "summary": "Democratic nominee with more than 25 years of law-enforcement experience, who says he is running to offer \"experienced, transparent, and community-focused leadership\" for the sheriff's office {reporter_hollowell}.",
+   "website": null,
+   "background": [
+    "Reports more than 25 years of law-enforcement experience in a variety of leadership roles; the announcement did not name his agency or rank {reporter_hollowell}.",
+    "Hamilton County resident for nearly 25 years {reporter_hollowell}."
+   ],
+   "path_to_ballot": [
+    "Was not on the May 5, 2026 primary ballot; no Democrat had filed for sheriff by then {lif_primary}.",
+    "Filed paperwork at the Hamilton County Clerk's Office on July 2, 2026, as one of four candidates the county Democratic Party added to the November ballot {lif_dems_add} {reporter_dems_file}."
+   ],
+   "positions": [
+    {"topic": "Transparency", "items": ["Says he would lead the office with a focus on \"professionalism, accountability, and treating every person with dignity and respect\" {reporter_hollowell}."]}
+   ],
+   "on_incumbent": [
+    "No public statements about Sheriff Quakenbush's record were found. His announcement said Hamilton County \"deserves experienced, steady leadership that puts people first\" {reporter_hollowell}."
+   ],
+   "plans": [
+    "Held a campaign kickoff on July 12, 2026, in Westfield {reporter_hollowell}.",
+    "Scheduled to appear with Dixon at the Oct. 6, 2026 chamber of commerce Exchange event {reporter_exchange}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance totals were found in fetched sources."
+   ],
+   "gaps": [
+    "Unverified (search snippet only, from a Current Publishing page that could not be fetched): that he is a lieutenant with the Westfield Police Department.",
+    "Mechanism by which he was placed on the ballot (party ballot-vacancy procedure) was not stated in fetched articles.",
+    "No campaign website, questionnaire answers or detailed positions on the jail, staffing, budget, school safety, drugs or 287(g) were found; a Ballot Brief listing reportedly found no website or questionnaire as of Sept. 8, 2026 (snippet only).",
+    "He did not appear in The Hamilton County Reporter's candidate-submitted bio pages (as of Oct. 7, 2026).",
+    "One photo caption in The Reporter spelled his name \"Holloway\"; the ballot and article text use \"Hollowell\".",
+    "Coverage of him is thin compared with the Republican nominee, who also ran a contested primary."
+   ]
+  },
+  {
+   "ballot_name": "Dustin K. Dixon",
+   "summary": "Republican nominee and lieutenant in the Hamilton County Sheriff's Office, where he has worked since 2002; his campaign is organized around \"Protection, Technology, and Responsibility\" {reporter_dixon_announce} {dixon_site}.",
+   "website": "https://www.dixonforsheriff.com",
+   "background": [
+    "Lieutenant with the Hamilton County Sheriff's Office overseeing day-shift patrol, including animal control and probation security; joined as a merit deputy in 2002 {lif_dixon_file}.",
+    "According to his campaign site: canine handler 2005–2019, promoted to sergeant in 2010 and lieutenant in 2019, led the Investigations Division from December 2019, and returned to patrol as a shift commander in January 2023 {dixon_site}.",
+    "Began county work in 2001 as Pretrial Diversion Coordinator in the Hamilton County Prosecutor's Office {lif_dixon_file} {dixon_site}.",
+    "U.S. Army veteran (field artillery forward observer, 1995–1998); bachelor's degree in criminal justice and criminology from Ball State University {dixon_site}.",
+    "Business partner and client manager at a local security consulting and staffing firm {lif_dixon_file}.",
+    "Member of Fraternal Order of Police Lodge 103 {lif_dixon_file}."
+   ],
+   "path_to_ballot": [
+    "Filed as a Republican candidate in January 2026 {lif_dixon_file}.",
+    "Won the May 5, 2026 Republican primary with more than 62 percent of the vote over Chief Deputy John Lowes {lif_primary}."
+   ],
+   "positions": [
+    {"topic": "Patrol & response", "items": ["Lists \"reducing the influx of violent crime\" as a public-safety priority {dixon_site}; his 2024 announcement described reducing crime through \"data-driven strategies, increased training\" and up-to-date equipment {reporter_dixon_announce}."]},
+    {"topic": "Budget", "items": ["Pledges \"responsible use of tax dollars entrusted to the agency\" {reporter_dixon_announce} {dixon_site}."]},
+    {"topic": "Transparency", "items": ["Said he wants an office that \"listens, responds, and works transparently with our community\" {reporter_dixon_announce}.", "Proposes to \"enhance the use of technology to increase the efficiency and effectiveness of agency operations\" {dixon_site}."]},
+    {"topic": "School safety", "items": ["His campaign biography says he serves on the Hamilton Heights School Corporation Safety Committee; no school-safety platform item was found {dixon_site}."]}
+   ],
+   "on_incumbent": [
+    "No direct statements about Sheriff Quakenbush's record were found. His announcement said it is \"time to move beyond 'policing as usual' and toward true partnership with our residents\" {reporter_dixon_announce}."
+   ],
+   "plans": [
+    "Partner with \"community groups, non-profits and social service agencies\" {dixon_site}.",
+    "Discussed transparency, technology in policing and support for deputies in an April 2026 podcast interview {lif_podcast}."
+   ],
+   "endorsements_finance": [
+    "Former sheriff and retired Indiana State Police Superintendent Doug Carter is his honorary campaign chairman {lif_dixon_file}.",
+    "Endorsed by Fishers Mayor Scott Fadness and Noblesville Mayor Chris Jensen {reporter_fadness}.",
+    "In his own submitted bio, Dixon says he is backed by every living former Hamilton County sheriff, all four Hamilton County Fraternal Order of Police lodges, and Mayors Jensen, Fadness, Willis and Finkham {reporter_bios}.",
+    "His campaign site lists endorsements including former Hamilton County prosecutors Sonia Leerkamp and Greg Garrison and retired Fishers Police Chief George Kehl {dixon_site}.",
+    "No campaign-finance totals were found in fetched sources."
+   ],
+   "gaps": [
+    "Unverified (search snippet only): exact primary tally of 16,603 to 9,861 (62.74 percent).",
+    "Unverified (search snippet only, from a Current Publishing page that returned 403): Dixon's statement that Indiana law now requires sheriffs to honor ICE detainers and \"We're certainly going to follow the law,\" and the article's comparison of his priorities with John Lowes'.",
+    "No detailed published positions on jail operations, corrections staffing or pay, or drug enforcement were found; the podcast audio was not reviewed.",
+    "FOP lodge endorsements are documented only in his own submitted bio."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "lif_primary": ["Hamilton County GOP Primary Effectively Decides Sheriff's Race; Key November Matchups Take Shape", "LarryInFishers.com", "2026-05-05", "https://www.larryinfishers.com/2026/05/05/hamilton-county-gop-primary-effectively-decides-sheriffs-race-key-november-matchups-take-shape/"],
+  "lif_dems_add": ["Hamilton County Democrats Add Four Candidates to November Ballot", "LarryInFishers.com", "2026-07-02", "https://www.larryinfishers.com/2026/07/02/hamilton-county-democrats-add-four-candidates-to-november-ballot/"],
+  "lif_dixon_file": ["Veteran Deputy Dustin Dixon Files as Republican Candidate for Hamilton County Sheriff", "LarryInFishers.com", "2026-01-09", "https://www.larryinfishers.com/2026/01/09/veteran-deputy-dustin-dixon-files-as-republican-candidate-for-hamilton-county-sheriff/"],
+  "lif_podcast": ["Podcast: Dustin Dixon, Republican Candidate, Hamilton County Sheriff", "LarryInFishers.com", "2026-04-14", "https://www.larryinfishers.com/2026/04/14/podcast-dustin-dixon-republican-candidate-hamilton-county-sheriff/"],
+  "reporter_hollowell": ["Hollowell running for Hamilton County Sheriff", "The Hamilton County Reporter", "2026-07-09", "https://readthereporter.com/?p=197236"],
+  "reporter_dems_file": ["Four Democrats file to run for county-wide offices", "The Hamilton County Reporter", "2026-07-07", "https://readthereporter.com/four-democrats-file-to-run-for-county-wide-offices/"],
+  "reporter_exchange": ["Meet the candidates running for Hamilton County Sheriff", "The Hamilton County Reporter", "2026-10-02", "https://readthereporter.com/?p=200340"],
+  "reporter_bios": ["Meet the Candidates (candidate-submitted bios)", "The Hamilton County Reporter", "2026-10-07", "https://readthereporter.com/DailyEdition/2026-10-08-candidates.pdf"],
+  "reporter_dixon_announce": ["Dustin Dixon announces candidacy for Hamilton County Sheriff", "The Hamilton County Reporter", "2024-11-16", "https://readthereporter.com/dustin-dixon-announces-candidacy-for-hamilton-county-sheriff/"],
+  "reporter_fadness": ["Fishers Mayor Scott Fadness endorses Dustin Dixon for Hamilton County Sheriff", "The Hamilton County Reporter", "2026-02-11", "https://readthereporter.com/?p=165757"],
+  "reporter_budget_2025": ["Hamilton County Council wraps 2025 budget hearings", "The Hamilton County Reporter", "2024-11-01", "https://readthereporter.com/?p=134353"],
+  "dixon_site": ["Dixon for Sheriff (campaign website)", "Dixon for Sheriff campaign", "2026-10", "https://www.dixonforsheriff.com"],
+  "fox59_287g": ["Hamilton County introduces new Immigration Commission to 'advance public safety'", "FOX59", "2025-01-27", "https://digital-release.fox59.com/?p=2731151"],
+  "towne_2018": ["Dennis Quakenbush Talks Family, Experience & Goals As New Hamilton County Sheriff", "Towne Post", "2018-11-20", "https://townepost.com/indiana/noblesville/theres-a-new-sheriff-in-town/"]
+ }
+}

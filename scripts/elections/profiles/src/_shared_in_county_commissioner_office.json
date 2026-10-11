@@ -1,4 +1,188 @@
 {
- "office": {"title": "Placeholder", "summary": "Placeholder until the explainer is written {in_list}.", "facts": [], "duties": [], "recent_changes": []},
- "sources": {"in_list": ["2026 General Election Candidate List", "Indiana Election Division", "2026-09-22", "https://www.in.gov/sos/elections/candidate-information/"]}
+ "office": {
+  "title": "Indiana County Commissioner",
+  "summary": "In 91 of Indiana's 92 counties, a three-member board of commissioners is the county executive and conducts the county's business in the board's name {ic_36_2_2_2}{naco_in}. Commissioners administer county government affairs that state law does not assign to a separately elected officer, while the county council, a separate elected body, controls budgets, tax rates and salaries {naco_in}{ic_36_2_5_2}{ic_36_2_5_3}. Marion County is the exception: under the consolidated Indianapolis–Marion County government (Unigov), the mayor holds most executive power, and the elected county assessor, auditor and treasurer serve as the county commissioners, with duties that mostly concern county finances {ic_36_2_2_1}{naco_in}{indy_enc_comm}.",
+  "facts": [
+   {
+    "label": "Term",
+    "value": "4 years, starting January 1 after the election; seats are staggered, so one or two of the three seats are filled at each general election {ic_36_2_2_3}"
+   },
+   {
+    "label": "Elected",
+    "value": "On the partisan general-election ballot; each commissioner represents a district and must live in it, but in every county except Lake and St. Joseph the whole county votes on every commissioner seat; in Lake and St. Joseph counties only the district's voters choose {ic_36_2_2_5}{in_guide}"
+   },
+   {
+    "label": "Term limit",
+    "value": "None stated; the statute that sets the four-year term does not limit how many terms a commissioner may serve {ic_36_2_2_3}"
+   },
+   {
+    "label": "Qualifications",
+    "value": "Must have lived in the county at least one year and in the commissioner district at least six months before the election, and be registered to vote in the election district; a county employee who is elected must leave that county job on taking office {ic_3_8_1_21}{in_guide}"
+   },
+   {
+    "label": "Pay",
+    "value": "Set locally: the county council fixes the compensation of county officers in its annual salary ordinance {ic_36_2_5_3}{ic_36_2_5_11}"
+   },
+   {
+    "label": "On the 2026 ballot",
+    "value": "94 races; 41 contested {in_list}"
+   }
+  ],
+  "duties": [
+   "Acts as the county executive and transacts county business under the name of the board of commissioners {ic_36_2_2_2}.",
+   "Runs the day-to-day administration of county government affairs that the state has not given to a separately elected county officer {naco_in}.",
+   "Serves as the county's legislative body, passing ordinances and resolutions, in every county except Lake, Marion and St. Joseph, where that power belongs to the county council {naco_in}.",
+   "Controls, maintains and supervises county property such as the courthouse, the jail building and county offices {boone_comm}.",
+   "Oversees county roads and bridges, highway records, speed limits and stop signs {boone_comm}.",
+   "Audits and approves claims for payment, takes bids and authorizes county contracts {boone_comm}.",
+   "Prepares the commissioners' part of the county budget and recommends salaries to the county council, which must consider the executive's recommendations before adopting the salary ordinance {boone_comm}{ic_36_2_5_11}.",
+   "Handles zoning, planning, building regulation and economic development matters, and in many counties casts the final vote on rezoning requests such as proposed data centers {boone_comm}{ibj_datacenters}.",
+   "Sets voting precincts and polling places and appoints members of many county boards {boone_comm}.",
+   "Establishes and maintains the county health department and can declare a local disaster emergency {naco_in}.",
+   "Draws the three commissioner districts and the county council districts, outside the largest counties where a commission or the council draws them {ic_36_2_2_4}{ic_36_2_3_4}.",
+   "Does not set the county budget, property tax rate or salaries; those decisions belong to the county council, and no money leaves the county treasury without a council appropriation except as otherwise provided by law {ic_36_2_5_2}{ic_36_2_5_3}{ic_36_2_5_11}.",
+   "Does not run the offices of other elected county officials such as the sheriff, auditor or treasurer, which are separately elected {naco_in}."
+  ],
+  "recent_changes": [
+   "2023: Under Senate Enrolled Act 4, the Health First Indiana public health fund required counties to opt in; Huntington County's commissioners, for example, voted to opt in in June 2023, and 86 counties covering about 96% of Hoosiers received funding while Whitley, Wells, Fountain, Johnson, Crawford and Harrison counties did not opt in {huntington_hfi}{iib_hfi}.",
+   "2023: State law gave counties with 185,000 to 300,000 residents until September 1, 2023, to opt in to electing commissioners from three single-member districts with a nine-member council elected entirely by district {ic_36_2_2_4}{ic_36_2_2_5}{ic_36_2_3_2}{ic_36_2_3_4}.",
+   "2025: Commissioners in several counties faced data center rezoning requests; in Kosciusko County, commissioners did not approve a rezoning for a proposed Prologis data center after opposition from residents, and the Indianapolis Business Journal reported that a 2019 state law offers qualified data center operators tax breaks of up to 50 years {ibj_datacenters}.",
+   "April 15, 2025: Gov. Mike Braun signed Senate Enrolled Act 1, a property tax law he called historic tax relief; Rep. Greg Porter (D-Indianapolis) said it would cost local governments and schools up to $1.8 billion over three years, and the law also gives local governments new income tax tools {ipm_sea1}.",
+   "March 12, 2026: House Enrolled Act 1210 delayed SEA 1's local income tax overhaul by one year, so current county income tax ordinances now expire January 1, 2029, and it lets counties create a Municipal Unit Strategic Taskforce of county and city representatives to negotiate how income tax revenue is shared {dlgf_hea1210}{icc_lit_delay}."
+  ]
+ },
+ "sources": {
+  "in_list": [
+   "2026 General Election Candidate List",
+   "Indiana Election Division",
+   "2026-09-22",
+   "https://www.in.gov/sos/elections/candidate-information/"
+  ],
+  "in_guide": [
+   "2026 Indiana Candidate Guide",
+   "Indiana Election Division",
+   "accessed 2026-10-11",
+   "https://www.in.gov/sos/elections/files/2026-Candidate-Guide.FINAL.pdf"
+  ],
+  "naco_in": [
+   "County Government Overview: Indiana",
+   "National Association of Counties (NACo)",
+   "2022-01",
+   "https://www.naco.org/sites/default/files/event_attachments/DRAFT_Indiana_012022.pdf"
+  ],
+  "ic_36_2_2_1": [
+   "Indiana Code 36-2-2-1: Application of chapter",
+   "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "accessed 2026-10-11",
+   "https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-2-2-1.html"
+  ],
+  "ic_36_2_2_2": [
+   "Indiana Code 36-2-2-2: Board of commissioners as county executive",
+   "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "accessed 2026-10-11",
+   "https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-2-2-2.html"
+  ],
+  "ic_36_2_2_3": [
+   "Indiana Code 36-2-2-3: Election and term of executive",
+   "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "accessed 2026-10-11",
+   "https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-2-2-3.html"
+  ],
+  "ic_36_2_2_4": [
+   "Indiana Code 36-2-2-4: Commissioner districts",
+   "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "accessed 2026-10-11",
+   "https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-2-2-4.html"
+  ],
+  "ic_36_2_2_5": [
+   "Indiana Code 36-2-2-5: Qualifications and residency of members; district or countywide election",
+   "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "accessed 2026-10-11",
+   "https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-2-2-5.html"
+  ],
+  "ic_3_8_1_21": [
+   "Indiana Code 3-8-1-21: Candidates for county commissioner",
+   "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "accessed 2026-10-11",
+   "https://codes.findlaw.com/in/title-3-elections/in-code-sect-3-8-1-21.html"
+  ],
+  "ic_36_2_3_2": [
+   "Indiana Code 36-2-3-2: County council as fiscal body; size",
+   "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "accessed 2026-10-11",
+   "https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-2-3-2.html"
+  ],
+  "ic_36_2_3_4": [
+   "Indiana Code 36-2-3-4: Council districts and at-large members",
+   "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "accessed 2026-10-11",
+   "https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-2-3-4.html"
+  ],
+  "ic_36_2_5_2": [
+   "Indiana Code 36-2-5-2: Tax rates and appropriations",
+   "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "accessed 2026-10-11",
+   "https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-2-5-2.html"
+  ],
+  "ic_36_2_5_3": [
+   "Indiana Code 36-2-5-3: Compensation of officers and employees",
+   "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "accessed 2026-10-11",
+   "https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-2-5-3.html"
+  ],
+  "ic_36_2_5_11": [
+   "Indiana Code 36-2-5-11: Annual budget, tax rate and salary ordinances",
+   "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "accessed 2026-10-11",
+   "https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-2-5-11.html"
+  ],
+  "boone_comm": [
+   "Commissioners Responsibilities",
+   "Boone County, Indiana",
+   "accessed 2026-10-11",
+   "https://boonecounty.in.gov/offices/commissioners/commissioners-responsibilities"
+  ],
+  "indy_enc_comm": [
+   "Marion County Commissioners",
+   "Encyclopedia of Indianapolis (Thomas C. Kennedy)",
+   "2021-03",
+   "https://indyencyclopedia.org/marion-county-commissioners"
+  ],
+  "ipm_sea1": [
+   "Gov. Mike Braun signs 'historic' property tax relief bill into law, critics call it a 'lose-lose'",
+   "Indiana Public Media (Brandon Smith)",
+   "2025-04-15",
+   "https://www.ipm.org/2025-04-15/gov-mike-braun-signs-historic-property-tax-relief-bill-into-law-critics-call-it-a-lose-lose"
+  ],
+  "dlgf_hea1210": [
+   "Legislation Affecting Local Income Taxes (memorandum on HEA 1210-2026)",
+   "Indiana Department of Local Government Finance",
+   "2026-07-17",
+   "https://www.in.gov/dlgf/files/2026-memos/Legislation-Affecting-Local-Income-Taxes.pdf"
+  ],
+  "icc_lit_delay": [
+   "Delay in local income tax changes sets up more legislative debate next year",
+   "Indiana Capital Chronicle via Indiana Public Media (Tom Davies)",
+   "2026-03-23",
+   "https://www.ipm.org/news/2026-03-23/delay-in-local-income-tax-changes-sets-up-more-legislative-debate-next-year"
+  ],
+  "ibj_datacenters": [
+   "Indiana state officials want to attract data centers. Local communities are beginning to push back",
+   "Indianapolis Business Journal via Inside INdiana Business (Marek Mazurek)",
+   "2025-05-01",
+   "https://www.insideindianabusiness.com/articles/indiana-state-officials-want-to-attract-data-centers-local-communities-are-beginning-to-push-back"
+  ],
+  "iib_hfi": [
+   "County health departments see $75M public health investment",
+   "Indianapolis Business Journal via Inside INdiana Business (Cate Charron)",
+   "2024-01-04",
+   "https://www.insideindianabusiness.com/articles/county-health-departments-see-75m-public-health-investment"
+  ],
+  "huntington_hfi": [
+   "Huntington County opts in to Health First Indiana Fund",
+   "Huntington County Health Department",
+   "accessed 2026-10-11",
+   "https://secure.in.gov/localhealth/huntingtoncounty/news-resources/huntington-county-opts-in-to-health-first-indiana-fund/"
+  ]
+ }
 }
