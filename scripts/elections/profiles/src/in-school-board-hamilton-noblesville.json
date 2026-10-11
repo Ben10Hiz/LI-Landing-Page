@@ -1,0 +1,263 @@
+{
+ "race_id": "in-school-board-hamilton-noblesville",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Noblesville Schools serves the Noblesville area of Hamilton County. Dr. Dan Hile is superintendent {rep_nbl_ref_june}. Board member Joe Forgey's campaign announcement refers to the district's \"10,000-plus students\" {rep_forgey}. A July 2026 letter writer opposing the referendum said enrollment has fallen by more than 500 students since 2018; the district has not been quoted on that figure in the sources reviewed {rep_eiler}.",
+  "The Board of Trustees has five members, all elected at large: Christi Crosser (president), Stephanie Lambert, Joe Forgey, Bret Richardson and Misti Ray {nbl_board} {rep_nbl_resolution}.",
+  "Two at-large seats are on the Nov. 3, 2026 ballot, even though the state list shows \"vote for 1.\" The district said three candidates are running for two open seats: Denise Dye, Joe Forgey (incumbent) and Misti Ray (incumbent) {rep_forum_announce}. Forgey (on the board since January 2019) and Ray (since January 2023) hold the two seats up this year {nbl_board} {rep_forgey}. Crosser, Lambert and Richardson were elected in 2020 or 2024 and are not on the ballot {nbl_board}. All three candidates are listed as Republicans on the state list {in_list}.",
+  "Referendum: the board approved placing an operating referendum (Public Question 3) on the ballot at its June 9, 2026 meeting {rep_nbl_ref_june}. The 2018 referendum, at 37 cents per $100 of assessed value, expires at the end of 2026. The district says it brings in about $25 million a year, roughly 20% of the operating budget. The new question asks for a maximum of 57 cents and up to $43.8 million a year for eight years {nbl_ref}. The district says the higher maximum is needed because the 2025 property-tax law (SEA 1) reduces school revenue {nbl_ref}.",
+  "Rate commitment and cost: in August the board adopted a resolution committing to a 38.5-cent rate in 2027 and increases of no more than 4 cents a year. The district estimates the average increase for a $350,000 home at $1.88 a month over eight years, down from its June estimate of $2.30 {rep_nbl_resolution} {rep_nbl_rate} {rep_nbl_ref_june}. The state-required ballot language shows a $955 annual increase for a $350,000 median home; the district says that figure assumes no existing referendum and the full 57-cent rate {nbl_ref} {rep_hile_col}.",
+  "Possible cuts: in his annual Noblesville Chamber State of the Schools presentation (posted by the district in early October 2026), Hile listed what could be cut if the referendum fails. The list included about 20% of staff (for example, 145 teachers), STEM and career courses, elementary specials, arts programs, school resource officers and counselors, larger class sizes, and the closing of an elementary school {nbl_cuts}.",
+  "Referendum debate: the OneZone Chamber endorsed the referendum {rep_onezone}. Cody White, a Noblesville resident and state director of Americans for Prosperity-Indiana, wrote that he will vote no. He argued that the 2018 levy was meant to expire and that the board should have planned for it {rep_white}. The district says it has lowered its share of the tax rate for seven straight years, frozen administrator pay and cut costs {nbl_ref} {rep_hile_col}.",
+  "Staffing: in August 2026 the district reported that teacher turnover fell by half over five years and teacher retention is above 93%. It credits salaries paid in part with referendum money, among other factors {rep_retention}.",
+  "Forums: Noblesville High School student journalists held a candidate forum on Sept. 21, 2026 with Dye, Ray and Forgey; it was livestreamed and recorded {rep_forum} {rep_forum_announce}. The recording could not be reviewed for this profile. Letters to The Reporter have tied the board race to the referendum: one urged votes for Forgey and Ray {rep_hartig}, and another urged a no vote on the referendum and a vote for Dye only {rep_vaught}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Denise M Dye",
+   "seat": "At Large",
+   "summary": "Challenger for one of two at-large seats, listed as a Republican on the state list {rep_forum_announce} {in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Filed as a candidate for the Noblesville Schools Board of Trustees {rep_forum_announce}. Listed as a Republican on the state list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement from Dye herself was found. In an Oct. 9, 2026 letter to The Reporter, resident Gary Vaught criticized the current board's handling of referendum revenue and urged a vote for Dye only. He wrote that Dye \"promises to get to the bottom of\" how referendum revenue above the 2018 projection was spent. That is his description, not a statement from Dye {rep_vaught}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "Gary Vaught's letter to the editor urged voters to back Dye {rep_vaught}. No campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, social media page, news profile or questionnaire from Dye was found. Her background and positions are unknown.",
+    "She took part in the Sept. 21 student-led forum, but the recording could not be reviewed.",
+    "No statement from Dye on the 2026 operating referendum was found. The letter linking her to opposition to the referendum is a third party's view."
+   ]
+  },
+  {
+   "ballot_name": "Joe Forgey",
+   "seat": "At Large",
+   "summary": "Incumbent seeking a third term; retired pediatric dentist and board member since January 2019, listed as a Republican {nbl_board} {rep_forgey} {in_list}.",
+   "website": null,
+   "background": [
+    "Retired founding partner of Pediatric Dentistry of Noblesville; graduate of Butler University and the Indiana University School of Dentistry {nbl_board}.",
+    "Elected in November 2018 and took office in January 2019 {nbl_board}. Serves on the Noblesville Parks Board and has coached youth basketball and soccer {nbl_board} {rep_forgey}.",
+    "His children attended Noblesville Schools and some of his grandchildren attend now {nbl_board}."
+   ],
+   "path_to_ballot": [
+    "Announced a bid for a third term in May 2026 {rep_forgey}. Listed as a Republican on the state list {in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "His announcement cited a property-tax rate cut seven years in a row, the state's highest school credit rating, faster debt payoff and the district's Dollars + $ense finance website, and said he wants to be \"smart with every tax dollar\" {rep_forgey}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Said his goal is \"to make sure our kids are ready for whatever comes next,\" pointing to the district's STEM and Advanced Placement recognitions and workforce-development programs {rep_forgey}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Lists recruiting and keeping staff during a labor shortage, and hiring Superintendent Dan Hile, among the board's accomplishments during his terms {rep_forgey}."
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "Lists increased school safety, suicide prevention and mental health support as accomplishments {rep_forgey}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member. He calls Noblesville Schools \"a model district\" and says he is running \"to keep this momentum going\" {rep_forgey}. He is on the board that placed the referendum on the ballot and adopted the August rate commitment {rep_nbl_ref_june} {rep_nbl_resolution}."
+   ],
+   "plans": [
+    "Lists facility renovations and expansions and a district solar power initiative among the work he wants to continue {rep_forgey}."
+   ],
+   "endorsements_finance": [
+    "Endorsed by Noblesville Mayor Chris Jensen {rep_forgey}.",
+    "A Sept. 24 letter from Chris Hartig, a Noblesville Democratic precinct chair, supported Forgey and Ray {rep_hartig}.",
+    "No campaign finance reports were found."
+   ],
+   "gaps": [
+    "No direct statement from Forgey on the 2026 referendum or SEA 1 was found beyond the board's collective actions. His remarks at the Sept. 21 forum could not be reviewed.",
+    "His campaign has a Facebook page ('Joe Forgey for School Board'), which was not reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Misti Ray",
+   "seat": "At Large",
+   "summary": "Incumbent seeking a second term; Realtor and former substitute teacher on the board since January 2023, listed as a Republican {nbl_board} {in_list}.",
+   "website": "https://mistirayformillers.wixsite.com/mrayforschoolboard",
+   "background": [
+    "Realtor (since 2009) and cosmetologist who has worked as a substitute teacher in the district; Noblesville High School graduate {nbl_board} {ray_about}.",
+    "Elected in November 2022 and took office in January 2023 {nbl_board}. Has served as a PTO president and on district curriculum and reading review committees {ray_about} {nbl_board}.",
+    "Parent of students in the district {ray_about}."
+   ],
+   "path_to_ballot": [
+    "Running for re-election {rep_forum_announce} {ray_about}. Listed as a Republican on the state list {in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Says \"attracting and retaining excellent teachers and staff is essential to strong schools\" {ray_about}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Says she will keep focusing on \"partnership, trust, transparency & communication\" among administrators, teachers, parents and the community {ray_why}."
+     ]
+    },
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Lists \"responsible stewardship of taxpayer dollars\" among her commitments {ray_about}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Lists strong academics and opportunities for students \"regardless of the path they choose after graduation\" {ray_about}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member. She says the board has \"made meaningful progress\" strengthening partnerships with parents and teachers, but \"there is still work to do\" {ray_why}. She says voters can expect her \"to continue asking questions\" {ray_why}. She is on the board that placed the referendum on the ballot and adopted the August rate commitment {rep_nbl_ref_june} {rep_nbl_resolution}."
+   ],
+   "plans": [
+    "Says she wants to be a voice for teachers, parents and residents without school-age children {ray_why}."
+   ],
+   "endorsements_finance": [
+    "A Sept. 24 letter from Chris Hartig, a Noblesville Democratic precinct chair, supported Ray and Forgey, saying Ray \"is not afraid to ask the tough questions\" {rep_hartig}.",
+    "Her campaign site takes donations; no contribution totals were found {ray_why}."
+   ],
+   "gaps": [
+    "No direct statement from Ray on the 2026 referendum or SEA 1 was found. Her remarks at the Sept. 21 forum could not be reviewed.",
+    "Search snippets said she won in 2022 with 8,155 votes and ran alongside Melba Kiser that year. Unverified."
+   ]
+  }
+ ],
+ "sources": {
+  "nbl_board": [
+   "School Board",
+   "Noblesville Schools",
+   "2026-10",
+   "https://www.noblesvilleschools.org/leadership/school-board"
+  ],
+  "nbl_ref": [
+   "Referendum 2026",
+   "Noblesville Schools",
+   "2026-10",
+   "https://www.noblesvilleschools.org/referendum"
+  ],
+  "nbl_cuts": [
+   "Noblesville Schools Announces Potential Cuts, School Closure if Referendum is Not Continued",
+   "Noblesville Schools",
+   "2026-10",
+   "https://www.noblesvilleschools.org/news-details/~board/ns-news/post/potential-cuts-school-closure"
+  ],
+  "rep_nbl_ref_june": [
+   "Noblesville Schools seeks community's reapproval of operating referendum",
+   "The Reporter",
+   "2026-06-11",
+   "https://readthereporter.com/noblesville-schools-seeks-communitys-reapproval-of-operating-referendum/"
+  ],
+  "rep_hile_col": [
+   "Superintendent Hile makes case for Noblesville operating referendum",
+   "The Reporter",
+   "2026-07-16",
+   "https://readthereporter.com/superintendent-hile-makes-case-for-noblesville-operating-referendum/"
+  ],
+  "rep_nbl_rate": [
+   "Noblesville Schools lowers referendum rate & launches new tax levy calculator",
+   "The Reporter",
+   "2026-08-13",
+   "https://readthereporter.com/noblesville-schools-lowers-referendum-rate-launches-new-tax-levy-calculator/"
+  ],
+  "rep_nbl_resolution": [
+   "Noblesville School Board commits to lower, incremental referendum rates",
+   "The Reporter",
+   "2026-08-20",
+   "https://readthereporter.com/noblesville-school-board-commits-to-lower-incremental-referendum-rates/"
+  ],
+  "rep_retention": [
+   "Noblesville Schools reduces teacher turnover by 50%, announces 93% teacher retention rate",
+   "The Reporter",
+   "2026-08-27",
+   "https://readthereporter.com/noblesville-schools-reduces-teacher-turnover-by-50-announces-93-teacher-retention-rate/"
+  ],
+  "rep_onezone": [
+   "OneZone Chamber announces endorsement of five Hamilton County school referendums",
+   "The Reporter",
+   "2026-09-17",
+   "https://readthereporter.com/onezone-chamber-announces-endorsement-of-five-hamilton-county-school-referendums/"
+  ],
+  "rep_white": [
+   "Noblesville taxpayers kept their end of the deal (guest column)",
+   "The Reporter",
+   "2026-10-08",
+   "https://readthereporter.com/noblesville-taxpayers-kept-their-end-of-the-deal/"
+  ],
+  "rep_eiler": [
+   "Noblesville reader questions narrative around school operating referendum (letter)",
+   "The Reporter",
+   "2026-07-02",
+   "https://readthereporter.com/noblesville-reader-questions-narrative-around-school-operating-referendum/"
+  ],
+  "rep_forgey": [
+   "Forgey announces Noblesville School Board reelection bid, endorsed by Mayor Chris Jensen",
+   "The Reporter",
+   "2026-05-21",
+   "https://readthereporter.com/forgey-announces-noblesville-school-board-reelection-bid-endorsed-by-mayor-chris-jensen/"
+  ],
+  "rep_forum_announce": [
+   "Noblesville High School students to lead school board candidate forum",
+   "The Reporter",
+   "2026-09-09",
+   "https://readthereporter.com/noblesville-high-school-students-to-lead-school-board-candidate-forum/"
+  ],
+  "rep_forum": [
+   "Noblesville High School journalists interview school board candidates",
+   "The Reporter",
+   "2026-09-23",
+   "https://readthereporter.com/noblesville-high-school-journalists-interview-school-board-candidates/"
+  ],
+  "rep_hartig": [
+   "Beyond party lines in school board elections (letter)",
+   "The Reporter",
+   "2026-09-24",
+   "https://readthereporter.com/beyond-party-lines-in-school-board-elections/"
+  ],
+  "rep_vaught": [
+   "Noblesville voter explains why he cannot support another referendum (letter)",
+   "The Reporter",
+   "2026-10-09",
+   "https://readthereporter.com/noblesville-voter-explains-why-he-cannot-support-another-referendum/"
+  ],
+  "ray_about": [
+   "About Me",
+   "Misti Ray campaign",
+   "2026-10",
+   "https://mistirayformillers.wixsite.com/mrayforschoolboard/about-me"
+  ],
+  "ray_why": [
+   "Why Misti?",
+   "Misti Ray campaign",
+   "2026-10",
+   "https://mistirayformillers.wixsite.com/mrayforschoolboard/why-misti"
+  ]
+ }
+}
