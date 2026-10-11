@@ -54,6 +54,65 @@ A school board is the elected or appointed governing body of a public school cor
 - Other 2026 actions: the board approved policy updates from NEOLA, its policy service, and a new support staff salary scale on June 15, 2026 [37], and a staff handbook on Aug. 17, 2026 [27]. Grove reported a $24,999 Digital Learning Grant for grades K-3 in June and a 90.2% IREAD passing rate in August [37, 27].
 - Forums: this guide found no 2026 candidate forum, questionnaire or news coverage of the candidates' views. The board meets at 6:30 p.m. on the third Monday of each month in the high school Connection Center, with work sessions at 5:15 p.m. [29]; minutes are posted on the district website [38].
 
+## Jared L Albright — District 1
+
+Incumbent and board vice president, running for the District 1 seat as an Independent [29, 6].
+
+### Background
+
+- Elected board vice president and named the board's representative to the Redevelopment Commission on Jan. 12, 2026 [29].
+
+### Path to the ballot
+
+- Listed for the District 1 seat as an Independent; he is the only candidate [6].
+
+### On the current officeholder
+
+- Is a current board member [29]. Minutes from June and August 2026 show him voting with the rest of the board on personnel, policy, salary and financial items [37, 27]. No statement from him on the board's record was found.
+
+### Endorsements & fundraising
+
+- No endorsements or campaign finance reports were found.
+
+### What we couldn't verify
+
+- When he first joined the board, and whether by election or appointment, could not be confirmed.
+- Occupation and community roles could not be found.
+- He is unopposed on the ballot, so voters may see little campaigning.
+- No campaign website, social media page, questionnaire, forum remarks or news coverage of this campaign were found.
+- No stated positions on the budget, academics, staffing, safety, facilities or policies were found.
+- Greene County campaign finance filings for school board candidates were not found online.
+
+## Byron M Goodman — District 2
+
+Incumbent and board president, running for the District 2 seat as Nonpartisan [29, 6].
+
+### Background
+
+- Elected board president on Jan. 12, 2026 [29]. An earlier district 'Meet the Board' page, which lists Eric Wilson as president, lists him as vice president [39].
+- The board approved him as a volunteer boys basketball coach on Aug. 17, 2026; he abstained from that vote [27].
+
+### Path to the ballot
+
+- Listed for the District 2 seat as Nonpartisan; he is the only candidate [6].
+
+### On the current officeholder
+
+- Is a current board member and president [29]. Minutes from June and August 2026 show him voting with the rest of the board on personnel, policy, salary and financial items [37, 27]. No statement from him on the board's record was found.
+
+### Endorsements & fundraising
+
+- No endorsements or campaign finance reports were found.
+
+### What we couldn't verify
+
+- When he first joined the board, and whether by election or appointment, could not be confirmed.
+- Occupation and community roles could not be found.
+- He is unopposed on the ballot, so voters may see little campaigning.
+- No campaign website, social media page, questionnaire, forum remarks or news coverage of this campaign were found.
+- No stated positions on the budget, academics, staffing, safety, facilities or policies were found.
+- Greene County campaign finance filings for school board candidates were not found online.
+
 ## Curtis W Passen — At Large
 
 Challenger for the At Large seat; filed as an Independent [6].
@@ -106,65 +165,6 @@ Appears to be current board member and secretary Shannon Morrison; running for t
 - This guide did not find a source confirming that ballot candidate Paul Shannon Morrison is board member Shannon Morrison.
 - When he first joined the board and whether he holds the At Large seat now could not be confirmed.
 - Occupation and community roles could not be found.
-- No campaign website, social media page, questionnaire, forum remarks or news coverage of this campaign were found.
-- No stated positions on the budget, academics, staffing, safety, facilities or policies were found.
-- Greene County campaign finance filings for school board candidates were not found online.
-
-## Jared L Albright — District 1
-
-Incumbent and board vice president, running for the District 1 seat as an Independent [29, 6].
-
-### Background
-
-- Elected board vice president and named the board's representative to the Redevelopment Commission on Jan. 12, 2026 [29].
-
-### Path to the ballot
-
-- Listed for the District 1 seat as an Independent; he is the only candidate [6].
-
-### On the current officeholder
-
-- Is a current board member [29]. Minutes from June and August 2026 show him voting with the rest of the board on personnel, policy, salary and financial items [37, 27]. No statement from him on the board's record was found.
-
-### Endorsements & fundraising
-
-- No endorsements or campaign finance reports were found.
-
-### What we couldn't verify
-
-- When he first joined the board, and whether by election or appointment, could not be confirmed.
-- Occupation and community roles could not be found.
-- He is unopposed on the ballot, so voters may see little campaigning.
-- No campaign website, social media page, questionnaire, forum remarks or news coverage of this campaign were found.
-- No stated positions on the budget, academics, staffing, safety, facilities or policies were found.
-- Greene County campaign finance filings for school board candidates were not found online.
-
-## Byron M Goodman — District 2
-
-Incumbent and board president, running for the District 2 seat as Nonpartisan [29, 6].
-
-### Background
-
-- Elected board president on Jan. 12, 2026; the minutes show the board listing him as vice president before that [29, 39].
-- The board approved him as a volunteer boys basketball coach on Aug. 17, 2026; he abstained from that vote [27].
-
-### Path to the ballot
-
-- Listed for the District 2 seat as Nonpartisan; he is the only candidate [6].
-
-### On the current officeholder
-
-- Is a current board member and president [29]. Minutes from June and August 2026 show him voting with the rest of the board on personnel, policy, salary and financial items [37, 27]. No statement from him on the board's record was found.
-
-### Endorsements & fundraising
-
-- No endorsements or campaign finance reports were found.
-
-### What we couldn't verify
-
-- When he first joined the board, and whether by election or appointment, could not be confirmed.
-- Occupation and community roles could not be found.
-- He is unopposed on the ballot, so voters may see little campaigning.
 - No campaign website, social media page, questionnaire, forum remarks or news coverage of this campaign were found.
 - No stated positions on the budget, academics, staffing, safety, facilities or policies were found.
 - Greene County campaign finance filings for school board candidates were not found online.
