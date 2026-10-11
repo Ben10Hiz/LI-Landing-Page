@@ -1,0 +1,202 @@
+{
+  "race_id": "in-school-board-eastern-greene",
+  "reviewed": "2026-10-10",
+  "status": "draft",
+  "status_note": "Pending editorial review.",
+  "office": "@in_school_board",
+  "incumbent": null,
+  "race_context": [
+    "Eastern Greene Schools is a Greene County school district with an elementary school, a middle school, a high school and an Early Learning Center. Superintendent Doug Lewis signs its 2026-27 welcome letter {eg_welcome}{gcdw_seats}{eg_min260112}.",
+    "Doug Lewis was new to the superintendent's job in November 2024, when the Greene County Daily World reported on his early board meetings {gcdw_nov24}. In July 2026 the board approved his superintendent contract 5-0 {eg_min260713}.",
+    "The board has seven members: Scott Carmichael (president), Kim Waldridge (vice president), Sharon Abts (secretary), Mike Adams, Dennis Crowe, Natalie Crowe and Heather Hudson {eg_board}{eg_min260112}.",
+    "Four seats were elected at large in November 2024, won by Scott Carmichael, Heather M. Hudson, Natalie O. Crowe and Sharon C. Abts {gcdw_res24}. The 2026 ballot has three seats tied to townships: Beech Creek, Center and Jackson {gcdw_seats}{in_list}.",
+    "Of the three board members not elected in 2024, Dennis Crowe is running for the Center seat and Kim Waldridge for the Jackson seat. Mike Adams is not on the ballot. The sources reviewed do not say which township seat each member holds now {eg_board}{gcdw_res24}{gcdw_seats}{in_list}.",
+    "Two of the three races are uncontested: Marilyn Leanne Burch is the only candidate in Beech Creek and Kimberly Waldridge the only candidate in Jackson. Center is contested between Dennis Crowe (Republican) and Jason Carmichael (Independent) {in_list}{gcdw_seats}.",
+    "Facilities and debt: in October 2025 the board held a hearing on and adopted a resolution for a 2025 General Obligation Bond project. That fall it accepted bids for an Early Learning Center renovation, low-slope and shingled roof work, and high school ADA restroom parking. In April 2026 it approved bids under the high school bond and lease bond projects {eg_min251013}{eg_min251110}{eg_min260413}.",
+    "Superintendent Lewis's 2026-27 letter lists a new roof at the elementary and middle school, work at the high school on parking lots, HVAC controls and the track and field complex, and an expanded Early Learning Center {eg_welcome}.",
+    "Land: in October 2025 the board voted 6-0 to buy 29.5 acres directly north of the high school for $319,250 {eg_min251013}.",
+    "Budget: in October 2025 the board adopted the 2026 budget, capital projects plan and bus replacement plan. At the same meeting it authorized tax anticipation warrants for 2026 and moved $100,000 from the Operations Fund to the Rainy Day Fund {eg_min251013}. In June 2026 it hired Harmon Consulting for budget assistance and set a $25-per-season athletic transportation fee for athletes in grades 5-12. In August 2026 it voted 7-0 to advertise the 2027 budget {eg_min260608}{eg_min260810}. The minutes reviewed do not discuss the effect of the 2025 property-tax law (SEA 1) or any referendum.",
+    "Planning and staffing: in June 2026 the board approved foundational statements for a strategic plan {eg_min260608}. It ratified the 2025-26 teachers' agreement in November 2025 {eg_min251110}, and in August 2026 it approved joining the ROI Ready Schools Cohort 5 {eg_min260810}.",
+    "No candidate forum, questionnaire or candidate profile for the 2026 Eastern Greene races was found. The Greene County Daily World listed the Eastern Greene seats and candidates on Sept. 18, 2026 {gcdw_seats}."
+  ],
+  "candidates": [
+    {
+      "ballot_name": "Marilyn Leanne Burch",
+      "seat": "Beech Creek",
+      "summary": "Unopposed candidate for the Beech Creek seat, listed as nonpartisan; no candidate statements were found {in_list}{gcdw_seats}.",
+      "website": null,
+      "background": [
+        "No published biography was found."
+      ],
+      "path_to_ballot": [
+        "Listed on the state candidate list as nonpartisan for the Beech Creek seat, with no opponent {in_list}.",
+        "The Greene County Daily World lists her as 'Marilyn Burch' for Beech Creek {gcdw_seats}."
+      ],
+      "positions": [],
+      "on_incumbent": [
+        "No statements found."
+      ],
+      "plans": [],
+      "endorsements_finance": [
+        "None found."
+      ],
+      "gaps": [
+        "No biography, questionnaire, forum appearance, website or campaign finance filing was found.",
+        "Not established whether the current Beech Creek board member is running; that member appears to be Mike Adams, who is not on the ballot, but no source confirms his township seat."
+      ]
+    },
+    {
+      "ballot_name": "Dennis Crowe",
+      "seat": "Center",
+      "summary": "Incumbent: a current board member and 2026 president of the Board of Finance, running for the Center seat as a Republican {eg_board}{eg_min260112}{in_list}.",
+      "website": null,
+      "background": [
+        "Current member of the Eastern Greene Board of School Trustees {eg_board}.",
+        "Elected president of the board's Board of Finance for 2026 {eg_min260112}."
+      ],
+      "path_to_ballot": [
+        "Listed on the state candidate list as a Republican for the Center seat {in_list}{gcdw_seats}."
+      ],
+      "positions": [],
+      "on_incumbent": [
+        "Is a current board member. He moved or seconded several 2025-26 actions recorded in board minutes, all of which passed without opposition: the 2026 budget transfer resolution and the 2025 GO bond hearing (October 2025), the Early Learning Center renovation bid and 2025-26 teachers' agreement (November 2025), the Harmon Consulting budget contract (June 2026), the superintendent contract (July 2026) and advertising the 2027 budget (August 2026) {eg_min251013}{eg_min251110}{eg_min260608}{eg_min260713}{eg_min260810}.",
+        "No campaign statements describing his view of the board's record were found."
+      ],
+      "plans": [],
+      "endorsements_finance": [
+        "None found."
+      ],
+      "gaps": [
+        "No campaign statement, questionnaire, forum appearance, website or finance filing was found.",
+        "Occupation and other background not found."
+      ]
+    },
+    {
+      "ballot_name": "Jason Carmichael",
+      "seat": "Center",
+      "summary": "Candidate for the Center seat, listed as an Independent; no candidate statements were found {in_list}.",
+      "website": null,
+      "background": [
+        "No published biography was found."
+      ],
+      "path_to_ballot": [
+        "Listed on the state candidate list as an Independent for the Center seat {in_list}.",
+        "The Greene County Daily World's Sept. 18, 2026 list gives the Center candidate's name as 'Jacob Carmichael, Independent' {gcdw_seats}."
+      ],
+      "positions": [],
+      "on_incumbent": [
+        "No statements found."
+      ],
+      "plans": [],
+      "endorsements_finance": [
+        "None found."
+      ],
+      "gaps": [
+        "Name discrepancy: the state list says Jason Carmichael and the Greene County Daily World says Jacob Carmichael. Confirm with the Greene County clerk.",
+        "District minutes list a 'Jacob Carmichael' as a JV coach. It is not established that this is the candidate, so it is not used.",
+        "It is not established whether he is related to board president Scott Carmichael.",
+        "No biography, questionnaire, forum appearance, website or finance filing was found."
+      ]
+    },
+    {
+      "ballot_name": "Kimberly Waldridge",
+      "seat": "Jackson",
+      "summary": "Incumbent: the board's 2026 vice president, unopposed for the Jackson seat and listed as nonpartisan {eg_board}{eg_min260112}{in_list}.",
+      "website": null,
+      "background": [
+        "Current member of the Eastern Greene Board of School Trustees, elected vice president for 2026 {eg_board}{eg_min260112}."
+      ],
+      "path_to_ballot": [
+        "Listed on the state candidate list as nonpartisan for the Jackson seat, with no opponent {in_list}{gcdw_seats}."
+      ],
+      "positions": [],
+      "on_incumbent": [
+        "Is a current board member. She moved or seconded several 2025-26 actions recorded in board minutes, all of which passed without opposition: adopting the 2026 budget, the Rainy Day Fund transfer and the GO bond hearing (October 2025), the 29.5-acre land purchase (October 2025) and the strategic-plan foundational statements (June 2026) {eg_min251013}{eg_min260608}.",
+        "No campaign statements describing her view of the board's record were found."
+      ],
+      "plans": [],
+      "endorsements_finance": [
+        "None found."
+      ],
+      "gaps": [
+        "No campaign statement, questionnaire, forum appearance, website or finance filing was found.",
+        "Occupation and other background not found."
+      ]
+    }
+  ],
+  "review_flags": [],
+  "sources": {
+    "gcdw_seats": [
+      "School board seats on the ballot this November",
+      "Greene County Daily World",
+      "2026-09-18",
+      "https://www.suncommercial.com/gcdailyworld/article_f7fcb2d0-1b6d-54fe-a0b5-0c3e028bac72.html"
+    ],
+    "gcdw_res24": [
+      "Greene County General Election results",
+      "Greene County Daily World",
+      "2024-11-07",
+      "https://www.suncommercial.com/gcdailyworld/news/article_e7e60118-a42d-53c2-b92b-65066dc667ae.html"
+    ],
+    "gcdw_nov24": [
+      "Eastern Greene School Board recognizes outstanding students",
+      "Greene County Daily World",
+      "2024-11",
+      "https://www.suncommercial.com/gcdailyworld/news/article_23a9d9c7-2b2c-5ef8-b64a-eb197988ca13.html"
+    ],
+    "eg_board": [
+      "Board of Education",
+      "Eastern Greene Schools",
+      "2026-10",
+      "https://www.egreene.k12.in.us/board-of-education"
+    ],
+    "eg_welcome": [
+      "Superintendent's Welcome",
+      "Eastern Greene Schools",
+      "2026-08",
+      "https://docs.google.com/document/d/1PGGObQ4Z1sKBQo0q5dDMpEgiCbPoPo4ydwa3ux1TfhM/edit?usp=sharing"
+    ],
+    "eg_min251013": [
+      "Board meeting minutes, Oct. 13, 2025",
+      "Eastern Greene Schools",
+      "2025-10-13",
+      "https://docs.google.com/document/d/1Vv3gbwOrWcSTp9p1z5r6yFk1lVRdJi20sM0pk54YrVk/edit?usp=sharing"
+    ],
+    "eg_min251110": [
+      "Board meeting minutes, Nov. 10, 2025",
+      "Eastern Greene Schools",
+      "2025-11-10",
+      "https://docs.google.com/document/d/1WOylsTs7l8ZRZJhCqwsA4ouVgDvbzO7pbQbP2zDkuMo/edit?usp=sharing"
+    ],
+    "eg_min260112": [
+      "Organizational and regular meeting minutes, Jan. 12, 2026",
+      "Eastern Greene Schools",
+      "2026-01-12",
+      "https://docs.google.com/document/d/1acZELKagfwx4vPgh_EdwfqEErIw7nfPJnVoFvEyh4Dg/edit?usp=sharing"
+    ],
+    "eg_min260413": [
+      "Board meeting minutes, April 13, 2026",
+      "Eastern Greene Schools",
+      "2026-04-13",
+      "https://docs.google.com/document/d/1EwbvhEOx-PMxQQO17VLn2PHqGfhy84AqRD2virWDw68/edit?usp=sharing"
+    ],
+    "eg_min260608": [
+      "Board meeting minutes, June 8, 2026",
+      "Eastern Greene Schools",
+      "2026-06-08",
+      "https://docs.google.com/document/d/1qFx5rwyXZAsJ0OWqaoVPq24CcDr7FcQH9cpb43lkKOA/edit?usp=sharing"
+    ],
+    "eg_min260713": [
+      "Board meeting minutes, July 13, 2026",
+      "Eastern Greene Schools",
+      "2026-07-13",
+      "https://docs.google.com/document/d/1tvZLH142Ni2hfk0E45JB-rEibuSkluc8n5bEhQI__AQ/edit?usp=sharing"
+    ],
+    "eg_min260810": [
+      "Board meeting minutes, Aug. 10, 2026",
+      "Eastern Greene Schools",
+      "2026-08-10",
+      "https://docs.google.com/document/d/1LKfRW8FCH28PhW6CN3P-aE0Zbv0-lPbNNDcMQDmsVdE/edit?usp=sharing"
+    ]
+  }
+}

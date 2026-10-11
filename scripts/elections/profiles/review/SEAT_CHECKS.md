@@ -21,8 +21,10 @@ multi-seat but not yet confirmed from a 2026 county ballot:
 | Spencer Owen County School Board, District 5(1) | ? | "(1)" label; District 5 may have more than one seat |
 | Oregon Davis School Board (at large) | 3 | three 2022 at-large terms end 2026 |
 | Salem Community School Board (at large) | 3 | three terms end 2026 |
+| Elkhart Baugo School Board, District III | 2 | both District 3 seats elected in 2022 run through 2026 |
 | Jay School Board, District 1 | 0 on ballot | seat due in 2026 but no one filed; how it is filled is unknown |
 
 Also confirm with county election offices:
 - Hammond At Large: Cristina McNeiley on the state list but not on the Lake County sample ballot.
+- Eastern Greene Center seat: state list "Jason Carmichael", Daily World "Jacob Carmichael".
 - White River Valley: incumbent Brock Hostetter reported as a candidate but missing from the state list.

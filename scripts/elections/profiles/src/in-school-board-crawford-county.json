@@ -1,0 +1,216 @@
+{
+ "race_id": "in-school-board-crawford-county",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The district: Crawford County Community School Corp. covers all of Crawford County, with East, South and West Crawford elementary schools, Crawford County Middle School, Crawford County High School and Crawford County Virtual Academy; its administration office is south of Marengo {cc_site}{cn_search}. Wikipedia lists enrollment of about 1,340 students, without a year {wiki_cccs}. Levi Carmichael became superintendent July 1, 2026 {cn_july30}.",
+  "The board has seven trustees: four chosen by district and three at-large, with the at-large members living in residential districts A, B and C but elected countywide {cn_redraw}{cn_2024_seats}. The board redrew the four district boundaries in March 2023 after the 2020 Census; District 1 is Liberty 1 and 2 and Whiskey Run 1; District 2 is Jennings 1 and 2, Whiskey Run 2 and the Harrison County part of Milltown; District 3 is Patoka 1 and 2 and Sterling 1 and 2; District 4 is Boone, Johnson 1 and 2, Ohio 1 and 2, Sterling 3 and Union 1 and 2 {cn_redraw}. The three at-large seats were last elected in 2024 {cn_2024_results}.",
+  "Seats on the 2026 ballot: the district website lists four trustees whose terms end Dec. 31, 2026 — board president Wayne Carothers, Lance Stroud, Cliff Kerce and Sherry Newton — and three whose terms end in 2028: Jerry Hanger Jr., Craig Adams and Karen Sheller {cc_site}. Newton was appointed in 2023 to fill a vacancy {cn_2024_seats}. The state list shows races only for Districts 1, 2 and 4, each electing one member; it lists no District 3 race {in_list}. Of the four members whose terms end, only Kerce appears to be on the ballot, in District 4 {in_list}{cc_site}.",
+  "Party labels: under the 2025 state law allowing school board candidates to list a party, the District 1 and 2 candidates are listed as Republicans and both District 4 candidates as Democrats {in_list}.",
+  "Superintendent turnover (Dec. 2025–July 2026): Superintendent Brandon Johnson submitted his resignation, effective June 30, 2026, on Dec. 16, 2025; trustee Karen Sheller cast the only vote against accepting it {cn_resign}. Johnson then took an indefinite leave, with the high school principal as acting superintendent, and former superintendent Mike Key was hired as interim on a 4-1 vote on Feb. 5, 2026 {cn_leave}{cn_key}. On Jan. 20 the board voted to open the search to outside candidates, with Lance Stroud the only trustee opposed {cn_search}. On April 27 the board hired Carmichael, a former district teacher and coach, on a 6-1 vote with Kerce opposed, under a three-year contract at $130,000 a year {cn_carmichael}.",
+  "Budget (2026): at a Sept. 17, 2026 hearing on an advertised $18.1 million 2027 budget, Carmichael said the state's property-tax caps limit operations revenue and that falling enrollment is reducing education-fund money; adoption was expected Oct. 20 {cn_budget}. The board also approved $1.02 million in extra 2026 spending authority and moved money from operations back to the education fund to cover the rest of the year {cn_budget}. In December 2025 the board voted 7-0 to notify all administrators that their contracts might not be renewed for 2026-27 {cn_resign}.",
+  "Career center (2025–2026): the district is developing a career and technical education center at the former English Elementary School, backed by a $250,000 Community Foundation of Crawford County grant {cn_resign}. In September 2026 Carmichael said there were 'hard questions' about operating the site and that the district had talked with companies about partnerships or shared use, adding that this was not a decision to sell the building or end the program {cn_budget}.",
+  "Facilities and safety: the board awarded a $6.46 million contract in May 2025 for a severe-weather safe room at the middle and high schools, funded by a $6 million FEMA grant, and Carmichael said in September 2026 it should be operational soon {cn_4day_may}{cn_budget}. The district's school resource officer program costs $200,000, with an $86,000 state grant covering part {cn_budget}. A new wastewater treatment plant and an HVAC project at the middle/high school are also in progress {cn_budget}.",
+  "Academics: in April 2025 then-superintendent Johnson said attendance was below the state average and test scores had not returned to pre-pandemic levels; the district studied a four-day student week, with a board vote planned for June 2025 {cn_4day}{cn_4day_may}. Carmichael reported in September 2026 that 88% of students passed IREAD, about the state average {cn_budget}.",
+  "Forums: this guide found no 2026 candidate forum, questionnaire or news coverage of these races."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Jeff Howell",
+   "seat": "District 1",
+   "summary": "Candidate for the District 1 seat, listed as a Republican; the seat's current holder was not identified {in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state candidate list as the Republican candidate for District 1, the only candidate in the race {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "Background, occupation and ties to the schools not found.",
+    "This guide found no news coverage, candidate website, social media page, questionnaire, forum appearance, endorsement or campaign finance report for this candidate as of Oct. 10, 2026.",
+    "It is unconfirmed which current trustee (Carothers, Stroud or Newton) represents District 1 and whether that member sought reelection."
+   ]
+  },
+  {
+   "ballot_name": "Beth Stroud",
+   "seat": "District 2",
+   "summary": "Candidate for the District 2 seat, listed as a Republican; the seat's current holder was not identified {in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state candidate list as the Republican candidate for District 2, the only candidate in the race {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "Background, occupation and ties to the schools not found.",
+    "This guide found no news coverage, candidate website, social media page, questionnaire, forum appearance, endorsement or campaign finance report for this candidate as of Oct. 10, 2026.",
+    "It is unconfirmed which current trustee represents District 2. Trustee Lance Stroud's term ends in 2026; a Lance E. Stroud filed for the county council District 1 Republican primary in 2026, but this guide could not confirm they are the same person."
+   ]
+  },
+  {
+   "ballot_name": "Clifford Kerce",
+   "seat": "District 4",
+   "summary": "Appears to be the incumbent: trustee Cliff Kerce, whose term ends Dec. 31, 2026, is on the current board; listed as a Democrat {cc_site}{in_list}.",
+   "website": null,
+   "background": [
+    "Trustee Cliff Kerce has served on the board since at least 2023 {cn_redraw}{cc_site}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state candidate list as a Democratic candidate for District 4, one of two candidates {in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "In December 2025 Kerce made the motion to notify administrators their contracts might not be renewed, saying, 'We've got a couple of months to analyze our finances and see what we can need and afford' {cn_resign}.",
+      "At the Sept. 17, 2026 meeting he said of the career center at the former English Elementary, 'I've been asking for a year for a budget, and there's not been a single budget provided as to what it's going to cost to put the building together or what it's going to cost to operate it' {cn_budget}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "In January 2026 he favored opening the superintendent search beyond internal candidates, saying, 'I think we look for the best applicant, whether it's here in Crawford or a surrounding county or in the state or wherever' {cn_leave}. He made the Jan. 20 motion that opened the search externally and hired a consultant {cn_search}.",
+      "On hiring Mike Key as interim superintendent, he said 'for where we're at now, I think this is the best option to keep us going' {cn_key}. When the consultant said the previous superintendent's pay was low for the area, Kerce said he thought the district was comparable to surrounding counties and asked for the data {cn_key}.",
+      "He cast the only vote against hiring Levi Carmichael as superintendent on April 27, 2026 {cn_carmichael}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member {cc_site}. In September 2026 he pressed for cost estimates on the career center; board president Wayne Carothers said no vote had been taken to stop the project and that he still supported it {cn_budget}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "The ballot name 'Clifford Kerce' is assumed to be trustee Cliff Kerce; not confirmed by a filing record.",
+    "No campaign statements, website, questionnaire, endorsements or finance reports found; positions above come only from news coverage of board meetings.",
+    "Occupation and other background not found."
+   ]
+  },
+  {
+   "ballot_name": "Joe Schwartz Jr",
+   "seat": "District 4",
+   "summary": "Challenger for the District 4 seat, listed as a Democrat {in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state candidate list as a Democratic candidate for District 4, one of two candidates {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "Background, occupation and ties to the schools not found.",
+    "This guide found no news coverage, candidate website, social media page, questionnaire, forum appearance, endorsement or campaign finance report for this candidate as of Oct. 10, 2026."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "cc_site": [
+   "Superintendent's Message and Board of Education",
+   "Crawford County Community Schools",
+   "2026",
+   "https://www.cccs.k12.in.us/page/superintendent"
+  ],
+  "wiki_cccs": [
+   "Crawford County Community School Corporation",
+   "Wikipedia",
+   "2026",
+   "https://en.wikipedia.org/wiki/Crawford_County_Community_School_Corporation"
+  ],
+  "cr_county_list": [
+   "Crawford County: 2026 Candidates",
+   "Crawford County, Indiana (IN.gov)",
+   "2026-02-10",
+   "https://www.in.gov/counties/crawford/2026-elections/election-information/"
+  ],
+  "cn_redraw": [
+   "Crawford school board votes to redraw election districts",
+   "The Clarion News (Madison Courier)",
+   "2023-03-29",
+   "https://www.madisoncourier.com/archives/crawford-school-board-votes-to-redraw-election-districts/article_d9bc4051-30ef-5183-9c87-98bd252b3aff.html"
+  ],
+  "cn_2020": [
+   "Red wave sweeps Crawford County",
+   "The Clarion News (Madison Courier)",
+   "2020-11-11",
+   "https://www.madisoncourier.com/archives/red-wave-sweeps-crawford-county/article_715589d5-cc2c-56af-82fe-eb89f3a9c948.html"
+  ],
+  "cn_2024_seats": [
+   "Voters will elect three at-large members to Crawford school board",
+   "The Clarion News (Madison Courier)",
+   "2024-08-12",
+   "https://www.madisoncourier.com/the_clarion_news/news/voters-will-elect-three-at-large-members-to-crawford-school-board/article_f8331860-f42f-52ec-be13-bc9af9f57667.html"
+  ],
+  "cn_2024_results": [
+   "General Election brings new faces to county government",
+   "The Clarion News (Madison Courier)",
+   "2024-11-13",
+   "https://www.madisoncourier.com/the_clarion_news/news/general-election-brings-new-faces-to-county-government/article_ac4394a6-c2f3-547c-8cc3-2b26fc7c9771.html"
+  ],
+  "cn_4day": [
+   "Crawford schools consider moving to 4-day week",
+   "The Clarion News (Madison Courier)",
+   "2025-04-30",
+   "https://www.madisoncourier.com/the_clarion_news/news/crawford-schools-consider-moving-to-4-day-week/article_1e995c5d-c68b-5b58-8c85-323172a3dffb.html"
+  ],
+  "cn_4day_may": [
+   "School board nearing decision on 4-day week",
+   "The Clarion News (Madison Courier)",
+   "2025-06-04",
+   "https://www.madisoncourier.com/the_clarion_news/news/school-board-nearing-decision-on-4-day-week/article_ccc70086-a8b8-58ca-ac9c-0cc950309059.html"
+  ],
+  "cn_resign": [
+   "Johnson to step down as CCCS superintendent",
+   "The Clarion News (Madison Courier)",
+   "2025-12-31",
+   "https://www.madisoncourier.com/the_clarion_news/news/johnson-to-step-down-as-cccs-superintendent/article_f44fa057-bc3f-5843-b17a-24f7833f1429.html"
+  ],
+  "cn_leave": [
+   "CCCS superintendent takes leave of absence",
+   "The Clarion News (Madison Courier)",
+   "2026-01-14",
+   "https://www.madisoncourier.com/the_clarion_news/news/cccs-superintendent-takes-leave-of-absence/article_d58e343d-8735-5c91-b571-338c705f5872.html"
+  ],
+  "cn_search": [
+   "CCCS expands search for superintendent",
+   "The Clarion News (Madison Courier)",
+   "2026-01-28",
+   "https://www.madisoncourier.com/the_clarion_news/news/cccs-expands-search-for-superintendent/article_a333d513-b820-52dd-9afa-0c550615f336.html"
+  ],
+  "cn_key": [
+   "Key to serve as interim superintendent",
+   "The Clarion News (Madison Courier)",
+   "2026-02-18",
+   "https://www.madisoncourier.com/the_clarion_news/news/key-to-serve-as-interim-superintendent/article_b543bead-4ea7-5fec-98bb-1c56735b1956.html"
+  ],
+  "cn_carmichael": [
+   "Carmichael hired as new Crawford superintendent",
+   "The Clarion News (Madison Courier)",
+   "2026-05-06",
+   "https://www.madisoncourier.com/the_clarion_news/news/carmichael-hired-as-new-crawford-superintendent/article_fad30b50-adb9-5adb-b43a-0a52d08e865e.html"
+  ],
+  "cn_july30": [
+   "CCCS trustees approve contracts, staffing moves",
+   "The Clarion News (Madison Courier)",
+   "2026-08-05",
+   "https://www.madisoncourier.com/the_clarion_news/news/education/cccs-trustees-approve-contracts-staffing-moves/article_1ce3a4dd-3ca3-576e-8f08-695e151da272.html"
+  ],
+  "cn_budget": [
+   "Crawford schools advertise $18.1M budget",
+   "The Clarion News (Madison Courier)",
+   "2026-09-23",
+   "https://www.madisoncourier.com/the_clarion_news/news/education/crawford-schools-advertise-18-1m-budget/article_938128ec-16b2-5745-a9f2-3dc17451280c.html"
+  ]
+ }
+}

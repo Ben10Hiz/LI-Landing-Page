@@ -1,0 +1,165 @@
+{
+ "race_id": "in-school-board-delaware-liberty-perry",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The district: the ballot's 'Delaware Liberty Perry' offices are seats on the board of Liberty-Perry Community School Corporation in Delaware County, whose board seats are listed by county election officials as Liberty Township, Perry Township and at-large {dc_2022}{sp_2022_filing}. The district operates Selma Elementary, Selma Middle School and Wapahani High School near Selma {mj_playground}{wiki_wapahani}. Aaron Black is superintendent {mj_playground}. Wikipedia lists Wapahani High School enrollment at 334 in 2023–24 {wiki_wapahani}; this guide did not find a verified district-wide enrollment figure.",
+  "How the board is elected: county results show three Liberty-Perry seats on the 2022 ballot (Liberty Township, Perry Township and at-large) and two on the 2024 ballot (Liberty Township and Perry Township), each 'vote for 1' {dc_2022}{dc_2024}. That pattern points to a five-member board with staggered four-year terms, but this guide could not open the district's website to confirm the board's size or current membership.",
+  "Seats on the 2026 ballot: the three seats elected in 2022 are up, and each race elects one member, matching the state list {dc_2022}{in_list}. In 2022 Kevin Thomas won the at-large seat with 45.83% over Shane Sites and Eugene Ferris; Shane Wise won the Liberty Township seat with 41.63% over incumbent Keith Davis (32.83%) and Craig Standish (25.55%); and Robert Paul Cook was unopposed for Perry Township {dc_2022}{sp_2022_races}.",
+  "Who is running: Thomas is not on the 2026 candidate list, so the at-large seat is open and Dale Buffin, listed as a Republican, is the only candidate {in_list}{dc_2022}. In Liberty Township, Daniel Shane Wise faces Craig R Standish, a rematch of two of the 2022 candidates if, as appears likely, Daniel Shane Wise is the Shane Wise elected in 2022 {in_list}{dc_2022}. Robert Cook is unopposed for Perry Township {in_list}.",
+  "Party labels: under the 2025 law that lets school board candidates list a party, one candidate in this district is listed as a Republican and three as Nonpartisan {in_list}.",
+  "Facilities (August 2026): the district opened a wheelchair-accessible playground at Selma Elementary on Aug. 10, 2026; the project cost more than $187,000 and was funded by local government, foundation, business and PTO contributors {mj_playground}.",
+  "School safety (September 2026): Liberty-Perry Community School Corp. received a $49,880 state Secured School Safety Grant, according to a release from local state representatives {mj_safety}.",
+  "Issues not verified: this guide could not open Liberty-Perry board agendas, minutes or budget documents and found no 2025–2026 news coverage of the district's budget, the effect of the 2025 property-tax law (SEA 1), referendums or other board decisions.",
+  "Forums: this guide found no 2026 candidate forum, questionnaire or news coverage of this race."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Dale Buffin",
+   "seat": "At Large",
+   "summary": "Candidate for the open at-large seat, listed on the state ballot list as a Republican; he is unopposed {in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Filed for the at-large seat; the state candidate list shows the label Republican {in_list}.",
+    "The current at-large member, Kevin Thomas, elected in 2022, is not on the 2026 candidate list {dc_2022}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "This guide found no statement from this candidate on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No news coverage, candidate forum, questionnaire, website or social media statements from this candidate were found; occupation and background could not be confirmed."
+   ]
+  },
+  {
+   "ballot_name": "Craig R Standish",
+   "seat": "Liberty Twp",
+   "summary": "Challenger for the Liberty Township seat; he ran for the same seat in 2022 and finished third {dc_2022}{in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Filed for the Liberty Township seat as a nonpartisan candidate {in_list}.",
+    "Ran for the Liberty Township seat in 2022 as Craig Standish and received 421 votes (25.55%), third of three candidates {dc_2022}{sp_2022_races}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "This guide found no statement from this candidate on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No news coverage, candidate forum, questionnaire, website or social media statements from this candidate were found; occupation and background could not be confirmed.",
+    "The 2022 candidate 'Craig Standish' is assumed to be the same person as ballot name 'Craig R Standish'; this was not independently confirmed."
+   ]
+  },
+  {
+   "ballot_name": "Daniel Shane Wise",
+   "seat": "Liberty Twp",
+   "summary": "Apparent incumbent: a Shane Wise won the Liberty Township seat in 2022, and this guide believes he is the same person as the ballot's Daniel Shane Wise {dc_2022}{in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Filed for the Liberty Township seat as a nonpartisan candidate {in_list}.",
+    "In 2022, Shane Wise won the Liberty Township seat with 686 votes (41.63%), defeating incumbent Keith Davis and Craig Standish {dc_2022}{sp_2022_races}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Appears to be a current board member; this guide found no statement from him on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No news coverage, candidate forum, questionnaire, website or social media statements from this candidate were found; occupation and background could not be confirmed.",
+    "That Daniel Shane Wise is the Shane Wise elected in 2022, and that he still holds the seat, could not be confirmed because the district's board page could not be opened."
+   ]
+  },
+  {
+   "ballot_name": "Robert Cook",
+   "seat": "Perry Twp",
+   "summary": "Incumbent seeking reelection to the Perry Township seat; he is unopposed {sp_2022_filing}{in_list}.",
+   "website": null,
+   "background": [
+    "Was president of the Liberty-Perry school board from January 2019, according to a State Board of Accounts audit covering 2018–2020 {sboa_lp}."
+   ],
+   "path_to_ballot": [
+    "Filed for the Perry Township seat as a nonpartisan candidate {in_list}.",
+    "Held the Perry Township seat in 2022 and was reelected without opposition as Robert Paul Cook {sp_2022_filing}{dc_2022}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. This guide found no statement from him on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No news coverage, candidate forum, questionnaire, website or social media statements from this candidate were found; occupation and background could not be confirmed.",
+    "Current tenure on the board after 2022 could not be confirmed from the district's website, which could not be opened."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "dc_2022": [
+   "2022 General Election Summary Results",
+   "Delaware County (Ind.) Election Board",
+   "2022-11",
+   "http://dcelectionday.com/20222General/Html/Delaware_ElecSumm_All.htm"
+  ],
+  "dc_2024": [
+   "2024 General Election Summary Results",
+   "Delaware County (Ind.) Election Board",
+   "2024-11",
+   "http://dcelectionday.com/20242General/Html/Delaware_ElecSumm_All.htm"
+  ],
+  "sp_2022_filing": [
+   "Delaware County school board ballots filling up, but still no races",
+   "The Star Press (via Yahoo News)",
+   "2022-08-24",
+   "https://www.yahoo.com/news/delaware-county-school-board-ballots-090511691.html"
+  ],
+  "sp_2022_races": [
+   "Voters in 3 Delaware County school districts to decide board races",
+   "The Star Press (via Yahoo News)",
+   "2022-10-11",
+   "https://www.yahoo.com/news/voters-3-delaware-county-school-090634144.html"
+  ],
+  "sboa_lp": [
+   "Federal Compliance Audit Report of Liberty-Perry Community School Corporation, July 1, 2018 to June 30, 2020",
+   "Indiana State Board of Accounts",
+   "2021-05-25",
+   "https://www.in.gov/sboa/WebReports/B56840.pdf"
+  ],
+  "mj_playground": [
+   "Liberty-Perry Schools Cut Ribbon on New Accessible Playground at Selma Elementary",
+   "Muncie Journal",
+   "2026-08-11",
+   "https://www.munciejournal.com/2026/08/liberty-perry-schools-cut-ribbon-on-new-accessible-playground-at-selma-elementary/"
+  ],
+  "mj_safety": [
+   "State Awards Funding to Local Schools for Safety Upgrades",
+   "Muncie Journal",
+   "2026-09",
+   "https://www.munciejournal.com/2026/09/state-awards-funding-to-local-schools-for-safety-upgrades/"
+  ],
+  "wiki_wapahani": [
+   "Wapahani High School",
+   "Wikipedia",
+   "2026",
+   "https://en.wikipedia.org/wiki/Wapahani_High_School"
+  ]
+ }
+}

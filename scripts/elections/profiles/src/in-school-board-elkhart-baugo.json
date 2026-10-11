@@ -1,0 +1,187 @@
+{
+  "race_id": "in-school-board-elkhart-baugo",
+  "reviewed": "2026-10-10",
+  "status": "draft",
+  "status_note": "Pending editorial review.",
+  "office": "@in_school_board",
+  "incumbent": null,
+  "race_context": [
+    "Baugo Community Schools, known locally as Jimtown, serves the northwest corner of Elkhart County. It has four schools: Jimtown Elementary, Jimtown Intermediate, Jimtown Junior High and Jimtown High School. The superintendent is Byron Sanders, Ph.D. {baugo_home}{baugo_supt}.",
+    "In November 2025 Sanders told The Elkhart Truth that enrollment is about 1,800 with little fluctuation {et_contract25}.",
+    "The board has five members: Julie Phillips (president), Robert Barbour (vice president), Chris Carithers (secretary), Todd Hochstetler and Bill Gletty {baugo_board}.",
+    "Members must live in one of three residence districts. A 2023 district notice says the election plan requires a member to have lived in their district for at least a year {baugo_vacancy23}{et_2020}. In 2020 the ballot let voters choose up to two candidates, no more than one from any district; the county clerk said 379 votes were rejected because voters picked two candidates from the same district {et_2020}.",
+    "Seats on the 2026 ballot: one District I seat and the District III seats. In 2022 three members were elected: Julie Phillips in District 1, and Jamie Lee Wenger and Bill Gletty in District 3 {et_2022}. Those terms run through Dec. 31, 2026 {baugo_vacancy23}. The state candidate list shows District III as 'vote for 1', but both 2022 District 3 seats appear to be up, so the race may elect two members. Check the sample ballot {in_list}{et_2022}{baugo_vacancy23}.",
+    "District I: incumbent Julie Newcomer Phillips is unopposed {in_list}{baugo_board}.",
+    "District III: incumbent Bill Gletty, current board vice president Robert Barbour and former board member Jamie L Wenger are on the ballot {in_list}{baugo_board}. Wenger resigned his District 3 seat in September 2023, and the board took applications to appoint a District 3 resident for the rest of the term {baugo_vacancy23}.",
+    "Facilities and debt: on June 24, 2024 the board made a preliminary determination to issue about $28 million in bonds through a lease of up to 16 years. The money would pay for renovations and additions across the district, including safety and security, site and athletic improvements, equipment and technology. The district projected no net increase in the debt service tax rate as older debt matures {baugo_bond24}.",
+    "Staff pay: in November 2025 the board unanimously approved a teacher contract with a $1,000 raise for 2026-27, a $46,000 starting salary and a $78,000 top salary {et_contract25}.",
+    "No reporting was found on how the 2025 property-tax law (SEA 1) affects Baugo, or on any Baugo referendum plans.",
+    "No 2026 Baugo candidate forum, questionnaire or news coverage of the race was found."
+  ],
+  "candidates": [
+    {
+      "ballot_name": "Julie Newcomer Phillips",
+      "seat": "District I",
+      "summary": "Incumbent and current board president, unopposed for the District I seat {baugo_board}{in_list}.",
+      "website": null,
+      "background": [
+        "Current board president {baugo_board}.",
+        "The Elkhart Truth reported that she served on the board from 2012 to 2021 and won the District 1 seat back in 2022 with 1,342 votes {et_2022}.",
+        "She lost her District 1 seat in 2020, when Chris Carithers, also a District 1 resident, received more votes {et_2020}."
+      ],
+      "path_to_ballot": [
+        "Listed on the state candidate list as nonpartisan for District I, with no opponent {in_list}."
+      ],
+      "positions": [
+        {
+          "topic": "Facilities",
+          "items": [
+            "After her 2022 election she said she wanted to resume earlier projects, including restoring the Baugo Township High School gymnasium as a community center with a Boys and Girls Club {et_2022}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Is a current board member and serves as president {baugo_board}.",
+        "No 2026 campaign statements describing her view of the board's record were found."
+      ],
+      "plans": [
+        "2022 statement: wanted to turn the old Baugo Township High School gymnasium into a community center housing a Boys and Girls Club {et_2022}."
+      ],
+      "endorsements_finance": [
+        "None found."
+      ],
+      "gaps": [
+        "No 2026 questionnaire, forum appearance, website or finance filing was found.",
+        "Occupation not found.",
+        "Status of the gymnasium/community-center project not established."
+      ]
+    },
+    {
+      "ballot_name": "Bill Gletty",
+      "seat": "District III",
+      "summary": "Incumbent: elected in District 3 in 2022 and running again {et_2022}{baugo_board}{in_list}.",
+      "website": null,
+      "background": [
+        "Current board member {baugo_board}.",
+        "Won one of two District 3 seats in 2022 {et_2022}."
+      ],
+      "path_to_ballot": [
+        "Listed on the state candidate list as nonpartisan for District III {in_list}."
+      ],
+      "positions": [],
+      "on_incumbent": [
+        "Is a current board member {baugo_board}. No statements describing his view of the board's record were found."
+      ],
+      "plans": [],
+      "endorsements_finance": [
+        "None found."
+      ],
+      "gaps": [
+        "No biography, questionnaire, forum appearance, website or finance filing was found.",
+        "Occupation not found."
+      ]
+    },
+    {
+      "ballot_name": "Jamie L Wenger",
+      "seat": "District III",
+      "summary": "Former board member: elected in District 3 in 2022, served from January 2023 and resigned in September 2023 {et_2022}{baugo_vacancy23}.",
+      "website": null,
+      "background": [
+        "Won a District 3 seat in 2022 {et_2022}.",
+        "Served on the board from January 2023 until resigning in September 2023, according to the district's vacancy notice. The notice did not give a reason {baugo_vacancy23}."
+      ],
+      "path_to_ballot": [
+        "Listed on the state candidate list as nonpartisan for District III {in_list}."
+      ],
+      "positions": [],
+      "on_incumbent": [
+        "No statements found."
+      ],
+      "plans": [],
+      "endorsements_finance": [
+        "None found."
+      ],
+      "gaps": [
+        "Reason for the 2023 resignation not reported in the sources reviewed.",
+        "No biography, questionnaire, forum appearance, website or finance filing was found.",
+        "Occupation not found."
+      ]
+    },
+    {
+      "ballot_name": "Robert Barbour",
+      "seat": "District III",
+      "summary": "Current board member and vice president, running for a District III seat {baugo_board}{in_list}.",
+      "website": null,
+      "background": [
+        "Current vice president of the Baugo board {baugo_board}."
+      ],
+      "path_to_ballot": [
+        "Listed on the state candidate list as nonpartisan for District III {in_list}."
+      ],
+      "positions": [],
+      "on_incumbent": [
+        "Is a current board member {baugo_board}. No statements describing his view of the board's record were found."
+      ],
+      "plans": [],
+      "endorsements_finance": [
+        "None found."
+      ],
+      "gaps": [
+        "How and when he joined the board was not confirmed. He may have been appointed to the District 3 vacancy left by Wenger's 2023 resignation, but no source confirming that was found.",
+        "No biography, questionnaire, forum appearance, website or finance filing was found.",
+        "Occupation not found."
+      ]
+    }
+  ],
+  "review_flags": [],
+  "sources": {
+    "baugo_home": [
+      "Baugo Community Schools home page",
+      "Baugo Community Schools",
+      "2026-10",
+      "https://www.baugo.org/"
+    ],
+    "baugo_supt": [
+      "Superintendent's Welcome",
+      "Baugo Community Schools",
+      "2026-10",
+      "https://www.baugo.org/about/superintendents_welcome"
+    ],
+    "baugo_board": [
+      "School Board",
+      "Baugo Community Schools",
+      "2026-10",
+      "https://www.baugo.org/school_board"
+    ],
+    "baugo_vacancy23": [
+      "Public Notice: Board Vacancy (School Board to Fill Vacancy)",
+      "Baugo Community Schools",
+      "2023-09-12",
+      "https://drive.google.com/file/d/1_OxM5igQNdjM9gRHqlUIMwu-44Ez2-_y/view?usp=sharing"
+    ],
+    "baugo_bond24": [
+      "Notice of Adoption of Preliminary Determination (2024 bond)",
+      "Baugo Community Schools",
+      "2024-06",
+      "https://drive.google.com/file/d/1Vvl4UaoEtAuTKNv1UoQyLMbDeyRL5yA5/view?usp=sharing"
+    ],
+    "et_contract25": [
+      "New contract ratified for Baugo teachers",
+      "The Elkhart Truth",
+      "2025-11-28",
+      "https://www.elkharttruth.com/news/new-contract-ratified-for-baugo-teachers/article_3d617745-a8de-54ba-8e29-13e39eb176a0.html"
+    ],
+    "et_2020": [
+      "379 votes rejected in Baugo school board race",
+      "The Elkhart Truth",
+      "2020-11-17",
+      "https://www.elkharttruth.com/news/379-votes-rejected-in-baugo-school-board-race/article_f7486ac7-6038-5877-8cc8-5a9b9f726c76.html"
+    ],
+    "et_2022": [
+      "Familiar faces, newcomers round out school board races",
+      "The Elkhart Truth (via Yahoo News)",
+      "2022-11-10",
+      "https://www.yahoo.com/news/familiar-faces-newcomers-round-school-170900965.html"
+    ]
+  }
+}
