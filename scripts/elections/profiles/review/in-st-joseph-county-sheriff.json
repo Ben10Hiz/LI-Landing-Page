@@ -1,0 +1,48 @@
+{
+ "race_id": "in-st-joseph-county-sheriff",
+ "office": "Indiana County Sheriff",
+ "flags": [
+  {
+   "person": "Rod Laureys",
+   "category": "discipline",
+   "status": "held",
+   "summary": "WVPE reported on January 31, 2026 that Laureys, a county police corporal, was briefly suspended because he did not notify the merit board and the sheriff in writing before filing for office, as department merit rules require; the merit board president suggested days off and Sheriff Redman set a three-day suspension. Laureys said, 'I take responsibility for not following the exact procedural path, and I accept the discipline that came with it,' and that 'accountability matters in law enforcement'.",
+   "note": "Procedural discipline imposed during the campaign by the department he seeks to lead; exact suspension dates not given. WNDU also covered it on 2026-01-30 (not fetched).",
+   "sources": [
+    {
+     "title": "St. Joseph County sheriff candidate briefly suspended from county police department",
+     "publisher": "WVPE",
+     "date": "2026-01-31",
+     "url": "https://www.wvpe.org/wvpe-news/2026-01-31/st-joseph-county-sheriff-candidate-recently-suspended-from-county-police-department"
+    }
+   ]
+  },
+  {
+   "person": "Bill Redman",
+   "category": "lawsuit",
+   "status": "held",
+   "summary": "In January 2025, Indiana Attorney General Todd Rokita sued Sheriff Redman and St. Joseph County, alleging the jail had policies or practices barring staff from cooperating with ICE when undocumented immigrants are booked, and refused to honor detainers. St. Joseph Superior Judge Jenny Pitts Manier granted the defendants' motion to dismiss in October 2025, citing 'almost a total dearth of operative facts plead'; Redman called the case a 'legal circus' paid for by taxpayers. The AG appealed; on August 19, 2026 the Indiana Court of Appeals dismissed the appeal as moot because of legislative amendments to the statutes. The department has denied wrongdoing throughout; the AG's office said it is deciding next steps, possibly a new action under the FAIRNESS Act .",
+   "note": "Bears directly on the office's immigration-enforcement practices (a ballot-relevant issue). Laureys cited concern about the lawsuit in May 2026 {abc57_race_look}. Neither nominee's position on ICE detainers was found.",
+   "sources": [
+    {
+     "title": "Judge tosses Rokita immigration suit against Redman, county",
+     "publisher": "WVPE",
+     "date": "2025-10-20",
+     "url": "https://www.wvpe.org/wvpe-news/2025-10-20/judge-tosses-rokita-immigration-suit-against-redman-county"
+    },
+    {
+     "title": "Court dismisses Indiana attorney general's appeal in ICE cooperation lawsuit against St. Joe County sheriff",
+     "publisher": "WNDU",
+     "date": "2026-08-19",
+     "url": "https://www.wndu.com/2026/08/19/court-dismisses-indiana-attorney-generals-appeal-ice-cooperation-lawsuit-against-st-joe-county-sheriff/"
+    },
+    {
+     "title": "Indiana AG's office responds after appeal dismissed in ICE lawsuit against St. Joe County sheriff",
+     "publisher": "WNDU",
+     "date": "2026-08-20",
+     "url": "https://www.wndu.com/2026/08/20/indiana-ags-office-responds-after-appeal-dismissed-ice-lawsuit-against-st-joe-county-sheriff/"
+    }
+   ]
+  }
+ ]
+}

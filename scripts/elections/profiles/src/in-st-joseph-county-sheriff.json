@@ -1,0 +1,248 @@
+{
+ "race_id": "in-st-joseph-county-sheriff",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_sheriff",
+ "incumbent": {
+  "name": "Bill Redman",
+  "party": "Democratic",
+  "summary": "Bill Redman, a Democrat, was elected St. Joseph County sheriff in November 2018 and re-elected in November 2022 {abc57_redman_2018} {abc57_redman_2022}. He is barred by term limits from running again in 2026 and is running for county commissioner instead {wvpe_laureys_suspended} {abc57_race_look}.",
+  "record": [
+   "November 2018: Won the sheriff's race as the Democratic nominee with about 59% of the vote over Paul Jonas, with 97% of precincts reporting {abc57_redman_2018}.",
+   "November 2022: Re-elected over Republican Kevin McGowan; ABC57's candidate summary listed his platform as addressing violence through community involvement and upgraded equipment, drug prevention, treatment and enforcement, reducing the jail population through a mental health clinic and a Jail Chemical Addiction Program, and working with local, state and federal partners {abc57_redman_2022}.",
+   "February 2024: Redman told WVPE the jail was down about 50 jailers, compared with 4 of 145 correction officer positions unfilled before the 2020 pandemic. The county council had already raised correction officer base pay 12% that year, from $41,000 to $45,000; Redman proposed a further 20% raise to $54,000, saying higher pay would attract applicants and keep veteran jailers. The department had needed $700,000 from the council to cover overtime at the end of 2023 {wvpe_jail_raise}.",
+   "2026: Redman approved a jail hiring program, described by Lt. Earl Wigfall, to hire 18-year-old graduates from the South Bend Community School Corporation as correctional staff {abc57_race_look}.",
+   "Further details on a legal matter involving the sheriff's office are held for editorial review."
+  ]
+ },
+ "race_context": [
+  "This is an open seat: Sheriff Bill Redman cannot seek re-election because of term limits {wvpe_laureys_suspended} {abc57_race_look}. The St. Joseph County Police Department is the sheriff's department; it also runs the county jail {abc57_race_look} {wvpe_jail_raise}.",
+  "In the May 5, 2026 Democratic primary, South Bend Police Chief Scott Ruszkowski won about 66% of the vote over county police Lt. Earl Wigfall (about 34%), according to unofficial results {wndu_primary}. Republican Rod Laureys, a county police corporal, ran unopposed for his party's nomination {wndu_primary} {abc57_race_look}.",
+  "Jail staffing was a shared theme in the primary: Wigfall called it his top priority, Ruszkowski called it a priority, and Laureys proposed reopening the jail to clergy and ministry visits {abc57_race_look}. Laureys has emphasized a new drug unit and officer morale; Ruszkowski has emphasized gun violence, regional cooperation and community outreach {abc57_race_look} {wndu_primary}.",
+  "No general-election forum or debate between Ruszkowski and Laureys was found in available coverage."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Rod Laureys",
+   "summary": "Rod Laureys is a St. Joseph County police corporal and U.S. Marine Corps veteran who worked 10 years as a federal ATF task force officer; he is the Republican nominee {abc57_race_look} {abc57_gop_briefing}.",
+   "website": null,
+   "background": [
+    "Corporal with the St. Joseph County Police Department, with 15 years at the department, including 10 years as a federal ATF (Bureau of Alcohol, Tobacco, Firearms and Explosives) task force officer {abc57_race_look} {abc57_gop_briefing}.",
+    "U.S. Marine Corps veteran and former South Bend police officer {abc57_race_look} {wndu_gop_filing}."
+   ],
+   "path_to_ballot": [
+    "Filed for sheriff on January 8, 2026 {wndu_gop_filing}.",
+    "Ran unopposed in the May 5, 2026 Republican primary {wndu_primary}; listed on the general-election ballot as a Republican {in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Jail & corrections",
+     "items": [
+      "Wants to reopen the jail to clergy and ministry visits, which he says were halted during COVID-19 {abc57_race_look}."
+     ]
+    },
+    {
+     "topic": "Drugs",
+     "items": [
+      "Has said 'There's no drug unit established in St. Joseph County' and proposes creating one {abc57_race_look}.",
+      "At a July 2026 county Republican briefing, named drug trafficking as a top agenda item and said agencies working toward the same goals get more done; ABC57 reported he said minor recreational marijuana users would not be dealt with harshly but appropriate charges would still be filed {abc57_gop_briefing}."
+     ]
+    },
+    {
+     "topic": "Patrol & response",
+     "items": [
+      "Wants stronger overall training and better distribution of field officers across the county {abc57_race_look}.",
+      "Said he would lead from the front, personally joining officers on the street {wndu_gop_filing}."
+     ]
+    },
+    {
+     "topic": "Staffing & pay",
+     "items": [
+      "Says restoring integrity, trust and morale in the department is a priority {abc57_race_look} {wndu_gop_filing}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Has said the department's morale has declined under the current sheriff {wndu_gop_filing}, and told ABC57, 'The troops working in the field don't have trust in this administration' {abc57_race_look}. Laureys also raised a legal matter involving the sheriff; details are held for editorial review."
+   ],
+   "plans": [
+    "Create a county drug unit {abc57_race_look}.",
+    "Strengthen training and redistribute field officers across the county {abc57_race_look}.",
+    "Work closely with the prosecutor's office; at the July 2026 briefing he said there has been 'a huge breakdown between the prosecutor's office and the police department, particularly the city' and that he would not tolerate it {abc57_gop_briefing}."
+   ],
+   "endorsements_finance": [
+    "Appeared at a July 31, 2026 St. Joseph County Republican Party briefing with Republican prosecutor candidate John Maciejczyk, whom he praised {abc57_gop_briefing}.",
+    "No endorsements from law-enforcement groups or campaign-finance totals were found in available coverage."
+   ],
+   "gaps": [
+    "No campaign website or social-media page was located.",
+    "No stated positions found on the budget, school safety, immigration enforcement or jail pay.",
+    "Campaign-finance reports were not reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Scott Ruszkowski",
+   "summary": "Scott Ruszkowski is South Bend's police chief, with about 37 years at the South Bend Police Department and 11 as chief, and a Navy veteran; he is the Democratic nominee {abc57_race_look} {wndu_primary}.",
+   "website": null,
+   "background": [
+    "Chief of the South Bend Police Department for 11 years, with about 37 years at the department {abc57_race_look} {abc57_primary}; WNDU described it as nearly 38 years {wndu_primary}.",
+    "U.S. Navy veteran {wndu_primary}.",
+    "Says he has 15 years of budget and administrative experience and 30 years of managing people {wndu_dem_preview}.",
+    "Is retiring as South Bend police chief at the end of 2026 regardless of the election outcome {abc57_primary}."
+   ],
+   "path_to_ballot": [
+    "Announced his campaign on January 23, 2026, after an exploratory committee {wvpe_ruszkowski_announce}.",
+    "Won the May 5, 2026 Democratic primary with about 66% of the vote over Lt. Earl Wigfall, according to unofficial results {wndu_primary}; listed on the general-election ballot as a Democrat {in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Jail & corrections",
+     "items": [
+      "Says jail staffing is a priority, noting that correctional officer recruitment and retention is a nationwide struggle, and stresses rewarding and supporting jail staff {abc57_race_look}."
+     ]
+    },
+    {
+     "topic": "Patrol & response",
+     "items": [
+      "Calls gun violence the top crime issue — 'When it comes to crime, gun violence is number one, no doubt' — and calls for community intervention before violence occurs {wndu_dem_preview}.",
+      "Calls for much closer collaboration among county, South Bend and Mishawaka agencies and greater use of community resources {wndu_primary}.",
+      "Supports continuing de-escalation and crisis intervention training {wndu_dem_preview}."
+     ]
+    },
+    {
+     "topic": "Staffing & pay",
+     "items": [
+      "Emphasizes mentoring and supporting officers {abc57_race_look}."
+     ]
+    },
+    {
+     "topic": "Transparency",
+     "items": [
+      "Wants more community outreach at the county police department, possibly including an online transparency tool modeled on South Bend's {abc57_race_look}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Has said he talks regularly with Sheriff Redman; no criticism of Redman's record was found {wvpe_ruszkowski_announce}."
+   ],
+   "plans": [
+    "Gather input from county police personnel and the community before making changes {wvpe_ruszkowski_announce}.",
+    "Increase regional cooperation on gun violence across the county {wndu_primary}.",
+    "Consider an online transparency tool for the county police department {abc57_race_look}."
+   ],
+   "endorsements_finance": [
+    "Credited many of the area's Democratic elected officials with encouraging him to run {wvpe_ruszkowski_announce}.",
+    "No formal endorsements from law-enforcement groups or campaign-finance totals were found in available coverage."
+   ],
+   "gaps": [
+    "No campaign website was located.",
+    "No stated positions found on the budget, drugs, school safety or immigration enforcement.",
+    "Campaign-finance reports were not reviewed.",
+    "Some outlets spell his name 'Ruzskowski'; the official ballot spelling is Ruszkowski."
+   ]
+  }
+ ],
+ "review_flags": [
+  {
+   "person": "Rod Laureys",
+   "category": "discipline",
+   "status": "held",
+   "summary": "WVPE reported on January 31, 2026 that Laureys, a county police corporal, was briefly suspended because he did not notify the merit board and the sheriff in writing before filing for office, as department merit rules require; the merit board president suggested days off and Sheriff Redman set a three-day suspension. Laureys said, 'I take responsibility for not following the exact procedural path, and I accept the discipline that came with it,' and that 'accountability matters in law enforcement' {wvpe_laureys_suspended}.",
+   "note": "Procedural discipline imposed during the campaign by the department he seeks to lead; exact suspension dates not given. WNDU also covered it on 2026-01-30 (not fetched)."
+  },
+  {
+   "person": "Bill Redman",
+   "category": "lawsuit",
+   "status": "held",
+   "summary": "In January 2025, Indiana Attorney General Todd Rokita sued Sheriff Redman and St. Joseph County, alleging the jail had policies or practices barring staff from cooperating with ICE when undocumented immigrants are booked, and refused to honor detainers. St. Joseph Superior Judge Jenny Pitts Manier granted the defendants' motion to dismiss in October 2025, citing 'almost a total dearth of operative facts plead'; Redman called the case a 'legal circus' paid for by taxpayers {wvpe_ag_suit_tossed}. The AG appealed; on August 19, 2026 the Indiana Court of Appeals dismissed the appeal as moot because of legislative amendments to the statutes. The department has denied wrongdoing throughout; the AG's office said it is deciding next steps, possibly a new action under the FAIRNESS Act {wndu_ag_appeal_dismissed} {wndu_ag_response}.",
+   "note": "Bears directly on the office's immigration-enforcement practices (a ballot-relevant issue). Laureys cited concern about the lawsuit in May 2026 {abc57_race_look}. Neither nominee's position on ICE detainers was found."
+  }
+ ],
+ "sources": {
+  "abc57_redman_2018": [
+   "Bill Redman wins St. Joseph County Sheriff's race",
+   "ABC57",
+   "2018-11-06",
+   "https://www.abc57.com/news/bill-redman-wins-st-joseph-county-sheriffs-race"
+  ],
+  "abc57_redman_2022": [
+   "Redman wins re-election as St. Joseph County Sheriff",
+   "ABC57",
+   "2022-11-08",
+   "https://www.abc57.com/news/bill-redman-wins-reelection-st-joseph-county-sheriff"
+  ],
+  "wvpe_jail_raise": [
+   "Sheriff seeking another raise for jailers as staff shortage worsens",
+   "WVPE",
+   "2024-02-28",
+   "https://www.wvpe.org/wvpe-news/2024-02-28/sheriff-seeking-another-raise-for-jailers-as-staff-shortage-worsens"
+  ],
+  "wndu_gop_filing": [
+   "Republican candidates file for St. Joseph County races in 2026 midterm election",
+   "WNDU",
+   "2026-01-08",
+   "https://www.wndu.com/2026/01/08/republican-candidates-file-st-joseph-county-races-2026-midterm-election/"
+  ],
+  "wvpe_ruszkowski_announce": [
+   "South Bend police chief running for St. Joseph County sheriff",
+   "WVPE",
+   "2026-01-23",
+   "https://www.wvpe.org/wvpe-news/2026-01-23/south-bend-police-chief-running-for-st-joseph-county-sheriff"
+  ],
+  "wvpe_laureys_suspended": [
+   "St. Joseph County sheriff candidate briefly suspended from county police department",
+   "WVPE",
+   "2026-01-31",
+   "https://www.wvpe.org/wvpe-news/2026-01-31/st-joseph-county-sheriff-candidate-recently-suspended-from-county-police-department"
+  ],
+  "wndu_dem_preview": [
+   "South Bend Police Chief Scott Ruszkowski and St. Joseph County Lieutenant Earl Wigfall compete for sheriff",
+   "WNDU",
+   "2026-05-02",
+   "https://www.wndu.com/2026/05/02/south-bend-police-chief-scott-ruszkowski-st-joseph-county-lieutenant-earl-wigfall-compete-sheriff/"
+  ],
+  "abc57_race_look": [
+   "A look inside the race for St. Joseph County Sheriff",
+   "ABC57",
+   "2026-05-04",
+   "https://abc57.com/news/a-look-inside-the-race-for-st-joseph-county-sheriff"
+  ],
+  "wndu_primary": [
+   "South Bend Police Chief Scott Ruszkowski wins Democratic primary for St. Joseph County sheriff",
+   "WNDU",
+   "2026-05-05",
+   "https://www.wndu.com/2026/05/06/south-bend-police-chief-scott-ruszkowski-wins-democratic-primary-st-joseph-county-sheriff/"
+  ],
+  "abc57_primary": [
+   "SBPD Chief Ruzskowski wins St. Joseph County sheriff primary race",
+   "ABC57",
+   "2026-05-05",
+   "https://abc57.com/news/sbpd-chief-ruzskowski-wins-st-joseph-county-sheriff-primary-race"
+  ],
+  "abc57_gop_briefing": [
+   "Saint Joseph County Republican Party holds briefing over county safety",
+   "ABC57",
+   "2026-07-31",
+   "https://abc57.com/news/saint-joseph-county-republican-party-holds-briefing-over-county-safety"
+  ],
+  "wvpe_ag_suit_tossed": [
+   "Judge tosses Rokita immigration suit against Redman, county",
+   "WVPE",
+   "2025-10-20",
+   "https://www.wvpe.org/wvpe-news/2025-10-20/judge-tosses-rokita-immigration-suit-against-redman-county"
+  ],
+  "wndu_ag_appeal_dismissed": [
+   "Court dismisses Indiana attorney general's appeal in ICE cooperation lawsuit against St. Joe County sheriff",
+   "WNDU",
+   "2026-08-19",
+   "https://www.wndu.com/2026/08/19/court-dismisses-indiana-attorney-generals-appeal-ice-cooperation-lawsuit-against-st-joe-county-sheriff/"
+  ],
+  "wndu_ag_response": [
+   "Indiana AG's office responds after appeal dismissed in ICE lawsuit against St. Joe County sheriff",
+   "WNDU",
+   "2026-08-20",
+   "https://www.wndu.com/2026/08/20/indiana-ags-office-responds-after-appeal-dismissed-ice-lawsuit-against-st-joe-county-sheriff/"
+  ]
+ }
+}

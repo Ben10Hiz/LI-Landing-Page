@@ -379,6 +379,20 @@ Sensitive items held for a second, careful editorial pass (criminal cases, misco
   Note: Previously shown in the public profile.
   - [Ballard campaign disavows 'rogue' volunteer accused of forging signatures](https://www.ipm.org/news/2026-06-18/ballard-campaign-disavows-rogue-volunteer-accused-of-forging-signatures) — Indiana Capital Chronicle (via IPM), 2026-06-18
 
+## Indiana County Sheriff (`in-st-joseph-county-sheriff`)
+
+- **Rod Laureys** — discipline — _held_
+  WVPE reported on January 31, 2026 that Laureys, a county police corporal, was briefly suspended because he did not notify the merit board and the sheriff in writing before filing for office, as department merit rules require; the merit board president suggested days off and Sheriff Redman set a three-day suspension. Laureys said, 'I take responsibility for not following the exact procedural path, and I accept the discipline that came with it,' and that 'accountability matters in law enforcement'.
+  Note: Procedural discipline imposed during the campaign by the department he seeks to lead; exact suspension dates not given. WNDU also covered it on 2026-01-30 (not fetched).
+  - [St. Joseph County sheriff candidate briefly suspended from county police department](https://www.wvpe.org/wvpe-news/2026-01-31/st-joseph-county-sheriff-candidate-recently-suspended-from-county-police-department) — WVPE, 2026-01-31
+
+- **Bill Redman** — lawsuit — _held_
+  In January 2025, Indiana Attorney General Todd Rokita sued Sheriff Redman and St. Joseph County, alleging the jail had policies or practices barring staff from cooperating with ICE when undocumented immigrants are booked, and refused to honor detainers. St. Joseph Superior Judge Jenny Pitts Manier granted the defendants' motion to dismiss in October 2025, citing 'almost a total dearth of operative facts plead'; Redman called the case a 'legal circus' paid for by taxpayers. The AG appealed; on August 19, 2026 the Indiana Court of Appeals dismissed the appeal as moot because of legislative amendments to the statutes. The department has denied wrongdoing throughout; the AG's office said it is deciding next steps, possibly a new action under the FAIRNESS Act .
+  Note: Bears directly on the office's immigration-enforcement practices (a ballot-relevant issue). Laureys cited concern about the lawsuit in May 2026 {abc57_race_look}. Neither nominee's position on ICE detainers was found.
+  - [Judge tosses Rokita immigration suit against Redman, county](https://www.wvpe.org/wvpe-news/2025-10-20/judge-tosses-rokita-immigration-suit-against-redman-county) — WVPE, 2025-10-20
+  - [Court dismisses Indiana attorney general's appeal in ICE cooperation lawsuit against St. Joe County sheriff](https://www.wndu.com/2026/08/19/court-dismisses-indiana-attorney-generals-appeal-ice-cooperation-lawsuit-against-st-joe-county-sheriff/) — WNDU, 2026-08-19
+  - [Indiana AG's office responds after appeal dismissed in ICE lawsuit against St. Joe County sheriff](https://www.wndu.com/2026/08/20/indiana-ags-office-responds-after-appeal-dismissed-ice-lawsuit-against-st-joe-county-sheriff/) — WNDU, 2026-08-20
+
 ## Indiana State Representative (`in-state-representative-district-069`)
 
 - **Jim Lucas** — criminal case — _held_
