@@ -1,0 +1,243 @@
+{
+ "race_id": "in-school-board-martin-loogootee",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Loogootee Community School Corporation serves Loogootee in Martin County, Indiana, with three schools: Loogootee Elementary, Loogootee Middle and Loogootee High {loog_enroll}{nces_loog}. Federal data reported through PlainSchools show 762 students in 2024-25 {nces_loog}. The district describes itself as the smallest district in the country to offer the Project Lead the Way curriculum in grades K-12 {loog_enroll}.",
+  "The district's staff directory lists Dr. Shelley Christmas as superintendent {loog_dir}.",
+  "The board has five members: Brent Courter, Dr. Brooke Hawkins, TJ McAtee, Nick Toy and Chad Wade; the district says officers were chosen by the board on Jan. 15, 2026, and it lists McAtee as president, Toy as vice president and Courter as secretary {loog_board}.",
+  "Seats on the 2026 ballot: the state list shows one race, 'Martin Loogootee Community School, At Large (3 seats)', in which voters choose up to three of seven candidates {in_list}{incitizen_list}. The three seats last on the ballot were filled in 2022, when Nick Toy (District 1), Chad Wade (District 2) and Brent Courter (District 3) were unopposed and were elected to new four-year terms {wth_2022}. Of those three, only Toy appears to be on the 2026 ballot (as Nicholas Toy); Wade and Courter are not listed {in_list}{wth_early}.",
+  "Seat design: in 2022 the Times Herald listed the Loogootee seats by district number {wth_2022}, while the 2026 state list labels the race 'At Large (3 seats)' {in_list}. This guide could not confirm whether the district numbers are residency districts or whether the seat structure changed.",
+  "Budget and referendums: Loogootee is not on the Indiana Department of Local Government Finance's list of school districts with referendums on the November 2026 ballot {dlgf_ref}. The district's public-hearing page listed no pending hearings when this guide checked {loog_hearings}. This guide found no news coverage of the board's 2025-26 decisions on the budget, the 2025 property-tax law (SEA 1), facilities or curriculum.",
+  "Forums: this guide found no candidate forum, questionnaire or voter guide for this race. The Washington Times Herald listed the seven candidates in its Oct. 7, 2026 early-voting article {wth_early}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Bobbi Sue Nonte",
+   "seat": "At Large",
+   "summary": "Candidate for an at-large seat; this guide found no public statements from her {in_list}.",
+   "website": null,
+   "background": [
+    "Is listed among the seven Loogootee School Board at-large candidates in the Washington Times Herald's October 2026 early-voting ballot rundown {wth_early}; that article spells her first name 'Bobbie.'"
+   ],
+   "path_to_ballot": [
+    "Filed for an at-large seat; a state candidate list compiled by The Indiana Citizen records a filing date of June 18, 2026 {incitizen_list}. The state lists the candidate as Nonpartisan {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "This guide found no statement from this candidate about the current board's decisions."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire, forum appearance, news profile or campaign finance report was found; occupation and stated positions could not be confirmed.",
+    "Her first name is spelled 'Bobbi' on the state list and 'Bobbie' in the Times Herald article; the county ballot spelling was not checked."
+   ]
+  },
+  {
+   "ballot_name": "Cheryl Lynn Strange",
+   "seat": "At Large",
+   "summary": "Candidate for an at-large seat, listed with the Republican label on the state list; this guide found no public statements from her {in_list}.",
+   "website": null,
+   "background": [
+    "Is listed among the seven Loogootee School Board at-large candidates in the Washington Times Herald's October 2026 early-voting ballot rundown {wth_early}."
+   ],
+   "path_to_ballot": [
+    "Filed for an at-large seat; a state candidate list compiled by The Indiana Citizen records a filing date of June 18, 2026 {incitizen_list}. She is the only candidate in this race listed with a party label, Republican {in_list}{incitizen_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "This guide found no statement from this candidate about the current board's decisions."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire, forum appearance, news profile or campaign finance report was found; occupation and stated positions could not be confirmed.",
+    "The Times Herald list does not show party labels, so the ballot's presentation of her party label was not confirmed."
+   ]
+  },
+  {
+   "ballot_name": "Jared Walton",
+   "seat": "At Large",
+   "summary": "Candidate for an at-large seat; this guide found no public statements from him {in_list}.",
+   "website": null,
+   "background": [
+    "Is listed among the seven Loogootee School Board at-large candidates in the Washington Times Herald's October 2026 early-voting ballot rundown {wth_early}."
+   ],
+   "path_to_ballot": [
+    "Filed for an at-large seat; a state candidate list compiled by The Indiana Citizen records a filing date of June 18, 2026 {incitizen_list}. The state lists the candidate as Nonpartisan {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "This guide found no statement from this candidate about the current board's decisions."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire, forum appearance, news profile or campaign finance report was found; occupation and stated positions could not be confirmed."
+   ]
+  },
+  {
+   "ballot_name": "Molly Ellen Johnson",
+   "seat": "At Large",
+   "summary": "Candidate for an at-large seat; this guide found no public statements from her {in_list}.",
+   "website": null,
+   "background": [
+    "Is listed among the seven Loogootee School Board at-large candidates in the Washington Times Herald's October 2026 early-voting ballot rundown {wth_early}."
+   ],
+   "path_to_ballot": [
+    "Filed for an at-large seat; a state candidate list compiled by The Indiana Citizen records a filing date of June 18, 2026 {incitizen_list}. The state lists the candidate as Nonpartisan {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "This guide found no statement from this candidate about the current board's decisions."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire, forum appearance, news profile or campaign finance report was found; occupation and stated positions could not be confirmed."
+   ]
+  },
+  {
+   "ballot_name": "Nicholas Toy",
+   "seat": "At Large",
+   "summary": "Appears to be incumbent board vice president Nick Toy, first listed in this guide's sources in 2022, seeking another term {loog_board}{wth_2022}.",
+   "website": null,
+   "background": [
+    "The district lists a 'Mr. Nick Toy' as a board member and vice president {loog_board}.",
+    "Nick Toy was unopposed for the Loogootee board's District 1 seat in 2022 and was elected to a four-year term {wth_2022}.",
+    "Is listed among the seven Loogootee School Board at-large candidates in the Washington Times Herald's October 2026 early-voting ballot rundown {wth_early}."
+   ],
+   "path_to_ballot": [
+    "Filed for an at-large seat; a state candidate list compiled by The Indiana Citizen records a filing date of June 15, 2026, the earliest in this race {incitizen_list}. The state lists him as Nonpartisan {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member (identification by name; see gaps). This guide found no statement from him on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire, forum appearance, news profile or campaign finance report was found; occupation and stated positions could not be confirmed.",
+    "This guide matched 'Nicholas Toy' on the ballot to board member 'Nick Toy' by name only; no source states they are the same person.",
+    "When he was first elected and how long he has served could not be confirmed."
+   ]
+  },
+  {
+   "ballot_name": "Susan Jacobs",
+   "seat": "At Large",
+   "summary": "Candidate for an at-large seat; this guide found no public statements from her {in_list}.",
+   "website": null,
+   "background": [
+    "Is listed among the seven Loogootee School Board at-large candidates in the Washington Times Herald's October 2026 early-voting ballot rundown {wth_early}."
+   ],
+   "path_to_ballot": [
+    "Filed for an at-large seat; a state candidate list compiled by The Indiana Citizen records a filing date of June 18, 2026 {incitizen_list}. The state lists the candidate as Nonpartisan {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "This guide found no statement from this candidate about the current board's decisions."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire, forum appearance, news profile or campaign finance report was found; occupation and stated positions could not be confirmed."
+   ]
+  },
+  {
+   "ballot_name": "Tommy Flynn",
+   "seat": "At Large",
+   "summary": "Candidate for an at-large seat; this guide found no public statements from him {in_list}.",
+   "website": null,
+   "background": [
+    "Is listed among the seven Loogootee School Board at-large candidates in the Washington Times Herald's October 2026 early-voting ballot rundown {wth_early}."
+   ],
+   "path_to_ballot": [
+    "Filed for an at-large seat; a state candidate list compiled by The Indiana Citizen records a filing date of June 18, 2026 {incitizen_list}. The state lists the candidate as Nonpartisan {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "This guide found no statement from this candidate about the current board's decisions."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire, forum appearance, news profile or campaign finance report was found; occupation and stated positions could not be confirmed."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "loog_board": [
+   "Board Members",
+   "Loogootee Community Schools",
+   "2026-10",
+   "https://www.loogootee.k12.in.us/school-board/members"
+  ],
+  "loog_dir": [
+   "Directory",
+   "Loogootee Community Schools",
+   "2026-10",
+   "https://www.loogootee.k12.in.us/our-district/directory"
+  ],
+  "loog_enroll": [
+   "Become a Lion",
+   "Loogootee Community Schools",
+   "2026-10",
+   "https://www.loogootee.k12.in.us/enrollment-information"
+  ],
+  "loog_hearings": [
+   "Public Hearing Announcements",
+   "Loogootee Community Schools",
+   "2026-10",
+   "https://www.loogootee.k12.in.us/our-district/accountability/public-hearing-announcements"
+  ],
+  "nces_loog": [
+   "Loogootee Community Sch Corp (NCES Common Core of Data, 2024-25)",
+   "PlainSchools",
+   "2026-10",
+   "https://plainschools.com/districts/loogootee-community-sch-corp-in"
+  ],
+  "wth_2022": [
+   "Ballot set Martin County election",
+   "Washington Times Herald",
+   "2022-09-12",
+   "https://www.washtimesherald.com/news/ballot-set-martin-county-election/article_dcfaaa30-32c2-11ed-92e1-db34b0747f72.html"
+  ],
+  "wth_early": [
+   "Early voting is underway",
+   "Washington Times Herald (via Yahoo News)",
+   "2026-10-07",
+   "https://www.yahoo.com/news/politics/articles/early-voting-underway-035900868.html"
+  ],
+  "incitizen_list": [
+   "2026 Indiana General Election School Board Candidate List",
+   "The Indiana Citizen",
+   "2026-08",
+   "https://indianacitizen.org/2026-indiana-general-election-school-board-candidate-list/"
+  ],
+  "dlgf_ref": [
+   "Referendum Information (November 2026 referendum documents)",
+   "Indiana Department of Local Government Finance",
+   "2026-10",
+   "https://www.in.gov/dlgf/referendum-information/"
+  ]
+ }
+}
