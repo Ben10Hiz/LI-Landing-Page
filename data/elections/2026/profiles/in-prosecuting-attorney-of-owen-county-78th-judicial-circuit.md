@@ -1,0 +1,212 @@
+# Indiana Prosecuting Attorney — 2026 race profile
+
+_Researched 2026-10-11 · status: draft._ Pending editorial review.
+
+## About the office
+
+The prosecuting attorney is the elected lawyer who brings criminal cases on behalf of the State of Indiana, conducting all prosecutions for felonies, misdemeanors and infractions within the prosecutor's jurisdiction [1]. A prosecutor is elected in each judicial circuit rather than by county, and Indiana has 91 prosecuting attorneys [2, 3]. Candidates must be admitted to practice law in Indiana before the election [4]. Since July 2025, a state prosecutor review board can investigate complaints that a prosecutor is not following state law [5, 6].
+
+- **Term:** 4 years; prosecutors are elected in 2026, 2030, 2034 and every four years after that [2]
+- **Elected:** One prosecutor per judicial circuit, on the partisan November ballot; Democratic and Republican nominees are chosen in the May primary, while the Libertarian Party nominates prosecutor candidates at its state convention [2, 4]
+- **Term limit:** None; the office has a four-year term with no term limitations [7]
+- **Qualifications:** Must be admitted to the practice of law in Indiana before the election, be registered to vote in the election district by the candidate filing deadline, and file a statement of economic interest with the courts [4]
+- **Pay:** The state pays the minimum salary: for a full-time prosecutor, equal to the minimum salary of the circuit court judge in the same circuit, and 60% (66% in certain circuits) of that amount for other prosecutors [8]
+- **On the 2026 ballot:** 91 races; 11 contested [9]
+
+### What the office does
+
+- Conducts all prosecutions for felonies, misdemeanors and infractions within the prosecutor's jurisdiction, and performs other duties required by law [1].
+- Represents the state in criminal cases, conducts criminal investigations, and convenes and oversees grand juries [7].
+- Handles juvenile cases and prosecutes traffic and infraction violations [7].
+- Enforces child support orders entered in divorce and paternity cases; the Indiana Prosecuting Attorneys Council runs a statewide child support services program to support this work [7, 3].
+- Gives information and help to crime victims [7], and must notify the victim when the prosecutor withholds prosecution under a diversion agreement [10].
+- May withhold prosecution of a misdemeanor, Level 6 felony or Level 5 felony if the person agrees in writing to a pretrial diversion program, with conditions such as treatment, restitution, fees or staying away from the victim; the program is not available for certain drunk-driving charges [10].
+- Superintends lawsuits in which the county or certain trust funds have an interest [1].
+- Appoints a chief deputy and other deputy prosecutors; the state pays set salaries for certain deputies, and the county council appropriates money each year for other deputies, investigators, clerical staff and office expenses [11].
+- Works with the county sheriff, a separately elected officer who arrests suspects and runs the county jail, and with local police agencies [12, 13].
+- Receives training, manuals and legal research support from the Indiana Prosecuting Attorneys Council, a state judicial branch agency governed by a board of 10 elected prosecutors [3].
+- Since July 2025, can be the subject of a complaint to the state prosecutor review board, a board of five prosecuting attorneys that investigates whether a prosecutor is complying with state law and issues a report [6, 5].
+- What the prosecutor does not control: judges decide whether a defendant is released on bail [14]; the county council appropriates the county's share of the office budget [11]; and the state sets the prosecutor's minimum salary [8].
+
+### Recent changes to the office
+
+- March 2023: Senate Bill 284, which would have set up a procedure to appoint a special prosecutor when a prosecutor refuses to enforce a law, passed a House committee 9-4 and was sent to the Ways and Means Committee; the Indiana Prosecuting Attorneys Council supported that bill and the ACLU opposed it [15].
+- February 2025: As passed by the House 72-24, House Bill 1006 would have created a board to investigate prosecutors who categorically refuse to prosecute laws and required the Prosecuting Attorneys Council to withhold certain funding from a prosecutor labeled noncompliant; author Rep. Chris Jeter (R-Fishers) said it is lawmakers' job to make the law and prosecutors' job to enforce it, while Rep. Matt Pierce (D-Bloomington) said voters decide every four years how prosecutors use their resources [16].
+- May 2025: Gov. Mike Braun signed House Enrolled Act 1006 (Public Law 147-2025), which took effect July 1, 2025, and established the prosecutor review board [17, 5, 18].
+- July 2025: Mirror Indy reported that under the enacted law anyone can file a complaint, a board of five prosecuting attorneys investigates, and the law does not specify consequences beyond the board's report; Marion County Prosecutor Ryan Mears told Fox59 the law was deliberately targeted at his office, Jeter called it a step toward holding prosecutors accountable, and Chris Naylor of the Prosecuting Attorneys Council said his group did not oppose this version [6].
+- 2025: House Enrolled Act 1006 also requires that two members of the Indiana Commission on Court Appointed Attorneys be trial court judges [5].
+- November 2026: Public Question 1 asks voters whether to amend the Indiana Constitution so courts can deny bail, for offenses other than murder or treason, when the state proves by clear and convincing evidence that no release conditions will reasonably protect others or the community [19].
+- 2026: On the bail question, author Sen. Eric Koch (R-Bedford) said releasing some defendants before trial is too dangerous to public safety, while Samantha Bresnahan of the ACLU of Indiana said detention can cost someone their job, housing and custody of their children, and Zach Stock of the Indiana Public Defender Council raised concerns about jail overcrowding [14].
+
+## Current officeholder: Benjamin C. Kim (Republican)
+
+Kim joined the Owen County Prosecutor's Office in 2011, served as deputy and chief deputy prosecutor, and was selected in March 2023 to succeed Don VanDerMoere, who moved to the Owen Circuit Court bench [20, 21]. He sought a full term but lost the May 5, 2026 Republican primary to Ashley M. Fleetwood, so he is not on the November ballot [22].
+
+- March 2023: Selected as prosecutor after Don VanDerMoere was selected to fill a vacancy in Owen Circuit Court No. 1; Kim had been chief deputy prosecuting attorney [20].
+- April 2024: Kim and Deputy Prosecutor Robert Garrett tried a 2021 Spencer murder case; a jury returned guilty verdicts for murder and obstruction of justice after a seven-day trial [23].
+- February 2026: A scheduled eight-day murder trial ended in a mistrial during jury selection because the court could not seat enough jurors; Judge Don VanDerMoere said juror shortages had also marked the court's two previous jury trials in 2025, and the trial was reset for July 21 [24]. Kim wrote that the mistrial carried "both financial and time-related costs for the State," including expert-witness, witness-travel and law-enforcement scheduling costs that would have to be spent again [24].
+- In his 2026 primary statement, Kim said he had expanded the office's ability to work remotely around the clock, obtain search warrants and collect and analyze digital forensic evidence, and had started work on a truancy intervention program and with addiction service providers, which he said was "done at no extra cost to taxpayers" [21].
+- Kim said "Our courts are moving faster than ever, and we are seeing more cases going to trial," and said he was exploring technology, including "the responsible use of AI," to prepare cases [21].
+- The office handles felony and misdemeanor prosecutions, the Title IV-D child support program, victim support and no-contact orders, juvenile delinquency and status offenses, traffic infractions and post-conviction proceedings [25].
+
+## This race
+
+- Owen County forms Indiana's 78th Judicial Circuit; the prosecutor represents the state in criminal, juvenile and child-support matters [25].
+- Open seat in effect: incumbent Benjamin C. Kim filed for the Republican nomination [26] but lost the May 5, 2026 primary, so neither nominee currently holds the office [22].
+- May 5, 2026 Republican primary (certified): Ashley M. Fleetwood 1,521 votes (61.9%), Benjamin C. Kim 937 (38.1%) [22]. The Owen News reported Fleetwood's total as 1,520 [27].
+- Kristin Szczerbik was unopposed in the Democratic primary with 531 votes [22].
+- Both nominees are attorneys in private practice: Fleetwood is a criminal defense attorney who earned her law degree in 2023 and previously worked as a Title IV-D caseworker in the prosecutor's office [28], while Szczerbik describes nearly two decades as a trial attorney and earlier work in a prosecutor's office, the state public defender's office and the Attorney General's office [21].
+- Both candidates answered the same questionnaire from The Owen News before the primary [21]. No general-election forum coverage was found.
+
+## Ashley M. Fleetwood
+
+Criminal defense attorney with Gibson Law Office and former Owen County Prosecutor's Office caseworker who won the Republican nomination over the incumbent [28, 22].
+
+Campaign website: https://www.facebook.com/ashley.fleetwood.for.owen.county.prosecutor
+
+### Background
+
+- Attorney at Gibson Law Office since 2023; J.D., Indiana University (2023); bachelor's degree in criminal justice, Indiana University (2020) [28].
+- Worked as a Title IV-D caseworker in the Owen County Prosecutor's Office (2018–2020) and as an administrative assistant at the Owen County Sheriff's Office (2017–2018) [28]; she said her time in the prosecutor's office is where she confirmed she wanted to attend law school and become prosecutor [21].
+- Says she is a criminal defense attorney who has worked on criminal cases in over 50 Indiana counties [21].
+- Serves on the boards of the Owen County Community Foundation and the Owen County YMCA [21].
+
+### Path to the ballot
+
+- Filed for the Republican nomination Jan. 20, 2026 [26]; won the May 5, 2026 primary over incumbent Benjamin C. Kim, 1,521 votes to 937 [22].
+
+### Positions & plans
+
+**Caseloads & backlog**
+
+- Says she will reduce "unnecessary continuances through better preparation and analysis of cases at an early stage" [21].
+- Says she will manage the office's "limited resources" and draw on case-management practices she observed in other counties [21].
+
+**Charging priorities**
+
+- Plans to implement standards and procedures for handling cases, saying similarly situated defendants should be treated similarly unless there is a justification to deviate [21].
+- Says the prosecutor has a duty to provide information to the defense in a timely manner [21].
+
+**Staffing & budget**
+
+- Plans regular ethics training for all office personnel, not only attorneys [21].
+
+**Transparency**
+
+- Says the public should be told about both convictions and acquittals when a trial produces mixed results on multiple charges [21].
+
+**Victims' services**
+
+- Says she will work with law enforcement so that "victims' voices are heard" [21].
+
+### On the current officeholder
+
+- In her primary questionnaire she did not name Kim; her statement on reporting mixed trial outcomes was framed as her own policy [21]. No direct statements about Kim's record were found in sources reviewed.
+
+### How they say they'd run the office
+
+- Case-handling standards, early case analysis to cut continuances, and office-wide ethics training [21].
+- Close working relationships with law enforcement agencies [21].
+
+### Endorsements & fundraising
+
+- Endorsed by the Indiana State Police Alliance; she quoted the group as saying its Owen County members "overwhelmingly support" her candidacy [21].
+- No campaign finance reports were reviewed.
+
+### What we couldn't verify
+
+- No campaign website found; her campaign Facebook page could not be read without logging in.
+- No general-election forum or news coverage of her post-primary campaign found.
+- Campaign finance totals not reviewed (county-level filings).
+
+## Kristin Szczerbik
+
+Owen County attorney with nearly two decades in criminal and civil litigation and a former Owen County Council member, unopposed for the Democratic nomination [21, 22].
+
+### Background
+
+- Describes a law practice of nearly two decades concentrating on criminal and civil litigation throughout Indiana, including major felony and murder trials [21].
+- Before becoming an attorney, worked for the FBI, the State Public Defender's Office death penalty division, the Vigo County Prosecutor's Office and the Indiana Attorney General's Office, where she says she established Indiana's first statewide appellate victim advocacy program [21].
+- Holds bachelor's and law degrees from Indiana University and says she is certified under Indiana Public Defender Commission standards to represent all categories of offenses [21].
+- Served on the Owen County Council, District 3, from 2007 to 2011, including as council liaison to the prosecutor's office and probation department; appointed to the Community Corrections Advisory Board [21].
+
+### Path to the ballot
+
+- Filed for the Democratic nomination Feb. 5, 2026 [26]; unopposed in the May 5, 2026 primary with 531 votes [22].
+
+### Positions & plans
+
+**Violent crime**
+
+- Supports what she calls tough prosecution of violent and repeat offenders [21].
+
+**Drugs & treatment**
+
+- Supports community-based rehabilitation options for people with mental health disorders [21].
+
+**Juvenile justice**
+
+- Wants to expand restorative justice options for juveniles [21].
+
+**Victims' services**
+
+- Says she will "prioritize victim advocacy" and that crime victims should be treated with compassion and dignity throughout the process [21].
+
+**Charging priorities**
+
+- Says she would enforce the law while upholding constitutional safeguards for the accused, victims and the community [21].
+
+**Staffing & budget**
+
+- Cites her council experience administering the prosecutor's office budget [21].
+
+### On the current officeholder
+
+- No statements about Kim's record found in sources reviewed; her questionnaire answers focused on her own experience [21].
+
+### How they say they'd run the office
+
+- Multi-agency collaboration with law enforcement, including joint training and outreach [21].
+- Expanded restorative justice for juveniles and rehabilitation options for people with mental health disorders [21].
+
+### Endorsements & fundraising
+
+- No endorsements or campaign finance reports found.
+
+### What we couldn't verify
+
+- No campaign website or social media page found.
+- Bar admission year not confirmed.
+- No general-election forum or news coverage found.
+- Campaign finance totals not reviewed.
+
+## Sources
+
+1. [Indiana Code 33-39-1-5: Duties of prosecuting attorneys](https://codes.findlaw.com/in/title-33-courts-and-court-officers/in-code-sect-33-39-1-5/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-11
+2. [Indiana Code 3-10-2-12: Election of prosecuting attorneys](https://codes.findlaw.com/in/title-3-elections/in-code-sect-3-10-2-12/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-11
+3. [Indiana Prosecuting Attorneys Council](https://www.in.gov/ipac/) — Indiana Prosecuting Attorneys Council, accessed 2026-10-11
+4. [2026 Indiana Candidate Guide (Prosecuting Attorney)](https://www.in.gov/dA/1eada35c3e/2026-Candidate-Guide.FINAL.pdf) — Indiana Election Division, accessed 2026-10-11
+5. [Prosecutors (H.E.A. 1006, P.L. 147-2025)](https://legislativeupdate.courts.in.gov/2025/05/16/prosecutors-5/) — Indiana Legislative Update, Indiana Office of Court Services, 2025-05-16
+6. [How a new Indiana law about 'noncompliant prosecutors' could affect Indy](https://mirrorindy.org/marion-county-prosecutor-ryan-mears-bill-indianapolis/) — Mirror Indy, 2025-07-14
+7. [Prosecutor's Office](https://www.clarkcounty.in.gov/~ccounty/index.php/clark-county-indiana-government/clark-county-indiana-prosecutor-s-office) — Clark County, Indiana, accessed 2026-10-11
+8. [Indiana Code 33-39-6-5: Prosecuting attorney salaries](https://codes.findlaw.com/in/title-33-courts-and-court-officers/in-code-sect-33-39-6-5/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-11
+9. [2026 General Election Candidate List](https://www.in.gov/sos/elections/candidate-information/) — Indiana Election Division, 2026-09-22
+10. [Indiana Code 33-39-1-8: Pretrial diversion](https://codes.findlaw.com/in/title-33-courts-and-court-officers/in-code-sect-33-39-1-8/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-11
+11. [Indiana Code 33-39-6-2: Deputy prosecuting attorneys](https://codes.findlaw.com/in/title-33-courts-and-court-officers/in-code-sect-33-39-6-2/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-11
+12. [Indiana Code 36-2-13-5: Duties of sheriff](https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-2-13-5/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-11
+13. [2026 ISA President Statement (Jeffrey A. Balon, Porter County Sheriff)](https://indianasheriffs.org/wp-content/uploads/2026/01/2026-ISA-President-Statement.pdf) — Indiana Sheriffs' Association, 2026-01
+14. [Amendment to deny bail to some offenders moves closer to November ballot](https://www.ipm.org/news/2026-02-11/amendment-to-deny-bail-to-some-offenders-moves-closer-to-november-ballot) — WFYI (via Indiana Public Media), 2026-02-11
+15. [Noncompliant prosecuting attorneys (SB 284)](https://legislativeupdate.courts.in.gov/2023/03/31/noncompliant-prosecuting-attorneys-2) — Indiana Legislative Update, Indiana Office of Court Services, 2023-03-31
+16. [Indiana House OKs bill that could give county prosecutors less discretion](https://theindianalawyer.com/?p=232394) — Indiana Capital Chronicle (via The Indiana Lawyer), 2025-02-20
+17. [IN HB1006 (2025): Prosecutors](https://www.billtrack50.com/billdetail/1781144) — BillTrack50, accessed 2026-10-11
+18. [Michiana-area lawmaker supports new bill aiming to hold prosecutors accountable](https://www.wndu.com/2025/08/04/michiana-area-lawmaker-supports-new-bill-aiming-hold-prosecutors-accountable) — WNDU, 2025-08-04
+19. [Indiana bail amendment clears General Assembly, sending detention question to November ballot](https://indypolitics.org/indiana-bail-amendment-clears-general-assembly-sending-detention-question-to-november-ballot/) — IndyPolitics.Org (reporting by Indiana Capital Chronicle), 2026-02-17
+20. [Owen County Prosecutor - Benjamin Kim](https://secure.in.gov/ipac/find-your-prosecutor/owen-county-prosecutor-benjamin-kim/) — Indiana Prosecuting Attorneys Council, 2026-10
+21. [2026 Primary: Owen County Prosecutor](https://www.theowennews.org/article/2026-primary-owen-county-prosecutor) — The Owen News, 2026-04-03
+22. [2026 Primary Election Results (certified): Prosecuting Attorney](https://enr.indianavoters.in.gov/archive/2026Primary/index.html) — Indiana Election Division, 2026-05
+23. [Justice for 'Bizzy': Spencer man found guilty of murder and obstruction of justice](https://www.theowennews.org/article/justice-for-bizzy-spencer-man-found-guilty-of-murder-and-obstruction-of-justice) — The Owen News, 2024-05-03
+24. [Porter trial delayed again](https://www.theowennews.org/article/porter-trial-delayed-again) — The Owen News, 2026-02-06
+25. [Prosecutor](https://www.owencounty.in.gov/departments/prosecutor/) — Owen County Government, 2025-09-22
+26. [2026 Primary Candidate List](https://www.in.gov/sos/elections/files/Primay-Candidate-Mailing-List-2.25.2026.xlsx) — Indiana Election Division, 2026-02-25
+27. [2026 Primary Election results](https://www.theowennews.org/article/2026-primary-election-results) — The Owen News, 2026-05-05
+28. [Ashley M. Fleetwood](https://www.ballotready.org/people/ashley-m-fleetwood) — BallotReady, 2026-10

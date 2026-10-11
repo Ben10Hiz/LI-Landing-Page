@@ -1,0 +1,219 @@
+{
+ "race_id": "in-prosecuting-attorney-of-owen-county-78th-judicial-circuit",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_prosecutor",
+ "incumbent": {
+  "name": "Benjamin C. Kim",
+  "party": "Republican",
+  "summary": "Kim joined the Owen County Prosecutor's Office in 2011, served as deputy and chief deputy prosecutor, and was selected in March 2023 to succeed Don VanDerMoere, who moved to the Owen Circuit Court bench {ipac_kim} {on_q}. He sought a full term but lost the May 5, 2026 Republican primary to Ashley M. Fleetwood, so he is not on the November ballot {enr26p}.",
+  "record": [
+   "March 2023: Selected as prosecutor after Don VanDerMoere was selected to fill a vacancy in Owen Circuit Court No. 1; Kim had been chief deputy prosecuting attorney {ipac_kim}.",
+   "April 2024: Kim and Deputy Prosecutor Robert Garrett tried a 2021 Spencer murder case; a jury returned guilty verdicts for murder and obstruction of justice after a seven-day trial {on_bizzy}.",
+   "February 2026: A scheduled eight-day murder trial ended in a mistrial during jury selection because the court could not seat enough jurors; Judge Don VanDerMoere said juror shortages had also marked the court's two previous jury trials in 2025, and the trial was reset for July 21 {on_mistrial}. Kim wrote that the mistrial carried \"both financial and time-related costs for the State,\" including expert-witness, witness-travel and law-enforcement scheduling costs that would have to be spent again {on_mistrial}.",
+   "In his 2026 primary statement, Kim said he had expanded the office's ability to work remotely around the clock, obtain search warrants and collect and analyze digital forensic evidence, and had started work on a truancy intervention program and with addiction service providers, which he said was \"done at no extra cost to taxpayers\" {on_q}.",
+   "Kim said \"Our courts are moving faster than ever, and we are seeing more cases going to trial,\" and said he was exploring technology, including \"the responsible use of AI,\" to prepare cases {on_q}.",
+   "The office handles felony and misdemeanor prosecutions, the Title IV-D child support program, victim support and no-contact orders, juvenile delinquency and status offenses, traffic infractions and post-conviction proceedings {oc_pros}."
+  ]
+ },
+ "race_context": [
+  "Owen County forms Indiana's 78th Judicial Circuit; the prosecutor represents the state in criminal, juvenile and child-support matters {oc_pros}.",
+  "Open seat in effect: incumbent Benjamin C. Kim filed for the Republican nomination {sos_prim_list} but lost the May 5, 2026 primary, so neither nominee currently holds the office {enr26p}.",
+  "May 5, 2026 Republican primary (certified): Ashley M. Fleetwood 1,521 votes (61.9%), Benjamin C. Kim 937 (38.1%) {enr26p}. The Owen News reported Fleetwood's total as 1,520 {on_res}.",
+  "Kristin Szczerbik was unopposed in the Democratic primary with 531 votes {enr26p}.",
+  "Both nominees are attorneys in private practice: Fleetwood is a criminal defense attorney who earned her law degree in 2023 and previously worked as a Title IV-D caseworker in the prosecutor's office {br_fleetwood}, while Szczerbik describes nearly two decades as a trial attorney and earlier work in a prosecutor's office, the state public defender's office and the Attorney General's office {on_q}.",
+  "Both candidates answered the same questionnaire from The Owen News before the primary {on_q}. No general-election forum coverage was found."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Ashley M. Fleetwood",
+   "summary": "Criminal defense attorney with Gibson Law Office and former Owen County Prosecutor's Office caseworker who won the Republican nomination over the incumbent {br_fleetwood} {enr26p}.",
+   "website": "https://www.facebook.com/ashley.fleetwood.for.owen.county.prosecutor",
+   "background": [
+    "Attorney at Gibson Law Office since 2023; J.D., Indiana University (2023); bachelor's degree in criminal justice, Indiana University (2020) {br_fleetwood}.",
+    "Worked as a Title IV-D caseworker in the Owen County Prosecutor's Office (2018–2020) and as an administrative assistant at the Owen County Sheriff's Office (2017–2018) {br_fleetwood}; she said her time in the prosecutor's office is where she confirmed she wanted to attend law school and become prosecutor {on_q}.",
+    "Says she is a criminal defense attorney who has worked on criminal cases in over 50 Indiana counties {on_q}.",
+    "Serves on the boards of the Owen County Community Foundation and the Owen County YMCA {on_q}."
+   ],
+   "path_to_ballot": [
+    "Filed for the Republican nomination Jan. 20, 2026 {sos_prim_list}; won the May 5, 2026 primary over incumbent Benjamin C. Kim, 1,521 votes to 937 {enr26p}."
+   ],
+   "positions": [
+    {
+     "topic": "Caseloads & backlog",
+     "items": [
+      "Says she will reduce \"unnecessary continuances through better preparation and analysis of cases at an early stage\" {on_q}.",
+      "Says she will manage the office's \"limited resources\" and draw on case-management practices she observed in other counties {on_q}."
+     ]
+    },
+    {
+     "topic": "Charging priorities",
+     "items": [
+      "Plans to implement standards and procedures for handling cases, saying similarly situated defendants should be treated similarly unless there is a justification to deviate {on_q}.",
+      "Says the prosecutor has a duty to provide information to the defense in a timely manner {on_q}."
+     ]
+    },
+    {
+     "topic": "Staffing & budget",
+     "items": [
+      "Plans regular ethics training for all office personnel, not only attorneys {on_q}."
+     ]
+    },
+    {
+     "topic": "Transparency",
+     "items": [
+      "Says the public should be told about both convictions and acquittals when a trial produces mixed results on multiple charges {on_q}."
+     ]
+    },
+    {
+     "topic": "Victims' services",
+     "items": [
+      "Says she will work with law enforcement so that \"victims' voices are heard\" {on_q}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "In her primary questionnaire she did not name Kim; her statement on reporting mixed trial outcomes was framed as her own policy {on_q}. No direct statements about Kim's record were found in sources reviewed."
+   ],
+   "plans": [
+    "Case-handling standards, early case analysis to cut continuances, and office-wide ethics training {on_q}.",
+    "Close working relationships with law enforcement agencies {on_q}."
+   ],
+   "endorsements_finance": [
+    "Endorsed by the Indiana State Police Alliance; she quoted the group as saying its Owen County members \"overwhelmingly support\" her candidacy {on_q}.",
+    "No campaign finance reports were reviewed."
+   ],
+   "gaps": [
+    "No campaign website found; her campaign Facebook page could not be read without logging in.",
+    "No general-election forum or news coverage of her post-primary campaign found.",
+    "Campaign finance totals not reviewed (county-level filings)."
+   ]
+  },
+  {
+   "ballot_name": "Kristin Szczerbik",
+   "summary": "Owen County attorney with nearly two decades in criminal and civil litigation and a former Owen County Council member, unopposed for the Democratic nomination {on_q} {enr26p}.",
+   "website": null,
+   "background": [
+    "Describes a law practice of nearly two decades concentrating on criminal and civil litigation throughout Indiana, including major felony and murder trials {on_q}.",
+    "Before becoming an attorney, worked for the FBI, the State Public Defender's Office death penalty division, the Vigo County Prosecutor's Office and the Indiana Attorney General's Office, where she says she established Indiana's first statewide appellate victim advocacy program {on_q}.",
+    "Holds bachelor's and law degrees from Indiana University and says she is certified under Indiana Public Defender Commission standards to represent all categories of offenses {on_q}.",
+    "Served on the Owen County Council, District 3, from 2007 to 2011, including as council liaison to the prosecutor's office and probation department; appointed to the Community Corrections Advisory Board {on_q}."
+   ],
+   "path_to_ballot": [
+    "Filed for the Democratic nomination Feb. 5, 2026 {sos_prim_list}; unopposed in the May 5, 2026 primary with 531 votes {enr26p}."
+   ],
+   "positions": [
+    {
+     "topic": "Violent crime",
+     "items": [
+      "Supports what she calls tough prosecution of violent and repeat offenders {on_q}."
+     ]
+    },
+    {
+     "topic": "Drugs & treatment",
+     "items": [
+      "Supports community-based rehabilitation options for people with mental health disorders {on_q}."
+     ]
+    },
+    {
+     "topic": "Juvenile justice",
+     "items": [
+      "Wants to expand restorative justice options for juveniles {on_q}."
+     ]
+    },
+    {
+     "topic": "Victims' services",
+     "items": [
+      "Says she will \"prioritize victim advocacy\" and that crime victims should be treated with compassion and dignity throughout the process {on_q}."
+     ]
+    },
+    {
+     "topic": "Charging priorities",
+     "items": [
+      "Says she would enforce the law while upholding constitutional safeguards for the accused, victims and the community {on_q}."
+     ]
+    },
+    {
+     "topic": "Staffing & budget",
+     "items": [
+      "Cites her council experience administering the prosecutor's office budget {on_q}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "No statements about Kim's record found in sources reviewed; her questionnaire answers focused on her own experience {on_q}."
+   ],
+   "plans": [
+    "Multi-agency collaboration with law enforcement, including joint training and outreach {on_q}.",
+    "Expanded restorative justice for juveniles and rehabilitation options for people with mental health disorders {on_q}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports found."
+   ],
+   "gaps": [
+    "No campaign website or social media page found.",
+    "Bar admission year not confirmed.",
+    "No general-election forum or news coverage found.",
+    "Campaign finance totals not reviewed."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "enr26p": [
+   "2026 Primary Election Results (certified): Prosecuting Attorney",
+   "Indiana Election Division",
+   "2026-05",
+   "https://enr.indianavoters.in.gov/archive/2026Primary/index.html"
+  ],
+  "sos_prim_list": [
+   "2026 Primary Candidate List",
+   "Indiana Election Division",
+   "2026-02-25",
+   "https://www.in.gov/sos/elections/files/Primay-Candidate-Mailing-List-2.25.2026.xlsx"
+  ],
+  "ipac_kim": [
+   "Owen County Prosecutor - Benjamin Kim",
+   "Indiana Prosecuting Attorneys Council",
+   "2026-10",
+   "https://secure.in.gov/ipac/find-your-prosecutor/owen-county-prosecutor-benjamin-kim/"
+  ],
+  "oc_pros": [
+   "Prosecutor",
+   "Owen County Government",
+   "2025-09-22",
+   "https://www.owencounty.in.gov/departments/prosecutor/"
+  ],
+  "on_q": [
+   "2026 Primary: Owen County Prosecutor",
+   "The Owen News",
+   "2026-04-03",
+   "https://www.theowennews.org/article/2026-primary-owen-county-prosecutor"
+  ],
+  "on_res": [
+   "2026 Primary Election results",
+   "The Owen News",
+   "2026-05-05",
+   "https://www.theowennews.org/article/2026-primary-election-results"
+  ],
+  "on_mistrial": [
+   "Porter trial delayed again",
+   "The Owen News",
+   "2026-02-06",
+   "https://www.theowennews.org/article/porter-trial-delayed-again"
+  ],
+  "on_bizzy": [
+   "Justice for 'Bizzy': Spencer man found guilty of murder and obstruction of justice",
+   "The Owen News",
+   "2024-05-03",
+   "https://www.theowennews.org/article/justice-for-bizzy-spencer-man-found-guilty-of-murder-and-obstruction-of-justice"
+  ],
+  "br_fleetwood": [
+   "Ashley M. Fleetwood",
+   "BallotReady",
+   "2026-10",
+   "https://www.ballotready.org/people/ashley-m-fleetwood"
+  ]
+ }
+}
