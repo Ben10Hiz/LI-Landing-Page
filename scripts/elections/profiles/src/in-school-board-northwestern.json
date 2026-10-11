@@ -1,0 +1,151 @@
+{
+ "race_id": "in-school-board-northwestern",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Northwestern School Corporation is a Howard County district northwest of Kokomo covering Clay, Ervin and Howard Townships {sboe_plan}{wiki_nwsc}. It runs Northwestern Elementary, Howard Elementary, Northwestern Middle School and Northwestern High School {wiki_nwsc}. GreatSchools lists 1,847 students in grades PK-12 (year not stated) {greatschools_nwsc}. Wikipedia lists Kristen Bilkey as superintendent, and The Kokomo Lantern identified her as superintendent in 2022 {wiki_nwsc}{lantern_2022}; this guide could not open the district website to confirm who leads the district in 2026. This is not Shelby County's Northwestern Consolidated School Corporation.",
+  "The board has five members serving four-year terms: one resident each of Clay, Ervin and Howard Townships and two at-large members. Under a plan the board adopted in May 2022 and the State Board of Education reviewed in June 2022, all five are elected by voters across the whole district {sboe_plan}. The township seats were filled in November 2024: Daniel J Armstrong (Clay), Jonathan C Eller (Ervin) and Jonathan T Underwood (Howard) {enr_2024}{kt_2025_new}.",
+  "Seats on the 2026 ballot: both at-large seats. The Howard County election office lists the race as 'Northwestern School Corporation, At Large (2 seats)', so voters choose two, not one as shown on the state list {howard_2026}{in_list}. The seats are held by Kenneth E Ortman and Ted D Merrell, who won them in November 2022 with 1,873 and 1,661 votes, ahead of incumbent Jenny L Kelly (1,063) and Elke R Fahrmann (503) {enr_2022}{kt_2022_results}. Both incumbents are running again, and they are the only two candidates, so the race is uncontested in effect {howard_2026}{in_list}.",
+  "Party labels: Merrell filed as a Republican; Ortman checked the box choosing not to disclose any party affiliation and is listed by the state as Nonpartisan {merrell_petition}{ortman_petition}{in_list}.",
+  "Facilities: in September 2022 The Kokomo Lantern reported a $51 million facilities project to upgrade every building in the district; Bilkey called the work 'necessities that improve the overall campus, security, and the student experience' {lantern_2022}. The rest of that article is behind a paywall.",
+  "Budget: this guide found no reporting on how the 2025 property-tax law (SEA 1) affects Northwestern, and no operating or safety referendum.",
+  "Forums: this guide found no 2026 candidate forum, questionnaire or campaign website for either candidate."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Kenneth E Ortman",
+   "seat": "At Large",
+   "summary": "Incumbent first elected in November 2022, seeking a second term; listed as Nonpartisan {kt_2022_results}{howard_2026}{in_list}.",
+   "website": null,
+   "background": [
+    "His statement of economic interests filed in June 2026 lists his employer as Haynes International {ortman_petition}.",
+    "Was elected in November 2022 as a newcomer, receiving the most votes (28%) in a four-person race for two at-large seats {kt_2022_results}{enr_2022}."
+   ],
+   "path_to_ballot": [
+    "Filed a petition of nomination with the Howard County clerk on June 16, 2026, choosing not to declare a party affiliation {ortman_petition}{ic_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. After his 2022 win he told the Kokomo Tribune that voters he spoke with 'were looking for something new and some change' and that he brings 'a fresh perspective' {kt_2022_results}. This guide found no 2026 statement from him on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No 2026 campaign statements, website, questionnaire or forum appearance found.",
+    "No statements found on budget, facilities, academics or other district issues.",
+    "No endorsements or campaign-finance reports found; the Howard County election page lists none for this race.",
+    "His 2022 Kokomo Tribune candidate survey is paywalled and was not read."
+   ]
+  },
+  {
+   "ballot_name": "Ted Dayton Merrell",
+   "seat": "At Large",
+   "summary": "Incumbent at-large member since 2019 and board president as of 2022, seeking another term; listed as a Republican {sboe_plan}{kt_2022_field}{in_list}.",
+   "website": null,
+   "background": [
+    "His statement of economic interests filed in June 2026 lists his employer as Merrell Bros. Inc., an environmental business, and membership in Merrell Bros LLC, a construction business {merrell_petition}.",
+    "Has held an at-large seat since January 2019 {sboe_plan}; was board president when he ran for reelection in 2022 and finished second for two seats {kt_2022_field}{kt_2022_results}."
+   ],
+   "path_to_ballot": [
+    "Filed a petition of nomination with the Howard County clerk on June 17, 2026 as a Republican {merrell_petition}{ic_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. This guide found no 2026 statement from him on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No 2026 campaign statements, website, questionnaire or forum appearance found.",
+    "No statements found on budget, facilities, academics or other district issues.",
+    "Whether he is still board president in 2026 could not be confirmed.",
+    "No endorsements or campaign-finance reports found; the Howard County election page lists none for this race.",
+    "His 2022 Kokomo Tribune candidate survey is paywalled and was not read."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "howard_2026": [
+   "2026 General Election",
+   "Howard County, Indiana (Clerk / Election Office)",
+   "2026",
+   "https://secure.in.gov/counties/howard/elections/2026-general/"
+  ],
+  "ortman_petition": [
+   "Petition of Nomination and Consent for School Board Office (CAN-34) and Statement of Economic Interests (CAN-12): Kenneth E Ortman, At-Large",
+   "Howard County, Indiana",
+   "2026-06-16",
+   "https://secure.in.gov/counties/howard/elections/candidate-forms/2026/Kenneth-Ortman__At-Large.pdf"
+  ],
+  "merrell_petition": [
+   "Petition of Nomination and Consent for School Board Office (CAN-34) and Statement of Economic Interests (CAN-12): Ted Dayton Merrell, At-Large",
+   "Howard County, Indiana",
+   "2026-06-17",
+   "https://secure.in.gov/counties/howard/elections/candidate-forms/2026/Ted-Merrell__At-Large.pdf"
+  ],
+  "sboe_plan": [
+   "Approval of Governing Body Change - Northwestern School Corporation",
+   "Indiana State Board of Education",
+   "2022-06-08",
+   "https://secure.in.gov/sboe/files/Approval-of-Gov-Body-Change-Northwestern-SC-Packet-to-Board45.pdf"
+  ],
+  "wiki_nwsc": [
+   "Northwestern School Corporation",
+   "Wikipedia",
+   "2026",
+   "https://en.wikipedia.org/wiki/Northwestern_School_Corporation"
+  ],
+  "greatschools_nwsc": [
+   "Northwestern School Corporation",
+   "GreatSchools",
+   "2026-10",
+   "https://www.greatschools.org/indiana/kokomo/northwestern-school-corp/"
+  ],
+  "lantern_2022": [
+   "Northwestern going under the knife",
+   "The Kokomo Lantern",
+   "2022-09-20",
+   "https://kokomolantern.substack.com/p/northwestern-going-under-the-knife"
+  ],
+  "kt_2022_field": [
+   "Local school board races take shape",
+   "Kokomo Tribune (via Yahoo News)",
+   "2022-09-11",
+   "https://www.yahoo.com/news/local-school-board-races-shape-035900452.html"
+  ],
+  "kt_2022_results": [
+   "Mixed bag for incumbents in reelection bids",
+   "Kokomo Tribune (via Yahoo News)",
+   "2022-11-09",
+   "https://www.yahoo.com/news/mixed-bag-incumbents-reelection-bids-105100280.html"
+  ],
+  "kt_2025_new": [
+   "New school board members take seats this month",
+   "Kokomo Tribune (via Yahoo News)",
+   "2025-01-06",
+   "https://www.yahoo.com/news/school-board-members-seats-month-231600718.html"
+  ],
+  "ic_list": [
+   "2026 Indiana General Election School Board Candidate List",
+   "The Indiana Citizen",
+   "2026-08-12",
+   "https://indianacitizen.org/2026-indiana-general-election-school-board-candidate-list/"
+  ],
+  "enr_2022": [
+   "2022 General Election results (School Board Member)",
+   "Indiana Election Division",
+   "2022-11",
+   "https://enr.indianavoters.in.gov/archive/2022General/index.html"
+  ],
+  "enr_2024": [
+   "2024 General Election results (School Board Member)",
+   "Indiana Election Division",
+   "2024-11",
+   "https://enr.indianavoters.in.gov/archive/2024General/index.html"
+  ]
+ }
+}

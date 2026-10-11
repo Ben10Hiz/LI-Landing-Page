@@ -181,6 +181,7 @@ SEAT_OVERRIDES = {
     "Tri-Creek School Board, At Large": 2,  # Lake County sample ballot
     "Vincennes School Board, At Large": 2,  # Vincennes Sun-Commercial / Knox County clerk
     "Whiting School Board, At Large": 2,  # Lake County sample ballot
+    "Northwestern School Board, At Large": 2,  # Howard County candidate list
 }
 
 

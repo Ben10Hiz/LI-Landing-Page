@@ -1,0 +1,171 @@
+{
+ "race_id": "in-school-board-mt-vernon",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Mt. Vernon Community School Corporation (MVCSC), based in Fortville, serves Vernon and Buck Creek Townships in northwestern Hancock County, including Fortville and McCordsville {mvcsc_enroll}{mvcsc_funding}. It runs Mt. Vernon High School, Mt. Vernon Middle School, Mt. Vernon Intermediate School, Fortville, McCordsville and Mt. Comfort elementary schools and the Mini-Marauder Preschool {mvcsc_board}. Superintendent Dr. Jack Parker wrote in August 2026 that the district welcomes 'more than 5,100 students' a day {mvcsc_aug26}{mvcsc_leaders}. This is not the Metropolitan School District of Mount Vernon in Posey County.",
+  "The Board of School Trustees has five members, all elected at large; the district's board page lists Shannon Walls (president), Meghan Britt (1st vice president), Chad Gray (2nd vice president), Kellie Freeman (secretary) and Stacy Nielsen (assistant secretary) {mvcsc_board}{enr_2022}{enr_2024}. Terms are staggered: two at-large seats were filled in November 2022 and the others in 2020 and 2024 {enr_2020}{enr_2022}{enr_2024}.",
+  "Seats on the 2026 ballot: the two at-large seats won in November 2022 by Kellie L Freeman (3,612 votes) and Shannon J Walls (3,422), who defeated Joshua D Worth (2,904), appear to be up {enr_2022}. Freeman is seeking another term; Walls is not on the 2026 candidate list {ic_list}{in_list}. The state list shows the race as 'vote for 1' with two candidates, Brandon Ecker and Kellie Freeman {in_list}. If the race elects two members, as in 2022, both candidates would be elected. This guide could not confirm the 2026 seat count from the Hancock County election office.",
+  "Party labels: both candidates filed as Republicans, Freeman on June 1, 2026 and Ecker on June 15, 2026 {ic_list}{in_list}.",
+  "Budget and SEA 1: the district says the 2025 property-tax law (Senate Enrolled Act 1) cuts Operations Fund revenue by an additional $1 million in 2026, a loss sustained through 2030, and eliminates about $1.2 million a year in Local Income Tax revenue in 2028 {mvcsc_funding}. It also says property-tax caps leave nearly $3 million of its operations levy uncollected, that the law's cap on net assessed value growth holds back revenue from new homes in a fast-growing district, and that it ranks in the bottom 25% of Indianapolis-area districts in combined Education and Operations funding per student, 'nearly dead last' without its current operating referendum {mvcsc_funding}. Parker wrote in July 2026 that the district continues to 'navigate the financial impact of SEA 1' {mvcsc_jul26}.",
+  "Operating referendum: in January 2022 Parker described a May 2022 operating referendum of $0.17 per $100 of assessed value, about $3.2 million a year, to sustain the Operations Fund, raise teacher and staff pay and add school resource officers {mvcsc_ref22}. The district's 2026 funding page refers to 'the current Operating Referendum' {mvcsc_funding}.",
+  "Growth and facilities: the district reported 4.7% growth in 2024-25 and more than 50 new subdivisions proposed, approved or under construction in early 2025 {mvcsc_funding}. A new Fortville Elementary opened in August 2025, and the old building reopened as a grade 5-6 intermediate school {mvcsc_growth}{mvcsc_jul25}. The district says the high school is projected to need an expansion in 2028, and notes that state law now requires a public vote on new debt when the debt service rate is above $0.70; its rate was $0.79 in 2026 {mvcsc_funding}.",
+  "Tax increment financing: the district says 15 of Hancock County's 25 TIF districts are in Vernon and/or Buck Creek Townships {mvcsc_funding}.",
+  "Academics: the district's January 2026 newsletter cited strong IREAD results and graduation rates and U.S. News rankings for the high school and middle school {mvcsc_jan26}; in August 2026 Parker reported that Mt. Vernon High School ranked 47th in Indiana in the latest U.S. News list {mvcsc_aug26}.",
+  "Forums: the Greenfield Daily Reporter covered MVCSC board forums in 2022 and 2024, but its site could not be opened for this guide. This guide found no 2026 forum, questionnaire or candidate website."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Brandon Ecker",
+   "seat": "At Large",
+   "summary": "Candidate for an at-large seat; listed as a Republican {in_list}{ic_list}.",
+   "website": null,
+   "background": [
+    "This guide found no published background on the candidate {ic_list}."
+   ],
+   "path_to_ballot": [
+    "Filed June 15, 2026 as a Republican {ic_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no candidate website, social-media page, questionnaire, forum appearance or news interview for this candidate.",
+    "Occupation, community roles and ties to the schools are not reported.",
+    "No statements found on the board's record, SEA 1 funding losses, growth, facilities or other district issues.",
+    "No endorsements or campaign-finance reports found; Hancock County campaign finance filings were not available online to this guide.",
+    "Greenfield Daily Reporter coverage could not be opened."
+   ]
+  },
+  {
+   "ballot_name": "Kellie Freeman",
+   "seat": "At Large",
+   "summary": "Incumbent and board secretary, in her third term; listed as a Republican {mvcsc_board}{in_list}.",
+   "website": null,
+   "background": [
+    "Former transition coordinator and special education teacher for Carmel Clay Schools {mvcsc_board}.",
+    "Lives in the southern part of the district, in Greenfield; has volunteered with parent-teacher organizations at Mt. Vernon Middle School and the 8th Grade Academy and was president of the MVCSC Corporation Improvement Council {mvcsc_board}.",
+    "Was reelected in November 2022 with the most votes (3,612) in a three-way race for two at-large seats {enr_2022}."
+   ],
+   "path_to_ballot": [
+    "Filed June 1, 2026 as a Republican {ic_list}{in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Her district biography lists her goals as expanding vocational opportunities for students and being 'a voice for MVCSC teachers' {mvcsc_board}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Says in her district biography: 'I believe that our School Board needs to consider how our decisions affect students, teachers and the community' and 'We need to ask questions and ensure that we are not moving too fast or slow in any one direction' {mvcsc_board}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member and serves as secretary {mvcsc_board}. This guide found no 2026 statement from her on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No 2026 campaign statements, questionnaire, website or forum appearance found; positions above come from her district board biography, not a campaign.",
+    "No statements found on SEA 1 funding losses or the high school expansion.",
+    "No endorsements or campaign-finance reports found.",
+    "Unverified (search-result text only): the Greenfield Daily Reporter reported her 2022 vote total as 3,605; that site could not be opened."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "mvcsc_board": [
+   "School Board",
+   "Mt. Vernon Community School Corporation",
+   "2026-10",
+   "https://www.mvcsc.k12.in.us/70717_2"
+  ],
+  "mvcsc_leaders": [
+   "District Leadership",
+   "Mt. Vernon Community School Corporation",
+   "2026-10",
+   "https://www.mvcsc.k12.in.us/103571_2"
+  ],
+  "mvcsc_enroll": [
+   "Enrollment",
+   "Mt. Vernon Community School Corporation",
+   "2026-10",
+   "https://www.mvcsc.k12.in.us/enrollment"
+  ],
+  "mvcsc_funding": [
+   "Growing Communities Need Growing Resources",
+   "Mt. Vernon Community School Corporation",
+   "2026-10",
+   "https://www.mvcsc.k12.in.us/funding"
+  ],
+  "mvcsc_growth": [
+   "Future Growth Plan",
+   "Mt. Vernon Community School Corporation",
+   "2026-10",
+   "https://www.mvcsc.k12.in.us/70807_2"
+  ],
+  "mvcsc_aug26": [
+   "Superintendent's Summary, August 27, 2026",
+   "Mt. Vernon Community School Corporation",
+   "2026-08-27",
+   "https://new.express.adobe.com/webpage/eB14fzgtd3l0I"
+  ],
+  "mvcsc_jan26": [
+   "Mainstream newsletter, January 2026",
+   "Mt. Vernon Community School Corporation",
+   "2026-01",
+   "https://files.smartsites.parentsquare.com/4924/mainstream-postcard-jan26-lowres_1.pdf"
+  ],
+  "mvcsc_jul26": [
+   "Mainstream newsletter, July 2026",
+   "Mt. Vernon Community School Corporation",
+   "2026-07",
+   "https://files.smartsites.parentsquare.com/4924/mainstreamjuly2026-singlepage-lowres_1_1.pdf"
+  ],
+  "mvcsc_jul25": [
+   "Mainstream newsletter, July 2025",
+   "Mt. Vernon Community School Corporation",
+   "2025-07",
+   "https://files.smartsites.parentsquare.com/4924/mainstreamjuly2025-singlepages_1.pdf"
+  ],
+  "mvcsc_ref22": [
+   "Superintendent's Summary, January 31, 2022 (operating referendum)",
+   "Mt. Vernon Community School Corporation",
+   "2022-01-31",
+   "https://express.adobe.com/page/e1qgkHEzofirR/"
+  ],
+  "ic_list": [
+   "2026 Indiana General Election School Board Candidate List",
+   "The Indiana Citizen",
+   "2026-08-12",
+   "https://indianacitizen.org/2026-indiana-general-election-school-board-candidate-list/"
+  ],
+  "enr_2020": [
+   "2020 General Election results (School Board Member)",
+   "Indiana Election Division",
+   "2020-11",
+   "https://enr.indianavoters.in.gov/archive/2020General/index.html"
+  ],
+  "enr_2022": [
+   "2022 General Election results (School Board Member)",
+   "Indiana Election Division",
+   "2022-11",
+   "https://enr.indianavoters.in.gov/archive/2022General/index.html"
+  ],
+  "enr_2024": [
+   "2024 General Election results (School Board Member)",
+   "Indiana Election Division",
+   "2024-11",
+   "https://enr.indianavoters.in.gov/archive/2024General/index.html"
+  ]
+ }
+}

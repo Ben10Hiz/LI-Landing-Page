@@ -43,6 +43,7 @@ multi-seat but not yet confirmed from a 2026 county ballot:
 | Borden-Henryville School Board (at large) | 2 | both at-large seats elected together in 2022 |
 | Cloverdale School Board, Taylor Township | 0 on ballot | no one filed |
 | Morgan MSD Martinsville School Board, District 5 | 0 on ballot | 2022 seat normally up in 2026; not on the state list |
+| Mt. Vernon Community School Corporation School Board, At Large | 2 | the two 2022 at-large seats (Freeman, Walls) |
 | Jay School Board, District 1 | 0 on ballot | seat due in 2026 but no one filed; how it is filled is unknown |
 
 Also confirm with county election offices:
