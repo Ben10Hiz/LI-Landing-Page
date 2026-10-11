@@ -1,0 +1,180 @@
+{
+  "race_id": "in-school-board-silver-creek",
+  "reviewed": "2026-10-10",
+  "status": "draft",
+  "status_note": "Pending editorial review.",
+  "office": "@in_school_board",
+  "incumbent": null,
+  "race_context": [
+    "The district: Silver Creek School Corporation, based in Sellersburg in Clark County, runs four schools: Silver Creek Primary (K-1), Silver Creek Elementary (2-5), Silver Creek Middle (6-8) and Silver Creek High (9-12) {scsc_news}{scsc_home}. It split from the former West Clark Community Schools, along with Borden and Henryville schools, in 2020 {lpm_ref_result}. State data show 3,189 students in 2026, up from 2,799 in 2021 {idoe_enroll}.",
+    "Superintendent: Dr. Chad Briggs. Dr. Todd Balmer is assistant superintendent and CFO {scsc_staff}.",
+    "Board: five members, Chris Rountree, Scott Groan, Kristy Franklin, Joe Basham and Laurryn McDaniel {scsc_board}. Three are elected from districts: Rountree (District 1), Groan (District 2) and McDaniel (District 3) won those seats in 2024 {enr_2024}{lpm_2024}. The other two seats are at-large. Basham and Franklin won them in 2022, when the state results show two seats and only those two candidates; Basham got 2,618 votes and Franklin 2,253 {enr_2022}. The district website does not list officer roles or term dates {scsc_board}.",
+    "Seats on the 2026 ballot: the state list shows 'vote for 1' {in_list}. But the two at-large seats were filled together in 2022 (state results: two seats) and in 2020, when the News and Tribune reported 'two At-large seats open' {enr_2022}{nt_2020}. With four-year terms, both 2022 terms appear to end in 2026, so this guide believes the race elects TWO members. If so, the two candidates on the ballot would fill both seats. This guide did not find an official 2026 seat count, so voters should check their sample ballot.",
+    "Who is running: both at-large incumbents are on the ballot and no one else filed. Louisville Public Media listed Joseph W. 'Joe' Basham as Independent and Kristy Franklin as nonpartisan {lpm_2026}{in_list}. LPM noted that 2026 is the first general election in which school board candidates can run with a party label under a 2025 state law, and that most candidates still chose to run as nonpartisan {lpm_2026}.",
+    "Building capacity and the failed referendum (May 2025): the board asked voters to approve a property tax referendum of up to $62.86 million over 25 years. It would have paid for a new elementary school and fieldhouse, more classrooms at the primary school (pre-K, kindergarten, first grade and special education), classroom changes at the elementary and middle schools, and HVAC, roofing and paving work at the high school {lpm_ref_preview}. LPM reported that the primary, elementary and middle schools were all over their best capacity as of fall 2024. The measure would have raised residential property taxes paid to the district by an average of 44.13% and business property taxes by 32.56% {lpm_ref_preview}.",
+    "Referendum result: voters rejected it on May 6, 2025, 3,759 (94%) to 238 (nearly 6%), with 12,356 registered voters eligible {lpm_ref_result}. Assistant Superintendent and CFO Todd Balmer said, 'We know we've got to still look at creating capacity.' He said the district would 'take a step back' and look at other options, and LPM reported that modular classrooms were one immediate option {lpm_ref_result}. A resident who opposed the measure ran a Facebook page called 'No To Silver Creek Tax Hikes' {lpm_ref_result}. This guide found no news report of a replacement building plan.",
+    "Town funding proposal (September 2026): the Town of Sellersburg's redevelopment commission was considering a partnership with the school corporation. Commission Vice President Patrick Duggins proposed using tax-increment financing (TIF) money, which state law lets commissions spend on educational and job-training programs {nt_tif}. The rest of the article is for subscribers only, so the outcome is not reported here.",
+    "Budget and SEA 1: this guide found no public statement from the board or district on how the 2025 property-tax law (SEA 1) affects Silver Creek's budget.",
+    "Forums: this guide found no candidate forum, questionnaire or campaign coverage for this race. With two candidates for what appear to be two seats, the race may not be contested."
+  ],
+  "candidates": [
+    {
+      "ballot_name": "Joseph W. (Joe) Basham",
+      "seat": "At Large",
+      "summary": "Incumbent at-large board member, first elected in 2020 when the district held its first board election, and listed as an Independent {enr_2020}{enr_2022}{scsc_board}{in_list}.",
+      "website": null,
+      "background": [
+        "A 2018 Clark County REMC candidate profile described him as a mechanical supervisor at Lehigh Hanson Cement in Speed and a 1973 graduate of Silver Creek High School. It said he took millwright classes at Ivy Tech Community College and had coached cross country at Silver Creek Middle School for 30 years {remc_2018}.",
+        "The same 2018 profile said he was a member of the West Clark Community School Board (the district Silver Creek later split from) and the Indiana School Board Association, and was 'recognized as master board member' {remc_2018}.",
+        "Serves as District Four director on the Clark County REMC board. A 2024 co-op profile said he has lived in the Perry Crossing area of Carr Township for more than 30 years {remc_2024}{remc_2018}."
+      ],
+      "path_to_ballot": [
+        "Won an at-large seat in 2020, the new district's first board election, finishing second of three candidates with 3,268 votes; the News and Tribune reported that two at-large seats were open {enr_2020}{nt_2020}.",
+        "Re-elected in 2022 with 2,618 votes in an uncontested race for two at-large seats {enr_2022}.",
+        "Filed for 2026 and is listed as an Independent {lpm_2026}{in_list}."
+      ],
+      "positions": [],
+      "on_incumbent": [
+        "Is a current board member {scsc_board}. This guide found no public statement from him on the board's record, including the 2025 referendum."
+      ],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "No campaign website, questionnaire, forum answers or 2026 news coverage found.",
+        "Current occupation not confirmed; the job listed is from 2018.",
+        "A search snippet said a 2020 News and Tribune article quoted Basham, as a board member, praising departing Superintendent Clemen Perez-Lloyd. Not read in full; unverified.",
+        "A search snippet said a State Board of Accounts report lists him as school board president in 2017 (West Clark). Not read; unverified.",
+        "His votes on the 2025 referendum and other board actions could not be confirmed because board minutes on the district site did not load.",
+        "No campaign finance reports found."
+      ]
+    },
+    {
+      "ballot_name": "Kristy Franklin",
+      "seat": "At Large",
+      "summary": "Incumbent at-large board member, listed as Nonpartisan {scsc_board}{enr_2022}{in_list}.",
+      "website": null,
+      "background": [
+        "Current member of the Silver Creek School Corporation board {scsc_board}.",
+        "This guide found no campaign biography or news profile describing her occupation or ties to the schools."
+      ],
+      "path_to_ballot": [
+        "The News and Tribune's 2020 filing list named 'Kristy Franklin' as an at-large candidate {nt_2020}. State 2020 results list the top at-large vote-getter, and so a winner of one of the two seats, as 'Christina M Franklin,' with 3,344 votes. This appears to be the same candidate, but this guide did not confirm it {enr_2020}{nt_2020}.",
+        "Re-elected in 2022 with 2,253 votes in an uncontested race for two at-large seats {enr_2022}.",
+        "Filed for 2026 and is listed as nonpartisan {lpm_2026}{in_list}."
+      ],
+      "positions": [],
+      "on_incumbent": [
+        "Is a current board member {scsc_board}. This guide found no freely available statement from her on the board's record."
+      ],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "No campaign website, questionnaire, forum answers or 2026 news coverage found.",
+        "Occupation and community roles not found.",
+        "A March 12, 2025 News and Tribune article on school capacity quotes her as a board member, but that part is for subscribers only and was not used.",
+        "Not confirmed that 'Christina M Franklin' in 2020 state results is the same person.",
+        "Her votes on the 2025 referendum and other board actions could not be confirmed because board minutes did not load.",
+        "No campaign finance reports found."
+      ]
+    }
+  ],
+  "review_flags": [],
+  "sources": {
+    "scsc_home": [
+      "Silver Creek School Corporation (home page)",
+      "Silver Creek School Corporation",
+      "accessed 2026-10-10",
+      "https://www.scsc.school/"
+    ],
+    "scsc_news": [
+      "District News",
+      "Silver Creek School Corporation",
+      "accessed 2026-10-10",
+      "https://www.scsc.school/district-information/district-news"
+    ],
+    "scsc_staff": [
+      "Central Office Staff",
+      "Silver Creek School Corporation",
+      "accessed 2026-10-10",
+      "https://www.scsc.school/district-information/central-office-staff"
+    ],
+    "scsc_board": [
+      "Board Members",
+      "Silver Creek School Corporation",
+      "accessed 2026-10-10",
+      "https://www.scsc.school/board/board-members"
+    ],
+    "idoe_enroll": [
+      "Corporation Enrollment by Grade Level, 2006-26",
+      "Indiana Department of Education",
+      "2026",
+      "https://www.in.gov/doe/files/corporation-enrollment-grade-2006-26.xlsx"
+    ],
+    "enr_2020": [
+      "2020 General Election Results (School Board Member)",
+      "Indiana Election Division",
+      "2020-11",
+      "https://enr.indianavoters.in.gov/archive/2020General/index.html"
+    ],
+    "enr_2022": [
+      "2022 General Election Results (School Board Member)",
+      "Indiana Election Division",
+      "2022-11",
+      "https://enr.indianavoters.in.gov/archive/2022General/index.html"
+    ],
+    "enr_2024": [
+      "2024 General Election Results (School Board Member)",
+      "Indiana Election Division",
+      "2024-11",
+      "https://enr.indianavoters.in.gov/archive/2024General/index.html"
+    ],
+    "nt_2020": [
+      "UPDATE: 29 file for school board seats in Clark and Floyd counties",
+      "News and Tribune",
+      "2020-08-21",
+      "https://www.newsandtribune.com/news/clark_county/update-29-file-for-school-board-seats-in-clark-and-floyd-counties/article_82091f2c-e3c7-11ea-8423-33f50739ed02.html"
+    ],
+    "lpm_2024": [
+      "More candidates have joined the race for local seats in Southern Indiana",
+      "Louisville Public Media",
+      "2024-07-18",
+      "https://lpm.org/news/2024-07-18/more-candidates-have-joined-the-race-for-local-seats-in-southern-indiana"
+    ],
+    "lpm_2026": [
+      "Here's who's running for local seats in Clark and Floyd counties",
+      "Louisville Public Media",
+      "2026-07-17",
+      "https://www.lpm.org/news/2026-07-17/heres-whos-running-for-local-seats-in-clark-and-floyd-counties"
+    ],
+    "lpm_ref_preview": [
+      "Indiana voters to consider Silver Creek school referendum Tuesday",
+      "Louisville Public Media",
+      "2025-05-02",
+      "https://lpm.org/news/2025-05-02/indiana-voters-to-consider-silver-creek-school-referendum-tuesday"
+    ],
+    "lpm_ref_result": [
+      "Voters reject proposed $63 million Silver Creek school referendum",
+      "Louisville Public Media",
+      "2025-05-07",
+      "https://lpm.org/news/2025-05-07/voters-reject-proposed-63-million-silver-creek-school-referendum"
+    ],
+    "nt_tif": [
+      "Sellersburg considers tax-increment funding for Silver Creek schools",
+      "News and Tribune",
+      "2026-09-09",
+      "https://www.newsandtribune.com/news/sellersburg-considers-tax-increment-funding-for-silver-creek-schools/article_43f4006e-66d9-43c2-bf36-ccaa20901603.html"
+    ],
+    "remc_2018": [
+      "Your board of directors candidates (Clark County REMC)",
+      "Indiana Connection",
+      "2018-02-19",
+      "https://www.indianaconnection.org/board-directors-candidates/"
+    ],
+    "remc_2024": [
+      "Get to know District Four (Clark County REMC)",
+      "Indiana Connection",
+      "2024-11-17",
+      "https://indianaconnection.org/?p=83210"
+    ]
+  }
+}

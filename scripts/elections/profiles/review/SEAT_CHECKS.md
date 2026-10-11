@@ -44,6 +44,7 @@ multi-seat but not yet confirmed from a 2026 county ballot:
 | Cloverdale School Board, Taylor Township | 0 on ballot | no one filed |
 | Morgan MSD Martinsville School Board, District 5 | 0 on ballot | 2022 seat normally up in 2026; not on the state list |
 | Mt. Vernon Community School Corporation School Board, At Large | 2 | the two 2022 at-large seats (Freeman, Walls) |
+| Silver Creek School Board | 2 | 2020/2022 results; two incumbents only filers |
 | Jay School Board, District 1 | 0 on ballot | seat due in 2026 but no one filed; how it is filled is unknown |
 
 Also confirm with county election offices:

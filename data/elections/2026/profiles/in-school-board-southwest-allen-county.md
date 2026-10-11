@@ -1,0 +1,187 @@
+# Indiana School Board Member — 2026 race profile
+
+_Researched 2026-10-10 · status: draft._ Pending editorial review.
+
+## About the office
+
+A school board is the elected or appointed governing body of a public school corporation, the legal unit that runs a local school district [1, 2]. The board hires and evaluates the superintendent, adopts policies, and approves the annual budget, while the superintendent and staff run schools day to day [3]. Most boards have five or seven members serving staggered four-year terms [3]. Starting in 2026, candidates may list a political party, run as independents, or list no affiliation on the ballot, and there is no primary for these seats [2, 4].
+
+- **Term:** 4 years, with elections staggered so part of the board is chosen every two years [3]
+- **Elected:** At the November general election (November 3, 2026, or November 2028 for some seats); depending on the local organization plan, members represent the whole school corporation (at large) or a district within it, and some boards are wholly or partly appointed [2]
+- **Ballot label:** Each candidate chooses a party label, 'Independent', or no affiliation, shown next to the name; no primary and no straight-ticket voting for these races [2, 4]
+- **Pay:** Set by board resolution: an annual amount of no more than 10% of the lowest starting teacher salary in the school corporation, plus a capped per diem [5]
+- **On the 2026 ballot:** 632 races in 299 school corporations; 1,039 candidates [6]
+
+### What the office does
+
+- Hires, evaluates and can dismiss the superintendent, and approves the hiring and firing of principals, teachers and other staff recommended by the superintendent [1, 7, 3].
+- Adopts the annual budget, appropriates funds and oversees school finances [1, 3].
+- Decides whether to ask voters to approve an operating referendum (an extra property tax levy); the board adopts the resolution and the Department of Local Government Finance reviews the ballot language for compliance with state law [8].
+- Approves contracts, buys and sells property, and decides on construction, repair and demolition of school buildings [1].
+- Bargains with the teachers' union over salary, wages and wage-related benefits such as health insurance and retirement; state law excludes teacher evaluation procedures from those bargaining subjects [9].
+- Writes and updates policies and rules for schools, often in a policy handbook, including the student handbook [1, 3].
+- Buys curricular materials, provides them to students without charge, and runs programs such as student transportation and school lunch [1].
+- Must adopt a process for parents and residents to ask that library material be removed as obscene or harmful to minors, review requests at public meetings and keep a public catalog of library materials [10].
+- Hears written appeals of student expulsions, unless the board has voted not to hear them [11].
+- Must take official action openly; Indiana's Open Door Law says public agencies' official action is to be conducted openly so the people may be fully informed [12, 13].
+- A school board member must have lived in the school corporation (and, for a district seat, the district) for at least one year before the election, and a teacher or other employee of the school corporation may not serve on its board [2].
+- What the board does not control: the State Board of Education adopts statewide academic standards [14], the General Assembly sets the state school funding formula in the state budget [15], and voucher (Choice Scholarship) eligibility is set by state law [16].
+
+### Recent changes to the office
+
+- 2025: Senate Enrolled Act 287 allowed school board candidates to declare a party affiliation; the Indiana School Boards Association opposed the change, and a supporter quoted by WNDU, a Noblesville school board member, said it adds transparency [17].
+- 2026: Candidates choose a party, 'Independent' or no affiliation on their nominating petition, and that choice appears on the ballot; a candidate claiming the Democratic or Republican party must have voted in that party's primary in the two most recent primaries they voted in, or have certification from the county party chair, or can be challenged and removed from the ballot [2].
+- July 2026: Chalkbeat reported, citing Indiana School Boards Association data, that 524 of 1,044 candidates chose a party, about 72% of them Republicans [18]; the Indiana Election Division's 2026 guidance and the wording of the law differ on the primary-voting test, a question county election boards decide [19].
+- February 2026: Senate Enrolled Act 25 set the order of school board candidates on the ballot, grouped by party, with candidates who list no affiliation placed after the party and independent candidates [20].
+- 2025: Senate Enrolled Act 1, a property tax law, limits how much operating revenue districts can raise through taxes and restricts school referendums to statewide general elections in even-numbered years [21, 22].
+- 2025: The same law requires districts to share operating revenue with brick-and-mortar charter schools that enroll their students, statewide starting in 2028 [21, 22].
+- 2025: The state budget opened Choice Scholarship vouchers to all Indiana families starting in June 2026 [16].
+- 2026: The Indianapolis Public Education Corporation, rather than the Indianapolis Public Schools board, now certifies Indianapolis Public Schools referendum questions for the ballot [20].
+- 2023: Senate Enrolled Act 391 changed the so-called $1 law so the Indiana Department of Education can order districts that lost at least 10% of enrollment over five years to close schools under 60% capacity and offer them to charter schools [23].
+- 2023: House Enrolled Act 1447 required school districts to set up procedures for complaints that library material is obscene or harmful to minors [10].
+
+## This race
+
+- The district: Southwest Allen County Schools (SACS, officially MSD of Southwest Allen County Schools) serves the southwest Fort Wayne area of Allen County [24, 25]. It runs six elementary schools (Aboite, Covington, Deer Ridge, Haverhill, Lafayette Meadows and Whispering Meadows), two middle schools (Summit and Woodside), Homestead High School and the online school eSACS [24, 26]. State data show 7,389 students in 2026, down from 7,853 in 2023 [25]. In September 2026 the district estimated fall enrollment at 7,286, up 30 students from the year before [27].
+- Superintendent: Dr. Joshua D. St. John [24]. He was previously Summit Middle School's principal and became assistant superintendent of secondary education in July 2023, under then-Superintendent Park Ginder [28].
+- Board: five members, each serving a four-year term [29, 30]. Doug Copley (president) and the two incumbents on this ballot, Kimberly Moppert (vice president) and Stephanie Veit (secretary), hold at-large seats. Bradley Mills holds the Aboite Township seat and Mark Gilpin, a member since 2000, holds the Lafayette Township seat [29]. State 2024 results use different labels for the seats Copley and Mills won ('District 1' for Copley and 'At Large' for Mills), which does not match the district's list [31, 29].
+- Seats on the 2026 ballot: the state list shows 'vote for 1' [6]. But the district lists both Moppert's and Veit's at-large terms as ending December 31, 2026, and they won those seats together in 2022, when state results show two seats [29, 32]. The Journal Gazette reported that two SACS seats are on the 2026 ballot [33]. So this race elects TWO members, and the two candidates on the ballot would fill both seats.
+- Who is running: both incumbents filed as Republicans and no one filed against them. The Journal Gazette reported SACS was the only Allen County district with no contested school board race [34, 33]. 2026 is the first year Indiana school board candidates could declare a party; the seats were previously nonpartisan [33].
+- Budget (September 2026): the proposed 2027 budget is $120 million: $61 million for the education fund, $26 million for operations, $25.6 million for debt service and $7.8 million from the operating referendum. A hearing was set for September 15 and adoption for October 6 [27]. Voters renewed the operating referendum in 2022 [27, 30]. It pays salaries and benefits for 80 employees, including 67 teachers and 11 counselors, and for five school resource officers [27].
+- SEA 1 (July 2025): Chief Operating Officer Randi Libby told the board the district had planned for the expected budget effects of the 2025 property-tax law. She said: 'We're going to have less revenue, that's not an option, there's going to be less revenue across the state.' The district said it would know more once net assessed values were released on August 1 [35].
+- Enrollment and open enrollment: officials said SACS lost more than 500 students after enrollment peaked at nearly 7,800 in fall 2021, and 2025-26 was the fourth year in a row of decline [26]. On October 21, 2025, the board approved policy changes allowing limited enrollment of non-resident students and more in-district transfers, to fill open seats in existing classrooms [26, 36]. In August 2026 the board approved 180 non-resident transfers for 2026-27. The superintendent said 26 applications were denied, for reasons including lack of space and the policy's behavior and attendance rules [36].
+- Facilities: in October 2025 the board hired the Hagerman Group as construction manager for a planned $32 million career center on land directly west of Covington Elementary School [26].
+- Forums: this guide found no 2026 candidate forum or questionnaire for this race, which is uncontested.
+
+## Kimberly Moppert — At large
+
+Incumbent and board vice president, first elected in 2022 and listed as a Republican; a retired SACS teacher [29, 32, 28, 6].
+
+### Background
+
+- A SACS graduate who taught in the district for 20 years. She co-founded Mr. McGregor's Garden, a children's book and toy store in the Village at Coventry that has since closed [30].
+- Described as a retired district teacher when she joined the board in January 2023 [28].
+- Board vice president, serving since January 2023 [29].
+
+### Path to the ballot
+
+- Won an at-large seat in 2022 as the top vote-getter (7,836 votes) in a five-candidate race for two seats [32, 28].
+- Filed for re-election as a Republican and is unopposed [33, 34, 6].
+
+### Positions & plans
+
+**Teachers & staff**
+
+- In 2022 she said the board needed a member with classroom experience: 'It's time that we really had someone (on the board) who knows what it's like to be a teacher, knows the highs and lows of those kinds of things.' She also said, 'You can't micromanage all the time what's going on in the classroom' [30].
+
+### On the current officeholder
+
+- Is a current board member and vice president [29]. When she took office in January 2023 she said, 'I'm going to do my best to do what's best for kids' [28]. This guide found no 2026 statement from her on the board's record.
+
+### How they say they'd run the office
+
+- In 2022 she said she would be guided by what is best for students [30]. No 2026 campaign plans found.
+
+### Endorsements & fundraising
+
+- In 2022 campaign finance filings showed she received $8,000 from the Indiana Political Action Committee for Education, the political arm of the Indiana State Teachers Association [30].
+- In October 2022 she was one of several school board candidates who introduced themselves at an Allen County Republican Party fundraiser. The party chairman said the appearances were not party endorsements [37].
+- No 2026 endorsements or campaign finance reports found.
+
+### What we couldn't verify
+
+- No campaign website, questionnaire, forum answers or 2026 news profile found.
+- Her individual votes and statements on the 2025 enrollment policy, the budget and the career center were not found.
+- No 2026 campaign finance reports found.
+
+## Stephanie Veit — At large
+
+Incumbent and board secretary, first elected in 2022 and listed as a Republican [29, 32, 6].
+
+### Background
+
+- In 2022 she was director of airport development at the Fort Wayne-Allen County Airport Authority. She was previously business development manager at The Hagerman Group and a commercial lender at 3Rivers Federal Credit Union [30].
+- She has said she does not have a background in education but has experience in construction and master planning [30].
+- Board secretary, serving since January 2023 [29, 28].
+
+### Path to the ballot
+
+- Won an at-large seat in 2022 with 6,644 votes, finishing just ahead of then-incumbent Doug Copley (6,635) in a five-candidate race for two seats. A December 2022 recount confirmed her win [32, 28].
+- Filed for re-election as a Republican and is unopposed [33, 34, 6].
+
+### Positions & plans
+
+**Facilities**
+
+- In 2022 she said her construction and master-planning experience would help SACS manage enrollment growth and student capacity at its elementary and middle schools [30].
+
+**Enrollment & school choice**
+
+- In October 2025, when the board discussed the non-resident transfer policy, she explained that the salary thresholds for giving priority to non-resident employees' children are meant to favor full-time staff over, for example, someone who coached one season or substitute taught twice [38].
+
+**Transparency & community input**
+
+- In 2022 she said she would use her private-sector experience to engage the community in the schools' work [30].
+- At the September 2026 budget presentation she said the board gets asked a lot what the referendum pays for, and said she appreciated the information [27].
+
+### On the current officeholder
+
+- Is a current board member and secretary [29]. This guide found no 2026 campaign statement from her on the board's record.
+
+### How they say they'd run the office
+
+- No 2026 campaign plans found.
+
+### Endorsements & fundraising
+
+- In 2022 campaign finance filings showed $1,000 from the Indiana Political Action Committee for Education (the Indiana State Teachers Association's political arm) and $500 from Therese Brown, then a Republican candidate for Allen County commissioner [30].
+- In October 2022 she was one of several school board candidates who introduced themselves at an Allen County Republican Party fundraiser. The party chairman said the appearances were not party endorsements [37].
+- No 2026 endorsements or campaign finance reports found.
+
+### What we couldn't verify
+
+- No campaign website, questionnaire, forum answers or 2026 news profile found.
+- Current occupation not confirmed; the job listed is from 2022.
+- Her individual votes on the 2025 enrollment policy, the budget and the career center were not confirmed.
+- No 2026 campaign finance reports found.
+
+## Sources
+
+1. [Indiana Code 20-26-5-4: Specific powers of governing body](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-5-4/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+2. [2026 Indiana Candidate Guide (School Board Offices)](https://www.in.gov/dA/1eada35c3e/2026-Candidate-Guide.FINAL.pdf) — Indiana Election Division, accessed 2026-10-10
+3. [800 school board seats are up for election in Indiana](https://chalkbeat.org/indiana/2024/06/13/school-board-seats-up-for-election-in-indiana-in-2024) — Chalkbeat Indiana / WFYI, 2024-06-13
+4. [Why there are no education elections on your primary ballot](https://www.chalkbeat.org/indiana/2026/04/07/primary-election-ballot-changes-exclude-education-races-and-referendums/) — Chalkbeat Indiana, 2026-04-07
+5. [Indiana Code 20-26-4-7: Compensation of governing body members](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-4-7/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+6. [2026 General Election Candidate List](https://www.in.gov/sos/elections/candidate-information/) — Indiana Election Division, 2026-09-22
+7. [Indiana Code 20-26-5-4.5: Selection and discharge of employees](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-5-4-5/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+8. [School Tax Levy Referendum](https://www.in.gov/dlgf/referendum-information/school-tax-levy-referendum/) — Indiana Department of Local Government Finance, accessed 2026-10-10
+9. [Indiana Code 20-29-6-4: Subjects of collective bargaining](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-29-6-4/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+10. [Obscene, or just objectionable? Here's how Indiana schools are tackling library book complaints](https://arnoltcenter.org/?p=1345) — Arnolt Center for Investigative Journalism / Indiana Capital Chronicle, 2024-02-05
+11. [Indiana Code 20-33-8-19: Expulsion appeals](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-33-8-19/) — FindLaw (Indiana Code), accessed 2026-10-10
+12. [Indiana Code 5-14-1.5-1: Open Door Law policy](https://codes.findlaw.com/in/title-5-state-and-local-administration/in-code-sect-5-14-1-5-1/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+13. [What We Do](https://www.in.gov/pac/about-us/what-we-do/) — Indiana Public Access Counselor, accessed 2026-10-10
+14. [Indiana Code 20-31-3-1: State academic standards](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-31-3-1/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+15. [Indiana K-12 State Tuition Support Annual Report FY2023](https://www.in.gov/doe/files/2023-Tuition-Support-Report.pdf) — Indiana Department of Education, 2023
+16. [Indiana lawmakers expand voucher eligibility, increase school funding in budget](https://chalkbeat.org/indiana/2025/04/24/vouchers-for-all-start-in-2026-budget-year) — Chalkbeat Indiana, 2025-04-24
+17. [Indiana school board candidates split 50-50 on affiliating with a party](https://www.wndu.com/2026/07/20/indiana-school-board-candidates-split-50-50-affiliating-with-party/) — WNDU, 2026-07-20
+18. [5 takeaways from Chalkbeat's panel on Indiana's changes to school board elections and referendums](https://www.chalkbeat.org/indiana/2026/07/10/indiana-school-board-elections-partisan-referendums-takeaways/) — Chalkbeat Indiana, 2026-07-10
+19. [Confusion on partisan school board law puts two IPS candidates' spots at risk](https://www.chalkbeat.org/indiana/2026/07/27/confusion-on-partisan-schoolboard-threatens-ips-ballot-spots/) — Chalkbeat Indiana, 2026-07-27
+20. [2026 Indiana Election Legislation Summary](https://www.in.gov/dA/d13ecb1f55/2026-Indiana-Election-Legislation-Summary.FINAL.pdf) — Indiana Election Division, 2026
+21. [Indiana school referendum elections: Districts seek funding for teacher pay, class size, buses](https://www.chalkbeat.org/indiana/2025/10/27/schools-property-tax-referendum-election-2025) — Chalkbeat Indiana, 2025-10-27
+22. [Indiana school district referendum guide 2026: What to know about your district's requested tax increase](https://www.wvxu.org/2026-08-17/indiana-school-district-referendum-guide-2026-what-to-know-about-your-districts-requested-tax-increase) — WFYI and Chalkbeat Indiana (via WVXU), 2026-08-17
+23. [Indiana charter schools could now have an easier path to acquiring district buildings](https://www.chalkbeat.org/indiana/2023/6/11/23755769/indiana-charters-acquire-traditional-public-school-buildings-underutilized-enrollment) — Chalkbeat Indiana, 2023-06-11
+24. [Leadership](https://www.sacs.k12.in.us/18823_2) — Southwest Allen County Schools, accessed 2026-10-10
+25. [Corporation Enrollment by Grade Level, 2006-26](https://www.in.gov/doe/files/corporation-enrollment-grade-2006-26.xlsx) — Indiana Department of Education, 2026
+26. [Southwest Allen County Schools board agrees to loosen enrollment rules](https://www.journalgazette.net/local/schools/southwest-allen-county-schools-board-agrees-to-loosen-enrollment-rules/article_faf962b1-82e1-4842-bf25-66319f32a2c7.html) — The Journal Gazette, 2025-10-21
+27. [Enrollment trending up at Southwest Allen County Schools after years of declines](https://www.journalgazette.net/local/schools/enrollment-trending-up-at-southwest-allen-county-schools-after-years-of-declines/article_6a2f1ff4-2577-412f-9fff-5e8bc512d41f.html) — The Journal Gazette, 2026-09-02
+28. [Women rule on Southwest Allen County Schools board](https://www.journalgazette.net/local/schools/women-rule-on-southwest-allen-county-schools-board/article_2f39a4a2-915c-11ed-b957-7743e1bed823.html) — The Journal Gazette, 2023-01-10
+29. [Meet the Board](https://www.sacs.k12.in.us/10524_3) — Southwest Allen County Schools, accessed 2026-10-10
+30. [Referendum, leadership decisions face voters in Southwest Allen County Schools](https://www.journalgazette.net/local/referendum-leadership-decisions-face-voters-in-southwest-allen-county-schools/article_c3c564f2-58b4-11ed-a194-1bd849280e3b.html) — The Journal Gazette, 2022-10-31
+31. [2024 General Election Results (School Board Member)](https://enr.indianavoters.in.gov/archive/2024General/index.html) — Indiana Election Division, 2024-11
+32. [2022 General Election Results (School Board Member)](https://enr.indianavoters.in.gov/archive/2022General/index.html) — Indiana Election Division, 2022-11
+33. [One Allen County school board candidate filed campaign this week](https://www.journalgazette.net/local/one-allen-county-school-board-candidate-filed-campaign-this-week/article_89120404-77c7-4474-82ae-f3c1917189da.html) — The Journal Gazette, 2026-06-12
+34. [School board hopefuls file for candidacy in Allen County](https://www.journalgazette.net/local/schools/school-board-hopefuls-file-for-candidacy-in-allen-county/article_cad8d648-3b19-4981-8734-0d9f923f423c.html) — The Journal Gazette, 2026-06-18
+35. [How Southwest Allen Co. Schools navigates Senate Bill 1](https://www.wane.com/news/local-news/how-southwest-allen-co-schools-navigates-senate-bill-1/) — WANE 15, 2025-07-22
+36. [Looser enrollment rules draw nearly 200 non-resident students to Southwest Allen County Schools](https://www.journalgazette.net/local/schools/looser-enrollment-rules-draw-nearly-200-non-resident-students-to-southwest-allen-county-schools/article_267517ee-b8ba-4441-9eab-18f26b8940c3.html) — The Journal Gazette, 2026-08-05
+37. [Rep. Bob Morris cites litter box myth in school board endorsement](https://www.journalgazette.net/local/indiana/statehouse/rep-bob-morris-cites-litter-box-myth-in-school-board-endorsement/article_a5c339ca-5b02-11ed-ba2b-e3f98fe50db1.html) — The Journal Gazette, 2022-11-03
+38. [Vote nears on Southwest Allen County Schools policy to expand non-resident enrollment](https://www.journalgazette.net/local/schools/vote-nears-on-southwest-allen-county-schools-policy-to-expand-non-resident-enrollment/article_e1e97f19-8a74-49ef-9fae-90c2c12d5a81.html) — The Journal Gazette, 2025-10-10

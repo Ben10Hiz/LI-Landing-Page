@@ -182,6 +182,7 @@ SEAT_OVERRIDES = {
     "Vincennes School Board, At Large": 2,  # Vincennes Sun-Commercial / Knox County clerk
     "Whiting School Board, At Large": 2,  # Lake County sample ballot
     "Northwestern School Board, At Large": 2,  # Howard County candidate list
+    "Southwest Allen County School Board, At large": 2,  # SACS board page; Journal Gazette
 }
 
 
