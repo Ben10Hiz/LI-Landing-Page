@@ -138,6 +138,12 @@ SEAT_OVERRIDES = {
     "Fort Wayne Community School Board, At Large": 2,   # Journal Gazette
     "Elkhart Goshen School Board, At Large": 2,         # WSBT
     "Vanderburgh School Board, District 2": 2,          # WNIN
+    "Marion Decatur Township School Board, At Large": 3,       # Chalkbeat / WFYI
+    "Marion Pike Township School Board, At Large": 3,          # Chalkbeat / WFYI
+    "Marion Wayne Township Public School Board, At Large": 4,  # Chalkbeat
+    "Marion Perry Township Public School Board, At Large": 3,  # Chalkbeat / WFYI
+    "Marion Warren Township School Board, At Large": 3,        # Chalkbeat / WFYI
+    "Hamilton Noblesville School Board, At Large": 2,          # Noblesville Schools
 }
 
 

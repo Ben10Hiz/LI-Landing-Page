@@ -1,0 +1,253 @@
+{
+ "race_id": "in-school-board-hendricks-brownsburg",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Brownsburg Community School Corporation (BCSC) serves Brown and Lincoln townships in Hendricks County {bcsc_board} {bcsc_engage}. It reported 10,654 students in pre-K through grade 12 at the midpoint of the 2025-26 school year and 631 certified teachers; Kat Jessup is superintendent {bcsc_welcome}.",
+  "The five-member board serves four-year terms {bp_bcsc}. Seats: three Lincoln Township (Katie Dixon, president, term ending December 2026; Mike Wells; Matthew Freije), one Brown Township (Gordon Hayward, secretary) and one at-large (Jessica Heffernan, vice president, term ending December 2026) {bcsc_board}.",
+  "Two seats are on the Nov. 3, 2026 ballot, one each, matching the state list's \"vote for 1\" {bcsc_board} {in_list}. At-large: Heffernan is not on the ballot, so the seat is open; three candidates are running {bcsc_board} {bp_bcsc}. Lincoln Township: incumbent Dixon faces Garen Carnes {bcsc_board} {bp_bcsc}. Aurora Verkamp is listed with the American Solidarity Party; the other four are listed as nonpartisan {in_list}.",
+  "Budget: BCSC says the 2023 law HB 1454 removed about $3.5 million a year from its Operations Fund and that SEA 1 (2025) removes more than $2 million a year more, requiring $7.9 million in cuts over three school years {bcsc_engage}. The district says it will start 2026-27 with 49 fewer staff and teacher positions, cutting $3.3 million, with more cuts expected in 2027-28 {bcsc_engage}.",
+  "Referendum: BCSC has no operating referendum and said it will not seek one in 2026, calling a referendum \"an absolute last resort\" {bcsc_engage}. It says it collects and spends less per student than similar districts while outperforming them on state metrics {bcsc_engage}.",
+  "Local support: the Town of Brownsburg approved a one-time $800,000 in TIF funds for BCSC workforce-development programs, and the Brown and Lincoln township trustees each pledged $100,000 toward transportation for homeless students under the McKinney-Vento program, which the district says costs over $300,000 a year {bcsc_engage}.",
+  "Community engagement: the district held three public finance sessions (Feb. 4, Feb. 25 and March 18, 2026) on school funding, SEA 1 and possible 2027-28 cuts {bcsc_engage}.",
+  "Forums: no candidate forum or news coverage of the 2026 race was found in reviewed sources. Ballotpedia surveys from Verkamp and Barker were the only detailed candidate statements found {bp_verkamp} {bp_barker}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Aurora Verkamp",
+   "seat": "At Large",
+   "summary": "Homeschooling parent and Hendricks County native running for the open at-large seat; listed with the American Solidarity Party {bp_verkamp} {in_list}.",
+   "website": "https://www.facebook.com/profile.php?id=61590849350014",
+   "background": [
+    "Stay-at-home parent; graduated from the Indiana Academy for Science, Mathematics and Humanities and Indiana State University {bp_verkamp}.",
+    "A Hendricks County native who attended Pittsboro Elementary and Tri-West {bp_verkamp}.",
+    "Homeschools her children, who do not attend BCSC; she says a strong school system is a priority for every Brownsburg resident {bp_verkamp}."
+   ],
+   "path_to_ballot": [
+    "Listed with the American Solidarity Party on the 2026 ballot list {in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Says teachers need flexibility to adapt lesson plans to the children in front of them rather than follow a rigid schedule, even one developed by district teachers {bp_verkamp}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Says \"Having the best test scores should not be the goal\" and that schools should teach children how to learn {bp_verkamp}.",
+      "Wants significant outdoor time and physical movement, especially for elementary-age children {bp_verkamp}."
+     ]
+    },
+    {
+     "topic": "Enrollment & school choice",
+     "items": [
+      "Says charter and magnet schools offer flexibility BCSC should use to enhance its offerings, while acknowledging this would require significant resources and time {bp_verkamp}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "No comment on the current board's decisions was found."
+   ],
+   "plans": [
+    "Says she looks forward to learning about BCSC from community members and through the Vision BCSC program {bp_verkamp}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in reviewed sources."
+   ],
+   "gaps": [
+    "No news coverage of her candidacy was found.",
+    "No stated position on the budget cuts or SEA 1 was found.",
+    "Campaign finance filings with Hendricks County were not reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Devin A Jones",
+   "seat": "At Large",
+   "summary": "Candidate for the open at-large seat, listed as nonpartisan; little public information was found {in_list} {bp_jones}.",
+   "website": "https://www.facebook.com/profile.php?id=61591699352403",
+   "background": [
+    "No background information was found in reviewed sources {bp_jones}."
+   ],
+   "path_to_ballot": [
+    "Listed as nonpartisan on the 2026 ballot list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements found."
+   ],
+   "plans": [
+    "No statements found."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in reviewed sources."
+   ],
+   "gaps": [
+    "Did not complete Ballotpedia's survey; his campaign Facebook page could not be read; no news coverage was found.",
+    "Campaign finance filings with Hendricks County were not reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Sara R Barker",
+   "seat": "At Large",
+   "summary": "Healthcare executive and BCSC parent running for the open at-large seat, listed as nonpartisan {bp_barker} {in_list}.",
+   "website": "https://www.facebook.com/profile.php?id=61591412368839",
+   "background": [
+    "Has more than 20 years of leadership experience in healthcare organizations in strategy, operations and finance; bachelor's degree from Erskine College {bp_barker}.",
+    "Brownsburg resident since 2014 and parent of two BCSC students; in her fourth year on her elementary school's PSG board, now as president; graduate of the district's Vision BCSC program {bp_barker}."
+   ],
+   "path_to_ballot": [
+    "Listed as nonpartisan on the 2026 ballot list {in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Says fiscal responsibility means understanding alternatives, seeking efficiencies, advocating for a sustainable funding structure and avoiding savings that create larger costs later {bp_barker}.",
+      "Says programs should be evaluated on outcomes, need, participation and cost, and the district should be willing to ask \"what we can stop doing\" {bp_barker}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Says core classroom instruction should come first when resources are limited {bp_barker}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Calls teacher retention critical, citing pay, workload, leadership, resources and professional growth {bp_barker}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Wants a consistent process for major decisions: explain the issue and trade-offs early, take community input before deciding, then explain what was decided and why {bp_barker}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Says she wants \"greater transparency and community understanding around significant decisions and changes,\" noting that current decisions are financial; no direct criticism of specific board votes was found {bp_barker}."
+   ],
+   "plans": [
+    "Says she would help protect what makes Brownsburg schools strong while navigating financial challenges {bp_barker}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in reviewed sources."
+   ],
+   "gaps": [
+    "No news coverage of her candidacy was found; her employer was not named.",
+    "Campaign finance filings with Hendricks County were not reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Garen Carnes",
+   "seat": "Lincoln Township",
+   "summary": "Challenger for the Lincoln Township seat, listed as nonpartisan; little public information was found {in_list} {bp_carnes}.",
+   "website": null,
+   "background": [
+    "No background information was found in reviewed sources {bp_carnes}."
+   ],
+   "path_to_ballot": [
+    "Listed as nonpartisan on the 2026 ballot list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements found."
+   ],
+   "plans": [
+    "No statements found."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in reviewed sources."
+   ],
+   "gaps": [
+    "Did not complete Ballotpedia's survey; no campaign website, social media page or news coverage was found.",
+    "Campaign finance filings with Hendricks County were not reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Kathryn (Katie) Dixon",
+   "seat": "Lincoln Township",
+   "summary": "Incumbent Lincoln Township member and board president, first elected in 2022; listed as nonpartisan {bcsc_board} {bp_bcsc} {in_list}.",
+   "website": "https://facebook.com/katiedixonforschoolboard",
+   "background": [
+    "Listed by the district as Dr. Katie Dixon, board president, representing Lincoln Township {bcsc_board}."
+   ],
+   "path_to_ballot": [
+    "Listed as nonpartisan on the 2026 ballot list {in_list}.",
+    "Ran for the Lincoln Township seat in 2022 against Tiffany Dearman and Joseph Mgboh; her current term expires December 2026 {bp_bcsc} {bcsc_board}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member and its president {bcsc_board}. No statement from her on the board's record, including the 2026 staffing cuts and decision not to seek a referendum, was found in reviewed sources."
+   ],
+   "plans": [
+    "No 2026 platform was found in reviewed sources."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in reviewed sources."
+   ],
+   "gaps": [
+    "Did not complete Ballotpedia's 2026 survey; her campaign Facebook page could not be read; no news coverage was found.",
+    "Occupation and doctoral field not verified.",
+    "Her votes on specific 2026 budget actions were not checked against board minutes.",
+    "Campaign finance filings with Hendricks County were not reviewed."
+   ]
+  }
+ ],
+ "sources": {
+  "bcsc_board": [
+   "School Board Members",
+   "Brownsburg Community School Corporation",
+   "2026-10",
+   "https://www.brownsburg.k12.in.us/school-board/school-board-members"
+  ],
+  "bcsc_welcome": [
+   "BCSC Welcome",
+   "Brownsburg Community School Corporation",
+   "2026",
+   "https://www.brownsburg.k12.in.us/about-us/bcsc-welcome"
+  ],
+  "bcsc_engage": [
+   "Community Engagement",
+   "Brownsburg Community School Corporation",
+   "2026",
+   "https://www.brownsburg.k12.in.us/communication/community-engagement"
+  ],
+  "bp_bcsc": [
+   "Brownsburg Community School Corporation, Indiana, elections",
+   "Ballotpedia",
+   "2026-10",
+   "https://ballotpedia.org/Brownsburg_Community_School_Corporation,_Indiana,_elections"
+  ],
+  "bp_verkamp": [
+   "Aurora Verkamp (candidate survey)",
+   "Ballotpedia",
+   "2026-09-27",
+   "https://ballotpedia.org/Aurora_Verkamp_(Brownsburg_School_Board,_At-large,_Indiana,_candidate_2026)"
+  ],
+  "bp_barker": [
+   "Sara R. Barker (candidate survey)",
+   "Ballotpedia",
+   "2026-09-28",
+   "https://ballotpedia.org/Sara_R._Barker_(Brownsburg_School_Board,_At-large,_Indiana,_candidate_2026)"
+  ],
+  "bp_jones": [
+   "Devin A. Jones (2026 candidate page)",
+   "Ballotpedia",
+   "2026-10",
+   "https://ballotpedia.org/Devin_A._Jones_(Brownsburg_School_Board,_At-large,_Indiana,_candidate_2026)"
+  ],
+  "bp_carnes": [
+   "Garen Carnes (2026 candidate page)",
+   "Ballotpedia",
+   "2026-10",
+   "https://ballotpedia.org/Garen_Carnes_(Brownsburg_School_Board,_Lincoln_Township,_Indiana,_candidate_2026)"
+  ]
+ }
+}

@@ -1,0 +1,454 @@
+{
+ "race_id": "in-school-board-zionsville",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Zionsville Community Schools (ZCS) serves Zionsville and Eagle and Union townships in Boone County, with a high school, two middle schools and six elementary schools {zcs_board}. The district counted 7,852 students on the Oct. 1, 2025 count day, up 28 from the prior year {zcs_enroll}. Rebecca Coffman is superintendent {zcs_ref}.",
+  "The Board of School Trustees has five elected members representing Eagle and Union townships {zcs_board}, serving four-year terms {bp_zcs}. Current members: Katie Aeschliman (president), Michael Berg (vice president), Michael Coussens (secretary), Jennifer Valentine and Christy Wessel-Powell {zcs_board}. In 2022 the IndyStar reported that any registered voter in the district may vote in each seat's race regardless of where they live {star22}.",
+  "Three seats are on the Nov. 3, 2026 ballot, one per race (at-large, Eagle Township and Union Township), matching the state list's \"vote for 1\" {bp_zcs} {in_list}. All three incumbents are running: Wessel-Powell (at-large), Berg (Eagle) and Valentine (Union), each first elected or reelected in 2022 {bp_zcs} {star22}. Each faces one challenger; the three challengers are listed as Republicans and the incumbents with no party {in_list} {bp_zcs}. The other two seats (Aeschliman, Eagle; Coussens, Union) were elected in 2024 and are not on the ballot {bp_zcs}.",
+  "Referendum: on June 8, 2026, the board voted 4-0 (Coussens absent) to place an eight-year operating referendum on the November ballot, renewing a levy first approved in 2012 and last renewed in 2019 that expires in December 2027 {dlgf_zcs_res} {zcs_ref}. The question sets a maximum rate of 0.4128 per $100 of assessed value and a maximum annual levy of $21,463,325; state-required ballot language says a $600,000 median home's tax bill would rise $1,368 a year, which the state approved on June 10 {dlgf_zcs_det}.",
+  "The superintendent says the referendum pays for about one in three ZCS teachers, that 100% of its revenue goes to teacher salaries and benefits, and that ZCS is the lowest-funded Indiana district per pupil; she says the required ballot figure is calculated as if no referendum existed and will appear higher than what residents would actually pay {zcs_ref}. The parent group YES for ZCS calls it a renewal, not a new tax, and estimates an average change of $7.10 a year for a median residence {yes_zcs}.",
+  "Budget and SEA 1: the district says the 2025 property-tax law (SEA 1) reduces the taxable value of homes, so school revenue from them is expected to fall even as home values rise, and that because the current levy expires in December 2027 and referendums may now appear only in even-year November elections, waiting until 2028 would be too late {zcs_ref}.",
+  "Facilities and growth: in spring 2026 ZCS broke ground on an Early Learning Center that will also house administrative offices; the district says this lets it accommodate growth without opening a new elementary or middle school for now and frees space at the high school {zcs_digest_mar}. Class-size targets are 18 in kindergarten and first grade, 20 in grades 2-3 and 25 in grades 4-12 {zcs_enroll}.",
+  "Accountability: in August 2025 district staff briefed the board on the state's proposed new accountability and grading model taking effect in fall 2026 {zcs_aug25}.",
+  "Forums: no joint school board candidate forum was found in reviewed sources; the Zionsville Village Residents Association scheduled a presentation by Superintendent Coffman on the referendum for Oct. 11, 2026 {zvra}. Of the six candidates, Valentine and Waters said they support the referendum, and all three incumbents voted to place it on the ballot {bp_valentine} {waters_vision} {dlgf_zcs_res}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Christina Wessel-Powell",
+   "seat": "At Large",
+   "summary": "Incumbent at-large member, first elected in 2022; a Purdue education professor and ZCS parent, she is listed with no party {bp_zcs} {in_list} {ws_2022}.",
+   "website": "https://christywesselpowel.wixsite.com/christy4schoolboard",
+   "background": [
+    "Was an assistant professor of literacy and language education at Purdue University as of 2022; holds a Ph.D. in education from Indiana University Bloomington and was earlier a K-2 classroom teacher and literacy coach, according to her 2022 campaign site {ws_2022}.",
+    "Parent of two children in ZCS, per her 2022 campaign site {ws_2022}."
+   ],
+   "path_to_ballot": [
+    "Listed with no party on the 2026 ballot {in_list}.",
+    "Won the at-large seat in 2022 over Matthew Keefer and Sarah Sampson; sworn in January 2023 {bp_zcs} {star22}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Voted with the 4-0 majority on June 8, 2026, to place the operating referendum on the ballot {dlgf_zcs_res}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "In 2022 she campaigned on giving teachers support and autonomy, maintaining student safety and managing district growth {star22}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member {zcs_board}. No 2026 statement on the board's record was found in reviewed sources."
+   ],
+   "plans": [
+    "Her 2022 campaign site pledged to support teachers, welcome all families and provide responsible stewardship of the schools {ws_2022}."
+   ],
+   "endorsements_finance": [
+    "In 2022 she was endorsed by then-board president Debbie Ungar {star22}. No 2026 endorsements or campaign finance reports were found in reviewed sources."
+   ],
+   "gaps": [
+    "No 2026 campaign platform, interview or Ballotpedia survey was found; her listed campaign website dates from 2022.",
+    "Unverified (search snippet only): a June 22, 2026 Current in Zionsville article reported the three incumbents seeking reelection; the article could not be fetched (site blocked).",
+    "Current job title (assistant vs. associate professor) not verified for 2026.",
+    "Campaign finance filings with Boone County were not reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Thomas (Tom) Trupe",
+   "seat": "At Large",
+   "summary": "Engineer, small-business owner and ZCS parent running for the at-large seat, listed as a Republican {bp_trupe} {trupe_about} {in_list}.",
+   "website": "https://trupeforzcs.com",
+   "background": [
+    "Has a bachelor's degree in engineering from Penn State and a master's in engineering from Purdue; worked in product development for a local Fortune 500 company {trupe_about}.",
+    "Zionsville resident since 2015; he and his wife own several Zionsville-based businesses; parent of three ZCS students {trupe_about}.",
+    "Says he has coached Zionsville Little League, served on his HOA board and volunteered with the Zionsville Food Pantry, Wheeler Mission and Safe Families {trupe_about} {bp_trupe}."
+   ],
+   "path_to_ballot": [
+    "Listed as a Republican on the 2026 ballot list {in_list}. First run for this office found in reviewed sources {bp_trupe}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Says ZCS's budget \"has grown exponentially over the last decade while student growth and academic success have moderated,\" and wants to fully understand district finances and direct dollars to students' learning needs {bp_trupe}.",
+      "Lists financial audits among procedures the district should adopt {bp_trupe}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Says a sound budget prioritizes competitive teacher pay and classroom support, and that he would reduce \"unnecessary administrative burdens\" on teachers {bp_trupe} {trupe_issues}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Wants the board to set high academic goals and \"stretch targets\" for administrators, prioritizing math, reading and science {bp_trupe} {trupe_issues}."
+     ]
+    },
+    {
+     "topic": "Curriculum & library policy",
+     "items": [
+      "His website lists \"Classrooms and curriculum should remain neutral\" and \"Parents are the decision makers in their children's education\" among top issues {trupe_issues}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Calls for structured, accessible ways for parents, teachers and taxpayers to be heard, and for the board to consult outside experts as well as those recommended by administrators {bp_trupe}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Says the board needs members who collaborate with experts beyond those recommended by the administration {bp_trupe}. No direct comment on specific board votes was found."
+   ],
+   "plans": [
+    "Says he would seek and debate options on financial and curricular decisions and focus on safety, financial audits, student support and educational resources {trupe_issues} {bp_trupe}."
+   ],
+   "endorsements_finance": [
+    "Said in his Aug. 26, 2026 Ballotpedia survey that he had not accepted any endorsement {bp_trupe}. No campaign finance reports were found in reviewed sources."
+   ],
+   "gaps": [
+    "No stated position on the 2026 operating referendum was found.",
+    "Unverified (search snippet only): Current in Zionsville reported in July 2026 that he did not respond to interview requests.",
+    "Campaign finance filings with Boone County were not reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Melissa Waters",
+   "seat": "Eagle",
+   "summary": "Former elementary teacher and ZCS parent challenging the Eagle Township incumbent, listed as a Republican {waters_about} {in_list}.",
+   "website": "https://watersforzcs.com",
+   "background": [
+    "Has a B.A. in education from Purdue; taught for nine years (second and third grades at a charter school, then fourth and fifth grades at a public school) and has substituted in ZCS and nearby districts {waters_about}.",
+    "Moved to Zionsville in 2017; parent of two ZCS students; has volunteered with Boone County CASA and school PTOs {waters_about}."
+   ],
+   "path_to_ballot": [
+    "Listed as a Republican on the 2026 ballot list {in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Says she plans to support the referendum to protect class sizes, but that if it passes the district should pursue independent financial audits and keep administrative costs as low as possible {waters_vision}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Supports more recess for middle schoolers, more textbooks and paper-based learning \"where appropriate,\" hands-on learning and academic competition {waters_vision}.",
+      "Wants a rigorous writing curriculum, explicit grammar instruction and mastery of foundational math in elementary grades {waters_vision}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Lists retaining and attracting excellent educators as a focus {waters_vision}."
+     ]
+    },
+    {
+     "topic": "Curriculum & library policy",
+     "items": [
+      "Says classrooms should remain politically neutral, and that students' broader social, emotional and medical needs should be addressed by parents and outside professionals rather than school resources {waters_vision}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Her calls for independent audits and lower administrative costs imply changes to current practice, but no direct comment on the board's record was found {waters_vision}."
+   ],
+   "plans": [
+    "Says she would focus on student achievement, partnering with families and educators, and stewardship of taxpayer money {waters_about}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in reviewed sources."
+   ],
+   "gaps": [
+    "Unverified (search snippet only): Current in Zionsville reported in July 2026 that this is her first run for public office and that she favors less emphasis on laptops and Chromebooks.",
+    "Campaign finance filings with Boone County were not reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Michael Berg",
+   "seat": "Eagle",
+   "summary": "Incumbent Eagle Township member and board vice president seeking a third term; listed with no party {zcs_board} {in_list} {star22}.",
+   "website": null,
+   "background": [
+    "As of 2022, a licensed therapist and program manager for HIV services at a large health network {star22}.",
+    "Parent of two daughters in ZCS as of 2022 {star22}."
+   ],
+   "path_to_ballot": [
+    "Listed with no party on the 2026 ballot {in_list}.",
+    "Joined the board in 2018 and won the Eagle Township seat in 2022 over Timothy Hardt {star22} {bp_zcs}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Voted with the 4-0 majority on June 8, 2026, to place the operating referendum on the ballot {dlgf_zcs_res}.",
+      "In 2022 he campaigned on responsible management of tax dollars and teacher autonomy in the classroom {star22}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member and its vice president {zcs_board}. No 2026 statement on the board's record was found in fetched sources."
+   ],
+   "plans": [
+    "No 2026 platform was found in fetched sources."
+   ],
+   "endorsements_finance": [
+    "Endorsed by the Zionsville Educators Association, per Ballotpedia {bp_berg}. No campaign finance reports were found in reviewed sources."
+   ],
+   "gaps": [
+    "His campaign Facebook page (Berg4Board) could not be read.",
+    "Unverified (search snippet only): Current in Zionsville reported in July 2026 that he backs the district's referendum.",
+    "Current employment not verified for 2026.",
+    "Campaign finance filings with Boone County were not reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Jennifer Valentine",
+   "seat": "Union",
+   "summary": "Incumbent Union Township member first elected in 2022, listed with no party; endorsed by the Zionsville Educators Association {bp_valentine} {in_list}.",
+   "website": "https://www.facebook.com/valentine4zcsboard/",
+   "background": [
+    "Has a bachelor's degree from Oakland University {bp_valentine}.",
+    "Parent of two ZCS graduates and two current students; her family is in its 13th school year in Zionsville {bp_valentine}.",
+    "Says she volunteers with sports, robotics, the civics bee and other community programs {bp_valentine}."
+   ],
+   "path_to_ballot": [
+    "Listed with no party on the 2026 ballot {in_list}.",
+    "Won the Union Township seat in 2022 in a three-way race with Michael Coussens and Marcus Such {bp_zcs} {star22}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Supports the operating referendum and says she is running to continue the board's fiscal stewardship {bp_valentine}.",
+      "Voted with the 4-0 majority on June 8, 2026, to place the referendum on the ballot {dlgf_zcs_res}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Calls for strategic investment in teachers and staff, and says retention is vital {bp_valentine}."
+     ]
+    },
+    {
+     "topic": "Facilities",
+     "items": [
+      "Lists responsible planning for growth, including land and capital needs {bp_valentine}."
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "Lists student safety, mental health and inclusion as top priorities {bp_valentine}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Wants clear channels for parent feedback and decision-making in which the community can see the steps taken {bp_valentine}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member {zcs_board}. Describes the board as \"collaborative, with diverse strengths\" and says Zionsville is ranked No. 2 among Indiana public school districts and should aim for No. 1 {bp_valentine}."
+   ],
+   "plans": [
+    "Says she will focus on K-12 academic standards, early childhood development and vocational training, and on prioritizing spending that directly affects student outcomes {bp_valentine}."
+   ],
+   "endorsements_finance": [
+    "Endorsed by the Zionsville Educators Association, per her Ballotpedia survey {bp_valentine}. No campaign finance reports were found in reviewed sources."
+   ],
+   "gaps": [
+    "The ranking she cites (No. 2 in Indiana) was not independently verified; its source was not stated.",
+    "Current occupation not stated in 2026 sources.",
+    "Campaign finance filings with Boone County were not reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Rachel Brandli",
+   "seat": "Union",
+   "summary": "Nonprofit event planner and ZCS parent challenging the Union Township incumbent, listed as a Republican {brandli_about} {in_list}.",
+   "website": "https://brandliforzcs.com",
+   "background": [
+    "Has a bachelor's degree in communications from Grace College and works as an event planner for a local nonprofit {brandli_about}.",
+    "Built a home in Zionsville in 2016; parent of three children in ZCS elementary, middle and high schools; has coached Zionsville Little League sports {brandli_about}."
+   ],
+   "path_to_ballot": [
+    "Listed as a Republican on the 2026 ballot list {in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Says the largest possible share of school funding should go to teachers and classroom learning, with streamlined administrative costs {brandli_issues}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Wants administrators to give teachers more help with classroom behavior to protect instructional time, and supports strategic use of teacher aides, especially in larger classes {brandli_issues}."
+     ]
+    },
+    {
+     "topic": "Curriculum & library policy",
+     "items": [
+      "Says classrooms should stay politically impartial and that students' social, emotional and medical needs should be led by families and outside professionals {brandli_issues}.",
+      "Says the health and sex-education curriculum should cover nutrition, physical development and fitness, and that instruction on condom use, sexually transmitted diseases and the causes of pregnancy is not appropriate in public school; supports requiring explicit parental approval for health curriculum materials {brandli_issues}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Her proposals on health curriculum and behavior support imply changes to current practice, but no direct comment on the board's record was found {brandli_issues}."
+   ],
+   "plans": [
+    "Lists prioritizing academic instruction, classroom-focused funding and protected instructional time {brandli_issues}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in reviewed sources."
+   ],
+   "gaps": [
+    "No stated position on the 2026 operating referendum was found.",
+    "Unverified (search snippet only): Current in Zionsville reported in July 2026 that she declined an interview.",
+    "Campaign finance filings with Boone County were not reviewed."
+   ]
+  }
+ ],
+ "sources": {
+  "zcs_board": [
+   "School Board",
+   "Zionsville Community Schools",
+   "2026-10",
+   "https://www.zcs.k12.in.us/school-board-district"
+  ],
+  "zcs_ref": [
+   "2026 Referendum (letter from Superintendent Rebecca Coffman)",
+   "Zionsville Community Schools",
+   "2026",
+   "https://www.zcs.k12.in.us/referendum-2026"
+  ],
+  "zcs_enroll": [
+   "Class Size and Enrollment Report",
+   "Zionsville Community Schools",
+   "2025-11-10",
+   "https://resources.finalsite.net/images/v1762974169/zcsk12inus/qndulcmmbu0mg4es4qpk/ClassSizesandEnrollmentRptNovember2025FINAL.pdf"
+  ],
+  "zcs_digest_mar": [
+   "ZCS Digest March 2026",
+   "Zionsville Community Schools",
+   "2026-03",
+   "https://www.zcsstrong.org/ZCS-Digest-March-2026/index.html"
+  ],
+  "zcs_aug25": [
+   "August 2025 Board Meeting",
+   "Zionsville Community Schools",
+   "2025-08",
+   "https://www.zcsstrong.org/August-2025-Board-Meeting/index.html"
+  ],
+  "dlgf_zcs_res": [
+   "Excerpts of Minutes and Referendum Tax Levy Resolution, Zionsville Community Schools",
+   "Indiana Department of Local Government Finance",
+   "2026-06-08",
+   "https://www.in.gov/dlgf/files/referendum-documentation2/2026-november-referendum-documents/26-001-Zionsville-Community-Schools-Operating-Resolution.pdf"
+  ],
+  "dlgf_zcs_det": [
+   "Findings and Final Determination on Proposed Question, No. 26-001-REF",
+   "Indiana Department of Local Government Finance",
+   "2026-06-10",
+   "https://www.in.gov/dlgf/files/referendum-documentation2/2026-november-referendum-documents/26-001-Zionsville-Community-Schools-Operating-Determination.pdf"
+  ],
+  "yes_zcs": [
+   "YES for ZCS",
+   "YES for ZCS (parent-led referendum committee)",
+   "2026",
+   "https://www.yesforzcs.com/"
+  ],
+  "zvra": [
+   "10/04/2026 newsletter",
+   "Zionsville Village Residents Association",
+   "2026-10-04",
+   "https://zvra.com/2026/10/10-04-2026/"
+  ],
+  "bp_zcs": [
+   "Zionsville Community Schools, Indiana, elections",
+   "Ballotpedia",
+   "2026-10",
+   "https://ballotpedia.org/Zionsville_Community_Schools,_Indiana,_elections"
+  ],
+  "bp_trupe": [
+   "Thomas Trupe (candidate survey)",
+   "Ballotpedia",
+   "2026-08-26",
+   "https://ballotpedia.org/Thomas_Trupe_(Zionsville_Community_Schools_school_board_At-large,_Indiana,_candidate_2026)"
+  ],
+  "bp_valentine": [
+   "Jennifer Valentine (candidate survey)",
+   "Ballotpedia",
+   "2026-10-09",
+   "https://ballotpedia.org/Jennifer_Valentine_(Zionsville_Community_Schools_school_board_Union_Township,_Indiana,_candidate_2026)"
+  ],
+  "bp_berg": [
+   "Michael Berg (2026 candidate page)",
+   "Ballotpedia",
+   "2026-10",
+   "https://ballotpedia.org/Michael_Berg_(Zionsville_Community_Schools_school_board_Eagle_Township,_Indiana,_candidate_2026)"
+  ],
+  "star22": [
+   "Meet the school board candidates for Zionsville Community Schools",
+   "Indianapolis Star (via Yahoo News)",
+   "2022-10-20",
+   "https://www.yahoo.com/news/meet-school-board-candidates-zionsville-090356485.html"
+  ],
+  "ws_2022": [
+   "Dr. Christy for School Board (2022 campaign site)",
+   "Christy Wessel-Powell campaign",
+   "2022",
+   "https://christywesselpowel.wixsite.com/christy4schoolboard"
+  ],
+  "trupe_about": [
+   "About Tom Trupe",
+   "Committee to Elect Thomas Trupe",
+   "2026",
+   "https://trupeforzcs.com/about"
+  ],
+  "trupe_issues": [
+   "Issues",
+   "Committee to Elect Thomas Trupe",
+   "2026",
+   "https://trupeforzcs.com/issues"
+  ],
+  "waters_about": [
+   "About Melissa Waters",
+   "Melissa Waters campaign",
+   "2026",
+   "https://watersforzcs.com/about"
+  ],
+  "waters_vision": [
+   "Vision",
+   "Melissa Waters campaign",
+   "2026",
+   "https://watersforzcs.com/vision"
+  ],
+  "brandli_about": [
+   "About Rachel Brandli",
+   "Committee to Elect Rachel Brandli",
+   "2026",
+   "https://brandliforzcs.com/about"
+  ],
+  "brandli_issues": [
+   "Issues",
+   "Committee to Elect Rachel Brandli",
+   "2026",
+   "https://brandliforzcs.com/issues"
+  ]
+ }
+}
