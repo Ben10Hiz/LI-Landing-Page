@@ -1,0 +1,178 @@
+{
+ "race_id": "in-school-board-hendricks-danville",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Danville Community School Corporation (DCSC) serves the Danville area of Hendricks County; Wikipedia describes it as coextensive with Center Township and covering most of the town of Danville, with North Elementary, South Elementary, Danville Community Middle School and Danville Community High School {wiki_dcsc}. The 2026 ballot also includes a Danville school board seat for Marion Township, so the corporation's board representation extends beyond Center Township; the sources reviewed did not explain how Marion Township is tied to the district {hc_ballot}.",
+  "Enrollment: the district's February 2026 State of the Corporation presentation reports 2,917 students at the October 2025 count and 2,956 in February 2026, up from about 2,460 to 2,600 during 2012–2021; it says the district was up 133 students at the October 2025 count {dcsc_soc26}. It lists 443 employees, including 160 teachers {dcsc_soc26}.",
+  "Superintendent: Dr. Tracey Shafer, superintendent since January 2015, announced on Sept. 3, 2026 that he will retire in June 2027; the district says the Board of School Trustees will select the next superintendent before then {dcsc_retire}. That hire will fall to the board that includes the members elected this November {dcsc_retire}.",
+  "The board has five elected members {dcsc_soc26}. As of 2026 they are Beth Cherry (president), Christina Ward (vice president), Cory Himsel (secretary), Austin Brown and Jim Bryant {dcsc_board} {dcsc_soc26}. Seats are tied to townships: the county ballot lists a Center Township seat and a Marion Township seat, each vote for 1 {hc_ballot}. GoodParty.org lists Ward and Cherry as Center Township members with terms running 2025 to 2028, so they are not on this year's ballot {gp_center}.",
+  "Seats on the 2026 ballot: Center Township (Jim Bryant, listed with an R on the county ballot, and Erin Smith, listed with no party) and Marion Township (Cory B Mason, unopposed, no party) {hc_ballot} {in_list}. Bryant is a current board member {dcsc_soc26}; the sources reviewed did not confirm that the Center Township seat on the ballot is the one he holds or when his term began. Mason was board president in March 2021 {dcsc_mason_letter} but is not on the 2026 board roster {dcsc_board}; the sources reviewed did not identify who currently holds the Marion Township seat or whether that member is running.",
+  "Growth and facilities: the district's 2026 priorities include building renovation and additions and \"growth preparedness\"; in the past year it completed the South Elementary addition and renovation, a maintenance property project, and an enrollment capacity mapping and demographic study, and it issued the final series of bonds for its Master Campus Plan {dcsc_soc26}. The district says the Master Campus Plan is nearing completion {dcsc_retire}.",
+  "Budget: the February 2026 presentation lists a 17.49% Education Fund cash balance before transfers and a $3.67 million Rainy Day Fund balance {dcsc_soc26}. It names a \"decreased budget,\" the need to hire more staff for growth \"with less budget,\" and \"economic and legislative pressures\" on the Operations Fund as challenges {dcsc_soc26}. Its stated financial goals are to keep raising teacher pay, maintain the current tax rate (increasing only to meet minimum levy requirements) and keep strong cash balances {dcsc_soc26}. The minimum teacher salary is $52,500 {dcsc_soc26}. The sources reviewed did not give a district estimate of the effect of the 2025 property-tax law (SEA 1); no Danville school referendum was found in the sources reviewed {dcsc_soc26}.",
+  "Academics: the district reports a 95.7% IREAD-3 pass rate (state average 87.3%), a 97.65% graduation rate and SAT results in the top 4% statewide; it notes an updated ILEARN test delayed results to fall 2026 {dcsc_soc26}.",
+  "Forums: no candidate forum or questionnaire for this race was found in the sources reviewed. The Hendricks County election office posted a biography for Erin Smith only {hc_dv_bios}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Erin Smith",
+   "seat": "Center Township",
+   "summary": "Former Danville Community High School attendance clerk and former executive secretary to the superintendent, running for the Center Township seat {hc_dv_bios}.",
+   "website": null,
+   "background": [
+    "Has lived in Danville since 2001; parent of two sons who graduated from Danville schools {hc_dv_bios}.",
+    "Worked as attendance clerk at Danville Community High School and later spent five years as executive secretary to Superintendent Dr. Shafer, according to her county-posted biography {hc_dv_bios}."
+   ],
+   "path_to_ballot": [
+    "Listed on the county ballot with no party label and on the state list as Nonpartisan {hc_ballot} {in_list}. Filing details were not found in the sources reviewed."
+   ],
+   "positions": [
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Her biography says taxpayers \"deserve transparency and accountability\" {hc_dv_bios}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Her biography says the district's staff \"deserve unwavering support\" {hc_dv_bios}."
+     ]
+    },
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Her biography says her district jobs gave her \"firsthand insight into the daily operations, budgeting, and long-term goals of our district\" {hc_dv_bios}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "No statements about the current board's decisions were found in the sources reviewed."
+   ],
+   "plans": [
+    "No specific proposals were found beyond the general statements in her county-posted biography {hc_dv_bios}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance reports were found in the sources reviewed."
+   ],
+   "gaps": [
+    "Only source on her candidacy is a short biography posted by the Hendricks County election office; No candidate questionnaire, forum, news coverage, website or campaign social-media page was found in the sources reviewed.",
+    "Dates of her district employment were not stated.",
+    "No position found on the 2027 superintendent search, enrollment growth or the property-tax law."
+   ]
+  },
+  {
+   "ballot_name": "Jim Bryant",
+   "seat": "Center Township",
+   "summary": "Current member of the Danville Community School Corporation board, listed as a Republican on the ballot {dcsc_board} {hc_ballot}.",
+   "website": null,
+   "background": [
+    "Is listed as a member of the Board of School Trustees on the district's website and in its February 2026 State of the Corporation presentation {dcsc_board} {dcsc_soc26}."
+   ],
+   "path_to_ballot": [
+    "Listed with an R on the county ballot and as a Republican on the state list {hc_ballot} {in_list}. Whether he was nominated by party convention or filed by petition was not found."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {dcsc_board}. No statements from him about the board's record were found in the sources reviewed."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance reports were found in the sources reviewed."
+   ],
+   "gaps": [
+    "No candidate questionnaire, forum, news coverage, website or campaign social-media page was found in the sources reviewed.",
+    "Occupation, length of board service and the seat he currently holds were not confirmed.",
+    "No county-posted biography was found for him.",
+    "A GoodParty.org listing names him as a Center Township candidate but contains no background or positions."
+   ]
+  },
+  {
+   "ballot_name": "Cory B Mason",
+   "seat": "Marion Township",
+   "summary": "Former president of the Danville Community School Corporation board, unopposed for the Marion Township seat {dcsc_mason_letter} {hc_ballot}.",
+   "website": null,
+   "background": [
+    "Was president of the Board of School Trustees in March 2021, when he signed an open letter to the Town of Danville on the board's behalf {dcsc_mason_letter}."
+   ],
+   "path_to_ballot": [
+    "Listed on the county ballot with no party label and on the state list as Nonpartisan; he is the only candidate for the seat {hc_ballot} {in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Facilities",
+     "items": [
+      "In the March 2021 letter, written as board president about new housing developments, he said the board's role is to \"prepare for the growth as new developments are proposed and approved\" and that the board \"will not engage in agreeing or disagreeing with development plans submitted to government bodies\" {dcsc_mason_letter}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "No statements about the current board's decisions were found in the sources reviewed."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance reports were found in the sources reviewed."
+   ],
+   "gaps": [
+    "No candidate questionnaire, forum, news coverage, website or campaign social-media page was found in the sources reviewed.",
+    "Occupation not found.",
+    "Dates of his earlier board service were not confirmed; a GoodParty.org listing shows Marion Township service from 2019 to 2023, which the district's records reviewed did not confirm.",
+    "No county-posted biography was found for him."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "hc_ballot": [
+   "2026 General Ballot",
+   "Hendricks County Government",
+   "2026-08-14",
+   "https://www.co.hendricks.in.us/egov/documents/1786723157_12034.pdf"
+  ],
+  "hc_dv_bios": [
+   "Danville School Board Bios (candidate biographies)",
+   "Hendricks County Government",
+   "2026",
+   "https://www.co.hendricks.in.us/egov/apps/document/center.egov?view=item&id=9529"
+  ],
+  "dcsc_board": [
+   "School Board Members",
+   "Danville Community School Corporation",
+   "2026-10",
+   "https://www.danville.k12.in.us/school-board/members"
+  ],
+  "dcsc_soc26": [
+   "State of the Corporation Address 2026 (presentation to the Board of School Trustees)",
+   "Danville Community School Corporation",
+   "2026-02-09",
+   "https://www.danville.k12.in.us/fs/resource-manager/view/4d69e322-3c6c-4f83-976f-259238756c18"
+  ],
+  "dcsc_retire": [
+   "Dr. Shafer Announces Retirement",
+   "Danville Community School Corporation",
+   "2026-09-03",
+   "https://www.danville.k12.in.us/community/dcsc-in-the-news/~board/dcsc-in-the-news/post/dcsc-staff-accomplishments-summer-2026-1788441519385"
+  ],
+  "dcsc_mason_letter": [
+   "Open letter to the Town of Danville from Board President Cory B. Mason",
+   "Danville Community School Corporation",
+   "2021-03-15",
+   "https://www.danville.k12.in.us/fs/resource-manager/view/9462f59d-9434-46ca-ba8b-6bcdf187d285"
+  ],
+  "wiki_dcsc": [
+   "Danville Community School Corporation",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/Danville_Community_School_Corporation"
+  ],
+  "gp_center": [
+   "Danville School Board in Center Township, IN",
+   "GoodParty.org",
+   "2026-10",
+   "https://goodparty.org/elections/in/hendricks-county/center-township/position/local-school-board/candidates"
+  ]
+ }
+}

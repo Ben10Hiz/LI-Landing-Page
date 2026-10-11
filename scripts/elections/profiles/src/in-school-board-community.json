@@ -1,0 +1,134 @@
+{
+ "race_id": "in-school-board-community",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The district: the Community School Corporation of Eastern Hancock County serves the eastern third of Hancock County, including Wilkinson, Shirley, Charlottesville, Warrington, Willow Branch and parts of Greenfield {wiki_ehhs}. Dr. George Philhower is superintendent {doe_newsletter}{wiki_ehhs}. Eastern Hancock High School enrolled 378 students in 2023-24 {wiki_ehhs}; a current district-wide enrollment figure was not found in a source read for this profile.",
+  "The board has five members serving four-year terms: one from each of the district's three townships (Brown, Jackson and Blue River) and two at-large members {eh_board}. The district's posted schedule lists the Brown Township seat and one at-large seat for November 2026, and the Jackson Township, Blue River Township and other at-large seats for November 2028 {eh_board}. The district page lists members Jim Jackson (president), Tammy Stunda (first vice president), Steve Brock (second vice president), Ryan Nasby (assistant secretary) and Evan Roberts (secretary) {eh_board}. Meetings are normally held on the second Monday of the month at the corporation office in Charlottesville {eh_board}.",
+  "Seat names: the county ballot uses numbered districts rather than township names. In 2024 the ballot carried Eastern Hancock 'At-Large', 'DST 2' and 'DST 3' races, when the district schedule shows the Jackson and Blue River seats and one at-large seat were up {hc_2024}{eh_board}. The 2026 'District 1' race therefore appears to be the Brown Township seat; the county and district sources read for this profile do not state that directly {hc_list}{eh_board}.",
+  "Seats on the 2026 ballot: one District 1 seat and one at-large seat, each vote for 1, consistent with the district's schedule {eh_board}{hc_list}{in_list}. Board secretary Evan Roberts is the only candidate for District 1, and board first vice president Tammy Stunda faces Rosina T. (Rose) Metz for the at-large seat {eh_board}{hc_list}. The district page does not say which seat each member holds {eh_board}.",
+  "Party labels: all three candidates are listed as Republicans on the county and state lists {hc_list}{in_list}.",
+  "2024 results: Steve Brock was unopposed for the at-large seat, James R. Jackson Jr. was unopposed in District 3, and Johnna S. Bridges defeated Rosina T (Rose) Metz in District 2, 1,618 votes to 724 {hc_2024}. Bridges is not on the board list now posted by the district, which includes Ryan Nasby {eh_board}; how the District 2 seat changed hands was not found in a source read for this profile.",
+  "Microschool and career programs (2026): an April 17, 2026 Indiana Department of Education newsletter described a visit to Eastern Hancock High School, where about one-third of juniors and seniors take part in work-based learning, and to Nature's Gift Microschool at Nameless Creek, the district's first microschool, which the newsletter said was created in response to feedback from families who had been homeschooling {doe_newsletter}.",
+  "2027 budget: the board's 2026 calendar lists a regular meeting and budget hearing on Sept. 28, 2026, followed by a regular meeting on Oct. 21, 2026 {eh_board}. Budget figures, the effect of the 2025 property-tax law (SEA 1) and any referendum plans were not found in a source read for this profile.",
+  "Forums: no candidate forum or newspaper questionnaire for this race was found as of Oct. 10, 2026."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Evan Roberts",
+   "seat": "District 1",
+   "summary": "Incumbent board member who serves as board secretary, running unopposed for District 1 as a Republican {eh_board}{hc_list}. The district page does not say which seat he holds {eh_board}.",
+   "website": null,
+   "background": [
+    "Is listed as secretary of the Eastern Hancock School Board {eh_board}.",
+    "No other background (occupation, community roles or ties to the schools) was found in a source read for this profile."
+   ],
+   "path_to_ballot": [
+    "Filed June 10, 2026 for Community School Corporation of Eastern Hancock School Board, District 1, listed as a Republican {hc_list}{in_list}.",
+    "Is the only candidate listed for District 1 {hc_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. No public statement from him on the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, social media page, questionnaire or news coverage of his candidacy was found.",
+    "When he joined the board, and whether he was elected or appointed, was not confirmed.",
+    "Whether he currently holds the Brown Township (District 1) seat was not confirmed; the district page lists officers but not seats.",
+    "No stated positions on any issue were found."
+   ]
+  },
+  {
+   "ballot_name": "Rosina T. (Rose) Metz",
+   "seat": "At Large",
+   "summary": "Candidate for the at-large seat, listed as a Republican; she ran for the board's District 2 seat in 2024 and lost to Johnna S. Bridges {hc_list}{hc_2024}.",
+   "website": null,
+   "background": [
+    "No background (occupation, community roles or ties to the schools) was found in a source read for this profile."
+   ],
+   "path_to_ballot": [
+    "Filed June 18, 2026 for Community School Corporation of Eastern Hancock Schools, At Large, listed as a Republican {hc_list}{in_list}.",
+    "Ran for the Eastern Hancock District 2 seat in the 2024 general election, receiving 724 votes to 1,618 for Johnna S. Bridges {hc_2024}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No public statement from her on the current board's decisions was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, social media page, questionnaire or news coverage of her 2024 or 2026 candidacy was found.",
+    "No stated positions on any issue were found.",
+    "Where she lives within the district was not confirmed."
+   ]
+  },
+  {
+   "ballot_name": "Tammy Stunda",
+   "seat": "At Large",
+   "summary": "Incumbent board member who serves as board first vice president, running for the at-large seat as a Republican {eh_board}{hc_list}. The district page does not say which seat she holds {eh_board}.",
+   "website": null,
+   "background": [
+    "Is listed as first vice president of the Eastern Hancock School Board {eh_board}.",
+    "No other background (occupation, community roles or ties to the schools) was found in a source read for this profile."
+   ],
+   "path_to_ballot": [
+    "Filed June 8, 2026 for Community School Corporation of Eastern Hancock Schools, At Large, listed as a Republican {hc_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. No public statement from her on the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, social media page, questionnaire or news coverage of her candidacy was found.",
+    "When she joined the board, and whether she holds the at-large seat on the 2026 ballot, was not confirmed.",
+    "No stated positions on any issue were found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "eh_board": [
+   "School Board",
+   "Eastern Hancock Schools",
+   "2026",
+   "https://easternhancock.org/page/school-board"
+  ],
+  "hc_list": [
+   "Candidate List - Abbreviated, 2026 General Election",
+   "Hancock County (Ind.) Election Office",
+   "2026-08",
+   "https://hancockin.gov/DocumentCenter/View/2833/2026-Midterm-Primary-Candidate-List-as-of-January-15-2026"
+  ],
+  "hc_2024": [
+   "Official Summary Results Report, 2024 General Election",
+   "Hancock County (Ind.) Election Office",
+   "2024-11-18",
+   "https://hancockin.gov/DocumentCenter/View/1612/Summary-Results-Official111824"
+  ],
+  "wiki_ehhs": [
+   "Eastern Hancock High School",
+   "Wikipedia",
+   "2026",
+   "https://en.wikipedia.org/wiki/Eastern_Hancock_High_School"
+  ],
+  "doe_newsletter": [
+   "IDOE newsletter, April 17, 2026",
+   "Indiana Department of Education",
+   "2026-04-17",
+   "https://www.in.gov/doe/files/260417_NEWSLETTER_Jenner.pdf"
+  ]
+ }
+}

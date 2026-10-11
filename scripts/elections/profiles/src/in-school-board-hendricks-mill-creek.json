@@ -1,0 +1,177 @@
+{
+ "race_id": "in-school-board-hendricks-mill-creek",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Mill Creek Community School Corporation serves Clay, Franklin and Liberty townships in southwestern Hendricks County, including Amo, Clayton, Coatesville, Stilesville and a small part of Plainfield; it runs Cascade High School, Cascade Middle School, and Mill Creek East and Mill Creek West elementary schools {wiki_mccsc}.",
+  "Enrollment: administrators reported 1,591 students in January 2026, about 10 below the October 2025 count {mc_min_jan26}; in June 2026 they cited a final October count of 1,583 and said grades 3–5 were nearing recommended class-size caps {mc_min_jun26}. The board approves non-resident transfer students at its meetings, including eight in January and seven late requests in July 2026 {mc_min_jan26} {mc_min_jul26}.",
+  "Superintendent: Brian Tomamichel; Kale Blickenstaff is assistant superintendent {mc_min_jan26} {mc_min_may26}.",
+  "The board has five members: Nic Allen (president), Pat Flanigan (vice president), Tom Whitaker (secretary), Missy Branscum and Tim Warran {mccsc_board} {mc_min_jan26}. Seats include at-large and township seats; the county ballot lists one At-Large seat and one Liberty Township seat, each vote for 1 {hc_ballot}. GoodParty.org lists Branscum in an at-large seat with a term running 2025 to 2028 {gp_mc}.",
+  "Seats on the 2026 ballot: At Large (N Nathan Peters, unopposed, no party label) and Liberty Township (Dawn Renee Cooper and Lora Denney, both listed with an R) {hc_ballot} {in_list}. None of the five current board members is on the ballot {hc_ballot} {mccsc_board}, so both seats will go to new members. The sources reviewed did not identify which current members hold the two seats being filled.",
+  "Budget and SEA 1: in April 2026 administrators projected revenue reductions of about $3.3 million from state funding changes and a 12.5% decline in assessed valuation, said federal funding had dropped and COVID relief funds were exhausted, and said the district would respond through staffing reductions by attrition, program restructuring and cost-efficiency measures, using reserves for \"a measured approach\" {mc_min_apr26}. In July 2026 the board voted 3-0 to shift part of its Supplemental Homestead Credit revenue to the Debt Service Fund to \"lessen the impact of SEA 1 on the Operations Fund\" {mc_min_jul26}. In February 2026 the board approved a one-time early retirement incentive {mc_min_feb26}.",
+  "Facilities: the board approved a $4,795,000 general obligation bond appropriation in March 2026 {mc_min_mar26} and is carrying out HVAC, roof and secure-entry work at Cascade High School. In June 2026 it accepted Phase 3 bids of just over $1 million; auditorium HVAC work was cut from that phase and deferred {mc_min_jun26}.",
+  "Academics: in January 2026 administrators reported that Cascade High School, Mill Creek East and Mill Creek West were rated Meets Expectations on federal report cards and Cascade Middle School was rated Approaching Expectations {mc_min_jan26}. In April 2026 they reported an average SAT score of 995 and a district IREAD average of 67%, compared with a state average of 49% as stated in the minutes {mc_min_apr26}.",
+  "Teachers: a tentative 2026–27 master contract with the Mill Creek Community Classroom Teachers Association was posted among the board's public notices, dated for approval on Oct. 21, 2026 {mc_cba}.",
+  "Forums: no candidate forum or questionnaire for this race was found in the sources reviewed. The Hendricks County election office posted a biography for Lora Denney only {hc_mc_bios}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "N Nathan Peters",
+   "seat": "At Large",
+   "summary": "Unopposed candidate for the at-large seat; not a current board member {hc_ballot} {mccsc_board}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the county ballot with no party label and on the state list as Nonpartisan; he is the only candidate for the seat {hc_ballot} {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements about the current board's decisions were found in the sources reviewed."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance reports were found in the sources reviewed."
+   ],
+   "gaps": [
+    "No candidate questionnaire, forum, news coverage, website or campaign social-media page was found in the sources reviewed.",
+    "Occupation, residence and ties to the schools not found.",
+    "No county-posted biography was found for him; a GoodParty.org page lists a \"Nathan Peters\" for the seat with no background."
+   ]
+  },
+  {
+   "ballot_name": "Dawn Renee Cooper",
+   "seat": "Liberty Township",
+   "summary": "Candidate for the Liberty Township seat, listed as a Republican on the ballot; not a current board member {hc_ballot} {mccsc_board}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed with an R on the county ballot and as a Republican on the state list {hc_ballot} {in_list}. Whether she was nominated by party convention or filed by petition was not found."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements about the current board's decisions were found in the sources reviewed."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance reports were found in the sources reviewed."
+   ],
+   "gaps": [
+    "No candidate questionnaire, forum, news coverage, website or campaign social-media page was found in the sources reviewed.",
+    "Occupation and ties to the schools not found.",
+    "No county-posted biography was found for her."
+   ]
+  },
+  {
+   "ballot_name": "Lora Denney",
+   "seat": "Liberty Township",
+   "summary": "Liberty Township resident and nonprofit board member, running for the Liberty Township seat; listed as a Republican on the ballot {hc_mc_bios} {hc_ballot}.",
+   "website": null,
+   "background": [
+    "Says in her county-posted biography that she was raised in Hendricks County and has lived in Liberty Township for 30 years {hc_mc_bios}.",
+    "Holds Indiana University degrees in public health and chemistry, according to her biography {hc_mc_bios}.",
+    "Her biography says she spent a decade as a CASA (court-appointed special advocate) volunteer, worked with Habit of the Heart, works alongside her husband at Denney Excavating Inc., and serves on the Board of Governors of the Riley Children's Foundation and the Board of Directors of Susie's Place {hc_mc_bios}."
+   ],
+   "path_to_ballot": [
+    "Listed with an R on the county ballot and as a Republican on the state list {hc_ballot} {in_list}. Whether she was nominated by party convention or filed by petition was not found."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements about the current board's decisions were found in the sources reviewed."
+   ],
+   "plans": [
+    "Her biography states a general wish to serve children and families but lists no specific proposals {hc_mc_bios}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance reports were found in the sources reviewed."
+   ],
+   "gaps": [
+    "Only source on her candidacy is a short biography posted by the Hendricks County election office; No candidate questionnaire, forum, news coverage, website or campaign social-media page was found in the sources reviewed.",
+    "No stated positions on the budget shortfall, SEA 1, construction or staffing were found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "hc_ballot": [
+   "2026 General Ballot",
+   "Hendricks County Government",
+   "2026-08-14",
+   "https://www.co.hendricks.in.us/egov/documents/1786723157_12034.pdf"
+  ],
+  "hc_mc_bios": [
+   "Mill Creek School Board Bios (candidate biographies)",
+   "Hendricks County Government",
+   "2026",
+   "https://www.co.hendricks.in.us/egov/apps/document/center.egov?view=item&id=9546"
+  ],
+  "mccsc_board": [
+   "School Board Members",
+   "Mill Creek Community School Corporation",
+   "2026-10",
+   "https://www.mccsc.k12.in.us/school-board/members"
+  ],
+  "wiki_mccsc": [
+   "Mill Creek Community School Corporation",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/Mill_Creek_Community_School_Corporation"
+  ],
+  "gp_mc": [
+   "Mill Creek School Board in Mill Creek Community School Corporation, IN",
+   "GoodParty.org",
+   "2026-10",
+   "https://goodparty.org/elections/in/mill-creek-community-school-corporation/position/local-school-board/candidates"
+  ],
+  "mc_min_jan26": [
+   "Regular Board Meeting & Reorganization Meeting Minutes, January 14, 2026",
+   "Mill Creek Community School Corporation",
+   "2026-01-14",
+   "https://drive.google.com/file/d/1pt6Err1PvhKuccV1MeFkEI4XTziPx6CH/view"
+  ],
+  "mc_min_feb26": [
+   "Board of School Trustees Meeting Minutes, February 11, 2026",
+   "Mill Creek Community School Corporation",
+   "2026-02-11",
+   "https://drive.google.com/file/d/1VpzU7Tloom2Yqc8htEGw9xj9HZDW5IG8/view"
+  ],
+  "mc_min_mar26": [
+   "Regular Board Meeting Minutes, March 11, 2026",
+   "Mill Creek Community School Corporation",
+   "2026-03-11",
+   "https://drive.google.com/file/d/1PPBkFQpJXfyo_IzKhzApgZMOn6k9U8Qw/view"
+  ],
+  "mc_min_apr26": [
+   "Board Meeting Minutes, April 8, 2026",
+   "Mill Creek Community School Corporation",
+   "2026-04-08",
+   "https://drive.google.com/file/d/1YfaPiDTgHRD8YjfO21OKzjtaccE_YPd9/view"
+  ],
+  "mc_min_may26": [
+   "Regular Meeting Minutes, May 13, 2026",
+   "Mill Creek Community School Corporation",
+   "2026-05-13",
+   "https://drive.google.com/file/d/1lok_6YJE7kt2FToedZNTB_7Br1HXy7Bp/view"
+  ],
+  "mc_min_jun26": [
+   "School Board Meeting Minutes, June 10, 2026",
+   "Mill Creek Community School Corporation",
+   "2026-06-10",
+   "https://drive.google.com/file/d/1rh2Euahpl4POQbj67fOBSKkwGHrMABAt/view"
+  ],
+  "mc_min_jul26": [
+   "Regular Meeting Minutes, July 8, 2026",
+   "Mill Creek Community School Corporation",
+   "2026-07-08",
+   "https://drive.google.com/file/d/1zUpO16Ir7nbA-KcxmADxDJfl2XYFsl8C/view"
+  ],
+  "mc_cba": [
+   "Master Contract between the Board of School Trustees and the Mill Creek Community Classroom Teachers Association, 2026-2027 (tentative agreement)",
+   "Mill Creek Community School Corporation",
+   "2026-10-02",
+   "https://resources.finalsite.net/images/v1791286203/mccsck12inus4/puzl9mc8duxdr2ll6t7b/CopyofCBATENTATIVEAGREEMENT-10-2-2026.pdf"
+  ]
+ }
+}

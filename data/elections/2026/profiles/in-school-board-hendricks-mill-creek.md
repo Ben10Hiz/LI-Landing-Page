@@ -1,0 +1,168 @@
+# Indiana School Board Member — 2026 race profile
+
+_Researched 2026-10-10 · status: draft._ Pending editorial review.
+
+## About the office
+
+A school board is the elected or appointed governing body of a public school corporation, the legal unit that runs a local school district [1, 2]. The board hires and evaluates the superintendent, adopts policies, and approves the annual budget, while the superintendent and staff run schools day to day [3]. Most boards have five or seven members serving staggered four-year terms [3]. Starting in 2026, candidates may list a political party, run as independents, or list no affiliation on the ballot, and there is no primary for these seats [2, 4].
+
+- **Term:** 4 years, with elections staggered so part of the board is chosen every two years [3]
+- **Elected:** At the November general election (November 3, 2026, or November 2028 for some seats); depending on the local organization plan, members represent the whole school corporation (at large) or a district within it, and some boards are wholly or partly appointed [2]
+- **Ballot label:** Each candidate chooses a party label, 'Independent', or no affiliation, shown next to the name; no primary and no straight-ticket voting for these races [2, 4]
+- **Pay:** Set by board resolution: an annual amount of no more than 10% of the lowest starting teacher salary in the school corporation, plus a capped per diem [5]
+- **On the 2026 ballot:** 632 races in 299 school corporations; 1,039 candidates [6]
+
+### What the office does
+
+- Hires, evaluates and can dismiss the superintendent, and approves the hiring and firing of principals, teachers and other staff recommended by the superintendent [1, 7, 3].
+- Adopts the annual budget, appropriates funds and oversees school finances [1, 3].
+- Decides whether to ask voters to approve an operating referendum (an extra property tax levy); the board adopts the resolution and the Department of Local Government Finance reviews the ballot language for compliance with state law [8].
+- Approves contracts, buys and sells property, and decides on construction, repair and demolition of school buildings [1].
+- Bargains with the teachers' union over salary, wages and wage-related benefits such as health insurance and retirement; state law excludes teacher evaluation procedures from those bargaining subjects [9].
+- Writes and updates policies and rules for schools, often in a policy handbook, including the student handbook [1, 3].
+- Buys curricular materials, provides them to students without charge, and runs programs such as student transportation and school lunch [1].
+- Must adopt a process for parents and residents to ask that library material be removed as obscene or harmful to minors, review requests at public meetings and keep a public catalog of library materials [10].
+- Hears written appeals of student expulsions, unless the board has voted not to hear them [11].
+- Must take official action openly; Indiana's Open Door Law says public agencies' official action is to be conducted openly so the people may be fully informed [12, 13].
+- A school board member must have lived in the school corporation (and, for a district seat, the district) for at least one year before the election, and a teacher or other employee of the school corporation may not serve on its board [2].
+- What the board does not control: the State Board of Education adopts statewide academic standards [14], the General Assembly sets the state school funding formula in the state budget [15], and voucher (Choice Scholarship) eligibility is set by state law [16].
+
+### Recent changes to the office
+
+- 2025: Senate Enrolled Act 287 allowed school board candidates to declare a party affiliation; the Indiana School Boards Association opposed the change, and a supporter quoted by WNDU, a Noblesville school board member, said it adds transparency [17].
+- 2026: Candidates choose a party, 'Independent' or no affiliation on their nominating petition, and that choice appears on the ballot; a candidate claiming the Democratic or Republican party must have voted in that party's primary in the two most recent primaries they voted in, or have certification from the county party chair, or can be challenged and removed from the ballot [2].
+- July 2026: Chalkbeat reported, citing Indiana School Boards Association data, that 524 of 1,044 candidates chose a party, about 72% of them Republicans [18]; the Indiana Election Division's 2026 guidance and the wording of the law differ on the primary-voting test, a question county election boards decide [19].
+- February 2026: Senate Enrolled Act 25 set the order of school board candidates on the ballot, grouped by party, with candidates who list no affiliation placed after the party and independent candidates [20].
+- 2025: Senate Enrolled Act 1, a property tax law, limits how much operating revenue districts can raise through taxes and restricts school referendums to statewide general elections in even-numbered years [21, 22].
+- 2025: The same law requires districts to share operating revenue with brick-and-mortar charter schools that enroll their students, statewide starting in 2028 [21, 22].
+- 2025: The state budget opened Choice Scholarship vouchers to all Indiana families starting in June 2026 [16].
+- 2026: The Indianapolis Public Education Corporation, rather than the Indianapolis Public Schools board, now certifies Indianapolis Public Schools referendum questions for the ballot [20].
+- 2023: Senate Enrolled Act 391 changed the so-called $1 law so the Indiana Department of Education can order districts that lost at least 10% of enrollment over five years to close schools under 60% capacity and offer them to charter schools [23].
+- 2023: House Enrolled Act 1447 required school districts to set up procedures for complaints that library material is obscene or harmful to minors [10].
+
+## This race
+
+- Mill Creek Community School Corporation serves Clay, Franklin and Liberty townships in southwestern Hendricks County, including Amo, Clayton, Coatesville, Stilesville and a small part of Plainfield; it runs Cascade High School, Cascade Middle School, and Mill Creek East and Mill Creek West elementary schools [24].
+- Enrollment: administrators reported 1,591 students in January 2026, about 10 below the October 2025 count [25]; in June 2026 they cited a final October count of 1,583 and said grades 3–5 were nearing recommended class-size caps [26]. The board approves non-resident transfer students at its meetings, including eight in January and seven late requests in July 2026 [25, 27].
+- Superintendent: Brian Tomamichel; Kale Blickenstaff is assistant superintendent [25, 28].
+- The board has five members: Nic Allen (president), Pat Flanigan (vice president), Tom Whitaker (secretary), Missy Branscum and Tim Warran [29, 25]. Seats include at-large and township seats; the county ballot lists one At-Large seat and one Liberty Township seat, each vote for 1 [30]. GoodParty.org lists Branscum in an at-large seat with a term running 2025 to 2028 [31].
+- Seats on the 2026 ballot: At Large (N Nathan Peters, unopposed, no party label) and Liberty Township (Dawn Renee Cooper and Lora Denney, both listed with an R) [30, 6]. None of the five current board members is on the ballot [30, 29], so both seats will go to new members. The sources reviewed did not identify which current members hold the two seats being filled.
+- Budget and SEA 1: in April 2026 administrators projected revenue reductions of about $3.3 million from state funding changes and a 12.5% decline in assessed valuation, said federal funding had dropped and COVID relief funds were exhausted, and said the district would respond through staffing reductions by attrition, program restructuring and cost-efficiency measures, using reserves for "a measured approach" [32]. In July 2026 the board voted 3-0 to shift part of its Supplemental Homestead Credit revenue to the Debt Service Fund to "lessen the impact of SEA 1 on the Operations Fund" [27]. In February 2026 the board approved a one-time early retirement incentive [33].
+- Facilities: the board approved a $4,795,000 general obligation bond appropriation in March 2026 [34] and is carrying out HVAC, roof and secure-entry work at Cascade High School. In June 2026 it accepted Phase 3 bids of just over $1 million; auditorium HVAC work was cut from that phase and deferred [26].
+- Academics: in January 2026 administrators reported that Cascade High School, Mill Creek East and Mill Creek West were rated Meets Expectations on federal report cards and Cascade Middle School was rated Approaching Expectations [25]. In April 2026 they reported an average SAT score of 995 and a district IREAD average of 67%, compared with a state average of 49% as stated in the minutes [32].
+- Teachers: a tentative 2026–27 master contract with the Mill Creek Community Classroom Teachers Association was posted among the board's public notices, dated for approval on Oct. 21, 2026 [35].
+- Forums: no candidate forum or questionnaire for this race was found in the sources reviewed. The Hendricks County election office posted a biography for Lora Denney only [36].
+
+## N Nathan Peters — At Large
+
+Unopposed candidate for the at-large seat; not a current board member [30, 29].
+
+### Path to the ballot
+
+- Listed on the county ballot with no party label and on the state list as Nonpartisan; he is the only candidate for the seat [30, 6].
+
+### On the current officeholder
+
+- No statements about the current board's decisions were found in the sources reviewed.
+
+### Endorsements & fundraising
+
+- No endorsements or campaign-finance reports were found in the sources reviewed.
+
+### What we couldn't verify
+
+- No candidate questionnaire, forum, news coverage, website or campaign social-media page was found in the sources reviewed.
+- Occupation, residence and ties to the schools not found.
+- No county-posted biography was found for him; a GoodParty.org page lists a "Nathan Peters" for the seat with no background.
+
+## Dawn Renee Cooper — Liberty Township
+
+Candidate for the Liberty Township seat, listed as a Republican on the ballot; not a current board member [30, 29].
+
+### Path to the ballot
+
+- Listed with an R on the county ballot and as a Republican on the state list [30, 6]. Whether she was nominated by party convention or filed by petition was not found.
+
+### On the current officeholder
+
+- No statements about the current board's decisions were found in the sources reviewed.
+
+### Endorsements & fundraising
+
+- No endorsements or campaign-finance reports were found in the sources reviewed.
+
+### What we couldn't verify
+
+- No candidate questionnaire, forum, news coverage, website or campaign social-media page was found in the sources reviewed.
+- Occupation and ties to the schools not found.
+- No county-posted biography was found for her.
+
+## Lora Denney — Liberty Township
+
+Liberty Township resident and nonprofit board member, running for the Liberty Township seat; listed as a Republican on the ballot [36, 30].
+
+### Background
+
+- Says in her county-posted biography that she was raised in Hendricks County and has lived in Liberty Township for 30 years [36].
+- Holds Indiana University degrees in public health and chemistry, according to her biography [36].
+- Her biography says she spent a decade as a CASA (court-appointed special advocate) volunteer, worked with Habit of the Heart, works alongside her husband at Denney Excavating Inc., and serves on the Board of Governors of the Riley Children's Foundation and the Board of Directors of Susie's Place [36].
+
+### Path to the ballot
+
+- Listed with an R on the county ballot and as a Republican on the state list [30, 6]. Whether she was nominated by party convention or filed by petition was not found.
+
+### On the current officeholder
+
+- No statements about the current board's decisions were found in the sources reviewed.
+
+### How they say they'd run the office
+
+- Her biography states a general wish to serve children and families but lists no specific proposals [36].
+
+### Endorsements & fundraising
+
+- No endorsements or campaign-finance reports were found in the sources reviewed.
+
+### What we couldn't verify
+
+- Only source on her candidacy is a short biography posted by the Hendricks County election office; No candidate questionnaire, forum, news coverage, website or campaign social-media page was found in the sources reviewed.
+- No stated positions on the budget shortfall, SEA 1, construction or staffing were found.
+
+## Sources
+
+1. [Indiana Code 20-26-5-4: Specific powers of governing body](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-5-4/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+2. [2026 Indiana Candidate Guide (School Board Offices)](https://www.in.gov/dA/1eada35c3e/2026-Candidate-Guide.FINAL.pdf) — Indiana Election Division, accessed 2026-10-10
+3. [800 school board seats are up for election in Indiana](https://chalkbeat.org/indiana/2024/06/13/school-board-seats-up-for-election-in-indiana-in-2024) — Chalkbeat Indiana / WFYI, 2024-06-13
+4. [Why there are no education elections on your primary ballot](https://www.chalkbeat.org/indiana/2026/04/07/primary-election-ballot-changes-exclude-education-races-and-referendums/) — Chalkbeat Indiana, 2026-04-07
+5. [Indiana Code 20-26-4-7: Compensation of governing body members](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-4-7/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+6. [2026 General Election Candidate List](https://www.in.gov/sos/elections/candidate-information/) — Indiana Election Division, 2026-09-22
+7. [Indiana Code 20-26-5-4.5: Selection and discharge of employees](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-5-4-5/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+8. [School Tax Levy Referendum](https://www.in.gov/dlgf/referendum-information/school-tax-levy-referendum/) — Indiana Department of Local Government Finance, accessed 2026-10-10
+9. [Indiana Code 20-29-6-4: Subjects of collective bargaining](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-29-6-4/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+10. [Obscene, or just objectionable? Here's how Indiana schools are tackling library book complaints](https://arnoltcenter.org/?p=1345) — Arnolt Center for Investigative Journalism / Indiana Capital Chronicle, 2024-02-05
+11. [Indiana Code 20-33-8-19: Expulsion appeals](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-33-8-19/) — FindLaw (Indiana Code), accessed 2026-10-10
+12. [Indiana Code 5-14-1.5-1: Open Door Law policy](https://codes.findlaw.com/in/title-5-state-and-local-administration/in-code-sect-5-14-1-5-1/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+13. [What We Do](https://www.in.gov/pac/about-us/what-we-do/) — Indiana Public Access Counselor, accessed 2026-10-10
+14. [Indiana Code 20-31-3-1: State academic standards](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-31-3-1/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+15. [Indiana K-12 State Tuition Support Annual Report FY2023](https://www.in.gov/doe/files/2023-Tuition-Support-Report.pdf) — Indiana Department of Education, 2023
+16. [Indiana lawmakers expand voucher eligibility, increase school funding in budget](https://chalkbeat.org/indiana/2025/04/24/vouchers-for-all-start-in-2026-budget-year) — Chalkbeat Indiana, 2025-04-24
+17. [Indiana school board candidates split 50-50 on affiliating with a party](https://www.wndu.com/2026/07/20/indiana-school-board-candidates-split-50-50-affiliating-with-party/) — WNDU, 2026-07-20
+18. [5 takeaways from Chalkbeat's panel on Indiana's changes to school board elections and referendums](https://www.chalkbeat.org/indiana/2026/07/10/indiana-school-board-elections-partisan-referendums-takeaways/) — Chalkbeat Indiana, 2026-07-10
+19. [Confusion on partisan school board law puts two IPS candidates' spots at risk](https://www.chalkbeat.org/indiana/2026/07/27/confusion-on-partisan-schoolboard-threatens-ips-ballot-spots/) — Chalkbeat Indiana, 2026-07-27
+20. [2026 Indiana Election Legislation Summary](https://www.in.gov/dA/d13ecb1f55/2026-Indiana-Election-Legislation-Summary.FINAL.pdf) — Indiana Election Division, 2026
+21. [Indiana school referendum elections: Districts seek funding for teacher pay, class size, buses](https://www.chalkbeat.org/indiana/2025/10/27/schools-property-tax-referendum-election-2025) — Chalkbeat Indiana, 2025-10-27
+22. [Indiana school district referendum guide 2026: What to know about your district's requested tax increase](https://www.wvxu.org/2026-08-17/indiana-school-district-referendum-guide-2026-what-to-know-about-your-districts-requested-tax-increase) — WFYI and Chalkbeat Indiana (via WVXU), 2026-08-17
+23. [Indiana charter schools could now have an easier path to acquiring district buildings](https://www.chalkbeat.org/indiana/2023/6/11/23755769/indiana-charters-acquire-traditional-public-school-buildings-underutilized-enrollment) — Chalkbeat Indiana, 2023-06-11
+24. [Mill Creek Community School Corporation](https://en.wikipedia.org/wiki/Mill_Creek_Community_School_Corporation) — Wikipedia, 2026-10
+25. [Regular Board Meeting & Reorganization Meeting Minutes, January 14, 2026](https://drive.google.com/file/d/1pt6Err1PvhKuccV1MeFkEI4XTziPx6CH/view) — Mill Creek Community School Corporation, 2026-01-14
+26. [School Board Meeting Minutes, June 10, 2026](https://drive.google.com/file/d/1rh2Euahpl4POQbj67fOBSKkwGHrMABAt/view) — Mill Creek Community School Corporation, 2026-06-10
+27. [Regular Meeting Minutes, July 8, 2026](https://drive.google.com/file/d/1zUpO16Ir7nbA-KcxmADxDJfl2XYFsl8C/view) — Mill Creek Community School Corporation, 2026-07-08
+28. [Regular Meeting Minutes, May 13, 2026](https://drive.google.com/file/d/1lok_6YJE7kt2FToedZNTB_7Br1HXy7Bp/view) — Mill Creek Community School Corporation, 2026-05-13
+29. [School Board Members](https://www.mccsc.k12.in.us/school-board/members) — Mill Creek Community School Corporation, 2026-10
+30. [2026 General Ballot](https://www.co.hendricks.in.us/egov/documents/1786723157_12034.pdf) — Hendricks County Government, 2026-08-14
+31. [Mill Creek School Board in Mill Creek Community School Corporation, IN](https://goodparty.org/elections/in/mill-creek-community-school-corporation/position/local-school-board/candidates) — GoodParty.org, 2026-10
+32. [Board Meeting Minutes, April 8, 2026](https://drive.google.com/file/d/1YfaPiDTgHRD8YjfO21OKzjtaccE_YPd9/view) — Mill Creek Community School Corporation, 2026-04-08
+33. [Board of School Trustees Meeting Minutes, February 11, 2026](https://drive.google.com/file/d/1VpzU7Tloom2Yqc8htEGw9xj9HZDW5IG8/view) — Mill Creek Community School Corporation, 2026-02-11
+34. [Regular Board Meeting Minutes, March 11, 2026](https://drive.google.com/file/d/1PPBkFQpJXfyo_IzKhzApgZMOn6k9U8Qw/view) — Mill Creek Community School Corporation, 2026-03-11
+35. [Master Contract between the Board of School Trustees and the Mill Creek Community Classroom Teachers Association, 2026-2027 (tentative agreement)](https://resources.finalsite.net/images/v1791286203/mccsck12inus4/puzl9mc8duxdr2ll6t7b/CopyofCBATENTATIVEAGREEMENT-10-2-2026.pdf) — Mill Creek Community School Corporation, 2026-10-02
+36. [Mill Creek School Board Bios (candidate biographies)](https://www.co.hendricks.in.us/egov/apps/document/center.egov?view=item&id=9546) — Hendricks County Government, 2026
