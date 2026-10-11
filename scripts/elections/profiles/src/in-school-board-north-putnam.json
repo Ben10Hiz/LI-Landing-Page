@@ -1,0 +1,199 @@
+{
+ "race_id": "in-school-board-north-putnam",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The district: North Putnam Community School Corporation, with its central office in Bainbridge, serves northern Putnam County through four schools: Bainbridge Elementary, Roachdale Elementary, North Putnam Middle School and North Putnam High School {np_central}{nces_np}. Federal data list 1,370 students in the 2024-25 school year {nces_np}. Dr. Dustin LeMay is superintendent and Dr. Rodney Simpson is assistant superintendent {np_central}.",
+  "The board has seven members elected to four-year terms: six are elected from their township of residence (Clinton, Floyd, Franklin, Jackson, Monroe and Russell) and one at large {np_board}. Only the Clinton, Floyd and Jackson township seats are on the 2026 ballot, one seat each, matching the state list's 'vote for 1' {np_board}{bg_filing}{in_list}.",
+  "Current members, per the district: Joanie Knapp (president, Jackson), Nathan Scott (vice president, Franklin), Zac Williams (secretary, Russell), Randy Bee (Monroe), Maria Brewer (Clinton), Ron Spencer (Floyd) and Travis Lambermont (at large) {np_board}.",
+  "Clinton Township: Maria Brewer, appointed by the board on April 16, 2026 by a 4–1 vote (Nathan Scott voting no) to fill a vacancy created by a resignation, for a term ending Dec. 31, 2026, is the only candidate {np_min_2026_04}{bg_filing}. David McCollough won the Clinton seat in 2022 and was still listed as a member in the March 2026 minutes {bg_2022_results}{np_min_2026_03}.",
+  "Floyd Township: incumbent Ron Spencer, who won a third term in 2022 by 18 votes, did not file; Scott Miller is the only candidate, so the seat will change hands {bg_2022_results}{bg_filing}{np_board}.",
+  "Jackson Township: incumbent and board president Joanie Knapp faces Roger H. Busch II, a rematch of 2022, when Knapp won 1,379–1,155 {bg_2022_results}{bg_filing}.",
+  "Board turnover in 2026: the board accepted Heather Lawson's resignation in January 2026 and appointed Randy Bee to the Monroe Township seat on Feb. 12, 2026 by a 3–1 vote; Travis Lambermont joined as a new member in January 2026 {np_min_2026_01}{np_min_2026_02}.",
+  "Party labels: 2026 is the first year Indiana school board candidates could list a party on the ballot; Maria Brewer filed as a Republican and the other three candidates did not list a party {bg_filing}{in_list}.",
+  "Facilities (2025–2027): the district is carrying out a roughly $34 million renovation program, including HVAC replacement, pool ventilation, paving and parking, a new fieldhouse and athletic field upgrades, with full completion scheduled for summer 2027; LeMay said in March 2025 the project would not increase tax rates {bg_renovations}. In 2023 the district's financial adviser told the board that falling debt payments would let the district take on the project while keeping its tax rate steady {bg_taxneutral}.",
+  "Budget (2026): the board approved advertising its 2027 budget, capital projects plan and bus replacement plan in August 2026, with a public hearing set for Sept. 17 and adoption scheduled for Oct. 15, 2026 {np_min_2026_08}{np_agenda_2026_10}. In January 2026 the business manager reported $110,000 in interest earned on certificates of deposit {np_min_2026_01}.",
+  "Academics (January 2026): the board voted 5–0 to adopt Indiana's new diploma early, with the new track optional for 2026-27 and 2027-28 and requiring parent consent; LeMay reported a 98.97% graduation rate for the Class of 2025 {np_min_2026_01}.",
+  "Preschool (March 2026): the board approved a new full-day, tuition-based community preschool program, which LeMay said would not be state-funded; proposed rates were $135 per week for families and $125 for staff {np_min_2026_03}.",
+  "Cell phones and safety (2026): in July 2026 the board adopted updated Chapter 6 policies for Indiana's new 'bell-to-bell' cell phone law, and the 2026-27 high school handbook requires phones to be powered off in lockers all day {np_min_2026_07}{bg_cellphone}. The September 2026 agenda included a school resource officer agreement with the Town of Bainbridge {np_agenda_2026_09}.",
+  "Board pay (January 2026): members discussed whether to raise the $2,000 annual board salary, and Lambermont raised meeting attendance; the board kept the salary at $2,000 {np_min_2026_01}.",
+  "Superintendent turnover: Carrie Milner served as interim superintendent in fall 2023 after the administration of Nicole Allee, and LeMay has led the district since at least January 2024 {bg_taxneutral}{bg_organize_2024}.",
+  "Forums: no 2026 candidate forum or questionnaire for North Putnam was found. In 2022 the Banner Graphic published candidate-written biographies {bg_2022_bios}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Maria Brewer",
+   "seat": "Clinton Township",
+   "summary": "Incumbent by appointment: the board appointed Brewer to the Clinton Township seat in April 2026, and she is unopposed {np_min_2026_04}{bg_filing}.",
+   "website": null,
+   "background": [
+    "Appointed to the board on April 16, 2026 to fill a Clinton Township vacancy; another applicant, Jim Jackson, was also considered {np_min_2026_04}."
+   ],
+   "path_to_ballot": [
+    "Filed by the June 18, 2026 deadline and is listed as a Republican {bg_filing}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. Since joining she has voted with the board's 7–0 and 6–0 majorities on items including the July 2026 cell phone policy update (which she seconded) and the support personnel and transportation handbooks {np_min_2026_05}{np_min_2026_07}. In August 2026 board comments she said 'everything looks good' {np_min_2026_08}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "Occupation and background not found in reviewed sources.",
+    "No candidate website, questionnaire or interview found.",
+    "No public statements on budget, academics or other policy found beyond brief board comments."
+   ]
+  },
+  {
+   "ballot_name": "Scott Miller",
+   "seat": "Floyd Township",
+   "summary": "Unopposed candidate for the open Floyd Township seat, which incumbent Ron Spencer is leaving {bg_filing}{np_board}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Filed by the June 18, 2026 deadline without a party label {bg_filing}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No information found on occupation, background or ties to the schools.",
+    "No candidate website, questionnaire, interview or public statements found.",
+    "Several people named Scott Miller appear in regional coverage; none could be tied to this candidate."
+   ]
+  },
+  {
+   "ballot_name": "Joanie Knapp",
+   "seat": "Jackson Township",
+   "summary": "Incumbent and board president, seeking a third term for Jackson Township; she is a retired North Putnam teacher {np_board}{bg_2022_results}.",
+   "website": null,
+   "background": [
+    "Retired teacher who taught 34 years in the corporation, at Roachdale Elementary (first, fourth, fifth and sixth grades) and as an eighth-grade social studies teacher at North Putnam Middle School, according to her 2022 biography {bg_2022_bios}.",
+    "North Putnam graduate (1978) with a bachelor's degree in education and a Master of Arts in teaching from DePauw University {bg_2022_bios}.",
+    "Listed community service on the North Putnam Alumni Association board, as a 21st Century Scholars recruiter, on the Putnam County Dollars for Scholars board and on the Putnam County Community Foundation Lilly Scholarship selection committee {bg_2022_bios}.",
+    "Board president in 2023 and again in 2026, and vice president in 2025; serves on the board's collective bargaining committee {bg_organize_2024}{np_min_2025_07}{np_min_2026_01}."
+   ],
+   "path_to_ballot": [
+    "Filed by the June 18, 2026 deadline without a party label {bg_filing}{in_list}.",
+    "Won the Jackson seat for a second term in 2022, defeating Roger Busch 1,379–1,155 {bg_2022_results}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Wrote in 2022 that 'it is crucial for our corporation to be financially responsible and accountable, using our funds strategically' {bg_2022_bios}.",
+      "After the 2022 election said, 'We do our best to be financially responsible and provide the best education possible for our students' {bg_2022_results}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Wrote in 2022 that 'all students deserve a quality education with the most engaging curriculum possible' and that her primary focus is students' academic experience and well-being {bg_2022_bios}.",
+      "When the board adopted the early new-diploma plan in January 2026, she said she likes how work-based learning is built into it {np_min_2026_01}."
+     ]
+    },
+    {
+     "topic": "Curriculum & library policy",
+     "items": [
+      "When the board approved discarding 769 old library books at Roachdale Elementary in May 2026, she asked whether they could be recycled {np_min_2026_05}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member. In 2026 board comments she praised new elementary makerspaces, facility work and staff, and said she was excited about the new preschool program {np_min_2026_03}{np_min_2026_04}{np_min_2026_08}."
+   ],
+   "plans": [
+    "In 2022 said she looked forward to 'helping our students and parents to make North Putnam the best that it can be' {bg_2022_results}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No 2026 campaign statement, website, questionnaire or forum found; positions above are from her 2022 campaign and board minutes."
+   ]
+  },
+  {
+   "ballot_name": "Roger H Busch, II",
+   "seat": "Jackson Township",
+   "summary": "Challenger and former North Putnam High School athletic director (2017–2021) who lost to Knapp for this seat in 2022 {bg_2022_bios}{bg_2022_results}.",
+   "website": null,
+   "background": [
+    "North Putnam graduate (1992) who attended Wabash College from 1992 to 1996 and coached track at Wabash from 2005 to 2015, according to his 2022 biography {bg_2022_bios}.",
+    "Was North Putnam High School's athletic director from 2017 to 2021; he wrote that in that job he secured increases in stipends for coaches and sponsors that had been flat for more than 15 years {bg_2022_bios}.",
+    "In 2022 described himself as a parent of three daughters in the district {bg_2022_bios}."
+   ],
+   "path_to_ballot": [
+    "Filed by the June 18, 2026 deadline without a party label {bg_filing}{in_list}.",
+    "Ran for the Jackson seat in 2022 and received 1,155 votes to Knapp's 1,379 {bg_2022_results}."
+   ],
+   "positions": [
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Wrote in 2022 that the district should listen 'to teachers, families and community members when determining policies' and be 'transparent and honest, about our school district’s successes and shortcomings' {bg_2022_bios}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Cited, in 2022, his work as athletic director to raise long-stagnant extracurricular stipends {bg_2022_bios}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "In 2022 wrote that 'many aspects of our school district are working well' but 'there are some problems that need to be addressed,' and called for 'holding leadership accountable'; he did not specify the problems in that biography {bg_2022_bios}."
+   ],
+   "plans": [
+    "Said in 2022 that as a board member his goal would be 'to press the shortcomings that need to be addressed to help find common sense solutions' {bg_2022_bios}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No 2026 campaign statement, website, questionnaire or forum found; positions above are from his 2022 biography.",
+    "Current occupation not found.",
+    "A September 2023 Banner Graphic personnel list names a 'Roger Busch' as a North Putnam fourth- and sixth-grade girls' basketball coach; not confirmed to be this candidate."
+   ]
+  }
+ ],
+ "review_flags": [
+  {
+   "person": "Vince Brooks (North Putnam boys' basketball coach; not a candidate)",
+   "category": "personnel action",
+   "status": "held",
+   "summary": "At an April 16, 2026 meeting the board approved Principal Amanda Williams' recommendation not to renew head boys' basketball coach Vince Brooks' contract, according to the Banner Graphic; Brooks, his wife and others spoke against the decision, Brooks questioned the transparency of the process and board involvement in athletics, and his wife said the principal's husband sits on the board; Athletic Director Bart Jochim wished Brooks well and the principal could not be reached {bg_brooks}. The board's own minutes say patrons spoke on Brooks' behalf 'since he resigned recently' and do not record a vote on his contract {np_min_2026_04}.",
+   "note": "Board-level controversy during the 2026 cycle; Knapp and Brewer (appointed at that meeting) are on the ballot. The newspaper and minutes describe the separation differently (non-renewal vs. resignation). The comment about a board member's spouse is unverified and not tied to any 2026 candidate."
+  }
+ ],
+ "sources": {
+  "np_board": ["School Board Members", "North Putnam Community School Corporation", "2026-10", "https://www.nputnam.k12.in.us/page/school-board-members"],
+  "np_central": ["Central Office", "North Putnam Community School Corporation", "2026-10", "https://www.nputnam.k12.in.us/page/central-office"],
+  "nces_np": ["District Detail: North Putnam Community Schools", "National Center for Education Statistics, Common Core of Data", "2026-10", "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?Search=2&ID2=1807980&details=1"],
+  "bg_filing": ["School Board candidates for November General Election", "Banner Graphic (suncommercial.com)", "2026-06-25", "https://www.suncommercial.com/banner_graphic/article_4143fe88-ee0d-5367-8747-c49712be04d0.html"],
+  "bg_2022_results": ["Spencer, Knapp, McCollough win North Putnam board seats", "Banner Graphic (suncommercial.com)", "2022-11-08", "https://www.suncommercial.com/banner_graphic/archives/article_9be98227-4aa6-5a17-8899-5e01eefbaf4e.html"],
+  "bg_2022_bios": ["North Putnam School Board Candidates", "Banner Graphic (suncommercial.com)", "2022-10-31", "https://www.suncommercial.com/banner_graphic/archives/article_81b4fedc-7df9-5222-b0f7-63bf20a87641.html"],
+  "bg_organize_2024": ["North Putnam board organizes for 2024", "Banner Graphic (suncommercial.com)", "2024-01-15", "https://www.suncommercial.com/banner_graphic/archives/article_9979ddc9-2815-56bc-a02e-a7c65298f5e3.html"],
+  "bg_taxneutral": ["North Putnam to remain tax neutral amid upgrades", "Banner Graphic (suncommercial.com)", "2023-09-25", "https://www.suncommercial.com/banner_graphic/archives/article_7050f004-b941-5b4a-8a0c-c4a98b6cb01b.html"],
+  "bg_renovations": ["Renovations at North Putnam Schools coming to fruition", "Banner Graphic (suncommercial.com)", "2025-03-31", "https://www.suncommercial.com/banner_graphic/news/article_70717ede-fa17-50a8-931e-f90932c0d1f0.html"],
+  "bg_cellphone": ["New Bell to Bell cell phone policy takes effect as school gets under way", "Banner Graphic (suncommercial.com)", "2026-08-06", "https://www.suncommercial.com/banner_graphic/article_376771ce-6595-57b9-9373-a67af23766de.html"],
+  "bg_brooks": ["Vince Brooks' contract not renewed by North Putnam School Board", "Banner Graphic (suncommercial.com)", "2026-04-17", "https://www.suncommercial.com/banner_graphic/article_249208a2-945a-5bd0-80e4-c1e4f07844da.html"],
+  "np_min_2025_07": ["Board minutes, July 17, 2025", "North Putnam Community School Corporation", "2025-07-17", "https://aptg.co/ppj51v"],
+  "np_min_2026_01": ["Board minutes, January 15, 2026", "North Putnam Community School Corporation", "2026-01-15", "https://aptg.co/cgpFSc"],
+  "np_min_2026_02": ["Board minutes, February 12, 2026", "North Putnam Community School Corporation", "2026-02-12", "https://aptg.co/l1Dlrg"],
+  "np_min_2026_03": ["Board minutes, March 19, 2026", "North Putnam Community School Corporation", "2026-03-19", "https://aptg.co/p6p0n0"],
+  "np_min_2026_04": ["Board minutes, April 16, 2026", "North Putnam Community School Corporation", "2026-04-16", "https://aptg.co/4xkzsP"],
+  "np_min_2026_05": ["Board minutes, May 21, 2026", "North Putnam Community School Corporation", "2026-05-21", "https://aptg.co/hpHGfb"],
+  "np_min_2026_07": ["Board minutes, July 16, 2026", "North Putnam Community School Corporation", "2026-07-16", "https://aptg.co/x2VDk5"],
+  "np_min_2026_08": ["Board minutes, August 20, 2026", "North Putnam Community School Corporation", "2026-08-20", "https://aptg.co/080rcG"],
+  "np_agenda_2026_09": ["Board meeting agenda, September 17, 2026", "North Putnam Community School Corporation", "2026-09-17", "https://aptg.co/0csd-H"],
+  "np_agenda_2026_10": ["Board meeting agenda, October 15, 2026", "North Putnam Community School Corporation", "2026-10-15", "https://aptg.co/tMvld4"]
+ }
+}

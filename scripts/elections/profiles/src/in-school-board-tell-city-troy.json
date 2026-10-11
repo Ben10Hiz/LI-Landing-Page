@@ -1,0 +1,210 @@
+{
+ "race_id": "in-school-board-tell-city-troy",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The district: Tell City-Troy Township School Corporation in Perry County runs two schools, William Tell Elementary (pre-K through grade 6) and Tell City Junior-Senior High School (grades 7-12) {idoe_dir}. State enrollment counts were 1,400 students in 2022-23, 1,360 in 2023-24, 1,351 in 2024-25 and 1,322 in 2025-26, down from 1,425 in 2018-19 {idoe_enroll}. The state directory lists John Scioldo as superintendent {idoe_dir}.",
+  "The board has five members: Tony Thomas (president), Larry Goffinet (vice president), Hanna Fortwendel (secretary), Ross Hendershot and Derek Kleemann {tc_board}. Goffinet nominated Thomas to continue as president at the board's Jan. 13, 2026 reorganization meeting, and the board agreed unanimously {pcn_jan}. Members are elected at large in staggered groups: state results show three seats filled in 2018 and three in 2022, while the 2020 and 2024 races drew fewer candidates than seats, and in 2024 the only winner listed was Tony Thomas, as a write-in {enr_2018}{enr_2020}{enr_2022}{enr_2024}.",
+  "Seats on the 2026 ballot: three at-large seats, matching the state list's 'vote for 3' {in_list}. They are the seats won in 2022 by Hanna Fortwendel, Ross Hendershot and Larry J. Goffinet {enr_2022}. Fortwendel and Goffinet are running again; Hendershot is not on the ballot, so at least one seat will go to a newcomer. Blair Walsh and Ike Glenn are the two challengers {in_list}{ic_list}.",
+  "Name note: the district website and the 2022 state results spell the incumbent's name 'Hanna Fortwendel', the same as the 2026 ballot list {tc_board}{enr_2022}{in_list}.",
+  "Facilities: on April 14, 2026, the board awarded the contract for a new fieldhouse (auxiliary gym) on the high school campus to Jasper Lumber, the lowest fully compliant bidder {pcn_field}.",
+  "Staffing and budget: on July 14, 2026, the board approved new administrative contracts after promoting Chris Hollinden to principal and Nick Weyer to assistant principal. The Perry County News reported that even with the raises, the district will save about $20,000 in administrative costs {pcn_admin}. In September 2025 the board again approved supplemental pay for teachers who earn dual-credit qualifications or a master's degree {pcn_teach}.",
+  "Special education: on Sept. 8, 2026, the board approved plans to keep special education services in-house as much as possible because the Exceptional Children's Co-op is dissolving {pcn_sped}.",
+  "Budget and SEA 1: this guide did not find a full, freely available account of how the 2025 property-tax law (SEA 1) affects the district. The district held a public hearing on its 2027 budget on Sept. 8, 2026 {tc_budget}. This guide found no operating or safety referendum for the district.",
+  "Forums: the Perry County News held a political forum on Oct. 5, 2026, announced as featuring Democratic and Republican candidates {pcn_forum}; this guide found no report that school board candidates took part. It found no questionnaire, voter guide or campaign website for any Tell City-Troy candidate."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Blair Walsh",
+   "seat": "At Large (3 seats)",
+   "summary": "Challenger for one of three at-large seats; listed as nonpartisan {in_list}.",
+   "website": null,
+   "background": [
+    "This guide found no published background on the candidate."
+   ],
+   "path_to_ballot": [
+    "Filed for the three-seat race in June 2026 and is listed without a party {ic_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no candidate website, social-media page, questionnaire, forum appearance or news interview for this candidate.",
+    "Occupation, community roles and ties to the schools are not reported.",
+    "No statements found on the board's record, the fieldhouse project, special education, the budget or other district issues.",
+    "No endorsements or campaign-finance reports found.",
+    "Unverified: the Indiana Citizen candidate list was cut off at this entry; its filing date appeared to be June 17, 2026, but this was not confirmed.",
+    "A former NFL kicker has the same name; nothing found ties him to this race, and nothing about him is used here."
+   ]
+  },
+  {
+   "ballot_name": "Hanna Fortwendel",
+   "seat": "At Large (3 seats)",
+   "summary": "Incumbent; board secretary, first elected in 2022 {tc_board}{enr_2022}.",
+   "website": null,
+   "background": [
+    "Board secretary {tc_board}. Elected in November 2022 with the most votes of six candidates for three seats (1,986) {enr_2022}."
+   ],
+   "path_to_ballot": [
+    "Filed June 15, 2026, without a party {ic_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {tc_board}. This guide found no statement from her on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no candidate website, social-media page, questionnaire, forum appearance or news interview for this candidate.",
+    "Occupation, community roles and ties to the schools are not reported.",
+    "No statements found on the fieldhouse project, special education, the budget or other district issues.",
+    "No endorsements or campaign-finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Ike Glenn",
+   "seat": "At Large (3 seats)",
+   "summary": "Challenger for one of three at-large seats; listed as nonpartisan {in_list}.",
+   "website": null,
+   "background": [
+    "This guide found no published background on the candidate."
+   ],
+   "path_to_ballot": [
+    "Filed June 2, 2026, without a party {ic_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no candidate website, social-media page, questionnaire, forum appearance or news interview for this candidate.",
+    "Occupation, community roles and ties to the schools are not reported.",
+    "No statements found on the board's record, the fieldhouse project, special education, the budget or other district issues.",
+    "No endorsements or campaign-finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Larry Goffinet",
+   "seat": "At Large (3 seats)",
+   "summary": "Incumbent; board vice president, first elected in 2018 {tc_board}{enr_2018}.",
+   "website": null,
+   "background": [
+    "Board vice president {tc_board}. Won seats in November 2018 (2,370 votes) and November 2022 (1,512 votes; third of six candidates for three seats), appearing on those ballots as 'Larry J Goffinet' {enr_2018}{enr_2022}.",
+    "At the Jan. 13, 2026 reorganization meeting, he nominated Tony Thomas to continue as board president {pcn_jan}."
+   ],
+   "path_to_ballot": [
+    "Filed June 17, 2026, without a party {ic_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {tc_board}. This guide found no statement from him on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no candidate website, social-media page, questionnaire, forum appearance or news interview for this candidate.",
+    "Occupation, community roles and ties to the schools are not reported.",
+    "No statements found on the fieldhouse project, special education, the budget or other district issues.",
+    "No endorsements or campaign-finance reports found.",
+    "A Lena Goffinet is running for the Indiana House in 2026, and a Judge Lucy Goffinet serves in Perry County; this guide found nothing connecting either to the candidate and draws no link."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "tc_board": [
+   "Board of Education",
+   "Tell City-Troy Township School Corporation",
+   "2026",
+   "https://www.tellcity.k12.in.us/page/board-of-education"
+  ],
+  "tc_budget": [
+   "Notice to Taxpayers: Public Hearing (2027 budget)",
+   "Tell City Jr.-Sr. High School / Tell City-Troy Township School Corporation",
+   "2026-08-27",
+   "https://tcjshs.tellcity.k12.in.us/o/tcjshs/article/3097466"
+  ],
+  "idoe_dir": [
+   "2025-2026 School Directory",
+   "Indiana Department of Education",
+   "2026-03-23",
+   "https://www.in.gov/doe/files/2025-2026-school-directory-2026-03-23.xlsx"
+  ],
+  "idoe_enroll": [
+   "Corporation Enrollment by Grade Level, 2006-26",
+   "Indiana Department of Education",
+   "2026",
+   "https://www.in.gov/doe/files/corporation-enrollment-grade-2006-26.xlsx"
+  ],
+  "ic_list": [
+   "2026 Indiana General Election School Board Candidate List",
+   "The Indiana Citizen",
+   "2026-08-12",
+   "https://indianacitizen.org/2026-indiana-general-election-school-board-candidate-list/"
+  ],
+  "enr_2018": [
+   "Election results archive: Nov. 6, 2018 General Election (Perry Tell City Troy Township School Board)",
+   "Indiana Election Division",
+   "2018-11",
+   "https://enr.indianavoters.in.gov/archive/2018General/index.html"
+  ],
+  "enr_2020": [
+   "Election results archive: Nov. 3, 2020 General Election (Perry Tell City Troy Township School Board)",
+   "Indiana Election Division",
+   "2020-11",
+   "https://enr.indianavoters.in.gov/archive/2020General/index.html"
+  ],
+  "enr_2022": [
+   "Election results archive: Nov. 8, 2022 General Election (Tell City-Troy Township School Board)",
+   "Indiana Election Division",
+   "2022-11",
+   "https://enr.indianavoters.in.gov/archive/2022General/index.html"
+  ],
+  "enr_2024": [
+   "Election results archive: Nov. 5, 2024 General Election (Tell City-Troy Township School Board)",
+   "Indiana Election Division",
+   "2024-11",
+   "https://enr.indianavoters.in.gov/archive/2024General/index.html"
+  ],
+  "pcn_jan": [
+   "Tell City School Board makes organizational decisions for the new year",
+   "Perry County News (Dubois County Herald)",
+   "2026-01-22",
+   "https://www.duboiscountyherald.com/perry_county_news/news/education/tell-city-school-board-makes-organizational-decisions-for-the-new-year/article_571b76a7-1571-5868-8cac-c0782882d847.html"
+  ],
+  "pcn_field": [
+   "Bid awarded for new Tell City fieldhouse",
+   "Perry County News (Dubois County Herald)",
+   "2026-04-23",
+   "https://www.duboiscountyherald.com/perry_county_news/news/education/bid-awarded-for-new-tell-city-fieldhouse/article_706b3fcd-69a9-5357-8b41-820327d7fb14.html"
+  ],
+  "pcn_admin": [
+   "Tell City approves updated administrative contracts",
+   "Perry County News (Dubois County Herald)",
+   "2026-07-23",
+   "https://www.duboiscountyherald.com/perry_county_news/news/education/tell-city-approves-updated-administrative-contracts/article_82680ba6-44a2-579d-b1b2-f1c324439294.html"
+  ],
+  "pcn_teach": [
+   "Tell City teachers to continue to receive pay for furthering their education",
+   "Perry County News (Dubois County Herald)",
+   "2025-09-15",
+   "https://www.duboiscountyherald.com/perry_county_news/news/education/tell-city-teachers-to-continue-to-receive-pay-for-furthering-their-education/article_bc786193-e4b4-54b3-b1f4-842219437ccb.html"
+  ],
+  "pcn_sped": [
+   "Tell City prepares for in-house special education services",
+   "Perry County News (Dubois County Herald)",
+   "2026-09-24",
+   "https://www.duboiscountyherald.com/perry_county_news/news/tell-city-prepares-for-in-house-special-education-services/article_b1ea5a1c-8c75-5fa7-90fc-a9308fa561a7.html"
+  ],
+  "pcn_forum": [
+   "Perry County News hosting Political Forum on Monday in Cannelton",
+   "Perry County News (Dubois County Herald)",
+   "2026-10-01",
+   "https://www.duboiscountyherald.com/perry_county_news/news/perry-county-news-hosting-political-forum-on-monday-in-cannelton/article_f777f057-ee59-5b08-b9d4-7bc57b8440a3.html"
+  ]
+ }
+}

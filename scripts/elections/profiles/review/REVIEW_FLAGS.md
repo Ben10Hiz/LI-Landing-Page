@@ -192,6 +192,14 @@ Sensitive items held for a second, careful editorial pass (criminal cases, misco
   - [Settlement reached in Dr. Thomas Mungle's lawsuit against North Lawrence Community School Corporation](https://www.wbiw.com/2025/06/09/settlement-reached-in-dr-thomas-mungles-lawsuit-against-north-lawrence-community-school-corporation/) — WBIW, 2025-06-09
   - [North Lawrence school board votes to end contract of superintendent Ty Mungle](https://www.yahoo.com/news/north-lawrence-school-board-votes-101910368.html) — The Times-Mail (via Yahoo News), 2023-01-23
 
+## Indiana School Board Member (`in-school-board-north-putnam`)
+
+- **Vince Brooks (North Putnam boys' basketball coach; not a candidate)** — personnel action — _held_
+  At an April 16, 2026 meeting the board approved Principal Amanda Williams' recommendation not to renew head boys' basketball coach Vince Brooks' contract, according to the Banner Graphic; Brooks, his wife and others spoke against the decision, Brooks questioned the transparency of the process and board involvement in athletics, and his wife said the principal's husband sits on the board; Athletic Director Bart Jochim wished Brooks well and the principal could not be reached. The board's own minutes say patrons spoke on Brooks' behalf 'since he resigned recently' and do not record a vote on his contract.
+  Note: Board-level controversy during the 2026 cycle; Knapp and Brewer (appointed at that meeting) are on the ballot. The newspaper and minutes describe the separation differently (non-renewal vs. resignation). The comment about a board member's spouse is unverified and not tied to any 2026 candidate.
+  - [Vince Brooks' contract not renewed by North Putnam School Board](https://www.suncommercial.com/banner_graphic/article_249208a2-945a-5bd0-80e4-c1e4f07844da.html) — Banner Graphic (suncommercial.com), 2026-04-17
+  - [Board minutes, April 16, 2026](https://aptg.co/4xkzsP) — North Putnam Community School Corporation, 2026-04-16
+
 ## Indiana School Board Member (`in-school-board-oregon-davis`)
 
 - **Terry Minix** — criminal case — _held_
