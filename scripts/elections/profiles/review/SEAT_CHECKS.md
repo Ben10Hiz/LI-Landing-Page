@@ -29,6 +29,7 @@ multi-seat but not yet confirmed from a 2026 county ballot:
 | Henry South Henry School Board, Dudley | 2 | 2022 Dudley race elected 2 |
 | North Lawrence School Board, District 1 | 0 on ballot | WBIW reported D1 up in 2026; no candidate on the state list |
 | Crawford County School Board, District 3 | 0 on ballot | four trustees' terms end 2026; no D3 race on the state list |
+| South Gibson School Board, District 1 | 0 on ballot | no candidate filed for this seat |
 | Jay School Board, District 1 | 0 on ballot | seat due in 2026 but no one filed; how it is filled is unknown |
 
 Also confirm with county election offices:

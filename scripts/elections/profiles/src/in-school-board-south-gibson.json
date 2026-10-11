@@ -1,0 +1,269 @@
+{
+ "race_id": "in-school-board-south-gibson",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The district: South Gibson School Corporation, based in Fort Branch in southern Gibson County, runs three K–8 community schools and one high school; the Clarion's coverage names them as Haubstadt, Fort Branch and Owensville community schools and Gibson Southern High School {sg_supt}{pdc_enroll}. Superintendent Bryan Perry told the board in August 2026 that about 2,150 students had started the year, including 430 from outside the district {pdc_enroll}. His message on the district site says the corporation is a state-recognized Performance Qualified School District {sg_supt}.",
+  "The board has seven members: Steve Gruszewski (president), Stacy McClellan (vice president), Benson Davenport, Rachael Johnson Hileman, Robin Angermeier, Michael Bengert and Eric Harper {sg_board}. Seats are elected by district on staggered ballots. Districts 1–4 were on the ballot in 2018 and 2022, and Districts 1–3 in 2020 and 2024, so Districts 1–3 each have two members and District 4 is at large {gc_2018}{gc_2020}{gc_2022}{gc_2024}. The Clarion lists District 1 as Johnson Township, District 2 as Union Township, District 3 as Montgomery/Wabash Township and District 4 as at large {pdc_filing}.",
+  "Seats on the 2026 ballot: the four seats won in 2022 are up this year: District 1 (Mike Bengert), District 2 (Rachael Johnson Hileman, who beat Mark A. Fehrenbacher 2,221 to 1,264 in this guide's sum of precinct totals), District 3 (Stacy McClellan, unopposed) and District 4 at large (Steve Gruszewski, unopposed) {gc_2022}{pdc_2022race}{pdc_filing}. Each race elects one member {gc_2022}{in_list}. No candidate filed for District 1, so it is not on the state list {pdc_slates}{in_list}. In District 2, Joseph (Joe) P. Gilpatrick is the only candidate, and Hileman is not on the ballot {pdc_slates}{in_list}. McClellan faces AJ Evans in District 3, and Gruszewski is unopposed in District 4 {pdc_caucus}{in_list}.",
+  "Budget and SEA 1 (September 2026): the Clarion reported that trustees were preparing for cutbacks tied to SEA 1 and for declining enrollment. Perry planned to meet Baker Tilly about enrollment projections, and the board delayed a scheduled new-bus purchase by a year {pdc_budget}. Assistant Superintendent Tim Armstrong said costs are still rising, including employee health insurance that could go up as much as 26 percent. He called next year a 'wait-and-see' year as the state settles school funding and property-tax changes {pdc_budget}. The board added $50,000 to its rainy-day fund, which had $100,000 against an insurer-recommended $500,000. The budget hearing is Oct. 13, with a further meeting Oct. 27 {pdc_budget}. In April the board moved $600,000 from the education fund to the operations fund to cover January–March expenses {pdc_scores}.",
+  "Facilities: the board approved designing and bidding an HVAC fix for Owensville Community School that may cost around $2 million (September 2026) {pdc_budget}. A 21,600-square-foot multi-purpose practice building at Gibson Southern, designed by Three i Design with C.H. Garmong as construction manager, is funded by a 2025 general obligation bond, after a public hearing June 17, 2025 {pdc_mpf}. The board also budgeted $50,000 for a facilities truck in July 2026 {pdc_truck}.",
+  "Enrollment and school choice: Perry said in August 2026 that enrollment is holding steady while nearby districts decline. Most classrooms at three schools were closed to further transfers, and 200 kindergartners had already enrolled for fall 2027 {pdc_enroll}. In September the board turned to planning for declining enrollment linked to birth rates {pdc_budget}. Middle-school girls' basketball was consolidated into one South Gibson team in February 2026 after youth participation fell {pdc_gbb}.",
+  "Academics and accountability: Perry reported high eighth-grade ILEARN scores and state recognition of all three elementary schools for IREAD results (April 2026). He reported a 97.7 percent IREAD pass rate in August, and cautioned that this year's new ILEARN scores will not be comparable to last year's {pdc_scores}{pdc_enroll}. To meet new diploma and accountability rules, the board approved $31,232 for three years of middle-school computer science curriculum (June 2026) and summer Edmentum courses for students with full schedules (February 2026) {pdc_curric}{pdc_gbb}.",
+  "Safety and student policies: in March 2026 the board approved buying a school resource officer truck for up to $48,000, toward a goal of one SRO vehicle per school {pdc_sro}. A state-required cell-phone ban now keeps phones and connected devices put away for the whole school day, and the district adopted an AI policy (June–July 2026) {pdc_curric}{pdc_truck}.",
+  "Toyota TIF: former Gibson County Redevelopment Commission member Larry Michel repeatedly asked the board in spring 2026 to oppose a proposed new tax increment financing district around Toyota Motor Manufacturing, saying it would raise taxes in Union Township {pdc_tif}{pdc_cops}. The commission said in June that it was seeking more options and would take more public comment {pdc_rdc}. This guide found no board vote or position on the TIF.",
+  "Forums: this guide found no candidate forum, questionnaire or published candidate interviews for the 2026 South Gibson races. The only contest is District 3 (McClellan vs. Evans) {pdc_caucus}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Joseph (Joe) P. Gilpatrick",
+   "seat": "District 2",
+   "summary": "Unopposed for the District 2 (Union Township) seat now held by Rachael Johnson Hileman, who is not on the ballot {pdc_slates}{sg_board}{gc_2022}{in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Filed as a nonpartisan candidate by the June 18, 2026 filing deadline {pdc_filing}{pdc_slates}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "This guide found no statement from this candidate on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No candidate statements, website, forum or questionnaire answers were found.",
+    "The Daily Clarion's Sept. 30, 2026 election preview calls him the 'incumbent' in District 2. The district's board page and county results show Rachael Johnson Hileman holds that seat, and this guide found no record of Gilpatrick serving on the board.",
+    "Earlier Clarion articles (2007, 2013) describe a Joe Gilpatrick as a former Haubstadt town marshal and later the town's zoning administrator. Haubstadt is in Johnson Township (District 1). This guide could not confirm that he is the same person as the candidate.",
+    "Occupation, ties to the schools and reasons for running could not be confirmed."
+   ]
+  },
+  {
+   "ballot_name": "AJ Evans",
+   "seat": "District 3",
+   "summary": "Challenger for the District 3 (Montgomery/Wabash Township) seat held by board vice president Stacy McClellan, listed with the Democratic Party label on the state list {pdc_caucus}{sg_board}{in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Filed for the South Gibson board with the Democratic Party label {pdc_filing}{pdc_slates}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "This guide found no statement from this candidate on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No candidate statements, website, forum or questionnaire answers were found.",
+    "The Clarion's May 24, 2026 filing list placed Evans in District 2. Its July 15 slate article, its Sept. 30 preview and the state list place Evans in District 3.",
+    "Occupation, ties to the schools and reasons for running could not be confirmed."
+   ]
+  },
+  {
+   "ballot_name": "Stacy McClellan",
+   "seat": "District 3",
+   "summary": "Incumbent and board vice president. She was elected unopposed in District 3 in 2022 and faces AJ Evans {sg_board}{gc_2022}{pdc_caucus}.",
+   "website": null,
+   "background": [
+    "Lives in Owensville, according to the district's board listing {sg_board}."
+   ],
+   "path_to_ballot": [
+    "Filed as a nonpartisan candidate for District 3 {pdc_filing}{in_list}.",
+    "Won the seat unopposed in 2022 {gc_2022}{pdc_2022race}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member and the board's vice president {sg_board}. This guide found no statement from her describing the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No candidate statements, website, forum or questionnaire answers were found for 2022 or 2026.",
+    "Occupation and reasons for seeking reelection could not be confirmed.",
+    "Her individual votes are not reported in the news coverage reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Steve Gruszewski",
+   "seat": "District 4, At Large",
+   "summary": "Incumbent and board president, unopposed for the at-large seat he won unopposed in 2018 and 2022 {sg_board}{gc_2018}{gc_2022}{pdc_caucus}.",
+   "website": null,
+   "background": [
+    "Lives in Haubstadt, according to the district's board listing {sg_board}."
+   ],
+   "path_to_ballot": [
+    "Filed as a nonpartisan candidate for District 4 at large {pdc_filing}{in_list}.",
+    "Elected unopposed in 2018 and 2022 {gc_2018}{gc_2022}."
+   ],
+   "positions": [
+    {
+     "topic": "Facilities",
+     "items": [
+      "In December 2024, when the board picked an architect for the Gibson Southern multi-purpose building, he favored VPS Architecture for its experience with similar buildings. He said Three i Design, which the board hired, had told the board it had never designed this type of building {pdc_architect}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member and the board's president {sg_board}{pdc_enroll}. He was president in 2024, Mike Bengert held the post in 2025, and Gruszewski was again president by August 2026 {pdc_reorg2025}{pdc_enroll}.",
+    "Responding to Perry's August 2026 enrollment and test-score report, he said, 'That's a lot to celebrate' {pdc_enroll}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No candidate statements, website, forum or questionnaire answers were found.",
+    "Occupation and reasons for seeking reelection could not be confirmed."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "sg_board": [
+   "Board Members",
+   "South Gibson School Corporation",
+   "2026-10",
+   "https://sgibson.k12.in.us/en-US/board-members-2a085445"
+  ],
+  "sg_supt": [
+   "Our Superintendent",
+   "South Gibson School Corporation",
+   "2026-10",
+   "https://sgibson.k12.in.us/en-US/our-superintendent-e71ebcf5"
+  ],
+  "gc_2018": [
+   "2018 Official General Election Results, Cumulative",
+   "Gibson County Clerk",
+   "2018-11-16",
+   "https://www.in.gov/counties/gibsoncountyclerk/files/2018-Official-General-Election-Results-Cumulative.pdf"
+  ],
+  "gc_2020": [
+   "November 3, 2020 General Election Official Precinct Results",
+   "Gibson County Clerk",
+   "2020-11",
+   "https://www.in.gov/counties/gibsoncountyclerk/files/november-3,-2020-general-official-precinct.pdf"
+  ],
+  "gc_2022": [
+   "2022 General Election Official Precinct-by-Precinct Results",
+   "Gibson County Clerk",
+   "2022-11",
+   "https://www.in.gov/counties/gibsoncountyclerk/files/General-2022-Official-PBP.pdf"
+  ],
+  "gc_2024": [
+   "2024 General Election Official Precinct Results",
+   "Gibson County Clerk",
+   "2024-11",
+   "https://www.in.gov/counties/gibsoncountyclerk/files/2024-General-Election-Official-Precinct-Results.pdf"
+  ],
+  "pdc_filing": [
+   "Candidates file for township, school posts",
+   "Princeton Daily Clarion",
+   "2026-05-24",
+   "https://www.pdclarion.com/news/candidates-file-for-township-school-posts/article_1c3f8163-619e-5390-a3ea-f86fdecb9618.html"
+  ],
+  "pdc_slates": [
+   "School board candidate slates set",
+   "Princeton Daily Clarion",
+   "2026-07-15",
+   "https://www.pdclarion.com/news/school-board-candidate-slates-set/article_175db57d-2d65-5a95-bd59-03cd892ccec2.html"
+  ],
+  "pdc_caucus": [
+   "GOP to caucus for county auditor post",
+   "Princeton Daily Clarion",
+   "2026-09-30",
+   "https://www.pdclarion.com/news/gop-to-caucus-for-county-auditor-post/article_9dcc8627-498a-5514-8465-bd14680c2701.html"
+  ],
+  "pdc_2022race": [
+   "New and familiar faces vie for school board seats",
+   "Princeton Daily Clarion",
+   "2022-10-31",
+   "https://www.pdclarion.com/new-and-familiar-faces-vie-for-school-board-seats/article_c0bd95a8-67e0-57c7-bbf5-476bc6cb5b8e.html"
+  ],
+  "pdc_reorg2025": [
+   "SGSC reorganizes for new year",
+   "Princeton Daily Clarion",
+   "2025-01-17",
+   "https://www.pdclarion.com/news/local_news/sgsc-reorganizes-for-new-year/article_86e66b2b-2c37-5f88-b871-e754c8e0ae4e.html"
+  ],
+  "pdc_architect": [
+   "SGSC trustees hire architect for multi-purpose building",
+   "Princeton Daily Clarion (Star-Times)",
+   "2024-12-13",
+   "https://www.pdclarion.com/star_times/news/sgsc-trustees-hire-architect-for-multi-purpose-building/article_08bc2585-7201-5c76-869b-ebfbc62be6be.html"
+  ],
+  "pdc_mpf": [
+   "South Gibson prepares to break ground on new multi-purpose facility",
+   "Princeton Daily Clarion",
+   "2025-11-19",
+   "https://www.pdclarion.com/news/south-gibson-prepares-to-break-ground-on-new-multi-purpose-facility/article_1e15182b-b655-514b-8871-180a8b3a7613.html"
+  ],
+  "pdc_gbb": [
+   "South Gibson will consolidate girls basketball teams",
+   "Princeton Daily Clarion",
+   "2026-02-18",
+   "https://www.pdclarion.com/news/south-gibson-will-consolidate-girls-basketball-teams/article_3de5bda9-698c-5fd6-97ad-b9fbc1ec090c.html"
+  ],
+  "pdc_sro": [
+   "South Gibson to purchase SRO vehicle",
+   "Princeton Daily Clarion",
+   "2026-03-17",
+   "https://www.pdclarion.com/news/south-gibson-to-purchase-sro-vehicle/article_fa959d77-b649-5f60-b2b3-607d6d9f8995.html"
+  ],
+  "pdc_scores": [
+   "SGSC recognized for high test scores",
+   "Princeton Daily Clarion",
+   "2026-04-22",
+   "https://www.pdclarion.com/news/sgsc-recognized-for-high-test-scores/article_04d1915a-2a0d-56c8-b434-9b557c490a4e.html"
+  ],
+  "pdc_tif": [
+   "Michel encourages SGSC to oppose TIF",
+   "Princeton Daily Clarion",
+   "2026-04-22",
+   "https://www.pdclarion.com/news/michel-encourages-sgsc-to-oppose-tif/article_6448c9f9-90db-546f-8ff3-d2c2467167f4.html"
+  ],
+  "pdc_cops": [
+   "SGSC approves Cops Connecting with Kids program",
+   "Princeton Daily Clarion",
+   "2026-05-20",
+   "https://www.pdclarion.com/news/sgsc-approves-cops-connecting-with-kids-program/article_680d4f72-d2b2-5ded-8771-2a95b818ae57.html"
+  ],
+  "pdc_rdc": [
+   "RDC to take more public comment on TIF in July",
+   "Princeton Daily Clarion",
+   "2026-06-03",
+   "https://www.pdclarion.com/news/rdc-to-take-more-public-comment-on-tif-in-july/article_bcdf753d-5b5b-5cd7-a444-e37a4619fba1.html"
+  ],
+  "pdc_curric": [
+   "SGSC middle school curriculum to include high school-level courses",
+   "Princeton Daily Clarion",
+   "2026-06-17",
+   "https://www.pdclarion.com/news/sgsc-middle-school-curriculum-to-include-high-school-level-courses/article_46a0b8fe-8ad3-5ad7-9d0e-235115f132a9.html"
+  ],
+  "pdc_truck": [
+   "SGSC trustees approve $50k for truck",
+   "Princeton Daily Clarion",
+   "2026-07-22",
+   "https://www.pdclarion.com/news/sgsc-trustees-approve-50k-for-truck/article_42d33bc3-3acd-5737-9289-0d80e8b568a7.html"
+  ],
+  "pdc_enroll": [
+   "South Gibson enrolls 430 out-of-district students",
+   "Princeton Daily Clarion",
+   "2026-08-19",
+   "https://www.pdclarion.com/news/south-gibson-enrolls-430-out-of-district-students/article_b47d8dab-ec66-5fb3-a2e3-fd2ba7b74a3d.html"
+  ],
+  "pdc_budget": [
+   "South Gibson school trustees study budget cuts",
+   "Princeton Daily Clarion",
+   "2026-09-16",
+   "https://www.pdclarion.com/news/south-gibson-school-trustees-study-budget-cuts/article_e38271fb-f26f-5bd8-831a-22b4639412e5.html"
+  ]
+ }
+}

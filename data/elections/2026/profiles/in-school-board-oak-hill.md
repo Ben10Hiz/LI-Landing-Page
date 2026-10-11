@@ -1,0 +1,194 @@
+# Indiana School Board Member — 2026 race profile
+
+_Researched 2026-10-10 · status: draft._ Pending editorial review.
+
+## About the office
+
+A school board is the elected or appointed governing body of a public school corporation, the legal unit that runs a local school district [1, 2]. The board hires and evaluates the superintendent, adopts policies, and approves the annual budget, while the superintendent and staff run schools day to day [3]. Most boards have five or seven members serving staggered four-year terms [3]. Starting in 2026, candidates may list a political party, run as independents, or list no affiliation on the ballot, and there is no primary for these seats [2, 4].
+
+- **Term:** 4 years, with elections staggered so part of the board is chosen every two years [3]
+- **Elected:** At the November general election (November 3, 2026, or November 2028 for some seats); depending on the local organization plan, members represent the whole school corporation (at large) or a district within it, and some boards are wholly or partly appointed [2]
+- **Ballot label:** Each candidate chooses a party label, 'Independent', or no affiliation, shown next to the name; no primary and no straight-ticket voting for these races [2, 4]
+- **Pay:** Set by board resolution: an annual amount of no more than 10% of the lowest starting teacher salary in the school corporation, plus a capped per diem [5]
+- **On the 2026 ballot:** 632 races in 299 school corporations; 1,039 candidates [6]
+
+### What the office does
+
+- Hires, evaluates and can dismiss the superintendent, and approves the hiring and firing of principals, teachers and other staff recommended by the superintendent [1, 7, 3].
+- Adopts the annual budget, appropriates funds and oversees school finances [1, 3].
+- Decides whether to ask voters to approve an operating referendum (an extra property tax levy); the board adopts the resolution and the Department of Local Government Finance reviews the ballot language for compliance with state law [8].
+- Approves contracts, buys and sells property, and decides on construction, repair and demolition of school buildings [1].
+- Bargains with the teachers' union over salary, wages and wage-related benefits such as health insurance and retirement; state law excludes teacher evaluation procedures from those bargaining subjects [9].
+- Writes and updates policies and rules for schools, often in a policy handbook, including the student handbook [1, 3].
+- Buys curricular materials, provides them to students without charge, and runs programs such as student transportation and school lunch [1].
+- Must adopt a process for parents and residents to ask that library material be removed as obscene or harmful to minors, review requests at public meetings and keep a public catalog of library materials [10].
+- Hears written appeals of student expulsions, unless the board has voted not to hear them [11].
+- Must take official action openly; Indiana's Open Door Law says public agencies' official action is to be conducted openly so the people may be fully informed [12, 13].
+- A school board member must have lived in the school corporation (and, for a district seat, the district) for at least one year before the election, and a teacher or other employee of the school corporation may not serve on its board [2].
+- What the board does not control: the State Board of Education adopts statewide academic standards [14], the General Assembly sets the state school funding formula in the state budget [15], and voucher (Choice Scholarship) eligibility is set by state law [16].
+
+### Recent changes to the office
+
+- 2025: Senate Enrolled Act 287 allowed school board candidates to declare a party affiliation; the Indiana School Boards Association opposed the change, and a supporter quoted by WNDU, a Noblesville school board member, said it adds transparency [17].
+- 2026: Candidates choose a party, 'Independent' or no affiliation on their nominating petition, and that choice appears on the ballot; a candidate claiming the Democratic or Republican party must have voted in that party's primary in the two most recent primaries they voted in, or have certification from the county party chair, or can be challenged and removed from the ballot [2].
+- July 2026: Chalkbeat reported, citing Indiana School Boards Association data, that 524 of 1,044 candidates chose a party, about 72% of them Republicans [18]; the Indiana Election Division's 2026 guidance and the wording of the law differ on the primary-voting test, a question county election boards decide [19].
+- February 2026: Senate Enrolled Act 25 set the order of school board candidates on the ballot, grouped by party, with candidates who list no affiliation placed after the party and independent candidates [20].
+- 2025: Senate Enrolled Act 1, a property tax law, limits how much operating revenue districts can raise through taxes and restricts school referendums to statewide general elections in even-numbered years [21, 22].
+- 2025: The same law requires districts to share operating revenue with brick-and-mortar charter schools that enroll their students, statewide starting in 2028 [21, 22].
+- 2025: The state budget opened Choice Scholarship vouchers to all Indiana families starting in June 2026 [16].
+- 2026: The Indianapolis Public Education Corporation, rather than the Indianapolis Public Schools board, now certifies Indianapolis Public Schools referendum questions for the ballot [20].
+- 2023: Senate Enrolled Act 391 changed the so-called $1 law so the Indiana Department of Education can order districts that lost at least 10% of enrollment over five years to close schools under 60% capacity and offer them to charter schools [23].
+- 2023: House Enrolled Act 1447 required school districts to set up procedures for complaints that library material is obscene or harmful to minors [10].
+
+## This race
+
+- The 'Oak Hill United School Corporation' races on the state list are for Oak Hill United School Corporation, based at 1474 N. 800 W.-27 in Converse, which runs Converse, Sweetser and Swayzee elementary schools, Oak Hill Junior High School and Oak Hill High School [6, 24]. The state list describes the district as covering parts of Grant and Miami counties, and the board's district seats are drawn from Jackson Township in Miami County and Richland, Pleasant, Sims and Franklin townships in Grant County [6, 25]. The October 2025 student count (ADM) was 1,478.42, and the superintendent told the board in February 2026 that the preliminary February count was about 20 students lower [26]. Her fall 2026 projection on Aug. 10, 2026 was 1,437 students [27].
+- The superintendent is Dr. Sheri Hardman, and Chris Goris is chief financial and business officer [25, 28]. The board has seven members: five elected from districts and two elected at large [25]. The district lists Andy Horner (District 1, Jackson Township of Miami County), Gary Green (District 2, Richland Township of Grant County), Aaron Pickering (District 3, Pleasant Township of Grant County), Justin Alberts (District 4, Sims Township of Grant County), Adam Thompson (District 5, Franklin Township of Grant County), and Scott Deaton and Scott Dubois (both At Large) [25]. At the Jan. 7, 2026 reorganization meeting, the board elected Pickering president, Dubois vice president, Horner secretary and Alberts assistant secretary, each by a 6-0 vote, and reappointed Dubois as its liaison to the Indiana School Boards Association [29].
+- Seats on the 2026 ballot: the district lists four members whose terms run from Jan. 1, 2023 to Dec. 31, 2026: Horner (District 1), Alberts (District 4), and Deaton and Dubois (At Large) [25]. All four are on the ballot, so every candidate in these races is an incumbent [6]. Horner is the only candidate in District 1 and Alberts is the only candidate in District 4 [6].
+- At-large seat count: the state list shows one race, 'District 6, At Large', with 'vote for 1' and both Deaton and Dubois as candidates [6]. The district's board page lists two at-large members whose terms both end Dec. 31, 2026 [25]. If the ballot elects only one at-large member, the two incumbents are running against each other for one seat; if it elects two, both are effectively unopposed. This guide could not confirm the correct number of at-large seats from the Grant or Miami County election offices, and readers should check their own ballot.
+- Operating referendum (on the Nov. 3, 2026 ballot): on May 11, 2026, Barry Gardner of Policy Analytics presented a property-tax analysis to the board covering the effect of SEA 1 on assessed value, the district's revenues and spending, and operating-referendum considerations; the board then voted 7-0 to let administration keep investigating a referendum levy and communicate with the Grant and Miami county auditors and the state [30]. The Chronicle-Tribune reported that the board approved the ballot question at a June 22 special meeting, making Oak Hill the second Grant County district to seek an operating referendum after SEA 1 [31]. The question asks voters to allow higher property taxes for up to eight years for purposes including keeping school resource officers and nurses, retaining teachers and staff, maintaining class sizes and student transportation, and academic and support programs, at a rate of no more than $0.3332 per $100 of assessed value and no more than $1,627,112 a year [31]. The Department of Local Government Finance approved the language on June 30, 2026, finding a median household assessed value of $150,000 and an increase of $198 a year for that home [32]. The Oct. 12, 2026 board agenda lists an operating referendum public meeting on Tuesday, Oct. 13, 2026 at the high school [33]. Minutes of the June 22 meeting were not in the district's posted minutes folder when this guide checked [34].
+- HVAC and facilities borrowing (2025-2026): the board held preliminary determination hearings on a facilities project in September and October 2025, with presentations from Gibraltar Design and Baker Tilly, and no public comment was recorded [35, 36]. In March 2026 it held two more hearings tied to 'recent legislative changes regarding assessed value' and approved the project and preliminary determination resolutions 7-0 on March 16 [37, 38]. On April 13, 2026 it approved a lease amendment and resolutions determining need and approving issuance of bonds, each 6-0 [39]. On June 8, 2026 the superintendent described a $10 million 'Unified Project' approved in April, of which no more than $1,220,000 in general obligation bonds would go to renovations and improvements including site, roofing, paving and HVAC, plus buses, equipment and technology; the board approved the appropriation and final bond resolutions 7-0 [28]. The superintendent reported on June 8 that the HVAC project's estimated total cost was about $17 million, and on July 13 that the original budget was about $25 million, with construction expected to start around March 8, 2027 and finish in spring 2028 [28, 40]. A taxable GO bond closed Aug. 6, 2026, and the Sept. 14, 2026 agenda listed approval of HVAC project bids [27, 41].
+- Staffing: the June 8, 2026 board minutes list contract cancellations by reduction in force for seven positions: a high school math teacher, a sixth-grade ELA teacher, a third-grade teacher, a junior high custodian and three Converse instructional assistants [28]. In September 2025 the superintendent's update on teacher bargaining listed staffing reductions, ADM, the budget estimate and health premium increases among the topics [35].
+- Sweetser wastewater project: in September 2025 the board voted 6-1 to approve a letter of intent to participate in regionalization of the Town of Sweetser wastewater project; the minutes do not name the member who voted no [35]. Town and project representatives presented to the board in December 2025, and in February 2026 the superintendent said the district's financial team would review the legal questions and the district's debt capacity for the options presented [42, 26].
+- Other 2025-2026 items: on April 13, 2026 the superintendent reported that the audits covering July 2023 to June 2025 were complete and that the corporation audit found a need for more separation of duties, and that corrective action plans were in place [39]. On June 8, 2026 principals reported a 67% IREAD pass rate for Converse second graders and 88% for Sweetser third graders [28]. In August 2026 the superintendent said she had applied for a 2027 state school safety grant to support the school resource officer provided by the Grant County Sheriff's Department, and principals described a new no-cell-phone policy [27]. The 2027 budget hearing was set for Sept. 14 and adoption for Oct. 12, 2026 [41, 33].
+- Forums and differences: this guide found no 2026 candidate forum, questionnaire or news coverage of the Oak Hill board races. All four candidates are sitting board members, and the board minutes reviewed for July 2025 through August 2026 record no split votes on the referendum resolution, the bond and HVAC resolutions or the 2026 officer elections; every recorded vote on those items was unanimous among members present [29, 38, 39, 30, 28].
+
+## Andrew Scott Horner — District 1
+
+Incumbent; the district lists Andy Horner as the District 1 (Jackson Township of Miami County) member, with a term from Jan. 1, 2023 to Dec. 31, 2026, and he is the only candidate for the seat [25, 6].
+
+### Background
+
+- Board secretary for 2026, elected 6-0 at the Jan. 7, 2026 reorganization meeting [29].
+
+### Path to the ballot
+
+- Listed without a party (nonpartisan) on the state list [6]. The Indiana Citizen's copy of the state list gives May 27, 2026 as his filing date [43].
+
+### On the current officeholder
+
+- Is a current board member [25]. He made the motion on May 11, 2026 that let administration keep investigating an operating referendum, which passed 7-0 [30]. He moved the April 13, 2026 resolution determining the need for the facilities project, which passed 6-0 [39].
+
+### What we couldn't verify
+
+- No campaign website, social media page, news coverage or questionnaire was found.
+- Occupation and community roles could not be confirmed. A search result pointed to an Indiana State Library blog interview with an Andrew Horner who directed the Converse-Jackson Township Library, but the page could not be loaded and this guide could not confirm it is the same person.
+- No public statements on the referendum, facilities project or other issues were found beyond his recorded votes.
+- No campaign finance reports were found.
+
+## Justin David Alberts — District 4
+
+Incumbent; the district lists Justin Alberts as the District 4 (Sims Township of Grant County) member, with a term from Jan. 1, 2023 to Dec. 31, 2026, and he is the only candidate for the seat [25, 6].
+
+### Background
+
+- Board assistant secretary for 2026, elected 6-0 at the Jan. 7, 2026 reorganization meeting [29].
+
+### Path to the ballot
+
+- Listed without a party (nonpartisan) on the state list [6]. The Indiana Citizen's copy of the state list gives June 15, 2026 as his filing date [43].
+
+### On the current officeholder
+
+- Is a current board member [25]. He seconded the April 13, 2026 resolution approving issuance of bonds, which passed 6-0, and the June 8, 2026 final bond resolution [39, 28]. He voted for the May 11, 2026 referendum resolution, which passed 7-0 with all members present [30].
+
+### What we couldn't verify
+
+- No campaign website, social media page, news coverage or questionnaire was found.
+- Occupation, community roles and ties to Oak Hill schools could not be found.
+- No public statements on the referendum, facilities project or other issues were found beyond his recorded votes.
+- No campaign finance reports were found.
+
+## Scott Deaton — District 6, At Large
+
+Incumbent; the district lists Scott Deaton as an at-large member with a term from Jan. 1, 2023 to Dec. 31, 2026 [25]. He and fellow at-large member Scott Dubois are both listed for the 'District 6, At Large' race [6].
+
+### Background
+
+- Has served on the board since at least January 2023, when his current term began [25].
+
+### Path to the ballot
+
+- Listed without a party (nonpartisan) on the state list [6]. The Indiana Citizen's copy of the state list gives June 10, 2026 as his filing date [43].
+
+### On the current officeholder
+
+- Is a current board member [25]. He moved the March 16, 2026 project resolution, the April 13, 2026 lease amendment and bond issuance resolutions, and the June 8, 2026 additional appropriation and final bond resolutions for the facilities and HVAC borrowing, all of which passed unanimously [38, 39, 28]. He seconded the May 11, 2026 referendum resolution, which passed 7-0 [30].
+
+### What we couldn't verify
+
+- No campaign website, social media page, news coverage or questionnaire was found for 2026.
+- Occupation and community roles could not be found. BallotReady lists him as 'Scott Alan Deaton'; this guide did not use that page for any other facts.
+- No public statements on the referendum, facilities project or other issues were found beyond his recorded votes.
+- Whether he is competing with Scott Dubois for a single at-large seat or both are running for two seats could not be confirmed (see race context).
+- No campaign finance reports were found.
+
+## Scott Dubois — District 6, At Large
+
+Incumbent and board vice president; the district lists Scott Dubois as an at-large member with a term from Jan. 1, 2023 to Dec. 31, 2026 [25, 29]. He and fellow at-large member Scott Deaton are both listed for the 'District 6, At Large' race [6].
+
+### Background
+
+- Board vice president for 2026, elected 6-0 on Jan. 7, 2026, and reappointed as the board's liaison to the Indiana School Boards Association [29].
+
+### Path to the ballot
+
+- Listed without a party (nonpartisan) on the state list [6]. The Indiana Citizen's copy of the state list gives June 11, 2026 as his filing date [43].
+
+### On the current officeholder
+
+- Is a current board member [25]. As vice president he opened the March 9, 2026 preliminary determination hearing on the facilities project, and he moved the preliminary determination resolution on March 16, 2026, which passed 7-0 [37, 38]. He seconded the June 8, 2026 additional appropriation resolution for the general obligation bond, which passed 7-0, and voted for the May 11, 2026 referendum resolution, which passed 7-0 [28, 30].
+
+### What we couldn't verify
+
+- No campaign website, social media page, news coverage or questionnaire was found for 2026.
+- Occupation, community roles and length of board service could not be confirmed from a readable source.
+- No public statements on the referendum, facilities project or other issues were found beyond his recorded votes.
+- Whether he is competing with Scott Deaton for a single at-large seat or both are running for two seats could not be confirmed (see race context).
+- No campaign finance reports were found.
+
+## Sources
+
+1. [Indiana Code 20-26-5-4: Specific powers of governing body](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-5-4/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+2. [2026 Indiana Candidate Guide (School Board Offices)](https://www.in.gov/dA/1eada35c3e/2026-Candidate-Guide.FINAL.pdf) — Indiana Election Division, accessed 2026-10-10
+3. [800 school board seats are up for election in Indiana](https://chalkbeat.org/indiana/2024/06/13/school-board-seats-up-for-election-in-indiana-in-2024) — Chalkbeat Indiana / WFYI, 2024-06-13
+4. [Why there are no education elections on your primary ballot](https://www.chalkbeat.org/indiana/2026/04/07/primary-election-ballot-changes-exclude-education-races-and-referendums/) — Chalkbeat Indiana, 2026-04-07
+5. [Indiana Code 20-26-4-7: Compensation of governing body members](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-4-7/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+6. [2026 General Election Candidate List](https://www.in.gov/sos/elections/candidate-information/) — Indiana Election Division, 2026-09-22
+7. [Indiana Code 20-26-5-4.5: Selection and discharge of employees](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-5-4-5/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+8. [School Tax Levy Referendum](https://www.in.gov/dlgf/referendum-information/school-tax-levy-referendum/) — Indiana Department of Local Government Finance, accessed 2026-10-10
+9. [Indiana Code 20-29-6-4: Subjects of collective bargaining](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-29-6-4/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+10. [Obscene, or just objectionable? Here's how Indiana schools are tackling library book complaints](https://arnoltcenter.org/?p=1345) — Arnolt Center for Investigative Journalism / Indiana Capital Chronicle, 2024-02-05
+11. [Indiana Code 20-33-8-19: Expulsion appeals](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-33-8-19/) — FindLaw (Indiana Code), accessed 2026-10-10
+12. [Indiana Code 5-14-1.5-1: Open Door Law policy](https://codes.findlaw.com/in/title-5-state-and-local-administration/in-code-sect-5-14-1-5-1/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+13. [What We Do](https://www.in.gov/pac/about-us/what-we-do/) — Indiana Public Access Counselor, accessed 2026-10-10
+14. [Indiana Code 20-31-3-1: State academic standards](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-31-3-1/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+15. [Indiana K-12 State Tuition Support Annual Report FY2023](https://www.in.gov/doe/files/2023-Tuition-Support-Report.pdf) — Indiana Department of Education, 2023
+16. [Indiana lawmakers expand voucher eligibility, increase school funding in budget](https://chalkbeat.org/indiana/2025/04/24/vouchers-for-all-start-in-2026-budget-year) — Chalkbeat Indiana, 2025-04-24
+17. [Indiana school board candidates split 50-50 on affiliating with a party](https://www.wndu.com/2026/07/20/indiana-school-board-candidates-split-50-50-affiliating-with-party/) — WNDU, 2026-07-20
+18. [5 takeaways from Chalkbeat's panel on Indiana's changes to school board elections and referendums](https://www.chalkbeat.org/indiana/2026/07/10/indiana-school-board-elections-partisan-referendums-takeaways/) — Chalkbeat Indiana, 2026-07-10
+19. [Confusion on partisan school board law puts two IPS candidates' spots at risk](https://www.chalkbeat.org/indiana/2026/07/27/confusion-on-partisan-schoolboard-threatens-ips-ballot-spots/) — Chalkbeat Indiana, 2026-07-27
+20. [2026 Indiana Election Legislation Summary](https://www.in.gov/dA/d13ecb1f55/2026-Indiana-Election-Legislation-Summary.FINAL.pdf) — Indiana Election Division, 2026
+21. [Indiana school referendum elections: Districts seek funding for teacher pay, class size, buses](https://www.chalkbeat.org/indiana/2025/10/27/schools-property-tax-referendum-election-2025) — Chalkbeat Indiana, 2025-10-27
+22. [Indiana school district referendum guide 2026: What to know about your district's requested tax increase](https://www.wvxu.org/2026-08-17/indiana-school-district-referendum-guide-2026-what-to-know-about-your-districts-requested-tax-increase) — WFYI and Chalkbeat Indiana (via WVXU), 2026-08-17
+23. [Indiana charter schools could now have an easier path to acquiring district buildings](https://www.chalkbeat.org/indiana/2023/6/11/23755769/indiana-charters-acquire-traditional-public-school-buildings-underutilized-enrollment) — Chalkbeat Indiana, 2023-06-11
+24. [Oak Hill United School Corporation (home page)](https://www.ohusc.k12.in.us/) — Oak Hill United School Corporation, 2026-10
+25. [School Board](https://www.ohusc.k12.in.us/o/ohusc/page/school-board) — Oak Hill United School Corporation, 2026-10
+26. [Minutes, Feb. 9, 2026](https://docs.google.com/document/d/1Xb-v77IZSKo53GuRTxH2DQWcj4Lpq3trf-gVV2rC050/edit) — Oak Hill United School Corporation, 2026-02-09
+27. [Minutes, Aug. 10, 2026](https://docs.google.com/document/d/18_YqTh3RTTSPVMhbFul9UVbB7b4YBrIa6fB3jNx6D28/edit) — Oak Hill United School Corporation, 2026-08-10
+28. [Regular Board Meeting Minutes, June 8, 2026](https://docs.google.com/document/d/1pZw8ymiVyPZ4DpzB7dwPfbNn2w8RZ1i3BTq8-BQ_WtI/edit) — Oak Hill United School Corporation, 2026-06-08
+29. [Board Reorganization Meeting Minutes, Jan. 7, 2026](https://docs.google.com/document/d/1_0G68uR9zyLE0_KCjpUDO-EOu9uAp3RKCgshH1EqC_I/edit) — Oak Hill United School Corporation, 2026-01-07
+30. [Minutes, May 11, 2026](https://docs.google.com/document/d/1SF-PJl4ITKRmk6SSQ2bEpYGdg9UTkyrV0HFT4vMOVUI/edit) — Oak Hill United School Corporation, 2026-05-11
+31. [Oak Hill to pursue operating referendum](https://www.chronicle-tribune.com/news/oak-hill-to-pursue-operating-referendum/article_097b4d34-7329-5a94-93e6-06d6902b4057.html) — Chronicle-Tribune (Laura Mack), 2026-06-25
+32. [Findings and Final Determination on Proposed Question Submitted, No. 26-009-REF (Oak Hill United School Corporation)](https://www.in.gov/dlgf/files/referendum-documentation2/2026-november-referendum-documents/26-009-Oak-Hill-United-School-Corporation-Operating-Determination.pdf) — Indiana Department of Local Government Finance, 2026-06-30
+33. [Board Agenda, Oct. 12, 2026](https://docs.google.com/document/d/1FMynmpWXyae-ILdfahvqxOzR6dlspko9aRQKS4ki1sg/edit) — Oak Hill United School Corporation, 2026-10-12
+34. [Board Minutes 2026-2027 (folder)](https://drive.google.com/drive/folders/14uoce7Gdmsc-J9QbkTS9pRQqofx7hJhX) — Oak Hill United School Corporation, 2026-10
+35. [Minutes, Sept. 8, 2025](https://docs.google.com/document/d/1b01I-FcfcTJu5OdzpyMZQ66NtOve2C_kc14RGjxzVgU/edit) — Oak Hill United School Corporation, 2025-09-08
+36. [Minutes, Oct. 13, 2025](https://docs.google.com/document/d/1UIuWw57cgEzgNkfQPQiUOCFnaz-0BFHHiKC_4vMCsGo/edit) — Oak Hill United School Corporation, 2025-10-13
+37. [Regular Board Meeting Minutes, March 9, 2026](https://docs.google.com/document/d/1mSbptQqWlu4YYfhB6Z_PZE3AoJ2R3x0ftiBH4UM9S9k/edit) — Oak Hill United School Corporation, 2026-03-09
+38. [Special Board Meeting Minutes, March 16, 2026](https://docs.google.com/document/d/1TGNblGOCtvM4kwgUJyZSFmp6GzrO81OAZEJa9UcT07E/edit) — Oak Hill United School Corporation, 2026-03-16
+39. [Regular Board Meeting Minutes, April 13, 2026](https://docs.google.com/document/d/1QNspFWgpjTV3Dk918Th-8cVTU-f77KYNCkxvTtNKwYE/edit) — Oak Hill United School Corporation, 2026-04-13
+40. [School Board Meeting Minutes, July 13, 2026](https://docs.google.com/document/d/1zPrIeZ6NGNyICfLbJk4ZzJbiBrPlM3zN4m5i3uPLZ7M/edit) — Oak Hill United School Corporation, 2026-07-13
+41. [Board Agenda, Sept. 14, 2026](https://docs.google.com/document/d/14CIZLqXC5PWgP6cxpUO2iBO3VVO9z3t6aF3JzmrmdOA/edit) — Oak Hill United School Corporation, 2026-09-14
+42. [Minutes, Dec. 8, 2025](https://docs.google.com/document/d/1jlvZxBy-FIZwgDATvLmBSYmGbQusRm5dMxV-2FdwGrE/edit) — Oak Hill United School Corporation, 2025-12-08
+43. [2026 Indiana General Election School Board Candidate List](https://indianacitizen.org/2026-indiana-general-election-school-board-candidate-list/) — The Indiana Citizen, 2026-08

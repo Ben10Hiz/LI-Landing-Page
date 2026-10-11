@@ -1,0 +1,205 @@
+# Indiana School Board Member — 2026 race profile
+
+_Researched 2026-10-10 · status: draft._ Pending editorial review.
+
+## About the office
+
+A school board is the elected or appointed governing body of a public school corporation, the legal unit that runs a local school district [1, 2]. The board hires and evaluates the superintendent, adopts policies, and approves the annual budget, while the superintendent and staff run schools day to day [3]. Most boards have five or seven members serving staggered four-year terms [3]. Starting in 2026, candidates may list a political party, run as independents, or list no affiliation on the ballot, and there is no primary for these seats [2, 4].
+
+- **Term:** 4 years, with elections staggered so part of the board is chosen every two years [3]
+- **Elected:** At the November general election (November 3, 2026, or November 2028 for some seats); depending on the local organization plan, members represent the whole school corporation (at large) or a district within it, and some boards are wholly or partly appointed [2]
+- **Ballot label:** Each candidate chooses a party label, 'Independent', or no affiliation, shown next to the name; no primary and no straight-ticket voting for these races [2, 4]
+- **Pay:** Set by board resolution: an annual amount of no more than 10% of the lowest starting teacher salary in the school corporation, plus a capped per diem [5]
+- **On the 2026 ballot:** 632 races in 299 school corporations; 1,039 candidates [6]
+
+### What the office does
+
+- Hires, evaluates and can dismiss the superintendent, and approves the hiring and firing of principals, teachers and other staff recommended by the superintendent [1, 7, 3].
+- Adopts the annual budget, appropriates funds and oversees school finances [1, 3].
+- Decides whether to ask voters to approve an operating referendum (an extra property tax levy); the board adopts the resolution and the Department of Local Government Finance reviews the ballot language for compliance with state law [8].
+- Approves contracts, buys and sells property, and decides on construction, repair and demolition of school buildings [1].
+- Bargains with the teachers' union over salary, wages and wage-related benefits such as health insurance and retirement; state law excludes teacher evaluation procedures from those bargaining subjects [9].
+- Writes and updates policies and rules for schools, often in a policy handbook, including the student handbook [1, 3].
+- Buys curricular materials, provides them to students without charge, and runs programs such as student transportation and school lunch [1].
+- Must adopt a process for parents and residents to ask that library material be removed as obscene or harmful to minors, review requests at public meetings and keep a public catalog of library materials [10].
+- Hears written appeals of student expulsions, unless the board has voted not to hear them [11].
+- Must take official action openly; Indiana's Open Door Law says public agencies' official action is to be conducted openly so the people may be fully informed [12, 13].
+- A school board member must have lived in the school corporation (and, for a district seat, the district) for at least one year before the election, and a teacher or other employee of the school corporation may not serve on its board [2].
+- What the board does not control: the State Board of Education adopts statewide academic standards [14], the General Assembly sets the state school funding formula in the state budget [15], and voucher (Choice Scholarship) eligibility is set by state law [16].
+
+### Recent changes to the office
+
+- 2025: Senate Enrolled Act 287 allowed school board candidates to declare a party affiliation; the Indiana School Boards Association opposed the change, and a supporter quoted by WNDU, a Noblesville school board member, said it adds transparency [17].
+- 2026: Candidates choose a party, 'Independent' or no affiliation on their nominating petition, and that choice appears on the ballot; a candidate claiming the Democratic or Republican party must have voted in that party's primary in the two most recent primaries they voted in, or have certification from the county party chair, or can be challenged and removed from the ballot [2].
+- July 2026: Chalkbeat reported, citing Indiana School Boards Association data, that 524 of 1,044 candidates chose a party, about 72% of them Republicans [18]; the Indiana Election Division's 2026 guidance and the wording of the law differ on the primary-voting test, a question county election boards decide [19].
+- February 2026: Senate Enrolled Act 25 set the order of school board candidates on the ballot, grouped by party, with candidates who list no affiliation placed after the party and independent candidates [20].
+- 2025: Senate Enrolled Act 1, a property tax law, limits how much operating revenue districts can raise through taxes and restricts school referendums to statewide general elections in even-numbered years [21, 22].
+- 2025: The same law requires districts to share operating revenue with brick-and-mortar charter schools that enroll their students, statewide starting in 2028 [21, 22].
+- 2025: The state budget opened Choice Scholarship vouchers to all Indiana families starting in June 2026 [16].
+- 2026: The Indianapolis Public Education Corporation, rather than the Indianapolis Public Schools board, now certifies Indianapolis Public Schools referendum questions for the ballot [20].
+- 2023: Senate Enrolled Act 391 changed the so-called $1 law so the Indiana Department of Education can order districts that lost at least 10% of enrollment over five years to close schools under 60% capacity and offer them to charter schools [23].
+- 2023: House Enrolled Act 1447 required school districts to set up procedures for complaints that library material is obscene or harmful to minors [10].
+
+## This race
+
+- The district: Southeast Fountain School Corporation, based in Veedersburg, serves five townships in central, eastern and southern Fountain County. It runs Southeast Fountain Elementary School, Fountain Central Jr./Sr. High School and Southeast Fountain Virtual Academy [24, 25]. Superintendent Tania Grimes reported a count of 1,021 students in January 2026, up from an ADM count of 1,010 in February 2025 [26, 27]. Grimes's 2026–2028 contract is posted on the district site [28].
+- The board has five members, one from each township: Kim Sowers (Millcreek, president), Jill Duncan (Richland, vice president), Josh Foxworthy (Cain, secretary), Scott Minick (Van Buren) and Lori Grubbs (Jackson) [25]. The Millcreek, Richland and Van Buren seats were on the 2022 ballot, and Cain and Jackson in 2024 [29, 30].
+- Seats on the 2026 ballot: three seats, each electing one member, matching the state list [29, 6]. Millcreek: Sowers, elected unopposed in 2022 with 1,424 votes, is not on the ballot, and Josh A Paxton is unopposed [29, 6]. Richland: Crystal K. Brewer won in 2022 and left the board in December 2023 [29, 31]. The board interviewed Mark Parks and Jill Duncan for the vacancy on Jan. 8, 2024, and Duncan was serving by February 2024 [32, 33]. She is unopposed for her first election to the seat [6]. Van Buren: Minick, elected unopposed in 2022 with 1,346 votes, faces Noah Reissmann [29, 6].
+- Board changes: Tyler Bowling, elected in Jackson Township in 2024, resigned effective May 31, 2026 [30, 34]. The board discussed its vacant-seat procedure in June, and Lori Grubbs was welcomed as a new member in July 2026 [35, 36].
+- Budget and SEA 1: 'Senate Bill 1 update' was a board discussion item in February and April 2025 [27, 37]. The board approved the 2026 budget, capital projects plan, bus replacement plan and a 2025–2027 collective bargaining agreement on Oct. 9, 2025 [38]. In June 2026 it directed Financial Institutions Tax and Commercial Vehicle Excise Tax receipts to the operations fund and approved a $30-per-student education materials fee for 2026–27 [35].
+- Teacher pay: a district notice posted in July 2026 says state employment-relations board data show the minimum full-time teacher salary was $43,000 in 2025–26 and that 'the minimum teacher salary requirement was not met for the 2025-2026 fiscal year' [39].
+- Facilities: in 2024–2026 the district drew on a general obligation bond for a pool renovation and HVAC and flooring work at both buildings [40, 37]. The pool was reported operational in May 2026, with HVAC to be done by the start of 2026–27 [34]. The board approved a Fountain Central track renovation by Byrne & Jones Construction in March 2026, and a $98,850 change order for field-event upgrades in May [41, 34]. In March it also approved a $14,000 purchase of a Veedersburg lot for the building-trades student-built home [41].
+- Staffing and operations: in August 2025 the board eliminated the district maintenance director position, approved state-required increases in adult meal prices and opened remaining daycare spots to families outside the district. Grimes cited board policy delegating district operations to the superintendent [42, 43].
+- Safety and policies: in April 2026 the board approved agreements with the Fountain County Sheriff's Department for school resource officer services in 2026–27 [44]. In 2025–26 it adopted policies on suicide awareness, civility, whistleblower protections, artificial intelligence, electronic funds and foreign travel [45, 26, 41]. A revised public-records policy (Policy 209) was posted in July 2026 and discussed at the July meeting [46, 36].
+- Forums: this guide found no candidate forum, questionnaire or news coverage of the 2026 Southeast Fountain races. The only contested seat is Van Buren (Minick vs. Reissmann) [6].
+
+## Josh A Paxton — Millcreek
+
+Unopposed for the Millcreek Township seat held by board president Kim Sowers, who is not on the ballot. He is listed with the Republican Party label on the state list [25, 6].
+
+### Path to the ballot
+
+- Listed on the general-election ballot for the Millcreek seat with the Republican Party label [6].
+
+### On the current officeholder
+
+- This guide found no statement from this candidate on the board's record.
+
+### Endorsements & fundraising
+
+- No endorsements or campaign finance reports were found.
+
+### What we couldn't verify
+
+- No news coverage, candidate statements, website, forum or questionnaire answers were found.
+- School board candidates did not appear in Fountain County's May 2026 primary candidate list, and this guide could not confirm how the party label was obtained.
+- Occupation, ties to the schools and reasons for running could not be confirmed.
+
+## Jill Duncan — Richland
+
+Incumbent (appointed) and board vice president, unopposed in her first election for the Richland Township seat [25, 32, 6].
+
+### Path to the ballot
+
+- Appointed to the board in early 2024 to fill the Richland seat after Crystal Brewer left. The board interviewed Duncan and Mark Parks on Jan. 8, 2024 [31, 32, 33].
+- Listed on the 2026 ballot as nonpartisan [6].
+
+### On the current officeholder
+
+- Is a current board member. She has served as secretary (2025) and vice president (2026), and the minutes record her moving or seconding most routine motions, nearly all passed unanimously [47, 44, 25].
+- Minutes list topics she raised but not what she said, for example 'Daycare, transportation' (August 2025) and teacher and staff of the year recognition (April 2026) [43, 44].
+
+### Endorsements & fundraising
+
+- No endorsements or campaign finance reports were found.
+
+### What we couldn't verify
+
+- No news coverage, candidate statements, website, forum or questionnaire answers were found.
+- Her answers in the January 2024 appointment interview are in an attachment not posted with the minutes.
+- Occupation, ties to the schools and reasons for running could not be confirmed.
+
+## Noah Reissmann — VanBuren
+
+Challenger for the Van Buren Township seat held by Scott Minick [25, 6].
+
+### Path to the ballot
+
+- Listed on the 2026 ballot as nonpartisan [6].
+
+### On the current officeholder
+
+- This guide found no statement from this candidate on the board's record.
+
+### Endorsements & fundraising
+
+- No endorsements or campaign finance reports were found.
+
+### What we couldn't verify
+
+- No news coverage, candidate statements, website, forum or questionnaire answers were found.
+- Unconfirmed link to district business: on March 12, 2026 the board approved estimates from 'Reissmann LLC' for baseball and softball dugout repairs. A Fountain County public-record roundup also lists a warranty deed from 'Noah Reissmann' to Southeast Fountain School Corporation, recorded March 23, 2026. This guide could not confirm whether either involves the candidate.
+- Occupation, ties to the schools and reasons for running could not be confirmed.
+
+## Scott Minick — VanBuren
+
+Incumbent, elected unopposed in Van Buren Township in 2022, and challenged by Noah Reissmann [29, 25, 6].
+
+### Path to the ballot
+
+- Elected unopposed in 2022 with 1,346 votes, according to the county's results report [29].
+- Listed on the 2026 ballot as nonpartisan [6].
+
+### Positions & plans
+
+**Facilities**
+
+- At the July 2025 meeting, minutes summarize his comment as 'Excited that projects are underway, looking forward to completion,' referring to the district's construction projects [48].
+
+### On the current officeholder
+
+- Is a current board member. He was on the board by January 2024, served as secretary in 2024 and president in 2025, and is a member in 2026 [32, 49, 47, 25].
+- Minutes show his board comments as mostly thanks to staff and congratulations to students; this guide found no account from him of the board's record [43, 45, 50].
+
+### Endorsements & fundraising
+
+- No endorsements or campaign finance reports were found.
+
+### What we couldn't verify
+
+- No news coverage, candidate statements, website, forum or questionnaire answers were found.
+- Occupation and reasons for seeking reelection could not be confirmed.
+- The county's 2022 results PDF is marked 'Unofficial Results'.
+
+## Sources
+
+1. [Indiana Code 20-26-5-4: Specific powers of governing body](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-5-4/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+2. [2026 Indiana Candidate Guide (School Board Offices)](https://www.in.gov/dA/1eada35c3e/2026-Candidate-Guide.FINAL.pdf) — Indiana Election Division, accessed 2026-10-10
+3. [800 school board seats are up for election in Indiana](https://chalkbeat.org/indiana/2024/06/13/school-board-seats-up-for-election-in-indiana-in-2024) — Chalkbeat Indiana / WFYI, 2024-06-13
+4. [Why there are no education elections on your primary ballot](https://www.chalkbeat.org/indiana/2026/04/07/primary-election-ballot-changes-exclude-education-races-and-referendums/) — Chalkbeat Indiana, 2026-04-07
+5. [Indiana Code 20-26-4-7: Compensation of governing body members](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-4-7/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+6. [2026 General Election Candidate List](https://www.in.gov/sos/elections/candidate-information/) — Indiana Election Division, 2026-09-22
+7. [Indiana Code 20-26-5-4.5: Selection and discharge of employees](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-5-4-5/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+8. [School Tax Levy Referendum](https://www.in.gov/dlgf/referendum-information/school-tax-levy-referendum/) — Indiana Department of Local Government Finance, accessed 2026-10-10
+9. [Indiana Code 20-29-6-4: Subjects of collective bargaining](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-29-6-4/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+10. [Obscene, or just objectionable? Here's how Indiana schools are tackling library book complaints](https://arnoltcenter.org/?p=1345) — Arnolt Center for Investigative Journalism / Indiana Capital Chronicle, 2024-02-05
+11. [Indiana Code 20-33-8-19: Expulsion appeals](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-33-8-19/) — FindLaw (Indiana Code), accessed 2026-10-10
+12. [Indiana Code 5-14-1.5-1: Open Door Law policy](https://codes.findlaw.com/in/title-5-state-and-local-administration/in-code-sect-5-14-1-5-1/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+13. [What We Do](https://www.in.gov/pac/about-us/what-we-do/) — Indiana Public Access Counselor, accessed 2026-10-10
+14. [Indiana Code 20-31-3-1: State academic standards](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-31-3-1/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+15. [Indiana K-12 State Tuition Support Annual Report FY2023](https://www.in.gov/doe/files/2023-Tuition-Support-Report.pdf) — Indiana Department of Education, 2023
+16. [Indiana lawmakers expand voucher eligibility, increase school funding in budget](https://chalkbeat.org/indiana/2025/04/24/vouchers-for-all-start-in-2026-budget-year) — Chalkbeat Indiana, 2025-04-24
+17. [Indiana school board candidates split 50-50 on affiliating with a party](https://www.wndu.com/2026/07/20/indiana-school-board-candidates-split-50-50-affiliating-with-party/) — WNDU, 2026-07-20
+18. [5 takeaways from Chalkbeat's panel on Indiana's changes to school board elections and referendums](https://www.chalkbeat.org/indiana/2026/07/10/indiana-school-board-elections-partisan-referendums-takeaways/) — Chalkbeat Indiana, 2026-07-10
+19. [Confusion on partisan school board law puts two IPS candidates' spots at risk](https://www.chalkbeat.org/indiana/2026/07/27/confusion-on-partisan-schoolboard-threatens-ips-ballot-spots/) — Chalkbeat Indiana, 2026-07-27
+20. [2026 Indiana Election Legislation Summary](https://www.in.gov/dA/d13ecb1f55/2026-Indiana-Election-Legislation-Summary.FINAL.pdf) — Indiana Election Division, 2026
+21. [Indiana school referendum elections: Districts seek funding for teacher pay, class size, buses](https://www.chalkbeat.org/indiana/2025/10/27/schools-property-tax-referendum-election-2025) — Chalkbeat Indiana, 2025-10-27
+22. [Indiana school district referendum guide 2026: What to know about your district's requested tax increase](https://www.wvxu.org/2026-08-17/indiana-school-district-referendum-guide-2026-what-to-know-about-your-districts-requested-tax-increase) — WFYI and Chalkbeat Indiana (via WVXU), 2026-08-17
+23. [Indiana charter schools could now have an easier path to acquiring district buildings](https://www.chalkbeat.org/indiana/2023/6/11/23755769/indiana-charters-acquire-traditional-public-school-buildings-underutilized-enrollment) — Chalkbeat Indiana, 2023-06-11
+24. [About Us](https://www.sefschools.org/apps/pages/index.jsp?uREC_ID=2630247&type=d&pREC_ID=2269884) — Southeast Fountain School Corporation, 2026-10
+25. [Board of School Trustees](https://www.sefschools.org/apps/pages/index.jsp?uREC_ID=2639996&type=d&pREC_ID=2273255) — Southeast Fountain School Corporation, 2026-10
+26. [Meeting minutes, January 15, 2026](https://drive.google.com/file/d/1l8sSdaZrVQZAy8fJBXznEu_DOE7iG_v9/view) — Southeast Fountain Board of School Trustees, 2026-01-15
+27. [Regular meeting minutes, February 13, 2025](https://drive.google.com/file/d/1HRJkeO8lJiitnDFL5pzgnSjdU0uWoQBu/view) — Southeast Fountain Board of School Trustees, 2025-02-13
+28. [Superintendent's Office](https://www.sefschools.org/apps/pages/index.jsp?uREC_ID=2630247&type=d&pREC_ID=2273374) — Southeast Fountain School Corporation, 2026-10
+29. [General Election 11/8/2022 results report](https://www.fountaincounty.net/egov/documents/1668454185_77003.pdf) — Fountain County, 2022-11
+30. [Election results](https://www.newsbug.info/wcinews/news/election-results/article_bba93a40-9c60-11ef-a91b-0bbae311db41.html) — WCI News (newsbug.info), 2024-11-06
+31. [Regular meeting minutes, December 14, 2023](https://drive.google.com/file/d/1RfC8JXrU8w_5iNrSrDxJWrlF91Dq8v5z/view) — Southeast Fountain Board of School Trustees, 2023-12-14
+32. [Public meeting minutes, January 8, 2024](https://drive.google.com/file/d/16L3uYK57mn2Zys4fItaZ8TFKXBKmymBL/view) — Southeast Fountain Board of School Trustees, 2024-01-08
+33. [Regular meeting minutes, February 15, 2024](https://drive.google.com/file/d/1ipBUYBf-qoFIyDDQfr4pEgKx_DUpJ6m0/view) — Southeast Fountain Board of School Trustees, 2024-02-15
+34. [Board meeting minutes, May 14, 2026](https://drive.google.com/file/d/1LBYsnT0qVusf2Isge06BaDWZhuiq7zn-/view) — Southeast Fountain Board of School Trustees, 2026-05-14
+35. [Board meeting minutes, June 11, 2026](https://drive.google.com/file/d/1kBecOfTWEtryeu5YjNRSkseQfFVvHk1e/view) — Southeast Fountain Board of School Trustees, 2026-06-11
+36. [Board meeting minutes, July 16, 2026](https://drive.google.com/file/d/1w1YJl_WCEqM8gBoWHsE833A0X8un_HDY/view) — Southeast Fountain Board of School Trustees, 2026-07-16
+37. [Meeting minutes, April 10, 2025](https://drive.google.com/file/d/1vhSZXLqrrXNznQWd-si0vv0sh4qB5XfP/view) — Southeast Fountain Board of School Trustees, 2025-04-10
+38. [Meeting minutes, October 9, 2025](https://drive.google.com/file/d/1MxUMsOkJ0GLRyl9Pt1EJTkAhjZD_K_xK/view) — Southeast Fountain Board of School Trustees, 2025-10-09
+39. [Public Notice - 20260716 (minimum teacher salary)](https://4.files.edl.io/cfed/07/17/26/124411-ecf0a152-c360-41a6-883c-5170d153b3ff.pdf) — Southeast Fountain School Corporation, 2026-07-16
+40. [Regular meeting minutes, November 14, 2024](https://drive.google.com/file/d/1RcYkGYfcTCrkWHG1KeutTxEhsx60QZiQ/view) — Southeast Fountain Board of School Trustees, 2024-11-14
+41. [Board meeting minutes, March 12, 2026](https://drive.google.com/file/d/1ph2XRg57h_l8_6oJGb9agx5zUkx0jQ8j/view) — Southeast Fountain Board of School Trustees, 2026-03-12
+42. [Southeast Fountain School Corporation to eliminate maintenance director position](https://www.newsbug.info/wcinews/news/southeast-fountain-school-corporation-to-eliminate-maintenance-director-position/article_61eee10b-6cb0-4be4-93d6-5ffd262f6911.html) — WCI News (newsbug.info), 2025-08-18
+43. [Meeting minutes, August 14, 2025](https://drive.google.com/file/d/1rk0WqSTAC53_9WkB4M_-G92zjf3xhZ4D/view) — Southeast Fountain Board of School Trustees, 2025-08-14
+44. [Board meeting minutes, April 16, 2026](https://drive.google.com/file/d/16V17T5XHPfCvDLCG6cl2shzBuFwtCDVZ/view) — Southeast Fountain Board of School Trustees, 2026-04-16
+45. [Board meeting minutes, December 18, 2025](https://drive.google.com/file/d/13g3iP5MmcJ6qBWPp3UIiI_mUzKjh4pil/view) — Southeast Fountain Board of School Trustees, 2025-12-18
+46. [Records Request Update - 20260716 (Policy 209)](https://4.files.edl.io/e163/07/17/26/124457-5b0de69e-3469-40e8-9bad-dc4ea7a7f266.pdf) — Southeast Fountain School Corporation, 2026-07-16
+47. [Regular meeting minutes, January 16, 2025](https://drive.google.com/file/d/1-yxYb5ZcJkRcZxsMOFHdFov0djAoAQVR/view) — Southeast Fountain Board of School Trustees, 2025-01-16
+48. [Meeting minutes, July 10, 2025](https://drive.google.com/file/d/1bpPGqhOcTTl9T9xQVW9MhBULMpUCR7Sf/view) — Southeast Fountain Board of School Trustees, 2025-07-10
+49. [Regular meeting minutes, July 18, 2024](https://drive.google.com/file/d/1Sr6dCgETCd3uL4es82w86HZyTk_8sHYD/view) — Southeast Fountain Board of School Trustees, 2024-07-18
+50. [Meeting minutes, February 12, 2026](https://drive.google.com/file/d/1HnbpshHKqlzYESHEj_6NcEF-PZJxxw6X/view) — Southeast Fountain Board of School Trustees, 2026-02-12
