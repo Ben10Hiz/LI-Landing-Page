@@ -1,0 +1,212 @@
+{
+ "race_id": "in-school-board-marion-wayne-township",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The Metropolitan School District of Wayne Township serves about 15,700 students on Indianapolis' west side {chalkbeat_2026}. Shenia Suggs, previously assistant superintendent, became superintendent on Jan. 5, 2026, succeeding Jeff Butts, who led the district for 15 years {mirror_gordon}.",
+  "The board has seven members elected at large {chalkbeat_2022}. Winners take office in January and serve four-year terms ending in December 2030 {chalkbeat_2026}.",
+  "Seat count: the state list shows the at-large race as 'vote for 1', but four at-large seats are on the 2026 ballot and voters districtwide may choose candidates for all of them {chalkbeat_2026}. Only four candidates filed, so all four will be elected {chalkbeat_2026}.",
+  "All four candidates are incumbents running unopposed: board president Brandon Bowman, Raimeka Graham, Benjamin Wakefield and Mikeal Gordon {chalkbeat_2026}. Gordon was appointed in December 2025 to finish the term of longtime member Mike Nance, who died in November 2025; that term ends Dec. 31, 2026 {wayne_gordon}.",
+  "Operating referendum (Nov. 3, 2026): the district is asking voters to approve an operating levy of up to $0.70 per $100 of assessed value for up to eight years, replacing the 2019 referendum ($0.35), which expires in 2027; the district expects to certify $0.60 in the first year {wayne_referendum}. The district says the money would go to teacher recruitment and retention, safety and security, transportation, custodians, utilities and technology {wayne_referendum}.",
+  "Property-tax caps and funding (2025–2026): the district says it lost $21.3 million to the property-tax circuit breaker in 2025 and received $280 per student for operations, ranking 289th of 290 Indiana districts; it projects a $20 million shortfall for 2027–2028 if the referendum fails, which could mean closing an elementary school, larger classes and eliminating the HOSTS program {wayne_referendum}. In September 2025 the board cut planned bus purchases from 14 to 12 for 2026 after state property-tax changes reduced expected revenue growth {mirror_budget}.",
+  "Forums and differences: this guide found no candidate forum for the uncontested race. In the Chalkbeat/Mirror Indy/WFYI survey, Gordon and Wakefield said they support the referendum; Bowman and Graham did not respond {chalkbeat_2026}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Benjamin Wakefield",
+   "seat": "At Large",
+   "summary": "Incumbent and past board president, first elected in 2018, seeking a third term unopposed; listed as Nonpartisan {in_list}{chalkbeat_2026}.",
+   "website": null,
+   "background": [
+    "Past board president, first elected in 2018 {chalkbeat_2026}.",
+    "Parent of students in the district {chalkbeat_2026}."
+   ],
+   "path_to_ballot": [
+    "Listed as Nonpartisan on the state candidate list; did not declare a party affiliation {in_list}{chalkbeat_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Supports the referendum: 'Yes. I support continuing the operating referendum because our students deserve well-funded schools' {chalkbeat_2026}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Lists supported teachers as a priority: 'Give teachers the tools, support and respect they need to help students thrive' {chalkbeat_2026}.",
+      "In 2022 he said his plans included hiring more teachers and improving educator retention {chalkbeat_2022}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member and past board president {chalkbeat_2026}."
+   ],
+   "plans": [
+    "Lists strong schools, supported teachers and successful students as his priorities {chalkbeat_2026}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or fundraising reports found."
+   ],
+   "gaps": [
+    "Professional background is not described here under the guide's rule against listing religious roles.",
+    "No campaign website found; no campaign finance totals found."
+   ]
+  },
+  {
+   "ballot_name": "Brandon Bowman",
+   "seat": "At Large",
+   "summary": "Incumbent and board president, first elected in 2014, seeking a fourth term unopposed; listed as Democratic {in_list}{chalkbeat_2026}.",
+   "website": null,
+   "background": [
+    "Ben Davis High School graduate; in 2022 worked as an operations manager for a mechanical service company {chalkbeat_2022}.",
+    "Board president, first elected in 2014 {chalkbeat_2026}."
+   ],
+   "path_to_ballot": [
+    "Listed as Democratic on the state candidate list {in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "In 2022 he named finding ways to hear from all constituents as his main priority {chalkbeat_2022}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member and board president {chalkbeat_2026}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or fundraising reports found."
+   ],
+   "gaps": [
+    "Did not respond to the 2026 Chalkbeat/Mirror Indy/WFYI survey; no 2026 statement of positions found, including on the referendum.",
+    "No campaign website found; no campaign finance totals found."
+   ]
+  },
+  {
+   "ballot_name": "Mikeal Gordon",
+   "seat": "At Large",
+   "summary": "Incumbent appointed in December 2025 to fill a vacancy, a purchasing manager and district parent, running unopposed; listed as Democratic {in_list}{chalkbeat_2026}.",
+   "website": null,
+   "background": [
+    "Purchasing manager at Newjac Industrial, a sheet metal fabrication company in Lebanon, Indiana {mirror_gordon}.",
+    "Parent of children who attended district schools, including a graduate of the district's THRIVE program for students with cognitive and developmental needs {wayne_gordon}.",
+    "Active volunteer in district schools {wayne_gordon}."
+   ],
+   "path_to_ballot": [
+    "Appointed by the board and sworn in on Dec. 15, 2025 to finish the late Mike Nance's term through Dec. 31, 2026; he was one of five finalists interviewed {mirror_gordon}.",
+    "Ran unsuccessfully for the board in 2020 {mirror_gordon}.",
+    "Listed as Democratic on the state candidate list {in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Asked about the referendum, said 'Absolutely' and called it 'prudent to get back on the right track'; noted the 2019 referendum would end if it passes {chalkbeat_2026}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Lists student test scores among his priorities {chalkbeat_2026}; said at his appointment, 'None of this matters if our kids aren't achieving success in the end' {mirror_gordon}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Lists teacher retention among his priorities {chalkbeat_2026}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member, appointed in December 2025 {wayne_gordon}."
+   ],
+   "plans": [
+    "Lists fiscal responsibility, teacher retention and student test scores as priorities {chalkbeat_2026}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or fundraising reports found."
+   ],
+   "gaps": [
+    "No campaign website found; no campaign finance totals found."
+   ]
+  },
+  {
+   "ballot_name": "Raimeka Graham",
+   "seat": "At Large",
+   "summary": "Incumbent and past board president, appointed in 2020, running unopposed; listed as Democratic {in_list}{chalkbeat_2026}.",
+   "website": null,
+   "background": [
+    "Principal of Deer Run Elementary School in Pike Township and a past board president {chalkbeat_2026}.",
+    "Parent of current and former students in the district {chalkbeat_2022}."
+   ],
+   "path_to_ballot": [
+    "Appointed to the board in July 2020 and elected unopposed in 2022 {chalkbeat_2022}.",
+    "Listed as Democratic on the state candidate list {in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Curriculum & library policy",
+     "items": [
+      "In 2022 she said she expected the biggest challenge to be the debate over curriculum and 'divisive concepts' {chalkbeat_2022}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member and past board president {chalkbeat_2026}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or fundraising reports found."
+   ],
+   "gaps": [
+    "Did not respond to the 2026 Chalkbeat/Mirror Indy/WFYI survey; no 2026 statement of positions found, including on the referendum.",
+    "No campaign website found; no campaign finance totals found.",
+    "Her first name is spelled 'Rameika' in the 2022 Chalkbeat text and 'Raimeka' on the state list and in 2026 coverage."
+   ]
+  }
+ ],
+ "sources": {
+  "chalkbeat_2026": [
+   "Voter guide 2026: Here's who's running for school board in Wayne Township",
+   "Chalkbeat Indiana / Mirror Indy / WFYI",
+   "2026-09-11",
+   "https://www.chalkbeat.org/indiana/2026/09/11/wayne-township-school-board-voter-guide-2026/"
+  ],
+  "wayne_referendum": [
+   "Wayne Township Voters to Decide 2026 Operating Referendum on November 3",
+   "MSD of Wayne Township",
+   "2026-08-31",
+   "https://www.wayne.k12.in.us/news/news/~board/district/post/wayne-township-voters-to-decide-2026-operating-referendum-on-november-3"
+  ],
+  "wayne_gordon": [
+   "Mikeal Gordon Joins Wayne Township School Board",
+   "MSD of Wayne Township",
+   "2025-12-18",
+   "https://www.wayne.k12.in.us/news/news/~board/district/post/mikeal-gordon-joins-wayne-township-school-board"
+  ],
+  "mirror_gordon": [
+   "Meet Wayne Township's newest school board member",
+   "Mirror Indy",
+   "2025-12-16",
+   "https://mirrorindy.org/?p=69822"
+  ],
+  "chalkbeat_2022": [
+   "Incumbents for Wayne Township school board face no competition",
+   "Chalkbeat Indiana / WFYI",
+   "2022-09-30",
+   "https://www.chalkbeat.org/indiana/2022/9/30/23379325/wayne-township-school-board-vote-election-incumbent-candidates"
+  ],
+  "mirror_budget": [
+   "Wayne Township plans to buy fewer school buses this year",
+   "Mirror Indy",
+   "2025-09-09",
+   "https://mirrorindy.org/wayne-township-schools-indianapolis-2026-budget-indiana-property-tax-reform/"
+  ]
+ }
+}

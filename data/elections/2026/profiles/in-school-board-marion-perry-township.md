@@ -42,7 +42,7 @@ A school board is the elected or appointed governing body of a public school cor
 
 ## This race
 
-- The Metropolitan School District of Perry Township serves about 16,000 students on the south side of Indianapolis in Marion County [24]. English learners make up nearly one-third of students [24]. The superintendent is Dr. Patrick Spray, who started July 1, 2023, after Patrick Mapes retired [25, 26].
+- The Metropolitan School District of Perry Township serves about 16,000 students on the south side of Indianapolis in Marion County [24]. English learners make up nearly one-third of students [24]. The superintendent is Dr. Patrick Spray, who started July 1, 2023 [25, 26].
 - The board has seven members, all elected at large to four-year terms; every voter in the district may vote for any candidate [24, 27].
 - Three of the seven seats are on the Nov. 3, 2026 ballot, so voters choose up to three candidates; the state list shows "vote for 1," which does not match the three open seats [24, 6].
 - The three seats now belong to Lee Shively, Chris Lewis and Hre Mang [27]. Shively and Lewis are running for reelection, Mang is not running, and newcomer Brianna Bible is running [24].

@@ -1,0 +1,298 @@
+{
+ "race_id": "in-school-board-marion-warren",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The Metropolitan School District of Warren Township serves about 11,500 students on Indianapolis' far east side {cb_warren_guide}. In 2025-26 it ran one high school, three intermediate-middle schools (grades 5-8) and nine elementary schools {mi_fifth_delay} {mi_fifth_2025}. In 2023-24, about 55% of students were Black, about 20% were Hispanic, and almost 70% came from low-income backgrounds {cb_warren_2024}. Tim Hanson was identified as superintendent in 2023 coverage, and Mirror Indy quoted Hanson addressing the board in February 2026 {indystar_ref_2023} {mi_fifth_delay}.",
+  "The board has seven members, all elected at large to overlapping four-year terms; voters may vote for candidates for every open seat {cb_warren_2022} {cb_warren_guide}.",
+  "Three at-large seats are on the Nov. 3, 2026 ballot, and winners serve January 2027 through December 2030 {cb_warren_guide}. The state list shows \"vote for 1,\" which does not match the three open seats {in_list}.",
+  "The three seats now belong to board president Terri Amos, Rachel Burke and vice president Kevin Humphrey Sr., and all three are running again. Six candidates are running in all: the three incumbents and challengers Jerry Crites, Samantha Douglas and Steve Tutsie {cb_warren_guide}. Tutsie is listed as an Independent; the other five did not declare a party {cb_warren_guide} {in_list}.",
+  "Fifth-grade move: in September 2025, administrators proposed moving fifth graders from the intermediate-middle schools back into the elementary schools for fall 2026 {mi_fifth_2025}. The board approved the plan Feb. 4, 2026, but delayed it to 2027-28 because elementary schools would be over capacity without additions. The plan adds four classrooms each at Lowell, Pleasant Run, Hawthorne and Grassy Creek elementaries for about $21 million, paid with bonds rather than a tax-increase request. Some elementary school assignments may change {mi_fifth_delay}. Candidates who answered the 2026 survey said they support the change {cb_warren_guide}.",
+  "Referendum and budget: Warren voters approved an eight-year, $88 million operating referendum in 2023 for transportation, technology, academic programs, safety and staff wages {cb_warren_2024} {indystar_ref_2023}. The board's referendum spending plans total about $14.0 million for FY2026 (adopted March 19, 2025) and about $13.7 million for FY2027 (adopted March 24, 2026). In the FY2027 plan, the staff retention and support-staff line falls from $4.6 million to $3.5 million, and transportation rises from $3.3 million to about $4.5 million {warren_fy26_plan} {warren_fy27_plan}. Incumbents Amos and Humphrey named state funding and budget cuts as the most pressing issue {cb_warren_guide}.",
+  "Career education: Warren is using a $30 million Lilly Endowment grant to build career classrooms at every middle school, according to an associate superintendent {cb_lilly}.",
+  "Academics: in 2022, Warren had the lowest share of students passing both ILEARN math and English among Marion County districts (8%) {cb_warren_2022}. Third-grade IREAD results rose nearly 12 percentage points in spring 2024 {cb_warren_2024}, and in 2026 board president Amos said more than 83% of third graders passed and that the district is now focused on ILEARN math {cb_warren_guide}.",
+  "Forums and differences: no 2026 candidate forum was found. Five of six candidates answered the Chalkbeat Indiana/Mirror Indy/WFYI survey; Burke did not respond {cb_warren_guide}. The incumbents who answered pointed to state funding and budget cuts as the main challenge. Crites put feeding programs and a facilities review first, Douglas stressed keeping Warren families' first choice and community partnerships, and Tutsie focused on keeping and attracting middle school students {cb_warren_guide}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Jerry Crites",
+   "seat": "At Large",
+   "summary": "First-time candidate and retired Warren Township schools facilities director, running without a party label {cb_warren_guide} {in_list}.",
+   "website": null,
+   "background": [
+    "Retired facilities director for Warren Township schools {cb_warren_guide}.",
+    "Does not have students now enrolled in the district; age 62 {cb_warren_guide}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state candidate list as Nonpartisan {in_list}.",
+    "Running for a first term {cb_warren_guide}."
+   ],
+   "positions": [
+    {"topic": "Academics", "items": [
+     "Wants to raise test scores through targeted instruction, tutoring and intervention, and clear progress monitoring {cb_warren_guide}.",
+     "Said the district should focus on technology and digital literacy, including coding, data literacy and responsible use of AI, \"not just access to devices\" {cb_warren_guide}."
+    ]},
+    {"topic": "Budget & taxes", "items": [
+     "Named federal cutbacks to feeding programs as the most pressing issue; would protect those programs in the district budget, partner with food banks and nonprofits, and lobby state and federal officials {cb_warren_guide}.",
+     "Would work with the board and chief financial officer to review spending, find efficiencies and stay accountable to taxpayers {cb_warren_guide}."
+    ]},
+    {"topic": "Teachers & staff", "items": [
+     "Supports competitive salaries and incentives for both certified and classified staff {cb_warren_guide}."
+    ]},
+    {"topic": "Facilities", "items": [
+     "Wants a thorough facility review that ranks repairs, safety upgrades and learning-space improvements by need {cb_warren_guide}.",
+     "For the fifth-grade move, would meet regularly with district officials to track construction progress and timelines {cb_warren_guide}."
+    ]},
+    {"topic": "Transparency & community input", "items": [
+     "Would respond directly to people who attend board meetings and make his contact information available on the district website {cb_warren_guide}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Did not criticize specific board decisions in his survey; he said elementary schools need an evaluation of space and capacity before the fifth-grade move {cb_warren_guide}."
+   ],
+   "plans": [
+    "Wants to conduct a facilities evaluation and track renovation schedules for the fifth-grade transition {cb_warren_guide}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance figures were found in reviewed sources {cb_warren_guide}."
+   ],
+   "gaps": [
+    "No campaign website or social media page was found.",
+    "Marion County Election Board campaign finance filings were not reviewed; fundraising is unknown.",
+    "No news coverage beyond the Chalkbeat/Mirror Indy/WFYI survey was found."
+   ]
+  },
+  {
+   "ballot_name": "Kevin S. Humphrey, Sr",
+   "seat": "At Large",
+   "summary": "Incumbent and board vice president, first elected in 2022; a Marine Corps veteran and retired postal worker running without a party label {cb_warren_guide} {in_list}.",
+   "website": null,
+   "background": [
+    "Served in the U.S. Marine Corps and is a retired postal worker {cb_warren_guide}.",
+    "Longtime youth sports volunteer; age 64 {cb_warren_guide}. In 2022 WFYI reported he had teaching experience and coached youth football {cb_warren_2022}.",
+    "First elected in 2022 and sworn in January 2023; now board vice president {cb_warren_guide} {indystar_ref_2023}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state candidate list as Nonpartisan {in_list}.",
+    "Seeking a second term {cb_warren_guide}."
+   ],
+   "positions": [
+    {"topic": "Budget & taxes", "items": [
+     "Named \"the new budget cuts\" as the most pressing issue and said the board \"must work with legislators to reevaluate things\" {cb_warren_guide}.",
+     "Said his approach to finances is \"to stay fiscally disciplined\" {cb_warren_guide}."
+    ]},
+    {"topic": "Academics", "items": [
+     "Named continued academic growth as a priority; said state policy and regulation changes \"keep moving the goal post\" {cb_warren_guide}."
+    ]},
+    {"topic": "Teachers & staff", "items": [
+     "Named increasing teacher salaries as a priority {cb_warren_guide}."
+    ]},
+    {"topic": "Enrollment & school choice", "items": [
+     "Named increasing enrollment (average daily membership) as a priority {cb_warren_guide}."
+    ]},
+    {"topic": "Facilities", "items": [
+     "Said space is being added for the fifth-grade move and that the board will give teachers who change buildings \"all the support they need\" {cb_warren_guide}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Is a current board member and vice president. He supports the board-approved fifth-grade transition and described the space additions under way {cb_warren_guide} {mi_fifth_delay}."
+   ],
+   "plans": [
+    "Wants to work with state legislators on school funding, raise teacher pay and grow enrollment {cb_warren_guide}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance figures were found in reviewed sources {cb_warren_guide}."
+   ],
+   "gaps": [
+    "No campaign website or social media page was found; his survey answers were brief.",
+    "No record of his individual board votes was reviewed.",
+    "Marion County Election Board campaign finance filings were not reviewed; fundraising is unknown."
+   ]
+  },
+  {
+   "ballot_name": "Rachel M Burke",
+   "seat": "At Large",
+   "summary": "Incumbent and former board president seeking a fourth term, running without a party label; she was elected in June 2026 as the National PTA's vice president of advocacy {cb_warren_guide} {in_list}.",
+   "website": "https://rachelburke.org/",
+   "background": [
+    "Born and raised in Warren Township and attended district schools including Warren Central {cb_warren_guide} {burke_site}.",
+    "Parent of three children who have attended district schools; has volunteered with robotics and Science Olympiad teams and parent-teacher groups {cb_warren_guide}.",
+    "Has served as board secretary, vice president and president {cb_warren_guide}. In 2022 WFYI reported she had served two non-consecutive terms and was president of the Indiana PTA {cb_warren_2022}.",
+    "Elected National PTA vice president of advocacy in June 2026 {cb_warren_guide}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state candidate list as Nonpartisan {in_list}.",
+    "Seeking a fourth term {cb_warren_guide}."
+   ],
+   "positions": [
+    {"topic": "Academics", "items": [
+     "In 2022, said she wanted to prioritize educational equity by meeting the needs of all students, especially those who fell behind during the pandemic {cb_warren_2022}."
+    ]},
+    {"topic": "Facilities", "items": [
+     "Her campaign website, last updated in 2016-2018, lists \"rebuilding and sustaining infrastructure\" and public education as \"the cornerstone of a productive democracy\" among her issues {burke_site_issues}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Is a current board member and former president. She did not respond to the 2026 survey, so no 2026 account of the board's record from her was found {cb_warren_guide}."
+   ],
+   "plans": [
+    "No 2026 plans were found; she did not respond to multiple requests to complete the Chalkbeat/Mirror Indy/WFYI survey {cb_warren_guide}."
+   ],
+   "endorsements_finance": [
+    "Her campaign website's issues page, created in 2016, says she was endorsed by the Indiana State AFL-CIO; no 2026 endorsement was confirmed {burke_site_issues}."
+   ],
+   "gaps": [
+    "Her campaign website appears to date from 2016-2018 (page dates in the site's public data) and may not reflect her 2026 positions.",
+    "Her website lists \"MSD Warren Township Board of Trustees 2013-2016\"; her exact service dates were not confirmed in news sources.",
+    "No record of her board votes was reviewed.",
+    "Marion County Election Board campaign finance filings were not reviewed; fundraising is unknown."
+   ]
+  },
+  {
+   "ballot_name": "Samantha Douglas",
+   "seat": "At Large",
+   "summary": "First-time candidate, president of the Far Eastside Community Council and a Warren parent, running without a party label {cb_warren_guide} {in_list}.",
+   "website": "https://www.samanthaforwarren.com/",
+   "background": [
+    "President of the Far Eastside Community Council {cb_warren_guide}. Her campaign site says she is also Community Builder for the Far Eastside Quality of Life Plan, a communications professional, and host of The Black Briefing Podcast {douglas_site}.",
+    "Parent of students at Brookview Elementary, Stonybrook Intermediate and Middle School and Warren Central; a Warren graduate; age 36 {cb_warren_guide} {douglas_site}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state candidate list as Nonpartisan {in_list}.",
+    "Running for a first term {cb_warren_guide}."
+   ],
+   "positions": [
+    {"topic": "Enrollment & school choice", "items": [
+     "Called keeping Warren \"the first choice for families\" the most pressing issue, and said the district should focus on being innovative, supportive and connected rather than \"competing out of fear\" {cb_warren_guide}."
+    ]},
+    {"topic": "Academics", "items": [
+     "Wants strong literacy and math instruction alongside investment in STEM, the arts, and career and technical education {cb_warren_guide}."
+    ]},
+    {"topic": "Budget & taxes", "items": [
+     "Said every financial decision should start with how it improves student outcomes, and that \"we can't simply cut our way to excellence\"; supports partnerships that expand opportunities without burdening families {cb_warren_guide}."
+    ]},
+    {"topic": "Transparency & community input", "items": [
+     "Wants to make decisions \"with the community, not just for the community,\" and to give residents information on issues before the board {cb_warren_guide}.",
+     "Wants more communication with families and fewer barriers to family engagement {douglas_site}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Supports the board-approved fifth-grade transition and said she would ask questions and seek accountability during implementation {cb_warren_guide}."
+   ],
+   "plans": [
+    "Wants to build partnerships among schools, families, nonprofits, businesses and neighborhood groups so schools serve as community hubs {cb_warren_guide} {douglas_site}."
+   ],
+   "endorsements_finance": [
+    "Her campaign website takes online donations and volunteer sign-ups; no amounts raised or endorsements were found {douglas_site}."
+   ],
+   "gaps": [
+    "Marion County Election Board campaign finance filings were not reviewed; fundraising is unknown.",
+    "No news coverage beyond the Chalkbeat/Mirror Indy/WFYI survey was found."
+   ]
+  },
+  {
+   "ballot_name": "Steve (Coach) Tutsie",
+   "seat": "At Large",
+   "summary": "First-time candidate running as an Independent; an assistant head football coach at Marian University who previously coached at Warren Central {cb_warren_guide} {in_list}.",
+   "website": "https://www.facebook.com/profile.php?id=100015230855976",
+   "background": [
+    "Assistant head football coach at Marian University; held multiple coaching stints at Warren Central, including the 2006 state championship team {cb_warren_guide}.",
+    "Cites 12 years of service in Warren Township schools and experience as an educator at elementary, middle and high school levels {cb_warren_guide}.",
+    "Has no family now attending Warren schools; age 60 {cb_warren_guide}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state candidate list as an Independent; the ballot name includes the nickname \"Coach\" {in_list}.",
+    "Running for a first term {cb_warren_guide}."
+   ],
+   "positions": [
+    {"topic": "Enrollment & school choice", "items": [
+     "Named keeping and attracting middle school students as the most pressing issue; called the fifth-grade move \"one vital strategy\" and wants paths for student success explored {cb_warren_guide}."
+    ]},
+    {"topic": "Academics", "items": [
+     "Wants elementary reading and math gains to continue, better identification of each middle schooler's academic and extracurricular needs, and a high school focus on the new state graduation requirements {cb_warren_guide}."
+    ]},
+    {"topic": "Budget & taxes", "items": [
+     "Said the board \"must be responsible stewards of taxpayers' dollars with accountability\" {cb_warren_guide}."
+    ]},
+    {"topic": "Transparency & community input", "items": [
+     "Plans to attend as many school activities as possible and encourage feedback {cb_warren_guide}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Supports the fifth-grade move; said the district should engage the affected teachers, parents and students to anticipate problems early {cb_warren_guide}."
+   ],
+   "plans": [
+    "Wants a middle school retention strategy built on the fifth-grade move and on identifying individual student needs {cb_warren_guide}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance figures were found in reviewed sources {cb_warren_guide}."
+   ],
+   "gaps": [
+    "His Facebook page could not be reviewed; positions come only from the Chalkbeat/Mirror Indy/WFYI survey.",
+    "Marion County Election Board campaign finance filings were not reviewed; fundraising is unknown."
+   ]
+  },
+  {
+   "ballot_name": "Terri Amos",
+   "seat": "At Large",
+   "summary": "Incumbent and board president, first elected in 2014, seeking a fourth term without a party label; she teaches in another school district {cb_warren_guide} {in_list}.",
+   "website": null,
+   "background": [
+    "Teacher in another school district {cb_warren_guide}.",
+    "Her three children attended Warren schools from kindergarten through 12th grade and have graduated; age 55 {cb_warren_guide}.",
+    "First elected in 2014; now board president {cb_warren_guide}. WFYI reported in 2022 that she was a member of the Indiana School Boards Association {cb_warren_2022}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state candidate list as Nonpartisan {in_list}.",
+    "Seeking a fourth term {cb_warren_guide}."
+   ],
+   "positions": [
+    {"topic": "Budget & taxes", "items": [
+     "Called inadequate state funding the most pressing issue and would advocate with legislators and other districts for \"a more equitable funding formula\" {cb_warren_guide}.",
+     "Said any request for more money, such as a referendum, should rest on \"a demonstrated need and a clear plan\" {cb_warren_guide}.",
+     "Would put classroom instruction, student support services and competitive teacher pay first, and look for efficiencies {cb_warren_guide}."
+    ]},
+    {"topic": "Academics", "items": [
+     "Cited improved IREAD results (more than 83% of third graders passing) and said the focus is now ILEARN math; supports evidence-based instruction, teacher professional development and monitoring of achievement data {cb_warren_guide}."
+    ]},
+    {"topic": "Teachers & staff", "items": [
+     "Said low teacher pay makes recruiting and keeping educators difficult, and wants to keep salaries as competitive as possible {cb_warren_guide}."
+    ]},
+    {"topic": "Transparency & community input", "items": [
+     "Wants regular updates on board decisions and openness with residents about the district's financial challenges {cb_warren_guide}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Is a current board member and president. She credits the district with steady achievement gains over the past three years and supports the planned fifth-grade transition, including leadership opportunities for fifth graders {cb_warren_guide}."
+   ],
+   "plans": [
+    "Wants to work with legislators and other districts on state funding, and to plan staffing, space and programming for the fifth-grade move {cb_warren_guide}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance figures were found in reviewed sources {cb_warren_guide}."
+   ],
+   "gaps": [
+    "No campaign website or social media page was found.",
+    "No record of her individual board votes was reviewed.",
+    "Marion County Election Board campaign finance filings were not reviewed; fundraising is unknown."
+   ]
+  }
+ ],
+ "sources": {
+  "cb_warren_guide": ["Warren Township school board voter guide 2026: Meet the 6 candidates", "Chalkbeat Indiana / Mirror Indy / WFYI", "2026-09-11", "https://www.chalkbeat.org/indiana/2026/09/11/warren-township-school-board-voter-guide-2026/"],
+  "cb_warren_2024": ["Five candidates running for four seats on Warren Township school board", "Chalkbeat Indiana / Mirror Indy", "2024-10-01", "https://www.chalkbeat.org/indiana/2024/10/01/warren-township-school-board-2024-election-voter-guide"],
+  "cb_warren_2022": ["Four candidates are on the ballot for Warren Township's school board", "WFYI / Chalkbeat Indiana", "2022-10-03", "https://www.chalkbeat.org/indiana/2022/10/3/23381088/warren-township-school-board-test-scores-lowest-marion-candidates-elections"],
+  "mi_fifth_delay": ["Warren Township delays move of 5th graders into elementary schools", "Mirror Indy", "2026-02-18", "https://mirrorindy.org/warren-township-fifth-grade-elementary-schools-2027-2028-transition/"],
+  "mi_fifth_2025": ["'I'm so ready': Eastside parents embrace Warren school changes", "Mirror Indy", "2025-09-24", "https://mirrorindy.org/warren-township-schools-indianapolis-eastside-district-fifth-grade-elementary-middle-school-transition-planning-september-2025/"],
+  "indystar_ref_2023": ["Warren Township school board to send $88 million referendum to voters", "IndyStar (via Yahoo News)", "2023-01-12", "https://www.yahoo.com/news/warren-township-school-board-send-165639579.html"],
+  "warren_fy26_plan": ["MSD Warren Township FY26 Referendum Spending Plan", "MSD of Warren Township (Indiana Gateway fiscal ads)", "2025-03", "https://ibrctech.indianapolis.iu.edu/Fiscal_School_Ads/2026/MSD_Warren_Township_FY26_Referendum_Spending_Plan.pdf"],
+  "warren_fy27_plan": ["MSD Warren Township FY27 Referendum Spending Plan", "MSD of Warren Township (Indiana Gateway fiscal ads)", "2026-03", "https://ibrctech.iupui.edu/Fiscal_School_Ads/2027/FY27_Referendum_Spending_Plan.doc"],
+  "cb_lilly": ["The Lilly Endowment is pouring millions into Indy school buildings. What does that mean for students?", "Chalkbeat Indiana", "2026-10-02", "https://www.chalkbeat.org/indiana/2026/10/02/lilly-endowment-grant-funds-indianapolis-schools-building-boom/"],
+  "burke_site": ["About Rachel - Rachel Burke for Warren Township School Board", "Rachel Burke campaign", "2018-10", "https://rachelburke.org/"],
+  "burke_site_issues": ["Issues - Rachel Burke for Warren Township School Board", "Rachel Burke campaign", "2016-06", "https://rachelburke.org/issues/"],
+  "douglas_site": ["Samantha For Warren", "Samantha Douglas campaign", "2026-10", "https://www.samanthaforwarren.com/"]
+ }
+}
