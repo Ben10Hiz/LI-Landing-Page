@@ -1,0 +1,291 @@
+{
+ "race_id": "in-school-board-shakamak",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The 'MSD of Shakamak' races on the state list are for the Metropolitan School District of Shakamak, whose schools sit between Jasonville and Shakamak State Park at 9233 Shakamak School Road, Jasonville {in_list}{s_home}. The district runs Shakamak Elementary and Shakamak Jr/Sr High School, and Public School Review lists two schools with 679 students {s_home}{psr_shak}. The district's referendum filings were certified by the Clay County and Greene County auditors {dlgf_s_det}.",
+  "Superintendent: on July 17, 2025 the board approved Dr. Jacinda Smith as superintendent, effective July 21, 2025 through June 30, 2028 {s_min_20250717}. She followed Jeff Gambill, who was superintendent in early 2025; the board approved an interim superintendent contract in May 2025, and Nick Karazsia attended an August 2025 meeting as interim superintendent {s_min_20250116}{s_min_20250515}{s_min_20250806}.",
+  "The board has five members. The district lists Braionna Barber (president), David Smith (vice president), Jeremiah Faulk (secretary), Ian Matthews (legislative liaison) and Jodi Barton {s_board}. Those officers were chosen at the Jan. 15, 2026 reorganization, when the board also set member pay for 2026 at $2,000 {s_min_20260115}. The district does not publish which district each member represents {s_board}.",
+  "Seats on the 2026 ballot: one seat each in District 1 (Lewis Township), District 2 (Jasonville) and District 3 (Wright Township), each listed as 'vote for 1' {in_list}. District 2 is contested between Braionna Marie Barber and Matthew W Hill; Jeremiah Faulk (District 1) and Jacob Fish (District 3) are the only candidates in their districts {in_list}.",
+  "Who holds the seats: board records show three seats were filled in the 2022 election cycle. In November 2022 the board's attorney said a seat would be vacant after the election, and the board voted 3-0 to keep Robert Wise on as a holdover member; Barber was welcomed to the board in December 2022 {s_min_20221117}{s_min_20221215}. Faulk first appears as a board member in the July 18, 2024 minutes, after Wise's last listed meetings that spring {s_min_20240718}{s_min_20240613}. David Smith and James Gadberry took new oaths of office in January 2025 after the 2024 election {s_min_20250116}, and the board appointed Ian Matthews to a vacancy on Nov. 13, 2025 {s_min_20251113}. That leaves Barber, Faulk and Barton as the members whose seats are likely up in 2026. Barber and Faulk are running, and Barton is not on the ballot, so this guide believes District 3 is an open seat {in_list}. The district does not publish members' districts, and this guide could not confirm this from a district or county record.",
+  "Operating referendum (on the Nov. 3, 2026 ballot): on June 18, 2026 the board approved a referendum tax levy resolution 4-1, on a motion by Faulk seconded by Barton, with David Smith voting no {s_min_20260618}. The question asks voters to allow higher property taxes for up to eight years to fund daily operations, teacher and staff recruitment and retention, safety, class sizes and academic programs, at a rate of no more than $0.25 per $100 of assessed value and no more than $499,000 a year, or $81 a year on a $100,000 median home {dlgf_s_plan}. The district's spending plan estimates $241,400 a year for recruiting and retaining teachers and staff, $105,000 for class sizes, $93,000 for academic programs, $40,000 for educational operations and $19,600 for safety {dlgf_s_plan}. The district says SEA 1 reduced taxable assessed value and that it expects to start at a rate closer to $0.18, with the board voting on the actual rate each year; it says that if the referendum fails it would keep evaluating long-term reductions that could affect staffing, programs and operations {s_ref}. The state approved the ballot language on June 26, 2026 and later amended its order to add the Greene County Auditor's certification {dlgf_s_det}.",
+  "Facilities and borrowing: in January 2025 the board approved bids for restroom and track projects {s_min_20250121}. On Nov. 13, 2025, after an additional appropriation hearing with no public comment, the board unanimously adopted an additional appropriation resolution and a final bond resolution; Barber moved the bond resolution {s_min_20251113}. In August 2026 the board approved a drainage work proposal from Sycamore Engineering, and the superintendent's report covered a flooding update {s_min_20260824}{s_min_20260813}.",
+  "Other 2025-2026 decisions: the board adopted a 2026-2029 strategic plan on Feb. 26, 2026 {s_min_20260226}. In May 2026 it voted to add a preschool teaching position, to apply for a virtual academy school number, and to hire Chartwells as food service management company {s_min_20260521}. In August 2026 it created STEM facilitator and elementary library and digital learning facilitator positions {s_min_20260824}. On July 16, 2026 it transferred $40,739.63 from the debt service fund to the operations fund under a 2026 state law (HEA 1210) on the new supplemental homestead credit {s_min_20260716}. The 2027 budget hearing was set for Sept. 17 and adoption for Oct. 8, 2026 {s_agenda_20260917}{s_agenda_20261008}.",
+  "Athletic training contract: in August 2025 the board approved an athletic training services contract with Shakamak Rehab 4-1; David Smith said he voted no because it was not in the school's best interest, and Barton said she supported it as vital to student health and safety {s_min_20250821}. On May 21, 2026 a motion to seek bids for athletic training services tied 2-2, with Smith and Faulk in favor and Barber and Barton opposed, and was tabled {s_min_20260521}. On July 16, 2026, with Faulk absent, the board approved Shakamak Rehab's 2026-2027 bid 3-1, with Smith voting no {s_min_20260716}.",
+  "Forums and differences: this guide found no 2026 candidate forum, questionnaire or news coverage of the Shakamak races. The only contested race is District 2. Barber's record as a board member is described below; this guide found no public statements from Matthew W Hill."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Jeremiah Faulk",
+   "seat": "District 1, Lewis Twp",
+   "summary": "Incumbent board member and board secretary, listed as a Republican; he is the only candidate for District 1 {s_board}{in_list}. This guide believes he holds the District 1 seat but could not confirm it from a district record.",
+   "website": null,
+   "background": [
+    "Has been on the board since at least July 2024, when he first appears in the minutes as a board member {s_min_20240718}.",
+    "Elected board secretary in January 2026 and named secretary of the Board of Finance {s_min_20260115}."
+   ],
+   "path_to_ballot": [
+    "Listed as a Republican on the state list {in_list}. The Indiana Citizen's copy of the state list gives June 18, 2026 as his filing date {incitizen_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {s_board}. He made the June 18, 2026 motion to place the operating referendum on the ballot, which passed 4-1 {s_min_20260618}. On May 21, 2026 he voted for seeking bids for athletic training services, a motion that tied 2-2 {s_min_20260521}. He seconded the Nov. 13, 2025 additional appropriation resolution for the district's bond and the motion appointing Ian Matthews to the board {s_min_20251113}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "The minutes reviewed do not show how he joined the board in 2024 (election or appointment); the June 20, 2024 minutes were not in the district's archive.",
+    "No campaign website, social media page, news coverage or questionnaire was found.",
+    "Occupation and community roles could not be found.",
+    "No public statements on the referendum or other issues were found beyond his recorded votes.",
+    "No campaign finance reports were found."
+   ]
+  },
+  {
+   "ballot_name": "Braionna Marie Barber",
+   "seat": "District 2, Jasonville",
+   "summary": "Incumbent board president, listed as nonpartisan; she faces Matthew W Hill {s_board}{in_list}. This guide believes she holds the District 2 seat but could not confirm it from a district record.",
+   "website": null,
+   "background": [
+    "Joined the board in December 2022 {s_min_20221215}.",
+    "Was board secretary in 2024, according to the Greene County Daily World, and has been president of the Board of Finance in 2024, 2025 and 2026 {gcdw_2024}{s_min_20250116}{s_min_20260115}. Elected board president in January 2026 {s_min_20260115}."
+   ],
+   "path_to_ballot": [
+    "Listed without a party (nonpartisan) on the state list {in_list}. The Indiana Citizen's copy of the state list gives June 15, 2026 as her filing date {incitizen_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {s_board}. She voted for the June 18, 2026 referendum resolution, which passed 4-1, and signed the resolution as board president {s_min_20260618}{dlgf_s_res}. She moved the Nov. 13, 2025 final bond resolution {s_min_20251113}. She moved the August 2025 approval of the athletic training services contract, which passed 4-1, and on May 21, 2026 voted against seeking new bids for those services, a motion that tied 2-2 {s_min_20250821}{s_min_20260521}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign website, social media page, news coverage or questionnaire was found.",
+    "Occupation and community roles could not be found.",
+    "No public statements on the referendum or other issues were found beyond her recorded votes and board actions.",
+    "No campaign finance reports were found."
+   ]
+  },
+  {
+   "ballot_name": "Matthew W Hill",
+   "seat": "District 2, Jasonville",
+   "summary": "Challenger for the District 2 seat, listed as a Republican {in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed as a Republican on the state list {in_list}. The Indiana Citizen's copy of the state list gives June 8, 2026 as his filing date {incitizen_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "Board minutes show a 'Matt Hill' interviewed in public for a board vacancy on Oct. 23, 2025 (the board appointed Ian Matthews); this guide could not confirm that this is the same person as the candidate.",
+    "No campaign website, social media page, news coverage or questionnaire was found.",
+    "Occupation, community roles and ties to Shakamak schools could not be found.",
+    "No statements on the referendum, the current board's decisions or other issues were found.",
+    "No campaign finance reports were found."
+   ]
+  },
+  {
+   "ballot_name": "Jacob Fish",
+   "seat": "District 3, Wright Twp",
+   "summary": "Only candidate for the District 3 seat, listed as nonpartisan; he is not a current board member, and this guide believes the seat is open {in_list}{s_board}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed without a party (nonpartisan) on the state list {in_list}. The Indiana Citizen's copy of the state list gives June 16, 2026 as his filing date {incitizen_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign website, social media page, news coverage or questionnaire was found.",
+    "Occupation, community roles and ties to Shakamak schools could not be found.",
+    "No statements on the referendum, the current board's decisions or other issues were found.",
+    "No campaign finance reports were found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "incitizen_list": [
+   "2026 Indiana General Election School Board Candidate List",
+   "The Indiana Citizen",
+   "2026-08",
+   "https://indianacitizen.org/2026-indiana-general-election-school-board-candidate-list/"
+  ],
+  "s_home": [
+   "MSD of Shakamak (home page)",
+   "MSD of Shakamak",
+   "2026-10",
+   "https://www.shakamak.k12.in.us/"
+  ],
+  "s_board": [
+   "School Board Members",
+   "MSD of Shakamak",
+   "2026-10",
+   "https://www.shakamak.k12.in.us/page/schooll-board-members"
+  ],
+  "s_ref": [
+   "Referendum 2026 Information",
+   "MSD of Shakamak",
+   "2026-10",
+   "https://www.shakamak.k12.in.us/page/referendum-2026"
+  ],
+  "psr_shak": [
+   "MSD Shakamak Schools",
+   "Public School Review",
+   "2026-10",
+   "https://www.publicschoolreview.com/indiana/m-s-d-shakamak-schools-school-district/1810110-school-district"
+  ],
+  "dlgf_s_res": [
+   "Referendum Tax Levy Resolution (excerpts of June 18, 2026 minutes), No. 26-024",
+   "Indiana Department of Local Government Finance",
+   "2026-06-18",
+   "https://www.in.gov/dlgf/files/referendum-documentation2/2026-november-referendum-documents/26-024-Metropolitan-School-District-of-Shakamak-Operating-Resolution.pdf"
+  ],
+  "dlgf_s_det": [
+   "Findings and Final Determination on Proposed Question Submitted, No. 26-024-REF-A (MSD of Shakamak)",
+   "Indiana Department of Local Government Finance",
+   "2026-06",
+   "https://www.in.gov/dlgf/files/referendum-documentation2/2026-november-referendum-documents/26-024-Metropolitan-School-District-of-Shakamak-Operating-Determination.pdf"
+  ],
+  "dlgf_s_plan": [
+   "Proposed Revenue Spending Plan, MSD of Shakamak",
+   "Indiana Department of Local Government Finance",
+   "2026-06",
+   "https://www.in.gov/dlgf/files/referendum-documentation2/2026-november-referendum-documents/26-024-Metropolitan-School-District-of-Shakamak-Operating-Spending-Plan.pdf"
+  ],
+  "gcdw_2024": [
+   "MSD Shakamak elects new officers",
+   "Greene County Daily World",
+   "2024-01",
+   "https://www.suncommercial.com/gcdailyworld/archives/article_dfb72505-b59a-5d27-b71e-a3df1946784c.html"
+  ],
+  "s_min_20221117": [
+   "Minutes of the School Board Meeting, Nov. 17, 2022",
+   "MSD of Shakamak",
+   "2022-11-17",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/5776/Msds/e698da74-6bb4-40d6-9382-7db83a10f048/November-17th-2022.pdf"
+  ],
+  "s_min_20221215": [
+   "Minutes of the School Board Meeting, Dec. 15, 2022",
+   "MSD of Shakamak",
+   "2022-12-15",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/5776/Msds/e97a6c5b-590a-4812-b6da-b43b4b9a0d87/December-15th-2022.pdf"
+  ],
+  "s_min_20240613": [
+   "Minutes of the School Board Meeting, June 13, 2024",
+   "MSD of Shakamak",
+   "2024-06-13",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/5776/Msds/6fb0b8e8-71f9-4f8f-b64b-22874b2de7e3/June-13th%2C-2024.pdf"
+  ],
+  "s_min_20240718": [
+   "Minutes of the School Board Meeting, July 18, 2024",
+   "MSD of Shakamak",
+   "2024-07-18",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/5776/Msds/4fc127e4-1d2f-4f55-aafa-f5b4ed706b1d/July-18th%2C-2024.pdf"
+  ],
+  "s_min_20250116": [
+   "Minutes of the School Board Meeting, Jan. 16, 2025",
+   "MSD of Shakamak",
+   "2025-01-16",
+   "https://drive.google.com/file/d/1gSbVDp3306WxK_CsXv5RqIFBNCvDwLhE/view"
+  ],
+  "s_min_20250121": [
+   "Minutes of the School Board Meeting (special session), Jan. 21, 2025",
+   "MSD of Shakamak",
+   "2025-01-21",
+   "https://drive.google.com/file/d/17f6FNuvJYICBMwEpvEbY_3F-irG7JDne/view"
+  ],
+  "s_min_20250515": [
+   "Minutes of the School Board Meeting, May 15, 2025",
+   "MSD of Shakamak",
+   "2025-05-15",
+   "https://drive.google.com/file/d/1kNI4H8XQtNqrNqqrB9HFN5mtUzagPr31/view"
+  ],
+  "s_min_20250717": [
+   "Minutes of the School Board Meeting, July 17, 2025",
+   "MSD of Shakamak",
+   "2025-07-17",
+   "https://drive.google.com/file/d/14OzzadSblLAo1PqiBDUUlPD8kOuZXif6/view"
+  ],
+  "s_min_20250806": [
+   "Minutes of the School Board Meeting (special session), Aug. 6, 2025",
+   "MSD of Shakamak",
+   "2025-08-06",
+   "https://drive.google.com/file/d/1R9LRLfoapBY4HTMKpZnEDSft-Jp4Lyqu/view"
+  ],
+  "s_min_20250821": [
+   "Minutes of the School Board Meeting, Aug. 21, 2025",
+   "MSD of Shakamak",
+   "2025-08-21",
+   "https://drive.google.com/file/d/1tEr7yp6n22cHCDU9K3KvtA2g29C-ctRG/view"
+  ],
+  "s_min_20251113": [
+   "Minutes of the School Board Meeting (special session), Nov. 13, 2025",
+   "MSD of Shakamak",
+   "2025-11-13",
+   "https://drive.google.com/file/d/1oyLQ1t28qZT7jiKcI6a5V8T7reBgYUmb/view"
+  ],
+  "s_min_20260115": [
+   "Minutes of the School Board Meeting, Jan. 15, 2026",
+   "MSD of Shakamak",
+   "2026-01-15",
+   "https://docs.google.com/document/d/1ldZb0VZlRkwlYIiEXoIqqCn8SWDjmeeO/edit"
+  ],
+  "s_min_20260226": [
+   "Minutes of the School Board Meeting, Feb. 26, 2026",
+   "MSD of Shakamak",
+   "2026-02-26",
+   "https://docs.google.com/document/d/1FyXe9vdHJGhRip-8c-yJzwotWiE2312V/edit"
+  ],
+  "s_min_20260521": [
+   "Minutes of the School Board Meeting, May 21, 2026",
+   "MSD of Shakamak",
+   "2026-05-21",
+   "https://docs.google.com/document/d/1gady0RIzLDW9ooOtpQ7KEePeBMRwCCEY/edit"
+  ],
+  "s_min_20260618": [
+   "Minutes of the School Board Meeting, June 18, 2026",
+   "MSD of Shakamak",
+   "2026-06-18",
+   "https://docs.google.com/document/d/1l1KweiNNyIJBE6TOtG32apHVQYDceQAu/edit"
+  ],
+  "s_min_20260716": [
+   "Minutes of the School Board Meeting, July 16, 2026",
+   "MSD of Shakamak",
+   "2026-07-16",
+   "https://docs.google.com/document/d/1v2lO3yeDols6EhjpEBvhsEUB-PI5slj0/edit"
+  ],
+  "s_min_20260813": [
+   "Minutes of the School Board Meeting, Aug. 13, 2026",
+   "MSD of Shakamak",
+   "2026-08-13",
+   "https://docs.google.com/document/d/1eruIJOp6RcKYSbYg-OHgUfx45s5smH6-T3LFHDLZSDY/edit"
+  ],
+  "s_min_20260824": [
+   "Minutes of the School Board Meeting (special session), Aug. 24, 2026",
+   "MSD of Shakamak",
+   "2026-08-24",
+   "https://docs.google.com/document/d/1qp92hmXbrOF02bS09D_631GU_9s6WYWs/edit"
+  ],
+  "s_agenda_20260917": [
+   "Board Meeting Agenda, Sept. 17, 2026",
+   "MSD of Shakamak",
+   "2026-09-17",
+   "https://docs.google.com/document/d/1afgp059iUfJFf9XyUkd9hTg411HvCSwq/edit"
+  ],
+  "s_agenda_20261008": [
+   "Board Meeting Agenda, Oct. 8, 2026",
+   "MSD of Shakamak",
+   "2026-10-08",
+   "https://docs.google.com/document/d/1yNbgs4SX2a5uQLdzkAzcFJL_SbaYPm9Z/edit"
+  ]
+ }
+}

@@ -1,0 +1,174 @@
+{
+ "race_id": "in-school-board-sullivan-southwest",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The state list's 'Sullivan Southwest School Board' is the Southwest School Corporation (SWSC) in Sullivan County, which runs Carlisle Elementary and Carlisle Middle schools and Sullivan Elementary (with a preschool), Sullivan Middle and Sullivan High schools {in_list}{st_sep2026}. State enrollment counts were 1,800 students in 2023-24, 1,776 in 2024-25 and 1,785 in 2025-26 {idoe_enroll}. In August 2026 the district reported 217 students at the Carlisle schools and 1,542 at the Sullivan schools {st_aug2026}.",
+  "Superintendent: Chris Stitzle, with Assistant Superintendent Jon Stuckey {st_aug2026}{wtwo_stitzle}.",
+  "The board has five members. Those voting at the Sept. 16, 2026 meeting were Jon Bobbitt (president), Mike Eslinger, Jerry Wilson, Detrich Harris and Jaque Steele {st_aug2026}{st_sep2026}. Seats are staggered: two members were elected in 2018 and 2022 (Jerry D. Wilson and Michael J. Eslinger both times), and three in 2020 and 2024 (Jon H. Bobbitt, Leigh Detrich Harris and Jacqueline L. Steele in 2024) {enr_2018}{enr_2022}{enr_2020}{enr_2024}. This guide could not load the district's board page and did not find which townships each numbered district covers or whether all district voters vote in every race.",
+  "Seats on the 2026 ballot: District 1 and District 5, one seat each, matching the state list's 'vote for 1' and the two seats filled in 2022 {in_list}{enr_2022}. Wilson is running in District 5 against Derrick Demoss, who also ran against him in 2022 (Wilson 1,851 votes, DeMoss 1,461) {in_list}{enr_2022}. Eslinger, the other member elected in 2022, is not on the 2026 list, so District 1 appears to be an open seat contested by Colt Thompson and Melissa Stearley; this guide did not confirm which district Eslinger represents {in_list}{ic_list}.",
+  "Party labels: all four candidates filed without a party and are listed as Nonpartisan; 2026 is the first year Indiana school board candidates could list one {ic_list}{in_list}{st_party}.",
+  "Facilities (August 2026): at an Aug. 19, 2026 public hearing the board approved a lease/bond-financed project that includes four new primary classrooms, four new intermediate classrooms and a commons area and an expanded office at Sullivan Elementary, renovated PE and athletic locker rooms at Sullivan High School and other district-wide work. The district's municipal advisor said issuing the new bonds is not projected to raise the tax rate. No one from the public commented {st_aug2026}.",
+  "Budget (August–September 2026): the treasurer's report in August showed about $5.1 million in total cash, including $2.08 million in the Education Fund, $1.17 million in the Operations Fund and $1.48 million in the Rainy Day Fund {st_aug2026}. The board approved a 4% overall health insurance increase for 2026-27 and adopted the 2027 budget on Sept. 16, 2026 after a Sept. 2 hearing {st_aug2026}{st_sep2026}. This guide found no reporting on how the 2025 property-tax law SEA 1 affects SWSC, and no SWSC referendum.",
+  "Staffing and parent concerns (2026): the board held its required hearing on teacher collective bargaining on Aug. 19, 2026 {st_aug2026}. At the Sept. 16 meeting a parent raised transportation problems for a second time; Eslinger said administrators planned to review and adjust bus routes after fall break. Another parent spoke about tutoring and reading help {st_sep2026}.",
+  "Forums: this guide found no 2026 candidate forum, questionnaire or voter-guide entries for these races. The Sullivan Daily Times' 2026 coverage found by this guide did not cover the school board races."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Colt Thompson",
+   "seat": "District 1",
+   "summary": "Candidate for what appears to be an open seat; filed June 16, 2026 without a party {ic_list}{in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Filed June 16, 2026 without declaring a party; the state lists him as Nonpartisan {ic_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "Occupation, background and ties to the schools not found.",
+    "This guide found no news coverage, campaign website, social media page, forum appearance, questionnaire answers, endorsements or campaign finance reports for this candidate.",
+    "No public statements on budget, facilities or other district issues were found."
+   ]
+  },
+  {
+   "ballot_name": "Melissa Stearley",
+   "seat": "District 1",
+   "summary": "Candidate for what appears to be an open seat; filed June 17, 2026 without a party {ic_list}{in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Filed June 17, 2026 without declaring a party; the state lists her as Nonpartisan {ic_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "Occupation, background and ties to the schools not found.",
+    "This guide found no news coverage, campaign website, social media page, forum appearance, questionnaire answers, endorsements or campaign finance reports for this candidate.",
+    "No public statements on budget, facilities or other district issues were found."
+   ]
+  },
+  {
+   "ballot_name": "Derrick Demoss",
+   "seat": "District 5",
+   "summary": "Challenger; ran for the Southwest board in 2022 and lost to Jerry D. Wilson {enr_2022}{in_list}.",
+   "website": null,
+   "background": [
+    "Ran for the Southwest School Corporation board in 2022, receiving 1,461 votes to Wilson's 1,851 {enr_2022}."
+   ],
+   "path_to_ballot": [
+    "Filed June 1, 2026 without declaring a party; the state lists him as Nonpartisan {ic_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "Occupation, background and ties to the schools not found.",
+    "This guide found no news coverage, campaign website, social media page, forum appearance, questionnaire answers, endorsements or campaign finance reports for this candidate.",
+    "No public statements on the current board's decisions were found.",
+    "The 2022 results spell the name 'DeMoss'; the 2026 state list uses 'Demoss'."
+   ]
+  },
+  {
+   "ballot_name": "Jerry D. Wilson",
+   "seat": "District 5",
+   "summary": "Incumbent; elected to the board in 2018 and 2022 {enr_2018}{enr_2022}{st_sep2026}.",
+   "website": null,
+   "background": [
+    "Won Southwest board seats in 2018 and 2022 {enr_2018}{enr_2022}."
+   ],
+   "path_to_ballot": [
+    "Filed May 19, 2026 without declaring a party; the state lists him as Nonpartisan {ic_list}{in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Facilities",
+     "items": [
+      "At the Aug. 19, 2026 hearing he moved to approve the resolution for the lease-financed Sullivan Elementary and Sullivan High School project, which the board approved unanimously {st_aug2026}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member. In 2026 he made or seconded motions on the facilities project, fundraiser and field-trip requests and additions to the agenda, all approved {st_aug2026}{st_sep2026}. No statement from him on the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "Occupation and other background not found.",
+    "This guide found no campaign website, social media page, forum appearance, questionnaire answers, endorsements or campaign finance reports for him.",
+    "Search-result snippets from the district website (not verified; the page could not be loaded) said he has served about 20 years and has been board president and secretary."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "ic_list": [
+   "2026 Indiana General Election School Board Candidate List",
+   "The Indiana Citizen",
+   "2026-08-12",
+   "https://indianacitizen.org/2026-indiana-general-election-school-board-candidate-list/"
+  ],
+  "idoe_enroll": [
+   "Corporation Enrollment by Grade Level, 2006-26",
+   "Indiana Department of Education",
+   "2026",
+   "https://www.in.gov/doe/files/corporation-enrollment-grade-2006-26.xlsx"
+  ],
+  "st_aug2026": [
+   "SWSC school board plans for the future",
+   "Sullivan Daily Times",
+   "2026-08-28",
+   "https://www.suncommercial.com/sullivan_times/article_f8047c84-1cf3-5534-bc1a-b111fe2a05f4.html"
+  ],
+  "st_sep2026": [
+   "SWSC Board celebrates 25 year employee, Casey's Kicks donations",
+   "Sullivan Daily Times",
+   "2026-09-25",
+   "https://www.suncommercial.com/sullivan_times/article_19cbdff9-54bf-510d-bf3a-3eaac4180dee.html"
+  ],
+  "st_party": [
+   "Indiana school board candidates split 50-50 on affiliating with a party (Indiana Capital Chronicle, reprinted)",
+   "Sullivan Daily Times",
+   "2026-07-24",
+   "https://www.suncommercial.com/sullivan_times/article_7e233d98-1c32-5602-be51-a9a03bd9c323.html"
+  ],
+  "wtwo_stitzle": [
+   "Southwest School Corporation holds annual Stuff the Bus event",
+   "WTWO (via Yahoo News)",
+   "2025-07-28",
+   "https://www.yahoo.com/news/articles/southwest-school-corporation-holds-annual-234347074.html"
+  ],
+  "enr_2018": [
+   "Historical Election Results: Nov. 6, 2018 General Election, Sullivan County (School Board Member)",
+   "Indiana Election Division (IndianaVoters)",
+   "2018-11",
+   "https://indianavoters.in.gov/ENRHistorical/ElectionResults?year=2018"
+  ],
+  "enr_2020": [
+   "Historical Election Results: Nov. 3, 2020 General Election, Sullivan County (School Board Member)",
+   "Indiana Election Division (IndianaVoters)",
+   "2020-11",
+   "https://indianavoters.in.gov/ENRHistorical/ElectionResults?year=2020"
+  ],
+  "enr_2022": [
+   "Historical Election Results: Nov. 8, 2022 General Election, Sullivan County (School Board Member)",
+   "Indiana Election Division (IndianaVoters)",
+   "2022-11",
+   "https://indianavoters.in.gov/ENRHistorical/ElectionResults?year=2022"
+  ],
+  "enr_2024": [
+   "Historical Election Results: Nov. 5, 2024 General Election, Sullivan County (School Board Member)",
+   "Indiana Election Division (IndianaVoters)",
+   "2024-11",
+   "https://indianavoters.in.gov/ENRHistorical/ElectionResults?year=2024"
+  ]
+ }
+}
