@@ -176,6 +176,7 @@ SEAT_OVERRIDES = {
     "Mitchell Community School Board, District 2, Marion Township": 2,  # WBIW
     "Sheridan School Board, Adams Township (Hamilton, Boone)": 2,  # WFYI; 2022 Hamilton County ballot
     "Smith-Green School Board, At Large (Whitley, Noble)": 2,  # Whitley County candidate list
+    "Jackson Medora Community School Board, Seats 4 & 5": 2,  # office title names Seats 4 and 5
 }
 
 
