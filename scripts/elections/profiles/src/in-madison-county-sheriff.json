@@ -1,0 +1,128 @@
+{
+ "race_id": "in-madison-county-sheriff",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_sheriff",
+ "incumbent": {
+  "name": "John L. Beeman",
+  "party": "Republican",
+  "summary": "John Beeman, a Republican, has been Madison County sheriff since the end of December 2022 and is seeking a second consecutive term; he won the Republican nomination in the May 5, 2026 primary over three challengers {beeman_about} {mc_primary_2026} {wlbc_primary}.",
+  "record": [
+   "December 31, 2022: Beeman took office as sheriff after a 30-year career with the U.S. Marshals Service, according to his campaign {beeman_about}.",
+   "Office profile: the sheriff's department lists a jail built in 1984 with a capacity of 207 offenders and 45 jail officers, seven criminal investigators plus two Madison County Drug Task Force detectives, three full-time victim advocates, and a 450-square-mile patrol area {mcso_site}.",
+   "September 2025: Asked about holding people for U.S. Immigration and Customs Enforcement, Beeman told Woof Boom News that people are 'not held here solely for immigration'; he said they are typically arrested on local charges, and ICE is contacted before release only if the person shows up in the system as wanted for immigration violations {wb_ice}.",
+   "March 2026: Beeman's campaign described a new $110.5 million jail and the repurposing of the Madison County Community Corrections work-release center, and said he wants to 'consolidate and streamline jail operations for the 2030s and beyond' {beeman_continuity}.",
+   "First term, per his campaign: it lists completing 'Phase 2' of the new jail, jail mental-health and addiction treatment paid for with opioid settlement funds, 24-hour jail medical coverage, 12-hour jail shifts to reduce overtime, support for a 21% raise for merit deputies and a 22% raise for jail staff, full authorized staffing, a school resource officer for East Elementary School, five vehicles bought with non-taxpayer funds, and bullet-resistant windshields for patrol cars. These are the campaign's own claims {beeman_accomplish}.",
+   "April 2026: Beeman's campaign said arrests for violent and property crimes 'have fallen to levels not seen in many years' and that the department 'already operates on the leanest possible budget'; the post cites no figures or data source {beeman_safer}."
+  ]
+ },
+ "race_context": [
+  "Madison County (Anderson) elects its sheriff to four-year terms; Sheriff John Beeman, first elected in 2022, is running for a second consecutive term, so this is not an open seat {beeman_about} {wlbc_primary}.",
+  "In the May 5, 2026 Republican primary, official county results show Beeman with 3,991 votes (about 43%), Brian K. Bell 2,298, Kimberly Stigall 1,504 and Jonathan Culp 1,384 {mc_primary_2026}.",
+  "In the Democratic primary, Anderson Police Assistant Chief Norman Rayford Jr. received 3,701 votes (about 54%) to Dennis Watson's 3,171 {mc_primary_2026}.",
+  "WLBC reported that a Beeman win would make him the first Republican to win two consecutive terms as Madison County sheriff since John Gunter, elected in 1970 and 1974 {wlbc_primary}.",
+  "Issues for the office include the move from the 1984 jail (rated for 207) to a new jail, jail staffing and pay, and the county budget; Beeman's campaign says it expects falling county tax revenue in 2027 {mcso_site} {beeman_continuity} {beeman_finish}.",
+  "Both nominees are career law-enforcement officers: Beeman in federal service before becoming sheriff, Rayford with the Anderson Police Department since the late 1990s {beeman_about} {apd_staff}.",
+  "No general-election candidate forum or debate for this race was found in the sources reviewed."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "John L Beeman",
+   "summary": "John Beeman is the Republican incumbent sheriff, in office since December 2022, after a 30-year career with the U.S. Marshals Service; he won a four-way Republican primary in May 2026 {beeman_about} {mc_primary_2026}.",
+   "website": "https://beemanforsheriff.com/",
+   "background": [
+    "Madison County sheriff since December 31, 2022 {beeman_about}.",
+    "His campaign says he served in the U.S. Army from 1984 to 1988, graduated from Ball State University, and spent 30 years with the U.S. Marshals Service, including as supervisory inspector over the Great Lakes Regional Fugitive Task Force in Indianapolis from 2007 {beeman_about}.",
+    "Co-owner of Gunslingers, a gun shop in Anderson {wb_gunshop}."
+   ],
+   "path_to_ballot": [
+    "Won the Republican nomination in the May 5, 2026 primary with 3,991 votes, ahead of Brian K. Bell (2,298), Kimberly Stigall (1,504) and Jonathan Culp (1,384) {mc_primary_2026}."
+   ],
+   "positions": [
+    {"topic": "Jail & corrections", "items": [
+     "Says his federal experience in jail operations, judicial security and prisoner operations will help ensure a safe transition to the new jail; plans to consolidate and streamline jail operations and repurpose the community corrections work-release center {beeman_continuity}.",
+     "Lists opioid-settlement-funded mental-health and addiction treatment in the jail and 24-hour jail medical coverage among his first-term steps {beeman_accomplish}."
+    ]},
+    {"topic": "Staffing & pay", "items": [
+     "Says he will keep pressing to make pay competitive so trained jail staff and experienced merit deputies are not lost to nearby cities and counties that pay more {beeman_finish}.",
+     "Cites support for raises of 21% (merit deputies) and 22% (jail staff) and moving jail staff to 12-hour shifts to reduce overtime {beeman_accomplish}."
+    ]},
+    {"topic": "Budget", "items": [
+     "Says he will prepare for expected falling county tax revenue in 2027 and keep urging the county council to prioritize public-safety funding {beeman_finish}.",
+     "Says 'every dollar of the Sheriff's budget is voted on and approved by the County Council' {beeman_safer}."
+    ]},
+    {"topic": "Immigration enforcement", "items": [
+     "Said people are not held in the county jail solely for immigration status; ICE is contacted before release only when someone is listed as wanted for immigration violations {wb_ice}."
+    ]},
+    {"topic": "School safety", "items": [
+     "Lists adding a school resource officer for East Elementary School {beeman_accomplish}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Is the current officeholder.",
+    "His campaign refers to 'a two-year crime surge from 2018 to 2022 during the previous Sheriff's administration'; it does not cite figures {beeman_safer}.",
+    "No statements by Beeman about his general-election opponent were found."
+   ],
+   "plans": [
+    "Finish modernizing the department, carry out the plan for the new jail once completed, and continue consolidating jail staff {beeman_finish} {beeman_continuity}."
+   ],
+   "endorsements_finance": [
+    "His campaign says his endorsements 'come from all walks of life' but does not name endorsers {beeman_endorse}."
+   ],
+   "gaps": [
+    "No campaign finance totals were found; Madison County's website does not post candidate finance reports.",
+    "Beeman's campaign site describes him in different places as the first Republican sheriff since 1978 (search snippet only) and since 1982 (About page); WLBC frames it as the first Republican to win consecutive terms since 1970/1974. Not reconciled.",
+    "Current status of the new jail (opening date, final bed count) was not confirmed from a free source; search snippets from syndicated articles mention a 525-bed facility and a September 2026 completion target, unverified.",
+    "Search snippets (unverified) said Beeman requested funding for six correctional officers in 2024 and six in 2025 and that both requests were cut by the county council, and that the jail held six ICE detainees in 2025; the underlying articles are Herald Bulletin content and were not used.",
+    "No 287(g) agreement was found in the sources reviewed.",
+    "His 2022 general-election vote totals were not retrieved.",
+    "Herald Bulletin coverage of the race is paywalled and was not used."
+   ]
+  },
+  {
+   "ballot_name": "Norman Rayford, Jr",
+   "summary": "Norman Rayford Jr. is assistant chief of the Anderson Police Department, where he has served for more than two decades; he won the Democratic nomination in May 2026 over Dennis Watson {apd_staff} {mc_primary_2026}.",
+   "website": null,
+   "background": [
+    "Assistant chief (Uniform Division) of the Anderson Police Department since April 4, 2022, overseeing patrol personnel, the crash team, K9 units and SWAT {apd_staff}.",
+    "Has served with the Anderson Police Department for more than 23 years, with assignments in community policing, the traffic division, the criminal investigation division and as a shift sergeant; named Law Enforcement Officer of the Year in 2017 {apd_staff}."
+   ],
+   "path_to_ballot": [
+    "Won the Democratic nomination in the May 5, 2026 primary with 3,701 votes to Dennis Watson's 3,171 {mc_primary_2026}.",
+    "Told the Oldies 101 program 'Anderson Talks' that he had bipartisan encouragement to enter the primary {wb_rayford}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements by Rayford about Sheriff Beeman's record were found in the free sources reviewed."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "Coverage of Rayford's platform is thin in free sources; no campaign website was found, and the Civoren profile lists no positions.",
+    "Search snippets of a syndicated Herald Bulletin article (not used) said Rayford wants the department to be more open with the public, said some past cases 'were not handled appropriately,' and wants to upgrade vehicles and address budget issues tied to the new jail; unverified.",
+    "Search snippets (unverified) said he has been with the Anderson Police Department since 1999 and served as president of Fraternal Order of Police Local 48; the department page reviewed did not mention the FOP role.",
+    "The 'Anderson Talks' interview audio (about March 30, 2026) was not reviewed.",
+    "No campaign finance totals were found; Madison County's website does not post candidate finance reports."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "mc_primary_2026": ["Summary Results Report, Primary Election, May 5, 2026 (Official Results)", "Madison County, Indiana", "2026-05-15", "https://3f7b7403-237b-4e7e-b745-d54981035e27.usrfiles.com/ugd/5a2bef_017334634a8f44d8986e4b2fddfcf5a0.pdf"],
+  "wlbc_primary": ["Indiana Primary Results, and More Local Impact News, 05/06/26", "WLBC (Woof Boom Radio)", "2026-05-06", "https://www.wlbc.com/2026/05/06/indiana-primary-results-and-more-local-impact-news-05-06-26/"],
+  "wb_rayford": ["Woof Boom Radio News local news page (Rayford on 'Anderson Talks')", "Woof Boom Radio News", "2026-04", "https://www.woofboomnews.com/2026/04/how-is-the-date-for-easter-determined-an-astronomer-explains/"],
+  "apd_staff": ["Executive Staff", "City of Anderson Police Department", "2026-10", "https://www.cityofandersonpolice.com/executive-staff"],
+  "mcso_site": ["Sheriff's Office", "Madison County Sheriff's Department", "2026-10", "https://www.sheriffofmadisoncounty.com/sheriff-office"],
+  "wb_ice": ["Madison County Jail ICE Detainees", "Woof Boom Radio News", "2025-09-26", "https://www.woofboomnews.com/2025/09/madison-county-jail-ice-detainees/"],
+  "wb_gunshop": ["Driver Crashes Into Gun Store Owned By Sheriff In Apparent Attempted Robbery", "Woof Boom Radio News", "2025-03-12", "https://www.woofboomnews.com/2025/03/driver-crashes-into-gun-store-onwed-by-sheriff-in-apparent-attempted-robbery/"],
+  "beeman_about": ["About Sheriff Beeman", "Committee to Elect John Beeman (campaign)", "2026-10", "https://beemanforsheriff.com/about-sheriff-beeman/"],
+  "beeman_accomplish": ["First-Term Accomplishments", "Committee to Elect John Beeman (campaign)", "2026-10", "https://beemanforsheriff.com/first-term-accomplishments/"],
+  "beeman_finish": ["Let's Finish the Job", "Committee to Elect John Beeman (campaign)", "2026-10", "https://beemanforsheriff.com/lets-finish-the-job/"],
+  "beeman_continuity": ["Continuity of Service", "Committee to Elect John Beeman (campaign)", "2026-03-19", "https://beemanforsheriff.com/continuity-of-service/"],
+  "beeman_safer": ["Safer with Beeman", "Committee to Elect John Beeman (campaign)", "2026-04-20", "https://beemanforsheriff.com/safer-with-beeman-2/"],
+  "beeman_endorse": ["My Greatest Endorsement", "Committee to Elect John Beeman (campaign)", "2026-05-03", "https://beemanforsheriff.com/my-greatest-endorsement/"]
+ }
+}

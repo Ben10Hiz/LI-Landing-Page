@@ -1,0 +1,286 @@
+{
+ "race_id": "in-prosecuting-attorney-of-laporte-county-32nd-judicial-circuit",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_prosecutor",
+ "incumbent": {
+  "name": "Sean Fagan",
+  "party": "Republican",
+  "summary": "Sean Fagan, a Republican, has been La Porte County prosecutor since January 1, 2023, after defeating then-Prosecutor John Lake in 2022; he sought a second term but lost the May 5, 2026 Republican primary to his former chief deputy, Chuck Watterson IV, so the seat will change hands in January 2027 {hnn_chief_deputy_2022} {lp_general_2022} {hnn_fagan_reelect} {lp_primary_2026}.",
+  "record": [
+   "November 8, 2022: Fagan defeated Democratic incumbent John Lake 16,350 votes (51.46%) to 15,425 (48.54%) {lp_general_2022}. Fagan credited rising crime and 'last minute things that came up in this race' {hnn_lake_loses}.",
+   "November 2022: Before taking office, Fagan named attorney Chuck Watterson his chief deputy prosecutor and said he expected most deputy prosecutors to stay on, citing five murder cases expected to go to trial {hnn_chief_deputy_2022}.",
+   "January 2026: Fagan named county attorney Guy DiMartino chief deputy prosecutor, replacing Watterson, who had announced a run for prosecutor; DiMartino kept his county attorney duties {hnn_dimartino}.",
+   "February 2026: Fagan announced he would seek a second term {hnn_fagan_reelect}.",
+   "May 2026: During the primary, Fagan said the county has 'invested heavily in law enforcement in terms of technology training, new pieces of equipment,' which he said helps police build cases faster and more thoroughly {abc57_primary}.",
+   "May 5, 2026: Fagan lost the Republican primary, 2,571 votes (41.45%) to Watterson's 3,631 (58.55%) {lp_primary_2026}."
+  ]
+ },
+ "race_context": [
+  "The prosecutor for the 32nd Judicial Circuit (La Porte County) is elected to a four-year term. Incumbent Sean Fagan lost the Republican primary, so the next prosecutor will be either his former chief deputy or the prosecutor he unseated in 2022 {lp_primary_2026} {lp_general_2022}.",
+  "Republican primary, May 5, 2026: Chuck Watterson IV 3,631 (58.55%), Sean Fagan 2,571 (41.45%). John Lake was unopposed for the Democratic nomination with 4,823 votes {lp_primary_2026} {wsbt_primary}.",
+  "Both nominees have worked in the office: Lake was prosecutor from 2019 through 2022, and Watterson was a deputy prosecutor under Lake and chief deputy under Fagan until December 2025 {hnn_watterson_nom} {hnn_sound_off} {hnn_dimartino}.",
+  "Pre-primary campaign finance reports (Jan. 1–Apr. 10, 2026) show Fagan raised $32,107.69, Lake $15,000 and Watterson $8,861.90 {fin_fagan} {fin_lake} {fin_watterson}.",
+  "No candidate forum or debate coverage from a free source was found for this race."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Chuck Watterson, IV",
+   "summary": "Chuck Watterson IV is a La Porte attorney who served as a deputy prosecutor under John Lake and as chief deputy prosecutor under Sean Fagan from January 2023 to December 2025; he defeated Fagan in the May 2026 Republican primary {hnn_watterson_nom} {hnn_dimartino} {lp_primary_2026}.",
+   "website": null,
+   "background": [
+    "Earned his law degree from Valparaiso University School of Law in 2017 and has practiced in La Porte as both a prosecutor and a defense attorney {hnn_judge_2024}.",
+    "Was a deputy prosecutor under Prosecutor John Lake and chief deputy prosecutor under Prosecutor Sean Fagan until December 2025 {hnn_watterson_nom} {hnn_dimartino}.",
+    "Was practicing in Michigan City, prosecuting and defending criminal cases, when Fagan named him chief deputy in November 2022 {hnn_chief_deputy_2022}.",
+    "Former president of the La Porte County Election Board {lp_eb_letter} {hnn_judge_2024}.",
+    "Sought the Republican nomination for La Porte Circuit Court judge in the 2024 primary {hnn_judge_2024}."
+   ],
+   "path_to_ballot": [
+    "Won the Republican nomination on May 5, 2026, defeating incumbent Sean Fagan 3,631 to 2,571 {lp_primary_2026}. He said afterward, 'I wanted the people of La Porte County to pick who was best for the job' {hnn_watterson_nom}."
+   ],
+   "positions": [
+    {
+     "topic": "Charging priorities",
+     "items": [
+      "Says he wants to make people think twice before committing crimes in La Porte County, and said 'it's too easy to be a defense attorney in LaPorte county right now' {abc57_primary}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "During the primary, Watterson emphasized his own trial experience and, as Hometown News Now reported, Fagan's lack of it {hnn_watterson_nom}.",
+    "No statements by Watterson about John Lake's tenure were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "Pre-primary report (Jan. 1–Apr. 10, 2026): raised $8,861.90, spent $7,046.66, ended with $1,815.24 on hand {fin_watterson}.",
+    "No endorsements were found in free sources."
+   ],
+   "gaps": [
+    "No campaign website or detailed platform (caseloads, diversion, staffing) was found in free sources.",
+    "The outcome of his 2024 circuit court judge primary bid was not confirmed.",
+    "Why he left the chief deputy post in December 2025 was not stated in the coverage reviewed.",
+    "La Porte County Herald-Dispatch coverage (including a League of Women Voters forum article and a primary results article) is paywalled and was not used.",
+    "No post-primary finance report was reviewed.",
+    "Search snippets (unverified, paywalled Herald-Dispatch) said all three primary candidates appeared at a League of Women Voters forum on March 19, 2026; their answers were not reviewed."
+   ]
+  },
+  {
+   "ballot_name": "John Lake",
+   "summary": "John Lake is a La Porte attorney and Democrat who was La Porte County prosecutor from 2019 through 2022, losing a re-election bid to Sean Fagan; he was unopposed for the Democratic nomination in 2026 {hnn_sound_off} {hnn_lake_loses} {lp_primary_2026}.",
+   "website": null,
+   "background": [
+    "Elected La Porte County prosecutor in 2018 and served one term {hnn_sound_off} {hnn_lake_loses}.",
+    "Lost re-election in November 2022 to Sean Fagan, 15,425 votes (48.54%) to 16,350 (51.46%) {lp_general_2022}; afterward he said he planned to open a private law practice {hnn_lake_loses}.",
+    "As prosecutor in 2021, discussed the office's work and reform efforts, cannabis legalization, sentencing rules and racial equity in the criminal justice system on a local radio program; the program page does not detail his positions {hnn_sound_off}."
+   ],
+   "path_to_ballot": [
+    "Unopposed for the Democratic nomination on May 5, 2026, receiving 4,823 votes {lp_primary_2026}.",
+    "Announced in February 2026 that he would seek the Democratic nomination {hnn_fagan_reelect}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "After his 2022 loss, Lake attributed the result largely to the national political climate and straight-party voting {hnn_lake_loses}.",
+    "No 2026 statements by Lake about Fagan's or Watterson's records were found in free sources."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "Pre-primary report (Jan. 1–Apr. 10, 2026): $15,000 in itemized receipts and no expenditures reported {fin_lake}.",
+    "No endorsements were found in free sources."
+   ],
+   "gaps": [
+    "No campaign website or 2026 platform was found in free sources.",
+    "Lake's pre-primary report lists $15,000 in receipts and no expenditures but shows $0 cash on hand; the contributor on the scanned schedule was not legible. Not reconciled.",
+    "Hometown News Now reported in May 2026 that Lake, 'questioning Fagan's ability to be prosecutor asked people to vote for Watterson'; the sentence is garbled and its context (timing, audience) is unclear, so it is not used above.",
+    "Lake was appointed to the La Porte County Election Board in 2024 (reported in an article held for review); whether he still serves was not confirmed.",
+    "His years of legal practice and earlier career before 2018 were not confirmed from a source used here.",
+    "La Porte County Herald-Dispatch coverage is paywalled and was not used.",
+    "Search snippets (unverified, paywalled Herald-Dispatch) said all three primary candidates appeared at a League of Women Voters forum on March 19, 2026; their answers were not reviewed."
+   ]
+  }
+ ],
+ "review_flags": [
+  {
+   "person": "Sean Fagan",
+   "category": "lawsuit",
+   "status": "held",
+   "summary": "January 2023: Two former employees of the prosecutor's office under John Lake, Nancy Hawkins and investigator Anthony McClintock, sued Fagan in federal court in Hammond, alleging they were fired for supporting Lake in the 2022 campaign in violation of the First Amendment, and seeking at least $500,000 each plus reinstatement. Fagan said he could not respond while the case was pending {hnn_fed_suit}.",
+   "note": "Outcome of the suit was not found."
+  },
+  {
+   "person": "Sean Fagan",
+   "category": "lawsuit",
+   "status": "held",
+   "summary": "June 2023: With backing from the Indiana attorney general's office, Fagan sued the La Porte County commissioners for access to all emails from John Lake's final year in office and four staff members; the suit argued refusal amounted to official misconduct. Lake moved to intervene, saying personal records are excluded and some emails are privileged, and warned against 'unfettered access' {mnc_email} {hnn_email_lake}.",
+   "note": "Involves both the incumbent and nominee Lake; outcome not found."
+  },
+  {
+   "person": "Sean Fagan",
+   "category": "misconduct allegation",
+   "status": "held",
+   "summary": "September 2024: County Commission President Connie Gramarossa questioned Fagan's use of a county credit card (about $260) for a party for staff members' children at his office during business hours and said the matter would be reviewed. Fagan said he reimbursed the county with personal funds about a week later and that 'no public funds were used' {hnn_party}.",
+   "note": "No final finding was reported."
+  },
+  {
+   "person": "Sean Fagan",
+   "category": "other",
+   "status": "held",
+   "summary": "September 2026: A reported plea offer to a man charged with shooting La Porte County Deputy Jon Samuelson would drop weapon enhancements. The sheriff's office called it 'unfathomable' and asked that it be withdrawn; FOP Dunes Lodge #75 and the Indiana State Police FOP objected; the deputy's family said they opposed it and attributed a remark to Fagan. Fagan said he could not comment beyond the public record and appreciated public feedback {hnn_plea} {wsbt_plea}.",
+   "note": "Office-level charging decision with a disputed remark attributed by the family; no judge had ruled as of mid-September 2026. Candidates' reactions not found."
+  },
+  {
+   "person": "John Lake",
+   "category": "lawsuit",
+   "status": "held",
+   "summary": "October 2021: While prosecutor, Lake filed a defamation suit in Starke Circuit Court against former Michigan City Mayor Ron Meer and the city, over Meer's 2019 claims that Lake's office targeted Meer's stepson for arrest before the election. Lake said 'what he said was a lie' and called the suit a matter of protecting his reputation {hnn_meer_suit}.",
+   "note": "Outcome of the suit was not found."
+  },
+  {
+   "person": "John Lake",
+   "category": "other",
+   "status": "held",
+   "summary": "June 2024: After Lake was appointed to the La Porte County Election Board, former city councilman Gautama Logwood raised an 'appearance of impropriety' tied to his complaint that a Democratic club that gave Lake's 2022 campaign $1,500 had not filed PAC paperwork. Lake said he would have another person sit in during that complaint and said, 'I've been an attorney for 33 years and I'm very well aware of what my ethical obligations are' {hnn_logwood}.",
+   "note": "Complaint concerns the club; outcome not found."
+  }
+ ],
+ "sources": {
+  "lp_primary_2026": [
+   "Election Summary Report, 2026 Primary Election",
+   "La Porte County, Indiana",
+   "2026-05-06",
+   "https://laporteco.in.gov/wp-content/uploads/2026/05/INLAPP26_ElectionSummary.pdf"
+  ],
+  "lp_general_2022": [
+   "Election Summary Report, 2022 General Election",
+   "La Porte County, Indiana",
+   "2022-11-08",
+   "https://laporteco.in.gov/wp-content/uploads/2022/11/20221108211013.pdf"
+  ],
+  "wsbt_primary": [
+   "Chuck Watterson wins Republican nomination for LaPorte County Prosecutor",
+   "WSBT 22",
+   "2026-05-05",
+   "https://wsbt.com/news/local/chuck-watterson-wins-republican-nomination-for-laporte-county-prosecutor-democrat-john-lake-november-challenger-sean-fagan-defeated-laporte-county-indiana"
+  ],
+  "hnn_watterson_nom": [
+   "Watterson Gains GOP Nomination for Prosecutor",
+   "Hometown News Now",
+   "2026-05-06",
+   "https://hometownnewsnow.com/local-news/915365/watterson-gains-gop-nomination-for-prosecutor"
+  ],
+  "abc57_primary": [
+   "YOUR VOICE, YOUR VOTE: Tracking La Porte County prosecutor primary election",
+   "ABC57",
+   "2026-05-05",
+   "https://www.abc57.com/news/your-voice-your-vote-tracking-local-prosecutor-primary-election-results"
+  ],
+  "hnn_fagan_reelect": [
+   "Prosecutor Seeking Reelection",
+   "Hometown News Now",
+   "2026-02-09",
+   "https://hometownnewsnow.com/local-news/903366/prosecutor-seeking-reelection"
+  ],
+  "hnn_dimartino": [
+   "County Attorney Named Chief Deputy Prosecutor",
+   "Hometown News Now",
+   "2026-01-08",
+   "https://hometownnewsnow.com/local-news/897393/county-attorney-named-chief-deputy-prosecutor"
+  ],
+  "hnn_chief_deputy_2022": [
+   "Incoming Prosecutor Names Chief Deputy",
+   "Hometown News Now",
+   "2022-11-14",
+   "https://hometownnewsnow.com/local-news/662133"
+  ],
+  "hnn_lake_loses": [
+   "Prosecutor Loses Reelection Bid",
+   "Hometown News Now",
+   "2022-11-09",
+   "https://hometownnewsnow.com/local-news/661493"
+  ],
+  "hnn_judge_2024": [
+   "Judge is Candidate's Dream Job",
+   "Hometown News Now",
+   "2024-01-18",
+   "https://hometownnewsnow.com/local-news/724915/judge-is-candidate-s-dream-job"
+  ],
+  "hnn_sound_off": [
+   "The SOUND OFF Podcast: John Lake",
+   "Hometown News Now",
+   "2021-05-03",
+   "https://hometownnewsnow.com/local-news/569416"
+  ],
+  "lp_eb_letter": [
+   "Letter from Chuck Watterson, La Porte County Election Board President (2022 primary)",
+   "La Porte County, Indiana",
+   "2022-05",
+   "https://laporteco.in.gov/Elections/ElectionResults/2022Primary/Letter-from-Chuck-Watterson.pdf"
+  ],
+  "fin_lake": [
+   "Committee to Elect John Lake Prosecutor, CFA-4 pre-primary report",
+   "La Porte County Election Board",
+   "2026-04-15",
+   "https://laporteco.in.gov/wp-content/uploads/2026/04/John-Lake-1.pdf"
+  ],
+  "fin_watterson": [
+   "Watterson for Prosecutor, CFA-4 pre-primary report",
+   "La Porte County Election Board",
+   "2026-04",
+   "https://laporteco.in.gov/wp-content/uploads/2026/04/Chuck-Watterson-1.pdf"
+  ],
+  "fin_fagan": [
+   "Fagan For Prosecutor, CFA-4 pre-primary report",
+   "La Porte County Election Board",
+   "2026-04",
+   "https://laporteco.in.gov/wp-content/uploads/2026/04/Sean-Fagan-1.pdf"
+  ],
+  "hnn_plea": [
+   "Plea Agreement Reportedly Offered in Officer Shooting",
+   "Hometown News Now",
+   "2026-09-14",
+   "https://hometownnewsnow.com/local-news/931833"
+  ],
+  "wsbt_plea": [
+   "Family reacting to reported plea deal for man charged with shooting LaPorte County Deputy",
+   "WSBT 22",
+   "2026-09-14",
+   "https://wsbt.com/newsletter-daily/family-react-to-reported-plea-deal-in-man-charged-with-shooting-laporte-county-deputy-samuelson-backlash-prosecutor-charges-michigan-city-hospital-may-sentence-weapon-enhancement-laporte-county-indiana"
+  ],
+  "hnn_fed_suit": [
+   "Federal Lawsuit Against New Prosecutor",
+   "Hometown News Now",
+   "2023-01-25",
+   "https://hometownnewsnow.com/local-news/672444"
+  ],
+  "mnc_email": [
+   "Indiana AG's office files lawsuit in LaPorte County email spat",
+   "95.3 MNC",
+   "2023-06-21",
+   "https://www.953mnc.com/2023/06/21/indiana-ags-office-files-lawsuit-in-laporte-email-spat/"
+  ],
+  "hnn_email_lake": [
+   "Former Prosecutor Fighting Email Request",
+   "Hometown News Now",
+   "2023-06-16",
+   "https://hometownnewsnow.com/local-news/694124"
+  ],
+  "hnn_party": [
+   "More Details in Prosecutor's Children's Office Party",
+   "Hometown News Now",
+   "2024-09-06",
+   "https://hometownnewsnow.com/local-news/758935/more-details-in-prosecutor-s-children-s-office-party"
+  ],
+  "hnn_meer_suit": [
+   "Prosecutor Responds to Suing Former Mayor",
+   "Hometown News Now",
+   "2021-10-12",
+   "https://hometownnewsnow.com/local-news/598491"
+  ],
+  "hnn_logwood": [
+   "Ethical Questions Raised Over New Election Board Member",
+   "Hometown News Now",
+   "2024-06-26",
+   "https://hometownnewsnow.com/local-news/749224/ethical-questions-raised-over-new-election-board-member"
+  ]
+ }
+}

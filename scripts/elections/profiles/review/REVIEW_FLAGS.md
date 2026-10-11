@@ -90,6 +90,40 @@ Sensitive items held for a second, careful editorial pass (criminal cases, misco
   - [Southport police chief reinstated after discord with mayor](https://mirrorindy.org/southport-police-chief-reinstated-after-discord-with-mayor/) — WISH-TV (via Mirror Indy), 2024-08-16
   - [Longtime Southport police chief announces campaign for Marion County sheriff](https://fox59.com/news/longtime-southport-police-chief-announces-campaign-for-marion-county-sheriff/amp/) — FOX59, 2026-07
 
+## Indiana Prosecuting Attorney (`in-prosecuting-attorney-of-laporte-county-32nd-judicial-circuit`)
+
+- **Sean Fagan** — lawsuit — _held_
+  January 2023: Two former employees of the prosecutor's office under John Lake, Nancy Hawkins and investigator Anthony McClintock, sued Fagan in federal court in Hammond, alleging they were fired for supporting Lake in the 2022 campaign in violation of the First Amendment, and seeking at least $500,000 each plus reinstatement. Fagan said he could not respond while the case was pending.
+  Note: Outcome of the suit was not found.
+  - [Federal Lawsuit Against New Prosecutor](https://hometownnewsnow.com/local-news/672444) — Hometown News Now, 2023-01-25
+
+- **Sean Fagan** — lawsuit — _held_
+  June 2023: With backing from the Indiana attorney general's office, Fagan sued the La Porte County commissioners for access to all emails from John Lake's final year in office and four staff members; the suit argued refusal amounted to official misconduct. Lake moved to intervene, saying personal records are excluded and some emails are privileged, and warned against 'unfettered access' .
+  Note: Involves both the incumbent and nominee Lake; outcome not found.
+  - [Indiana AG's office files lawsuit in LaPorte County email spat](https://www.953mnc.com/2023/06/21/indiana-ags-office-files-lawsuit-in-laporte-email-spat/) — 95.3 MNC, 2023-06-21
+  - [Former Prosecutor Fighting Email Request](https://hometownnewsnow.com/local-news/694124) — Hometown News Now, 2023-06-16
+
+- **Sean Fagan** — misconduct allegation — _held_
+  September 2024: County Commission President Connie Gramarossa questioned Fagan's use of a county credit card (about $260) for a party for staff members' children at his office during business hours and said the matter would be reviewed. Fagan said he reimbursed the county with personal funds about a week later and that 'no public funds were used'.
+  Note: No final finding was reported.
+  - [More Details in Prosecutor's Children's Office Party](https://hometownnewsnow.com/local-news/758935/more-details-in-prosecutor-s-children-s-office-party) — Hometown News Now, 2024-09-06
+
+- **Sean Fagan** — other — _held_
+  September 2026: A reported plea offer to a man charged with shooting La Porte County Deputy Jon Samuelson would drop weapon enhancements. The sheriff's office called it 'unfathomable' and asked that it be withdrawn; FOP Dunes Lodge #75 and the Indiana State Police FOP objected; the deputy's family said they opposed it and attributed a remark to Fagan. Fagan said he could not comment beyond the public record and appreciated public feedback .
+  Note: Office-level charging decision with a disputed remark attributed by the family; no judge had ruled as of mid-September 2026. Candidates' reactions not found.
+  - [Plea Agreement Reportedly Offered in Officer Shooting](https://hometownnewsnow.com/local-news/931833) — Hometown News Now, 2026-09-14
+  - [Family reacting to reported plea deal for man charged with shooting LaPorte County Deputy](https://wsbt.com/newsletter-daily/family-react-to-reported-plea-deal-in-man-charged-with-shooting-laporte-county-deputy-samuelson-backlash-prosecutor-charges-michigan-city-hospital-may-sentence-weapon-enhancement-laporte-county-indiana) — WSBT 22, 2026-09-14
+
+- **John Lake** — lawsuit — _held_
+  October 2021: While prosecutor, Lake filed a defamation suit in Starke Circuit Court against former Michigan City Mayor Ron Meer and the city, over Meer's 2019 claims that Lake's office targeted Meer's stepson for arrest before the election. Lake said 'what he said was a lie' and called the suit a matter of protecting his reputation.
+  Note: Outcome of the suit was not found.
+  - [Prosecutor Responds to Suing Former Mayor](https://hometownnewsnow.com/local-news/598491) — Hometown News Now, 2021-10-12
+
+- **John Lake** — other — _held_
+  June 2024: After Lake was appointed to the La Porte County Election Board, former city councilman Gautama Logwood raised an 'appearance of impropriety' tied to his complaint that a Democratic club that gave Lake's 2022 campaign $1,500 had not filed PAC paperwork. Lake said he would have another person sit in during that complaint and said, 'I've been an attorney for 33 years and I'm very well aware of what my ethical obligations are'.
+  Note: Complaint concerns the club; outcome not found.
+  - [Ethical Questions Raised Over New Election Board Member](https://hometownnewsnow.com/local-news/749224/ethical-questions-raised-over-new-election-board-member) — Hometown News Now, 2024-06-26
+
 ## Indiana School Board Member (`in-school-board-elkhart-goshen`)
 
 - **Allan Kauffman, Mario Garber, José Elizalde, Roger Nafziger (board members, not on the ballot)** — criminal case — _held_
