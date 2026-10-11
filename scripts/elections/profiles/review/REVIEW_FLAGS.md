@@ -116,6 +116,13 @@ Sensitive items held for a second, careful editorial pass (criminal cases, misco
   Note: The same WFYI article says she was director of schools for the Indiana Charter School Board.
   - [Pike Township school board candidate arrested, faces felony charge](https://www.wfyi.org/education/2026-10-08/pike-township-school-board-candidate-arrested-faces-felony-charge) — WFYI, 2026-10-08
 
+## Indiana School Board Member (`in-school-board-miami-peru`)
+
+- **George Morris** — personnel action — _held_
+  The Kokomo Tribune reported on April 11, 2025 that George Morris, of Peru, the former IT director of Peru Community Schools, sued the district and Superintendent Trent McCormick in federal court, saying he was fired on Nov. 20, 2024 in retaliation for displaying a pro-Trump flag on his vehicle on school property and for pulling playground video of an altercation involving his granddaughter. McCormick told the Tribune the termination was for performance issues, said Morris admitted accessing and distributing student information, and called the claim that the firing was political 'untrue'. The article also says Morris founded Voice of Peru Parents, a nonprofit seeking more transparency about bullying, and regularly used public comment at board meetings to call for a complaint oversight committee. No outcome of the lawsuit was found.
+  Note: Not confirmed that this George Morris is the 2026 ballot candidate, though the name and city match. Outcome of the federal case unknown. If confirmed, his advocacy (bullying transparency, oversight committee) is relevant policy background that is currently left out of the profile.
+  - [Former employee files federal lawsuit against Peru schools](https://www.kokomotribune.com/news/former-employee-files-federal-lawsuit-against-peru-schools/article_47f33091-ceac-4744-8126-b92eb4223d8b.html) — Kokomo Tribune, 2025-04-11
+
 ## Indiana School Board Member (`in-school-board-michigan-city-area`)
 
 - **Michigan City Area Schools (district employee, not a candidate)** — criminal case — _held_

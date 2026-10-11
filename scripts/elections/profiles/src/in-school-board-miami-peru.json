@@ -1,0 +1,299 @@
+{
+ "race_id": "in-school-board-miami-peru",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The 'Miami Peru School Board' race is for the board of Peru Community Schools (Peru Community School Corporation), the public school district for Peru in Miami County {pcs_contact}{wp_pcs}. It runs Elmwood (K–2) and Blair Pointe Upper Elementary, Peru Junior-Senior High School and Keys Academy, an alternative school {wp_pcs}{kt_roxy_jul10}. Wikipedia lists enrollment at about 2,323 students; the Kokomo Tribune reported in December 2025 that Peru had the steepest enrollment drop among its area districts, down 100 students since fall 2024 {wp_pcs}{kt_enroll_2025}. Trent McCormick has been superintendent since August 2024, after the resignation of Superintendent Jaime Cole {pcs_contact}{y_mccormick}.",
+  "Board: the board has seven members {kt_changes_2024}{y_mixed_2022}. Seats elected in 2022 (three) and 2024 (four, including the Erie Township seat) make up the board; after the 2024 election, Meg Guthrie-Pennington, Matthew Fuller and Jarrod Ellis joined, and Gregory Quin kept the Erie Township seat because no one filed for it {kt_changes_2024}{kt_know_2024}{y_new_members_2025}. In September 2026 the Peru Tribune identified Guthrie-Pennington as board vice president {pt_heartland}.",
+  "Seats on the 2026 ballot: the state list shows one race, 'Peru 2-3-5-6-7-9 and Washington 1,' with five candidates and 'vote for 1' {in_list}. In 2022, three seats were filled together: the Kokomo Tribune reported 'three spots' on the board, held by Jarrod Ellis, Brittany Justice and Charles Wagner, with challengers Tommie Beattie and David Hoover, and reported results by share of the vote, with Hoover and Beattie first and second and Justice third {kt_know_2022}{y_mixed_2022}. Those three four-year terms end this year, and Justice, Hoover and Beattie are all on the 2026 ballot {kt_know_2022}{in_list}. This suggests voters will again fill three seats; the actual number to be elected was not confirmed in an official 2026 source.",
+  "Who holds the seats now: Brittany Justice (who said in 2022 she had served four years on the board, and was reelected that year), David Hoover and Tommie Beattie (both first elected 2022) {kt_know_2022}{y_mixed_2022}. All three are running, listed as Republican; challengers are Brian A. Arwood (nonpartisan) and George Morris (Republican) {in_list}.",
+  "Party labels: the state candidate list shows Justice, Hoover, Beattie and Morris with the Republican label and Arwood as nonpartisan {in_list}.",
+  "Facilities and the $23.5 million plan (July 2025): the board voted 5–2 to buy the Roxy Theater on the north side of Peru and convert it into administration, transportation and maintenance offices at its Tiger North Campus, as part of a $23.5 million district-wide improvement project; Justice and Quin voted no {kt_roxy_jul10}{kt_roxy_jul23}. Buying and renovating the Roxy was estimated at about $5.7 million; the plan also includes demolishing the two-story classroom wing of the old junior high (about $1.5 million) and selling the Third Street administration building {kt_roxy_jul10}. The district said it would finance the work with bonds replacing debt being paid off, keeping a stable tax rate; some community members, including Roxy employees, opposed the purchase {kt_roxy_jul23}.",
+  "Ivy Tech lease (February 2026): the board voted unanimously to lease space in the former junior high building to Ivy Tech Community College, with the move expected by fall 2026; McCormick said it would help students get a head start on job skills and college credits {kt_ivy_2026}.",
+  "Budget pressure and Heartland Career Center (September 2026): on Sept. 21, 2026 the board voted to let McCormick explore leaving the Heartland Career Center cooperative and build its own career and technical programs, a process that could run through June 2028 {pt_heartland}. The Peru Tribune reported the move was driven by a $2.5 million budget deficit and declining enrollment, and framed by school leaders as a way to avoid a tax referendum {pt_heartland}. McCormick said it was 'primarily ... a financial move' because the district pays for Heartland slots it is not filling; Heartland's director asked the board to reconsider, and board member Fuller said he hoped for 'some kind of equitable agreement' {pt_heartland}.",
+  "Property-tax law: the Kokomo Tribune reported that Peru expected $15–16 million in bonds in 2026 with the rest likely in 2028 because of the new state property-tax law, and that lower tax rates and other limits on property-tax revenue have raised concerns for schools about facility upkeep and operating costs {kt_roxy_jul10}.",
+  "Enrollment and school choice: McCormick told the Kokomo Tribune that Indiana's school choice options affect traditional schools and that many students are choosing online schools {kt_enroll_2025}.",
+  "Forums: no 2026 candidate forum or newspaper questionnaire for this race was found. The most recent questionnaire answers from three of the candidates (Justice, Hoover and Beattie) are from the Kokomo Tribune's 2022 guide and are labeled as such below {kt_know_2022}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Brian A Arwood",
+   "seat": "Peru 2-3-5-6-7-9 and Washington 1",
+   "summary": "Challenger listed as nonpartisan {in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Appears on the state candidate list as a nonpartisan candidate for this race {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, campaign website, social media page or questionnaire found.",
+    "Occupation, community roles and ties to the schools not found.",
+    "No campaign finance information found."
+   ]
+  },
+  {
+   "ballot_name": "Brittany Justice",
+   "seat": "Peru 2-3-5-6-7-9 and Washington 1",
+   "summary": "Incumbent, reelected in 2022 after a first term; listed as Republican {kt_know_2022}{y_mixed_2022}{in_list}.",
+   "website": null,
+   "background": [
+    "In 2022 she said she has worked with children since age 19 and moved from private childcare to public education {kt_know_2022}.",
+    "She cited experience as deputy trustee for the Washington Township trustee, seasonal work at the Ivy Tech Kokomo bookstore, and handling the accounting for a local appliance repair business {kt_know_2022}."
+   ],
+   "path_to_ballot": [
+    "Appears on the state candidate list with a Republican label {in_list}.",
+    "Reelected in 2022, finishing third for the three seats {y_mixed_2022}."
+   ],
+   "positions": [
+    {
+     "topic": "Facilities",
+     "items": [
+      "Voted against buying the Roxy Theater in July 2025, calling it 'a want' rather than a need and arguing the old junior high building, already owned, could be renovated for the same purpose {kt_roxy_jul10}.",
+      "Voted against the other resolutions for the $23.5 million project, saying the $5.735 million for the Roxy 'could have gone into the other building project — or not spent at all to give my constituents a break' {kt_roxy_jul23}.",
+      "In 2022 she said bond money should be divided fairly among areas needing renovation, naming athletics, food service and traffic at Elmwood {kt_know_2022}."
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "In 2022 she named student and staff safety as a top issue {kt_know_2022}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "In 2022 she said the district should budget to raise base pay and benefits to compete with nearby schools and build a supportive workplace to retain staff {kt_know_2022}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "In 2022 she said she is not a fan of online learning except when in-person school is not possible {kt_know_2022}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member {kt_know_2022}{y_mixed_2022}. In 2022 she said she had supported some board budgeting decisions and opposed others {kt_know_2022}. In July 2025 she was one of two votes against the Roxy purchase and the related project resolutions {kt_roxy_jul23}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No 2026 campaign statements, website or questionnaire found; positions above are from 2022 and from 2025 board votes.",
+    "Her vote on the September 2026 Heartland Career Center motion was not reported.",
+    "No campaign finance information found."
+   ]
+  },
+  {
+   "ballot_name": "David Hoover",
+   "seat": "Peru 2-3-5-6-7-9 and Washington 1",
+   "summary": "Incumbent, first elected in 2022 as the top vote-getter; listed as Republican {y_mixed_2022}{in_list}.",
+   "website": null,
+   "background": [
+    "In 2022 he said he had two children attending Peru Community Schools {kt_know_2022}.",
+    "Holds a bachelor's degree from Indiana University Kokomo and has taken business classes, according to his 2022 questionnaire {kt_know_2022}."
+   ],
+   "path_to_ballot": [
+    "Appears on the state candidate list with a Republican label {in_list}.",
+    "Won a seat in 2022 with 26.8% of the vote, the most of the five candidates {y_mixed_2022}."
+   ],
+   "positions": [
+    {
+     "topic": "Academics",
+     "items": [
+      "In 2022 he listed raising ILEARN and SAT scores, supporting at-risk students and preparing students for college or work as top issues {kt_know_2022}.",
+      "He said parents and teachers should develop catch-up plans for each child, including one-on-one or small-group tutoring {kt_know_2022}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "In 2022 he said teachers need support, safe working conditions, a voice in decisions and enforced discipline policies {kt_know_2022}."
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "Listed student and teacher safety as a top issue in 2022 {kt_know_2022}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member {y_mixed_2022}. The July 2025 Roxy Theater purchase and project resolutions passed 5–2 with only Justice and Quin voting no, so Hoover was among those voting yes {kt_roxy_jul10}{kt_roxy_jul23}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No 2026 campaign statements, website or questionnaire found; positions above are from 2022.",
+    "Current occupation not found.",
+    "His vote on the September 2026 Heartland motion was not reported.",
+    "No campaign finance information found."
+   ]
+  },
+  {
+   "ballot_name": "George Morris",
+   "seat": "Peru 2-3-5-6-7-9 and Washington 1",
+   "summary": "Challenger listed as Republican {in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Appears on the state candidate list with a Republican label {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No 2026 campaign coverage, website or questionnaire found.",
+    "A George Morris of Peru appears in 2025 Kokomo Tribune coverage of district matters (see editor notes); it was not confirmed that this is the candidate, so none of that coverage is used here.",
+    "No campaign finance information found."
+   ]
+  },
+  {
+   "ballot_name": "Tommie Beattie",
+   "seat": "Peru 2-3-5-6-7-9 and Washington 1",
+   "summary": "Incumbent, first elected in 2022; listed as Republican {y_mixed_2022}{in_list}.",
+   "website": null,
+   "background": [
+    "In 2022 he said he manages a business in Peru, was a member of the Peru Parks Board, and had been involved in youth athletics for nearly 15 years, including as president of a local softball organization {kt_know_2022}."
+   ],
+   "path_to_ballot": [
+    "Appears on the state candidate list with a Republican label {in_list}.",
+    "Won a seat in 2022 with 19.8% of the vote, second among five candidates {y_mixed_2022}."
+   ],
+   "positions": [
+    {
+     "topic": "Academics",
+     "items": [
+      "In 2022 he said schools should focus on reading and math help for students who fell behind, adding teachers or aides if needed {kt_know_2022}.",
+      "He said online learning is useful for weather delays or short-term emergencies but can be harmful as a permanent structure {kt_know_2022}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "In 2022 he said the district should look beyond pay to retain and attract teachers, such as better benefits and working with teachers on what is most difficult for them {kt_know_2022}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "In 2022 he said board members should be visible at events so they can answer residents' questions {kt_know_2022}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member {y_mixed_2022}. The July 2025 Roxy Theater purchase and project resolutions passed 5–2 with only Justice and Quin voting no, so Beattie was among those voting yes {kt_roxy_jul10}{kt_roxy_jul23}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No 2026 campaign statements, website or questionnaire found; positions above are from 2022.",
+    "Name of the business he manages not found.",
+    "His vote on the September 2026 Heartland motion was not reported.",
+    "No campaign finance information found."
+   ]
+  }
+ ],
+ "review_flags": [
+  {
+   "person": "George Morris",
+   "category": "personnel action",
+   "status": "held",
+   "summary": "The Kokomo Tribune reported on April 11, 2025 that George Morris, of Peru, the former IT director of Peru Community Schools, sued the district and Superintendent Trent McCormick in federal court, saying he was fired on Nov. 20, 2024 in retaliation for displaying a pro-Trump flag on his vehicle on school property and for pulling playground video of an altercation involving his granddaughter {kt_morris_suit}. McCormick told the Tribune the termination was for performance issues, said Morris admitted accessing and distributing student information, and called the claim that the firing was political 'untrue' {kt_morris_suit}. The article also says Morris founded Voice of Peru Parents, a nonprofit seeking more transparency about bullying, and regularly used public comment at board meetings to call for a complaint oversight committee {kt_morris_suit}. No outcome of the lawsuit was found.",
+   "note": "Not confirmed that this George Morris is the 2026 ballot candidate, though the name and city match. Outcome of the federal case unknown. If confirmed, his advocacy (bullying transparency, oversight committee) is relevant policy background that is currently left out of the profile."
+  }
+ ],
+ "sources": {
+  "pcs_contact": [
+   "Contact Us (Administration Staff)",
+   "Peru Community Schools",
+   "2026-10",
+   "https://www.peru.k12.in.us/apps/pages/index.jsp?uREC_ID=4422972&type=d&pREC_ID=2658226"
+  ],
+  "wp_pcs": [
+   "Peru Community Schools",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/Peru_Community_Schools"
+  ],
+  "kt_know_2022": [
+   "Know your candidates: 2022 Peru School Board",
+   "Kokomo Tribune",
+   "2022-11-03",
+   "https://www.kokomotribune.com/news/know-your-candidates-2022-peru-school-board/article_a7d3d3e2-5ae8-11ed-81c5-6b1d5cd8b5e6.html"
+  ],
+  "y_mixed_2022": [
+   "Mixed bag for incumbents in reelection bids (Kokomo Tribune)",
+   "Yahoo News",
+   "2022-11-09",
+   "https://news.yahoo.com/mixed-bag-incumbents-reelection-bids-105100280.html"
+  ],
+  "kt_changes_2024": [
+   "Changes coming to Miami, Tipton county school boards",
+   "Kokomo Tribune",
+   "2024-07",
+   "https://www.kokomotribune.com/news/changes-coming-to-miami-tipton-county-school-boards/article_f6584ad6-3979-11ef-85fe-e7dc73253beb.html"
+  ],
+  "kt_know_2024": [
+   "Know your candidates: 2024 Peru School Board",
+   "Kokomo Tribune",
+   "2024-10",
+   "https://www.kokomotribune.com/news/know-your-candidates-2024-peru-school-board/article_b98925cc-881f-11ef-9f60-93d771be783f.html"
+  ],
+  "y_new_members_2025": [
+   "New school board members take seats this month (Kokomo Tribune)",
+   "Yahoo News",
+   "2025-01-06",
+   "https://www.yahoo.com/news/school-board-members-seats-month-231600718.html"
+  ],
+  "y_mccormick": [
+   "Peru names new superintendent (Kokomo Tribune)",
+   "Yahoo News",
+   "2024-08-22",
+   "https://www.yahoo.com/news/peru-names-superintendent-094700297.html"
+  ],
+  "kt_roxy_jul10": [
+   "Peru schools to purchase Roxy Theater",
+   "Kokomo Tribune",
+   "2025-07-10",
+   "https://www.kokomotribune.com/news/peru-schools-to-purchase-roxy-theater/article_42fed21d-06ed-422a-92ea-a4b0e17c03b4.html"
+  ],
+  "kt_roxy_jul23": [
+   "Peru schools moves forward with $23.5M project, purchase of Roxy Theater",
+   "Kokomo Tribune",
+   "2025-07-23",
+   "https://www.kokomotribune.com/news/peru-schools-moves-forward-with-23-5m-project-purchase-of-roxy-theater/article_c0ec0c1b-5d9e-4a63-adf0-bc4177047f93.html"
+  ],
+  "kt_enroll_2025": [
+   "Kokomo schools up in students, rural districts continue to decline",
+   "Kokomo Tribune",
+   "2025-12-22",
+   "https://www.kokomotribune.com/news/kokomo-schools-up-in-students-rural-districts-continue-to-decline/article_89924f21-d1a5-4d28-9e63-03dceedd7702.html"
+  ],
+  "kt_ivy_2026": [
+   "Ivy Tech to move onto Peru Schools campus",
+   "Kokomo Tribune",
+   "2026-02-20",
+   "https://www.kokomotribune.com/news/school_news/ivy-tech-to-move-onto-peru-schools-campus/article_4cdfcb72-7c6c-4390-96ce-c9841a06af76.html"
+  ],
+  "pt_heartland": [
+   "Peru School Board explores exit from Heartland Career Center",
+   "Peru Tribune",
+   "2026-09-25",
+   "https://www.perutribune.com/news/peru-school-board-explores-exit-from-heartland-career-center/article_68a9c64d-b1bb-5b98-a9b8-fb8f05c8d20a.html"
+  ],
+  "kt_morris_suit": [
+   "Former employee files federal lawsuit against Peru schools",
+   "Kokomo Tribune",
+   "2025-04-11",
+   "https://www.kokomotribune.com/news/former-employee-files-federal-lawsuit-against-peru-schools/article_47f33091-ceac-4744-8126-b92eb4223d8b.html"
+  ]
+ }
+}

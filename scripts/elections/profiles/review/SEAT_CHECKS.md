@@ -16,6 +16,7 @@ multi-seat but not yet confirmed from a 2026 county ballot:
 | Duneland School Board (all races) | ? | Porter County ballots not reachable |
 | Fulton Rochester School Board District 2, Rochester 2 | 3 | 2022 ballot "choose up to three"; three terms end 2026; Sentinel's 2026 list conflicts |
 | Fremont School Board, District 3 | 2 | 2 seats in 2018 and 2022; local media said "three seats" in May 2026 |
+| Miami Peru School Board (at large) | 3 | 2022 filled 3 seats; all 3 incumbents on the 2026 ballot |
 | Jay School Board, District 1 | 0 on ballot | seat due in 2026 but no one filed; how it is filled is unknown |
 
 Also confirm with county election offices:

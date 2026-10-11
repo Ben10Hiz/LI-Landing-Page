@@ -1,0 +1,161 @@
+{
+ "race_id": "in-school-board-north-montgomery",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The 'North Montgomery School Board' seats belong to the North Montgomery Community School Corporation, headquartered north of Crawfordsville in Montgomery County {nm_members}{jr_filing_2026}. Its territory includes Coal Creek, Franklin, Madison, Sugar Creek and Wayne townships and part of Union Township, including parts of northern Crawfordsville and the towns of Darlington, Linden, New Richmond, Waynetown and Wingate {wp_nmcsc}. It runs North Montgomery High School, North Montgomery Middle School and Pleasant Hill, Sommer and Sugar Creek elementary schools {wp_nmcsc}{jr_bonds_2025}.",
+  "Enrollment: in an August 2025 League of Women Voters of Montgomery County column published by the Journal Review, the district was described as keeping enrollment stable at over 1,740 students in K-12 and 1,850 including preschool, despite gradual declines {jr_lwv_outlook}.",
+  "Superintendent: Dr. Anthony Tharp became superintendent on July 1, 2026, succeeding Dr. Colleen Moran, who retired June 30, 2026 after leading the district since November 2001 {jr_moran_retire}{jr_tharp}. The board hired Tharp, then assistant superintendent, as the only candidate it considered {jr_tharp}.",
+  "Board: the district lists seven members, each tied to an area: Jess Cain (At Large), Michael Shepherd (Coal Creek Township, president), Jarrod Zachary (Franklin Township), Darrin Bechtel (North Union Township, vice president), Gary Bohlander (Sugar Creek Township), Terresa Hatke (Wayne Township) and Karin Odle (Madison Township, secretary) {nm_members}.",
+  "Seats on the 2026 ballot: the Journal Review reports five candidates for four seats representing Coal Creek, Franklin, Sugar Creek and Wayne townships, with Franklin the only contested race {jr_filing_2026}. This matches the state list, which shows one seat for each township {in_list}.",
+  "Who holds the seats now: incumbent Gary Bohlander (Sugar Creek) and incumbent Terresa A. Hatke (Wayne) filed for reelection {jr_filing_2026}. In Coal Creek, newcomer Brady Rogers filed; that seat is now held by board president Michael Shepherd {jr_filing_2026}{nm_members}. In Franklin, newcomers Bonnie Kallis and Clayton Randolph filed; that seat is now held by Jarrod Zachary {jr_filing_2026}{nm_members}. Shepherd and Zachary did not file {jr_filing_2026}.",
+  "Party labels: 2026 is the first election in which Indiana school board candidates may list a party on the ballot, and the law does not add primaries {jr_filing_2026}. On the state list, Rogers, Randolph and Hatke are listed as Republican, Kallis as American Solidarity and Bohlander as nonpartisan {in_list}{jr_filing_2026}.",
+  "Budget and property taxes (2025): in the LWV column, Moran projected that SEA 1 would reduce the district's Operations Fund property-tax revenue by $90,000 in 2025, about $270,000 in 2026, $499,000 in 2027, $861,000 in 2028 and $1,007,100 in 2029 {jr_lwv_outlook}. She said the district's three-year plan included only essential projects such as chillers, paving, roofing and buses; that if the law stayed unchanged the district would look at borrowing within three years; and that a referendum was possible {jr_lwv_outlook}. The column also reported Moran's view that state funding for non-traditional schools takes away from funding for traditional public schools {jr_lwv_outlook}.",
+  "Debt refinancing (Oct. 2025–March 2026): in October 2025 the board began refunding 2018 bonds that paid for a $35 million renovation of the district's five buildings, with $2 million to be set aside for building maintenance {jr_bonds_2025}. In March 2026 the board was told the refinancing would save $3 million in interest, with the rate falling from 5% to 3.25% on bonds maturing in 2039 {jr_3m_2026}.",
+  "Facilities (2025–2026): the board approved replacing the high school gym floor, which had peeled because of a bad sealant, at $214,735 after a $67,000 credit; the gym renovation was paid from the Rainy Day Fund {jr_bonds_2025}{jr_3m_2026}. In 2026 the board also approved paving and sidewalk work ($106,553), gym painting ($40,010), lighting projects and kitchen equipment at Pleasant Hill ($63,228) {jr_3m_2026}{jr_tharp}{jr_meals_2026}.",
+  "Staffing and pay: the 2025-26 teacher agreement presented in October 2025 included a $4,000 stipend for each teacher, paid in December 2025 and June 2026 {jr_bonds_2025}. In August 2026 Tharp reported bus routes fully staffed but a shortage of drivers for evening events {jr_social_media}.",
+  "Other 2025–2026 board actions: in December 2025 the board approved additional appropriations of $420,000 to the Education Fund and $100,000 to the Operations Fund {jr_closes_2025}. In June 2025 it approved the elementary sex education curriculum for grades 4–5, with parent review and opt-out {jr_moran_retire}. In June 2026 it raised meal prices, citing food costs {jr_meals_2026}. In August 2026 it voted to join more than 100 Indiana school districts suing social media companies; Tharp said it was 'another way we can protect our students' {jr_social_media}.",
+  "Forums: no candidate forum or questionnaire for the 2026 North Montgomery races was found in this research. Only the Franklin Township race is contested {jr_filing_2026}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Brady Rogers",
+   "seat": "Coal Creek",
+   "summary": "Newcomer running unopposed for the Coal Creek Township seat; listed as Republican {jr_filing_2026}{in_list}.",
+   "website": null,
+   "background": [
+    "The Journal Review describes Rogers as a candidate for the Coal Creek Township seat; no other background was found {jr_filing_2026}."
+   ],
+   "path_to_ballot": [
+    "Filed by the June 2026 deadline for the Coal Creek Township seat, listing a Republican affiliation {jr_filing_2026}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign website, social media page, questionnaire or news interview found.",
+    "Occupation, community roles and ties to the schools not found.",
+    "No campaign finance information found.",
+    "The current Coal Creek member, board president Michael Shepherd, did not file; his reasons were not found."
+   ]
+  },
+  {
+   "ballot_name": "Bonnie Kallis",
+   "seat": "Franklin",
+   "summary": "Retired teacher running for the open Franklin Township seat; listed as American Solidarity {jr_filing_2026}{asp_kallis}.",
+   "website": "https://www.facebook.com/kallisforIN",
+   "background": [
+    "Recently retired from a career as a classroom teacher, according to her party's candidate page {asp_kallis}.",
+    "In Michigan she served as a classroom teacher, English Language Arts department head, school district testing coordinator, School Improvement Chair and Title I Chair {asp_kallis}."
+   ],
+   "path_to_ballot": [
+    "Filed by the June 2026 deadline for the Franklin Township seat as an American Solidarity Party candidate; the Journal Review describes her as a newcomer {jr_filing_2026}.",
+    "Listed as a current candidate on the American Solidarity Party's website {asp_kallis}."
+   ],
+   "positions": [
+    {"topic": "Academics", "items": [
+     "Says her campaign will emphasize the overuse of technology in schools and balancing the need for testing with hands-on, experiential learning {asp_kallis}."
+    ]},
+    {"topic": "Budget & taxes", "items": [
+     "Lists protecting school funding as a campaign emphasis {asp_kallis}."
+    ]}
+   ],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "Her campaign Facebook page (linked from her party's page) could not be read.",
+    "Search results show a Journal Review item headlined 'Kallis seeking North school board seat'; it could not be found or fetched, so its contents are not used.",
+    "No questionnaire or forum answers found; no campaign finance information found.",
+    "How long she has lived in the district not found."
+   ]
+  },
+  {
+   "ballot_name": "Clayton Randolph",
+   "seat": "Franklin",
+   "summary": "Newcomer running for the open Franklin Township seat; listed as Republican {jr_filing_2026}{in_list}.",
+   "website": null,
+   "background": [
+    "The Journal Review describes Randolph as a newcomer to the board race; no other background on the candidate was confirmed {jr_filing_2026}."
+   ],
+   "path_to_ballot": [
+    "Filed by the June 2026 deadline for the Franklin Township seat with a Republican affiliation {jr_filing_2026}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign website, social media page, questionnaire or news interview found.",
+    "Unverified: the Journal Review reported in October 2025 that the North Montgomery board accepted the resignation of Director of Transportation Clayton Randolph; it was not confirmed that this is the same person as the candidate.",
+    "No campaign finance information found."
+   ]
+  },
+  {
+   "ballot_name": "Gary Bohlander",
+   "seat": "Sugar Creek",
+   "summary": "Incumbent seeking reelection to the Sugar Creek Township seat without a party label; unopposed {jr_filing_2026}{nm_members}.",
+   "website": null,
+   "background": [
+    "Current board member representing Sugar Creek Township {nm_members}."
+   ],
+   "path_to_ballot": [
+    "Filed for reelection by the June 2026 deadline and did not list a party affiliation {jr_filing_2026}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {nm_members}. No public statements from him about the board's record were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "Occupation, years on the board and community roles not found.",
+    "His votes on 2025–2026 decisions (bond refinancing, gym work, social media lawsuit, superintendent hire) were not reported individually.",
+    "No campaign website, questionnaire or campaign finance information found."
+   ]
+  },
+  {
+   "ballot_name": "Terresa A Hatke",
+   "seat": "Wayne",
+   "summary": "Incumbent seeking reelection to the Wayne Township seat; listed as Republican; unopposed {jr_filing_2026}{nm_members}.",
+   "website": null,
+   "background": [
+    "Current board member representing Wayne Township {nm_members}."
+   ],
+   "path_to_ballot": [
+    "Filed for reelection by the June 2026 deadline with a Republican affiliation {jr_filing_2026}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {nm_members}. No public statements from her about the board's record were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "Occupation, years on the board and community roles not found.",
+    "Search results suggest she has served as board president in the past; not confirmed on a fetched page.",
+    "Her individual votes on 2025–2026 decisions were not reported.",
+    "No campaign website, questionnaire or campaign finance information found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "nm_members": ["School Board Members", "North Montgomery Community School Corporation", "2026-10", "https://www.nm.k12.in.us/school-board/members"],
+  "wp_nmcsc": ["North Montgomery School Corporation", "Wikipedia", "2026-10", "https://en.wikipedia.org/wiki/North_Montgomery_School_Corporation"],
+  "jr_filing_2026": ["School board races emerge in new partisan era", "Journal Review", "2026-06-20", "https://www.journalreview.com/stories/school-board-races-emerge-in-new-partisan-era,397579"],
+  "jr_tharp": ["Tharp named new superintendent at North", "Journal Review", "2026-04-29", "https://www.journalreview.com/stories/tharp-named-new-superintendent-at-north,391016"],
+  "jr_moran_retire": ["NMSC's Moran announces retirement", "Journal Review", "2025-06-25", "https://www.journalreview.com/stories/nmscs-moran-announces-retirement,346796"],
+  "jr_lwv_outlook": ["Navigating North Montgomery's financial outlook (League of Women Voters of Montgomery County column)", "Journal Review", "2025-08-08", "https://www.journalreview.com/stories/navigating-north-montgomerys-financial-outlook,351520"],
+  "jr_bonds_2025": ["North to save $2 million on refunding bonds", "Journal Review", "2025-10-29", "https://www.journalreview.com/stories/north-to-save-2-million-on-refunding-bonds,364971"],
+  "jr_closes_2025": ["North school board closes out year", "Journal Review", "2025-12-18", "https://www.journalreview.com/stories/north-school-board-closes-out-year,374161"],
+  "jr_3m_2026": ["North school board saving $3 million", "Journal Review", "2026-03-18", "https://www.journalreview.com/stories/north-school-board-saving-3-million,385918"],
+  "jr_meals_2026": ["North increases cost of meals", "Journal Review", "2026-06-24", "https://www.journalreview.com/stories/north-increases-cost-of-meals,398039"],
+  "jr_social_media": ["North joins others in suit against social media companies", "Journal Review", "2026-08-26", "https://www.journalreview.com/stories/north-joins-indiana-schools-in-suit-against-social-media-companies,405932"],
+  "asp_kallis": ["Bonnie Kallis", "American Solidarity Party", "2026-08-15", "https://www.solidarity-party.org/candidates/bonnie-kallis"]
+ }
+}
