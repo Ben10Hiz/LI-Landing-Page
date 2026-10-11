@@ -129,6 +129,14 @@ Sensitive items held for a second, careful editorial pass (criminal cases, misco
   Note: An unspecified nepotism claim against current officials; the profile text keeps only his general management criticism.
   - [NH Jackson Township school board seat draws four (Chad Schenck questionnaire)](https://www.madisoncourier.com/the_clarion_news/news/nh-jackson-township-school-board-seat-draws-four/article_c86c6e80-b7a8-57df-918a-e41461f5fbe3.html) — The Corydon Democrat / Clarion News, 2026-09-23
 
+## Indiana School Board Member (`in-school-board-prairie-heights`)
+
+- **Todd Perkins (current Milford Township member; not a 2026 candidate)** — remark — _held_
+  A Nov. 13, 2025 letter to the editor from a district resident said that at the Nov. 6, 2025 board meeting Perkins remarked that staff were receiving pay increases while the board was 'not getting anything in return' and complained about $230,000 spent on substitute pay the prior year; the writer criticized the remarks. The official minutes of that meeting record the 5-0 contract votes but no discussion. No response from Perkins was found.
+  Note: Source is an opinion letter, not news reporting; the remarks are not confirmed by the minutes (a meeting video on the board's YouTube channel was not reviewed). Perkins is not on the ballot; relevant only as context for the open Milford seat. Likely omit.
+  - [Take time to watch PH board meeting (letter to the editor)](https://www.kpcnews.com/opinions/letters/kpcnews/article_236743a1-c479-487d-a5df-397796e880fb.html) — KPC News, 2025-11-13
+  - [Board of Education minutes, November 6, 2025](https://www.ph.k12.in.us/school-board/minutes/2025-2026-school-year/937-school-board-meeting-minutes-november-6-2025/file) — Prairie Heights Community School Corporation, 2025-11-06
+
 ## Indiana School Board Member (`in-school-board-vanderburgh`)
 
 - **Ken Colbert** — other — _held_

@@ -162,6 +162,7 @@ SEAT_OVERRIDES = {
     "South Harrison School Board District 4, Harrison Township": 2,  # Harrison County ballot
     "Whitley County Consolidated School Board, District Columbia City": 2,  # Whitley County election schedule
     "Grant Marion Community School Board, District 1": 3,  # Chronicle-Tribune
+    "North Spencer School Board, Clay, Huff, Hammond Townships, Seat 1, 2": 2,  # office title names Seats 1 and 2; both terms end 2026
 }
 
 

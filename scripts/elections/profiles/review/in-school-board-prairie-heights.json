@@ -1,0 +1,27 @@
+{
+ "race_id": "in-school-board-prairie-heights",
+ "office": "Indiana School Board Member",
+ "flags": [
+  {
+   "person": "Todd Perkins (current Milford Township member; not a 2026 candidate)",
+   "category": "remark",
+   "status": "held",
+   "summary": "A Nov. 13, 2025 letter to the editor from a district resident said that at the Nov. 6, 2025 board meeting Perkins remarked that staff were receiving pay increases while the board was 'not getting anything in return' and complained about $230,000 spent on substitute pay the prior year; the writer criticized the remarks. The official minutes of that meeting record the 5-0 contract votes but no discussion. No response from Perkins was found.",
+   "note": "Source is an opinion letter, not news reporting; the remarks are not confirmed by the minutes (a meeting video on the board's YouTube channel was not reviewed). Perkins is not on the ballot; relevant only as context for the open Milford seat. Likely omit.",
+   "sources": [
+    {
+     "title": "Take time to watch PH board meeting (letter to the editor)",
+     "publisher": "KPC News",
+     "date": "2025-11-13",
+     "url": "https://www.kpcnews.com/opinions/letters/kpcnews/article_236743a1-c479-487d-a5df-397796e880fb.html"
+    },
+    {
+     "title": "Board of Education minutes, November 6, 2025",
+     "publisher": "Prairie Heights Community School Corporation",
+     "date": "2025-11-06",
+     "url": "https://www.ph.k12.in.us/school-board/minutes/2025-2026-school-year/937-school-board-meeting-minutes-november-6-2025/file"
+    }
+   ]
+  }
+ ]
+}
