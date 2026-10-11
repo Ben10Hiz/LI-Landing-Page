@@ -1,0 +1,51 @@
+{
+ "race_id": "in-washington-county-sheriff",
+ "office": "Indiana County Sheriff",
+ "flags": [
+  {
+   "person": "Brent Miller",
+   "category": "misconduct allegation",
+   "status": "held",
+   "summary": "In a September 2026 candidate interview, Democratic candidate Max Greene alleged that a December 6, 2022 domestic incident involving a deputy who was a Republican sheriff candidate was 'covered up by both the Sheriff and the Prosecutor,' and that the prosecutor withheld the report despite requests. He also referred, without detail, to HR problems in the department. The Times printed his answers unedited and did not verify them; no response from the sheriff or prosecutor was found.",
+   "note": "Unverified allegation by a candidate; the deputy is not named, and could be a 2026 candidate. No official record or reporting on the incident was found.",
+   "sources": [
+    {
+     "title": "Election 2026: Candidate for Washington County Sheriff Max Greene",
+     "publisher": "The Washington County Times",
+     "date": "2026-09-21",
+     "url": "https://www.washingtoncountytimes.com/post/election-2026-candidate-for-washington-county-sheriff-max-greene"
+    }
+   ]
+  },
+  {
+   "person": "Wayne Blevins",
+   "category": "other",
+   "status": "held",
+   "summary": "In a November 2025 Washington County Times interview, Blevins addressed a high-school nickname and past rumors about drug use; he said he used marijuana as a teenager, last at age 18, denied selling drugs and said he has never failed a department random drug test.",
+   "note": "Candidate's own account of personal history and rumors; no other reporting found.",
+   "sources": [
+    {
+     "title": "Election 2026: Sheriff Candidate Lieutenant Wayne Blevins",
+     "publisher": "The Washington County Times",
+     "date": "2025-11-07",
+     "url": "https://www.washingtoncountytimes.com/post/election-2026-sheriff-candidate-lieutenant-wayne-blevins"
+    }
+   ]
+  },
+  {
+   "person": "Walter (Johnny Z) Zelivetz",
+   "category": "remark",
+   "status": "held",
+   "summary": "In a September 2026 interview, Zelivetz said unnamed people tried to intimidate him into quitting the race early.",
+   "note": "No details or names given; not verified.",
+   "sources": [
+    {
+     "title": "Election 2026: Candidate for Washington County Sheriff Walter \"Johnny Z\" Zelivetz",
+     "publisher": "The Washington County Times",
+     "date": "2026-09-23",
+     "url": "https://www.washingtoncountytimes.com/post/election-2026-candidate-for-washington-county-sheriff-walter-johnny-z-zelivetz"
+    }
+   ]
+  }
+ ]
+}

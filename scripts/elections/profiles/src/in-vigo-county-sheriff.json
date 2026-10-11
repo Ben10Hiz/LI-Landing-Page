@@ -1,0 +1,106 @@
+{
+ "race_id": "in-vigo-county-sheriff",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_sheriff",
+ "incumbent": {
+  "name": "Derek Fell",
+  "party": "Democratic",
+  "summary": "Derek Fell, a Democrat, was selected by party caucus and sworn in as Vigo County sheriff in August 2024 after the death of Sheriff John Plasse; he previously served as the office's chief of operations and is seeking his first full elected term {wtwo_fell_announce} {wtwo_caucus} {ts_newman}.",
+  "record": [
+   "August 2024: Chosen at a Democratic caucus as the only candidate for the vacancy left by Sheriff Plasse's death; at the time he said he did not anticipate 'making any major significant changes' {wtwo_caucus} {wtwo_fell_announce}.",
+   "January 2025: Announced that, with two deputies obtained through a federal grant and additional positions approved by the county council in 2024, patrol staffing would reach 29 deputies once new hires finished training in 2025, compared with 23 to 24 six years earlier; he said the goals were more visible presence, shorter response times, higher minimum patrol staffing and officer safety {ts_changes_2025}.",
+   "January 2025: Began the regular five-year patrol-vehicle replacement cycle and announced a change in patrol uniform colors {ts_changes_2025}.",
+   "May 2025: Announced his 2026 candidacy, naming community engagement, public safety, law enforcement and jail programs as priorities {wtwo_fell_announce}.",
+   "May 5, 2026: Won the Democratic primary with 48.98% of the vote over Deputy David C. Ewing (28.06%) and Larry Cheeks, Jr. (22.95%) in unofficial results {vigo_results}."
+  ]
+ },
+ "race_context": [
+  "Vigo County (Terre Haute) has had an appointed sheriff since August 2024, when Derek Fell was chosen by Democratic caucus after Sheriff John Plasse died; Fell is seeking election in his own right {wtwo_caucus} {ts_newman}.",
+  "Democratic primary (May 5, 2026, unofficial): Fell 3,978 votes (48.98%), David C. Ewing 2,279 (28.06%), Larry Cheeks, Jr. 1,864 (22.95%) {vigo_results}.",
+  "Republican primary (May 5, 2026, unofficial): Steve (Top Guns) Ellis 4,537 votes (57.39%), Brad Newman 3,369 (42.61%) {vigo_results}.",
+  "During the primary, other candidates raised issues including jail overcrowding and re-entry programs (Ewing), and the jail's maintenance costs, court security and road coverage (Newman) {wtwo_ewing} {wtwo_newman}.",
+  "A primary candidate forum for sheriff candidates was scheduled for March 11, 2026, at the Vigo County Public Library {ts_forums}. No general-election forum or debate between Fell and Ellis was found in available coverage.",
+  "Key difference in available coverage: Fell emphasizes continuity and expanded patrol staffing built inside the office; Ellis, a sitting county councilman, emphasizes lowering county spending {ts_changes_2025} {wtwo_ellis_talks}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Derek Fell",
+   "summary": "Derek Fell has been Vigo County sheriff since August 2024 after more than two decades with the sheriff's office, most recently as chief of operations {wtwo_fell_announce} {ts_dem_primary}.",
+   "website": null,
+   "background": [
+    "Sheriff of Vigo County since August 2024; previously the office's chief of operations {wtwo_fell_announce}.",
+    "Reported 24 years with the sheriff's office in an April 2026 Tribune-Star candidate questionnaire, with assignments in corrections, patrol, investigations and administration {ts_dem_primary}."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Democratic primary with 48.98% of the vote in a three-way race {vigo_results}."
+   ],
+   "positions": [
+    {"topic": "Staffing & pay", "items": ["Has pointed to the increase in patrol staffing to 29 deputies, which he called the 'most in known history,' as a way to raise minimum staffing and improve officer safety {ts_changes_2025}."]},
+    {"topic": "Patrol & response", "items": ["Said added deputies are meant to provide more visible presence and reduce some response times {ts_changes_2025}."]},
+    {"topic": "Jail & corrections", "items": ["Listed jail programs among his campaign priorities {wtwo_fell_announce}."]}
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. When announcing his campaign he described success as 'a team effort'; no statements about Ellis were found {wtwo_fell_announce}."
+   ],
+   "plans": [
+    "Continue community engagement, public safety and jail programs, per his May 2025 announcement {wtwo_fell_announce}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance totals were found in available coverage."
+   ],
+   "gaps": [
+    "No campaign website or detailed platform was found; coverage of his specific plans for the jail, budget and drug enforcement is limited.",
+    "The Tribune-Star questionnaire text was encoded on the page; only his background details were used here.",
+    "Search snippets referred to a federal court case over jail staffing under the prior sheriff; this was not read in full and its status is unverified.",
+    "No general-election forum statements found."
+   ]
+  },
+  {
+   "ballot_name": "Steve (Top Guns) Ellis",
+   "summary": "Steve Ellis is a Vigo County councilman and the owner of the Top Guns store in Terre Haute, with nearly 17 years as a special deputy for the county {wtwo_ellis_talks} {ts_newman}.",
+   "website": null,
+   "background": [
+    "Owner/CEO of the Top Guns store in Terre Haute {wtwo_ellis_talks} {ts_newman}.",
+    "Member of the Vigo County Council {wtwo_ellis_talks} {ts_newman}.",
+    "Nearly 17 years in law enforcement, including service as a special deputy for Vigo County; has also worked at the county jail and as an emergency medical dispatcher {wtwo_ellis_talks}."
+   ],
+   "path_to_ballot": [
+    "Announced in summer 2025 that he would run on the Republican ballot {wtwo_ellis_announce} {ts_newman}.",
+    "Won the May 5, 2026 Republican primary over Terre Haute Police Sgt. Brad Newman, 57.39% to 42.61%, in unofficial results {vigo_results}."
+   ],
+   "positions": [
+    {"topic": "Budget", "items": ["Said he would look for ways to lower county taxes while making sure the department can keep the county safe: 'To represent the taxpayer as best as possible, we have to lower spending' {wtwo_ellis_talks}.", "Says his business experience and council service give him insight into how the county spends money {wtwo_ellis_talks}."]}
+   ],
+   "on_incumbent": [
+    "No statements by Ellis about Sheriff Fell's record were found in available coverage."
+   ],
+   "plans": [
+    "Reduce county spending while maintaining public safety {wtwo_ellis_talks}."
+   ],
+   "endorsements_finance": [
+    "Said he would not accept campaign donations {wtwo_ellis_announce}."
+   ],
+   "gaps": [
+    "No campaign website, questionnaire or forum statements were found; positions on jail operations, staffing, drugs, school safety and immigration enforcement were not found.",
+    "His votes on sheriff's office budget items as a county councilman were not reviewed.",
+    "Whether his council seat is at-large or district was seen only in a search snippet (at-large) and is unverified."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "vigo_results": ["Election Summary Report, May 5, 2026 Primary Election (unofficial summary canvass)", "Vigo County, Indiana", "2026-05-06", "https://www.vigocounty.in.gov/egov/apps/document/center.egov?view=item&id=6639"],
+  "wtwo_fell_announce": ["Sheriff Derek Fell announces candidacy", "WTWO (via Yahoo News)", "2025-05-28", "https://www.yahoo.com/news/sheriff-derek-fell-announces-candidacy-223908146.html"],
+  "wtwo_caucus": ["Caucus elects Derek Fell Vigo Co. Sheriff", "MyWabashValley.com (WTWO/WAWV)", "2024-08", "https://digital-release.mywabashvalley.com/news/local-news/caucus-elects-derek-fell-vigo-co-sheriff/amp/"],
+  "ts_changes_2025": ["Vigo County sheriff announces some changes for 2025", "Tribune-Star (via Yahoo News)", "2025-01-02", "https://www.yahoo.com/news/vigo-county-sheriff-announces-changes-001700434.html"],
+  "ts_dem_primary": ["Primary race: Vigo County Sheriff - Democrats", "Tribune-Star", "2026-04-22", "https://www.tribstar.com/primary-race-vigo-county-sheriff---democrats/article_016b5ae8-529d-4135-8cc6-aa4594072c4b.html"],
+  "wtwo_ellis_talks": ["Steve Ellis talks about running for Vigo County Sheriff", "MyWabashValley.com (WTWO/WAWV)", "2025-08-29", "https://digital-release.mywabashvalley.com/?p=2126966"],
+  "wtwo_ellis_announce": ["Steve Ellis announces candidacy for Vigo County Sheriff", "MyWabashValley.com (WTWO/WAWV)", "2025-07", "https://digital-release.mywabashvalley.com/news/steve-ellis-announces-candidacy-for-vigo-county-sheriff/amp/"],
+  "ts_newman": ["Brad Newman says he'll run for Vigo County sheriff", "Tribune-Star (via Yahoo News)", "2025-08-22", "https://www.yahoo.com/news/articles/brad-newman-says-hell-run-231600910.html"],
+  "wtwo_newman": ["Brad Newman runs for Vigo County Sheriff", "MyWabashValley.com (WTWO/WAWV)", "2025-08-25", "https://digital-release.mywabashvalley.com/?p=2123285"],
+  "wtwo_ewing": ["David C. Ewing to run for Vigo Co. Sheriff", "WTWO (via Yahoo News)", "2025-09-08", "https://www.yahoo.com/news/articles/david-c-ewing-run-vigo-215702547.html"],
+  "ts_forums": ["Candidate forums scheduled for March", "Tribune-Star", "2026-02-16", "https://www.tribstar.com/news/local_news/candidate-forums-scheduled-for-march/article_93e3fc8f-65f1-4de8-9a74-870ba28ca103.html"]
+ }
+}

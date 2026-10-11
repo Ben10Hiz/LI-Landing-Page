@@ -1,0 +1,173 @@
+{
+ "race_id": "in-washington-county-sheriff",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_sheriff",
+ "incumbent": {
+  "name": "Brent Miller",
+  "party": "Republican",
+  "summary": "Brent Miller has been Washington County sheriff since winning the 2018 election and sought re-election as a Republican in 2022; he is not on the 2026 ballot {wslm_2022} {wcso_site} {wct_general_list}.",
+  "record": [
+   "2018: Won election as sheriff after more than 30 years with the sheriff's department {wslm_2022}.",
+   "January 2022: Filed for the Republican nomination for a second term; Deputy Wayne Blevins filed against him in the May 2022 primary {wslm_2022}.",
+   "2026: The sheriff's office website lists Miller as sheriff overseeing a department of more than 55 employees {wcso_site}.",
+   "2026: The county council approved a salary-ordinance amendment moving a probationary sheriff's deputy to regular deputy pay while setting the 2027 budget {wct_council_2027}."
+  ]
+ },
+ "race_context": [
+  "Washington County (Salem) will elect a new sheriff: Sheriff Brent Miller is not among the four candidates on the general-election ballot {wct_general_list} {in_list}.",
+  "Four Republicans filed by January 2026 (Chris Strange, Wayne Blevins, Brad Naugle and Danny Libka), and Joe Keltner also appeared on the May 5, 2026 Republican primary ballot; Max Greene was the only Democrat {wslm_2026_filings} {wct_primary_list}.",
+  "Blevins won the Republican nomination; Greene was unopposed for the Democratic nomination. Claude C. Combs and Walter (Johnny Z) Zelivetz are on the ballot as independents {wct_general_list} {wct_blevins_2026} {in_list}.",
+  "Common themes in candidate interviews with The Washington County Times include staff retention and pay, jail commissary operations, and the county's use of Flock license-plate-reader cameras, which Blevins, Greene and Zelivetz each questioned {wct_blevins_2026} {wct_greene} {wct_zelivetz}.",
+  "No general-election forum or debate was found in available coverage."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Claude C. Combs",
+   "summary": "Claude C. Combs is running as an independent; no interview, announcement or platform was found in available coverage {wct_general_list}.",
+   "website": null,
+   "background": [
+    "No biographical information about this candidate was found in available coverage. Blevins has said he served under a past Washington County sheriff named Claude Combs; whether that is the same person was not confirmed {wct_blevins_2025}."
+   ],
+   "path_to_ballot": [
+    "Listed on the general-election ballot as an independent {in_list} {wct_general_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements about Sheriff Miller's record were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance information was found."
+   ],
+   "gaps": [
+    "Coverage is very thin: The Washington County Times listed him on the general ballot without an interview, and no other candidate coverage was found.",
+    "Whether he is the former Washington County sheriff of the same name is unconfirmed; a search snippet from a police-directory site listed a 'Claude C Combs' as sheriff, likely outdated.",
+    "Independent ballot-access (petition) details were not found."
+   ]
+  },
+  {
+   "ballot_name": "Max Greene",
+   "summary": "Max Greene, a military veteran and former manufacturing supervisor, is the Democratic nominee and has focused on surveillance cameras, jail finances and oversight of county government {wct_greene}.",
+   "website": null,
+   "background": [
+    "Military veteran; former supervisor at Netshape, overseeing a machine room that ran three shifts a day, seven days a week {wct_greene}.",
+    "No law-enforcement experience was described in his candidate interview {wct_greene}."
+   ],
+   "path_to_ballot": [
+    "Only Democratic candidate on the May 5, 2026 primary ballot {wct_primary_list}; listed as the Democratic nominee on the general ballot {wct_general_list} {in_list}."
+   ],
+   "positions": [
+    {"topic": "Transparency", "items": ["Would remove 'All the County Flock Cameras, or Any Surveillance Cameras for that Matter' on his first day, citing the Fourth Amendment and saying the cameras have produced wrong information and false stops {wct_greene}.", "Proposes clear human-resources policies and a citizen merit board instead of one made up of law-enforcement members {wct_greene}."]},
+    {"topic": "Jail & corrections", "items": ["Would rent unused jail beds to other counties and use the revenue for staff pay and retention incentives {wct_greene}.", "Says the commissary should be run for safety rather than profit, saying it 'is being used as a for Profit situation on a captive population' {wct_greene}."]},
+    {"topic": "Staffing & pay", "items": ["Says clear, fairly applied policies would help attract and keep staff, and favors pay tied to workload rather than general raises {wct_greene}."]},
+    {"topic": "Drugs", "items": ["As sheriff he would sit on the county's JRAC board overseeing about $400,000 in opioid-settlement funds, and would direct them toward treatment after studying programs in other counties {wct_greene}."]}
+   ],
+   "on_incumbent": [
+    "Criticized the jail commissary as being run for profit and called for new HR policies in the department; his other statements about the current sheriff are held for editorial review {wct_greene}."
+   ],
+   "plans": [
+    "Remove county surveillance cameras on day one {wct_greene}.",
+    "Rent unused jail beds to other counties to fund staff retention {wct_greene}.",
+    "Create a citizen merit board {wct_greene}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance information was found."
+   ],
+   "gaps": [
+    "The interview's date shows only 'Sep 21' without a year; context indicates 2026.",
+    "Much of his interview addresses county government beyond the sheriff's office (zoning board, auditor's office); those claims were not verified.",
+    "No campaign website or forum appearances found; positions on patrol, school safety and immigration enforcement not found."
+   ]
+  },
+  {
+   "ballot_name": "Walter (Johnny Z) Zelivetz",
+   "summary": "Walter (Johnny Z) Zelivetz is running as an independent and has emphasized drug enforcement and education, officer retention and limits on license-plate cameras {wct_zelivetz}.",
+   "website": null,
+   "background": [
+    "His candidate interview did not describe his occupation or any law-enforcement experience; he describes himself as 'not a politician' but 'a people person' {wct_zelivetz}."
+   ],
+   "path_to_ballot": [
+    "Says he first sought the Republican nomination and is now running as an independent {wct_zelivetz}; listed on the general ballot as an independent {wct_general_list} {in_list}."
+   ],
+   "positions": [
+    {"topic": "Drugs", "items": ["Supports more fentanyl education and stepped-up drug enforcement {wct_zelivetz}."]},
+    {"topic": "Jail & corrections", "items": ["Would observe jail operations, bring in a consultant to review files and interview every officer before making changes; supports treatment programs to help inmates re-enter the community {wct_zelivetz}."]},
+    {"topic": "Staffing & pay", "items": ["Calls for faster removal of poorly performing officers and better pay to retain good ones {wct_zelivetz}."]},
+    {"topic": "Transparency", "items": ["Says broad use of Flock cameras would 'violate the Fourth Amendment'; would allow them at sensitive sites such as schools, parks, hospitals and nursing homes but not to monitor ordinary residents {wct_zelivetz}."]}
+   ],
+   "on_incumbent": [
+    "Did not name the current sheriff in his interview; said he would serve the whole county, 'not just the Salem circle' {wct_zelivetz}."
+   ],
+   "plans": [
+    "First priorities: listen to taxpayers, protect good officers, help inmates re-enter society and serve the entire county {wct_zelivetz}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance information was found."
+   ],
+   "gaps": [
+    "No background, occupation or law-enforcement experience found.",
+    "He was not on the May 2026 Republican primary ballot list; when and how he left the Republican race and qualified as an independent was not found.",
+    "The interview's date shows only 'Sep 23' without a year; context indicates 2026.",
+    "No positions found on budget, patrol, school safety or immigration enforcement."
+   ]
+  },
+  {
+   "ballot_name": "Wayne Blevins",
+   "summary": "Wayne Blevins is a lieutenant with the Washington County Sheriff's Department, where he has served about 31 years, mostly on patrol; this is his third run for sheriff {wct_blevins_2026}.",
+   "website": null,
+   "background": [
+    "Reserve deputy 1995–2000, process server from 2000, and merit deputy from 2001 after graduating from the Indiana Law Enforcement Academy {wct_blevins_2025}.",
+    "Currently holds the rank of lieutenant; describes his career as a road (patrol) officer without an administrative role {wct_blevins_2026} {wct_blevins_2025}.",
+    "Previously worked as an EMT/advanced EMT on the county ambulance service, as a deputy coroner for four years and as a volunteer firefighter {wct_blevins_2025} {wct_blevins_2026}."
+   ],
+   "path_to_ballot": [
+    "Ran for sheriff in 2018 and 2022 {wct_blevins_2026}; in 2022 he challenged Sheriff Miller in the Republican primary {wslm_2022}.",
+    "Won the May 5, 2026 Republican primary in a five-candidate field {wct_primary_list} {wct_general_list} {wct_blevins_2026}."
+   ],
+   "positions": [
+    {"topic": "Staffing & pay", "items": ["Calls employee retention a top concern; would work with the county council on competitive pay, better training and fair treatment {wct_blevins_2026}.", "Says 'Drawing candidates to small departments with less pay and benefits than bigger departments can be very difficult,' and proposes recruiting people who want long-term careers there {wct_blevins_2026}."]},
+    {"topic": "Jail & corrections", "items": ["Says day-to-day operations and the jail are working well; would ensure jail staff receive training {wct_blevins_2026}.", "Would review all vendor and commissary contracts to control costs and keep commissary prices affordable {wct_blevins_2026}."]},
+    {"topic": "Drugs", "items": ["Would target suppliers, add patrols in areas of drug activity and act on tips; would expand substance-abuse programs in the jail with referrals on release {wct_blevins_2026}.", "Said in 2025 he would use officer discretion for minor misdemeanors without victims {wct_blevins_2025}."]},
+    {"topic": "School safety", "items": ["Supports prevention programs in schools with resource officers and wants to bring back school visits he says were discontinued {wct_blevins_2026} {wct_blevins_2025}."]},
+    {"topic": "Transparency", "items": ["Says 'I personally am not a fan of what they are becoming' about license-plate-reader cameras, citing Fourth Amendment and data-sharing concerns while acknowledging their investigative use {wct_blevins_2026}.", "Wants equal treatment of employees, accountability and protection for whistleblowers {wct_blevins_2025}."]}
+   ],
+   "on_incumbent": [
+    "Has said he has seen employees leave the department under the four sheriffs he served, adding, 'I'm not saying that any of the other sheriffs have done anything wrong, though' {wct_blevins_2025}.",
+    "In 2026 he said the jail and day-to-day operations are working well and he would focus on communication with employees {wct_blevins_2026}."
+   ],
+   "plans": [
+    "Meet with employees and improve communication {wct_blevins_2026}.",
+    "Ongoing training in de-escalation, mental-health crisis response and constitutional duties {wct_blevins_2026}.",
+    "Study jail practices in counties such as Scott and Jackson {wct_blevins_2025}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance information was found."
+   ],
+   "gaps": [
+    "Primary vote totals were not found; his nomination is confirmed by the general-ballot list.",
+    "A search snippet said he lost the 2018 Republican primary by 11 votes; unverified.",
+    "His 2026 interview's wording on license-plate readers ('begin the process to remove them') is ambiguous about whether it refers to the cameras.",
+    "No positions found on immigration enforcement."
+   ]
+  }
+ ],
+ "review_flags": [
+  {"person": "Brent Miller", "category": "misconduct allegation", "status": "held", "summary": "In a September 2026 candidate interview, Democratic candidate Max Greene alleged that a December 6, 2022 domestic incident involving a deputy who was a Republican sheriff candidate was 'covered up by both the Sheriff and the Prosecutor,' and that the prosecutor withheld the report despite requests. He also referred, without detail, to HR problems in the department. The Times printed his answers unedited and did not verify them; no response from the sheriff or prosecutor was found {wct_greene}.", "note": "Unverified allegation by a candidate; the deputy is not named, and could be a 2026 candidate. No official record or reporting on the incident was found."},
+  {"person": "Wayne Blevins", "category": "other", "status": "held", "summary": "In a November 2025 Washington County Times interview, Blevins addressed a high-school nickname and past rumors about drug use; he said he used marijuana as a teenager, last at age 18, denied selling drugs and said he has never failed a department random drug test {wct_blevins_2025}.", "note": "Candidate's own account of personal history and rumors; no other reporting found."},
+  {"person": "Walter (Johnny Z) Zelivetz", "category": "remark", "status": "held", "summary": "In a September 2026 interview, Zelivetz said unnamed people tried to intimidate him into quitting the race early {wct_zelivetz}.", "note": "No details or names given; not verified."}
+ ],
+ "sources": {
+  "wslm_2022": ["New Filing Sets up Primary Race for Sheriff", "WSLM Radio", "2022-01-12", "https://wslmradio.com/2022/01/12/new-filing-sets-up-primary-race-for-sheriff/"],
+  "wcso_site": ["Washington County Sheriff's Office (home page)", "Washington County Sheriff's Office", "2026-10", "https://www.washingtoncountyinsheriff.org/"],
+  "wslm_2026_filings": ["Strange Adds Name to Sheriff Race; Complete Filings List", "WSLM Radio", "2026-01-09", "https://wslmradio.com/2026/01/09/strange-adds-name-to-sheriff-race-complete-filings-list/"],
+  "wct_primary_list": ["Full list of Washington County 2026 Primary Election Candidates", "The Washington County Times", "2026-05-06", "https://www.washingtoncountytimes.com/post/2026-election-candidates-for-washington-county-indiana"],
+  "wct_general_list": ["Election 2026: Candidates on the General Ballot", "The Washington County Times", "2026-10", "https://www.washingtoncountytimes.com/post/election-2026-candidates-on-the-general-ballot"],
+  "wct_blevins_2025": ["Election 2026: Sheriff Candidate Lieutenant Wayne Blevins", "The Washington County Times", "2025-11-07", "https://www.washingtoncountytimes.com/post/election-2026-sheriff-candidate-lieutenant-wayne-blevins"],
+  "wct_blevins_2026": ["Election 2026: Candidate for Washington County Sheriff Wayne Blevins", "The Washington County Times", "2026-10", "https://www.washingtoncountytimes.com/post/election-2026-candidate-for-washington-county-sheriff-wayne-blevins"],
+  "wct_greene": ["Election 2026: Candidate for Washington County Sheriff Max Greene", "The Washington County Times", "2026-09-21", "https://www.washingtoncountytimes.com/post/election-2026-candidate-for-washington-county-sheriff-max-greene"],
+  "wct_zelivetz": ["Election 2026: Candidate for Washington County Sheriff Walter \"Johnny Z\" Zelivetz", "The Washington County Times", "2026-09-23", "https://www.washingtoncountytimes.com/post/election-2026-candidate-for-washington-county-sheriff-walter-johnny-z-zelivetz"],
+  "wct_council_2027": ["County council sets 2027 budget; Temple claims he may keep highway garage", "The Washington County Times", "2026-10", "https://www.washingtoncountytimes.com/post/county-council-sets-2027-budget-temple-claims-he-may-keep-highway-garage"]
+ }
+}

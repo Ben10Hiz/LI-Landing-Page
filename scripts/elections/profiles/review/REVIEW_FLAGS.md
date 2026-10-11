@@ -431,3 +431,20 @@ Sensitive items held for a second, careful editorial pass (criminal cases, misco
   Note: Police reports; no charges filed as of Oct. 8, 2026. Includes his statement that he is stepping back from active campaigning. Previously shown in the public profile.
   - [Becker to decide if senator should face shoplifting charges](https://www.ipm.org/news/2026-10-08/becker-to-decide-if-senator-should-face-shoplifting-charges) — WVPE via IPM, 2026-10-08
   - [2026 General Election Candidate List](https://www.in.gov/sos/elections/candidate-information/) — Indiana Election Division, 2026-09-22
+
+## Indiana County Sheriff (`in-washington-county-sheriff`)
+
+- **Brent Miller** — misconduct allegation — _held_
+  In a September 2026 candidate interview, Democratic candidate Max Greene alleged that a December 6, 2022 domestic incident involving a deputy who was a Republican sheriff candidate was 'covered up by both the Sheriff and the Prosecutor,' and that the prosecutor withheld the report despite requests. He also referred, without detail, to HR problems in the department. The Times printed his answers unedited and did not verify them; no response from the sheriff or prosecutor was found.
+  Note: Unverified allegation by a candidate; the deputy is not named, and could be a 2026 candidate. No official record or reporting on the incident was found.
+  - [Election 2026: Candidate for Washington County Sheriff Max Greene](https://www.washingtoncountytimes.com/post/election-2026-candidate-for-washington-county-sheriff-max-greene) — The Washington County Times, 2026-09-21
+
+- **Wayne Blevins** — other — _held_
+  In a November 2025 Washington County Times interview, Blevins addressed a high-school nickname and past rumors about drug use; he said he used marijuana as a teenager, last at age 18, denied selling drugs and said he has never failed a department random drug test.
+  Note: Candidate's own account of personal history and rumors; no other reporting found.
+  - [Election 2026: Sheriff Candidate Lieutenant Wayne Blevins](https://www.washingtoncountytimes.com/post/election-2026-sheriff-candidate-lieutenant-wayne-blevins) — The Washington County Times, 2025-11-07
+
+- **Walter (Johnny Z) Zelivetz** — remark — _held_
+  In a September 2026 interview, Zelivetz said unnamed people tried to intimidate him into quitting the race early.
+  Note: No details or names given; not verified.
+  - [Election 2026: Candidate for Washington County Sheriff Walter "Johnny Z" Zelivetz](https://www.washingtoncountytimes.com/post/election-2026-candidate-for-washington-county-sheriff-walter-johnny-z-zelivetz) — The Washington County Times, 2026-09-23
