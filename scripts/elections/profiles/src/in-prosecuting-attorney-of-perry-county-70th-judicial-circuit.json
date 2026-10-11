@@ -1,0 +1,170 @@
+{
+ "race_id": "in-prosecuting-attorney-of-perry-county-70th-judicial-circuit",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_prosecutor",
+ "incumbent": {
+  "name": "Samantha Hurst",
+  "party": "Republican",
+  "summary": "Hurst was elected Perry County prosecutor in November 2022 {ipac_hurst}, defeating Democrat Jason R. Hoch {enr22g}, and is seeking a second term {enr26p}.",
+  "record": [
+   "November 2022: Elected prosecutor with 3,581 votes to 2,670 for Democrat Jason R. Hoch {enr22g}.",
+   "July 2024 and October 2025: Hurst wrote bylined articles in the Perry County News explaining the facts and charges in individual criminal cases handled by her office {pcn_col1} {pcn_col2} {pcn_col3}.",
+   "July 21, 2026: Hurst and Judge Lucy Goffinet outlined the funding situation of the Perry County Drug Court for the county commissioners, who voted to help support the drug court while funding options remained unsettled {pcn_drug}."
+  ]
+ },
+ "race_context": [
+  "Perry County forms Indiana's 70th Judicial Circuit {in_list}.",
+  "Incumbent Samantha Hurst was unopposed in the May 5, 2026 Republican primary with 567 votes {enr26p}. No Democrat appeared on the primary ballot {enr26p}.",
+  "Democrat Samuel Starks is on the general-election list with a filing date of June 9, 2026, after the primary {sos_gen_list}, consistent with a party filling a ballot vacancy; the method was not confirmed in sources reviewed.",
+  "The Perry County News hosted a candidate forum with Democratic and Republican candidates on Oct. 5, 2026 in Cannelton {pcn_forum}; coverage of what the prosecutor candidates said was not found in freely available text.",
+  "Starks was among the Perry County Democratic candidates recognized at the party's July 25, 2026 honors dinner in Tell City {pcn_dinner}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Samantha Hurst",
+   "summary": "Incumbent Perry County prosecutor since January 2023, seeking a second term {ipac_hurst} {br_hurst}.",
+   "website": "https://www.facebook.com/hurstforprosecutor/",
+   "background": [
+    "Perry County Prosecuting Attorney; elected November 2022 {ipac_hurst}.",
+    "Graduated from the University of Southern Indiana in 2014 and the Indiana University Maurer School of Law in 2017 {ipac_hurst}."
+   ],
+   "path_to_ballot": [
+    "Filed for the Republican nomination Jan. 23, 2026 {sos_prim_list}; unopposed in the May 5, 2026 primary with 567 votes {enr26p}."
+   ],
+   "positions": [
+    {
+     "topic": "Drugs & treatment",
+     "items": [
+      "Briefed the county commissioners in July 2026 on the Perry County Drug Court's funding situation alongside Judge Lucy Goffinet {pcn_drug}."
+     ]
+    },
+    {
+     "topic": "Transparency",
+     "items": [
+      "Has written newspaper articles explaining charges and outcomes in individual cases {pcn_col1} {pcn_col2} {pcn_col3}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. No statements about her opponent found in sources reviewed."
+   ],
+   "plans": [
+    "No published 2026 platform found in freely available sources."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports found."
+   ],
+   "gaps": [
+    "Campaign Facebook page could not be read without logging in; a search snippet of it listed service as an Indiana National Guard judge advocate since 2019 (unverified).",
+    "Perry County News coverage of the Oct. 5, 2026 forum and of the July 2026 drug court discussion is behind a paywall beyond the opening paragraphs.",
+    "Office caseload, staffing and budget figures not found.",
+    "Campaign finance totals not reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Samuel Starks",
+   "summary": "Democratic nominee added to the ballot after the primary; little public information about him was found {sos_gen_list} {pcn_dinner}.",
+   "website": null,
+   "background": [
+    "No background information (occupation, legal experience, education) was found in sources reviewed."
+   ],
+   "path_to_ballot": [
+    "Did not appear on the May 5, 2026 primary ballot {enr26p}; listed as the Democratic candidate with a June 9, 2026 filing date {sos_gen_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements about Hurst's record found in sources reviewed."
+   ],
+   "plans": [
+    "No published platform found."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports found."
+   ],
+   "gaps": [
+    "Coverage is very thin: no campaign website, social media page, news profile or questionnaire was found.",
+    "Occupation and whether he is a licensed Indiana attorney (required for the office) were not confirmed.",
+    "How he was nominated (likely a Democratic Party caucus or vacancy filing) not confirmed.",
+    "His statements at the Oct. 5, 2026 Perry County News forum, if he took part, were not available in free text.",
+    "Search results include other people named Sam or Samuel Starks (e.g., an Atlanta attorney); none were confirmed to be this candidate."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "enr26p": [
+   "2026 Primary Election Results (certified): Prosecuting Attorney",
+   "Indiana Election Division",
+   "2026-05",
+   "https://enr.indianavoters.in.gov/archive/2026Primary/index.html"
+  ],
+  "enr22g": [
+   "2022 General Election Results: Prosecuting Attorney",
+   "Indiana Election Division",
+   "2022-11",
+   "https://enr.indianavoters.in.gov/archive/2022General/index.html"
+  ],
+  "sos_prim_list": [
+   "2026 Primary Candidate List",
+   "Indiana Election Division",
+   "2026-02-25",
+   "https://www.in.gov/sos/elections/files/Primay-Candidate-Mailing-List-2.25.2026.xlsx"
+  ],
+  "sos_gen_list": [
+   "Candidate List - Abbreviated (2026 General Election)",
+   "Indiana Election Division",
+   "2026-09-22",
+   "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+  ],
+  "ipac_hurst": [
+   "Perry County Prosecutor - Samantha Hurst",
+   "Indiana Prosecuting Attorneys Council",
+   "2026-10",
+   "https://www.in.gov/ipac/find-your-prosecutor/perry-county-prosecutor-jason-robert-hoch/"
+  ],
+  "br_hurst": [
+   "Samantha Hurst",
+   "BallotReady",
+   "2026-10",
+   "https://www.ballotready.org/people/samantha-hurst"
+  ],
+  "pcn_drug": [
+   "Commissioners pledge support for Perry County Drug Court",
+   "Perry County News",
+   "2026-07-30",
+   "https://www.duboiscountyherald.com/perry_county_news/news/government/commissioners-pledge-support-for-perry-county-drug-court/article_4380550f-becb-56fd-af7e-024e8c524923.html"
+  ],
+  "pcn_dinner": [
+   "Bayh, Allen speak at Perry County Democratic Honors Dinner",
+   "Perry County News",
+   "2026-07-30",
+   "https://www.duboiscountyherald.com/perry_county_news/news/government/bayh-allen-speak-at-perry-county-democratic-honors-dinner/article_71989ca7-30f1-51f3-bb8c-2544feeb06b2.html"
+  ],
+  "pcn_forum": [
+   "Perry County News hosting Political Forum on Monday in Cannelton",
+   "Perry County News",
+   "2026-10-01",
+   "https://www.duboiscountyherald.com/perry_county_news/news/perry-county-news-hosting-political-forum-on-monday-in-cannelton/article_f777f057-ee59-5b08-b9d4-7bc57b8440a3.html"
+  ],
+  "pcn_col1": [
+   "The Tonya Commer case discussed",
+   "Perry County News",
+   "2024-07-10",
+   "https://www.duboiscountyherald.com/perry_county_news/news/the-tonya-commer-case-discussed/article_c7a20822-50ad-5410-808d-311baf2a9b30.html"
+  ],
+  "pcn_col2": [
+   "James \"Jim\" Horner charges explained",
+   "Perry County News",
+   "2025-10-16",
+   "https://www.duboiscountyherald.com/perry_county_news/news/james-jim-horner-charges-explained/article_c50dbc17-af65-55d8-9c50-9f6d88f1787a.html"
+  ],
+  "pcn_col3": [
+   "Tell City family receives justice",
+   "Perry County News",
+   "2025-10-20",
+   "https://www.duboiscountyherald.com/perry_county_news/news/tell-city-family-receives-justice/article_e3f47128-2820-50f0-8b18-891d74593b7c.html"
+  ]
+ }
+}
