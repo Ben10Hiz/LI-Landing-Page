@@ -1,0 +1,140 @@
+{
+ "race_id": "in-school-board-lakeland",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The district: Lakeland School Corporation is based in LaGrange. It serves Lima, Greenfield, Bloomfield and Johnson townships and part of Clay Township in LaGrange County, including the town of Wolcottville, which reaches into Noble County {lk_bm}. Its schools are Lakeland Primary, Lakeland Intermediate and Lakeland Jr./Sr. High School {kpc_profile}. The superintendent's enrollment counts fell from 1,446 in February 2025 to 1,395 in June 2026 {lk_min250212}{lk_min260610}. Dr. Traci Blaize has been superintendent since October 2022, and on June 10, 2026 the board approved her contract 6-0 {kpc_blaize}{lk_min260610}.",
+  "Board: six members, each assigned to a geographic district. District 1 is Greenfield Township, District 2 is Lima Township, District 3 is Bloomfield Township outside the town of LaGrange, District 4 is the town of LaGrange and part of Clay Township (two members), and District 5 is Johnson Township, including Wolcottville {lk_board}. In January 2026 the board re-elected Brett Bateman president, Derrick Sherck vice president and Rob West secretary; the other members are Sue Keenan, Kara Howard and Shelley Gould {lk_min260114r}. The state list places all three 2026 races on ballots in both LaGrange and Noble counties {in_list}. That suggests voters across the district vote for each seat, but no fetched source states the voting method directly.",
+  "Seats on the 2026 ballot: three seats, one per race, matching the state list's \"vote for 1\" {in_list}{lgc_guide}. District 1: held by board president Brett Bateman, whose term ends in December 2026 {lk_board}. He is not on the ballot; Kari Cossairt and Charles (Bill) Park are running {in_list}. District 2: held by Kara Howard, whose term ends in December 2026 {lk_board}. She is not on the ballot; Robert Bond is unopposed {in_list}. District 4: one of its two seats is held by board secretary Rob West, whose term ends in December 2026 {lk_board}. He is not on the ballot; Ben Brown is unopposed {in_list}. The other District 4 member, Sue Keenan, serves until 2028 {lk_board}. No fetched source explains why the three incumbents did not file.",
+  "Party labels: on the state list, Charles (Bill) Park, Robert Bond and Ben Brown are Republican, and Kari Cossairt is Nonpartisan {in_list}. The LaGrange County Chamber of Commerce voter guide shows the same labels {lgc_guide}.",
+  "Enrollment and building sale: in February 2025 Blaize said the district expected enrollment to drop over the next three years because graduating classes are larger than kindergarten classes, and was preparing for smaller education fund revenue {kpc_lima}. The district accepted an offer from Great Commission University (part of World Olivet Assembly) for the former Lima-Brighton Elementary in Howe, which had closed in 2019 along with Wolcott Mills Elementary {kpc_lima}. Blaize said the sale would help \"position LSC to excel in our infrastructure, staff pay and curriculum expansions\" {kpc_lima}. The board voted 5-0 on Dec. 10, 2025 to approve a Lima building sale resolution {lk_min251210}. On Aug. 12, 2026 it voted 5-0 on a resolution to transfer real estate {lk_min260812}.",
+  "Facilities and bonds: in September 2025 the district announced two bonds. One covers a new cafeteria, an office addition with a secure entrance and an auditorium renovation at the Jr./Sr. High. The other covers Lakeland Primary updates and a secure entrance, a partial roof and playground at Wolcott Mills, and a new maintenance building {kpc_bonds25}. The district said it has the seventh-lowest debt service rate of all Indiana schools {kpc_bonds25}. At the Sept. 2025 project hearing, the board approved the Jr./Sr. High project 6-0 and the Wolcott Mills/Lakeland Primary project 5-1 {lk_min250910h}. The minutes do not say who voted no {lk_min250910h}. In June 2026 the board gave notice of two more financings: up to $3,150,000 in general obligation bonds for roofing, HVAC, athletics and other improvements, and $6,865,000 in lease-backed bonds mainly for Lakeland Intermediate (safety, HVAC and roofing) {lk_gob}{lk_lease}. The board held a lease and bond hearing on July 8, 2026 {lk_lease_hr}.",
+  "Budget: the board adopted the 2026 budget 5-0 on Oct. 22, 2025, along with tax-rate, capital projects and bus replacement resolutions {lk_min251022}. No fetched minutes or news describe how the 2025 property-tax law (SEA 1) affects Lakeland.",
+  "Safety and curriculum: in February 2025 parents raised concerns about aggressive student behavior in first-grade classrooms and about how students are removed from classrooms {lk_min250212}. In August 2026 the board approved a school resource officer agreement 5-0 {lk_min260812}. On May 13, 2026 it approved new K-8 mathematics curriculum and a human sexuality curriculum, each 6-0 {lk_min260513}. In 2026 the minutes refer to a combined \"Lakeland Elementary School\" handbook, and on Aug. 12, 2026 the board approved a school name change 5-0 {lk_min260610}{lk_min260812}. The minutes do not name the school.",
+  "Board meetings: 2025-26 minutes record few public comments and mostly unanimous votes {lk_min251210}{lk_min260610}{lk_min260909}. On June 10, 2026 the athletic handbook and the high-ability handbook each passed 5-1 {lk_min260610}.",
+  "Forums: the LaGrange County Chamber of Commerce scheduled a \"Connect With The Candidates\" event for Oct. 20, 2026 at Lakeland Intermediate School, after this profile's review date {lgc_guide}{kpc_letter}. No news coverage, questionnaire or campaign statement from any of the four Lakeland candidates was found."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Charles (Bill) Park",
+   "seat": "District 1",
+   "summary": "Running for the open District 1 (Greenfield Township) seat; listed as Republican. A Bill Park of Howe, described as a former Lakeland board member and board president, lost the 2022 race for this seat {in_list}{kpc_2022prev}{kpc_2022res}.",
+   "website": null,
+   "background": [
+    "In 2022 KPC News described Bill Park, of Howe, as a former Lakeland board member and former board president {kpc_2022prev}. That Bill Park ran for the District 1 seat in 2022 {kpc_2022prev}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state list as Republican for District 1 {in_list}{lgc_guide}.",
+    "In November 2022 incumbent board president Brett Bateman defeated Bill Park 1,716 to 916 for the District 1 seat {kpc_2022res}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements about the current board's decisions were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No occupation, website, campaign statement or questionnaire was found.",
+    "No fetched source explicitly confirms that the 2026 ballot's Charles (Bill) Park is the same person as the 2022 candidate and former board member, though the name, town and seat match.",
+    "The years of his earlier board service were not found.",
+    "The Chamber's Oct. 20 candidate event comes after this profile's review date."
+   ]
+  },
+  {
+   "ballot_name": "Kari Cossairt",
+   "seat": "District 1",
+   "summary": "Running for the open District 1 (Greenfield Township) seat; listed as Nonpartisan {in_list}{lgc_guide}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state list as Nonpartisan for District 1 {in_list}. The Chamber of Commerce voter guide lists no party affiliation for her {lgc_guide}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements about the current board's decisions were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No occupation, biography, website, social media page, campaign statement or news coverage was found. Web searches for her name returned nothing related to this race.",
+    "The Chamber's Oct. 20 candidate event comes after this profile's review date."
+   ]
+  },
+  {
+   "ballot_name": "Robert Bond",
+   "seat": "District 2",
+   "summary": "Running unopposed for the District 2 (Lima Township) seat now held by Kara Howard, who is not on the ballot. Listed as Republican {in_list}{lk_board}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state list as Republican for District 2 and is the only candidate {in_list}{lgc_guide}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements about the current board's decisions were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No occupation, biography, website, campaign statement or news coverage was found.",
+    "The July 8, 2026 board minutes thank \"Bill and Bob\" for attending but do not give last names, so this could not be tied to any candidate."
+   ]
+  },
+  {
+   "ballot_name": "Ben Brown",
+   "seat": "District 4",
+   "summary": "Running unopposed for the District 4 seat now held by Rob West, who is not on the ballot. Listed as Republican {in_list}{lk_board}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state list as Republican for District 4 and is the only candidate {in_list}{lgc_guide}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements about the current board's decisions were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No occupation, biography, website, campaign statement or news coverage was found. The name is common, so searches turned up nothing that could be tied to this candidate.",
+    "The Chamber's election web page lists him under a second \"District 2\" heading, but its PDF voter guide and the state list put him in District 4."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "lk_board": ["School Board", "Lakeland School Corporation", "2026-10", "https://www.lakelandlakers.org/school-board"],
+  "lk_bm": ["Board Members (school corporation boundaries)", "Lakeland School Corporation", "2026-10", "https://lakelandlakers.org/board-members"],
+  "lk_min250212": ["Board of School Trustees minutes, Feb. 12, 2025", "Lakeland School Corporation", "2025-02-12", "https://files.smartsites.parentsquare.com/13464/02122025_board_meeting_minutes.pdf"],
+  "lk_min250910h": ["Project hearing minutes, Sept. 2025", "Lakeland School Corporation", "2025-09", "https://files.smartsites.parentsquare.com/13464/9_10_2025_project_hearing_meeting_minutesdocx.pdf"],
+  "lk_min251022": ["Board of School Trustees minutes, Oct. 22, 2025", "Lakeland School Corporation", "2025-10-22", "https://files.smartsites.parentsquare.com/13464/10_22_2025_board_meeting_minutes.pdf"],
+  "lk_min251210": ["Board of School Trustees minutes, Dec. 10, 2025", "Lakeland School Corporation", "2025-12-10", "https://files.smartsites.parentsquare.com/13464/12-10-2025-board-meeting-minutes.pdf"],
+  "lk_min260114r": ["Board reorganization meeting minutes, Jan. 14, 2026", "Lakeland School Corporation", "2026-01-14", "https://files.smartsites.parentsquare.com/13464/1-14-2026-reorganization-board-meeting-minutes.pdf"],
+  "lk_min260513": ["Board of School Trustees minutes, May 13, 2026", "Lakeland School Corporation", "2026-05-13", "https://files.smartsites.parentsquare.com/13464/5-13-2026-board-meeting-minutesdocx---google-docs.pdf"],
+  "lk_min260610": ["Board of School Trustees minutes, June 10, 2026", "Lakeland School Corporation", "2026-06-10", "https://files.smartsites.parentsquare.com/13464/6_10_2026_board_meeting_minutesdocx_-_google_docs.pdf"],
+  "lk_lease_hr": ["Lease & additional appropriation hearing, July 8, 2026", "Lakeland School Corporation", "2026-07-08", "https://files.smartsites.parentsquare.com/13464/7_8_2026_lease_hearing.pdf"],
+  "lk_min260812": ["Board of School Trustees minutes, Aug. 12, 2026", "Lakeland School Corporation", "2026-08-12", "https://files.smartsites.parentsquare.com/13464/8_12_2026_board_meeting_minutesdocx_-_google_docs.pdf"],
+  "lk_min260909": ["Board of School Trustees minutes, Sept. 9, 2026", "Lakeland School Corporation", "2026-09-09", "https://files.smartsites.parentsquare.com/13464/9_9_2026_board_meeting_minutes.pdf"],
+  "lk_gob": ["Notice of determination (general obligation bonds, not to exceed $3,150,000)", "Lakeland School Corporation", "2026-06-17", "https://docs.google.com/document/d/16W7SsB0w6yDBZOyRZpol8Pvcxqlsiyp28-rcyM9WTQ8/edit?usp=sharing"],
+  "lk_lease": ["Notice of determination (lease bonds, $6,865,000)", "Lakeland School Corporation", "2026-06-17", "https://docs.google.com/document/d/1gSAoHGNJl1TZ46tmOzgMXJtetP_1tJiG0KZb4cgx87s/edit?usp=sharing"],
+  "kpc_bonds25": ["Lakeland plans major facility upgrades", "KPC News (News Sun)", "2025-09-27", "https://www.kpcnews.com/newssun/article_f7122b5b-f89a-4abf-be40-7cd73fa665d9.html"],
+  "kpc_lima": ["Howe elementary school being purchased by Great Commission University", "KPC News (News Sun)", "2025-02-05", "https://www.kpcnews.com/newssun/article_0b1d8e06-dfef-11ef-94f3-6712a07e2ae6.html"],
+  "kpc_blaize": ["Lakeland board members officially make Dr. Traci Blaize the school district's new superintendent", "KPC News (News Sun)", "2022-10-05", "https://www.kpcnews.com/newssun/article_fd7ef068-ddd8-5735-b870-c68d4ac9a37d.html"],
+  "kpc_profile": ["Lakeland School Corporation (district profile)", "KPC News", "2026-03-19", "https://www.kpcnews.com/article_3b55f6da-f762-4771-b9a9-f7443584127a.html"],
+  "kpc_2022prev": ["Election Day is Tuesday", "KPC News", "2022-11-05", "https://www.kpcnews.com/election/article_1c0c3bc3-d0ca-52ad-83d6-d20ad059654e.html"],
+  "kpc_2022res": ["Harker wins race for LaGrange County Sheriff", "KPC News", "2022-11-09", "https://www.kpcnews.com/election/article_8758ca38-f935-53ca-872a-3a0d6cb4bb5a.html"],
+  "kpc_letter": ["Citizens in Steuben County without opportunity to meet the candidates (letter to the editor)", "KPC News", "2026-09-30", "https://www.kpcnews.com/opinions/article_857b49cb-5a28-415d-a4da-ea0026922b1a.html"],
+  "lgc_guide": ["2026 Voters Guide (General Election)", "LaGrange County Chamber of Commerce", "2026-09-16", "https://irp.cdn-website.com/7b04f157/files/uploaded/%28Simple%29+2026+Voters+Guide_General+%281%29.pdf"]
+ }
+}

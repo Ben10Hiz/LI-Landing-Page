@@ -105,6 +105,31 @@ Sensitive items held for a second, careful editorial pass (criminal cases, misco
   - [MCS board presents tentative agreement with teachers](https://www.madisoncourier.com/news/mcs-board-presents-tentative-agreement-with-teachers/article_03240253-b952-56e8-a350-78d5b469137b.html) — Madison Courier, 2024-10-31
   - [MCS ratifies teacher contract, increases pay for all staff](https://www.madisoncourier.com/news/mcs-ratifies-teacher-contract-increases-pay-for-all-staff/article_55f4f9dd-9a5e-5bd5-9ee4-1db7a213aa3f.html) — Madison Courier, 2024-11-14
 
+## Indiana School Board Member (`in-school-board-kosciusko-wawasee`)
+
+- **Stephen Troyer (former superintendent; not a candidate)** — personnel action — _held_
+  On Jan. 26, 2026 the district told staff and parents that Troyer was "off-duty while he and the school corporation work out the terms of a resignation agreement," and named an interim superintendent. School officials gave no further comment, and Troyer was not available for comment. No fetched source states the reason or the final terms.
+  Note: Context for the board's 2026 record. The profile text says only that he resigned and an interim was named. The reasons are unconfirmed.
+  - [Troyer resigns at Wawasee, interim superintendent named](https://www.inkfreenews.com/2026/01/26/troyer-resigns-at-wawasee-interim-superintendent-named/) — InkFreeNews, 2026-01-26
+
+- **Andy Cripe (District 2 incumbent; not running)** — other — _held_
+  On Feb. 10, 2026 resident Rob Chalk called for board president Cripe to resign and criticized the hiring of boys basketball coach Joe Luce, alleging the appointment involved a $40,000 private donation and special accommodations. Cripe said the past months had been challenging and asked residents to work with the board; Likens and Baut also responded. Resident Alex Wild alleged nepotism and retaliation in the school corporation.
+  Note: These are unverified allegations by residents. Likens's response is used in his profile without the underlying claims. The donation claim was not independently confirmed.
+  - [Patrons Press Wawasee School Board On Safety, Pay Equity, And Superintendent Search](https://www.inkfreenews.com/2026/02/11/patrons-press-wawasee-school-board-on-safety-pay-equity-and-superintendent-search/) — InkFreeNews, 2026-02-11
+  - [Regular school board meeting minutes, Feb. 10, 2026](https://meetings.boardbook.org/Documents/FileViewerOrPublic/1912?file=10954358) — Wawasee Community School Corporation (BoardBook), 2026-02-10
+
+- **Steven Baut (former District 3 member; not a candidate)** — other — _held_
+  On Feb. 10, 2026 a resident accused Baut of not living in the Milford district; the minutes record his address as Camelot Lake, Milford. On March 2, 2026 Baut announced his resignation, effective March 3; InkFreeNews reported that he cited personal attacks over his living arrangements.
+  Note: Explains the vacancy Beer filled. The reported reason involves family details, so it is left out of the profile.
+  - [Regular school board meeting minutes, Feb. 10, 2026](https://meetings.boardbook.org/Documents/FileViewerOrPublic/1912?file=10954358) — Wawasee Community School Corporation (BoardBook), 2026-02-10
+  - [Resignation, Summer Programming, Proposed Milford Park Headline Wawasee Work Session](https://www.inkfreenews.com/2026/03/02/resignation-summer-programming-proposed-milford-park-headline-wawasee-work-session/) — InkFreeNews, 2026-03-02
+  - [Work session minutes, March 2, 2026](https://meetings.boardbook.org/Documents/FileViewerOrPublic/1912?file=10954369) — Wawasee Community School Corporation (BoardBook), 2026-03-02
+
+- **Wawasee board (including candidate Neil Likens)** — other — _held_
+  On Aug. 11, 2025 resident Lissa Krull told the board that its practice of holding an executive session before every regular meeting amounted to making decisions outside public meetings in violation of Indiana's open door law. Troyer said he would review the concerns raised at the meeting.
+  Note: No ruling, public access counselor opinion or court finding was found. The profile mentions only that residents raised concerns about executive sessions.
+  - [Governance, Gymnastics Concerns Voiced At Wawasee School Board Meeting](https://www.inkfreenews.com/2025/08/11/governance-gymnastics-concerns-voiced-at-wawasee-school-board-meeting/) — InkFreeNews, 2025-08-11
+
 ## Indiana School Board Member (`in-school-board-marion-decatur`)
 
 - **Chase Lyday** — misconduct allegation — _held_

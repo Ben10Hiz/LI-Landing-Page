@@ -1,0 +1,84 @@
+{
+ "race_id": "in-school-board-kosciusko-wawasee",
+ "office": "Indiana School Board Member",
+ "flags": [
+  {
+   "person": "Stephen Troyer (former superintendent; not a candidate)",
+   "category": "personnel action",
+   "status": "held",
+   "summary": "On Jan. 26, 2026 the district told staff and parents that Troyer was \"off-duty while he and the school corporation work out the terms of a resignation agreement,\" and named an interim superintendent. School officials gave no further comment, and Troyer was not available for comment. No fetched source states the reason or the final terms.",
+   "note": "Context for the board's 2026 record. The profile text says only that he resigned and an interim was named. The reasons are unconfirmed.",
+   "sources": [
+    {
+     "title": "Troyer resigns at Wawasee, interim superintendent named",
+     "publisher": "InkFreeNews",
+     "date": "2026-01-26",
+     "url": "https://www.inkfreenews.com/2026/01/26/troyer-resigns-at-wawasee-interim-superintendent-named/"
+    }
+   ]
+  },
+  {
+   "person": "Andy Cripe (District 2 incumbent; not running)",
+   "category": "other",
+   "status": "held",
+   "summary": "On Feb. 10, 2026 resident Rob Chalk called for board president Cripe to resign and criticized the hiring of boys basketball coach Joe Luce, alleging the appointment involved a $40,000 private donation and special accommodations. Cripe said the past months had been challenging and asked residents to work with the board; Likens and Baut also responded. Resident Alex Wild alleged nepotism and retaliation in the school corporation.",
+   "note": "These are unverified allegations by residents. Likens's response is used in his profile without the underlying claims. The donation claim was not independently confirmed.",
+   "sources": [
+    {
+     "title": "Patrons Press Wawasee School Board On Safety, Pay Equity, And Superintendent Search",
+     "publisher": "InkFreeNews",
+     "date": "2026-02-11",
+     "url": "https://www.inkfreenews.com/2026/02/11/patrons-press-wawasee-school-board-on-safety-pay-equity-and-superintendent-search/"
+    },
+    {
+     "title": "Regular school board meeting minutes, Feb. 10, 2026",
+     "publisher": "Wawasee Community School Corporation (BoardBook)",
+     "date": "2026-02-10",
+     "url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/1912?file=10954358"
+    }
+   ]
+  },
+  {
+   "person": "Steven Baut (former District 3 member; not a candidate)",
+   "category": "other",
+   "status": "held",
+   "summary": "On Feb. 10, 2026 a resident accused Baut of not living in the Milford district; the minutes record his address as Camelot Lake, Milford. On March 2, 2026 Baut announced his resignation, effective March 3; InkFreeNews reported that he cited personal attacks over his living arrangements.",
+   "note": "Explains the vacancy Beer filled. The reported reason involves family details, so it is left out of the profile.",
+   "sources": [
+    {
+     "title": "Regular school board meeting minutes, Feb. 10, 2026",
+     "publisher": "Wawasee Community School Corporation (BoardBook)",
+     "date": "2026-02-10",
+     "url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/1912?file=10954358"
+    },
+    {
+     "title": "Resignation, Summer Programming, Proposed Milford Park Headline Wawasee Work Session",
+     "publisher": "InkFreeNews",
+     "date": "2026-03-02",
+     "url": "https://www.inkfreenews.com/2026/03/02/resignation-summer-programming-proposed-milford-park-headline-wawasee-work-session/"
+    },
+    {
+     "title": "Work session minutes, March 2, 2026",
+     "publisher": "Wawasee Community School Corporation (BoardBook)",
+     "date": "2026-03-02",
+     "url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/1912?file=10954369"
+    }
+   ]
+  },
+  {
+   "person": "Wawasee board (including candidate Neil Likens)",
+   "category": "other",
+   "status": "held",
+   "summary": "On Aug. 11, 2025 resident Lissa Krull told the board that its practice of holding an executive session before every regular meeting amounted to making decisions outside public meetings in violation of Indiana's open door law. Troyer said he would review the concerns raised at the meeting.",
+   "note": "No ruling, public access counselor opinion or court finding was found. The profile mentions only that residents raised concerns about executive sessions.",
+   "sources": [
+    {
+     "title": "Governance, Gymnastics Concerns Voiced At Wawasee School Board Meeting",
+     "publisher": "InkFreeNews",
+     "date": "2025-08-11",
+     "url": "https://www.inkfreenews.com/2025/08/11/governance-gymnastics-concerns-voiced-at-wawasee-school-board-meeting/"
+    }
+   ]
+  }
+ ]
+}
