@@ -1,0 +1,104 @@
+{
+ "race_id": "in-crawford-county-sheriff",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_sheriff",
+ "incumbent": {
+  "name": "Jeff Howell",
+  "party": "Not confirmed in sources reviewed",
+  "summary": "Jeff Howell is Crawford County's sheriff {cc_offices} {clarion_gop}. The Clarion News reported that he cannot run again because of term limits, so the seat is open in 2026 {clarion_gop}. Republican nominee Will Breeding has been his chief deputy since September 2018 {clarion_breeding}.",
+  "record": [
+   "Term-limited: barred from seeking re-election in 2026 {clarion_gop}.",
+   "Early 2025: Told the County Council the county had fallen behind on deputy pay. Starting salary was $36,070, which he said was $6,000 or more below surrounding counties, and he said it had become increasingly difficult to attract new hires {clarion_pay}.",
+   "March 11, 2025: The council voted 5–1 to advertise the first of Howell's two pay proposals, funded from the county public-safety tax. It would raise new-hire deputy pay to $45,020, $52,333 after the first year and $54,032 for second-year deputies, with $2,000 increases for the captain and lieutenant. A final vote was expected in April 2025 {clarion_pay}.",
+   "His chief deputy, Will Breeding, credits the department under Howell with better training, equipment, grants and pay, and with having three in-house instructors so training can exceed state minimums at no added cost to taxpayers {clarion_breeding}."
+  ]
+ },
+ "race_context": [
+  "Crawford County, in south-central Indiana with its seat in English, elects a sheriff to a four-year term. Sheriff Jeff Howell is term-limited, so the seat is open {clarion_gop}.",
+  "Five candidates filed: Republicans Will Breeding, Justin S. Froman, Justin M. Lutz and Robert L. \"Bob\" Shaw, and Democrat Dan Hogle {cc_candidates}.",
+  "May 5, 2026 primary: Unofficial results released the day after the election showed Breeding 629, Froman 614, Lutz 334 and Shaw 22. The Clarion News reported problems with the primary, including ballots that listed the wrong county council districts, machine malfunctions and delayed counting. A revised count adding 61 ballots followed less than an hour after the first {clarion_primary}. Breeding is the Republican nominee on the general-election ballot {in_list}.",
+  "Hogle was unopposed in the Democratic primary {clarion_gop}.",
+  "Deputy pay and recruitment have been a recent issue for the office, with the county council moving in 2025 to raise deputy salaries using public-safety tax funds {clarion_pay}.",
+  "No general-election forum or debate for this race was found."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Will Breeding",
+   "summary": "Republican nominee and chief deputy of the Crawford County Sheriff's Department since 2018 {clarion_breeding}. He says he would build on changes made under Sheriff Howell, especially in training, grants and pay {clarion_breeding}.",
+   "website": null,
+   "background": [
+    "Chief deputy, Crawford County Sheriff's Department, since September 2018 {clarion_breeding}.",
+    "Previously a correctional officer (2013–2014) and reserve deputy (2013–2014) in the sheriff's department, Marengo marshal (2014), and a deputy since September 2014 {clarion_breeding}.",
+    "Holds an associate degree in conservation law enforcement and a bachelor's degree in homeland security from Vincennes University. He was an honor graduate of the Indiana Law Enforcement Academy and is a certified basic, firearms and patrol-rifle instructor. He has attended Purdue Global Law School since 2025 {clarion_breeding}.",
+    "First run for elected office {clarion_breeding}."
+   ],
+   "path_to_ballot": [
+    "Led the four-way Republican primary on May 5, 2026, in unofficial results: 629 votes to Justin Froman's 614, Justin Lutz's 334 and Robert Shaw's 22 {clarion_primary}.",
+    "Listed as the Republican candidate on the general-election ballot {in_list}."
+   ],
+   "positions": [
+    {"topic": "Staffing & pay", "items": [
+     "Would keep providing training for deputies. He notes the department now has three instructors on staff and can exceed minimum training mandates at no added cost to taxpayers {clarion_breeding}."
+    ]},
+    {"topic": "Budget", "items": [
+     "Said he has secured, and would keep securing, grant funding to ease the burden on taxpayers {clarion_breeding}."
+    ]},
+    {"topic": "Transparency", "items": [
+     "Said he wants to keep building community trust and pledged to follow through on his stated plans. He also said his decisions would be made without bias or favoritism {clarion_breeding}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Has served as Sheriff Howell's chief deputy. He called the department's improvements over the past eight years \"phenomenal\" and cited better training, equipment, grants and pay. He also said \"we are not without faults\" and wants to keep improving the department {clarion_breeding}."
+   ],
+   "plans": [
+    "Continue in-house deputy training {clarion_breeding}.",
+    "Pursue grants to offset costs to taxpayers {clarion_breeding}.",
+    "Apply what he has learned in law school to benefit the community {clarion_breeding}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance figures were found."
+   ],
+   "gaps": [
+    "Final certified primary totals were not found. The 629–614 margin over Justin Froman comes from an early unofficial count, and a revised count followed.",
+    "The county offices page lists a county council at-large member named Bill Breeding. That is a different person from the candidate, according to the candidate's own questionnaire.",
+    "No positions were found on the jail, drugs, school safety or immigration detainers. No campaign website or general-election coverage was found."
+   ]
+  },
+  {
+   "ballot_name": "Dan Hogle",
+   "summary": "Democratic nominee, unopposed in the May 2026 primary {clarion_gop}. No reporting on his background or positions was found.",
+   "website": null,
+   "background": [
+    "No background information was found in the sources reviewed."
+   ],
+   "path_to_ballot": [
+    "Filed as a Democrat {cc_candidates} and was unopposed in the May 5, 2026 primary {clarion_gop}.",
+    "Listed as the Democratic candidate on the general-election ballot {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements by Hogle about Sheriff Howell's record or the office's direction were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance figures were found."
+   ],
+   "gaps": [
+    "Coverage is essentially absent. The Clarion News published questionnaire answers only from the Republican primary candidates, and searches found no profile, campaign website, social-media page or news coverage of Hogle.",
+    "His occupation and any law-enforcement experience are unknown.",
+    "No general-election forum was found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "cc_candidates": ["2026 Candidates", "Crawford County, Indiana", "2026-02-10", "https://www.in.gov/counties/crawford/2026-elections/election-information/"],
+  "cc_offices": ["Offices", "Crawford County, Indiana", "2026-10", "https://www.in.gov/counties/crawford/offices/"],
+  "clarion_gop": ["4 seek GOP nod in CC sheriff's race", "The Clarion News", "2026-03-25", "https://www.madisoncourier.com/the_clarion_news/news/4-seek-gop-nod-in-cc-sheriffs-race/article_e085a700-c2a8-58bf-a8f0-2d68d5f7dc66.html"],
+  "clarion_breeding": ["4 seek GOP nod in CC sheriff's race: Will Breeding (candidate questionnaire)", "The Clarion News", "2026-03-25", "https://www.madisoncourier.com/the_clarion_news/news/4-seek-gop-nod-in-cc-sheriffs-race/article_9815bf87-3c12-5042-a44f-0ca0611b91da.html"],
+  "clarion_primary": ["Primary plagued with issues", "The Clarion News", "2026-05-13", "https://www.madisoncourier.com/the_clarion_news/news/primary-plagued-with-issues/article_70b97038-067f-54dc-984f-c48d6f283335.html"],
+  "clarion_pay": ["Council moves ahead with pay increases for deputies, EMTs, EMS director", "The Clarion News", "2025-04-02", "https://www.madisoncourier.com/the_clarion_news/news/council-moves-ahead-with-pay-increases-for-deputies-emts-ems-director/article_fe51f46d-cef3-5fb0-8cab-514e6af8d4ba.html"]
+ }
+}

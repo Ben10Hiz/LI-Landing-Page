@@ -1,0 +1,184 @@
+{
+ "race_id": "in-clark-county-sheriff",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_sheriff",
+ "incumbent": {
+  "name": "Scottie Maples",
+  "party": "Republican",
+  "summary": "Scottie Maples was first elected Clark County sheriff in 2022 and sought a second term in 2026 {lpm_feb}. He lost the May 5, 2026 Republican primary to Kenny Kavanaugh and will serve through the end of 2026, so the seat is open in November {lpm_primary} {nt_primary}. He has worked in the sheriff's office for more than two decades, starting as a corrections officer {lpm_primary}.",
+  "record": [
+   "Career: Began as a corrections officer. He became a sheriff's office police officer in 2007, then worked as a detective, rose to colonel and served more than two years as chief deputy under a prior sheriff {lpm_forum}.",
+   "November 2022: Elected sheriff, defeating Democrat Ed Byers {wave_feb} {lpm_forum}.",
+   "Since 2023: Has given the County Council detailed statements and receipts for commissary spending, according to Maples {lpm_forum}.",
+   "2025: The sheriff's office entered an agreement with the federal government to house people in ICE custody. Maples said the county is paid $90 per person per day plus mileage and staff escort costs, and estimated $2–3 million a year. The money goes to county government rather than the sheriff's office, and he said it helps offset a 2025 property-tax overhaul. Some residents oppose the arrangement, and small, regular protests have been held outside the courthouse {lpm_forum}.",
+   "Operations, by his own account: added jail programming, increased commissary reserves, began upgrading jail cameras for the first time in nearly 20 years, reduced unmarked cars, added patrols, and bought body-worn cameras with commissary funds. He says crime is down {lpm_forum}.",
+   "Helped raise the service requirement for sheriff's pension eligibility from eight to 10 years {lpm_forum}.",
+   "February 2026: Said in a social-media post that he had spent three years \"restoring professionalism, rebuilding trust, and bringing our office into the modern era\" {lpm_feb}.",
+   "May 5, 2026: Lost the Republican primary to Kavanaugh, 35.4% to 64.6%. He congratulated Kavanaugh and pledged to support him as the nominee {lpm_primary}."
+  ]
+ },
+ "race_context": [
+  "Clark County (Jeffersonville, Clarksville, Sellersburg) is in the Louisville metro area. The sheriff runs the county jail, provides courthouse security and patrols the county {lpm_forum}.",
+  "Open seat: Incumbent Republican Scottie Maples lost his primary, so a new sheriff will take office in 2027 {lpm_primary} {lpm_july}.",
+  "Primary results (May 5, 2026): Kenny Kavanaugh defeated Maples, 64.6% to 35.4%. Tim Deeringer defeated retired federal agent Ed Byers for the Democratic nomination, 61.2% to 38.8% {lpm_primary}. Election-night counts reported by the News and Tribune were Kavanaugh 4,934 and Maples 2,611, and Deeringer 3,755 and Byers 2,380 {nt_primary}.",
+  "Dwight T. Ingle filed in February 2026 for the Democratic primary {lpm_feb} {wave_feb}. He is on the November ballot as an Independent {in_list} {lpm_july}.",
+  "Kavanaugh and Deeringer are both former Jeffersonville police chiefs who worked together at that department, and both have talked about improving community trust in the sheriff's office {nt_primary}. Ingle is a former Clarksville police chief {nt_2018}.",
+  "The 2025 agreement to hold ICE detainees in the county jail was a major issue at a pre-primary candidate forum. Kavanaugh said he supports keeping it. Deeringer said continuing the contract is not a simple yes-or-no question {lpm_forum}.",
+  "No general-election forum or debate including all three candidates was found."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Kenny Kavanaugh, Jr.",
+   "summary": "Republican nominee. He spent more than three decades at the Jeffersonville Police Department, including about a decade as chief, and is now a captain there {lpm_forum} {lpm_primary}. He defeated incumbent Sheriff Scottie Maples in the primary {lpm_primary}.",
+   "website": null,
+   "background": [
+    "Captain at the Jeffersonville Police Department, where he works as a second-shift supervisor {lpm_forum} {nt_primary}.",
+    "Has 32 years of police service, according to a campaign press release, including 10 years as JPD chief that ended in August 2025 {wave_feb}.",
+    "Spent 13 years on the SWAT team, three as commander, and served on the Southern Indiana Drug Task Force {lpm_forum}.",
+    "Board member of LifeSpring Health Systems {lpm_forum}."
+   ],
+   "path_to_ballot": [
+    "Filed as a Republican on the February 2026 deadline {lpm_feb}.",
+    "Won the May 5, 2026 Republican primary over incumbent Scottie Maples, 64.6% to 35.4% {lpm_primary}.",
+    "Listed as the Republican candidate on the general-election ballot {in_list}."
+   ],
+   "positions": [
+    {"topic": "Immigration enforcement", "items": [
+     "Supports keeping the county's agreement to house ICE detainees {lpm_forum}."
+    ]},
+    {"topic": "Jail & corrections", "items": [
+     "Said he would maintain the jail to the standards the law requires {lpm_forum}."
+    ]},
+    {"topic": "Staffing & pay", "items": [
+     "Wants an internal organizational plan and employee surveys to learn what staff and leadership need {lpm_forum}."
+    ]},
+    {"topic": "Transparency", "items": [
+     "Said restoring trust requires identifying root causes rather than focusing on a single incident, and that \"It's all about a culture\" {lpm_forum}.",
+     "Would add \"To protect and serve\" to official vehicles {lpm_forum}."
+    ]}
+   ],
+   "on_incumbent": [
+    "When he filed, said new leadership would bring a fresh perspective to the sheriff's office {lpm_feb}.",
+    "After the primary, thanked Maples for his service and said he looked forward to working with Maples' team. He said the result showed people were ready to move forward {lpm_primary}."
+   ],
+   "plans": [
+    "Develop an internal organizational plan and survey employees {lpm_forum}.",
+    "Keep the ICE housing agreement {lpm_forum}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance figures were found."
+   ],
+   "gaps": [
+    "WDRB coverage could not be retrieved because its pages redirect to the station's homepage. Search snippets say that at a pre-primary forum Kavanaugh pledged more transparent audits and said the sheriff's merit commission would meet monthly. These statements are unverified.",
+    "A WDRB search snippet gave his primary total as 5,513 votes, which differs from the 4,934 reported by the News and Tribune. Certified county totals were not found.",
+    "A third-party site (The Ballot Brief) reported no campaign website as of September 2026.",
+    "No general-election forum, budget proposals or school-safety positions were found."
+   ]
+  },
+  {
+   "ballot_name": "Tim Deeringer",
+   "summary": "Democratic nominee. He spent nearly 30 years at the Jeffersonville Police Department, including as chief from 2008 to 2012, and retired as a lieutenant in 2019 {lpm_forum}. His stated priorities are mental-health response and regular public communication about the office's work {lpm_forum}.",
+   "website": null,
+   "background": [
+    "Spent nearly 30 years at the Jeffersonville Police Department: chief from 2008 to 2012, and retired as a lieutenant in 2019 {lpm_forum}.",
+    "His 2026 campaign is his first run for public office {nt_primary}."
+   ],
+   "path_to_ballot": [
+    "Won the May 5, 2026 Democratic primary over retired federal agent Ed Byers, 61.2% to 38.8% {lpm_primary}.",
+    "Listed as the Democratic candidate on the general-election ballot {in_list}."
+   ],
+   "positions": [
+    {"topic": "Immigration enforcement", "items": [
+     "Supports deporting people who are in the country unlawfully and face violent charges. He said continuing the ICE housing contract is not a simple yes-or-no question, noted its financial impact, and said his first duty is protecting Clark County residents {lpm_forum}."
+    ]},
+    {"topic": "Patrol & response", "items": [
+     "Would focus on how the office responds to people with mental-health issues {lpm_forum}."
+    ]},
+    {"topic": "Staffing & pay", "items": [
+     "Would put trustworthy, qualified people in support positions and hold them accountable {lpm_forum}."
+    ]},
+    {"topic": "Transparency", "items": [
+     "Wants the office to be as transparent as possible, including regular communication with the public about its work {lpm_forum}.",
+     "Said the office should be run like a business {lpm_forum}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Said rebuilding trust in the sheriff's office will take change and patience {lpm_forum}.",
+    "After the primary, said that across the county he heard the same message: people want change {nt_primary}."
+   ],
+   "plans": [
+    "Communicate regularly with the public about the office's work {lpm_forum}.",
+    "Strengthen how deputies respond to people with mental-health issues {lpm_forum}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance figures were found."
+   ],
+   "gaps": [
+    "Search snippets of WDRB coverage, which could not be retrieved, quote him as saying his \"big promise is the safeguard of taxpayers,\" that the first thing he would do is look at the budget, and that he would focus on financial transparency. These are unverified.",
+    "No campaign website was found; The Ballot Brief listed his priorities as trust, transparency, accountability and modern technology, but it is a third-party aggregator and is not cited.",
+    "No general-election forum, budget detail or school-safety positions were found."
+   ]
+  },
+  {
+   "ballot_name": "Dwight T Ingle",
+   "summary": "Independent candidate and former Clarksville police chief who served in that post for 20 years {nt_2018}. He was the Democratic nominee for sheriff in 2018 {nt_2018}. Little current reporting on his 2026 campaign was found.",
+   "website": null,
+   "background": [
+    "Former Clarksville police chief for 20 years, according to 2018 News and Tribune coverage {nt_2018}.",
+    "Democratic nominee for Clark County sheriff in 2018. He received 14,205 votes (33%) and lost to Republican incumbent Jamey Noel, who received 62.9% {nt_2018}."
+   ],
+   "path_to_ballot": [
+    "Filed in February 2026 as a candidate in the Democratic primary {lpm_feb} {wave_feb}.",
+    "Listed as an Independent on the general-election ballot {in_list} {lpm_july}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements by Ingle about Sheriff Maples' record or the office's direction were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance figures were found."
+   ],
+   "gaps": [
+    "Coverage of Ingle's 2026 campaign is very thin. He was not among the candidates covered in Louisville Public Media's April 2026 forum story, and no positions were found.",
+    "Search snippets of WDRB coverage, which could not be retrieved, say he withdrew from the Democratic primary before the Feb. 13 deadline to seek ballot access as an Independent by petition (about 720 signatures were needed), that he is 73, that this is his fourth run, and that he lost the 2022 Democratic primary to Ed Byers. These are unverified.",
+    "A third-party site (The Ballot Brief) reported no campaign website or questionnaire response as of September 8, 2026.",
+    "His current occupation was not found."
+   ]
+  }
+ ],
+ "review_flags": [
+  {
+   "person": "Jamey Noel (former sheriff, not a candidate)",
+   "category": "criminal case",
+   "status": "held",
+   "summary": "Former Clark County Sheriff Jamey Noel, who served two terms ending in 2022, was investigated starting in 2023, convicted, and is in prison. The investigation also covered his time running an emergency-services company {lpm_primary} {nt_primary}. Maples' administration found evidence of potential criminal activity by Noel and turned it over to Indiana State Police {lpm_feb}. Maples also said he tried unsuccessfully to block Noel's pension {lpm_forum}. Candidate Ed Byers said he wrote to the FBI about Noel in December 2022 {lpm_forum}.",
+   "note": "This is the backdrop for every candidate's emphasis on trust and transparency, and for Maples' record (he was chief deputy under Noel and later referred the evidence). Search snippets, unverified, say Noel was sentenced in October 2024 to 12 years after pleading guilty to 27 felonies. Editors should decide how to describe it in the profile."
+  },
+  {
+   "person": "Kenny Kavanaugh, Jr.",
+   "category": "personnel action",
+   "status": "held",
+   "summary": "Kavanaugh stepped down as Jeffersonville police chief in August 2025. WAVE reported that he left the post amid \"ongoing financial pressures,\" and Louisville Public Media called it a \"sudden departure.\" He stayed with the department as a captain {wave_feb} {lpm_feb}. No reporting reviewed describes the nature of the financial pressures, and no statement from Kavanaugh about the departure was found.",
+   "note": "The reports do not say whether the departure was voluntary or tied to any investigation. Editors should confirm details before any mention."
+  },
+  {
+   "person": "Scottie Maples",
+   "category": "personnel action",
+   "status": "held",
+   "summary": "A merit board reinstated a sergeant whom Sheriff Maples had recommended for termination. Maples said the recommendation was not political {lpm_forum}.",
+   "note": "This is an office-level personnel matter under the incumbent. The sergeant is not named, and the date and details were not reported in the source reviewed."
+  }
+ ],
+ "sources": {
+  "lpm_feb": ["Former Jeffersonville police chief running for Clark County, Ind. sheriff", "Louisville Public Media", "2026-02-06", "https://www.lpm.org/news/2026-02-06/former-jeffersonville-police-chief-running-for-clark-county-ind-sheriff"],
+  "wave_feb": ["Former Jeffersonville police chief running for Clark County Sheriff", "WAVE News", "2026-02-06", "https://www.wdrbwave.com/2026/02/06/former-jeffersonville-police-chief-running-clark-county-sheriff/"],
+  "lpm_forum": ["Clark County sheriff candidates talk goals, ICE detention and moving past Jamey Noel", "Louisville Public Media", "2026-04-24", "https://www.lpm.org/news/2026-04-24/clark-county-sheriff-candidates-talk-goals-ice-detention-and-moving-past-jamey-noel"],
+  "lpm_primary": ["Kavanaugh knocks incumbent Maples out of Clark County sheriff's race", "Louisville Public Media", "2026-05-05", "https://www.lpm.org/news/2026-05-05/kavanaugh-knocks-incumbent-maples-out-of-clark-county-sheriffs-race"],
+  "nt_primary": ["Kavanaugh defeats incumbent Maples in Clark County sheriff primary; Deeringer gets Democratic nod", "News and Tribune", "2026-05-05", "https://www.newsandtribune.com/news/kavanaugh-defeats-incumbent-maples-in-clark-county-sheriff-primary-deeringer-gets-democratic-nod/article_e297d80f-21b7-4299-a237-ba3289a5996c.html"],
+  "lpm_july": ["Here's who's running for local seats in Clark and Floyd counties", "Louisville Public Media", "2026-07-17", "https://www.lpm.org/news/2026-07-17/heres-whos-running-for-local-seats-in-clark-and-floyd-counties"],
+  "nt_2018": ["Sheriff Noel keeps his badge another four years", "News and Tribune", "2018-11-06", "https://www.newsandtribune.com/news/sheriff-noel-keeps-his-badge-another-four-years/article_46c6ed6c-e249-11e8-b997-a36f3e3ff473.html"]
+ }
+}

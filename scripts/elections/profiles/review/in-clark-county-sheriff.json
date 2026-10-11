@@ -1,0 +1,75 @@
+{
+ "race_id": "in-clark-county-sheriff",
+ "office": "Indiana County Sheriff",
+ "flags": [
+  {
+   "person": "Jamey Noel (former sheriff, not a candidate)",
+   "category": "criminal case",
+   "status": "held",
+   "summary": "Former Clark County Sheriff Jamey Noel, who served two terms ending in 2022, was investigated starting in 2023, convicted, and is in prison. The investigation also covered his time running an emergency-services company . Maples' administration found evidence of potential criminal activity by Noel and turned it over to Indiana State Police. Maples also said he tried unsuccessfully to block Noel's pension. Candidate Ed Byers said he wrote to the FBI about Noel in December 2022.",
+   "note": "This is the backdrop for every candidate's emphasis on trust and transparency, and for Maples' record (he was chief deputy under Noel and later referred the evidence). Search snippets, unverified, say Noel was sentenced in October 2024 to 12 years after pleading guilty to 27 felonies. Editors should decide how to describe it in the profile.",
+   "sources": [
+    {
+     "title": "Kavanaugh knocks incumbent Maples out of Clark County sheriff's race",
+     "publisher": "Louisville Public Media",
+     "date": "2026-05-05",
+     "url": "https://www.lpm.org/news/2026-05-05/kavanaugh-knocks-incumbent-maples-out-of-clark-county-sheriffs-race"
+    },
+    {
+     "title": "Kavanaugh defeats incumbent Maples in Clark County sheriff primary; Deeringer gets Democratic nod",
+     "publisher": "News and Tribune",
+     "date": "2026-05-05",
+     "url": "https://www.newsandtribune.com/news/kavanaugh-defeats-incumbent-maples-in-clark-county-sheriff-primary-deeringer-gets-democratic-nod/article_e297d80f-21b7-4299-a237-ba3289a5996c.html"
+    },
+    {
+     "title": "Former Jeffersonville police chief running for Clark County, Ind. sheriff",
+     "publisher": "Louisville Public Media",
+     "date": "2026-02-06",
+     "url": "https://www.lpm.org/news/2026-02-06/former-jeffersonville-police-chief-running-for-clark-county-ind-sheriff"
+    },
+    {
+     "title": "Clark County sheriff candidates talk goals, ICE detention and moving past Jamey Noel",
+     "publisher": "Louisville Public Media",
+     "date": "2026-04-24",
+     "url": "https://www.lpm.org/news/2026-04-24/clark-county-sheriff-candidates-talk-goals-ice-detention-and-moving-past-jamey-noel"
+    }
+   ]
+  },
+  {
+   "person": "Kenny Kavanaugh, Jr.",
+   "category": "personnel action",
+   "status": "held",
+   "summary": "Kavanaugh stepped down as Jeffersonville police chief in August 2025. WAVE reported that he left the post amid \"ongoing financial pressures,\" and Louisville Public Media called it a \"sudden departure.\" He stayed with the department as a captain . No reporting reviewed describes the nature of the financial pressures, and no statement from Kavanaugh about the departure was found.",
+   "note": "The reports do not say whether the departure was voluntary or tied to any investigation. Editors should confirm details before any mention.",
+   "sources": [
+    {
+     "title": "Former Jeffersonville police chief running for Clark County Sheriff",
+     "publisher": "WAVE News",
+     "date": "2026-02-06",
+     "url": "https://www.wdrbwave.com/2026/02/06/former-jeffersonville-police-chief-running-clark-county-sheriff/"
+    },
+    {
+     "title": "Former Jeffersonville police chief running for Clark County, Ind. sheriff",
+     "publisher": "Louisville Public Media",
+     "date": "2026-02-06",
+     "url": "https://www.lpm.org/news/2026-02-06/former-jeffersonville-police-chief-running-for-clark-county-ind-sheriff"
+    }
+   ]
+  },
+  {
+   "person": "Scottie Maples",
+   "category": "personnel action",
+   "status": "held",
+   "summary": "A merit board reinstated a sergeant whom Sheriff Maples had recommended for termination. Maples said the recommendation was not political.",
+   "note": "This is an office-level personnel matter under the incumbent. The sergeant is not named, and the date and details were not reported in the source reviewed.",
+   "sources": [
+    {
+     "title": "Clark County sheriff candidates talk goals, ICE detention and moving past Jamey Noel",
+     "publisher": "Louisville Public Media",
+     "date": "2026-04-24",
+     "url": "https://www.lpm.org/news/2026-04-24/clark-county-sheriff-candidates-talk-goals-ice-detention-and-moving-past-jamey-noel"
+    }
+   ]
+  }
+ ]
+}

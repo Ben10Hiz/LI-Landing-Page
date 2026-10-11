@@ -1,0 +1,130 @@
+{
+ "race_id": "in-prosecuting-attorney-of-marion-county-19th-judicial-circuit",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_prosecutor",
+ "incumbent": {
+  "name": "Ryan Mears",
+  "party": "Democratic",
+  "summary": "Mears has been Marion County Prosecutor since 2019, when a Democratic Party caucus chose him after Prosecutor Terry Curry stepped down for health reasons; he won a full term in 2022 and is seeking reelection {fox59_reelect} {wfyi_reelect}. Before becoming prosecutor he was a deputy prosecutor in the office for more than a decade {indystar_reelect}.",
+  "record": [
+   "October 2019: Chosen by a Marion County Democratic Party caucus after Terry Curry stepped down for health reasons {fox59_reelect}; he won the caucus 157-147 over Tim Moriarty, with Curry's backing {wfyi_reelect}.",
+   "2019: The office stopped prosecuting simple marijuana possession {indystar_foust}. In January 2020 a state Senate committee approved, 6-3, a bill that would let the attorney general appoint a special prosecutor when a local prosecutor makes a policy decision not to prosecute certain crimes; WBOI reported the committee was targeting Mears over marijuana cases {wboi_2020}.",
+   "November 2022: Won a full term, defeating Republican Cyndi Carrasco 59% to 41% {mirror_foust}.",
+   "Republicans have criticized him for declining to prosecute simple marijuana possession cases and for saying he will not prosecute women or doctors under Indiana's abortion law; Mears says he is focusing resources on violent crime {wfyi_reelect}.",
+   "July 2025: After a downtown Independence Day weekend shooting in which two minors were killed, the office said it was working with IMPD on possible stricter enforcement of neglect charges against parents of juvenile offenders; spokesperson Michael Leffler said the discussions \"have been ongoing for some time, but certainly have ramped up in recent weeks\" {mirror_neglect}.",
+   "January 2026: Mears said that for the third straight year the office won convictions in 90% of homicide cases charged, 100% of sexual assault cases brought and 77% of serious felony cases pursued {fox59_reelect}; IndyStar reported prosecutors filed murder charges in 86 cases in 2025 {indystar_reelect}. These are the office's and campaign's figures.",
+   "January 2026: Mears said his office would make public corruption a priority and that \"as we move into 2026, you're going to see some filings related to some of these investigations,\" referring to pending grand jury matters involving city and state officials; he declined to comment on specific cases {indystar_reelect} {wfyi_reelect}.",
+   "January 2026: Fraternal Order of Police Lodge #86 President Rick Snyder called on Mears to release data on gun cases referred to his office and their outcomes {fox59_reelect}.",
+   "March 2026: Mears called the state's new homeless camping ban \"bad policy\" that would be \"very difficult to implement,\" saying, \"We are asking law enforcement to do things that they typically do not have responsibility for\" {mirror_camping}.",
+   "June 2026: After state Rep. Andrew Ireland called on Mears to investigate the Hogsett administration or request a special prosecutor, Mears' spokesperson said, \"As with any matter presented by law enforcement, our office would review the evidence and determine whether charges are warranted\" {mirror_ireland}.",
+   "The office also uses diversion programs, including one that steers participants toward housing instead of prosecution {indystar_foust}, and restorative programs such as helping drivers restore their licenses {fox59_reelect}."
+  ]
+ },
+ "race_context": [
+  "Marion County (Indianapolis) is the state's largest county; Mears, the Democratic incumbent, is seeking a second full term against Republican Philip Foust, a former deputy prosecutor who worked under him {mirror_foust} {indystar_foust}.",
+  "Each was the only candidate of his party to file, and IndyStar reported both were likely to be unopposed in the May 5, 2026 primary {indystar_foust} {indystar_reelect}. Both names appear on the general-election ballot {in_list}.",
+  "A Marion County Republican Party poll conducted by Opinion Diagnostics (1,363 registered voters, July 7-13, 2026, margin of error 2.7%) found Mears 37%, Foust 28% and 35% undecided {mirror_poll}.",
+  "Main differences: Mears points to conviction rates in violent-crime cases, public corruption investigations and attention to addiction, housing and mental health {fox59_reelect} {indystar_reelect}; Foust says the office has become too lenient, emphasizes juvenile crime and repeat offenders, and says relations with IMPD need repair {indypolitics_foust} {indystar_foust}.",
+  "No 2026 debate or forum between the two was found in sources reviewed for this profile."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Philip Foust",
+   "summary": "Foust is the Speedway clerk-treasurer and a Realtor, and was a Marion County deputy prosecutor from 2015 to 2021 {indystar_foust}. He says the office should focus more on repeat offenders and juvenile crime and repair relations with police {indypolitics_foust}.",
+   "website": "https://philipfoust.com",
+   "background": [
+    "Grew up in Pike Township; graduate of IUPUI and Harvard Law School {mirror_foust}.",
+    "Began his career with three years as an associate at a Chicago law firm {indystar_foust}.",
+    "Marion County deputy prosecutor from 2015 to 2021 under Prosecutors Terry Curry and Ryan Mears, handling cases from juvenile offenses to murder {indystar_foust}; earlier interned under Prosecutor Carl Brizzi {indypolitics_foust}. His campaign site lists murder, robbery, OVWI and juvenile cases {foust_site}.",
+    "Left the prosecutor's office in 2021 and became a Realtor at Weichert, a role he still held in February 2026 {indystar_foust}.",
+    "Chosen by special caucus as Speedway clerk-treasurer in January 2023, then elected to a full term that year without opposition {indystar_foust}."
+   ],
+   "path_to_ballot": [
+    "Announced Feb. 5, 2026; the only Republican to file {mirror_foust}. IndyStar reported he was likely unopposed in the May primary {indystar_foust}. He is the Republican nominee on the ballot {in_list}."
+   ],
+   "positions": [
+    {"topic": "Juvenile justice", "items": ["Calls juvenile crime a \"five-alarm fire,\" saying too many teens show \"no respect and no fear\" of the juvenile system; wants more transparency and more consistent consequences for repeat juvenile offenders {indypolitics_foust}.", "His campaign site lists \"clear standards, real consequences\" and a juvenile system the public can see {foust_site}."]},
+    {"topic": "Charging priorities", "items": ["Disputes that Marion County jails too many people; says a small group of repeat offenders drives much of the crime and that habitual-offender, gang and firearm sentencing enhancements are underused {indypolitics_foust}.", "Said in his announcement: \"When prosecutors treat repeat offenders like victims, the result is predictable\" and \"I will not be the county's chief social worker or an extension of the public defender's office\" {indystar_foust}."]},
+    {"topic": "Violent crime", "items": ["Says domestic violence cases can escalate quickly and should not be treated as routine, even when victims hesitate to cooperate {indypolitics_foust}.", "Says the office should regularly attend a weekly violence-prevention task force with local, state and federal partners, saying public safety \"requires teamwork\" {indypolitics_foust}."]},
+    {"topic": "Transparency", "items": ["Says matters involving the Hogsett administration should go to a special prosecutor to avoid any appearance of political motivation {indypolitics_foust}."]}
+   ],
+   "on_incumbent": [
+    "Said in his Feb. 5 announcement: \"For too long, Prosecutor Mears has lost sight of his most basic responsibilities: justice and public safety\" {mirror_foust}.",
+    "Says the office's relationship with IMPD is \"at an all-time low,\" criticizes the removal of prosecutors from district offices, and says the office does not regularly attend a weekly violence-prevention task force {indypolitics_foust}.",
+    "Says Mears opened a tax-case probe in Broad Ripple but says the office cannot independently investigate allegations involving the Hogsett administration without a police referral, which Foust calls a double standard {indypolitics_foust}.",
+    "Told Mirror Indy that residents are \"fed up\" with Mears treating the county \"like an ideological experiment\" {mirror_poll}."
+   ],
+   "plans": [
+    "Review cases involving the worst repeat offenders, and use of sentencing enhancements, in his first 100 days {indypolitics_foust} {foust_site}.",
+    "Improve information-sharing with neighboring counties and the Indiana Prosecuting Attorneys Council {indypolitics_foust}; work with police, surrounding prosecutors and the Statehouse {foust_site}."
+   ],
+   "endorsements_finance": [
+    "His campaign site lists endorsements from Indianapolis Fraternal Order of Police Lodge #86 and the Indiana State Police Alliance {foust_site}.",
+    "Reported just under $4,000 in his report before announcing {mirror_foust}; just over $36,000 as of April 15, 2026 {mirror_poll}.",
+    "Marion County Republican Chair Natalie Goodwin praised his \"rigorous legal training, battle-tested courtroom experience, and a proven record of public service\" {mirror_foust}."
+   ],
+   "gaps": [
+    "May 5, 2026 primary vote totals were not confirmed in a fetched source (Ballotpedia blocked).",
+    "FOP Lodge #86 endorsement confirmed only on the candidate's own site, not in news coverage.",
+    "No fundraising figures after April 15, 2026 were found.",
+    "No positions found on drugs and treatment, victims' services or office staffing and budget."
+   ]
+  },
+  {
+   "ballot_name": "Ryan Mears",
+   "summary": "Mears has been Marion County Prosecutor since 2019 and was a deputy prosecutor in the office for more than a decade before that {indystar_reelect}. He says he is focused on violent crime, victims and public corruption, and on addiction, housing and mental health as root causes {fox59_reelect}.",
+   "website": null,
+   "background": [
+    "Indianapolis native; earned his law degree from the Indiana University Robert H. McKinney School of Law {wfyi_reelect}.",
+    "Deputy prosecutor in the Marion County office for more than a decade before becoming prosecutor {indystar_reelect}.",
+    "Marion County Prosecutor since 2019 {indystar_reelect}."
+   ],
+   "path_to_ballot": [
+    "Filed for reelection Jan. 27, 2026 at the Secretary of State's office {fox59_reelect}; IndyStar reported he was the only candidate of either party running at that time {indystar_reelect}. He is the Democratic nominee on the ballot {in_list}."
+   ],
+   "positions": [
+    {"topic": "Violent crime", "items": ["Says he aims to \"be tough on crime and fair on justice\" and that his reelection focus is prosecuting violent offenders, supporting victims and rebuilding public trust: \"Public safety isn't a slogan. It's a responsibility\" {fox59_reelect}.", "Said constituents want the office to be \"on point with murder cases\" and \"with cases involving children\" {indystar_reelect}."]},
+    {"topic": "Drugs & treatment", "items": ["Has deemphasized minor cases such as marijuana possession {fox59_reelect}; wants to address addiction, housing and mental health, which he sees as root causes that show up in the justice system {fox59_reelect} {indystar_reelect}."]},
+    {"topic": "Transparency", "items": ["Says \"we have to be very involved in issues as it relates to public corruption\" {indystar_reelect} and that public corruption cases will be a priority {fox59_reelect}."]},
+    {"topic": "Charging priorities", "items": ["Called the state homeless camping ban \"bad policy\" and questioned whether police could build strong enough cases under it {mirror_camping}."]}
+   ],
+   "on_incumbent": [
+    "Is the current officeholder.",
+    "Rejects Republican claims that he is too lenient, pointing to guilty verdicts in at least 90% of murder trials in 2025, the third straight year at that level {indystar_reelect}.",
+    "No statement by Mears about Foust specifically was found in sources reviewed."
+   ],
+   "plans": [
+    "Said in January 2026 he expected filings in 2026 from public corruption investigations begun over the prior 18 months {fox59_reelect}.",
+    "Continue restorative programs such as helping drivers restore licenses and setting up child-support payment plans {fox59_reelect}."
+   ],
+   "endorsements_finance": [
+    "About $293,000 on hand in his report before filing {wfyi_reelect}; FOX59 reported this was under half of what he raised in 2022 {fox59_reelect}.",
+    "$387,000 as of April 15, 2026 {mirror_poll}."
+   ],
+   "gaps": [
+    "No campaign website or 2026 endorsements were confirmed in a fetched source.",
+    "May 5, 2026 primary vote totals were not confirmed in a fetched source.",
+    "The status and effect of 2025 state legislation on prosecutors who decline to prosecute categories of crime (seen only in search snippets) was not verified.",
+    "Conviction-rate figures are the office's and campaign's own; no independent verification was found.",
+    "No direct response from Mears to Foust's criticisms (IMPD relations, district offices, task force attendance) was found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "mirror_foust": ["Speedway official announces run for Marion County prosecutor", "Mirror Indy", "2026-02-06", "https://mirrorindy.org/marion-county-prosecutor-ryan-mears-republican-challenger/"],
+  "indystar_foust": ["Speedway Republican challenges Marion County Prosecutor Mears, his former boss", "Indianapolis Star (via Yahoo News)", "2026-02-05", "https://www.yahoo.com/news/articles/speedway-republican-challenges-marion-county-224002539.html"],
+  "indystar_reelect": ["Mears to seek reelection as Marion County prosecutor. Will he run for mayor?", "Indianapolis Star (via Yahoo News)", "2026-01-27", "https://www.yahoo.com/news/articles/mears-seek-reelection-marion-county-201118311.html"],
+  "wfyi_reelect": ["Ryan Mears announces reelection bid for county prosecutor", "WFYI / Mirror Indy", "2026-01-28", "https://www.wfyi.org/news/articles/ryan-mears-announces-reelection-bid-for-county-prosecutor"],
+  "fox59_reelect": ["Ryan Mears announces reelection bid for Marion County prosecutor", "FOX59/CBS4", "2026-01-27", "https://digital-release.fox59.com/indianapolitics/ryan-mears-announces-reelection-bid-for-marion-county-prosecutor"],
+  "indypolitics_foust": ["A Few Minutes with Phil Foust", "IndyPolitics.Org", "2026-08-04", "https://indypolitics.org/a-few-minutes-with-phil-foust/"],
+  "mirror_poll": ["GOP Poll: Mears holds edge in Marion County prosecutor's race", "Mirror Indy", "2026-09-24", "https://mirrorindy.org/marion-county-prosecutor-race-ryan-mears-philip-foust-harvard-poll/"],
+  "mirror_ireland": ["State lawmaker calls for prosecutor to investigate Hogsett administration", "Mirror Indy", "2026-06-26", "https://mirrorindy.org/andrew-ireland-ryan-mears-investigation-mr-clean-joe-hogsett/"],
+  "mirror_camping": ["'Bad policy': Indy's prosecutor doesn't like homeless camping ban", "Mirror Indy", "2026-03-05", "https://mirrorindy.org/indiana-homeless-camping-ban-prosecutor-ryan-mears-impd-indianapolis-police-mike-braun/"],
+  "mirror_neglect": ["Prosecutor and police explore neglect charges for parents amid youth violence", "Mirror Indy (from WISH-TV)", "2025-07-15", "https://mirrorindy.org/prosecutor-and-police-explore-neglect-charges-for-parents-amid-youth-violence/"],
+  "wboi_2020": ["Senate Committee Targets Marion County Prosecutor Over Marijuana Cases", "WBOI", "2020-01-28", "https://www.wboi.org/post/senate-committee-targets-marion-county-prosecutor-over-marijuana-cases"],
+  "foust_site": ["Philip Foust for Marion County Prosecutor (campaign site)", "Foust campaign", "2026-10", "https://philipfoust.com"]
+ }
+}
