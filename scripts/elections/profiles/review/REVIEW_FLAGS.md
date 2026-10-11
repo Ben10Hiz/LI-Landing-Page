@@ -137,6 +137,22 @@ Sensitive items held for a second, careful editorial pass (criminal cases, misco
   - [Take time to watch PH board meeting (letter to the editor)](https://www.kpcnews.com/opinions/letters/kpcnews/article_236743a1-c479-487d-a5df-397796e880fb.html) — KPC News, 2025-11-13
   - [Board of Education minutes, November 6, 2025](https://www.ph.k12.in.us/school-board/minutes/2025-2026-school-year/937-school-board-meeting-minutes-november-6-2025/file) — Prairie Heights Community School Corporation, 2025-11-06
 
+## Indiana School Board Member (`in-school-board-south-dearborn`)
+
+- **Kyle Miller (Dillsboro Elementary principal; not a candidate)** — personnel action — _held_
+  Eagle Country reported that Miller was placed on administrative leave in August 2026; speakers at the Aug. 18, 2026 board meeting suggested it was for insubordination, which the outlet said was not verified, and the superintendent and board said personnel matters were confidential. The board said Aug. 21 that it had made 'multiple attempts to communicate' with Miller and assigned Mary Bailey as principal on duty. On Aug. 24 the board announced she would return to work that day. No public statement from Miller was found.
+  Note: This was the main board controversy before the election and involved the decisions of three incumbents on the ballot (Lane, Willoughby, Messmore), but none was quoted individually. The race_context mentions it only as 'a personnel action at Dillsboro Elementary,' without the name or the allegation.
+  - [Community Members Pack School Board Meeting in Support of Dillsboro Principal](https://www.eaglecountryonline.com/news/local-news/community-members-pack-school-board-meeting-in-support-of-dillsboro-principal/) — Eagle Country 99.3, 2026-08-19
+  - [Online Petition Seeks Accountability, Transparency & Leadership Change at South Dearborn](https://www.eaglecountryonline.com/news/local-news/online-petition-seeks-accountability-transparency-and-leadership-change-at-south-dearborn/) — Eagle Country 99.3, 2026-08-20
+  - [SD Board of Trustees Releases Statement Related to Dillsboro Principal's Suspension](https://www.eaglecountryonline.com/news/local-news/sd-board-of-trustees-releases-statement-related-to-dillsboro-principals-suspension/) — Eagle Country 99.3, 2026-08-21
+  - [Dillsboro Elementary School Principal Has Suspension Lifted](https://www.eaglecountryonline.com/news/local-news/dillsboro-elementary-school-principal-has-suspension-lifted/) — Eagle Country 99.3, 2026-08-24
+
+- **Dr. Ronald Ross (former SDCSC superintendent; not a candidate)** — personnel action — _held_
+  On Sept. 8, 2026 the board approved a 'mutually agreeable separation agreement' with Ross with no discussion at the meeting, thanked him for his service and named Dr. Janet Platt interim superintendent. Eagle Country said the change came after the principal's suspension. The Dearborn County Register reported Oct. 8 that the interim superintendent received a stipend (full article paywalled).
+  Note: The terms of the separation and the reasons for it are not public in sources read. The race_context states the separation neutrally, using the district's own wording.
+  - [UPDATE: South Dearborn Announces Interim Superintendent](https://www.eaglecountryonline.com/news/local-news/south-dearborn-announces-interim-superintendent/) — Eagle Country 99.3, 2026-09-09
+  - [Interim superintendent receives stipend for appointment (subscriber article; opening paragraph only)](https://www.registerpublications.com/2026/10/08/news/h1-interim-superintendent-receives-stipend-for-appointment-h1/) — Dearborn County Register, 2026-10-08
+
 ## Indiana School Board Member (`in-school-board-vanderburgh`)
 
 - **Ken Colbert** — other — _held_

@@ -1,0 +1,209 @@
+{
+ "race_id": "in-school-board-blackford",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Blackford County Schools, based in Hartford City, serves most of Blackford County; part of the county lies in Jay School Corporation, whose voters choose Jay board members instead {hcnt_ev}. State enrollment counts were 1,471 students in 2023-24, 1,412 in 2024-25 and 1,384 in 2025-26, down from 1,586 in 2018-19 {idoe_enroll}. The state ballot list calls the office 'Blackford Community School Board' {in_list}.",
+  "Superintendent: Chad Yencer has led the district since 2017. The Indiana Association of Public School Superintendents named him its 2025-26 District VI Superintendent of the Year {hcnt_yencer}.",
+  "The board has five members: three elected from districts and two at large {hcnt_2016}{hcnt_2018}. The District 1-3 seats were filled in 2018 and 2022, and the two at-large seats in 2020 and 2024; Troy Kaufman and Nikki Gorrell won the at-large seats in 2024 {hcnt_2018}{enr_2022}{enr_2020}{enr_2024}. Phil Jones is board president and Kaufman was vice president as of March 2026 {hcnt_yencer}{hcnt_pac}.",
+  "Seats on the 2026 ballot: Districts 1, 2 and 3, one seat each, matching the state list {in_list}{hcnt_ev}. District 1 is open because incumbent Jimmy Lytle is not seeking another term; Melinda Huber and Kyle J Pitts are running. District 2 incumbent Scott Malott is unopposed. District 3 incumbent Phil Jones faces Kerra Armstrong {hcnt_ev}.",
+  "Party labels: this is the first Blackford school board election in which candidates could declare a party. Jones and Malott did not; Pitts and Armstrong filed as Republicans and Huber as an Independent {hcnt_ev}{ic_list}.",
+  "Facilities: in March 2026 the district broke ground on a $19.5 million performing arts center with a 700-seat auditorium at Blackford Junior-Senior High School ($21.5 million in total project cost), set to open in May 2027. Yencer said it is being built 'with no increase in taxes' because bonds from earlier projects are retiring. The board began serious work on the project in August 2024 {hcnt_pac}. Yencer said the district had done $23 million in other work, including roofs and HVAC upgrades {hcnt_pac}.",
+  "Academics: Blackford's IREAD third-grade reading pass rate rose to 91.8% in 2026 from 81% the year before, the biggest gain in the News-Times' coverage area and the third straight year of gains (72.5% in 2023) {hcnt_iread}. In February 2026 Yencer reported higher SAT scores at the junior-senior high school and an expansion of Blackford Primary's preschool from one classroom to five {hcnt_city}.",
+  "Budget: this guide found no reporting on how the 2025 property-tax law (SEA 1) affects Blackford County Schools, and no operating or safety referendum.",
+  "Forums: this guide found no 2026 candidate forum, questionnaire or campaign website for any Blackford candidate. The district website could not be loaded."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Kyle J Pitts",
+   "seat": "District 1",
+   "summary": "Candidate for the open District 1 seat (incumbent Jimmy Lytle is not running); listed as a Republican {hcnt_ev}{in_list}.",
+   "website": null,
+   "background": [
+    "A 'Kyle J Pitts' was a Blackford County Schools board candidate in November 2022, receiving 991 votes; Jimmy Lytle, who now holds the District 1 seat, received 1,739 {enr_2022}. The state results do not list seats, so it is not confirmed that the two met in the same race."
+   ],
+   "path_to_ballot": [
+    "Filed June 18, 2026 as a Republican {ic_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no candidate website, social-media page, questionnaire, forum appearance or news interview for this candidate.",
+    "Occupation, community roles and ties to the schools are not reported.",
+    "No statements found on the board's record, the performing arts center project, the budget or other district issues.",
+    "No endorsements or campaign-finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Melinda Huber",
+   "seat": "District 1",
+   "summary": "Candidate for the open District 1 seat (incumbent Jimmy Lytle is not running); listed as an Independent {hcnt_ev}{in_list}.",
+   "website": null,
+   "background": [
+    "This guide found no published background on the candidate; the News-Times listed her only by name and party {hcnt_ev}."
+   ],
+   "path_to_ballot": [
+    "Filed June 17, 2026 as an Independent {ic_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no candidate website, social-media page, questionnaire, forum appearance or news interview for this candidate.",
+    "Occupation, community roles and ties to the schools are not reported.",
+    "No statements found on the board's record, the performing arts center project, the budget or other district issues.",
+    "No endorsements or campaign-finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Scott Malott",
+   "seat": "District 2",
+   "summary": "Incumbent, unopposed for another term; did not declare a party {hcnt_ev}{in_list}.",
+   "website": null,
+   "background": [
+    "Has served on the board since at least 2016 {hcnt_2016}. He was re-elected to the District 2 seat in 2018, when Camille Mealy challenged him, and again in 2022 as 'Scott A Malott' with 2,483 votes {hcnt_2018}{enr_2022}."
+   ],
+   "path_to_ballot": [
+    "Filed June 11, 2026 without declaring a party; the state list shows him as Nonpartisan {ic_list}{in_list}{hcnt_ev}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. This guide found no statement from him about the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign statements, questionnaire answers or interviews found; the seat is uncontested.",
+    "Occupation and community roles are not reported.",
+    "No endorsements or campaign-finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Kerra Armstrong",
+   "seat": "District 3",
+   "summary": "Challenger to board president Phil Jones in District 3; listed as a Republican {hcnt_ev}{in_list}.",
+   "website": null,
+   "background": [
+    "This guide found no published background on the candidate; the News-Times listed her only by name and party {hcnt_ev}."
+   ],
+   "path_to_ballot": [
+    "Filed June 18, 2026 as a Republican {ic_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no candidate website, social-media page, questionnaire, forum appearance or news interview for this candidate.",
+    "Occupation, community roles and ties to the schools are not reported.",
+    "No statements found on the board's record, the performing arts center project, the budget or other district issues.",
+    "No endorsements or campaign-finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Phil Jones",
+   "seat": "District 3",
+   "summary": "Incumbent and board president, running for another term without a party designation {hcnt_ev}{hcnt_yencer}{in_list}.",
+   "website": null,
+   "background": [
+    "Has served on the board since at least 2016; he was board president in 2018, when he was re-elected to the District 3 seat unopposed {hcnt_2016}{hcnt_2018}. He was re-elected in 2022 with 2,381 votes {enr_2022}.",
+    "Was board president in September 2025 {hcnt_yencer}."
+   ],
+   "path_to_ballot": [
+    "Filed June 17, 2026 without declaring a party; the state list shows him as Nonpartisan {ic_list}{in_list}{hcnt_ev}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member and the board's president. When Superintendent Chad Yencer was named 2025-26 District VI Superintendent of the Year, Jones said Yencer had 'led our district with exceptional vision and dedication through both challenging and exciting times' and that his focus on 'the needs of our children and employees' had 'made a significant impact on our community' {hcnt_yencer}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No 2026 campaign statements, questionnaire answers or interviews found.",
+    "Occupation and community roles are not reported.",
+    "No endorsements or campaign-finance reports found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "hcnt_ev": [
+   "Early voting is underway",
+   "Hartford City News-Times",
+   "2026-10-07",
+   "https://www.hartfordcitynewstimes.com/news/early-voting-is-underway/article_a61a9131-9790-4cfb-aa3b-0c3f454e3567.html"
+  ],
+  "ic_list": [
+   "2026 Indiana General Election School Board Candidate List",
+   "The Indiana Citizen",
+   "2026-08-12",
+   "https://indianacitizen.org/2026-indiana-general-election-school-board-candidate-list/"
+  ],
+  "enr_2020": [
+   "Historical Election Results: Nov. 3, 2020 General Election, Blackford County (School Board Member)",
+   "Indiana Election Division (IndianaVoters)",
+   "2020-11",
+   "https://indianavoters.in.gov/ENRHistorical/ElectionResults?year=2020"
+  ],
+  "enr_2022": [
+   "Historical Election Results: Nov. 8, 2022 General Election, Blackford County (School Board Member)",
+   "Indiana Election Division (IndianaVoters)",
+   "2022-11",
+   "https://indianavoters.in.gov/ENRHistorical/ElectionResults?year=2022"
+  ],
+  "enr_2024": [
+   "Historical Election Results: Nov. 5, 2024 General Election, Blackford County (School Board Member)",
+   "Indiana Election Division (IndianaVoters)",
+   "2024-11",
+   "https://indianavoters.in.gov/ENRHistorical/ElectionResults?year=2024"
+  ],
+  "hcnt_2016": [
+   "Two at-large Blackford school board seats on fall ballot",
+   "Hartford City News-Times",
+   "2016-08-03",
+   "https://www.hartfordcitynewstimes.com/news/schools/two-at-large-blackford-school-board-seats-on-fall-ballot/article_bdb3e466-5975-11e6-afd4-f7fe7b3307a5.html"
+  ],
+  "hcnt_2018": [
+   "School board candidates on November ballot",
+   "Hartford City News-Times",
+   "2018-08-29",
+   "https://www.hartfordcitynewstimes.com/news/school-board-candidates-on-november-ballot/article_5cc58188-aac6-11e8-8a0a-f3f059988c66.html"
+  ],
+  "idoe_enroll": [
+   "Corporation Enrollment by Grade Level, 2006-26",
+   "Indiana Department of Education",
+   "2026",
+   "https://www.in.gov/doe/files/corporation-enrollment-grade-2006-26.xlsx"
+  ],
+  "hcnt_yencer": [
+   "Yencer selected for district honor",
+   "Hartford City News-Times",
+   "2025-09-17",
+   "https://www.hartfordcitynewstimes.com/news/yencer-selected-for-district-honor/article_f2b57280-2654-4796-a618-dfe489d2442c.html"
+  ],
+  "hcnt_city": [
+   "A focus on solutions (State of the City address)",
+   "Hartford City News-Times",
+   "2026-02-18",
+   "https://www.hartfordcitynewstimes.com/news/a-focus-on-solutions/article_ebfcb162-3b37-4d5e-b47e-97f3752cfd21.html"
+  ],
+  "hcnt_pac": [
+   "'Imagine the possibilities'",
+   "Hartford City News-Times",
+   "2026-03-18",
+   "https://www.hartfordcitynewstimes.com/news/imagine-the-possibilities/article_c5058d45-2458-4345-84d3-38f22a14c449.html"
+  ],
+  "hcnt_iread": [
+   "IREAD scores make leaps",
+   "Hartford City News-Times",
+   "2026-08-26",
+   "https://www.hartfordcitynewstimes.com/news/iread-scores-make-leaps/article_2e1f9509-e3d8-4b79-9854-940fe11ea966.html"
+  ]
+ }
+}
