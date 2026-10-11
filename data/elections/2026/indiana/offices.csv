@@ -3638,7 +3638,7 @@ school,School Board Member,"Oak Hill United School Corporation, District 4 (Gran
 school,School Board Member,"Pioneer School Board District 4, Jefferson Twp (Cass & White)",,4,1,1,0,,Nonpartisan
 school,School Board Member,"Shelbyville Central School Board, District 4",,4,1,2,0,yes,Nonpartisan
 school,School Board Member,"South Gibson School Board, District 4, At Large",,4,1,1,0,,Nonpartisan
-school,School Board Member,"South Harrison School Board District 4, Harrison Township",,4,1,4,0,yes,Democratic; Nonpartisan; Republican
+school,School Board Member,"South Harrison School Board District 4, Harrison Township",,4,2,4,0,yes,Democratic; Nonpartisan; Republican
 school,School Board Member,"South Newton School Board, District 4",,4,1,1,0,,Nonpartisan
 school,School Board Member,"South Ripley Community School Board, District 4",,4,1,1,0,,Republican
 school,School Board Member,"Sunman Dearborn Community School Board, District 4",,4,1,1,0,,Republican
@@ -3700,7 +3700,7 @@ school,School Board Member,"Central Noble School Board, Noble Township",,,1,1,0,
 school,School Board Member,"Charles A Beard Memorial School Board, Greensboro Township (Henry-Rush)",,,1,1,0,,Nonpartisan
 school,School Board Member,"Charles A Beard Memorial School Board, Ripley Township (Rush-Henry)",,,1,2,0,yes,Nonpartisan
 school,School Board Member,"Charles A Beard Memorial School Board, Wayne Township 1 (Henry-Rush)",,,1,1,0,,Republican
-school,School Board Member,"Clay Community School Board, At Large (Clay, Parke)",,At-large,1,7,0,yes,Independent; Republican
+school,School Board Member,"Clay Community School Board, At Large (Clay, Parke)",,At-large,3,7,0,yes,Independent; Republican
 school,School Board Member,"Clinton Central School Board, At Large",,At-large,1,2,0,yes,Republican
 school,School Board Member,"Clinton Prairie School Board, At Large",,At-large,1,2,0,yes,Republican
 school,School Board Member,"Cloverdale School Board Member, Cloverdale Township (Putnam-Owen) (1 seat)",,,1,2,0,yes,Nonpartisan; Republican
@@ -3729,7 +3729,7 @@ school,School Board Member,"Delaware Liberty Perry School Board, Perry Twp",,,1,
 school,School Board Member,"Delaware Wes Del Community School Board, At Large",,At-large,1,1,0,,Republican
 school,School Board Member,"Delaware Wes-Del Community School Board, Harrison Twp",,,1,1,0,,Nonpartisan
 school,School Board Member,"Delaware Wes-Del Community School Board, Washington Twp",,,1,1,0,,Republican
-school,School Board Member,"Delaware Yorktown Community School Board, Mt Pleasant Twp",,,1,7,0,yes,Independent; Nonpartisan; Republican
+school,School Board Member,"Delaware Yorktown Community School Board, Mt Pleasant Twp",,,3,7,0,yes,Independent; Nonpartisan; Republican
 school,School Board Member,"Duneland School Board, At Large",,At-large,1,1,0,,Nonpartisan
 school,School Board Member,"Duneland School Board, Liberty Township",,,1,1,0,,Nonpartisan
 school,School Board Member,"Duneland School Board, Westchester / Pine Twp.",,,1,2,0,yes,Nonpartisan
@@ -3859,7 +3859,7 @@ school,School Board Member,"Nettle Creek School Board, At Large (Wayne-Henry)",,
 school,School Board Member,"Nettle Creek School Board, District B (Wayne-Henry)",,,1,1,0,,Republican
 school,School Board Member,"Nineveh, Hensley, Jackson School Board, Jackson Township (Johnson, Morgan)",,,1,1,0,,Republican
 school,School Board Member,"North Daviess Community School Board, At Large",,At-large,1,1,0,,Nonpartisan
-school,School Board Member,"North Harrison School Board, At Large",,At-large,1,3,0,yes,Nonpartisan; Republican
+school,School Board Member,"North Harrison School Board, At Large",,At-large,1,2,0,yes,Nonpartisan; Republican
 school,School Board Member,"North Harrison School Board, Jackson Township",,,1,4,0,yes,Independent; Republican
 school,School Board Member,"North Harrison School Board, Spencer Township",,,1,1,0,,Republican
 school,School Board Member,"North Knox School Board, District A",,,1,1,0,,Republican
@@ -4069,7 +4069,7 @@ school,School Board Member,"Knox School Board, Washington",Washington,,1,2,0,yes
 school,School Board Member,"North Montgomery School Board, Wayne",Wayne,,1,1,0,,Republican
 school,School Board Member,"Twin Lakes School Board, District 4 (White)",White,4,1,1,0,,Nonpartisan
 school,School Board Member,"Tri-County School Board, East District (White)",White,,1,1,0,,Nonpartisan
-school,School Board Member,"Whitley County Consolidated School Board, District Columbia City",Whitley,,1,4,0,yes,Independent; Republican
+school,School Board Member,"Whitley County Consolidated School Board, District Columbia City",Whitley,,2,4,0,yes,Independent; Republican
 school,School Board Member,"Whitley County Consolidated School Board, District Columbia Twp",Whitley,,1,1,0,,Democratic
 school,School Board Member,"Whitley County Consolidated School Board, District Thorncreek Twp",Whitley,,1,2,0,yes,Republican
 special district,Other,"Lake Of The Woods Sewer District, Marshall County",Marshall,,1,2,0,yes,Nonpartisan

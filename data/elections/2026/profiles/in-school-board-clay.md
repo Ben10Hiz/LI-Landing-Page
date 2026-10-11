@@ -145,7 +145,7 @@ Incumbent at-large member first elected in 2022 [29, 30].
 ### Background
 
 - Won an at-large seat in November 2022 with 3,046 votes, second among eight candidates [29].
-- At the 2026 forum emphasized faith in her opening and closing statements and said, 'I never want to stop learning' [33].
+- At the 2026 forum said, 'I never want to stop learning' [33].
 
 ### Path to the ballot
 
@@ -307,7 +307,7 @@ Challenger and the only candidate in this race running as an Independent [31].
 
 ### Background
 
-- Said at the 2026 forum that he had attended board meetings in the past; faith was a key emphasis of his statements [33].
+- Said at the 2026 forum that he had attended board meetings in the past [33].
 
 ### Path to the ballot
 

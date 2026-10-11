@@ -1,0 +1,349 @@
+{
+ "race_id": "in-school-board-whitley-county",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Whitley County Consolidated Schools (WCCS) is based in Columbia City and runs schools including Columbia City High School, Indian Springs Middle School and Mary Raber Montessori {pm_back_to_school}{pm_brief_0319}. State enrollment counts were 3,690 students in 2023-24, 3,686 in 2024-25 and 3,620 in 2025-26 {idoe_enroll}. Dr. Trent Lehman, formerly superintendent of Southern Wells Community Schools, was hired in December 2025 to become superintendent on July 1, 2026, succeeding the retiring Dr. Laura McDermott {pm_lehman}{wzbd_lehman}.",
+  "The board has nine members, each tied to a residence district: three from Columbia City and one each from Columbia, Etna Troy, Jefferson, Thorncreek, Union and Washington townships {wc_roster_2025}{wc_sb_schedule}. Candidates must live in their district, but every voter in the corporation votes in each race; candidates qualify by filing a petition with 10 signatures {wc_sb_schedule}. Dave Smith is board president {pm_lehman}.",
+  "Seats on the 2026 ballot: the county lists four seats — two Columbia City seats and one each for Columbia Township and Thorncreek Township {wc_offices_2026}{wc_cands_2026}. The state list shows 'vote for 1' for the Columbia City race, but the county lists it as 'Columbia City (2)' and its district schedule shows two Columbia City seats elected in 2026, so voters will pick two of the four Columbia City candidates {in_list}{wc_cands_2026}{wc_sb_schedule}.",
+  "Who holds the seats now: the Columbia City seats ending in 2026 are held by Katherine (Kate) Method, who is running again, and Heather Shively, who is not on the ballot; the Columbia Township seat is held by David E. Smith and the Thorncreek Township seat by Mary Ann Schaefer, neither of whom is on the ballot {wc_roster_2025}{wc_cands_2026}. At least three new members will join the board.",
+  "Party labels: 2026 is the first year Indiana school board candidates could list a party. The county and state lists show Bryan Smethers as Independent, Marc D. Daniel as Democratic, and the other five candidates as Republican {wc_cands_2026}{in_list}.",
+  "Superintendent change (Aug. 2025–July 2026): McDermott announced in August 2025 that she would retire June 30, 2026; the board hired the University Search Team and surveyed the public before approving Lehman on Dec. 22, 2025 {pm_search}{pm_lehman}.",
+  "Test scores: on spring 2025 ILEARN, 40.2% of WCCS students were proficient in English and 37.5% in math, compared with 40.6% and 42.1% statewide {pm_ilearn}.",
+  "Programs and facilities (2026): board agendas included an update on the Radio Road career and technical education (CTE) building and a presentation on Mary Raber Montessori, which had a waiting list for 2026-27 (March 2026) {pm_brief_0319}. In April 2026 the board set caps on out-of-district enrollment for 2026-27 and took up a cell phone policy {pm_briefs_0416}{pm_briefs_0430}.",
+  "Budget and operations (2026): agendas included a bus purchase (February), higher school lunch prices for 2026-27 (June), and naming a school representative to the Peabody Public Library board (February and August) {pm_briefs_0221}{pm_brief_0611}{pm_briefs_0812}. The 2025 property-tax law SEA 1 changes how property taxes are collected and distributed, but this guide found no report on its effect on the WCCS budget or any WCCS referendum plan {pm_top2025}.",
+  "Forums: this guide found no 2026 candidate forum or questionnaire for these races. The only campaign statements found were two letters to the editor from Chris Miller {kpc_miller_0805}{kpc_miller_0910}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Bryan Smethers",
+   "seat": "District Columbia City",
+   "summary": "Candidate for one of two Columbia City seats; ran for a Columbia City seat in 2024 {wc_results_2024}{wc_cands_2026}.",
+   "website": null,
+   "background": [
+    "No background information was found beyond his candidacy {wc_cands_2026}."
+   ],
+   "path_to_ballot": [
+    "Filed May 29, 2026 as an Independent {ic_list}{in_list}.",
+    "Ran for the board's Columbia City seat in November 2024 and lost to Lisa Doehrman, 5,252 votes (57.8%) to 3,832 (42.2%), in the county's election-night summary {wc_results_2024}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No website, social media page, questionnaire, forum remarks or news coverage of his 2026 campaign were found.",
+    "Occupation and ties to the schools could not be confirmed.",
+    "County campaign finance filings were not checked."
+   ]
+  },
+  {
+   "ballot_name": "Chris Miller",
+   "seat": "District Columbia City",
+   "summary": "Candidate for one of two Columbia City seats; has written letters to the editor about his campaign {kpc_miller_0805}{kpc_miller_0910}.",
+   "website": null,
+   "background": [
+    "Lives in Columbia City {kpc_miller_0805}.",
+    "Describes himself as the son and husband of teachers and the parent of a young student {kpc_miller_0805}."
+   ],
+   "path_to_ballot": [
+    "Filed May 19, 2026 as a Republican {ic_list}{in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Says he has spent the past year meeting with teachers, principals, parents, retired educators, community leaders and current and former board members, and that he tried \"to listen before forming opinions\" {kpc_miller_0910}.",
+      "Writes that \"good leadership requires understanding the community those decisions affect\" {kpc_miller_0910}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Describes the district's students as the community's future workers and leaders and calls public education an investment in \"the future of our community\" {kpc_miller_0805}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "No statement on specific board decisions was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "His letters describe his approach but do not take positions on budgets, staffing or specific policies.",
+    "Occupation not found.",
+    "No website, questionnaire or forum remarks were found; county campaign finance filings were not checked."
+   ]
+  },
+  {
+   "ballot_name": "Katherine (Kate) Method",
+   "seat": "District Columbia City",
+   "summary": "Incumbent; holds a Columbia City seat whose term ends in 2026 {wc_roster_2025}.",
+   "website": null,
+   "background": [
+    "Is on the county's board rosters dated Jan. 1, 2023 and Jan. 1, 2025, both showing a term ending in 2026 {wc_roster_2023}{wc_roster_2025}."
+   ],
+   "path_to_ballot": [
+    "Filed June 15, 2026 as a Republican {ic_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. No public statement from her on the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "Occupation, background and campaign positions were not found.",
+    "No website, questionnaire, forum remarks or news coverage of her campaign were found.",
+    "Her votes on specific board decisions were not reviewed (board minutes on BoardDocs could not be opened).",
+    "County campaign finance filings were not checked."
+   ]
+  },
+  {
+   "ballot_name": "Stephanie (Porter) Wilson",
+   "seat": "District Columbia City",
+   "summary": "Candidate for one of two Columbia City seats; little public information about her campaign was found {wc_cands_2026}.",
+   "website": null,
+   "background": [
+    "No background information was found beyond her candidacy {wc_cands_2026}."
+   ],
+   "path_to_ballot": [
+    "Filed June 1, 2026 as a Republican {ic_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No website, social media page, questionnaire, forum remarks or news coverage were found.",
+    "Occupation and ties to the schools could not be confirmed.",
+    "County campaign finance filings were not checked."
+   ]
+  },
+  {
+   "ballot_name": "Marc D Daniel",
+   "seat": "District Columbia Twp",
+   "summary": "Only candidate for the Columbia Township seat, which is open because the current member, David E. Smith, is not on the ballot {wc_cands_2026}{wc_roster_2025}.",
+   "website": null,
+   "background": [
+    "No background information was found beyond his candidacy {wc_cands_2026}."
+   ],
+   "path_to_ballot": [
+    "Filed May 19, 2026 as a Democrat; the county lists his name as 'Marc D. Daniel' {ic_list}{wc_cands_2026}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No website, social media page, questionnaire, forum remarks or news coverage were found.",
+    "Occupation and ties to the schools could not be confirmed.",
+    "Unopposed; county campaign finance filings were not checked."
+   ]
+  },
+  {
+   "ballot_name": "Angela Bauer",
+   "seat": "District Thorncreek Twp",
+   "summary": "Candidate for the open Thorncreek Township seat, held by Mary Ann Schaefer, who is not on the ballot {wc_cands_2026}{wc_roster_2025}.",
+   "website": null,
+   "background": [
+    "No background information was found beyond her candidacy {wc_cands_2026}."
+   ],
+   "path_to_ballot": [
+    "Filed May 29, 2026 as a Republican {ic_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No website, social media page, questionnaire, forum remarks or news coverage were found.",
+    "Occupation and ties to the schools could not be confirmed.",
+    "County campaign finance filings were not checked."
+   ]
+  },
+  {
+   "ballot_name": "Brook Meinika",
+   "seat": "District Thorncreek Twp",
+   "summary": "Candidate for the open Thorncreek Township seat; little public information about the campaign was found {wc_cands_2026}.",
+   "website": null,
+   "background": [
+    "No background information was found beyond the candidacy {wc_cands_2026}."
+   ],
+   "path_to_ballot": [
+    "Filed June 8, 2026 as a Republican {ic_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No website, social media page, questionnaire, forum remarks or news coverage were found.",
+    "Occupation and ties to the schools could not be confirmed.",
+    "County campaign finance filings were not checked."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "wc_cands_2026": [
+   "2026 General Election Candidates",
+   "Whitley County, Indiana (Election Office)",
+   "2026-10",
+   "https://www.whitleycounty.in.gov/egov/apps/document/center.egov?view=item&id=1943"
+  ],
+  "wc_offices_2026": [
+   "Offices on the Ballot in 2026",
+   "Whitley County, Indiana",
+   "2025-07",
+   "https://www.whitleycounty.in.gov/egov/documents/1752175172_94185.pdf"
+  ],
+  "wc_sb_schedule": [
+   "School Board Elections (district election years and filing rules)",
+   "Whitley County, Indiana",
+   "2024-01",
+   "https://www.whitleycounty.in.gov/egov/documents/1715867192_96251.pdf"
+  ],
+  "wc_roster_2025": [
+   "Whitley County Consolidated Schools School Board as of January 1, 2025",
+   "Whitley County, Indiana",
+   "2025-01",
+   "https://www.whitleycounty.in.gov/egov/apps/document/center.egov?view=item&id=6079"
+  ],
+  "wc_roster_2023": [
+   "Whitley County Consolidated Schools School Board as of January 1, 2023",
+   "Whitley County, Indiana",
+   "2022-12",
+   "https://www.whitleycounty.in.gov/egov/documents/1670511832_83506.pdf"
+  ],
+  "wc_results_2024": [
+   "2024 General Election Summary Report",
+   "Whitley County, Indiana",
+   "2024-11-05",
+   "https://www.whitleycounty.in.gov/egov/documents/1730854006_61602.pdf"
+  ],
+  "ic_list": [
+   "2026 Indiana General Election School Board Candidate List",
+   "The Indiana Citizen",
+   "2026-08-12",
+   "https://indianacitizen.org/2026-indiana-general-election-school-board-candidate-list/"
+  ],
+  "idoe_enroll": [
+   "Corporation Enrollment by Grade Level, 2006-26",
+   "Indiana Department of Education",
+   "2026",
+   "https://www.in.gov/doe/files/corporation-enrollment-grade-2006-26.xlsx"
+  ],
+  "pm_lehman": [
+   "Lehman hired as WCCS superintendent",
+   "The Post and Mail",
+   "2025-12-31",
+   "https://www.thepostandmail.com/news/lehman-hired-as-wccs-superintendent/article_f793497a-0f33-4590-bbae-4b904fd78f40.html"
+  ],
+  "wzbd_lehman": [
+   "Lehman leaving So. Wells post for Whitley county job",
+   "WZBD",
+   "2025-12-23",
+   "https://wzbd.com/index.php/2025/12/23/lehman-leaving-so-wells-post-for-whitley-county-job/"
+  ],
+  "pm_search": [
+   "WCCS begins superintendent search, public survey open",
+   "The Post and Mail",
+   "2025-08-21",
+   "https://www.thepostandmail.com/news/wccs-begins-superintendent-search-public-survey-open/article_fc5cd5a0-c6e5-41a8-97d0-6aaa00f9a37b.html"
+  ],
+  "pm_ilearn": [
+   "Whitley County school corporations below ILEARN averages",
+   "The Post and Mail",
+   "2025-07-19",
+   "https://www.thepostandmail.com/news/whitley-county-school-corporations-below-ilearn-averages/article_723e1989-41ca-4363-80ed-4de1af78c676.html"
+  ],
+  "pm_back_to_school": [
+   "Students back to school next week",
+   "The Post and Mail",
+   "2025-08-09",
+   "https://www.thepostandmail.com/news/students-back-to-school-next-week/article_d982316c-6abc-4974-b2c8-0d093ab0d9a1.html"
+  ],
+  "pm_brief_0319": [
+   "Brief (WCCS board agenda: Mary Raber Montessori, Radio Road CTE building)",
+   "The Post and Mail",
+   "2026-03-19",
+   "https://www.thepostandmail.com/news/brief/article_9567fb75-b7b0-40fe-9211-51d3baf40885.html"
+  ],
+  "pm_briefs_0416": [
+   "Briefs (WCCS April 20 board meeting agenda)",
+   "The Post and Mail",
+   "2026-04-16",
+   "https://www.thepostandmail.com/news/briefs/article_33445b45-ab3e-4c59-ade2-6a9383238079.html"
+  ],
+  "pm_briefs_0430": [
+   "Briefs (WCCS work session on cell phone policy)",
+   "The Post and Mail",
+   "2026-04-30",
+   "https://www.thepostandmail.com/news/briefs/article_404c259e-a348-4ca4-8ce3-f202640d816a.html"
+  ],
+  "pm_brief_0611": [
+   "Brief (WCCS June 15 meeting; lunch prices)",
+   "The Post and Mail",
+   "2026-06-11",
+   "https://www.thepostandmail.com/news/brief/article_fd64bafe-292b-4226-b838-66578c71045d.html"
+  ],
+  "pm_briefs_0812": [
+   "Briefs (WCCS Aug. 17 board meeting)",
+   "The Post and Mail",
+   "2026-08-12",
+   "https://www.thepostandmail.com/news/briefs/article_b911c865-668b-4738-befa-bbfc4e84305d.html"
+  ],
+  "pm_briefs_0221": [
+   "Briefs (WCCS Feb. 23 board meeting)",
+   "The Post and Mail",
+   "2026-02-21",
+   "https://www.thepostandmail.com/news/briefs/article_ff8dda1c-d1d8-48fd-b8ca-92d5d5029b4e.html"
+  ],
+  "pm_top2025": [
+   "What was the top story of 2025?",
+   "The Post and Mail",
+   "2025-12-27",
+   "https://www.thepostandmail.com/opinion/what-was-the-top-story-of-2025/article_8eaf2585-7f02-4d3e-b1ee-1e7350a9ab07.html"
+  ],
+  "kpc_miller_0805": [
+   "Great classrooms ensure great community (letter to the editor by Chris Miller)",
+   "KPC News",
+   "2026-08-05",
+   "https://www.kpcnews.com/opinions/article_e84669f0-0398-42a1-ab5c-cd7d675bff44.html"
+  ],
+  "kpc_miller_0910": [
+   "The best school board meetings don't happen in the board room (letter to the editor by Chris Miller)",
+   "KPC News",
+   "2026-09-10",
+   "https://www.kpcnews.com/opinions/article_be8a3bdb-030d-47ac-9591-d20443d19c4c.html"
+  ]
+ }
+}

@@ -1,0 +1,311 @@
+{
+ "race_id": "in-school-board-batesville",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Batesville Community School Corporation (BCSC) is based in Batesville in Ripley County; its taxing area includes the City of Batesville, the town of Oldenburg and parts of Laughery, Adams, Ray, Salt Creek and Butler townships {dlgf_batesville}. State enrollment counts were 2,221 students in 2023-24, 2,220 in 2024-25 and 2,210 in 2025-26 {idoe_enroll}.",
+  "Superintendent: Dr. Katy Eastes, formerly assistant superintendent of New Palestine Community Schools, signed a contract in February 2026 and started that month {ec_eastes_start}{wrbi_eastes}. She followed Paul Ketcham, superintendent for nine years and the 2025 Indiana Superintendent of the Year, who left Jan. 1, 2026 to become Indiana's assistant secretary of education; former Milan superintendent Jane Rogers served as interim {wrbi_ketcham_leaving}{ec_interim}.",
+  "The board has five members {bl_candidates}. Seats are tied to residence districts; District 3, inside the City of Batesville, elected two members in 2020, and candidates must have lived in their district for at least a year {ec_2020_seats}. Ripley County's 2026 sample ballot lists the District 1, 2 and 4 races together, each 'vote for one (1) only', and notes that a straight-party vote does not count for these offices {ripley_sample}. Officers since January 2025: Stephanie Davidson (president), Blaine Timonera (vice president) and Larry Merkel (secretary); the other members are Jeremy Raver and Sean Townsley {wrbi_sworn}{wrbi_ketcham_final}.",
+  "Seats on the 2026 ballot: Districts 1, 2 and 4, one seat each, which matches the state list {in_list}{ripley_sample}. Incumbents Stephanie D. Davidson (District 1) and Larry Merkel (District 2), both elected in 2022, are running unopposed. District 4 member Sean Townsley chose not to run, so the four-way District 4 race will seat a new member {bl_candidates}.",
+  "Party labels: 2026 is the first year Indiana school board candidates could list a party. The Batesville Leader reported that Davidson and Carla Kemper Austin chose not to disclose a party (the state list shows them as Nonpartisan), Merkel and Rob Shane filed as Republicans, Ken Baran as a Democrat and Rob Wagner as an Independent {bl_candidates}{in_list}.",
+  "Superintendent search (Oct. 2025–Feb. 2026): the board hired the University Search Team and ran a public survey, listing its priorities as continuous improvement, continuing the district's Bulldog Ready initiative, and a visible leader in the corporation, community and state {wrbi_search}. Davidson said Eastes impressed the board with 'the research she had done about our schools' {wrbi_eastes}.",
+  "Teacher pay (November 2025): BCSC and the Batesville Educators Association reached a one-year tentative agreement for 2025-26 giving most teachers a $3,100 raise and raising the district's share of health premiums by 5%; the district said it gets the lowest per-pupil funding in southeastern Indiana {wrbi_ta}.",
+  "Academics and safety: the district reported that 98.8% of third graders at Batesville Intermediate School passed IREAD in 2025, placing it in the top five among in-person public school districts in Indiana {wrbi_iread}. BCSC received an $86,000 state Secured School Safety grant in 2026 {wrbi_safety}. Starting in 2026-27, students' phones must be off and stored from the first bell to the last, in line with a new state law {ec_phone}.",
+  "Budget: the district filed its 2027 capital projects and bus replacement plans with the state in September 2026 {dlgf_batesville}. This guide found no reporting on how the 2025 property-tax law SEA 1 affects BCSC's budget, and no BCSC referendum.",
+  "Forums: this guide found no 2026 candidate forum or questionnaire for these races. The only campaign statement found was a candidate-provided page from Rob Wagner on WRBI's website {wrbi_wagner}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Stephanie D Davidson",
+   "seat": "District 1",
+   "summary": "Incumbent and board president; unopposed {bl_candidates}{ec_isba}.",
+   "website": null,
+   "background": [
+    "Elected to the board in 2022 {bl_candidates}.",
+    "Has been board president since January 2025; she was the district's voting delegate at the Indiana School Boards Association assembly on Oct. 5, 2026 {wrbi_sworn}{ec_isba}."
+   ],
+   "path_to_ballot": [
+    "Filed June 15, 2026 for another four-year term without disclosing a party; the state lists her as Nonpartisan {bl_candidates}{ic_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. As president during the 2025-26 superintendent search, she said 'community input is essential' and urged residents to take the search survey {wrbi_search}. She said Eastes stood out for her experience and her research on the district {wrbi_eastes}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "Occupation not found.",
+    "No campaign website, questionnaire or forum remarks were found; she is unopposed.",
+    "Her votes on specific board decisions were not reviewed (the district website could not be opened).",
+    "County campaign finance filings were not checked."
+   ]
+  },
+  {
+   "ballot_name": "Lawrence (Larry) Merkel",
+   "seat": "District 2",
+   "summary": "Incumbent and board secretary; unopposed {bl_candidates}{wrbi_sworn}.",
+   "website": null,
+   "background": [
+    "Elected to the board in 2022 {bl_candidates}.",
+    "Named board secretary in January 2025 {wrbi_sworn}."
+   ],
+   "path_to_ballot": [
+    "Filed May 28, 2026 for another term as a Republican {bl_candidates}{ic_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. No public statement from him on the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "Occupation not found.",
+    "No campaign website, questionnaire or forum remarks were found; he is unopposed.",
+    "His votes on specific board decisions were not reviewed.",
+    "County campaign finance filings were not checked."
+   ]
+  },
+  {
+   "ballot_name": "Carla Kemper Austin",
+   "seat": "District 4",
+   "summary": "Candidate for the open District 4 seat; little public information about her campaign was found {bl_candidates}.",
+   "website": null,
+   "background": [
+    "No background information was found beyond her candidacy {bl_candidates}."
+   ],
+   "path_to_ballot": [
+    "Filed June 16, 2026 without disclosing a party; the state lists her as Nonpartisan {bl_candidates}{ic_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No website, social media page, questionnaire, forum remarks or news coverage of the campaign were found.",
+    "Occupation and ties to the schools could not be confirmed.",
+    "County campaign finance filings were not checked."
+   ]
+  },
+  {
+   "ballot_name": "Kenneth C (Ken) Baran",
+   "seat": "District 4",
+   "summary": "Candidate for the open District 4 seat; little public information about his campaign was found {bl_candidates}.",
+   "website": null,
+   "background": [
+    "No background information was found beyond his candidacy {bl_candidates}."
+   ],
+   "path_to_ballot": [
+    "Filed June 3, 2026 as a Democrat {bl_candidates}{ic_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No website, social media page, questionnaire, forum remarks or news coverage of the campaign were found.",
+    "Occupation and ties to the schools could not be confirmed.",
+    "County campaign finance filings were not checked."
+   ]
+  },
+  {
+   "ballot_name": "Rob Wagner",
+   "seat": "District 4",
+   "summary": "Candidate for the open District 4 seat; a manufacturing engineer who says he would be 'an independent voice' on the board {wrbi_wagner}.",
+   "website": null,
+   "background": [
+    "Says he has more than 30 years of experience as a manufacturing engineer and currently works at the Honda Indiana auto plant {wrbi_wagner}.",
+    "Lifelong Ripley County resident and Ball State University graduate; served in the U.S. Army's 3rd Infantry Regiment ('The Old Guard') {wrbi_wagner}.",
+    "Parent of two adult children who attended Batesville schools from kindergarten through 12th grade {wrbi_wagner}.",
+    "Has coached youth sports for 20 seasons, was a licensed IHSAA basketball official and is serving a third term as a cemetery board trustee {wrbi_wagner}."
+   ],
+   "path_to_ballot": [
+    "Filed June 15, 2026 as an Independent {bl_candidates}{ic_list}{in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Says he will make decisions based on 'what is best for our students, our taxpayers, and our community' and wants to make sure 'our tax dollars are spent wisely' {wrbi_wagner}.",
+      "Cites a 2010 project he helped lead on heating and cooling at a facility, which he says cut electricity and natural gas use and delayed major equipment replacement by nearly ten years, as the kind of resource planning he would bring to the board {wrbi_wagner}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Says he is not running because he thinks he knows how to teach better than teachers or manage administrators, and that he respects education professionals {wrbi_wagner}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Says he is 'not running to change the direction of our schools or promote a personal agenda' {wrbi_wagner}."
+   ],
+   "plans": [
+    "Says he would listen, study facts, ask questions and respect different viewpoints before deciding {wrbi_wagner}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "His statement is a candidate-provided page on a radio station website; no independent news coverage, questionnaire or forum remarks were found.",
+    "County campaign finance filings were not checked."
+   ]
+  },
+  {
+   "ballot_name": "Robert (Rob) Shane",
+   "seat": "District 4",
+   "summary": "Candidate for the open District 4 seat; little public information about his campaign was found {bl_candidates}.",
+   "website": null,
+   "background": [
+    "No background information was found beyond his candidacy {bl_candidates}."
+   ],
+   "path_to_ballot": [
+    "Filed June 17, 2026 as a Republican {bl_candidates}{ic_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No website, social media page, questionnaire, forum remarks or news coverage of the campaign were found.",
+    "Occupation and ties to the schools could not be confirmed.",
+    "County campaign finance filings were not checked."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "bl_candidates": [
+   "Several vie for school board posts",
+   "The Batesville Leader",
+   "2026-07-01",
+   "https://www.batesvilleleader.com/story/2026/07/01/news/several-vie-for-school-board-posts/1216.html"
+  ],
+  "ripley_sample": [
+   "2026 General Election Sample Ballots",
+   "Ripley County, Indiana",
+   "2026-10",
+   "https://ripleycounty.in.gov/download/2026-general-sample-ballots/"
+  ],
+  "ic_list": [
+   "2026 Indiana General Election School Board Candidate List",
+   "The Indiana Citizen",
+   "2026-08-12",
+   "https://indianacitizen.org/2026-indiana-general-election-school-board-candidate-list/"
+  ],
+  "idoe_enroll": [
+   "Corporation Enrollment by Grade Level, 2006-26",
+   "Indiana Department of Education",
+   "2026",
+   "https://www.in.gov/doe/files/corporation-enrollment-grade-2006-26.xlsx"
+  ],
+  "dlgf_batesville": [
+   "Batesville Community School Corporation, Ripley County (unit details)",
+   "Indiana Department of Local Government Finance budget notices",
+   "2026-10",
+   "https://budgetnotices.in.gov/Unit_View.aspx?unit_id=1207"
+  ],
+  "wrbi_sworn": [
+   "Batesville School Board Swears In New Member, Elects Officers",
+   "WRBI",
+   "2025-01-23",
+   "https://wrbiradio.com/batesville-school-board-swears-in-new-member-elects-officers/"
+  ],
+  "wrbi_ketcham_final": [
+   "Ketcham Attends Final BCSC School Board Meeting as Superintendent",
+   "WRBI",
+   "2025-12-19",
+   "https://wrbiradio.com/ketcham-attends-final-bcsc-school-board-meeting-as-superintendent/"
+  ],
+  "wrbi_ketcham_leaving": [
+   "Ketcham Departing BCSC for Statewide Leadership Role",
+   "WRBI (BCSC press release)",
+   "2025-10-30",
+   "https://wrbiradio.com/ketcham-leaving-bcsc-for-statewide-leadership-role/"
+  ],
+  "wrbi_search": [
+   "BCSC Asks for Public Input During Superintendent Search Process",
+   "WRBI (BCSC press release)",
+   "2025-11-12",
+   "https://wrbiradio.com/bcsc-asks-for-public-input-during-superintendent-search-process/"
+  ],
+  "ec_interim": [
+   "Batesville Schools Name Interim Superintendent",
+   "Eagle Country 99.3",
+   "2026-01-07",
+   "https://www.eaglecountryonline.com/news/local-news/batesville-schools-name-interim-superintendent/"
+  ],
+  "wrbi_eastes": [
+   "Batesville Taps New Superintendent",
+   "WRBI",
+   "2026-01-20",
+   "https://wrbiradio.com/batesville-taps-new-superintendent/"
+  ],
+  "ec_eastes_start": [
+   "New Batesville Superintendent to Start Later This Month",
+   "Eagle Country 99.3",
+   "2026-02-06",
+   "https://www.eaglecountryonline.com/news/local-news/new-batesville-superintendent-to-start-later-this-month/"
+  ],
+  "ec_phone": [
+   "Batesville School Update Cell Phone Policy",
+   "Eagle Country 99.3",
+   "2026-07-17",
+   "https://www.eaglecountryonline.com/news/local-news/bcsc-updates-cell-phone-policy/"
+  ],
+  "wrbi_ta": [
+   "BCSC Reaches Tentative Agreement with Batesville Educators Association",
+   "WRBI (BCSC press release)",
+   "2025-11-20",
+   "https://wrbiradio.com/bcsc-reaches-tentative-agreement-with-batesville-educators-association/"
+  ],
+  "wrbi_iread": [
+   "BCSC Ranks in Top Five for 2025 IREAD Scores",
+   "WRBI (BCSC press release)",
+   "2025-08-14",
+   "https://wrbiradio.com/bcsc-ranks-in-top-five-for-2025-iread-scores/"
+  ],
+  "wrbi_safety": [
+   "Local Schools Receive Safety Grants",
+   "WRBI",
+   "2026-09-01",
+   "https://wrbiradio.com/local-schools-receive-safety-grants/"
+  ],
+  "ec_isba": [
+   "BCSC School Board Represented at State Convention",
+   "Eagle Country 99.3 (BCSC news release)",
+   "2026-10-08",
+   "https://www.eaglecountryonline.com/news/local-news/bcsc-school-board-represented-at-state-convention/"
+  ],
+  "ec_2020_seats": [
+   "School Board Positions Open At Ripley County Schools",
+   "Eagle Country 99.3",
+   "2020-07-27",
+   "https://www.eaglecountryonline.com/news/local-news/school-board-positions-open-at-ripley-county-schools/"
+  ],
+  "wrbi_wagner": [
+   "Rob Wagner for School Board (candidate-provided page)",
+   "WRBI",
+   "2026-09-21",
+   "https://wrbiradio.com/rob-wagner-for-school-board/"
+  ]
+ }
+}

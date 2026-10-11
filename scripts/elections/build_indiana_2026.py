@@ -160,6 +160,7 @@ SEAT_OVERRIDES = {
     "Clay Community School Board, At Large (Clay, Parke)": 3,  # Brazil Times / county ballot
     "Delaware Yorktown Community School Board, Mt Pleasant Twp": 3,  # Delaware County ballot
     "South Harrison School Board District 4, Harrison Township": 2,  # Harrison County ballot
+    "Whitley County Consolidated School Board, District Columbia City": 2,  # Whitley County election schedule
 }
 
 
