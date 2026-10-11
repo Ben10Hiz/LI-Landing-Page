@@ -1,0 +1,307 @@
+{
+ "race_id": "in-school-board-kosciusko-tippecanoe-valley",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Tippecanoe Valley School Corporation, based in Akron, covers parts of Kosciusko and Fulton counties; its schools are Akron Elementary, Mentone Elementary, Tippecanoe Valley Middle School and Tippecanoe Valley High School {tvsc_home}{ifn_2022file}. State enrollment counts were 1,712 students in 2025-26, 1,738 in 2024-25 and 1,779 in 2022-23 {idoe_enroll}.",
+  "Superintendent: Blaine Conley {tvsc_home}{ifn_pay}.",
+  "The board has five members, each representing a numbered district tied to specific townships; candidates file in Kosciusko County even when their district is in Fulton County {ifn_2022file}. As of January 2025 the members were David Lash (president), Tom Bauters, Aaron Zolman, Adam Heckaman and Todd Hoffman; Zolman and Heckaman were re-elected in 2024 {ifn_lash25}. In October 2026 Zolman was vice president and Bauters secretary {ifn_pay}.",
+  "Seats on the 2026 ballot: Districts 3, 4 and 5, one seat each, matching the state list {in_list}. In 2022 these seats were filled by David Lash (District 3, Franklin Township, Kosciusko County), Tom Bauters (District 4, Henry Township, Fulton County) and Todd Hoffman (District 5, New Castle Township, Fulton County) {ifn_2022list}.",
+  "District 3 is open because incumbent David Lash is not running again; Shelly E. Engle, Jamie Murphy and Joe Leon Secrist are running {ifn_three}. District 4 incumbent Tom Bauters is unopposed {ifn_bauters}. In District 5, incumbent Todd Hoffman is not on the ballot; the state list shows only a declared write-in candidate, Jeffrey L. Brown, Jr. {in_list}{ifn_2022list}. This guide found no reporting on Hoffman's plans.",
+  "Party labels: Bauters filed as a Republican; the District 3 candidates did not declare a party {ic_list}{in_list}.",
+  "Teacher pay: on Oct. 5, 2026 the board presented a tentative 2026-27 agreement with the Tippecanoe Valley Classroom Teachers' Association giving increases of $1,000 to $1,600 on the salary scale depending on degree and experience, stipends for teachers at the top of the scale, and $200 more for a reading literacy endorsement; base salaries range from $46,000 to $81,500 {ifn_pay}.",
+  "Facilities: a new administration building with a child care center was under construction in 2025 and on track to open in August 2026, according to Conley {ifn_admin}{ifn_iread}.",
+  "Academics: 95% of Valley students passed the IREAD-3 reading test in 2025, about 8 points above the state average {ifn_iread}.",
+  "Budget and property taxes: Bauters credited the board with getting through local property tax funding reductions {ifn_bauters}{ifn_two}. This guide found no reporting on the dollar effect of the 2025 property-tax law (SEA 1) on the corporation, and no operating or safety referendum.",
+  "Forums: this guide found no 2026 candidate forum. InkFreeNews published candidate interviews in July and October 2026 {ifn_three}{ifn_d3}. In District 3, Secrist describes the board's job as running the business side of the schools, Engle puts literacy first, and Murphy emphasizes support and open communication with staff {ifn_d3}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Jamie Murphy",
+   "seat": "District 3",
+   "summary": "First-time candidate for the open District 3 seat (incumbent David Lash is not running); no party declared {ifn_two}{ifn_three}{in_list}.",
+   "website": null,
+   "background": [
+    "Graduate of Tippecanoe Valley High School {ifn_two}.",
+    "Says the run is a way to give back to the community that supported the candidate growing up {ifn_d3}."
+   ],
+   "path_to_ballot": [
+    "Filed June 17, 2026 without declaring a party; listed as Nonpartisan {ic_list}{in_list}. First run for the board {ifn_two}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Emphasizes fiscal responsibility alongside investing in staff {ifn_two}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Wants the district to support teachers and to make sure board members can hear from staff without fear of reprimand {ifn_d3}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Focuses on listening to everyone in the school community, saying “every voice matters” {ifn_two}.",
+      "Wants open communication at all levels of the district {ifn_d3}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Did not criticize specific board decisions; said a single board member cannot demand changes {ifn_d3}."
+   ],
+   "plans": [
+    "Would handle disagreements on the board professionally through open communication {ifn_d3}."
+   ],
+   "endorsements_finance": [],
+   "gaps": [
+    "Occupation and residence are not reported; InkFreeNews said in July that Murphy was unavailable for comment for its first article.",
+    "InkFreeNews articles refer to the candidate with different pronouns; this guide does not use either.",
+    "No candidate website or social-media page found.",
+    "No endorsements or campaign-finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Joe Leon Secrist",
+   "seat": "District 3",
+   "summary": "Local businessman and first-time candidate for the open District 3 seat (incumbent David Lash is not running); no party declared {ifn_three}{ifn_d3}{in_list}.",
+   "website": null,
+   "background": [
+    "Local businessman {ifn_d3}.",
+    "Has volunteered in the schools for years, substitute taught at the high school and Burket Education Center, and coached on the football and track staffs {ifn_three}."
+   ],
+   "path_to_ballot": [
+    "Filed June 17, 2026 without declaring a party; listed as Nonpartisan {ic_list}{in_list}. Said he had considered running for years but waited while the seat had a good representative in place {ifn_three}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Views the district as a business, with students as clients, staff as employees to support and hold accountable, and the community as investors; wants the district run responsibly {ifn_three}.",
+      "Says a school board is mainly an administrative body that runs the business side of the schools rather than one that makes classroom decisions {ifn_d3}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Wants to study staff retention, including whether pay or other factors are the cause {ifn_d3}."
+     ]
+    },
+    {
+     "topic": "Facilities",
+     "items": [
+      "Wants a close look at existing facilities and how the community can use them {ifn_d3}."
+     ]
+    },
+    {
+     "topic": "Enrollment & school choice",
+     "items": [
+      "Wants to build on enrollment, which he says is gaining more students than it loses {ifn_d3}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Said the district “had a good representative in place” in Lash {ifn_three}. Says the board should review both what works and what does not {ifn_d3}."
+   ],
+   "plans": [
+    "Avoids specific promises before taking office and says leaders need about four years to make changes {ifn_d3}.",
+    "Says members should discuss issues, hear every viewpoint and then vote {ifn_d3}."
+   ],
+   "endorsements_finance": [],
+   "gaps": [
+    "His business is not named in coverage.",
+    "No candidate website or social-media page found.",
+    "No endorsements or campaign-finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Shelly E. Engle",
+   "seat": "District 3",
+   "summary": "Teacher educator and former Tippecanoe Valley teacher running for the open District 3 seat (incumbent David Lash is not running); no party declared {ifn_three}{ifn_d3}{in_list}.",
+   "website": null,
+   "background": [
+    "Works in teacher education, training future teachers and working with schools across Indiana; says she holds a PhD in reading {ifn_three}{ifn_d3}.",
+    "Taught 13 years in the district, six at Akron Elementary and seven at Tippecanoe Valley High School {ifn_three}.",
+    "Tippecanoe Valley graduate; parent of students in the district {ifn_three}."
+   ],
+   "path_to_ballot": [
+    "Filed June 18, 2026 without declaring a party; listed as Nonpartisan {ic_list}{in_list}. First run for the board {ifn_three}."
+   ],
+   "positions": [
+    {
+     "topic": "Academics",
+     "items": [
+      "Wants literacy (reading, writing, speaking and listening) and math to be a central focus while keeping existing programs {ifn_d3}.",
+      "Wants graduates to be literate, competent and ready for college, work or the military {ifn_d3}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Plans to listen to students, parents, staff and community members to learn what the schools need {ifn_three}{ifn_d3}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Did not criticize specific board decisions; says she wants the district to remain a place where “students, teachers, and families can thrive” {ifn_three}."
+   ],
+   "plans": [
+    "Would handle disagreements by listening and questioning evidence before deciding what serves students {ifn_d3}."
+   ],
+   "endorsements_finance": [],
+   "gaps": [
+    "Her current employer is not named in coverage.",
+    "No candidate website or social-media page found.",
+    "No endorsements or campaign-finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Tom Bauters",
+   "seat": "District 4",
+   "summary": "Incumbent and board secretary, unopposed for a third term; listed as a Republican {ifn_bauters}{ifn_two}{in_list}.",
+   "website": null,
+   "background": [
+    "Has served eight years on the board; was board president in 2022, vice president in 2025 and secretary in 2026 {ifn_two}{ifn_2022file}{ifn_lash25}{ifn_pay}.",
+    "Moved to the area in 2001; he and his wife started a local business in 2014 {ifn_bauters}.",
+    "Served 12 years on the district's steering committee, which reviews educational and career opportunities for students {ifn_bauters}.",
+    "Parent of Tippecanoe Valley High School graduates; grandparent of current students {ifn_bauters}.",
+    "Lives in Akron (Henry Township, Fulton County) {ifn_2022list}."
+   ],
+   "path_to_ballot": [
+    "Filed June 10, 2026 as a Republican {ic_list}{in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Facilities",
+     "items": [
+      "Points to campus improvements, especially new band and theater facilities {ifn_bauters}."
+     ]
+    },
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Credits the board with getting through COVID-19 and local property tax funding reductions {ifn_bauters}{ifn_two}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member. Points to the board's work through the pandemic and property-tax funding reductions, academic gains and campus facility investments {ifn_two}{ifn_bauters}."
+   ],
+   "plans": [
+    "Says he wants to keep serving the students, teachers, administration and community {ifn_bauters}."
+   ],
+   "endorsements_finance": [],
+   "gaps": [
+    "The name of his business is not reported.",
+    "No candidate website, questionnaire or forum appearance found.",
+    "No endorsements or campaign-finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Jeffrey L. Brown, Jr.",
+   "seat": "District 5",
+   "summary": "Declared write-in candidate for the District 5 seat, the only candidate listed for it; the seat's 2022 winner, Todd Hoffman, is not on the ballot {in_list}{ifn_2022list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state candidate list as a Nonpartisan write-in candidate {in_list}. Write-in names do not appear on the printed ballot."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no news coverage, website, social-media page, questionnaire or forum appearance for this candidate.",
+    "Occupation, residence, community roles and ties to the schools are not reported.",
+    "No statements found on any district issue.",
+    "No endorsements or campaign-finance reports found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "tvsc_home": [
+   "Tippecanoe Valley School Corporation (home page)",
+   "Tippecanoe Valley School Corporation",
+   "2026-10",
+   "https://www.tvsc.k12.in.us/"
+  ],
+  "idoe_enroll": [
+   "Corporation Enrollment by Grade Level, 2006-26",
+   "Indiana Department of Education",
+   "2026",
+   "https://www.in.gov/doe/files/corporation-enrollment-grade-2006-26.xlsx"
+  ],
+  "ic_list": [
+   "2026 Indiana General Election School Board Candidate List",
+   "The Indiana Citizen",
+   "2026-08-12",
+   "https://indianacitizen.org/2026-indiana-general-election-school-board-candidate-list/"
+  ],
+  "ifn_d3": [
+   "Secrist, Murphy and Engle Running For Tippecanoe Valley School Board District 3",
+   "InkFreeNews",
+   "2026-10-06",
+   "https://www.inkfreenews.com/2026/10/06/secrist-murphy-and-engle-running-for-tippecanoe-valley-school-board-district-3/"
+  ],
+  "ifn_bauters": [
+   "Bauters Uncontested For Tippecanoe Valley School Board District 4",
+   "InkFreeNews",
+   "2026-10-06",
+   "https://www.inkfreenews.com/2026/10/06/bauters-uncontested-for-tippecanoe-valley-school-board-district-4/"
+  ],
+  "ifn_two": [
+   "Two More Running for Tippecanoe Valley School Board",
+   "InkFreeNews",
+   "2026-07-16",
+   "https://www.inkfreenews.com/2026/07/16/two-more-running-for-tippecanoe-valley-school-board/"
+  ],
+  "ifn_three": [
+   "Three Running for Tippecanoe Valley School Board District 3 Seat",
+   "InkFreeNews",
+   "2026-07-14",
+   "https://www.inkfreenews.com/2026/07/14/three-running-for-tippecanoe-valley-school-board-district-3-seat/"
+  ],
+  "ifn_pay": [
+   "Tippecanoe Valley School Corporation Board Announces Tentative Pay Raises",
+   "InkFreeNews",
+   "2026-10-05",
+   "https://www.inkfreenews.com/2026/10/05/tippecanoe-valley-school-corporation-board-announces-pay-raises/"
+  ],
+  "ifn_lash25": [
+   "Lash To Serve As Valley Board President For 2025",
+   "InkFreeNews",
+   "2025-01-09",
+   "https://www.inkfreenews.com/2025/01/09/lash-to-serve-as-valley-board-president-for-2025/"
+  ],
+  "ifn_2022file": [
+   "Three Valley School Board Members File For Re-Election",
+   "InkFreeNews",
+   "2022-07-27",
+   "https://www.inkfreenews.com/2022/07/27/three-valley-school-board-members-file-for-re-election/"
+  ],
+  "ifn_2022list": [
+   "School Board Candidate List Finalized For 2022 Election",
+   "InkFreeNews",
+   "2022-08-26",
+   "https://www.inkfreenews.com/2022/08/26/school-board-candidate-list-finalized-for-2022-election/"
+  ],
+  "ifn_iread": [
+   "Valley Achieves 95% Passing Rate On IREAD-3",
+   "InkFreeNews",
+   "2025-08-18",
+   "https://www.inkfreenews.com/2025/08/18/valley-achieves-95-passing-rate-on-iread-3/"
+  ],
+  "ifn_admin": [
+   "Conley: Framework Should Be Up At New Administration Building, Day Care Next Month",
+   "InkFreeNews",
+   "2025-07-21",
+   "https://www.inkfreenews.com/2025/07/21/conley-framework-should-be-up-at-new-administration-building-day-care-next-month/"
+  ]
+ }
+}

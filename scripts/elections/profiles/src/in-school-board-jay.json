@@ -1,0 +1,209 @@
+{
+ "race_id": "in-school-board-jay",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Jay School Corporation serves Jay County (including Portland, Dunkirk and Redkey) and a part of Blackford County; Blackford voters who live in the corporation vote in the Jay board races {hcnt_ev}{cr_stadium}. State enrollment counts were 3,004 students in 2025-26, 2,950 in 2024-25 and 2,987 in 2023-24 {idoe_enroll}. The district's year-end report put enrollment at 2,905, up from 2,817 the year before {cr_yearend}.",
+  "Superintendent: Jeremy Gulley {cr_yearend}{cr_budget}.",
+  "The board has seven members: as of 2026, Ron Laux (president), Donna Geesaman (vice president), Marcie Vormohr (secretary), Chip Phillips, Chad Towell, Aaron Clark and Jon Eads {cr_yearend}{cr_budget}. Seats are designated by numbered districts {cr_0620}.",
+  "Seats on the 2026 ballot: District 2, held by Chip Phillips, is open; Desi Brown and Tom Crouch filed for it, and Phillips is not on the ballot. District 3 incumbent Donna Geesaman faces Kendra McLaughlin. District 5 incumbent Ron Laux is unopposed. One seat each, matching the state list {cr_0620}{cr_0602}{in_list}.",
+  "A fourth seat, District 1 (held by Marcie Vormohr), was also up in 2026, but no candidate filed for it by the June 18 deadline, so it does not appear on the ballot {cr_0620}{cr_0530}. This guide did not find how that seat will be filled.",
+  "Party labels: 2026 is the first school board election in which candidates could declare a party. Crouch, McLaughlin and Laux filed as Republicans; Brown and Geesaman did not declare a party {hcnt_ev}{ic_list}.",
+  "Budget: the district's education fund ended 2025 at a record $8.32 million and the operation fund at $7.62 million; the rainy day fund was $1.82 million (January 2026) {cr_yearend}. In August 2026 the board voted to advertise a proposed 2027 budget of $44.2 million, up about 4.75% from $42.19 million for 2026, with a hearing set for Aug. 17 and adoption planned for Sept. 21 {cr_budget}.",
+  "Property-tax law (SEA 1): The Commercial Review reported that an August 2025 Baker Tilly presentation estimated that the 2025 tax-law changes would cost the corporation more than $500,000 a year {cr_yearend}. No operating or safety referendum was found.",
+  "Employee costs: in August 2026 the board stayed with its health insurer despite an overall premium increase of nearly $600,000 (about 14%), and raised the district's annual contribution to $9,120 for single plans and $19,608 for family plans; changes to teacher contributions go through bargaining with the Jay Classroom Teachers Association {cr_budget}. In April 2026 it approved a child care tuition-assistance pilot for employees capped at $150,000 {cr_stadium}.",
+  "Enrollment and school choice: a virtual academy pilot for grades 7-12, approved in February 2025, served 67 students in spring 2026; the district reported that students leaving for outside virtual schools fell from 119 in 2024 to 73 in 2025 {cr_virtual}. The 2025 graduation rate was 95.4%, about 7 points higher than the year before {cr_virtual}.",
+  "Facilities: in April 2026 the board awarded a $554,877 contract to repair and seal the Schutz Memorial Stadium grandstand, one phase of a larger effort that includes tennis courts, a band and choir room, electrical and heating/cooling upgrades and kitchen work; Gulley said the aim was to keep the stadium usable through the next bond cycle, projected for 2033 {cr_stadium}. Repairs from a September 2024 tornado that hit the junior-high wing had cost nearly $5.9 million as of January 2026 {cr_virtual}.",
+  "Forums: this guide found no 2026 candidate forum or questionnaire for the Jay races. The district website could not be loaded."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Desiree (Desi) Brown",
+   "seat": "District 2",
+   "summary": "Candidate for the open District 2 seat now held by Chip Phillips; did not declare a party {cr_0620}{hcnt_ev}.",
+   "website": null,
+   "background": [
+    "Lives in Dunkirk {cr_0620}."
+   ],
+   "path_to_ballot": [
+    "Filed June 18, 2026, the last day of filing, without declaring a party; the state list shows her as Nonpartisan {ic_list}{cr_0620}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "Occupation, community roles and ties to the schools are not reported.",
+    "No statements found on the budget, the virtual academy, facilities or other district issues.",
+    "No candidate website, social-media page, questionnaire, forum appearance or news interview was found for this candidate.",
+    "No endorsements or campaign-finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Tom E Crouch",
+   "seat": "District 2",
+   "summary": "Candidate for the open District 2 seat now held by Chip Phillips; listed as a Republican {cr_0602}{in_list}.",
+   "website": null,
+   "background": [
+    "Lives in Dunkirk {cr_0602}.",
+    "Ran for the District 2 seat in 2022, when Chip Phillips defeated him and Gloria Hamilton in a three-way race in which each candidate received between 32% and 35% of the vote {cr_0602}."
+   ],
+   "path_to_ballot": [
+    "Filed June 1, 2026 as a Republican {cr_0602}{ic_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "Occupation, community roles and ties to the schools are not reported.",
+    "No statements found on the budget, the virtual academy, facilities or other district issues.",
+    "No candidate website, social-media page, questionnaire, forum appearance or news interview was found for this candidate.",
+    "No endorsements or campaign-finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Donna Geesaman",
+   "seat": "District 3",
+   "summary": "Incumbent and board vice president, seeking another term; did not declare a party {cr_0620}{cr_yearend}{hcnt_ev}.",
+   "website": null,
+   "background": [
+    "Serves as board vice president; in January 2026 she was appointed to the board's insurance committee and named to its negotiations committee {cr_yearend}. She represents the board in 2026 collective bargaining with Laux and Chad Towell {cr_budget}."
+   ],
+   "path_to_ballot": [
+    "Filed May 26, 2026 without declaring a party; the state list shows her as Nonpartisan {ic_list}{cr_0530}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. In January 2026 she asked staff questions about the virtual academy pilot; in reply, staff said students in it work at their own pace {cr_virtual}. This guide found no campaign statement from her about the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "Occupation and length of board service are not reported in sources this guide could read; search snippets of a 2018 Commercial Review article (no longer online) indicated she first won the District 3 seat in 2018 (unverified).",
+    "No campaign statements on the budget, SEA 1, facilities or other issues were found.",
+    "No candidate website, social-media page, questionnaire, forum appearance or news interview was found for this candidate.",
+    "No endorsements or campaign-finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Kendra McLaughlin",
+   "seat": "District 3",
+   "summary": "Challenger to incumbent Donna Geesaman; listed as a Republican {cr_0620}{in_list}.",
+   "website": null,
+   "background": [
+    "This guide found no published background on the candidate; The Commercial Review listed her only by name {cr_0620}."
+   ],
+   "path_to_ballot": [
+    "Filed June 2, 2026 as a Republican {ic_list}{in_list}. She first filed for the District 5 seat and changed her filing to District 3 before the deadline {cr_0620}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "Occupation, residence, community roles and ties to the schools are not reported.",
+    "No statements found on the board's record, the budget, the virtual academy, facilities or other district issues.",
+    "No candidate website, social-media page, questionnaire, forum appearance or news interview was found for this candidate.",
+    "No endorsements or campaign-finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Ronald J Laux",
+   "seat": "District 5",
+   "summary": "Incumbent and board president, unopposed; listed as a Republican {cr_0620}{hcnt_ev}{in_list}.",
+   "website": null,
+   "background": [
+    "Elected board president and board of finance president in January 2026; appointed himself to the negotiations committee {cr_yearend}."
+   ],
+   "path_to_ballot": [
+    "Filed May 27, 2026 as a Republican {ic_list}{cr_0530}{in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "On the district's 2025 year-end balances, said, “It’s a very good report,” crediting “all of the employees and all of the people involved” {cr_yearend}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member and its president. His public comments on the board's record found by this guide concern the district's finances (see Budget & taxes) {cr_yearend}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "Occupation and length of board service are not reported in sources this guide could read; search snippets of older Commercial Review articles (no longer online) indicated he first ran for the District 5 seat in 2014 (unverified).",
+    "No campaign statements on SEA 1, facilities or other issues were found.",
+    "No candidate website, social-media page, questionnaire, forum appearance or news interview was found for this candidate.",
+    "No endorsements or campaign-finance reports found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "hcnt_ev": [
+   "Early voting is underway",
+   "Hartford City News-Times",
+   "2026-10-07",
+   "https://www.hartfordcitynewstimes.com/news/early-voting-is-underway/article_a61a9131-9790-4cfb-aa3b-0c3f454e3567.html"
+  ],
+  "ic_list": [
+   "2026 Indiana General Election School Board Candidate List",
+   "The Indiana Citizen",
+   "2026-08-12",
+   "https://indianacitizen.org/2026-indiana-general-election-school-board-candidate-list/"
+  ],
+  "cr_0530": [
+   "Saturday, May 30, 2026 - In review",
+   "The Commercial Review",
+   "2026-05-30",
+   "https://www.thecr.com/news/inreview/saturday-may-30-2026---in-review/article_91e11225-cc96-47f7-a1bd-0ddb641edb18.html"
+  ],
+  "cr_0602": [
+   "Capsule Reports - Tuesday, June 2, 2026 (Crouch files)",
+   "The Commercial Review",
+   "2026-06-02",
+   "https://www.thecr.com/news/capsule_reports/capsule-reports---tuesday-june-2-2026/article_2e397974-16a9-4671-9a52-94aca8fc24e7.html"
+  ],
+  "cr_0620": [
+   "Capsule Reports - Saturday, June 20, 2026 (Filing complete)",
+   "The Commercial Review",
+   "2026-06-20",
+   "https://www.thecr.com/news/police_and_courts/capsule-reports---saturday-june-20-2026/article_62af20fc-073e-4bc3-9174-049c91ad631c.html"
+  ],
+  "cr_yearend": [
+   "Jay School Corporation sets year-end balance records again",
+   "The Commercial Review",
+   "2026-01-07",
+   "https://www.thecr.com/news/jay-school-corporation-sets-year-end-balance-records-again/article_24118eb4-b0bf-4007-b608-fb63a7c9a1d3.html"
+  ],
+  "cr_virtual": [
+   "Jay Virtual Academy is serving 67 students this semester",
+   "The Commercial Review",
+   "2026-01-20",
+   "https://www.thecr.com/news/jay-virtual-academy-is-serving-67-students-this-semester/article_dbc71793-0f9c-4c64-bdea-a0aa289f68d8.html"
+  ],
+  "cr_stadium": [
+   "Schutz stadium grandstand project awarded to Buckeye",
+   "The Commercial Review",
+   "2026-04-20",
+   "https://www.thecr.com/news/schutz-stadium-grandstand-project-awarded-to-buckeye/article_29ec4afe-e7be-440c-8543-dc18d497050f.html"
+  ],
+  "cr_budget": [
+   "Jay School Corporation budget proposed at $44.2 million",
+   "The Commercial Review",
+   "2026-08-04",
+   "https://www.thecr.com/news/jay-school-corporation-budget-proposed-at-44-2-million/article_8f552886-fb57-4e1e-94a9-e62dccfd121b.html"
+  ],
+  "idoe_enroll": [
+   "Corporation Enrollment by Grade Level, 2006-26",
+   "Indiana Department of Education",
+   "2026",
+   "https://www.in.gov/doe/files/corporation-enrollment-grade-2006-26.xlsx"
+  ]
+ }
+}
