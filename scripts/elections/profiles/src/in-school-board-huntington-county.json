@@ -1,0 +1,285 @@
+{
+ "race_id": "in-school-board-huntington-county",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The 'Huntington County Community School Board' races on the state list are for the Huntington County Community School Corporation (HCCS), based in Huntington {in_list}{hccs_board}. The district lists six elementary schools (Andrews, Flint Springs, Horace Mann, Lincoln, Roanoke and Salamonie), two middle schools (Crestview and Riverview), Huntington North High School and the Huntington North Learning Center {hccs_home}. Its 2027 budget workshop estimates enrollment (ADM) at 4,674 students {hccs_budget2027}.",
+  "The superintendent is Chuck Brimbury {hccs_supt_post}. The Plain Dealer reported that superintendent John D. Trout resigned near the end of November 2025 {pd_supt_2026}. The board named Brimbury interim superintendent, and on March 23, 2026 it voted 6-1 to make him permanent superintendent {pd_supt_2026}{hccs_supt_post}. Kenneth Thompson cast the no vote {hccs_agenda_20260323}.",
+  "The board has seven members, each elected from one of seven districts by voters of that district, for four-year terms {hccs_board}{pd_2024_candidates}. Districts 2, 3 and 5 are on the 2026 ballot, and the other four seats were elected in 2024 {pd_2024_candidates}{pd_2026_seats}. The 2026 officers are President Tim Allen (District 4), Vice President Ryan Wall (District 7) and Secretary Gary McClellan (District 5) {hccs_board}{hccs_agenda_20260112}. The other members are Matt Melcher (District 1), Debra Miller (District 2), Kenneth Thompson (District 3) and Aaron Carl (District 6) {hccs_schoolboard}.",
+  "District 2 (one seat): Debra (Deb) Miller was appointed in January 2025 to fill the rest of Matthew Roth's term, after Roth resigned in December 2024 {pd_miller_2025}. She is running unopposed and is listed as a Republican {in_list}.",
+  "District 3 (one seat): Kari Heim was elected in 2022 and served from 2023 to 2025 {pd_2024_candidates}{hccs_agenda_20251215}. Kenneth Thompson held the seat and was voting by the Dec. 15, 2025 meeting {hccs_agenda_20251215}. He is running as Ken Thompson (Republican), against Carrie M Miller (Republican) and James Garwood (Independent) {in_list}. The state list's 'vote for 1' matches a single-member district {hccs_board}.",
+  "District 5 (one seat): Gary McClellan held the seat in 2024 {pd_2024_candidates} and still does {hccs_schoolboard}. He is running unopposed and is listed as Nonpartisan {in_list}.",
+  "Building projects and bonds (2025-2026): an Aug. 24, 2026 update listed work paid for by bonds issued in 2022 through 2025. The list includes Huntington North High School mechanical systems, locker rooms, restrooms and windows; Salamonie HVAC; secure vestibules at several elementary schools; and Horace Mann HVAC and Salamonie pool demolition scheduled for summer 2027 {hccs_bond_20260824}. On Aug. 10, 2026, the board voted 7-0 for the project resolution on a 'tax neutral 2026 General Obligations Bond' {hccs_min_20260810}. It approved the final bond resolution and additional appropriation on Sept. 14 {hccs_min_20260914}.",
+  "2027 budget (September-October 2026): CFO Michelle Babcock's workshop estimated a 2027 budget of $74.7 million across the debt service, education and operations funds {hccs_budget2027}. The budget hearing was held on Sept. 28, 2026 {hccs_min_20260928}. Adoption of the budget, the 2027-2029 capital projects plan and a transfer from the Education Fund to the Operations Fund were on the Oct. 12, 2026 agenda {hccs_agenda_20261012}. HCCS is not on the state's list of districts with a referendum in November 2026 {dlgf_ref_2026}.",
+  "Academics and policy (2026): in March 2026 the board voted 7-0 to adopt a new K-12 science curriculum {pd_supt_2026}. A May 11, 2026 work session covered the new state wireless-device law and the school accountability model {hccs_work_20260511}.",
+  "Forums: this guide found no 2026 candidate forum, questionnaire or news profile for these races. The only contested race is District 3, with three candidates {in_list}{incitizen_list}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Debra (Deb) Miller",
+   "seat": "District 2",
+   "summary": "Incumbent by appointment, running unopposed; a retired Huntington County educator who joined the board in January 2025 {pd_miller_2025}{in_list}.",
+   "website": null,
+   "background": [
+    "Told the board in her January 2025 interview that she had taught elementary, kindergarten and special education in Huntington County schools, had worked as a school counselor, and had been a building principal for 14 years, 10 of them in Huntington County {pd_miller_2025}.",
+    "Later worked for Pearson Education as an assessment specialist, and served as president of the YMCA Huntington Board, The Plain Dealer reported {pd_miller_2025}."
+   ],
+   "path_to_ballot": [
+    "Was chosen by the board on a 4-2 vote on Jan. 14, 2025, out of six interviewed applicants, to fill the vacant District 2 seat {pd_miller_2025}.",
+    "Filed with a Republican affiliation; The Indiana Citizen's copy of the state list gives June 11, 2026 as her filing date {incitizen_list}{in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Said in her 2025 interview that one of her priorities is to 'attract and retain quality teachers' {pd_miller_2025}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Said her goals are to encourage creative approaches to teaching and learning and that educators should look for research-based practices, The Plain Dealer reported {pd_miller_2025}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Said she favors different ways of getting information to the community, noting that Huntington County 'no longer has a daily newspaper', The Plain Dealer reported {pd_miller_2025}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member.",
+    "Voted for Brimbury's appointment as superintendent on March 23, 2026 {hccs_agenda_20260323}. At the Aug. 10, 2026 meeting she 'highlighted the positivity around tonights board meeting', according to the minutes {hccs_min_20260810}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No 2026 interview, questionnaire or campaign website was found.",
+    "No statement from her on SEA 1, the district budget or the 2026 bond was found.",
+    "No campaign finance reports were found."
+   ]
+  },
+  {
+   "ballot_name": "Carrie M Miller",
+   "seat": "District 3",
+   "summary": "A Republican challenger for the District 3 seat held by Ken Thompson {in_list}{hccs_schoolboard}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Filed with a Republican affiliation; The Indiana Citizen's copy of the state list gives June 4, 2026 as her filing date {incitizen_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, candidate statement, website or social media page was found for this candidate.",
+    "Occupation, community roles and ties to the schools are unknown.",
+    "No campaign finance reports were found."
+   ]
+  },
+  {
+   "ballot_name": "James Garwood",
+   "seat": "District 3",
+   "summary": "An Independent challenger for the District 3 seat held by Ken Thompson {in_list}{hccs_schoolboard}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Filed as an Independent; The Indiana Citizen's copy of the state list gives May 19, 2026 as his filing date {incitizen_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, candidate statement, website or social media page was found for this candidate.",
+    "Occupation, community roles and ties to the schools are unknown.",
+    "No campaign finance reports were found."
+   ]
+  },
+  {
+   "ballot_name": "Ken Thompson",
+   "seat": "District 3",
+   "summary": "Incumbent: has held the District 3 seat since late 2025 and is running as a Republican {hccs_agenda_20251215}{in_list}.",
+   "website": null,
+   "background": [
+    "In April 2026 the board appointed him to the Warren Redevelopment Commission and Warren Park Board; he abstained on that vote {hccs_agenda_20260427}."
+   ],
+   "path_to_ballot": [
+    "Was voting as the District 3 member by the Dec. 15, 2025 meeting, when the board honored his predecessor, Kari Heim, for her 2023-25 service {hccs_agenda_20251215}.",
+    "Filed with a Republican affiliation; The Indiana Citizen's copy of the state list gives June 5, 2026 as his filing date {incitizen_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member.",
+    "Cast the only no vote on March 23, 2026, when the board voted 6-1 to appoint Chuck Brimbury superintendent {hccs_agenda_20260323}{pd_supt_2026}.",
+    "Voted for the Aug. 10, 2026 resolutions on the 2026 general obligation bond, which passed 7-0 {hccs_min_20260810}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "How and when he joined the board (likely an appointment to fill the vacancy left by Kari Heim) was not confirmed in a source read; search snippets mention public interviews for a vacant District 3 seat on Nov. 24, 2025, unverified.",
+    "No public explanation of his vote against the superintendent appointment was found.",
+    "Occupation and background not found in sources read; no campaign statement, website or finance report found."
+   ]
+  },
+  {
+   "ballot_name": "Gary Lynn McClellan",
+   "seat": "District 5",
+   "summary": "Incumbent and board secretary, running unopposed in District 5 {hccs_board}{in_list}.",
+   "website": null,
+   "background": [
+    "Is the board's secretary {hccs_board}."
+   ],
+   "path_to_ballot": [
+    "Held the District 5 seat in 2024, when The Plain Dealer listed it among the seats up in 2026 {pd_2024_candidates}.",
+    "Filed for reelection; The Indiana Citizen's copy of the state list gives June 5, 2026 as his filing date {incitizen_list}. The state lists him as Nonpartisan {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member.",
+    "On March 23, 2026, he seconded the motion to appoint Brimbury superintendent {hccs_agenda_20260323}. On Aug. 10, 2026, he seconded the motion on the 2026 general obligation bond project resolution, which passed 7-0 {hccs_min_20260810}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "When he first joined the board was not confirmed.",
+    "No 2026 interview, questionnaire, campaign website or public statement on district issues was found.",
+    "Occupation not found in sources read; no campaign finance reports found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "hccs_home": [
+   "Huntington County Community School Corporation (home page and school list)",
+   "Huntington County Community School Corporation",
+   "2026-10",
+   "https://www.hccsc.k12.in.us/"
+  ],
+  "hccs_board": [
+   "Board",
+   "Huntington County Community School Corporation",
+   "2026-10",
+   "https://www.hccsc.k12.in.us/board"
+  ],
+  "hccs_schoolboard": [
+   "School Board (members and districts)",
+   "Huntington County Community School Corporation",
+   "2026-10",
+   "https://www.hccsc.k12.in.us/board/school-board"
+  ],
+  "hccs_supt_post": [
+   "Huntington County Community Schools Names Chuck Brimbury as Superintendent",
+   "Huntington County Community School Corporation",
+   "2026-03-23",
+   "https://www.hccsc.k12.in.us/community/news/post-details/~board/news/post/newsuperintendent"
+  ],
+  "hccs_agenda_20251215": [
+   "Regular Board Meeting, Dec. 15, 2025 (agenda with motions and votes)",
+   "Huntington County Community School Corporation (Diligent Community)",
+   "2025-12-15",
+   "https://hccsc-k12.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Id=69"
+  ],
+  "hccs_agenda_20260112": [
+   "Organizational Board Meeting, Jan. 12, 2026 (agenda with motions and votes)",
+   "Huntington County Community School Corporation (Diligent Community)",
+   "2026-01-12",
+   "https://hccsc-k12.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Id=68"
+  ],
+  "hccs_agenda_20260323": [
+   "Regular Board Meeting, March 23, 2026 (agenda with motions and votes)",
+   "Huntington County Community School Corporation (Diligent Community)",
+   "2026-03-23",
+   "https://hccsc-k12.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Id=54"
+  ],
+  "hccs_agenda_20260427": [
+   "Regular Board Meeting, April 27, 2026 (agenda with motions and votes)",
+   "Huntington County Community School Corporation (Diligent Community)",
+   "2026-04-27",
+   "https://hccsc-k12.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Id=52"
+  ],
+  "hccs_work_20260511": [
+   "Public Work Session, May 11, 2026 (agenda)",
+   "Huntington County Community School Corporation (Diligent Community)",
+   "2026-05-11",
+   "https://hccsc-k12.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Id=51"
+  ],
+  "hccs_min_20260810": [
+   "Regular Board Meeting minutes, Aug. 10, 2026",
+   "Huntington County Community School Corporation",
+   "2026-08-10",
+   "https://hccsc-k12.community.diligentoneplatform.com/document/6b64ccb6-3aa1-4e00-a427-c0ae06aed4ff"
+  ],
+  "hccs_bond_20260824": [
+   "Bond Projects Update, August 24, 2026",
+   "Huntington County Community School Corporation",
+   "2026-08-24",
+   "https://hccsc-k12.community.diligentoneplatform.com/document/0ddc540b-384a-4384-b1fc-bdbf072f1025"
+  ],
+  "hccs_min_20260914": [
+   "Regular Board Meeting minutes, Sept. 14, 2026",
+   "Huntington County Community School Corporation (Diligent Community)",
+   "2026-09-14",
+   "https://hccsc-k12.community.diligentoneplatform.com/document/51d85cc8-fc07-4b7e-9544-52f6dae26235"
+  ],
+  "hccs_min_20260928": [
+   "Regular Board Meeting minutes, Sept. 28, 2026",
+   "Huntington County Community School Corporation (Diligent Community)",
+   "2026-09-28",
+   "https://hccsc-k12.community.diligentoneplatform.com/document/77b0d4d0-629f-43ba-8e49-0daf20d2d55a"
+  ],
+  "hccs_budget2027": [
+   "Budget Year 2027 (budget workshop presentation)",
+   "Huntington County Community School Corporation",
+   "2026-09",
+   "https://hccsc-k12.community.diligentoneplatform.com/document/ca41b551-8196-4e00-b96a-42ace91ae6e0"
+  ],
+  "hccs_agenda_20261012": [
+   "Regular Board Meeting, Oct. 12, 2026 (agenda)",
+   "Huntington County Community School Corporation (Diligent Community)",
+   "2026-10-12",
+   "https://hccsc-k12.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Id=641"
+  ],
+  "pd_2024_candidates": [
+   "10 seek Huntington County School board seats",
+   "The Plain Dealer",
+   "2024-10-03",
+   "https://www.plaindealerin.com/community/10-seek-huntington-county-school-board-seats/article_e15cf44d-82c8-52f7-b46f-0a1050ba0768.html"
+  ],
+  "pd_miller_2025": [
+   "Huntington school board votes in former local lifetime educator",
+   "The Plain Dealer",
+   "2025-01-18",
+   "https://www.plaindealerin.com/news/huntington-school-board-votes-in-former-local-lifetime-educator/article_b3480d58-48e3-54b9-9639-e114cda9e155.html"
+  ],
+  "pd_2026_seats": [
+   "Elections office announces 2026 ballot seats",
+   "The Plain Dealer",
+   "2025-04-16",
+   "https://www.plaindealerin.com/news/elections-office-announces-2026-ballot-seats/article_f2f64e33-8034-5dc9-a741-dd63cea2a067.html"
+  ],
+  "pd_supt_2026": [
+   "“Good to Great:” New superintendent elected",
+   "The Plain Dealer",
+   "2026-04-08",
+   "https://www.plaindealerin.com/news/good-to-great-new-superintendent-elected/article_243b642c-5c94-5d61-94b4-8fda0725e5cb.html"
+  ],
+  "incitizen_list": [
+   "2026 Indiana General Election School Board Candidate List",
+   "The Indiana Citizen",
+   "2026-08",
+   "https://indianacitizen.org/2026-indiana-general-election-school-board-candidate-list/"
+  ],
+  "dlgf_ref_2026": [
+   "Referendum Information (November 2026 elections)",
+   "Indiana Department of Local Government Finance",
+   "2026-10",
+   "https://www.in.gov/dlgf/referendum-information/"
+  ]
+ }
+}
