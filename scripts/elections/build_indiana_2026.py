@@ -144,6 +144,7 @@ SEAT_OVERRIDES = {
     "Marion Perry Township Public School Board, At Large": 3,  # Chalkbeat / WFYI
     "Marion Warren Township School Board, At Large": 3,        # Chalkbeat / WFYI
     "Hamilton Noblesville School Board, At Large": 2,          # Noblesville Schools
+    "Northwest Allen County School Board, District 4": 2,      # Journal Gazette (two at-large seats)
 }
 
 
