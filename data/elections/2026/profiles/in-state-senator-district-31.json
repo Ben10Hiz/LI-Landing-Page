@@ -51,11 +51,11 @@
  "candidates": [
   {
    "ballot_name": "Juanita Albright",
-   "summary": "Albright is a Fishers physician and president of the Hamilton Southeastern (HSE) School Board who won a four-way Republican primary [10, 7].",
+   "summary": "Albright is a Fishers physician and Hamilton Southeastern (HSE) School Board member who won a four-way Republican primary [10, 7].",
    "website": "https://albrightforindiana.com",
    "background": [
     "Has practiced medicine and lived in Fishers for more than 20 years [10].",
-    "Elected to the Hamilton Southeastern School Board and serves as its president; her campaign says the district reached its highest graduation rate during her term and that she has overseen a budget of more than $340 million [8, 10].",
+    "Elected to the Hamilton Southeastern School Board, which her January 2026 filing announcement said she led as president [10]; the district's board page now lists Tiffany Pascoe as president [11]. Her campaign says the district reached its highest graduation rate during her term and that she has overseen a budget of more than $340 million [8, 10].",
     "Appointed by Fishers Mayor Scott Fadness to the Fishers Senior Center Committee [10]."
    ],
    "path_to_ballot": [
@@ -227,6 +227,13 @@
    "publisher": "Hamilton County Reporter",
    "date": "2026-01-08",
    "url": "https://readthereporter.com/?p=163663"
+  },
+  {
+   "id": 11,
+   "title": "Board of School Trustees",
+   "publisher": "Hamilton Southeastern Schools",
+   "date": "2026-10",
+   "url": "https://www.hseschools.org/board/board-of-school-trustees"
   }
  ]
 }

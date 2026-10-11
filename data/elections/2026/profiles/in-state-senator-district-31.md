@@ -38,14 +38,14 @@ Sen. Kyle Walker (R-Lawrence), who has held the seat since 2020 and won reelecti
 
 ## Juanita Albright
 
-Albright is a Fishers physician and president of the Hamilton Southeastern (HSE) School Board who won a four-way Republican primary [10, 7].
+Albright is a Fishers physician and Hamilton Southeastern (HSE) School Board member who won a four-way Republican primary [10, 7].
 
 Campaign website: https://albrightforindiana.com
 
 ### Background
 
 - Has practiced medicine and lived in Fishers for more than 20 years [10].
-- Elected to the Hamilton Southeastern School Board and serves as its president; her campaign says the district reached its highest graduation rate during her term and that she has overseen a budget of more than $340 million [8, 10].
+- Elected to the Hamilton Southeastern School Board, which her January 2026 filing announcement said she led as president [10]; the district's board page now lists Tiffany Pascoe as president [11]. Her campaign says the district reached its highest graduation rate during her term and that she has overseen a budget of more than $340 million [8, 10].
 - Appointed by Fishers Mayor Scott Fadness to the Fishers Senior Center Committee [10].
 
 ### Path to the ballot
@@ -153,3 +153,4 @@ Forestal is the Democratic Marion County sheriff, in his second and final term, 
 8. [Juanita Albright for Indiana Senate](https://albrightforindiana.com) — Albright campaign, accessed 2026-10-10
 9. [Marion County sheriff to run for open state Indiana Senate seat](https://www.wfyi.org/news/articles/marion-county-sheriff-to-run-for-open-state-indiana-senate-seat) — Indiana Capital Chronicle via WFYI, 2025-12-17
 10. [Republican Juanita Albright officially files as candidate for Indiana Senate District 31](https://readthereporter.com/?p=163663) — Hamilton County Reporter, 2026-01-08
+11. [Board of School Trustees](https://www.hseschools.org/board/board-of-school-trustees) — Hamilton Southeastern Schools, 2026-10

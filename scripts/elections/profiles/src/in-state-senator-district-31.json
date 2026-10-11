@@ -25,11 +25,11 @@
  "candidates": [
   {
    "ballot_name": "Juanita Albright",
-   "summary": "Albright is a Fishers physician and president of the Hamilton Southeastern (HSE) School Board who won a four-way Republican primary {reporter_albright} {wiki_2026_in_senate}.",
+   "summary": "Albright is a Fishers physician and Hamilton Southeastern (HSE) School Board member who won a four-way Republican primary {reporter_albright} {wiki_2026_in_senate}.",
    "website": "https://albrightforindiana.com",
    "background": [
     "Has practiced medicine and lived in Fishers for more than 20 years {reporter_albright}.",
-    "Elected to the Hamilton Southeastern School Board and serves as its president; her campaign says the district reached its highest graduation rate during her term and that she has overseen a budget of more than $340 million {albright_site} {reporter_albright}.",
+    "Elected to the Hamilton Southeastern School Board, which her January 2026 filing announcement said she led as president {reporter_albright}; the district's board page now lists Tiffany Pascoe as president {hse_board}. Her campaign says the district reached its highest graduation rate during her term and that she has overseen a budget of more than $340 million {albright_site} {reporter_albright}.",
     "Appointed by Fishers Mayor Scott Fadness to the Fishers Senior Center Committee {reporter_albright}."
    ],
    "path_to_ballot": [
@@ -179,6 +179,12 @@
    "Wikipedia",
    "accessed 2026-10-10",
    "https://en.wikipedia.org/wiki/2026_Indiana_Senate_election"
+  ],
+  "hse_board": [
+   "Board of School Trustees",
+   "Hamilton Southeastern Schools",
+   "2026-10",
+   "https://www.hseschools.org/board/board-of-school-trustees"
   ]
  }
 }

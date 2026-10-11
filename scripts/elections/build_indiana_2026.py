@@ -131,7 +131,19 @@ def district_of(title):
     return ""
 
 
+# The state list gives a seat count only when the office title says "(N seats)".
+# Multi-seat races confirmed from local election coverage (see each school
+# corporation's profile in data/elections/2026/profiles/ for the source).
+SEAT_OVERRIDES = {
+    "Fort Wayne Community School Board, At Large": 2,   # Journal Gazette
+    "Elkhart Goshen School Board, At Large": 2,         # WSBT
+    "Vanderburgh School Board, District 2": 2,          # WNIN
+}
+
+
 def seats_of(title):
+    if title in SEAT_OVERRIDES:
+        return SEAT_OVERRIDES[title]
     m = re.search(r"\((\d+) seats?\)", title, re.I)
     return int(m.group(1)) if m else 1
 
