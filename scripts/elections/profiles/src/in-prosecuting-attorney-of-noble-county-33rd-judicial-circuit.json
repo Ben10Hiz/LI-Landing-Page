@@ -1,0 +1,91 @@
+{
+ "race_id": "in-prosecuting-attorney-of-noble-county-33rd-judicial-circuit",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_prosecutor",
+ "incumbent": {
+  "name": "James B. (Jim) Mowery",
+  "party": "Republican",
+  "summary": "Mowery was elected Noble County Prosecutor in 2018 and took office in 2019 {noble_bio}, and is seeking another term as the Republican nominee {noble_2026_primary}. Staffing has been a recurring issue for the office during his tenure {kpc_down2} {kpc_groves}.",
+  "record": [
+   "2019: Took office after his 2018 election {noble_bio}.",
+   "February 2021: Named Jamie M. Groves chief deputy prosecutor, replacing Adam Mildred, who left for the Allen County Prosecutor's Office; Mowery said, \"Finding a qualified candidate to fill this position in a rural county is always a concern\" {kpc_groves}.",
+   "August 2025: The office was losing two full-time deputies, including Chief Deputy Leslie Haynes and Deputy Prosecutor Megan Packer, who handled most of the office's sex-crime cases, reducing the five-attorney staff to three; county commissioners approved a part-time remote contract for Packer, which Mowery called \"a stop-gap\" {kpc_down2}.",
+   "August 2025: Mowery told commissioners he had applied for the Noble Circuit Court judgeship left vacant by Judge Michael Kramer's death, and said, \"It's virtually impossible for me to hire at this point,\" because a new prosecutor could bring in new staff; he said the office would handle any trials that arose: \"We'll do what has to be done\" {kpc_down2}.",
+   "September 2025: Gov. Mike Braun appointed Christopher Jansen, not Mowery, to the Noble Circuit Court vacancy {kpc_jansen} {goshen_jansen}.",
+   "March 2026: The office advertised for a full-time deputy prosecuting attorney to handle a felony caseload and supervise misdemeanor prosecutions, at $100,000-$120,000 depending on experience {ipac_ad}.",
+   "The office's programs include an infraction deferral program and a victim advocate {noble_prosecutor_site}."
+  ]
+ },
+ "race_context": [
+  "Noble County (Albion) makes up Indiana's 33rd Judicial Circuit. The incumbent, Republican Jim Mowery, faces Democrat Everett Newman {in_list}.",
+  "May 5, 2026 primary: Mowery was unopposed in the Republican primary with 3,733 votes; Newman was unopposed in the Democratic primary with 638 votes {noble_2026_primary}.",
+  "Office staffing has been the most-reported issue: the office dropped from five attorneys to three in August 2025 {kpc_down2} and was advertising a deputy position in 2026 {ipac_ad}.",
+  "No forums, debates or campaign statements from either candidate were found in sources reviewed for this profile."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Everett Newman",
+   "summary": "Newman is the Democratic nominee and was unopposed in the May 2026 primary {noble_2026_primary}. No background or campaign statements could be verified for this profile.",
+   "website": null,
+   "background": [
+    "No background information on this candidate was confirmed on a fetched page; see gaps."
+   ],
+   "path_to_ballot": [
+    "Unopposed in the May 5, 2026 Democratic primary with 638 votes {noble_2026_primary}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements about the incumbent's record were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, campaign website, social media page, occupation or legal experience was found for this candidate.",
+    "No forum appearances, endorsements or campaign finance reports were found.",
+    "No positions on staffing, caseloads, charging priorities or other office issues were found."
+   ]
+  },
+  {
+   "ballot_name": "James B. (Jim) Mowery",
+   "summary": "Mowery has been Noble County Prosecutor since 2019 and previously worked in private practice and as a deputy public defender, county attorney and chief deputy prosecutor {noble_bio}.",
+   "website": null,
+   "background": [
+    "Graduate of Purdue University (B.A. 1994) and Valparaiso University School of Law (1997); began practice in 1997 with the Noble County firm Heckner & Kirsch {noble_bio}.",
+    "Has served as a deputy public defender, county plan commission attorney, county attorney and chief deputy prosecuting attorney {noble_bio}.",
+    "Noble County Prosecutor since 2019 {noble_bio}. His office biography lists past involvement with the Noble County Republican Party Central Committee and the Noble County Sheriff's Merit Board {noble_bio}.",
+    "Applied in 2025 for the Noble Circuit Court judgeship {kpc_down2}; the governor appointed another candidate {kpc_jansen}."
+   ],
+   "path_to_ballot": [
+    "Unopposed in the May 5, 2026 Republican primary with 3,733 votes {noble_2026_primary}."
+   ],
+   "positions": [
+    {"topic": "Staffing & budget", "items": ["Said in 2021 that \"Finding a qualified candidate to fill this position in a rural county is always a concern\" {kpc_groves}; in 2025 described a part-time contract with a departing deputy as \"a stop-gap\" {kpc_down2}."]}
+   ],
+   "on_incumbent": [
+    "Is the current officeholder.",
+    "No statements by Mowery about his challenger were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign website, campaign statements, endorsements or campaign finance reports were found.",
+    "No 2026 coverage of his reelection campaign was found; KPC News coverage shows a subscription notice, and only freely visible text was used.",
+    "Whether the office's 2025 staffing vacancies have since been filled was not confirmed.",
+    "Result of his 2022 reelection was not checked in a fetched source."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "noble_2026_primary": ["2026 Primary Election Summary Report", "Noble County, Indiana", "2026-05-08", "https://www.in.gov/counties/noble/election-info/historical-election-info/2026-primary-election/"],
+  "noble_bio": ["Criminal Division (James Mowery biography)", "Noble County Prosecutor's Office", "2026-10", "https://www.in.gov/prosecutors/noblecounty/criminal-division/"],
+  "noble_prosecutor_site": ["Noble County Prosecutors", "Noble County Prosecutor's Office", "2026-10", "https://www.in.gov/prosecutors/noblecounty/"],
+  "kpc_down2": ["Prosecutor's office down 2", "The News Sun (KPC News)", "2025-08-25", "https://www.kpcnews.com/newssun/article_a48f7a32-4ecc-4da9-b862-41e4b8a9cbcc.html"],
+  "kpc_groves": ["Groves joining Noble County Prosecutor as new chief deputy", "KPC News", "2021-02-15", "https://www.kpcnews.com/newssun/article_699d15c9-21ce-5601-881b-5e20183accd4.html"],
+  "kpc_jansen": ["Braun selects Jansen for Noble bench", "The News Sun (KPC News)", "2025-09-05", "https://www.kpcnews.com/newssun/article_d1049856-8902-455f-854e-9b621e143cf4.html"],
+  "goshen_jansen": ["Gov. Braun fills Noble County judicial vacancy", "Goshen News (via Yahoo News)", "2025-09-05", "https://www.yahoo.com/news/articles/gov-braun-fills-noble-county-151900834.html"],
+  "ipac_ad": ["Deputy Prosecuting Attorney (Noble County job posting)", "Indiana Prosecuting Attorneys Council", "2026-03", "https://secure.in.gov/ipac/files/Supervisory-Deputy-Prosecuting-Attorney-Ad.pdf"]
+ }
+}
