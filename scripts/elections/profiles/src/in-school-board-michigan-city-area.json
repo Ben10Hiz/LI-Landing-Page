@@ -152,37 +152,157 @@
   ],
   "review_flags": [
     {
-      "person": "Nicole Santana (MCAS employee; not a candidate)",
+      "person": "Michigan City Area Schools (district employee, not a candidate)",
       "category": "criminal case",
       "status": "held",
       "summary": "Hometown News Now reported on Oct. 5, 2026 that a Michigan City Area Schools employee faces one Level 6 felony fraud count, filed in July 2025, over alleged personal use of $3,986.11 in district funds. The State Board of Accounts reported in late August 2026 that MCAS lacked proper internal controls over some financial policies. The district's business manager acknowledged the findings and listed eight corrective actions. The employee resigned May 6, 2025, and a hearing was set for Oct. 26 in La Porte Superior Court 4. The case is unresolved {htn_sboa}.",
-      "note": "This concerns a district employee, not a candidate. It may matter for board oversight of finances during the referendum campaign. The charge is unresolved. No candidate statement on the audit findings was found."
+      "note": "This concerns a district employee, not a candidate. It may matter for board oversight of finances during the referendum campaign. The charge is unresolved. No candidate statement on the audit findings was found. Editor: relevant as a district-level overview item (top of the district's ballot section), not a candidate item. Further study: identify who oversees the area involved (board members and administrators responsible for finance/internal controls) and how the board responded to the audit."
     }
   ],
   "sources": {
-    "mcas_board": ["School Board", "Michigan City Area Schools", "2026-10", "https://www.educatemc.net/welcome-to-city/about-us/school-board"],
-    "mcas_leadership": ["Leadership", "Michigan City Area Schools", "2026-10", "https://www.educatemc.net/welcome-to-city/about-us/leadership"],
-    "mcas_ref": ["2026 Operating Referendum", "Michigan City Area Schools", "2026-10", "https://www.educatemc.net/community/2026-operating-referendum"],
-    "mcas_finance": ["School Finance: Where Your Dollars Go", "Michigan City Area Schools", "2026-10", "https://www.educatemc.net/community/2026-operating-referendum/school-finance"],
-    "nwi_parties": ["School board candidates file under political parties in Porter and LaPorte Counties for first time", "The Times (NWI)", "2026-06-22", "https://nwitimes.com/news/local/education/article_4876f19c-ff20-42c8-aefb-73a556aa0e5f.html"],
-    "nwi_ref80": ["Michigan City schools voters to decide $80M operating referendum", "The Times (NWI)", "2026-07-02", "https://nwitimes.com/news/local/education/article_e7b9878b-4d2f-43a4-be0e-e618ae8aabfa.html"],
-    "nwi_refmeet": ["Michigan City schools to host community meetings about $80M operating referendum", "The Times (NWI)", "2026-07-07", "https://nwitimes.com/news/local/education/article_4fa84e3f-a466-4000-9263-ab5145fd06b6.html"],
-    "nwi_config": ["Michigan City school board approves new $182M configuration plan, changing grade levels", "The Times (NWI)", "2026-07-29", "https://nwitimes.com/news/local/education/article_ef37f6a8-b653-4e5d-a698-8b63b0bd42c0.html"],
-    "nwi_stark": ["Michigan City School Board member resigns, potential rebrand of virtual academy", "The Times (NWI)", "2025-07-30", "https://www.nwitimes.com/news/local/education/article_d008e04f-5ef0-4349-9a52-d196604ab4d5.html"],
-    "hd_refboard": ["MCAS board OKs placing referendum before voters", "The Herald-Dispatch", "2026-07-02", "https://www.lpheralddispatch.com/news/local/mcas-board-oks-placing-referendum-before-voters/article_1b5ac7b8-20f5-533b-89a1-ed5fec5a9351.html"],
-    "hd_finvideo": ["MCAS launches school finance video series", "The Herald-Dispatch", "2026-09-30", "https://www.lpheralddispatch.com/news/local/mcas-launches-school-finance-video-series/article_3a74e248-07fc-5259-978a-54877dce3a5c.html"],
-    "hd_facilities": ["MC school board OK's facilities plan", "The Herald-Dispatch", "2026-07-30", "https://www.lpheralddispatch.com/news/local/mc-school-board-ok-s-facilities-plan/article_bf1f8433-d14e-59d2-8297-6b0221d9d784.html"],
-    "hd_bonds": ["MC school board approves key bond resolutions", "The Herald-Dispatch", "2026-06-19", "https://www.lpheralddispatch.com/news/local/mc-school-board-approves-key-bond-resolutions/article_ffa4b9d3-a6a0-5636-a9eb-3c741f9c60cf.html"],
-    "hd_sports": ["MCAS breaks ground on sports complex", "The Herald-Dispatch", "2026-05-19", "https://www.lpheralddispatch.com/news/local/mcas-breaks-ground-on-sports-complex/article_383160b3-05b8-5e00-b705-a7f19fd20c95.html"],
-    "hd_gaston": ["Gaston chosen to fill MC school board vacancy", "The Herald-Dispatch", "2025-10-07", "https://www.lpheralddispatch.com/news/local/gaston-chosen-to-fill-mc-school-board-vacancy/article_db1f8403-855c-5fd9-a349-0e937dd110d3.html"],
-    "hd_welcome": ["MC school board welcomes new members, elects officers", "The Herald-Dispatch", "2025-01-20", "https://www.lpheralddispatch.com/news/local/mc-school-board-welcomes-new-members-elects-officers/article_25d1b045-778d-532b-9ebe-6bff4e8f9091.html"],
-    "hd_contract": ["New contract in works for MC schools teachers", "The Herald-Dispatch", "2025-10-27", "https://www.lpheralddispatch.com/news/local/new-contract-in-works-for-mc-schools-teachers/article_97765aa5-aa4c-57f6-bc1e-93f148d02c61.html"],
-    "hd_fbg": ["Friendship Botanic Gardens seeking to raise $75K by fall", "The Herald-Dispatch", "2025-07-17", "https://www.lpheralddispatch.com/news/local/friendship-botanic-gardens-seeking-to-raise-75k-by-fall/article_6c1cfae9-975d-5563-b87b-4415c88c9278.html"],
-    "hd_windphone": ["Wind phone placed at Friendship Botanic Gardens", "The Herald-Dispatch", "2025-08-25", "https://www.lpheralddispatch.com/news/local/wind-phone-placed-at-friendship-botanic-gardens/article_b6b9f832-ec40-5658-80b2-76f71f44457c.html"],
-    "hd_lwv": ["League of Women Voters to hold candidate forums", "The Herald-Dispatch", "2026-09-16", "https://www.lpheralddispatch.com/news/local/league-of-women-voters-to-hold-candidate-forums/article_0090d6d2-dee0-5fcb-b5c6-dff3be0a5b98.html"],
-    "lpc_2018res": ["2018 General Election Summary Report", "La Porte County", "2018-11", "https://laporteco.in.gov/Elections/ElectionResults/2018General/LaporteElecSumm%20.htm"],
-    "lpc_2022cand": ["2022 General Election Candidates", "La Porte County", "2022-09", "https://laporteco.in.gov/wp-content/uploads/2022/09/2022-09-09-2.pdf"],
-    "lpc_2024res": ["2024 General Election Summary Report", "La Porte County", "2024-11-16", "https://laporteco.in.gov/Elections/ElectionResults/2024General/Laporte_ElecSumm_All.htm"],
-    "htn_sboa": ["School Official Allegedly Misused Funds", "Hometown News Now", "2026-10-05", "https://hometownnewsnow.com/local-news/934759"]
+    "mcas_board": [
+      "School Board",
+      "Michigan City Area Schools",
+      "2026-10",
+      "https://www.educatemc.net/welcome-to-city/about-us/school-board"
+    ],
+    "mcas_leadership": [
+      "Leadership",
+      "Michigan City Area Schools",
+      "2026-10",
+      "https://www.educatemc.net/welcome-to-city/about-us/leadership"
+    ],
+    "mcas_ref": [
+      "2026 Operating Referendum",
+      "Michigan City Area Schools",
+      "2026-10",
+      "https://www.educatemc.net/community/2026-operating-referendum"
+    ],
+    "mcas_finance": [
+      "School Finance: Where Your Dollars Go",
+      "Michigan City Area Schools",
+      "2026-10",
+      "https://www.educatemc.net/community/2026-operating-referendum/school-finance"
+    ],
+    "nwi_parties": [
+      "School board candidates file under political parties in Porter and LaPorte Counties for first time",
+      "The Times (NWI)",
+      "2026-06-22",
+      "https://nwitimes.com/news/local/education/article_4876f19c-ff20-42c8-aefb-73a556aa0e5f.html"
+    ],
+    "nwi_ref80": [
+      "Michigan City schools voters to decide $80M operating referendum",
+      "The Times (NWI)",
+      "2026-07-02",
+      "https://nwitimes.com/news/local/education/article_e7b9878b-4d2f-43a4-be0e-e618ae8aabfa.html"
+    ],
+    "nwi_refmeet": [
+      "Michigan City schools to host community meetings about $80M operating referendum",
+      "The Times (NWI)",
+      "2026-07-07",
+      "https://nwitimes.com/news/local/education/article_4fa84e3f-a466-4000-9263-ab5145fd06b6.html"
+    ],
+    "nwi_config": [
+      "Michigan City school board approves new $182M configuration plan, changing grade levels",
+      "The Times (NWI)",
+      "2026-07-29",
+      "https://nwitimes.com/news/local/education/article_ef37f6a8-b653-4e5d-a698-8b63b0bd42c0.html"
+    ],
+    "nwi_stark": [
+      "Michigan City School Board member resigns, potential rebrand of virtual academy",
+      "The Times (NWI)",
+      "2025-07-30",
+      "https://www.nwitimes.com/news/local/education/article_d008e04f-5ef0-4349-9a52-d196604ab4d5.html"
+    ],
+    "hd_refboard": [
+      "MCAS board OKs placing referendum before voters",
+      "The Herald-Dispatch",
+      "2026-07-02",
+      "https://www.lpheralddispatch.com/news/local/mcas-board-oks-placing-referendum-before-voters/article_1b5ac7b8-20f5-533b-89a1-ed5fec5a9351.html"
+    ],
+    "hd_finvideo": [
+      "MCAS launches school finance video series",
+      "The Herald-Dispatch",
+      "2026-09-30",
+      "https://www.lpheralddispatch.com/news/local/mcas-launches-school-finance-video-series/article_3a74e248-07fc-5259-978a-54877dce3a5c.html"
+    ],
+    "hd_facilities": [
+      "MC school board OK's facilities plan",
+      "The Herald-Dispatch",
+      "2026-07-30",
+      "https://www.lpheralddispatch.com/news/local/mc-school-board-ok-s-facilities-plan/article_bf1f8433-d14e-59d2-8297-6b0221d9d784.html"
+    ],
+    "hd_bonds": [
+      "MC school board approves key bond resolutions",
+      "The Herald-Dispatch",
+      "2026-06-19",
+      "https://www.lpheralddispatch.com/news/local/mc-school-board-approves-key-bond-resolutions/article_ffa4b9d3-a6a0-5636-a9eb-3c741f9c60cf.html"
+    ],
+    "hd_sports": [
+      "MCAS breaks ground on sports complex",
+      "The Herald-Dispatch",
+      "2026-05-19",
+      "https://www.lpheralddispatch.com/news/local/mcas-breaks-ground-on-sports-complex/article_383160b3-05b8-5e00-b705-a7f19fd20c95.html"
+    ],
+    "hd_gaston": [
+      "Gaston chosen to fill MC school board vacancy",
+      "The Herald-Dispatch",
+      "2025-10-07",
+      "https://www.lpheralddispatch.com/news/local/gaston-chosen-to-fill-mc-school-board-vacancy/article_db1f8403-855c-5fd9-a349-0e937dd110d3.html"
+    ],
+    "hd_welcome": [
+      "MC school board welcomes new members, elects officers",
+      "The Herald-Dispatch",
+      "2025-01-20",
+      "https://www.lpheralddispatch.com/news/local/mc-school-board-welcomes-new-members-elects-officers/article_25d1b045-778d-532b-9ebe-6bff4e8f9091.html"
+    ],
+    "hd_contract": [
+      "New contract in works for MC schools teachers",
+      "The Herald-Dispatch",
+      "2025-10-27",
+      "https://www.lpheralddispatch.com/news/local/new-contract-in-works-for-mc-schools-teachers/article_97765aa5-aa4c-57f6-bc1e-93f148d02c61.html"
+    ],
+    "hd_fbg": [
+      "Friendship Botanic Gardens seeking to raise $75K by fall",
+      "The Herald-Dispatch",
+      "2025-07-17",
+      "https://www.lpheralddispatch.com/news/local/friendship-botanic-gardens-seeking-to-raise-75k-by-fall/article_6c1cfae9-975d-5563-b87b-4415c88c9278.html"
+    ],
+    "hd_windphone": [
+      "Wind phone placed at Friendship Botanic Gardens",
+      "The Herald-Dispatch",
+      "2025-08-25",
+      "https://www.lpheralddispatch.com/news/local/wind-phone-placed-at-friendship-botanic-gardens/article_b6b9f832-ec40-5658-80b2-76f71f44457c.html"
+    ],
+    "hd_lwv": [
+      "League of Women Voters to hold candidate forums",
+      "The Herald-Dispatch",
+      "2026-09-16",
+      "https://www.lpheralddispatch.com/news/local/league-of-women-voters-to-hold-candidate-forums/article_0090d6d2-dee0-5fcb-b5c6-dff3be0a5b98.html"
+    ],
+    "lpc_2018res": [
+      "2018 General Election Summary Report",
+      "La Porte County",
+      "2018-11",
+      "https://laporteco.in.gov/Elections/ElectionResults/2018General/LaporteElecSumm%20.htm"
+    ],
+    "lpc_2022cand": [
+      "2022 General Election Candidates",
+      "La Porte County",
+      "2022-09",
+      "https://laporteco.in.gov/wp-content/uploads/2022/09/2022-09-09-2.pdf"
+    ],
+    "lpc_2024res": [
+      "2024 General Election Summary Report",
+      "La Porte County",
+      "2024-11-16",
+      "https://laporteco.in.gov/Elections/ElectionResults/2024General/Laporte_ElecSumm_All.htm"
+    ],
+    "htn_sboa": [
+      "School Official Allegedly Misused Funds",
+      "Hometown News Now",
+      "2026-10-05",
+      "https://hometownnewsnow.com/local-news/934759"
+    ]
   }
 }

@@ -38,7 +38,7 @@ Sensitive items held for a second, careful editorial pass (criminal cases, misco
 
 - **Greater Clark board incl. Brian Jones, John Buckwalter, Tamara Tammy Yenawine Mustain** — personnel action — _held_
   In December 2025 the board voted 6-0 (Chelsea Crump recused) against the administration's recommendation to fire a Riverside Elementary physical education teacher who had been arrested in Kentucky on Sept. 6, 2025 and had not reported the arrest as district policy requires; he remained employed. Mustain said she voted no because the board did not have 'enough credible evidence to terminate his contract.' Buckwalter and Vice President Teresa Bottorff Perkins did not respond to requests for comment.
-  Note: A board decision on an employee's criminal charges and an earlier warning about his conduct; voters may weigh it, but it involves a third party's charges. The article does not list each member's vote, but with six voting and one recused, it implies all three 2026 incumbents voted no.
+  Note: A board decision on an employee's criminal charges and an earlier warning about his conduct; voters may weigh it, but it involves a third party's charges. The article does not list each member's vote, but with six voting and one recused, it implies all three 2026 incumbents voted no. Editor: strong local story. Cover in Legal Insights news once board voting records are in; the three candidates' votes are part of it.
   - [Greater Clark board votes against terminating teacher contract](https://www.newsandtribune.com/news/greater-clark-board-votes-against-terminating-teacher-contract/article_78f5b446-ba07-497c-8e31-ab0845355cb5.html) — News and Tribune, 2025-12-10
 
 ## Indiana School Board Member (`in-school-board-hammond`)
@@ -69,9 +69,9 @@ Sensitive items held for a second, careful editorial pass (criminal cases, misco
 
 ## Indiana School Board Member (`in-school-board-michigan-city-area`)
 
-- **Nicole Santana (MCAS employee; not a candidate)** — criminal case — _held_
+- **Michigan City Area Schools (district employee, not a candidate)** — criminal case — _held_
   Hometown News Now reported on Oct. 5, 2026 that a Michigan City Area Schools employee faces one Level 6 felony fraud count, filed in July 2025, over alleged personal use of $3,986.11 in district funds. The State Board of Accounts reported in late August 2026 that MCAS lacked proper internal controls over some financial policies. The district's business manager acknowledged the findings and listed eight corrective actions. The employee resigned May 6, 2025, and a hearing was set for Oct. 26 in La Porte Superior Court 4. The case is unresolved.
-  Note: This concerns a district employee, not a candidate. It may matter for board oversight of finances during the referendum campaign. The charge is unresolved. No candidate statement on the audit findings was found.
+  Note: This concerns a district employee, not a candidate. It may matter for board oversight of finances during the referendum campaign. The charge is unresolved. No candidate statement on the audit findings was found. Editor: relevant as a district-level overview item (top of the district's ballot section), not a candidate item. Further study: identify who oversees the area involved (board members and administrators responsible for finance/internal controls) and how the board responded to the audit.
   - [School Official Allegedly Misused Funds](https://hometownnewsnow.com/local-news/934759) — Hometown News Now, 2026-10-05
 
 ## Indiana School Board Member (`in-school-board-vanderburgh`)

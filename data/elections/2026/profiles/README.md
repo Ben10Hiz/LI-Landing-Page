@@ -26,7 +26,11 @@ file per race, named after the race id the app uses
   off the public profile, and listed in
   `scripts/elections/profiles/review/REVIEW_FLAGS.md` for a separate, careful
   editorial pass. A flag marked "in profile" stays on the page by editor
-  decision and is still due for that pass.
+  decision and is still due for that pass. Planned: when a flagged item is
+  published, the person it concerns is invited to respond, and their
+  response is shown with it. District-level items (audits, board-wide votes)
+  belong in the district overview rather than under a candidate, with who
+  oversees the area named.
 
 ## Shape
 
