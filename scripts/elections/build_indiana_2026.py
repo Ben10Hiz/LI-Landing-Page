@@ -164,6 +164,7 @@ SEAT_OVERRIDES = {
     "Grant Marion Community School Board, District 1": 3,  # Chronicle-Tribune
     "North Spencer School Board, Clay, Huff, Hammond Townships, Seat 1, 2": 2,  # office title names Seats 1 and 2; both terms end 2026
     "Crawfordsville School Board, At Large": 3,  # Journal Review
+    "Franklin County Community School Board, At Large": 3,  # Franklin County sample ballot
 }
 
 
