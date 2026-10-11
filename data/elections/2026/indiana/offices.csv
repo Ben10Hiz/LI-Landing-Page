@@ -3216,7 +3216,7 @@ municipal,Town Clerk-Treasurer,"Boswell Town Clerk-Treasurer, Benton County",Ben
 municipal,Town Clerk-Treasurer,"Earl Park Town Clerk-Treasurer, Benton County",Benton,,1,1,0,,Republican
 municipal,Town Clerk-Treasurer,"Birdseye Town Clerk-Treasurer, Dubois County",Dubois,,1,2,0,yes,Democratic; Independent
 municipal,Town Council Member,"DeMotte Town Council Member, District 1",,1,1,1,0,,Republican
-municipal,Town Council Member,"Dillsboro Town Council Member, District 1",,1,1,2,0,yes,Republican
+municipal,Town Council Member,"Dillsboro Town Council Member, District 1",,1,1,1,0,,Republican
 municipal,Town Council Member,"Hamilton Town Council Member, District 1 (DeKalb, Steuben)",,1,1,2,0,yes,Democratic; Republican
 municipal,Town Council Member,"Hamlet Town Council Member, District 1",,1,1,1,0,,Democratic
 municipal,Town Council Member,"Hanover Town Council Member, District 1",,1,1,1,0,,Democratic
@@ -3774,7 +3774,7 @@ school,School Board Member,"Hamilton Southeastern School Board, District HSE 2",
 school,School Board Member,"Hamilton Southeastern School Board, District HSE 3",,,1,2,0,yes,Nonpartisan; Republican
 school,School Board Member,"Hamilton Southeastern School Board, District HSE 4",,,1,1,0,,Independent
 school,School Board Member,"Hamilton Westfield Washington School Board, At Large",,At-large,1,2,0,yes,Democratic; Republican
-school,School Board Member,"Hammond School Board, At Large",,At-large,1,4,0,yes,Democratic; Nonpartisan
+school,School Board Member,"Hammond School Board, At Large",,At-large,3,4,0,yes,Democratic; Nonpartisan
 school,School Board Member,"Harrison Lanesville School Board, At Large",,At-large,1,3,0,yes,Republican
 school,School Board Member,"Hendricks Avon School Board, Washington Township",,,1,2,0,yes,Nonpartisan
 school,School Board Member,"Hendricks Brownsburg School Board, At Large",,At-large,1,3,0,yes,American Solidarity; Nonpartisan
@@ -3810,8 +3810,8 @@ school,School Board Member,"Johnson Franklin Community School Board, Union Towns
 school,School Board Member,"Johnson Greenwood Community School Board, At Large",,At-large,1,3,0,yes,Nonpartisan; Republican
 school,School Board Member,"Knox School Board, California",,,1,2,0,yes,Nonpartisan; Republican
 school,School Board Member,"Knox School Board, Center",,,1,3,0,yes,Democratic; Nonpartisan; Republican
-school,School Board Member,"Kokomo School Board, At Large",,At-large,1,3,1,yes,Independent; Nonpartisan
-school,School Board Member,"LaPorte Community School Board, At Large",,At-large,1,5,0,yes,Nonpartisan
+school,School Board Member,"Kokomo School Board, At Large",,At-large,3,3,1,,Independent; Nonpartisan
+school,School Board Member,"LaPorte Community School Board, At Large",,At-large,4,5,0,yes,Nonpartisan
 school,School Board Member,"LaPorte South Central School Board, At Large",,At-large,1,1,0,,Nonpartisan
 school,School Board Member,"LaPorte South Central School Board, Clinton Township",,,1,1,0,,Independent
 school,School Board Member,"LaVille Community School Board, North Township (Marshall, St. Joseph)",,,1,1,0,,Nonpartisan
@@ -3845,7 +3845,7 @@ school,School Board Member,"Metropolitan School Board, Northeast",,,1,1,0,,Repub
 school,School Board Member,"Metropolitan School Board, Northwest",,,1,1,0,,Republican
 school,School Board Member,"Miami Peru School Board, Peru 2-3-5-6-7-9 and Washington 1",,,1,5,0,yes,Nonpartisan; Republican
 school,School Board Member,"Michigan City Area School Board, At Large",,At-large,1,2,0,yes,Independent; Nonpartisan
-school,School Board Member,"Michigan City Area School Board, Civil City (LaPorte, Porter)",,,1,4,0,yes,Democratic; Independent; Nonpartisan
+school,School Board Member,"Michigan City Area School Board, Civil City (LaPorte, Porter)",,,3,3,0,,Democratic; Independent; Nonpartisan
 school,School Board Member,"Milan Community School Board, At Large",,At-large,1,1,0,,Republican
 school,School Board Member,"Milan Community School Board, Franklin Township",,,1,1,0,,Republican
 school,School Board Member,"Milan Community School Board, Washington Township",,,1,1,0,,Republican
@@ -3908,7 +3908,7 @@ school,School Board Member,"Randolph Monroe Central School Board, At Large",,At-
 school,School Board Member,"Randolph Monroe Central School Board, Farmland",,,1,1,0,,Nonpartisan
 school,School Board Member,"Randolph Monroe Central School Board, Parker",,,1,1,0,,Nonpartisan
 school,School Board Member,"Randolph Southern School Board, At Large",,At-large,1,2,0,yes,Republican
-school,School Board Member,"Richmond Community School Board, At Large",,At-large,1,5,0,yes,Independent; Nonpartisan; Republican
+school,School Board Member,"Richmond Community School Board, At Large",,At-large,2,5,0,yes,Independent; Nonpartisan; Republican
 school,School Board Member,"River Forest Community School Board, At Large",,At-large,1,1,0,,Nonpartisan
 school,School Board Member,"Rossville Consolidated School Board, At Large, (Carroll - Clinton)",,At-large,1,1,0,,Republican
 school,School Board Member,Salem Community School Board,,,1,5,0,yes,Nonpartisan; Republican
@@ -3984,7 +3984,7 @@ school,School Board Member,"East Allen County School Board, District 1R",Allen,1
 school,School Board Member,"East Allen County School Board, District 2E",Allen,2,1,2,0,yes,Nonpartisan; Republican
 school,School Board Member,"East Allen County School Board, District 3E",Allen,3,1,1,0,,Republican
 school,School Board Member,"Northwest Allen County School Board, District 3",Allen,3,1,1,0,,Nonpartisan
-school,School Board Member,"Northwest Allen County School Board, District 4",Allen,4,1,2,0,yes,Republican
+school,School Board Member,"Northwest Allen County School Board, District 4",Allen,4,2,2,0,,Republican
 school,School Board Member,"Southwest Allen County School Board, At large",Allen,At-large,1,2,0,yes,Republican
 school,School Board Member,"Brown County School Board, District 1",Brown,1,1,3,0,yes,Nonpartisan; Republican
 school,School Board Member,"Brown County School Board, District 2",Brown,2,1,1,0,,Independent
@@ -4006,14 +4006,14 @@ school,School Board Member,"Decatur County School Board, District C (Decatur, Sh
 school,School Board Member,"Decatur County School Board, District D (Decatur, Shelby)",Decatur,,1,1,0,,Nonpartisan
 school,School Board Member,"Southwest Dubois County School Board, District 1",Dubois,1,1,1,0,,Nonpartisan
 school,School Board Member,"Southwest Dubois County School Board, District 2",Dubois,2,1,1,0,,Nonpartisan
-school,School Board Member,"Southwest Dubois County School Board, District 3",Dubois,3,1,2,0,yes,Nonpartisan
+school,School Board Member,"Southwest Dubois County School Board, District 3",Dubois,3,1,1,0,,Nonpartisan
 school,School Board Member,"Southeast Dubois County School Board, District B",Dubois,,1,1,0,,Independent
 school,School Board Member,"Southeast Dubois County School Board, District D",Dubois,,1,1,0,,Nonpartisan
 school,School Board Member,"Fayette County School Board, District 3",Fayette,3,1,3,0,yes,Nonpartisan
 school,School Board Member,"Fayette County School Board, District 4",Fayette,4,1,1,0,,Nonpartisan
 school,School Board Member,"Floyd County School Board, District 1",Floyd,1,1,1,0,,Nonpartisan
 school,School Board Member,"Floyd County School Board, District 2",Floyd,2,1,2,0,yes,Independent; Nonpartisan
-school,School Board Member,"Floyd County School Board, At Large",Floyd,At-large,1,4,0,yes,Nonpartisan; Republican
+school,School Board Member,"Floyd County School Board, At Large",Floyd,At-large,2,4,0,yes,Nonpartisan; Republican
 school,School Board Member,"Franklin County Community School Board, At Large",Franklin,At-large,1,5,0,yes,Republican
 school,School Board Member,"North Montgomery School Board, Franklin",Franklin,,1,2,0,yes,American Solidarity; Republican
 school,School Board Member,"Randolph Central School Board, Franklin",Franklin,,1,1,0,,Republican

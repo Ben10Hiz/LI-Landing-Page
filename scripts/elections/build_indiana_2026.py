@@ -148,6 +148,9 @@ SEAT_OVERRIDES = {
     "Kokomo School Board, At Large": 3,                        # Howard County candidate list
     "Richmond Community School Board, At Large": 2,            # Western Wayne News
     "Hammond School Board, At Large": 3,                       # Lake County sample ballot
+    "Michigan City Area School Board, Civil City (LaPorte, Porter)": 3,  # LaPorte County records
+    "LaPorte Community School Board, At Large": 4,             # LaPorte County records
+    "Floyd County School Board, At Large": 2,                  # News and Tribune
 }
 
 
@@ -269,6 +272,7 @@ def main():
     house_inc = load_house_incumbents()
     leg_inc = load_legislature_incumbents(args.wiki_dir)
     candidates = []
+    seen = set()
     for category, name, party_raw, office, filed_date in read_rows(source):
         party, write_in = normalize_party(party_raw)
         level = LEVELS.get(category, "other")
@@ -279,6 +283,9 @@ def main():
         elif category in ("STATE SENATOR", "STATE REPRESENTATIVE"):
             seat_holder = leg_inc.get((category.title(), district), "")
         incumbent = "yes" if seat_holder and same_person(name, seat_holder) else ""
+        if (office, name, party) in seen:  # the state list repeats a few rows
+            continue
+        seen.add((office, name, party))
         candidates.append(OrderedDict(
             level=level,
             office_category=category_label(category),

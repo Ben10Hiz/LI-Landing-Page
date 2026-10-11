@@ -55,11 +55,11 @@ A school board is the elected or appointed governing body of a public school cor
 - Middle school consolidation (July 2026): the board held its second preliminary determination hearing on a plan to combine Lakeview and Edgewood middle schools at Lakeview and repurpose Edgewood for Gateway and Warsaw Area Career Center programs; the estimated cost is $108 million ($119 million with escalation) under a proposed maximum bond authorization of $143 million, which the CFO said would be paid through the existing debt service fund without a higher debt service levy, and Hoffert said the district chose not to pursue a referendum [25].
 - Strategic plan: the district launched a new five-year strategic plan in August 2026 built around four priorities: Life-Ready Learners, Engaged Families & Community, Aligned Operations & Administration, and Dedicated Teachers & Staff [31].
 - No 2026 candidate forum was found. InkFreeNews published questionnaire answers from both District 1 candidates in October 2026 [28].
-- Key differences in District 1: Westerhof emphasized continuing the district's conservative fiscal planning and using assessment data to raise scores; Helton emphasized communication and transparency with parents, staff and taxpayers, educator support and life-readiness skills [28].
+- Key differences in District 1: Westerhof emphasized continuing the district's current fiscal planning and using assessment data to raise scores; Helton emphasized communication and transparency with parents, staff and taxpayers, educator support and life-readiness skills [28].
 
 ## Heather Michelle Helton — District 1
 
-Educator and first-time candidate running as a Libertarian against incumbent Tom Westerhof [28, 6].
+Self-described educator and first-time candidate running as a Libertarian against incumbent Tom Westerhof [28, 6].
 
 ### Background
 
