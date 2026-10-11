@@ -1,0 +1,304 @@
+{
+ "race_id": "in-school-board-marion-lawrence",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The Metropolitan School District of Lawrence Township serves the northeast side of Marion County and enrolled roughly 16,700 students last year {cb_guide}. In 2023-24 about 45% of students were Black, 31% Hispanic and 73% from low-income backgrounds {cb_2024}. The superintendent is Shawn Smith {lt_board}.",
+  "The board has five members {cb_guide}: three elected from geographic districts (Districts 1, 2 and 3) and two at large, on staggered cycles {cb_2024} {wfyi_2022}. District races are voted on districtwide by all township voters {cb_2024}. The district's board page currently lists four members: Amy Norman (president), Crystal Puckett (vice president), Jessica Dunn and Marta Lawrence {lt_board}.",
+  "Two seats are on the Nov. 3, 2026 ballot, each electing one member, matching the state list's \"vote for 1\": the District 2 seat, covering the northeast corner of the district, and one at-large seat {cb_guide} {in_list}. Winners serve through 2030 {cb_guide}.",
+  "At large: incumbent Jessica Dunn, who ran for the at-large seat in 2022 and has served since 2023, is seeking reelection against Maria Bertram Cartagena {cb_guide} {wfyi_2022}. District 2: Marta Lawrence ran for this seat in 2022 and is listed as a current board member {wfyi_2022} {lt_board}; she is not on the 2026 ballot, so the seat will have a new member {in_list}.",
+  "All four candidates are running as nonpartisan {cb_guide}.",
+  "Budget and taxes: the board will guide the district through possible fiscal effects of the state's recent property tax reforms, and the district has never asked voters for an operating referendum {cb_guide}.",
+  "Facilities: the district is carrying out a large building improvement plan {cb_guide}; in 2024 Chalkbeat described it as a $400 million Blue Ribbon Facilities plan nearing completion, including a new administration building at Fort Benjamin Harrison {cb_2024}. The district installed metal detectors in its middle and high schools in 2024 {cb_2024}.",
+  "Administrator pay: Chalkbeat reports that district pay for administrators has been among the highest of Marion County's 11 districts and has divided the board {cb_guide}. In November 2024 the board unanimously approved a 4.5% teacher raise but approved 3.5% administrator raises 3-2, with Dunn and Lawrence voting no; Lawrence cited state salary data showing the district's top earners make more than peers in nearby districts, while then-president Wendy Muston credited administrators for the district's budget management {cb_contract}.",
+  "No candidate forum for this race was found in reviewed coverage. In the Chalkbeat survey, at-large candidates differed on administrator pay (Dunn said her view evolved to \"you get what you pay for\"; Cartagena said the district should show it can fund raises or explain why not), and on priorities (Dunn: avoiding an operating referendum; Cartagena: lobbying legislators on SB 1 and SB 518) {cb_guide}. District 2 candidates Brown and Willey both support competitive administrator pay; Brown emphasizes attendance and tying pay to performance, Willey resources under SEA 1 and teacher retention {cb_guide}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Jessica Dunn",
+   "seat": "At Large",
+   "summary": "Incumbent at-large board member since 2023 and an Indianapolis Public Schools administrator {cb_guide}.",
+   "website": "https://www.jessicadunn4msdlt.com/",
+   "background": [
+    "Director of English as a new language for Indianapolis Public Schools {cb_guide}; her campaign site says she has spent 33 years in education {dunn_meet}.",
+    "Holds a bachelor's degree from Indiana University and a master's degree from Butler University {cb_guide}.",
+    "Parent of children attending district schools {cb_guide}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state candidate list as nonpartisan {in_list}.",
+    "Ran for the at-large seat in 2022 and has served on the board since 2023 {wfyi_2022} {cb_guide}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Calls long-term financial stability amid reduced state funding the most pressing issue and says she would \"maximize every state dollar before ever considering turning to our local taxpayers\" {cb_guide}.",
+      "Says the district has balanced its budget without an operating referendum {cb_guide}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Wants a focus on early literacy and 9th-grade pathway completion, with early, data-driven interventions and broader career pathways {cb_guide}.",
+      "Supports setting transparent, measurable goals with the superintendent {cb_guide}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Prioritizes recruiting and retaining teachers {cb_guide}.",
+      "On administrator pay, says she first questioned it but now believes \"you get what you pay for,\" while calling for \"radical transparency\" with taxpayers {cb_guide}."
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "Supports safe facilities, measuring the impact of mental health services and using annual staff and parent surveys on school climate {cb_guide} {dunn_priorities}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member.",
+    "Credits the district with \"a phenomenal job of balancing the operational budget\" without an operating referendum {cb_guide}.",
+    "Voted against the 3.5% administrator raises in November 2024; Chalkbeat reported she said her vote stemmed from concerns about district finances {cb_contract}."
+   ],
+   "plans": [
+    "Maintain before- and after-school programming and expand community partnerships {cb_guide}.",
+    "Monitor new student mental health providers for effectiveness {dunn_priorities}."
+   ],
+   "endorsements_finance": [
+    "In 2024 she and Marta Lawrence endorsed Eric Young against incumbent Crystal Puckett {cb_contract}.",
+    "No 2026 endorsements or campaign finance reports found in reviewed sources {cb_guide}."
+   ],
+   "gaps": [
+    "Her 2025 district board biography lists her IPS job as executive director of enrichment programs; 2026 sources list director of English as a new language.",
+    "No campaign finance filings reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Maria Bertram Cartagena",
+   "seat": "At Large",
+   "summary": "Challenger; an engineer turned business owner who serves on the Lawrence Township School Foundation board {cb_guide}.",
+   "website": "https://www.mariabertramcartagena.com/",
+   "background": [
+    "Holds an MBA, has worked as an engineer and owns a local advising and capital investing business {cb_guide}.",
+    "Her campaign site says she managed clinical development programs as an engineer at Eli Lilly and worked as a consultant for Goodwill of Central & Southern Indiana {cartagena_site}.",
+    "Board member of the Lawrence Township School Foundation {cb_guide}.",
+    "Parent of children attending district schools {cb_guide}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state candidate list as nonpartisan {in_list}.",
+    "First run for the board found in reviewed sources {cb_guide}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Names the revenue effects of SB 1 and SB 518 property tax relief as the most pressing issue and says she would work with legislators \"on both sides of the aisle\" on district concerns {cb_guide}.",
+      "Says she \"will insist on fiscally prudent budgets\" that direct resources to classroom learning and student services {cb_guide} {cartagena_site}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Wants additional focus on English learners, noting 32% of students are Hispanic, while saying the district already does \"a great job\" with tutoring and support {cb_guide}.",
+      "Supports diverse academic pathways {cb_guide}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "On administrator pay, says she would work with the board to show the community the district can fund administrators' raises, and that if it cannot, \"we need to provide reasons for not passing raises\" {cb_guide}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Proposes parent advocacy groups, including a Spanish-language forum, and visits to neighborhoods where many Hispanic families live {cb_guide}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "No direct statements about the current board's decisions found; she said she would \"work side by side with the other board members\" {cb_guide}."
+   ],
+   "plans": [
+    "Create one or more parent advocacy groups and bring community feedback to the superintendent and board {cb_guide}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports found in reviewed sources {cb_guide}."
+   ],
+   "gaps": [
+    "No campaign finance filings reviewed.",
+    "No coverage beyond the Chalkbeat survey and her campaign site was found."
+   ]
+  },
+  {
+   "ballot_name": "Craig J Willey",
+   "seat": "District 2",
+   "summary": "Open-seat candidate; an associate dean and professor at the IU Indianapolis School of Education {cb_guide}.",
+   "website": null,
+   "background": [
+    "Associate dean and professor at the Indiana University Indianapolis School of Education {cb_guide}.",
+    "Holds bachelor's degrees in Spanish and actuarial science from Butler University and a doctorate in curriculum studies from the University of Illinois at Chicago {cb_guide}.",
+    "Parent of children attending district schools {cb_guide}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state candidate list as nonpartisan {in_list}.",
+    "Running for the open District 2 seat {cb_guide}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Says the most pressing issue is adequate resources for programs and educators, and he would monitor SEA 1's effect on the budget and \"explore solutions to any shortcomings\" {cb_guide}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Expects the district to keep leading on reading and foundational math, STEM and career and technical education {cb_guide}."
+     ]
+    },
+    {
+     "topic": "Special education",
+     "items": [
+      "Supports continued focused services for multilingual learners and exceptional learners {cb_guide}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Lists attracting and retaining educators and leaders as a priority {cb_guide}.",
+      "Says the district can \"pay administrators competitively and provide teachers what they need and deserve\" {cb_guide}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "No direct statements about the current board's decisions found; he said Lawrence should \"continue\" its work on welcoming schools and educator retention {cb_guide}."
+   ],
+   "plans": [
+    "Advocate for Lawrence schools on state education policy {cb_guide}.",
+    "Invite community input on issues facing the district {cb_guide}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports found in reviewed sources {cb_guide}."
+   ],
+   "gaps": [
+    "No campaign website found.",
+    "No campaign finance filings reviewed.",
+    "No coverage beyond the Chalkbeat survey was found."
+   ]
+  },
+  {
+   "ballot_name": "Larry Brown",
+   "seat": "District 2",
+   "summary": "Open-seat candidate; an implementation coordinator at Elevance Health and parent of district students {cb_guide}.",
+   "website": null,
+   "background": [
+    "Implementation coordinator at Elevance Health {cb_guide}.",
+    "Holds an MBA from Indiana Wesleyan University {cb_guide}.",
+    "Parent of children in the district {cb_guide}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state candidate list as nonpartisan {in_list}.",
+    "Running for the open District 2 seat {cb_guide}."
+   ],
+   "positions": [
+    {
+     "topic": "Academics",
+     "items": [
+      "Calls student attendance the district's biggest challenge and supports using attendance data to intervene early {cb_guide}.",
+      "Wants to prioritize literacy and closing achievement gaps through early literacy programs and targeted interventions {cb_guide}."
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "Lists school safety among his top three priorities {cb_guide}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Says Lawrence administrator salaries are \"generally comparable\" to similar districts and that compensation should be tied to performance and district goals {cb_guide}.",
+      "Supports teacher training and tools {cb_guide}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Supports clearly communicating how compensation decisions are made and how administrators are evaluated {cb_guide}.",
+      "Plans to attend school events, PTO and neighborhood association meetings to hear from residents {cb_guide}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "No direct statements about the current board's decisions found in reviewed sources {cb_guide}."
+   ],
+   "plans": [
+    "Partner with community organizations to help families overcome attendance barriers such as transportation and health {cb_guide}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports found in reviewed sources {cb_guide}."
+   ],
+   "gaps": [
+    "No age, campaign website or social media page found.",
+    "No campaign finance filings reviewed.",
+    "Common name; no other coverage could be tied to this candidate."
+   ]
+  }
+ ],
+ "sources": {
+  "cb_guide": [
+   "Metropolitan School District of Lawrence Township: School board election voter guide",
+   "Chalkbeat Indiana / Mirror Indy / WFYI",
+   "2026-09-11",
+   "https://www.chalkbeat.org/indiana/2026/09/11/msd-lawrence-township-indianapolis-board-election-voter-guide-2026/"
+  ],
+  "cb_2024": [
+   "Challenger looks to unseat incumbent in Lawrence Township school board election",
+   "Chalkbeat Indiana / Mirror Indy / WFYI",
+   "2024-10-01",
+   "https://www.chalkbeat.org/indiana/2024/10/01/lawrence-township-school-board-voter-guide-for-2024-election/"
+  ],
+  "cb_contract": [
+   "Lawrence Township board passes 4.5% raise for teachers, 3.5% raise for administrators",
+   "Chalkbeat Indiana",
+   "2024-11-14",
+   "https://www.chalkbeat.org/indiana/2024/11/14/lawrence-township-teacher-contract-approved/"
+  ],
+  "wfyi_2022": [
+   "Eight candidates compete for two spots on Lawrence Township school board",
+   "WFYI / Chalkbeat Indiana",
+   "2022-10-04",
+   "https://www.wfyi.org/news/articles/lawrence-township-school-board-eight-candidates-2022-election"
+  ],
+  "lt_board": [
+   "Board",
+   "MSD of Lawrence Township",
+   "2026-10",
+   "https://www.ltschools.org/board"
+  ],
+  "dunn_meet": [
+   "Meet Jessica",
+   "Friends of Jessica Dunn for MSDLT School Board at Large",
+   "2026-10",
+   "https://www.jessicadunn4msdlt.com/meet-jessica"
+  ],
+  "dunn_priorities": [
+   "Priorities",
+   "Friends of Jessica Dunn for MSDLT School Board at Large",
+   "2026-10",
+   "https://www.jessicadunn4msdlt.com/priorities"
+  ],
+  "cartagena_site": [
+   "Maria Bertram Cartagena (campaign site)",
+   "Maria Bertram Cartagena campaign",
+   "2026-10",
+   "https://www.mariabertramcartagena.com/"
+  ]
+ }
+}
