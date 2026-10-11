@@ -1,0 +1,120 @@
+{
+ "race_id": "in-school-board-edinburgh-comm",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The district: Edinburgh Community School Corporation covers all of Blue River Township, including the Town of Edinburgh, plus a portion of German Township in Bartholomew County annexed to the town {ec_plan}. It runs East Side Elementary (K-5) and a combined Edinburgh high school/middle school {ec_home}{ec_supt}. District figures show enrollment of 720 in 2025-26, down from 763 in 2024-25 and 918 in 2014-15 {ec_fin}. James M. Halik, Ph.D., leads the district {ec_board}{ec_supt}; board minutes describe his post as interim superintendent, with the board approving a 2025-26 interim agreement in November 2024 and approving him again as interim superintendent in August 2026 'per his contract' {min_241107}{min_260817}.",
+  "Board and elections: the governing-body plan approved by the State Board of Education in December 2019 sets five members, all elected at large districtwide, with four-year staggered terms; three seats are filled at one general election and two seats at the next. The five candidates with the most votes win {ec_plan}. Current members are Daniel Teter (president), Ryan Blaker (vice president), David Bauman (secretary), Cathy Hamm and W. Carol Swanson {min_260112}{ec_board}. The board meets on the third Monday of each month at 6 p.m. {ec_board}.",
+  "Seats on the 2026 ballot: Teter, Bauman and Blaker were sworn in together in January 2023, so their three terms are up in 2026 {min_230109}. Hamm and Swanson took the oath in January 2025 and are not up until 2028 {min_250113}. All three incumbents are on the 2026 list and no other candidates are listed, so the race looks uncontested. Voters can choose up to three, not one as the state list shows {in_list}{ec_plan}.",
+  "Party labels: the state list shows Teter and Blaker as Republicans and Bauman as Nonpartisan {in_list}. The 2019 governing-body plan calls for elections on a non-partisan basis {ec_plan}.",
+  "Budget and SEA 1 (2026): in June 2026 the board approved a transfer from the Debt Service Fund to the Operations Fund. The business manager said that for this year only, the Department of Local Government Finance is allowing schools to use debt-service money to offset losses from Senate Bill 1, including its added homestead credits {min_260615}.",
+  "Finances: the superintendent's March 2026 financial report showed 2025 education-fund revenue of about $7.12 million against about $7.50 million in expenses, a shortfall of about $377,000. Education-fund cash balances fell from about $2.58 million in 2024 to an estimated $1.88 million in 2026. The report listed $178,000 in reduced spending for 2026, partly through fewer elementary class sections {ec_fin}{min_260323}.",
+  "Operating referendum: the district's referendum page describes an eight-year operating levy at a $0.39 rate for school safety, recruiting and keeping teachers and staff, and student transportation {ec_ref}. The March 2026 financial report puts annual referendum spending at about $742,719 and says the 'Referendum Renewal is in 2030' {ec_fin}.",
+  "Facilities: in August 2025 the board preliminarily determined to issue up to $7 million in bonds for renovations and improvements across the district, including site work, buses, equipment and technology {ec_bond25}{ec_bond25_page}. In June 2026 the board approved a $1,290,301 contract amendment, paid from the 2025 bond, for HVAC work at East Side Elementary, and a $297,670 bid to rebuild the tennis courts {min_260615}.",
+  "Enrollment: in January 2026 the board voted 5-0 to accept all out-of-district transfer students in every grade for 2025-26 and 2026-27. It also approved a 'Little Lancer' pre-K partnership with a local child-care provider, which administrators said would build ties with families and raise enrollment {min_260112}.",
+  "Teachers (2026): at a Sept. 9, 2026 public bargaining meeting, the Edinburgh Education Association president and an ISTA representative asked the board to raise starting pay and allow more movement on the teacher salary schedule {min_260909}. In November 2024 the board ratified a contract that raised every step of the salary schedule by $2,000 {min_241107}.",
+  "Other: Halik told the board in January 2026 that he had spoken at the Statehouse about challenges facing small districts, including the reduction-in-force policy and teacher appreciation grants the district's teachers did not qualify for {min_260112}. His 2026-27 message lists school-day storage of phones under the state's new 'Bell to Bell' law, less screen time and no planned eLearning days {ec_supt}. The district says the Indiana School Boards Association gave the board its 'Exemplary' status {ec_board}.",
+  "Forums: this guide found no 2026 candidate forum, questionnaire or news coverage of this race."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Daniel Lee Teter",
+   "seat": "At Large",
+   "summary": "Incumbent; he is board president and is listed on the state list as a Republican {ec_board}{in_list}.",
+   "website": null,
+   "background": [
+    "Board president, re-elected to that post in January 2026; he has been president since at least January 2023 {min_260112}{min_230109}."
+   ],
+   "path_to_ballot": [
+    "Took the oath in January 2023 for the term that ends this year {min_230109}.",
+    "Listed on the state list as a Republican {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {ec_board}.",
+    "According to November 2024 minutes, Teter thanked Halik for staying another year as interim superintendent and said the board appreciated that Halik 'cares about Edinburgh' {min_241107}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign website, questionnaire, forum answers or news coverage of his 2026 campaign found.",
+    "Occupation and other background not found in sources this guide could read.",
+    "No campaign finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "David M. Bauman",
+   "seat": "At Large",
+   "summary": "Incumbent; he is board secretary and is listed on the state list as Nonpartisan {ec_board}{in_list}.",
+   "website": null,
+   "background": [
+    "Board secretary since at least January 2023, re-elected to the post in January 2026 {min_230109}{min_260112}. The district's board page lists him as 'Dave Bauman' {ec_board}.",
+    "As secretary, he signed the August 2025 notice of the board's plan to issue up to $7 million in bonds {ec_bond25}."
+   ],
+   "path_to_ballot": [
+    "Took the oath in January 2023 for the term that ends this year {min_230109}.",
+    "Listed on the state list as Nonpartisan {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {ec_board}.",
+    "Minutes show he moved to approve the November 2024 teacher contract and the January 2026 pre-K partnership; both passed 5-0 {min_241107}{min_260112}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign website, questionnaire, forum answers or news coverage of his 2026 campaign found.",
+    "Occupation and other background not found in sources this guide could read.",
+    "No campaign finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Ryan Blaker",
+   "seat": "At Large",
+   "summary": "Incumbent; he is board vice president and is listed on the state list as a Republican {min_260112}{in_list}.",
+   "website": null,
+   "background": [
+    "Elected board vice president and appointed the board's representative to the Athletic Council in January 2026 {min_260112}."
+   ],
+   "path_to_ballot": [
+    "Took the oath in January 2023 for the term that ends this year {min_230109}.",
+    "Listed on the state list as a Republican {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {ec_board}.",
+    "Minutes show he voted with the rest of the board in 5-0 votes on the 2024 teacher contract and the June 2026 SEA 1 fund transfer {min_241107}{min_260615}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign website, questionnaire, forum answers or news coverage of his 2026 campaign found.",
+    "Occupation and other background not found in sources this guide could read.",
+    "No campaign finance reports found.",
+    "Unverified (search snippet only): a 2022 Daily Journal filing story said the three seats then up were held by Teter, Bauman and Alice Taulman, so Blaker may have been newly elected in 2022. Not confirmed; the Daily Journal returned 403."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "ec_plan": ["Approval of Governing Body Change—Edinburgh Community School Corporation (staff memo with resolution)", "Indiana State Board of Education", "2019-12-04", "https://secure.in.gov/sboe/files/Board-Reorg-Approval-Memo-with-attachments-Edinburgh-11-6-2019-Cop....pdf"],
+  "ec_board": ["School Board", "Edinburgh Community School Corporation", "2026", "https://www.ecsc.k12.in.us/apps/pages/index.jsp?uREC_ID=3712901&type=d&pREC_ID=2426616"],
+  "ec_home": ["Edinburgh Community School Corporation (home page)", "Edinburgh Community School Corporation", "2026", "https://www.ecsc.k12.in.us/"],
+  "ec_supt": ["Superintendent's Message", "Edinburgh Community School Corporation", "2026-08", "https://www.ecsc.k12.in.us/apps/pages/index.jsp?uREC_ID=3710490&type=d&pREC_ID=2480637"],
+  "ec_ref": ["Referendum", "Edinburgh Community School Corporation", "2026", "https://www.ecsc.k12.in.us/apps/pages/index.jsp?uREC_ID=3710490&type=d&pREC_ID=2623671"],
+  "ec_fin": ["Financial Report, March 23, 2026", "Edinburgh Community School Corporation", "2026-03-23", "https://4.files.edl.io/e6a8/03/24/26/153059-03d06ff1-07b5-4d58-895b-1399a34799d1.pdf"],
+  "ec_bond25": ["Notice of Determination (bonds not to exceed $7,000,000)", "Edinburgh Community School Corporation", "2025-08-19", "https://4.files.edl.io/0db1/08/20/25/155355-602d7944-c03b-41ae-8aa6-e1592262b51d.pdf"],
+  "ec_bond25_page": ["2025 Bond", "Edinburgh Community School Corporation", "2025", "https://www.ecsc.k12.in.us/apps/pages/index.jsp?uREC_ID=3710490&type=d&pREC_ID=2683712"],
+  "min_230109": ["Board of School Trustees minutes, Jan. 9, 2023", "Edinburgh Community School Corporation", "2023-01-09", "https://drive.google.com/file/d/1PPg5_zu6Q7mf3xlR30patZx4vnBatFMy/view"],
+  "min_241107": ["Board of School Trustees minutes, Nov. 7, 2024 (special session)", "Edinburgh Community School Corporation", "2024-11-07", "https://drive.google.com/file/d/1hhdYiEWuIdkKTD3VqcMaBISkasKoh2f4/view"],
+  "min_250113": ["Board of School Trustees minutes, Jan. 13, 2025", "Edinburgh Community School Corporation", "2025-01-13", "https://drive.google.com/file/d/1ACIaiZuIcNVJ4algVM0QQqtRUqVwlxh2/view"],
+  "min_260112": ["Board of School Trustees minutes, Jan. 12, 2026", "Edinburgh Community School Corporation", "2026-01-12", "https://drive.google.com/file/d/1c0AYmFt4nSAD1cBmgBUR_ECxmWgZAwow/view"],
+  "min_260323": ["Board of School Trustees minutes, March 23, 2026", "Edinburgh Community School Corporation", "2026-03-23", "https://drive.google.com/file/d/1VTtPCDbJW2VzeyCiD0l2kkq5y8X6pl7o/view"],
+  "min_260615": ["Board of School Trustees minutes, June 15, 2026", "Edinburgh Community School Corporation", "2026-06-15", "https://drive.google.com/file/d/1B6CWwZ5le9iI-jytp-GvMyNV4JVAodSB/view"],
+  "min_260817": ["Board of School Trustees minutes, Aug. 17, 2026", "Edinburgh Community School Corporation", "2026-08-17", "https://drive.google.com/file/d/15_kYj3PnMqQDKXG0vv25HmogfXGSsZTg/view"],
+  "min_260909": ["Public meeting minutes (teacher bargaining), Sept. 9, 2026", "Edinburgh Community School Corporation", "2026-09-09", "https://drive.google.com/file/d/1xgkNiaZcOl8mNGsJ7EHKUXZoUq9ObE-O/view"]
+ }
+}

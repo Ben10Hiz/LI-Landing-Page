@@ -1,0 +1,172 @@
+# Indiana School Board Member — 2026 race profile
+
+_Researched 2026-10-10 · status: draft._ Pending editorial review.
+
+## About the office
+
+A school board is the elected or appointed governing body of a public school corporation, the legal unit that runs a local school district [1, 2]. The board hires and evaluates the superintendent, adopts policies, and approves the annual budget, while the superintendent and staff run schools day to day [3]. Most boards have five or seven members serving staggered four-year terms [3]. Starting in 2026, candidates may list a political party, run as independents, or list no affiliation on the ballot, and there is no primary for these seats [2, 4].
+
+- **Term:** 4 years, with elections staggered so part of the board is chosen every two years [3]
+- **Elected:** At the November general election (November 3, 2026, or November 2028 for some seats); depending on the local organization plan, members represent the whole school corporation (at large) or a district within it, and some boards are wholly or partly appointed [2]
+- **Ballot label:** Each candidate chooses a party label, 'Independent', or no affiliation, shown next to the name; no primary and no straight-ticket voting for these races [2, 4]
+- **Pay:** Set by board resolution: an annual amount of no more than 10% of the lowest starting teacher salary in the school corporation, plus a capped per diem [5]
+- **On the 2026 ballot:** 632 races in 299 school corporations; 1,039 candidates [6]
+
+### What the office does
+
+- Hires, evaluates and can dismiss the superintendent, and approves the hiring and firing of principals, teachers and other staff recommended by the superintendent [1, 7, 3].
+- Adopts the annual budget, appropriates funds and oversees school finances [1, 3].
+- Decides whether to ask voters to approve an operating referendum (an extra property tax levy); the board adopts the resolution and the Department of Local Government Finance reviews the ballot language for compliance with state law [8].
+- Approves contracts, buys and sells property, and decides on construction, repair and demolition of school buildings [1].
+- Bargains with the teachers' union over salary, wages and wage-related benefits such as health insurance and retirement; state law excludes teacher evaluation procedures from those bargaining subjects [9].
+- Writes and updates policies and rules for schools, often in a policy handbook, including the student handbook [1, 3].
+- Buys curricular materials, provides them to students without charge, and runs programs such as student transportation and school lunch [1].
+- Must adopt a process for parents and residents to ask that library material be removed as obscene or harmful to minors, review requests at public meetings and keep a public catalog of library materials [10].
+- Hears written appeals of student expulsions, unless the board has voted not to hear them [11].
+- Must take official action openly; Indiana's Open Door Law says public agencies' official action is to be conducted openly so the people may be fully informed [12, 13].
+- A school board member must have lived in the school corporation (and, for a district seat, the district) for at least one year before the election, and a teacher or other employee of the school corporation may not serve on its board [2].
+- What the board does not control: the State Board of Education adopts statewide academic standards [14], the General Assembly sets the state school funding formula in the state budget [15], and voucher (Choice Scholarship) eligibility is set by state law [16].
+
+### Recent changes to the office
+
+- 2025: Senate Enrolled Act 287 allowed school board candidates to declare a party affiliation; the Indiana School Boards Association opposed the change, and a supporter quoted by WNDU, a Noblesville school board member, said it adds transparency [17].
+- 2026: Candidates choose a party, 'Independent' or no affiliation on their nominating petition, and that choice appears on the ballot; a candidate claiming the Democratic or Republican party must have voted in that party's primary in the two most recent primaries they voted in, or have certification from the county party chair, or can be challenged and removed from the ballot [2].
+- July 2026: Chalkbeat reported, citing Indiana School Boards Association data, that 524 of 1,044 candidates chose a party, about 72% of them Republicans [18]; the Indiana Election Division's 2026 guidance and the wording of the law differ on the primary-voting test, a question county election boards decide [19].
+- February 2026: Senate Enrolled Act 25 set the order of school board candidates on the ballot, grouped by party, with candidates who list no affiliation placed after the party and independent candidates [20].
+- 2025: Senate Enrolled Act 1, a property tax law, limits how much operating revenue districts can raise through taxes and restricts school referendums to statewide general elections in even-numbered years [21, 22].
+- 2025: The same law requires districts to share operating revenue with brick-and-mortar charter schools that enroll their students, statewide starting in 2028 [21, 22].
+- 2025: The state budget opened Choice Scholarship vouchers to all Indiana families starting in June 2026 [16].
+- 2026: The Indianapolis Public Education Corporation, rather than the Indianapolis Public Schools board, now certifies Indianapolis Public Schools referendum questions for the ballot [20].
+- 2023: Senate Enrolled Act 391 changed the so-called $1 law so the Indiana Department of Education can order districts that lost at least 10% of enrollment over five years to close schools under 60% capacity and offer them to charter schools [23].
+- 2023: House Enrolled Act 1447 required school districts to set up procedures for complaints that library material is obscene or harmful to minors [10].
+
+## This race
+
+- The district: Edinburgh Community School Corporation covers all of Blue River Township, including the Town of Edinburgh, plus a portion of German Township in Bartholomew County annexed to the town [24]. It runs East Side Elementary (K-5) and a combined Edinburgh high school/middle school [25, 26]. District figures show enrollment of 720 in 2025-26, down from 763 in 2024-25 and 918 in 2014-15 [27]. James M. Halik, Ph.D., leads the district [28, 26]; board minutes describe his post as interim superintendent, with the board approving a 2025-26 interim agreement in November 2024 and approving him again as interim superintendent in August 2026 'per his contract' [29, 30].
+- Board and elections: the governing-body plan approved by the State Board of Education in December 2019 sets five members, all elected at large districtwide, with four-year staggered terms; three seats are filled at one general election and two seats at the next. The five candidates with the most votes win [24]. Current members are Daniel Teter (president), Ryan Blaker (vice president), David Bauman (secretary), Cathy Hamm and W. Carol Swanson [31, 28]. The board meets on the third Monday of each month at 6 p.m. [28].
+- Seats on the 2026 ballot: Teter, Bauman and Blaker were sworn in together in January 2023, so their three terms are up in 2026 [32]. Hamm and Swanson took the oath in January 2025 and are not up until 2028 [33]. All three incumbents are on the 2026 list and no other candidates are listed, so the race looks uncontested. Voters can choose up to three, not one as the state list shows [6, 24].
+- Party labels: the state list shows Teter and Blaker as Republicans and Bauman as Nonpartisan [6]. The 2019 governing-body plan calls for elections on a non-partisan basis [24].
+- Budget and SEA 1 (2026): in June 2026 the board approved a transfer from the Debt Service Fund to the Operations Fund. The business manager said that for this year only, the Department of Local Government Finance is allowing schools to use debt-service money to offset losses from Senate Bill 1, including its added homestead credits [34].
+- Finances: the superintendent's March 2026 financial report showed 2025 education-fund revenue of about $7.12 million against about $7.50 million in expenses, a shortfall of about $377,000. Education-fund cash balances fell from about $2.58 million in 2024 to an estimated $1.88 million in 2026. The report listed $178,000 in reduced spending for 2026, partly through fewer elementary class sections [27, 35].
+- Operating referendum: the district's referendum page describes an eight-year operating levy at a $0.39 rate for school safety, recruiting and keeping teachers and staff, and student transportation [36]. The March 2026 financial report puts annual referendum spending at about $742,719 and says the 'Referendum Renewal is in 2030' [27].
+- Facilities: in August 2025 the board preliminarily determined to issue up to $7 million in bonds for renovations and improvements across the district, including site work, buses, equipment and technology [37, 38]. In June 2026 the board approved a $1,290,301 contract amendment, paid from the 2025 bond, for HVAC work at East Side Elementary, and a $297,670 bid to rebuild the tennis courts [34].
+- Enrollment: in January 2026 the board voted 5-0 to accept all out-of-district transfer students in every grade for 2025-26 and 2026-27. It also approved a 'Little Lancer' pre-K partnership with a local child-care provider, which administrators said would build ties with families and raise enrollment [31].
+- Teachers (2026): at a Sept. 9, 2026 public bargaining meeting, the Edinburgh Education Association president and an ISTA representative asked the board to raise starting pay and allow more movement on the teacher salary schedule [39]. In November 2024 the board ratified a contract that raised every step of the salary schedule by $2,000 [29].
+- Other: Halik told the board in January 2026 that he had spoken at the Statehouse about challenges facing small districts, including the reduction-in-force policy and teacher appreciation grants the district's teachers did not qualify for [31]. His 2026-27 message lists school-day storage of phones under the state's new 'Bell to Bell' law, less screen time and no planned eLearning days [26]. The district says the Indiana School Boards Association gave the board its 'Exemplary' status [28].
+- Forums: this guide found no 2026 candidate forum, questionnaire or news coverage of this race.
+
+## Daniel Lee Teter — At Large
+
+Incumbent; he is board president and is listed on the state list as a Republican [28, 6].
+
+### Background
+
+- Board president, re-elected to that post in January 2026; he has been president since at least January 2023 [31, 32].
+
+### Path to the ballot
+
+- Took the oath in January 2023 for the term that ends this year [32].
+- Listed on the state list as a Republican [6].
+
+### On the current officeholder
+
+- Is a current board member [28].
+- According to November 2024 minutes, Teter thanked Halik for staying another year as interim superintendent and said the board appreciated that Halik 'cares about Edinburgh' [29].
+
+### What we couldn't verify
+
+- No campaign website, questionnaire, forum answers or news coverage of his 2026 campaign found.
+- Occupation and other background not found in sources this guide could read.
+- No campaign finance reports found.
+
+## David M. Bauman — At Large
+
+Incumbent; he is board secretary and is listed on the state list as Nonpartisan [28, 6].
+
+### Background
+
+- Board secretary since at least January 2023, re-elected to the post in January 2026 [32, 31]. The district's board page lists him as 'Dave Bauman' [28].
+- As secretary, he signed the August 2025 notice of the board's plan to issue up to $7 million in bonds [37].
+
+### Path to the ballot
+
+- Took the oath in January 2023 for the term that ends this year [32].
+- Listed on the state list as Nonpartisan [6].
+
+### On the current officeholder
+
+- Is a current board member [28].
+- Minutes show he moved to approve the November 2024 teacher contract and the January 2026 pre-K partnership; both passed 5-0 [29, 31].
+
+### What we couldn't verify
+
+- No campaign website, questionnaire, forum answers or news coverage of his 2026 campaign found.
+- Occupation and other background not found in sources this guide could read.
+- No campaign finance reports found.
+
+## Ryan Blaker — At Large
+
+Incumbent; he is board vice president and is listed on the state list as a Republican [31, 6].
+
+### Background
+
+- Elected board vice president and appointed the board's representative to the Athletic Council in January 2026 [31].
+
+### Path to the ballot
+
+- Took the oath in January 2023 for the term that ends this year [32].
+- Listed on the state list as a Republican [6].
+
+### On the current officeholder
+
+- Is a current board member [28].
+- Minutes show he voted with the rest of the board in 5-0 votes on the 2024 teacher contract and the June 2026 SEA 1 fund transfer [29, 34].
+
+### What we couldn't verify
+
+- No campaign website, questionnaire, forum answers or news coverage of his 2026 campaign found.
+- Occupation and other background not found in sources this guide could read.
+- No campaign finance reports found.
+- Unverified (search snippet only): a 2022 Daily Journal filing story said the three seats then up were held by Teter, Bauman and Alice Taulman, so Blaker may have been newly elected in 2022. Not confirmed; the Daily Journal returned 403.
+
+## Sources
+
+1. [Indiana Code 20-26-5-4: Specific powers of governing body](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-5-4/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+2. [2026 Indiana Candidate Guide (School Board Offices)](https://www.in.gov/dA/1eada35c3e/2026-Candidate-Guide.FINAL.pdf) — Indiana Election Division, accessed 2026-10-10
+3. [800 school board seats are up for election in Indiana](https://chalkbeat.org/indiana/2024/06/13/school-board-seats-up-for-election-in-indiana-in-2024) — Chalkbeat Indiana / WFYI, 2024-06-13
+4. [Why there are no education elections on your primary ballot](https://www.chalkbeat.org/indiana/2026/04/07/primary-election-ballot-changes-exclude-education-races-and-referendums/) — Chalkbeat Indiana, 2026-04-07
+5. [Indiana Code 20-26-4-7: Compensation of governing body members](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-4-7/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+6. [2026 General Election Candidate List](https://www.in.gov/sos/elections/candidate-information/) — Indiana Election Division, 2026-09-22
+7. [Indiana Code 20-26-5-4.5: Selection and discharge of employees](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-5-4-5/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+8. [School Tax Levy Referendum](https://www.in.gov/dlgf/referendum-information/school-tax-levy-referendum/) — Indiana Department of Local Government Finance, accessed 2026-10-10
+9. [Indiana Code 20-29-6-4: Subjects of collective bargaining](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-29-6-4/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+10. [Obscene, or just objectionable? Here's how Indiana schools are tackling library book complaints](https://arnoltcenter.org/?p=1345) — Arnolt Center for Investigative Journalism / Indiana Capital Chronicle, 2024-02-05
+11. [Indiana Code 20-33-8-19: Expulsion appeals](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-33-8-19/) — FindLaw (Indiana Code), accessed 2026-10-10
+12. [Indiana Code 5-14-1.5-1: Open Door Law policy](https://codes.findlaw.com/in/title-5-state-and-local-administration/in-code-sect-5-14-1-5-1/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+13. [What We Do](https://www.in.gov/pac/about-us/what-we-do/) — Indiana Public Access Counselor, accessed 2026-10-10
+14. [Indiana Code 20-31-3-1: State academic standards](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-31-3-1/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+15. [Indiana K-12 State Tuition Support Annual Report FY2023](https://www.in.gov/doe/files/2023-Tuition-Support-Report.pdf) — Indiana Department of Education, 2023
+16. [Indiana lawmakers expand voucher eligibility, increase school funding in budget](https://chalkbeat.org/indiana/2025/04/24/vouchers-for-all-start-in-2026-budget-year) — Chalkbeat Indiana, 2025-04-24
+17. [Indiana school board candidates split 50-50 on affiliating with a party](https://www.wndu.com/2026/07/20/indiana-school-board-candidates-split-50-50-affiliating-with-party/) — WNDU, 2026-07-20
+18. [5 takeaways from Chalkbeat's panel on Indiana's changes to school board elections and referendums](https://www.chalkbeat.org/indiana/2026/07/10/indiana-school-board-elections-partisan-referendums-takeaways/) — Chalkbeat Indiana, 2026-07-10
+19. [Confusion on partisan school board law puts two IPS candidates' spots at risk](https://www.chalkbeat.org/indiana/2026/07/27/confusion-on-partisan-schoolboard-threatens-ips-ballot-spots/) — Chalkbeat Indiana, 2026-07-27
+20. [2026 Indiana Election Legislation Summary](https://www.in.gov/dA/d13ecb1f55/2026-Indiana-Election-Legislation-Summary.FINAL.pdf) — Indiana Election Division, 2026
+21. [Indiana school referendum elections: Districts seek funding for teacher pay, class size, buses](https://www.chalkbeat.org/indiana/2025/10/27/schools-property-tax-referendum-election-2025) — Chalkbeat Indiana, 2025-10-27
+22. [Indiana school district referendum guide 2026: What to know about your district's requested tax increase](https://www.wvxu.org/2026-08-17/indiana-school-district-referendum-guide-2026-what-to-know-about-your-districts-requested-tax-increase) — WFYI and Chalkbeat Indiana (via WVXU), 2026-08-17
+23. [Indiana charter schools could now have an easier path to acquiring district buildings](https://www.chalkbeat.org/indiana/2023/6/11/23755769/indiana-charters-acquire-traditional-public-school-buildings-underutilized-enrollment) — Chalkbeat Indiana, 2023-06-11
+24. [Approval of Governing Body Change—Edinburgh Community School Corporation (staff memo with resolution)](https://secure.in.gov/sboe/files/Board-Reorg-Approval-Memo-with-attachments-Edinburgh-11-6-2019-Cop....pdf) — Indiana State Board of Education, 2019-12-04
+25. [Edinburgh Community School Corporation (home page)](https://www.ecsc.k12.in.us/) — Edinburgh Community School Corporation, 2026
+26. [Superintendent's Message](https://www.ecsc.k12.in.us/apps/pages/index.jsp?uREC_ID=3710490&type=d&pREC_ID=2480637) — Edinburgh Community School Corporation, 2026-08
+27. [Financial Report, March 23, 2026](https://4.files.edl.io/e6a8/03/24/26/153059-03d06ff1-07b5-4d58-895b-1399a34799d1.pdf) — Edinburgh Community School Corporation, 2026-03-23
+28. [School Board](https://www.ecsc.k12.in.us/apps/pages/index.jsp?uREC_ID=3712901&type=d&pREC_ID=2426616) — Edinburgh Community School Corporation, 2026
+29. [Board of School Trustees minutes, Nov. 7, 2024 (special session)](https://drive.google.com/file/d/1hhdYiEWuIdkKTD3VqcMaBISkasKoh2f4/view) — Edinburgh Community School Corporation, 2024-11-07
+30. [Board of School Trustees minutes, Aug. 17, 2026](https://drive.google.com/file/d/15_kYj3PnMqQDKXG0vv25HmogfXGSsZTg/view) — Edinburgh Community School Corporation, 2026-08-17
+31. [Board of School Trustees minutes, Jan. 12, 2026](https://drive.google.com/file/d/1c0AYmFt4nSAD1cBmgBUR_ECxmWgZAwow/view) — Edinburgh Community School Corporation, 2026-01-12
+32. [Board of School Trustees minutes, Jan. 9, 2023](https://drive.google.com/file/d/1PPg5_zu6Q7mf3xlR30patZx4vnBatFMy/view) — Edinburgh Community School Corporation, 2023-01-09
+33. [Board of School Trustees minutes, Jan. 13, 2025](https://drive.google.com/file/d/1ACIaiZuIcNVJ4algVM0QQqtRUqVwlxh2/view) — Edinburgh Community School Corporation, 2025-01-13
+34. [Board of School Trustees minutes, June 15, 2026](https://drive.google.com/file/d/1B6CWwZ5le9iI-jytp-GvMyNV4JVAodSB/view) — Edinburgh Community School Corporation, 2026-06-15
+35. [Board of School Trustees minutes, March 23, 2026](https://drive.google.com/file/d/1VTtPCDbJW2VzeyCiD0l2kkq5y8X6pl7o/view) — Edinburgh Community School Corporation, 2026-03-23
+36. [Referendum](https://www.ecsc.k12.in.us/apps/pages/index.jsp?uREC_ID=3710490&type=d&pREC_ID=2623671) — Edinburgh Community School Corporation, 2026
+37. [Notice of Determination (bonds not to exceed $7,000,000)](https://4.files.edl.io/0db1/08/20/25/155355-602d7944-c03b-41ae-8aa6-e1592262b51d.pdf) — Edinburgh Community School Corporation, 2025-08-19
+38. [2025 Bond](https://www.ecsc.k12.in.us/apps/pages/index.jsp?uREC_ID=3710490&type=d&pREC_ID=2683712) — Edinburgh Community School Corporation, 2025
+39. [Public meeting minutes (teacher bargaining), Sept. 9, 2026](https://drive.google.com/file/d/1xgkNiaZcOl8mNGsJ7EHKUXZoUq9ObE-O/view) — Edinburgh Community School Corporation, 2026-09-09

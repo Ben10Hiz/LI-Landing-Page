@@ -1,0 +1,101 @@
+{
+ "race_id": "in-school-board-delaware-daleville",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The district: Daleville Community Schools serves Daleville and Salem Township in Delaware County, which is why the state list labels this race 'Salem Twp' {in_list}. The district says it has about 1,000 students in grades K-12 in two buildings: an elementary school and a junior/senior high school {dv_home}. Its staff directory lists Jason Callahan as superintendent and Dr. David Stashevsky as assistant superintendent {dv_staff}{amacad_callahan}.",
+  "Board: the Board of School Trustees has five members. They are Diane Evans (president, serving since 1986), Kip Corn (vice president, since 1999), Cassie Anthony (second vice president, since 2025), Vickie Rees (secretary, since 1988) and Ron Halbert Jr. (assistant secretary, since 2018) {dv_board}. County results list Daleville board races as at-large contests {dc_2022}{dc_2024}.",
+  "Election cycle: in 2022 voters chose two at-large members, re-electing Evans and Halbert unopposed {dc_2022}{sp_2022}. In 2024 they chose three, electing Kip A. Corn, Joseph (Joe) Kaelin and Vickie Rees {dc_2024}. The district later announced Kaelin's death and in spring 2025 sought candidates for an open board seat {dv_feed}. Anthony's board listing shows her serving since 2025 {dv_board}.",
+  "Seats on the 2026 ballot: by the four-year cycle, the two seats Evans and Halbert won in 2022 are up this year {dc_2022}. Evans is running again and Halbert is not on the 2026 list. Anthony is also on the list, although the seat Kaelin won in 2024 normally runs through 2028 {in_list}{dc_2024}. The state list shows 'vote for 1' {in_list}. This guide could not confirm how many seats are on the ballot or whether Anthony is running for a regular seat or to finish Kaelin's term. Voters should check their sample ballot.",
+  "Party labels: all three candidates are listed as Republicans {in_list}. Daleville candidates appeared without party labels (NP) in 2022 and 2024 {dc_2022}{dc_2024}.",
+  "Issues: this guide could not find 2025-26 Daleville board minutes, budget documents or news coverage of the board's decisions, including any effect of the 2025 property-tax law (SEA 1). The district's website did not show a board-minutes page this guide could reach.",
+  "Forums: this guide found no 2026 candidate forum, questionnaire or news coverage of this race."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Cassie J Anthony",
+   "seat": "Salem Twp",
+   "summary": "Current board member (second vice president, serving since 2025), listed on the state list as a Republican {dv_board}{in_list}.",
+   "website": null,
+   "background": [
+    "Expanded functions dental assistant at Daleville Family Dentistry {dv_board}.",
+    "Daleville High School graduate who attended Ball State University. She has lived in the area 30-plus years and is a parent of students in the district {dv_board}."
+   ],
+   "path_to_ballot": [
+    "Joined the board in 2025 {dv_board}, the year the district sought candidates for an open seat after trustee Joe Kaelin's death {dv_feed}.",
+    "Listed on the state list as a Republican {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {dv_board}. This guide found no public statements from her about the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign website, questionnaire, forum answers or news coverage found.",
+    "How she joined the board in 2025 (presumably by appointment) and which seat or term she is seeking in 2026 not confirmed.",
+    "No campaign finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "David Brand, MD",
+   "seat": "Salem Twp",
+   "summary": "Challenger listed on the state list as a Republican {in_list}.",
+   "website": null,
+   "background": [
+    "His ballot name includes the credential 'MD' {in_list}. This guide found no other background in sources it could read."
+   ],
+   "path_to_ballot": [
+    "Listed on the state list as a Republican {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign website, questionnaire, forum answers or news coverage found.",
+    "Unverified (search snippet only): IU Health lists a David L. Brand, MD, in anesthesiology with privileges at IU Health Ball Memorial Hospital. Not confirmed to be this candidate.",
+    "Occupation, ties to the district and stated positions unknown.",
+    "No campaign finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "P. Diane Evans",
+   "seat": "Salem Twp",
+   "summary": "Incumbent board president, on the board since 1986 and listed on the state list as a Republican {dv_board}{in_list}.",
+   "website": null,
+   "background": [
+    "Career counselor; attended Ball State University {dv_board}.",
+    "Has lived in the area 40-plus years {dv_board}."
+   ],
+   "path_to_ballot": [
+    "Re-elected unopposed in 2022, listed then as Patricia Diane Evans (NP), in a race for two at-large seats {dc_2022}{sp_2022}.",
+    "Listed on the 2026 state list as a Republican {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member and the board's president {dv_board}. This guide found no public statements from her about the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign website, questionnaire, forum answers or news coverage found.",
+    "No campaign finance reports found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "dv_board": ["Board of School Trustees", "Daleville Community Schools", "2026", "https://www.daleville.k12.in.us/page/school-board"],
+  "dv_staff": ["Staff Directory", "Daleville Community Schools", "2026", "https://www.daleville.k12.in.us/staff"],
+  "dv_home": ["Daleville Community Schools (home page)", "Daleville Community Schools", "2026", "https://www.daleville.k12.in.us/"],
+  "dv_feed": ["Live Feed (posts on Joe Kaelin and the open board seat)", "Daleville Community Schools", "2025", "https://www.daleville.k12.in.us/live-feed"],
+  "amacad_callahan": ["Jason Callahan", "American Academy of Arts & Sciences", "2026", "https://www.amacad.org/person/jason-callahan"],
+  "dc_2022": ["2022 General Election Summary Results", "Delaware County (Ind.) Election Board", "2022-11", "https://dcelectionday.com/20222General/Html/Delaware_ElecSumm_All.htm"],
+  "dc_2024": ["2024 General Election Summary Results", "Delaware County (Ind.) Election Board", "2024-11", "https://dcelectionday.com/20242General/Html/Delaware_ElecSumm_All.htm"],
+  "sp_2022": ["Delaware County school board ballots filling up, but still no races", "The Star Press (via Yahoo News)", "2022-08-24", "https://www.yahoo.com/news/delaware-county-school-board-ballots-090511691.html"]
+ }
+}
