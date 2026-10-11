@@ -1,0 +1,96 @@
+{
+ "race_id": "in-scott-county-sheriff",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_sheriff",
+ "incumbent": {
+  "name": "Jerry Goodin",
+  "party": "Democratic",
+  "summary": "Jerry Goodin, a former Indiana State Police trooper, ran for sheriff as a Democrat in 2018 and took office in 2019 {wdrb_2018} {scso_jail_2023}. He remains sheriff as of September 2026 and is not on the 2026 ballot {ct_scam} {in_list}; a sheriff who has served since 2019 has reached the limit of eight years in any twelve-year period.",
+  "record": [
+   "2018 campaign: Goodin, then a nearly 27-year Indiana State Police trooper at the Sellersburg post, said he would make drug dealers a top priority while offering education and job training to jailed addicts, and supported school resource officers on every campus as part of a broader school safety plan {wdrb_2018}.",
+   "2019–2023: The sheriff's office says Goodin prioritized in-house jail operations on taking office and that the Scott County Jail passed the annual state jail inspection four years in a row through March 2023, after not passing in over 20 years {scso_jail_2022} {scso_jail_2023}.",
+   "2020–2022: The Indiana Sheriffs' Association named Goodin Indiana Sheriff of the Year for 2020 and 2022 (and all 92 sheriffs for 2021), according to the sheriff's office {scso_soty_2022}."
+  ]
+ },
+ "race_context": [
+  "This is an open seat: Sheriff Jerry Goodin, in office since 2019, is not on the ballot {scso_jail_2023} {in_list}.",
+  "Both nominees filed on the first day of the filing period in January 2026 {ct_filing}. In the May 5, 2026 Republican primary, Scott Zellers won with 1,089 votes to 425 for Shawn S. Mayer; Democrat Joe Guarneri was unopposed {ct_primary}.",
+  "Guarneri is the sheriff's chief deputy under Sheriff Goodin {ct_aed} {ct_scam}.",
+  "Local coverage of the general-election campaign is very thin: no candidate questionnaires, forums or debates were found."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Joe Guarneri",
+   "summary": "Joe Guarneri is chief deputy of the Scott County Sheriff's Office under Sheriff Jerry Goodin; he is the Democratic nominee {ct_aed} {ct_primary}.",
+   "website": null,
+   "background": [
+    "Chief deputy of the Scott County Sheriff's Office as of 2026 {ct_aed} {ct_scam}; identified as Lt. Colonel in a September 2024 sheriff's office release and in a March 2023 jail-inspection photo caption {scso_youth_2024} {scso_jail_2023}.",
+    "In September 2024 he spoke with first-grade students visiting the courthouse about friendship and safety, saying officers should reach out to children whenever they can {scso_youth_2024}."
+   ],
+   "path_to_ballot": [
+    "Filed for sheriff as a Democrat on the first day of the January 2026 filing period {ct_filing}.",
+    "Unopposed in the May 5, 2026 Democratic primary {ct_primary}; listed on the general-election ballot as a Democrat {in_list}."
+   ],
+   "positions": [
+    {"topic": "Patrol & response", "items": ["In June 2026, as chief deputy, said that because deputies are often first to arrive at emergencies in rural parts of the county, carrying defibrillators in patrol cars makes sense {ct_aed}."]}
+   ],
+   "on_incumbent": [
+    "Serves as chief deputy under Sheriff Goodin {ct_aed}; no campaign statements about Goodin's record were found."
+   ],
+   "plans": [
+    "No campaign plans were found in available coverage."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance totals were found in available coverage."
+   ],
+   "gaps": [
+    "No campaign website, social-media page, questionnaire or forum appearance was located; his campaign positions are unknown.",
+    "Years of service and earlier career are not documented in fetched sources; sheriff's office releases from 2019–2021 (seen only in search snippets, unverified) list him as Captain and then Major.",
+    "No stated positions found on the jail, staffing and pay, budget, drugs, school safety or immigration enforcement.",
+    "Campaign-finance reports were not reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Scott Zellers",
+   "summary": "Scott Zellers won the May 2026 Republican primary for sheriff; no information about his background or positions was found in available coverage {ct_primary}.",
+   "website": null,
+   "background": [
+    "No background information was found in available coverage."
+   ],
+   "path_to_ballot": [
+    "Filed for sheriff as a Republican on the first day of the January 2026 filing period {ct_filing}.",
+    "Won the May 5, 2026 Republican primary with 1,089 votes to 425 for Shawn S. Mayer {ct_primary}; listed on the general-election ballot as a Republican {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements about Sheriff Goodin's record were found."
+   ],
+   "plans": [
+    "No campaign plans were found in available coverage."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance totals were found in available coverage."
+   ],
+   "gaps": [
+    "Coverage is extremely thin: his occupation, law-enforcement experience and positions could not be found; searches for his name returned no profiles, campaign pages or interviews.",
+    "No campaign website, social-media page, questionnaire or forum appearance was located.",
+    "The primary-results article spells his opponent 'Shan S. Mayer'; the filing list seen in a search snippet (unverified) spells it 'Shawn S Mayer'.",
+    "Campaign-finance reports were not reviewed."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "wdrb_2018": ["3 candidates with different backgrounds want your vote for Scott County Sheriff", "WAVE", "2018-11-02", "https://www.wdrbwave.com/2018/11/01/candidates-with-different-backgrounds-want-your-vote-scott-county-sheriff"],
+  "scso_jail_2022": ["Scott County Sheriff Proud to Announce Flawless Indiana State Jail Inspection for 2022", "Scott County Sheriff's Office", "2022-03-09", "https://scottcountysheriff.org/press_view.php?id=830"],
+  "scso_soty_2022": ["Sheriff Jerry Goodin is the Indiana Sheriff of the Year for 2022...AGAIN!", "Scott County Sheriff's Office", "2022-08-11", "https://www.scottcountysheriff.org/press_view.php?id=898"],
+  "scso_jail_2023": ["Scott County Sheriff Proud to Announce Flawless State Jail Inspection", "Scott County Sheriff's Office", "2023-03-08", "https://www.scottcountysheriff.org/press_view.php?id=973"],
+  "scso_youth_2024": ["The Scott County Sheriff's Office and Scott County Prosecutors Office Seek Every Opportunity to Visit with our Youth", "Scott County Sheriff's Office", "2024-09-11", "https://www.scottcountysheriff.org/press_view.php?id=1160"],
+  "ct_filing": ["Candidates Begin Filing For Primary Election Offices", "Crothersville Times", "2026-01-14", "https://crothersvilletimes.com/candidates-begin-filing-for-primary-election-offices/"],
+  "ct_primary": ["Upsets in Republican Primary Elections", "Crothersville Times", "2026-05-06", "https://crothersvilletimes.com/upsets-in-republican-primary-elections/"],
+  "ct_aed": ["Scott County Health Department Provides Sheriff's Office Heart Defibrillators", "Crothersville Times", "2026-06-10", "https://crothersvilletimes.com/scott-county-health-department-provides-sheriffs-office-heart-defibrillators/"],
+  "ct_scam": ["Sheriff Warns Of Phone Scam", "Crothersville Times", "2026-09-02", "https://crothersvilletimes.com/sheriff-warns-of-phone-scam/"]
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "race_id": "in-perry-county-sheriff",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_sheriff",
+ "incumbent": {
+  "name": "Dave Faulkenberg",
+  "party": "Democratic",
+  "summary": "Dave Faulkenberg became Perry County sheriff in October 2025, chosen by a Perry County Democratic Party caucus to complete the term of retiring Sheriff Alan Malone {weht_faulkenberg}. He is not on the 2026 general-election ballot {in_list}.",
+  "record": [
+   "2015–2025: Alan Malone was chosen to fill the remainder of a sheriff's term in 2015 and elected to his first full term in 2018; in August 2025 he announced he would retire on or around October 1, citing the political climate and personal reasons {pcn_malone} {wfie_malone}.",
+   "Malone's tenure: the Perry County News credited him with partnering with the Tell City Police Department to start a National Night Out event and helping create a 16-week Citizens Police Academy {pcn_malone}.",
+   "October 2025: Faulkenberg was sworn in on Malone's last day, after the Perry County Democratic Party held a caucus in September to elect a sheriff to finish Malone's term {weht_faulkenberg}."
+  ]
+ },
+ "race_context": [
+  "This is an open seat: appointed Sheriff Dave Faulkenberg is not on the ballot {weht_faulkenberg} {in_list}.",
+  "Both nominees were unopposed in the May 5, 2026 primaries: Democrat Bryce J. Hammack received 918 votes and Republican Roger Smith 563, in final results for all 11 voting locations {pc_primary}.",
+  "Coverage of the race is thin: no candidate questionnaires, forums or debates were found, and the Perry County News (published on the Dubois County Herald site) could not be reached during research."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Bryce J. Hammack",
+   "summary": "Bryce Hammack is a Tell City Police Department officer whose roles since 2004 have included detective, lieutenant and administrator, according to his campaign; he is the Democratic nominee {hammack_actblue} {pc_primary}.",
+   "website": "https://secure.actblue.com/donate/bryce-hammack-1",
+   "background": [
+    "His campaign says he has worked for the Tell City Police Department since 2004 as a reserve officer, patrol officer, K9 decoy, Indiana Law Enforcement Academy general instructor, firearms instructor, evidence officer, detective, lieutenant and administrator {hammack_actblue}.",
+    "Volunteer firefighter, Perry County Rescue member and Leadership Perry County graduate; studied criminology at Indiana State University, per his campaign {hammack_actblue}."
+   ],
+   "path_to_ballot": [
+    "Unopposed in the May 5, 2026 Democratic primary, receiving 918 votes {pc_primary}; listed on the general-election ballot as a Democrat {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements about the current or former sheriff's record were found; his campaign page refers to campaigning for 'continued progress' {hammack_actblue}."
+   ],
+   "plans": [
+    "No specific plans for the office were found; his campaign fundraising page does not list policy priorities {hammack_actblue}."
+   ],
+   "endorsements_finance": [
+    "Accepts online contributions through an ActBlue page {hammack_actblue}; no totals, endorsements or campaign-finance reports were found."
+   ],
+   "gaps": [
+    "Only his own campaign fundraising page was available; no news interviews, questionnaires or forum appearances were found.",
+    "No stated positions found on the jail, staffing and pay, budget, drugs, school safety or immigration enforcement.",
+    "Campaign-finance reports were not reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Roger Smith",
+   "summary": "Roger Smith was unopposed for the Republican nomination for sheriff in May 2026; no information about his background or positions was found in available coverage {pc_primary}.",
+   "website": null,
+   "background": [
+    "No background information was found in available coverage."
+   ],
+   "path_to_ballot": [
+    "Unopposed in the May 5, 2026 Republican primary, receiving 563 votes {pc_primary}; listed on the general-election ballot as a Republican {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements about the current or former sheriff's record were found."
+   ],
+   "plans": [
+    "No campaign plans were found in available coverage."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance totals were found in available coverage."
+   ],
+   "gaps": [
+    "Coverage is extremely thin: his occupation, law-enforcement experience and positions could not be found. The name is common, so care is needed to avoid confusing him with other people named Roger Smith.",
+    "A candidate directory seen only in a search snippet (unverified) lists him as filing on January 7, 2026.",
+    "No campaign website, social-media page, questionnaire or forum appearance was located.",
+    "Campaign-finance reports were not reviewed."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "wfie_malone": ["Perry County's Sheriff Malone retiring", "14 News (WFIE)", "2025-08-20", "https://www.14news.com/2025/08/20/perry-countys-sheriff-malone-retiring"],
+  "pcn_malone": ["Malone announces intent to retire as Sheriff", "Perry County News", "2025-08-25", "https://www.duboiscountyherald.com/perry_county_news/news/malone-announces-intent-to-retire-as-sheriff/article_82f09f05-d716-5406-8957-f435676a39e2.html"],
+  "weht_faulkenberg": ["Perry County Sheriff Alan Malone retires after serving over 30 years in law enforcement", "Eyewitness News (WEHT/WTVW)", "2025-10", "https://www.tristatehomepage.com/news/perry-county-sheriff-alan-malone-retires-after-serving-over-30-years-in-law-enforcement/amp/"],
+  "pc_primary": ["Perry County Primary Election 2026 - Election Results", "Perry County, Indiana (election results)", "2026-05-05", "https://centelect.com/cent/election/electionResults.php?election_id=DsZX4lOfa8Cm4mRQmRbH&unq=pcingov"],
+  "hammack_actblue": ["Bryce Hammack", "Bryce Hammack campaign (ActBlue)", "2026", "https://secure.actblue.com/donate/bryce-hammack-1"]
+ }
+}
