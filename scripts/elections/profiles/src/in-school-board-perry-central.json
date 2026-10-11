@@ -1,0 +1,169 @@
+{
+ "race_id": "in-school-board-perry-central",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The district: Perry Central Community School Corporation is based in Leopold in Perry County and runs Perry Central Elementary School and Perry Central Junior-Senior High School {nces_pc}{nces_pc_schools}. The high school was formed in 1962 by merging the Leopold, Oil Township and Tobinsport high schools {wiki_pchs}. Federal data list 1,275 students {nces_pc}. Dr. Tara Bishop is superintendent {wfie_award}{pc_award}.",
+  "Board officers elected January 12, 2026: Tim Edwards (president), Glenn Etienne (vice president), Kevin Etienne (secretary) and Nan DuPont (assistant secretary) {pc_reorg}. This guide could not confirm the full size of the board or how its district seats are drawn.",
+  "Seats on the 2026 ballot: the state list shows two races, District 1 and District 2, each electing one member {in_list}. Glenn M Etienne, the board's vice president, is unopposed in District 2, and Nanette L DuPont, a current board member, faces Scott D Peter in District 1 {in_list}{pc_reorg}. This guide could not confirm from an official source which district seat each incumbent holds now.",
+  "Recognition (November–December 2025): Perry Central was the only Indiana school corporation to receive the Department of Education's 2025 Hoosier Education Excellence Award, which carries a $50,000 grant, for its approach to literacy, STEM and college and career preparation {wfie_award}{pc_award}.",
+  "Teacher pay (November 2025): the board approved a new contract with the Perry Central Classroom Teachers Association giving all returning teachers a $2,000 base raise {pc_contract}.",
+  "Budget and programs (April 2026): the board discussed a new plan to fund its after-school program after a delay in the federal 21st Century grant cycle left no grant money for 2026–27 {pc_afterschool}.",
+  "Special education (May–July 2026): a parent's advocate and then the parent raised concerns at board meetings about special education practices after an April incident involving the school's 'calming room' {pc_sped}{pc_sped_jul}.",
+  "Transportation: in February 2026 the board heard a presentation on propane school buses, and in September 2026 it introduced a policy requiring visual verification when students in preschool through third grade are dropped off {pc_propane}{pc_transport}.",
+  "This guide found no reporting on how the 2025 property-tax law (SEA 1) affects Perry Central's budget, and no candidate forum or questionnaire for this race as of October 10, 2026."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Nanette L DuPont",
+   "seat": "District 1",
+   "summary": "Incumbent board member, elected assistant secretary in January 2026; faces Scott D Peter {pc_reorg}{in_list}.",
+   "website": null,
+   "background": [
+    "Current Perry Central board member; elected board assistant secretary on January 12, 2026 {pc_reorg}."
+   ],
+   "path_to_ballot": [
+    "Filed for District 1 as a nonpartisan candidate {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. This guide found no public account from her of the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, social media page, questionnaire or forum answers were found.",
+    "Local coverage of Perry Central board meetings (Perry County News, published by the Dubois County Herald) is mostly behind a paywall; only the free opening paragraphs were used, so board votes and member comments could not be reviewed.",
+    "Occupation, length of board service and the district seat she now holds could not be confirmed; she is listed by the newspaper as 'Nan DuPont'."
+   ]
+  },
+  {
+   "ballot_name": "Scott D Peter",
+   "seat": "District 1",
+   "summary": "Challenger for the District 1 seat {in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Filed for District 1 as a nonpartisan candidate {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "This guide found no statement from this candidate on the current board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, social media page, questionnaire or forum answers were found.",
+    "Local coverage of Perry Central board meetings (Perry County News, published by the Dubois County Herald) is mostly behind a paywall; only the free opening paragraphs were used, so board votes and member comments could not be reviewed.",
+    "No news coverage of this candidate was found; occupation, ties to the schools and reasons for running could not be confirmed."
+   ]
+  },
+  {
+   "ballot_name": "Glenn M Etienne",
+   "seat": "District 2",
+   "summary": "Incumbent board member and board vice president; unopposed {pc_reorg}{in_list}.",
+   "website": null,
+   "background": [
+    "Current Perry Central board member; elected board vice president on January 12, 2026 {pc_reorg}."
+   ],
+   "path_to_ballot": [
+    "Filed for District 2 as a nonpartisan candidate {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. This guide found no public account from him of the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, social media page, questionnaire or forum answers were found.",
+    "Local coverage of Perry Central board meetings (Perry County News, published by the Dubois County Herald) is mostly behind a paywall; only the free opening paragraphs were used, so board votes and member comments could not be reviewed.",
+    "Occupation, length of board service and the district seat he now holds could not be confirmed."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "nces_pc": [
+   "District detail: Perry Central Com Schools Corp",
+   "National Center for Education Statistics, Common Core of Data",
+   "2026-10",
+   "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?Search=1&details=1&ID2=1801740"
+  ],
+  "nces_pc_schools": [
+   "School list: Perry Central Com Schools Corp",
+   "National Center for Education Statistics, Common Core of Data",
+   "2026-10",
+   "https://nces.ed.gov/ccd/schoolsearch/school_list.asp?Search=1&DistrictID=1801740"
+  ],
+  "wiki_pchs": [
+   "Perry Central Junior-Senior High School (Leopold, Indiana)",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/Perry_Central_Junior-Senior_High_School_(Leopold,_Indiana)"
+  ],
+  "wfie_award": [
+   "Perry Central Schools win Hoosier Education Excellence award and $50K grant",
+   "WFIE 14 News",
+   "2025-11-24",
+   "https://www.14news.com/2025/11/25/perry-central-schools-win-hoosier-education-excellence-award-50k-grant/"
+  ],
+  "pc_award": [
+   "Perry Central awarded Hoosier Excellence in Education by Department of Education",
+   "Perry County News (Dubois County Herald)",
+   "2025-12-11",
+   "https://www.duboiscountyherald.com/perry_county_news/news/perry-central-awarded-hoosier-excellence-in-education-by-department-of-education/article_80f4b8a9-a9d1-5a51-9cdf-2f67988e1986.html"
+  ],
+  "pc_reorg": [
+   "Perry Central School Board holds first meeting of 2026",
+   "Perry County News (Dubois County Herald)",
+   "2026-01-22",
+   "https://www.duboiscountyherald.com/perry_county_news/news/education/perry-central-school-board-holds-first-meeting-of-2026/article_7754db3f-e024-50fc-814b-121673423a96.html"
+  ],
+  "pc_contract": [
+   "Perry Central school board approves new contract with teachers' association",
+   "Perry County News (Dubois County Herald)",
+   "2025-11-17",
+   "https://www.duboiscountyherald.com/perry_county_news/news/perry-central-school-board-approves-new-contract-with-teachers-association/article_37f3d89a-2aae-54e4-8a71-0e4ff6a099c0.html"
+  ],
+  "pc_afterschool": [
+   "Perry Central approves funding plan for after school program",
+   "Perry County News (Dubois County Herald)",
+   "2026-04-23",
+   "https://www.duboiscountyherald.com/perry_county_news/news/education/perry-central-approves-funding-plan-for-after-school-program/article_3de0d4cf-b6cd-5b47-a27c-77723a58b211.html"
+  ],
+  "pc_sped": [
+   "Parent lists special education concerns to Perry Central school board",
+   "Perry County News (Dubois County Herald)",
+   "2026-05-21",
+   "https://www.duboiscountyherald.com/perry_county_news/news/education/parent-lists-special-education-concerns-to-perry-central-school-board/article_a9fffb47-2304-5621-8260-9a245cc74b0a.html"
+  ],
+  "pc_sped_jul": [
+   "James continues to challenge Perry Central for improved communication and support",
+   "Perry County News (Dubois County Herald)",
+   "2026-07-23",
+   "https://www.duboiscountyherald.com/perry_county_news/news/education/james-continues-to-challenge-perry-central-for-improved-communication-and-support/article_585de4e2-0515-5842-98b8-b40ebcf57dd9.html"
+  ],
+  "pc_propane": [
+   "Perry Central considering new propane buses",
+   "Perry County News (Dubois County Herald)",
+   "2026-02-12",
+   "https://www.duboiscountyherald.com/perry_county_news/news/perry-central-considering-new-propane-buses/article_438d3016-cfe9-5cae-9ae2-71fc67972bd7.html"
+  ],
+  "pc_transport": [
+   "Perry Central introduces new transportation policy",
+   "Perry County News (Dubois County Herald)",
+   "2026-09-24",
+   "https://www.duboiscountyherald.com/perry_county_news/news/perry-central-introduces-new-transportation-policy/article_b32552f9-ec95-5cbf-8ffa-76ac4bb9b388.html"
+  ]
+ }
+}

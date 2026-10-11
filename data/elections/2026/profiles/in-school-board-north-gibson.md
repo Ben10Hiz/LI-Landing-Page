@@ -140,7 +140,7 @@ Incumbent who represents White River Township on the board; faces Trevor Cotterm
 ### On the current officeholder
 
 - Is a current board member.
-- Has dissented on the marketing contract, saying in May 2026 'This money, I kind of feel like this is being thrown away'; Williams and Sievers disputed her spending figures and said the contract promotes positive news about the schools [41].
+- Has dissented on the marketing contract, saying in May 2026 'This money, I kind of feel like this is being thrown away'; Williams called her estimate of total spending 'dramatic,' putting it at about $336,000 over four years, and Sievers said she was 'painting a false picture' about where the money could go [41].
 - Was nominated for board secretary in January 2026 but lost 3–2 to Beth Davis [28].
 
 ### Endorsements & fundraising

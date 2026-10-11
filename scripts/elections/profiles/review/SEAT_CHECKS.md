@@ -37,6 +37,8 @@ multi-seat but not yet confirmed from a 2026 county ballot:
 | Elkhart Concord School Board, District 1 | 3 | three 2022 seats expire; all three holders running |
 | Edinburgh Comm. School Board (at large) | 3 | three members sworn in Jan 2023; only those three filed |
 | Delaware Daleville Community School Board | 2 | two 2022 seats up on the four-year cycle |
+| Shelbyville Central School Board, District 4 | 2 | 2022 and 2024 each elected 2; Rees's seat also up |
+| Shelby Eastern School Board | ? | three seats in 2024 but two races listed for 2026 |
 | Jay School Board, District 1 | 0 on ballot | seat due in 2026 but no one filed; how it is filled is unknown |
 
 Also confirm with county election offices:

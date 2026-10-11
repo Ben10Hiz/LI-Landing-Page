@@ -1,0 +1,137 @@
+{
+ "race_id": "in-school-board-shelby-eastern",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The district: Shelby Eastern Schools runs two PK-12 campuses in eastern Shelby County, at Morristown and Waldron {at_jun12_26}{wiki_mjshs}. Federal (NCES) data put 2024-25 enrollment at 1,292: Morristown Elementary 338, Waldron Elementary 298, Morristown Jr-Sr High 333 and Waldron Jr-Sr High 323 {ps_se}. Board seats are tied to townships plus an at-large seat; 2024 filings listed candidates from Shelby, Van Buren and Union townships {at_jun26_24}{in_list}.",
+  "Superintendent: Dr. Todd Hitchcock announced in August 2026 that he would step down in October after nearly seven years, to take a job outside education {at_aug15_26}. In September 2026 the board approved an interim agreement keeping him in the job while it searches for a permanent superintendent {at_sep13_26}.",
+  "Seats on the 2026 ballot: an At Large seat (Edward Kenneth Comstock, II and Sarah (Hart) Wester, both listed as Republican) and a Liberty Township seat (Amber D Kuhn, Nonpartisan), each 'vote for 1' on the state list {in_list}. This guide could not load the district's board page (it blocks automated access) and found no fetched source naming the current board members, which seats end this year, or whether any incumbent is running.",
+  "Budget and SEA 1: at the July 1, 2026 meeting Hitchcock reported that homeowners in sampled taxing districts paid about $114 less on average, but said the SEA 1 homestead credit will keep growing through 2030 and the district expects to lose about $200,000 a year in local income tax revenue starting in 2028 {at_jul3_26}. He said the goal is a level tax rate, but 'maintaining a level tax rate means we just get less' {at_jul3_26}. The district was not pursuing a referendum; the board shifted part of the homestead credit impact from the operations fund to the debt service fund {at_jul3_26}.",
+  "Facilities and borrowing: in August 2026 the board discussed HVAC overhauls at all four buildings, estimated at roughly $2.5 million to $3.5 million per building, and a multiyear bond authorization issued in stages {at_aug15_26}. The debt service rate is just under 59 cents, below the 70-cent level above which new borrowing would need a referendum {at_aug15_26}.",
+  "Academics: 2026 ILEARN results showed 23.3% of Shelby Eastern students in grades 3-8 proficient in both English and math, the lowest rate among Shelby County districts {at_oct10_26}. In September 2026 the board limited its virtual academy to grades 3-12 and let virtual students join clubs {at_sep13_26}.",
+  "County athletic tournaments (June 2026): after the district's athletic directors decided to stop taking part in Shelby County tournaments, parents and alumni objected and a petition drew nearly 800 signatures; Hitchcock said 'The board has very mixed opinions' and the board asked administrators to revisit the decision, with recommendations expected July 1 {at_jun12_26}. This guide did not find the outcome.",
+  "Other 2026 decisions: a handbook rule barring students from having phones from the start of the school day until dismissal (April) {at_apr10_26}; higher transportation fees for athletes who skip fundraisers (June) {at_jun12_26}; hiring Jim Jameson as Waldron Jr.-Sr. High principal (July) {at_jul2_26}.",
+  "Forums: this guide found no candidate forums, questionnaires or news coverage of the 2026 Shelby Eastern candidates.",
+  "Party labels: as shown on the state list, Comstock and Wester are listed as Republican and Kuhn as Nonpartisan {in_list}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Edward Kenneth Comstock, II",
+   "seat": "At Large",
+   "summary": "Candidate for the at-large seat, listed as Republican {in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed as Republican on the state candidate list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, campaign website, forum answers, endorsements or finance reports found; occupation, background and whether he is a current board member unknown."
+   ]
+  },
+  {
+   "ballot_name": "Sarah (Hart) Wester",
+   "seat": "At Large",
+   "summary": "Candidate for the at-large seat, listed as Republican {in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed as Republican on the state candidate list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, campaign website, forum answers, endorsements or finance reports found; occupation, background and whether she is a current board member unknown."
+   ]
+  },
+  {
+   "ballot_name": "Amber D Kuhn",
+   "seat": "Liberty Township",
+   "summary": "The only candidate for the Liberty Township seat, listed as Nonpartisan {in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed as Nonpartisan on the state candidate list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "Unverified (search snippet of the district's staff page, which could not be loaded): an 'Amber Kuhn' is listed as a current Shelby Eastern board member. If confirmed she would be an incumbent.",
+    "No news coverage, campaign website, forum answers, endorsements or finance reports found; occupation and background unknown."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "ps_se": [
+   "Shelby Eastern Schools (district profile, NCES data)",
+   "Plain Schools",
+   "2026-10",
+   "https://plainschools.com/districts/shelby-eastern-schools-in"
+  ],
+  "wiki_mjshs": [
+   "Morristown Junior-Senior High School",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/Morristown_Junior-Senior_High_School"
+  ],
+  "at_jun26_24": [
+   "Wednesday, June 26, 2024 (candidate filings)",
+   "The Addison Times",
+   "2024-06-26",
+   "https://addisontimes.substack.com/p/wednesday-june-26-2024"
+  ],
+  "at_aug15_26": [
+   "Saturday, August 15, 2026 (Shelby Eastern board)",
+   "The Addison Times",
+   "2026-08-15",
+   "https://addisontimes.substack.com/p/saturday-august-15-2026"
+  ],
+  "at_sep13_26": [
+   "Sunday, September 13, 2026 (school board roundup)",
+   "The Addison Times",
+   "2026-09-13",
+   "https://addisontimes.substack.com/p/sunday-september-13-2026"
+  ],
+  "at_jul3_26": [
+   "Friday, July 3, 2026 (Shelby Eastern board)",
+   "The Addison Times",
+   "2026-07-03",
+   "https://addisontimes.substack.com/p/friday-july-3-2026"
+  ],
+  "at_oct10_26": [
+   "Saturday, October 10, 2026 (Notebook)",
+   "The Addison Times",
+   "2026-10-10",
+   "https://addisontimes.substack.com/p/saturday-october-10-2026"
+  ],
+  "at_jun12_26": [
+   "Friday, June 12, 2026 (Shelby Eastern board)",
+   "The Addison Times",
+   "2026-06-12",
+   "https://addisontimes.substack.com/p/friday-june-12-2026"
+  ],
+  "at_apr10_26": [
+   "Friday, April 10, 2026 (Shelby Eastern board)",
+   "The Addison Times",
+   "2026-04-10",
+   "https://addisontimes.substack.com/p/friday-april-10-2026"
+  ],
+  "at_jul2_26": [
+   "Thursday, July 2, 2026 (Notebook)",
+   "The Addison Times",
+   "2026-07-02",
+   "https://addisontimes.substack.com/p/thursday-july-2-2026"
+  ]
+ }
+}

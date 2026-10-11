@@ -230,7 +230,7 @@ Sensitive items held for a second, careful editorial pass (criminal cases, misco
 - **David Finkel (former board vice president; not a 2026 candidate)** — personnel action — _held_
   FOX59 reported that FBI agents searched Finkel's Shelbyville home on June 5, 2025 in a federal investigation; the board asked him to resign, calling it 'a personal issue and not conduct involving the school district', and the superintendent confirmed his resignation on June 12, 2025. The board accepted the resignation and took applications for the vacancy, which it filled with Dr. Julie Ruschhaupt on June 26, 2025. The article reported no charges and no statement from Finkel.
   Note: Explains how the District 4 seat now held by appointee Ruschhaupt became vacant (seat match inferred from 2022 results, not confirmed). The profile text refers only to a 'vacant seat'. Finkel is not on the 2026 ballot; no charge or outcome confirmed.
-  - [Shelbyville school board asks for David Finkel's resignation following FBI search](https://fox59.com/indiana-news/shelbyville-school-board-asks-for-david-finkels-resignation-following-fbi-search/) — FOX59, 2025-06-12
+  - [Shelbyville school board asks for David Finkel's resignation following FBI search](https://digital-release.fox59.com/indiana-news/shelbyville-school-board-asks-for-david-finkels-resignation-following-fbi-search/amp/) — FOX59, 2025-06-12
   - [Friday, June 13, 2025 (Notebook)](https://addisontimes.substack.com/p/friday-june-13-2025) — The Addison Times, 2025-06-13
   - [Friday, June 27, 2025 (Notebook)](https://addisontimes.substack.com/p/friday-june-27-2025) — The Addison Times, 2025-06-27
 
