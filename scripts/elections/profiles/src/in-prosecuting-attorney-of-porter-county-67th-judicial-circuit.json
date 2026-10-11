@@ -1,0 +1,233 @@
+{
+ "race_id": "in-prosecuting-attorney-of-porter-county-67th-judicial-circuit",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_prosecutor",
+ "incumbent": {
+  "name": "Gary S. Germann",
+  "party": "Democratic",
+  "summary": "Germann, who first served as Porter County prosecutor after the 1978 election, returned to the office after unseating the Republican incumbent in 2018 and was re-elected in 2022; he is seeking another term {pc_pros} {nwi_2018} {enr22g}.",
+  "record": [
+   "1974–1978: Chief deputy prosecuting attorney in Porter County {br_germann}; elected prosecutor in 1978 {pc_pros}.",
+   "November 2018: Unseated the Republican incumbent prosecutor {nwi_2018}; took office in January 2019 and made staff changes on his first day, according to The Times of Northwest Indiana {nwi_2019}.",
+   "November 2022: Re-elected without a Republican opponent, receiving 42,802 votes {enr22g}.",
+   "The office runs an adult pretrial diversion program, an infraction deferral program, a domestic violence unit, juvenile and child support divisions and a victim assistance program, with offices in Valparaiso and Portage {pc_pros}.",
+   "Germann's campaign says that under his leadership the office helped launch a sexual assault response team, is building trauma-informed \"soft spaces\" in the courthouse for victims, and has supported restoration court, drug court, veterans court and in-jail treatment programs {gg_issues} {gg_about}.",
+   "Challenger Andrew L. Bennett's platform says violent crime in the county has increased by about 30% over the last six years {ab_platform}; Germann's campaign describes his approach as \"data-driven\" and says jail-based recovery programs have reduced recidivism {gg_issues} {gg_about}."
+  ]
+ },
+ "race_context": [
+  "Porter County forms Indiana's 67th Judicial Circuit; the prosecutor and deputies have been full-time, with no private practice, since 1991 {pc_pros}.",
+  "Incumbent Gary S. Germann was unopposed in the May 5, 2026 Democratic primary with 9,706 votes {enr26p}.",
+  "May 5, 2026 Republican primary (certified): Andrew L. Bennett 4,996 votes (62.4%), Harry Peterson 3,011 (37.6%) {enr26p}. Peterson, who announced his candidacy in July 2025 {nwi_peterson1}, had left the Porter County prosecutor's office for the LaPorte County prosecutor's office by September 2025, according to The Times of Northwest Indiana {nwi_peterson2}.",
+  "Both nominees are former Porter County prosecutors: Germann served as chief deputy from 1974 and was elected prosecutor in 1978, and later worked as a defense attorney {br_germann} {pc_pros} {gg_about}, and Bennett was a deputy prosecutor from 2001 to 2014 before going into private practice {br_bennett}.",
+  "Both candidates emphasize violent crime and expanding substance abuse and mental health services; Bennett stresses proactive policing partnerships and prevention, while Germann cites problem-solving courts and pretrial diversion already in place {ab_platform} {gg_issues}.",
+  "No general-election debate or forum coverage was found in freely available sources."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Andrew L. Bennett",
+   "summary": "Attorney in private practice and former Lake and Porter County deputy prosecutor who won the Republican nomination {br_bennett} {ab_home} {enr26p}.",
+   "website": "https://abennettforprosecutor.com/",
+   "background": [
+    "Attorney and president of Bennett & Catsadimas, P.C. (2019–present) and of his own law office (2016–present); attorney at Bockman & Associates (2014–2016) {br_bennett}.",
+    "Deputy prosecuting attorney in the Porter County Prosecutor's Office, 2001–2014 {br_bennett}; his campaign says he spent 16 years as a deputy prosecutor, beginning in Lake County in the drug unit and as an assistant supervisor in the county court division, followed by 13 years in Porter County's Portage and Valparaiso offices {ab_home}.",
+    "His campaign says he handled nearly all serious and fatal vehicle crash cases in Porter County and helped police with search warrants for blood evidence, vehicle data and searches {ab_home}.",
+    "J.D., Valparaiso University (1998) {br_bennett}."
+   ],
+   "path_to_ballot": [
+    "Filed for the Republican nomination Jan. 13, 2026 {sos_prim_list}; won the May 5, 2026 primary over Harry Peterson, 4,996 votes to 3,011 {enr26p}."
+   ],
+   "positions": [
+    {
+     "topic": "Violent crime",
+     "items": [
+      "Would assist local police agencies with proactive policing strategies to reduce violent crime, which his platform says has risen about 30% over six years {ab_platform}.",
+      "Would work with civic and business leaders to improve crime-prevention programs {br_bennett} {ab_platform}."
+     ]
+    },
+    {
+     "topic": "Drugs & treatment",
+     "items": [
+      "Would work with and expand access to substance abuse and mental health services, naming the Porter County Substance Abuse Council, the county Drunk Driving Task Force, Respite House and Moraine House {ab_platform} {br_bennett}."
+     ]
+    },
+    {
+     "topic": "Juvenile justice",
+     "items": [
+      "Would promote awareness of social media dangers among juveniles and help law enforcement offer programs that help parents recognize warning signs {ab_platform}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "His campaign website and platform page do not name Germann {ab_home} {ab_platform}. A campaign donation page identifies Germann as the opponent and calls for a change in the office's leadership without citing specific cases or decisions {donorbox}."
+   ],
+   "plans": [
+    "Partnerships with police agencies on proactive strategies against violent crime and drug issues {ab_home} {ab_platform}.",
+    "Stronger ties with substance abuse agencies, recovery homes and mental health providers {ab_home} {ab_platform}."
+   ],
+   "endorsements_finance": [
+    "No endorsements listed on his campaign site {ab_home}.",
+    "Campaign accepts online contributions through a donation page; no totals are shown {donorbox}. Campaign finance reports were not reviewed."
+   ],
+   "gaps": [
+    "The Times of Northwest Indiana's July 17, 2025 article on a third candidate entering the race is paywalled; who it described and what was said were not read.",
+    "Attorney-directory listings for an Andrew L. Bennett describe a criminal defense practice; these were seen only in search snippets and not used.",
+    "No forum, debate or questionnaire answers found.",
+    "Campaign finance totals not reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Gary S. Germann",
+   "summary": "Incumbent Porter County prosecutor, re-elected in 2022 and seeking another term; first elected prosecutor in 1978 and a former defense attorney {pc_pros} {br_germann}.",
+   "website": "https://www.garygermann.com/",
+   "background": [
+    "Porter County Prosecuting Attorney; elected in 1978, 2018 and 2022 {pc_pros}.",
+    "Chief deputy prosecuting attorney, 1974–1978; associate attorney at Harris and Walsh in Chesterton; instructor at Valparaiso University School of Law {br_germann}.",
+    "His campaign describes him as a former police officer and defense attorney who has lived in Porter County since 1970 {gg_about}.",
+    "J.D., Valparaiso University (1973); bachelor's degree in political science, Purdue University {br_germann}."
+   ],
+   "path_to_ballot": [
+    "Filed for the Democratic nomination Jan. 14, 2026 {sos_prim_list}; unopposed in the May 5, 2026 primary with 9,706 votes {enr26p}."
+   ],
+   "positions": [
+    {
+     "topic": "Violent crime",
+     "items": [
+      "Says he is committed to \"holding violent offenders accountable\" {gg_issues}."
+     ]
+    },
+    {
+     "topic": "Drugs & treatment",
+     "items": [
+      "Supports expanding drug court, mental health court and pretrial diversion for nonviolent cases {gg_issues}.",
+      "His campaign says nearly 70% of jail inmates struggle with addiction and that he has supported expanded jail-based recovery programs, including 12- and 24-week chemical dependency treatment {gg_issues}."
+     ]
+    },
+    {
+     "topic": "Victims' services",
+     "items": [
+      "Cites a sexual assault response team and courthouse \"soft spaces\" for victims and families {gg_issues}."
+     ]
+    },
+    {
+     "topic": "Charging priorities",
+     "items": [
+      "Lists online child exploitation and financial fraud targeting seniors as priorities, with work alongside Homeland Security and the Secret Service {gg_issues}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. His campaign says he returned to office \"to repair a fractured system and restore public confidence\" and that the office should be independent of partisan politics {gg_about}. No statements about Bennett found in sources reviewed."
+   ],
+   "plans": [
+    "Continue and expand problem-solving courts and pretrial diversion {gg_issues}.",
+    "Continue prosecution of online child exploitation and senior fraud, including public education forums {gg_issues}."
+   ],
+   "endorsements_finance": [
+    "No endorsements listed on his campaign site or BallotReady profile {br_germann}.",
+    "Campaign finance reports were not reviewed."
+   ],
+   "gaps": [
+    "Most Times of Northwest Indiana coverage of the office and race is paywalled; only headlines and summaries were read.",
+    "Office caseload, conviction-rate, staffing and budget figures were not found; a 2020 Post-Tribune report on his request for higher office salaries was not accessible.",
+    "No forum, debate or questionnaire answers found.",
+    "Campaign finance totals not reviewed."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "enr26p": [
+   "2026 Primary Election Results (certified): Prosecuting Attorney",
+   "Indiana Election Division",
+   "2026-05",
+   "https://enr.indianavoters.in.gov/archive/2026Primary/index.html"
+  ],
+  "enr22g": [
+   "2022 General Election Results: Prosecuting Attorney",
+   "Indiana Election Division",
+   "2022-11",
+   "https://enr.indianavoters.in.gov/archive/2022General/index.html"
+  ],
+  "sos_prim_list": [
+   "2026 Primary Candidate List",
+   "Indiana Election Division",
+   "2026-02-25",
+   "https://www.in.gov/sos/elections/files/Primay-Candidate-Mailing-List-2.25.2026.xlsx"
+  ],
+  "pc_pros": [
+   "Prosecutor",
+   "Porter County Government",
+   "2026-10",
+   "https://portercountyin.gov/200/Prosecutor"
+  ],
+  "br_germann": [
+   "Gary S. Germann",
+   "BallotReady",
+   "2026-10",
+   "https://www.ballotready.org/people/gary-s-germann"
+  ],
+  "br_bennett": [
+   "Andrew L. Bennett",
+   "BallotReady",
+   "2026-10",
+   "https://www.ballotready.org/people/andrew-l-bennett"
+  ],
+  "gg_issues": [
+   "Issues",
+   "Gary Germann for Porter County Prosecutor (campaign)",
+   "2026-10",
+   "https://www.garygermann.com/issues"
+  ],
+  "gg_about": [
+   "About",
+   "Gary Germann for Porter County Prosecutor (campaign)",
+   "2026-10",
+   "https://www.garygermann.com/about"
+  ],
+  "ab_home": [
+   "Andrew L. Bennett for Porter County Prosecutor",
+   "Committee to Elect Andrew Bennett (campaign)",
+   "2026-10",
+   "https://abennettforprosecutor.com/"
+  ],
+  "ab_platform": [
+   "Platform",
+   "Committee to Elect Andrew Bennett (campaign)",
+   "2026-10",
+   "https://abennettforprosecutor.com/platform"
+  ],
+  "donorbox": [
+   "Bennett for Prosecutor",
+   "Committee to Elect Andrew Bennett (Donorbox)",
+   "2026-10",
+   "https://donorbox.org/bennett-for-prosecutor"
+  ],
+  "nwi_2018": [
+   "Democrat Gary Germann unseats Republican Porter County prosecutor, but says it's time to drop labels",
+   "The Times of Northwest Indiana",
+   "2018-11-09",
+   "https://nwitimes.com/news/local/govt-and-politics/democrat-gary-germann-unseats-republican-porter-county-prosecutor-but-says-its-time-to-drop-labels/article_07983aea-4361-578c-9a3e-d88ecfe7faed.html"
+  ],
+  "nwi_2019": [
+   "New Porter County prosecutor brings in new faces and a hand out to those open to help",
+   "The Times of Northwest Indiana",
+   "2019-01-03",
+   "https://nwitimes.com/news/local/crime-courts/new-porter-county-prosecutor-brings-in-new-faces-and-a-hand-out-to-those-open/article_3cc454a9-ed36-5afc-904b-1e2d95ec7389.html"
+  ],
+  "nwi_peterson1": [
+   "Surprise challenge to Porter County prosecutor",
+   "The Times of Northwest Indiana",
+   "2025-07-14",
+   "https://nwitimes.com/news/local/crime-courts/article_81328dda-62aa-475b-a029-935990e1f69c.html"
+  ],
+  "nwi_peterson2": [
+   "Porter County prosecutor seeking top job leaves the office",
+   "The Times of Northwest Indiana",
+   "2025-09-18",
+   "https://nwitimes.com/news/local/crime-courts/article_627a29ef-ca42-48b6-98ca-43ddfb32ba73.html"
+  ]
+ }
+}

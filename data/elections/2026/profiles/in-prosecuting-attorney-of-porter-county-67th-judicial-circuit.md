@@ -1,0 +1,206 @@
+# Indiana Prosecuting Attorney — 2026 race profile
+
+_Researched 2026-10-11 · status: draft._ Pending editorial review.
+
+## About the office
+
+The prosecuting attorney is the elected lawyer who brings criminal cases on behalf of the State of Indiana, conducting all prosecutions for felonies, misdemeanors and infractions within the prosecutor's jurisdiction [1]. A prosecutor is elected in each judicial circuit rather than by county, and Indiana has 91 prosecuting attorneys [2, 3]. Candidates must be admitted to practice law in Indiana before the election [4]. Since July 2025, a state prosecutor review board can investigate complaints that a prosecutor is not following state law [5, 6].
+
+- **Term:** 4 years; prosecutors are elected in 2026, 2030, 2034 and every four years after that [2]
+- **Elected:** One prosecutor per judicial circuit, on the partisan November ballot; Democratic and Republican nominees are chosen in the May primary, while the Libertarian Party nominates prosecutor candidates at its state convention [2, 4]
+- **Term limit:** None; the office has a four-year term with no term limitations [7]
+- **Qualifications:** Must be admitted to the practice of law in Indiana before the election, be registered to vote in the election district by the candidate filing deadline, and file a statement of economic interest with the courts [4]
+- **Pay:** The state pays the minimum salary: for a full-time prosecutor, equal to the minimum salary of the circuit court judge in the same circuit, and 60% (66% in certain circuits) of that amount for other prosecutors [8]
+- **On the 2026 ballot:** 91 races; 11 contested [9]
+
+### What the office does
+
+- Conducts all prosecutions for felonies, misdemeanors and infractions within the prosecutor's jurisdiction, and performs other duties required by law [1].
+- Represents the state in criminal cases, conducts criminal investigations, and convenes and oversees grand juries [7].
+- Handles juvenile cases and prosecutes traffic and infraction violations [7].
+- Enforces child support orders entered in divorce and paternity cases; the Indiana Prosecuting Attorneys Council runs a statewide child support services program to support this work [7, 3].
+- Gives information and help to crime victims [7], and must notify the victim when the prosecutor withholds prosecution under a diversion agreement [10].
+- May withhold prosecution of a misdemeanor, Level 6 felony or Level 5 felony if the person agrees in writing to a pretrial diversion program, with conditions such as treatment, restitution, fees or staying away from the victim; the program is not available for certain drunk-driving charges [10].
+- Superintends lawsuits in which the county or certain trust funds have an interest [1].
+- Appoints a chief deputy and other deputy prosecutors; the state pays set salaries for certain deputies, and the county council appropriates money each year for other deputies, investigators, clerical staff and office expenses [11].
+- Works with the county sheriff, a separately elected officer who arrests suspects and runs the county jail, and with local police agencies [12, 13].
+- Receives training, manuals and legal research support from the Indiana Prosecuting Attorneys Council, a state judicial branch agency governed by a board of 10 elected prosecutors [3].
+- Since July 2025, can be the subject of a complaint to the state prosecutor review board, a board of five prosecuting attorneys that investigates whether a prosecutor is complying with state law and issues a report [6, 5].
+- What the prosecutor does not control: judges decide whether a defendant is released on bail [14]; the county council appropriates the county's share of the office budget [11]; and the state sets the prosecutor's minimum salary [8].
+
+### Recent changes to the office
+
+- March 2023: Senate Bill 284, which would have set up a procedure to appoint a special prosecutor when a prosecutor refuses to enforce a law, passed a House committee 9-4 and was sent to the Ways and Means Committee; the Indiana Prosecuting Attorneys Council supported that bill and the ACLU opposed it [15].
+- February 2025: As passed by the House 72-24, House Bill 1006 would have created a board to investigate prosecutors who categorically refuse to prosecute laws and required the Prosecuting Attorneys Council to withhold certain funding from a prosecutor labeled noncompliant; author Rep. Chris Jeter (R-Fishers) said it is lawmakers' job to make the law and prosecutors' job to enforce it, while Rep. Matt Pierce (D-Bloomington) said voters decide every four years how prosecutors use their resources [16].
+- May 2025: Gov. Mike Braun signed House Enrolled Act 1006 (Public Law 147-2025), which took effect July 1, 2025, and established the prosecutor review board [17, 5, 18].
+- July 2025: Mirror Indy reported that under the enacted law anyone can file a complaint, a board of five prosecuting attorneys investigates, and the law does not specify consequences beyond the board's report; Marion County Prosecutor Ryan Mears told Fox59 the law was deliberately targeted at his office, Jeter called it a step toward holding prosecutors accountable, and Chris Naylor of the Prosecuting Attorneys Council said his group did not oppose this version [6].
+- 2025: House Enrolled Act 1006 also requires that two members of the Indiana Commission on Court Appointed Attorneys be trial court judges [5].
+- November 2026: Public Question 1 asks voters whether to amend the Indiana Constitution so courts can deny bail, for offenses other than murder or treason, when the state proves by clear and convincing evidence that no release conditions will reasonably protect others or the community [19].
+- 2026: On the bail question, author Sen. Eric Koch (R-Bedford) said releasing some defendants before trial is too dangerous to public safety, while Samantha Bresnahan of the ACLU of Indiana said detention can cost someone their job, housing and custody of their children, and Zach Stock of the Indiana Public Defender Council raised concerns about jail overcrowding [14].
+
+## Current officeholder: Gary S. Germann (Democratic)
+
+Germann, who first served as Porter County prosecutor after the 1978 election, returned to the office after unseating the Republican incumbent in 2018 and was re-elected in 2022; he is seeking another term [20, 21, 22].
+
+- 1974–1978: Chief deputy prosecuting attorney in Porter County [23]; elected prosecutor in 1978 [20].
+- November 2018: Unseated the Republican incumbent prosecutor [21]; took office in January 2019 and made staff changes on his first day, according to The Times of Northwest Indiana [24].
+- November 2022: Re-elected without a Republican opponent, receiving 42,802 votes [22].
+- The office runs an adult pretrial diversion program, an infraction deferral program, a domestic violence unit, juvenile and child support divisions and a victim assistance program, with offices in Valparaiso and Portage [20].
+- Germann's campaign says that under his leadership the office helped launch a sexual assault response team, is building trauma-informed "soft spaces" in the courthouse for victims, and has supported restoration court, drug court, veterans court and in-jail treatment programs [25, 26].
+- Challenger Andrew L. Bennett's platform says violent crime in the county has increased by about 30% over the last six years [27]; Germann's campaign describes his approach as "data-driven" and says jail-based recovery programs have reduced recidivism [25, 26].
+
+## This race
+
+- Porter County forms Indiana's 67th Judicial Circuit; the prosecutor and deputies have been full-time, with no private practice, since 1991 [20].
+- Incumbent Gary S. Germann was unopposed in the May 5, 2026 Democratic primary with 9,706 votes [28].
+- May 5, 2026 Republican primary (certified): Andrew L. Bennett 4,996 votes (62.4%), Harry Peterson 3,011 (37.6%) [28]. Peterson, who announced his candidacy in July 2025 [29], had left the Porter County prosecutor's office for the LaPorte County prosecutor's office by September 2025, according to The Times of Northwest Indiana [30].
+- Both nominees are former Porter County prosecutors: Germann served as chief deputy from 1974 and was elected prosecutor in 1978, and later worked as a defense attorney [23, 20, 26], and Bennett was a deputy prosecutor from 2001 to 2014 before going into private practice [31].
+- Both candidates emphasize violent crime and expanding substance abuse and mental health services; Bennett stresses proactive policing partnerships and prevention, while Germann cites problem-solving courts and pretrial diversion already in place [27, 25].
+- No general-election debate or forum coverage was found in freely available sources.
+
+## Andrew L. Bennett
+
+Attorney in private practice and former Lake and Porter County deputy prosecutor who won the Republican nomination [31, 32, 28].
+
+Campaign website: https://abennettforprosecutor.com/
+
+### Background
+
+- Attorney and president of Bennett & Catsadimas, P.C. (2019–present) and of his own law office (2016–present); attorney at Bockman & Associates (2014–2016) [31].
+- Deputy prosecuting attorney in the Porter County Prosecutor's Office, 2001–2014 [31]; his campaign says he spent 16 years as a deputy prosecutor, beginning in Lake County in the drug unit and as an assistant supervisor in the county court division, followed by 13 years in Porter County's Portage and Valparaiso offices [32].
+- His campaign says he handled nearly all serious and fatal vehicle crash cases in Porter County and helped police with search warrants for blood evidence, vehicle data and searches [32].
+- J.D., Valparaiso University (1998) [31].
+
+### Path to the ballot
+
+- Filed for the Republican nomination Jan. 13, 2026 [33]; won the May 5, 2026 primary over Harry Peterson, 4,996 votes to 3,011 [28].
+
+### Positions & plans
+
+**Violent crime**
+
+- Would assist local police agencies with proactive policing strategies to reduce violent crime, which his platform says has risen about 30% over six years [27].
+- Would work with civic and business leaders to improve crime-prevention programs [31, 27].
+
+**Drugs & treatment**
+
+- Would work with and expand access to substance abuse and mental health services, naming the Porter County Substance Abuse Council, the county Drunk Driving Task Force, Respite House and Moraine House [27, 31].
+
+**Juvenile justice**
+
+- Would promote awareness of social media dangers among juveniles and help law enforcement offer programs that help parents recognize warning signs [27].
+
+### On the current officeholder
+
+- His campaign website and platform page do not name Germann [32, 27]. A campaign donation page identifies Germann as the opponent and calls for a change in the office's leadership without citing specific cases or decisions [34].
+
+### How they say they'd run the office
+
+- Partnerships with police agencies on proactive strategies against violent crime and drug issues [32, 27].
+- Stronger ties with substance abuse agencies, recovery homes and mental health providers [32, 27].
+
+### Endorsements & fundraising
+
+- No endorsements listed on his campaign site [32].
+- Campaign accepts online contributions through a donation page; no totals are shown [34]. Campaign finance reports were not reviewed.
+
+### What we couldn't verify
+
+- The Times of Northwest Indiana's July 17, 2025 article on a third candidate entering the race is paywalled; who it described and what was said were not read.
+- Attorney-directory listings for an Andrew L. Bennett describe a criminal defense practice; these were seen only in search snippets and not used.
+- No forum, debate or questionnaire answers found.
+- Campaign finance totals not reviewed.
+
+## Gary S. Germann
+
+Incumbent Porter County prosecutor, re-elected in 2022 and seeking another term; first elected prosecutor in 1978 and a former defense attorney [20, 23].
+
+Campaign website: https://www.garygermann.com/
+
+### Background
+
+- Porter County Prosecuting Attorney; elected in 1978, 2018 and 2022 [20].
+- Chief deputy prosecuting attorney, 1974–1978; associate attorney at Harris and Walsh in Chesterton; instructor at Valparaiso University School of Law [23].
+- His campaign describes him as a former police officer and defense attorney who has lived in Porter County since 1970 [26].
+- J.D., Valparaiso University (1973); bachelor's degree in political science, Purdue University [23].
+
+### Path to the ballot
+
+- Filed for the Democratic nomination Jan. 14, 2026 [33]; unopposed in the May 5, 2026 primary with 9,706 votes [28].
+
+### Positions & plans
+
+**Violent crime**
+
+- Says he is committed to "holding violent offenders accountable" [25].
+
+**Drugs & treatment**
+
+- Supports expanding drug court, mental health court and pretrial diversion for nonviolent cases [25].
+- His campaign says nearly 70% of jail inmates struggle with addiction and that he has supported expanded jail-based recovery programs, including 12- and 24-week chemical dependency treatment [25].
+
+**Victims' services**
+
+- Cites a sexual assault response team and courthouse "soft spaces" for victims and families [25].
+
+**Charging priorities**
+
+- Lists online child exploitation and financial fraud targeting seniors as priorities, with work alongside Homeland Security and the Secret Service [25].
+
+### On the current officeholder
+
+- Is the current officeholder. His campaign says he returned to office "to repair a fractured system and restore public confidence" and that the office should be independent of partisan politics [26]. No statements about Bennett found in sources reviewed.
+
+### How they say they'd run the office
+
+- Continue and expand problem-solving courts and pretrial diversion [25].
+- Continue prosecution of online child exploitation and senior fraud, including public education forums [25].
+
+### Endorsements & fundraising
+
+- No endorsements listed on his campaign site or BallotReady profile [23].
+- Campaign finance reports were not reviewed.
+
+### What we couldn't verify
+
+- Most Times of Northwest Indiana coverage of the office and race is paywalled; only headlines and summaries were read.
+- Office caseload, conviction-rate, staffing and budget figures were not found; a 2020 Post-Tribune report on his request for higher office salaries was not accessible.
+- No forum, debate or questionnaire answers found.
+- Campaign finance totals not reviewed.
+
+## Sources
+
+1. [Indiana Code 33-39-1-5: Duties of prosecuting attorneys](https://codes.findlaw.com/in/title-33-courts-and-court-officers/in-code-sect-33-39-1-5/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-11
+2. [Indiana Code 3-10-2-12: Election of prosecuting attorneys](https://codes.findlaw.com/in/title-3-elections/in-code-sect-3-10-2-12/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-11
+3. [Indiana Prosecuting Attorneys Council](https://www.in.gov/ipac/) — Indiana Prosecuting Attorneys Council, accessed 2026-10-11
+4. [2026 Indiana Candidate Guide (Prosecuting Attorney)](https://www.in.gov/dA/1eada35c3e/2026-Candidate-Guide.FINAL.pdf) — Indiana Election Division, accessed 2026-10-11
+5. [Prosecutors (H.E.A. 1006, P.L. 147-2025)](https://legislativeupdate.courts.in.gov/2025/05/16/prosecutors-5/) — Indiana Legislative Update, Indiana Office of Court Services, 2025-05-16
+6. [How a new Indiana law about 'noncompliant prosecutors' could affect Indy](https://mirrorindy.org/marion-county-prosecutor-ryan-mears-bill-indianapolis/) — Mirror Indy, 2025-07-14
+7. [Prosecutor's Office](https://www.clarkcounty.in.gov/~ccounty/index.php/clark-county-indiana-government/clark-county-indiana-prosecutor-s-office) — Clark County, Indiana, accessed 2026-10-11
+8. [Indiana Code 33-39-6-5: Prosecuting attorney salaries](https://codes.findlaw.com/in/title-33-courts-and-court-officers/in-code-sect-33-39-6-5/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-11
+9. [2026 General Election Candidate List](https://www.in.gov/sos/elections/candidate-information/) — Indiana Election Division, 2026-09-22
+10. [Indiana Code 33-39-1-8: Pretrial diversion](https://codes.findlaw.com/in/title-33-courts-and-court-officers/in-code-sect-33-39-1-8/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-11
+11. [Indiana Code 33-39-6-2: Deputy prosecuting attorneys](https://codes.findlaw.com/in/title-33-courts-and-court-officers/in-code-sect-33-39-6-2/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-11
+12. [Indiana Code 36-2-13-5: Duties of sheriff](https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-2-13-5/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-11
+13. [2026 ISA President Statement (Jeffrey A. Balon, Porter County Sheriff)](https://indianasheriffs.org/wp-content/uploads/2026/01/2026-ISA-President-Statement.pdf) — Indiana Sheriffs' Association, 2026-01
+14. [Amendment to deny bail to some offenders moves closer to November ballot](https://www.ipm.org/news/2026-02-11/amendment-to-deny-bail-to-some-offenders-moves-closer-to-november-ballot) — WFYI (via Indiana Public Media), 2026-02-11
+15. [Noncompliant prosecuting attorneys (SB 284)](https://legislativeupdate.courts.in.gov/2023/03/31/noncompliant-prosecuting-attorneys-2) — Indiana Legislative Update, Indiana Office of Court Services, 2023-03-31
+16. [Indiana House OKs bill that could give county prosecutors less discretion](https://theindianalawyer.com/?p=232394) — Indiana Capital Chronicle (via The Indiana Lawyer), 2025-02-20
+17. [IN HB1006 (2025): Prosecutors](https://www.billtrack50.com/billdetail/1781144) — BillTrack50, accessed 2026-10-11
+18. [Michiana-area lawmaker supports new bill aiming to hold prosecutors accountable](https://www.wndu.com/2025/08/04/michiana-area-lawmaker-supports-new-bill-aiming-hold-prosecutors-accountable) — WNDU, 2025-08-04
+19. [Indiana bail amendment clears General Assembly, sending detention question to November ballot](https://indypolitics.org/indiana-bail-amendment-clears-general-assembly-sending-detention-question-to-november-ballot/) — IndyPolitics.Org (reporting by Indiana Capital Chronicle), 2026-02-17
+20. [Prosecutor](https://portercountyin.gov/200/Prosecutor) — Porter County Government, 2026-10
+21. [Democrat Gary Germann unseats Republican Porter County prosecutor, but says it's time to drop labels](https://nwitimes.com/news/local/govt-and-politics/democrat-gary-germann-unseats-republican-porter-county-prosecutor-but-says-its-time-to-drop-labels/article_07983aea-4361-578c-9a3e-d88ecfe7faed.html) — The Times of Northwest Indiana, 2018-11-09
+22. [2022 General Election Results: Prosecuting Attorney](https://enr.indianavoters.in.gov/archive/2022General/index.html) — Indiana Election Division, 2022-11
+23. [Gary S. Germann](https://www.ballotready.org/people/gary-s-germann) — BallotReady, 2026-10
+24. [New Porter County prosecutor brings in new faces and a hand out to those open to help](https://nwitimes.com/news/local/crime-courts/new-porter-county-prosecutor-brings-in-new-faces-and-a-hand-out-to-those-open/article_3cc454a9-ed36-5afc-904b-1e2d95ec7389.html) — The Times of Northwest Indiana, 2019-01-03
+25. [Issues](https://www.garygermann.com/issues) — Gary Germann for Porter County Prosecutor (campaign), 2026-10
+26. [About](https://www.garygermann.com/about) — Gary Germann for Porter County Prosecutor (campaign), 2026-10
+27. [Platform](https://abennettforprosecutor.com/platform) — Committee to Elect Andrew Bennett (campaign), 2026-10
+28. [2026 Primary Election Results (certified): Prosecuting Attorney](https://enr.indianavoters.in.gov/archive/2026Primary/index.html) — Indiana Election Division, 2026-05
+29. [Surprise challenge to Porter County prosecutor](https://nwitimes.com/news/local/crime-courts/article_81328dda-62aa-475b-a029-935990e1f69c.html) — The Times of Northwest Indiana, 2025-07-14
+30. [Porter County prosecutor seeking top job leaves the office](https://nwitimes.com/news/local/crime-courts/article_627a29ef-ca42-48b6-98ca-43ddfb32ba73.html) — The Times of Northwest Indiana, 2025-09-18
+31. [Andrew L. Bennett](https://www.ballotready.org/people/andrew-l-bennett) — BallotReady, 2026-10
+32. [Andrew L. Bennett for Porter County Prosecutor](https://abennettforprosecutor.com/) — Committee to Elect Andrew Bennett (campaign), 2026-10
+33. [2026 Primary Candidate List](https://www.in.gov/sos/elections/files/Primay-Candidate-Mailing-List-2.25.2026.xlsx) — Indiana Election Division, 2026-02-25
+34. [Bennett for Prosecutor](https://donorbox.org/bennett-for-prosecutor) — Committee to Elect Andrew Bennett (Donorbox), 2026-10

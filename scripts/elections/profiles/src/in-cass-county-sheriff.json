@@ -1,0 +1,137 @@
+{
+ "race_id": "in-cass-county-sheriff",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_sheriff",
+ "incumbent": {
+  "name": "Edward (Ed) C. Schroder",
+  "party": "Republican",
+  "summary": "Republican Ed Schroder is the current Cass County sheriff. He was first elected in 2018 and re-elected without opposition in 2022. He is not on the 2026 ballot, so the seat is open; the Pharos-Tribune reported in February 2026 that \"Cass County will have a new sheriff next year\" {cass_sheriff_page} {res2018} {res2022} {pt_feb12} {in_list}.",
+  "record": [
+   "November 2018: Elected sheriff over Democrat Dale Campbell. A sum of the county's official precinct-level results gives Schroder about 7,036 votes to Campbell's 4,487 (about 61%) {res2018}.",
+   "January 5, 2022: Announced a bid for a second term. In his release he said he had \"improved administrative processes, modernized equipment, updated policies and added a fingerprinting service,\" that staff had \"worked diligently to be fiscally conservative while enhancing public safety,\" and that he had been busy with \"the jail addition construction that started before I began my first term\" {cco_2022}.",
+   "Jail addition: The county's sheriff's office addition and renovation, owned by the Cass County Government Building Corporation and listing Schroder as sheriff, is described by its detention-equipment contractor as an $18 million, 47,000-square-foot project adding more than 150 beds for a total of more than 360, \"to prevent future overcrowding.\" The contractor's page gives no dates {pauly_jail}.",
+   "November 2022: Re-elected without opposition, with 7,242 votes in the unofficial county count {res2022}.",
+   "Before February 2024: After an inmate briefly escaped from the Cass County Detention Center and was recaptured the same day, Schroder said in a press release that the incident \"will trigger scrutiny of all policies and practices as well as an after-action review\" {fox59_escape}.",
+   "July 2026: With Prosecutor Noah Schafer, announced deputies would have \"an active presence throughout the fairgrounds\" at the county fair to enforce a new state law barring serious sex offenders from events aimed at minors {cco_fair2026}."
+  ]
+ },
+ "race_context": [
+  "Cass County (county seat: Logansport) will elect a new sheriff on Nov. 3, 2026. Sheriff Ed Schroder, in office since 2019 after winning in 2018 and 2022, is not on the ballot {res2018} {res2022} {pt_feb12} {in_list}.",
+  "Four candidates filed: Republicans Dale Campbell (a lieutenant in the sheriff's office), Ryan Preston (a narcotics detective in the sheriff's office) and Brian Swartzell (a school resource officer), and Democrat A.J. Rozzi (a former Logansport police chief) {pt_feb12} {cass_sheriff_page}.",
+  "May 5, 2026 primary (unofficial county results): Preston won the Republican nomination with 1,798 votes (49.4%), ahead of Swartzell with 1,166 (32.0%) and Campbell with 678 (18.6%). Rozzi was unopposed for the Democratic nomination with 1,025 votes {res2026p}.",
+  "Both general-election candidates have local police backgrounds: Preston has worked in the sheriff's office since 2016 after starting with the Logansport Police Department in 2009, and Rozzi spent 35 years with the Logansport Police Department, including four years as chief {pt_feb12} {preston_exp}.",
+  "Stated priorities differ in emphasis. Preston focuses on mental health and addiction, including services for inmates, and on recruiting and keeping staff. Rozzi focuses on community relations (published office policies and county listening sessions), a review of the office's role in the Cass County Drug Task Force, rehabilitation programs and officer mentoring {preston_meet} {pt_feb12}.",
+  "No general-election forums or debates were found in sources reviewed."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "August (Aj) Rozzi, Jr",
+   "summary": "Democrat A.J. Rozzi is a part-time security officer at Ivy Tech Community College in Logansport. He spent 35 years with the Logansport Police Department, including four years as chief {pt_feb12}.",
+   "website": null,
+   "background": [
+    "Current job: part-time security officer at Ivy Tech Community College in Logansport {pt_feb12}.",
+    "Served 35 years with the Logansport Police Department in a range of roles, including four years as chief {pt_feb12}."
+   ],
+   "path_to_ballot": [
+    "Was the only Democrat to file for sheriff before the February 2026 filing deadline {pt_feb12}.",
+    "Won the May 5, 2026 Democratic primary unopposed, with 1,025 votes (unofficial results) {res2026p}."
+   ],
+   "positions": [
+    {"topic": "Transparency", "items": [
+     "Lists \"improving law enforcement's relationship with the community\" as a priority. As reported from his campaign site, this includes \"developing and publishing the office's policies for consistency and establishing Cass County listening sessions\" {pt_feb12}."
+    ]},
+    {"topic": "Drugs", "items": [
+     "Plans to \"evaluate the Sheriff's Office's roles within the Cass County Drug Task Force,\" with the goal of \"disrupting trafficking networks and dealers\" {pt_feb12}."
+    ]},
+    {"topic": "Jail & corrections", "items": [
+     "Plans to \"improve drug rehabilitation programs and support during incarceration\" {pt_feb12}."
+    ]},
+    {"topic": "Staffing & pay", "items": [
+     "Supports stronger mentoring and field training for officers, citing research that \"mentorship programs for law enforcement is able to create better officers\" {pt_feb12}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Open seat. No statements by Rozzi about Sheriff Schroder's record or about his opponent were found in sources reviewed."
+   ],
+   "plans": [
+    "Publish the sheriff's office's policies and hold county listening sessions {pt_feb12}.",
+    "Review the office's role in the Cass County Drug Task Force {pt_feb12}.",
+    "Improve drug rehabilitation programs and support for people in jail {pt_feb12}.",
+    "Strengthen mentoring and field training for officers {pt_feb12}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign-finance reports were found in sources reviewed."
+   ],
+   "gaps": [
+    "Campaign website not found. The Pharos-Tribune (via Yahoo) quotes \"his site,\" but its address was not located.",
+    "Dates of his Logansport Police Department service and of his time as chief were not found in sources read in full. A search-result snippet of an undated Pharos-Tribune article (paywalled, not read) says A.J. Rozzi succeeded Randy Rozzi as chief; unverified.",
+    "No statements found on jail staffing, budget, school resource officers or immigration-detainer agreements.",
+    "No endorsements or fundraising reports found.",
+    "Coverage of his campaign is thin; most detail comes from one February 2026 article."
+   ]
+  },
+  {
+   "ballot_name": "Ryan Preston",
+   "summary": "Republican Ryan Preston is a narcotics detective in the Cass County Sheriff's Office with about 16 years in local law enforcement. He won a three-way Republican primary in May 2026 {pt_feb12} {res2026p}.",
+   "website": "https://ryanprestonforsheriff.com/",
+   "background": [
+    "Current job: narcotics detective with the Cass County Sheriff's Office {pt_feb12}.",
+    "Served eight years in the U.S. Marine Corps after enlisting in 2000, including a combat tour in Kabul, Afghanistan, about three years as a recruiter, and service as a platoon sergeant, according to his campaign site {preston_exp}.",
+    "Hired by the Logansport Police Department in 2009 and attended the Indiana Law Enforcement Academy in 2010. Roles there included patrolman, school resource officer at Lincoln Middle School, field training officer and pension board secretary, plus work with the Meth Suppression Unit {preston_exp}.",
+    "Joined the Cass County Sheriff's Office in 2016. Roles there include deputy, school resource officer at Lewis Cass, K9 handler for eight years, and detective {preston_exp}.",
+    "Also lists himself as a youth leader at Cornerstone Community Bible Church and co-owner of The Gathering Grounds coffee and ice cream shop in Walton {preston_meet}."
+   ],
+   "path_to_ballot": [
+    "Filed as one of three Republican candidates before the February 2026 deadline {pt_feb12}.",
+    "Won the May 5, 2026 Republican primary with 1,798 votes (49.4%) over Brian Swartzell (1,166) and Dale Campbell (678), per unofficial county results {res2026p}."
+   ],
+   "positions": [
+    {"topic": "Jail & corrections", "items": [
+     "Says he is \"committed to working with mental health and drug addiction professionals in our community and surrounding areas\" so that inmates receive services {preston_meet} {pt_feb12}."
+    ]},
+    {"topic": "Drugs", "items": [
+     "Puts \"a key emphasis on addressing both the mental health and drug crises,\" including \"providing ongoing support to addicts, so that they are able to break free of addiction\" {preston_meet}."
+    ]},
+    {"topic": "Staffing & pay", "items": [
+     "Says his Marine Corps recruiting experience will help him \"not only identify, but also attract top talent\" to work at the sheriff's office and jail, and stresses \"seeking and maintaining quality candidates\" {preston_meet} {preston_exp} {pt_feb12}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Open seat. Preston's campaign site says he would \"build on the strong foundation of our current administration\" {preston_meet}. No statements about his opponent were found."
+   ],
+   "plans": [
+    "Work with regional mental-health and addiction professionals on services for inmates {preston_meet}.",
+    "Focus recruiting and retention on the sheriff's office and jail {preston_meet} {preston_exp}.",
+    "Lead with \"a hands-on, proactive leadership approach\" {preston_meet}."
+   ],
+   "endorsements_finance": [
+    "Campaign site lists endorsements from U.S. Rep. Jim Baird, Howard County Sheriff Jerry Asher, and \"Travis Yike & Jacob Pomasl,\" identified as retired Logansport police chief and Logansport mayor {preston_end}.",
+    "No campaign-finance reports were found in sources reviewed."
+   ],
+   "gaps": [
+    "No statements found on jail capacity, budget requests, school resource officers, immigration-detainer agreements or transparency.",
+    "Campaign site lists only 2025 meet-and-greet events; no forums or debates found.",
+    "Endorsement names are as spelled on the campaign site; a search snippet spells the former Logansport chief's surname differently (unverified).",
+    "Search snippets of a paywalled Pharos-Tribune article say he held a primary-night watch party at his Walton coffee shop; not read.",
+    "No fundraising reports found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "pt_feb12": ["Four register as candidates for Cass County Sheriff (by James Bennett III; via Yahoo News)", "Pharos-Tribune (Logansport)", "2026-02-12", "https://www.yahoo.com/news/articles/four-register-candidates-cass-county-014700548.html"],
+  "res2026p": ["Cass County 2026 Primary Election, Cumulative Results Report (unofficial)", "Cass County, Indiana", "2026-05-05", "https://secure.in.gov/counties/cass/files/UNOFFICIAL-CASS-COUNTY-2026-RESULTS.pdf"],
+  "res2018": ["2018 Cass County General Election, Precinct Report (official)", "Cass County, Indiana", "2018-11-16", "https://www.in.gov/counties/cass/files/2018-general-official-results.pdf"],
+  "res2022": ["2022 General Election, Cumulative Results Report (unofficial)", "Cass County, Indiana", "2022-11-08", "https://www.in.gov/counties/cass/files/UNOFFICIAL-CASS-COUNTY-2022-RESULTS.pdf"],
+  "cass_sheriff_page": ["Sheriff's Office", "Cass County, Indiana", "2026-10", "https://www.in.gov/counties/cass/departments/sheriffs-office/"],
+  "cco_2022": ["Schroder to seek second term as Cass County Sheriff", "Cass County Online", "2022-01-05", "https://www.casscountyonline.com/2022/01/schroder-to-seek-second-term-as-cass-county-sheriff/"],
+  "cco_fair2026": ["Cass County Prosecutor and Sheriff put sex offenders on notice about county fair attendance", "Cass County Online", "2026-07-02", "https://www.casscountyonline.com/2026/07/cass-county-prosecutor-and-sheriff-put-sex-offenders-on-notice-about-county-fair-attendance/"],
+  "pauly_jail": ["Cass County Sheriff's Office Addition & Renovation - Logansport, IN", "Pauly Jail Building Company", "2026-10", "https://www.paulyjail.com/cass-county-sheriff-s-office-addition-and-renovation"],
+  "fox59_escape": ["Inmate briefly escapes from Cass County Detention Center", "FOX59", "2023", "https://fox59.com/news/inmate-briefly-escapes-from-cass-county-detention-center/amp/"],
+  "preston_meet": ["Meet Ryan Preston", "Ryan Preston for Sheriff (campaign site)", "2026-10", "https://ryanprestonforsheriff.com/meet-ryan-preston/"],
+  "preston_exp": ["Experience", "Ryan Preston for Sheriff (campaign site)", "2026-10", "https://ryanprestonforsheriff.com/experience/"],
+  "preston_end": ["Endorsements", "Ryan Preston for Sheriff (campaign site)", "2026-10", "https://ryanprestonforsheriff.com/endorsements/"]
+ }
+}
