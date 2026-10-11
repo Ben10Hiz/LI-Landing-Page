@@ -157,6 +157,8 @@ SEAT_OVERRIDES = {
     "Warrick County School Board": 4,                          # VOTE411 / Ballot Brief
     "Hobart School Board, At Large": 4,                        # Lake County sample ballot
     "West Lafayette Community School Board": 3,                # Journal & Courier / district
+    "Clay Community School Board, At Large (Clay, Parke)": 3,  # Brazil Times / county ballot
+    "Delaware Yorktown Community School Board, Mt Pleasant Twp": 3,  # Delaware County ballot
 }
 
 

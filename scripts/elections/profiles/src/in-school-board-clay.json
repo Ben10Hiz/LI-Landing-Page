@@ -1,0 +1,424 @@
+{
+ "race_id": "in-school-board-clay",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The district: Clay Community Schools, based in Brazil, serves parts of Clay and Parke counties; Ballotpedia reports 4,114 students in 10 schools in the 2023-24 school year {bp_clay}. The district lists ten schools, including Northview High School and Clay City Jr./Sr. High School {ccs_supt}. Dr. Brady Scott, formerly assistant superintendent, is superintendent; the board considered his contract, starting July 1, 2026 with a $187,000 base salary, in May 2026 after Dr. Tim Rayle announced his retirement {ccs_supt}{bt_scott}.",
+  "The board has seven members serving four-year terms {bp_clay}. Four members are elected from districts 1–4, which were on the ballot in November 2024, and three are elected at large, last chosen in November 2022 {bp_clay_elections}{bt_2024_results}{clay_2022_results}. Current members are Tom Reberger (president), Dr. Michael Shaw (vice president), Charley Jackson (secretary), Amy Burke Adams (assistant secretary), Andrea Baysinger, Dr. David Bess and Cheryl Schopmeyer {ccs_board}.",
+  "Seats on the 2026 ballot: three at-large seats, so voters may choose up to three, not one as shown on the state list {bt_filing}{bp_clay_elections}{in_list}. The seats are held by Cheryl Schopmeyer, Amy Burke Adams and Charley Jackson, and all three are running again {bt_filing}. Schopmeyer and Burke Adams won at-large seats in 2022; Jackson finished fifth in that race and joined the board later (Ballotpedia lists him as taking office in 2024) {clay_2022_results}{bp_clay}.",
+  "Party labels: this is the first Indiana school board election in which candidates may list a party under Public Law 195 (formerly Senate Bill 287); the Clay County Election Office reported that Mike Ames filed as an Independent and the other six as Republicans {bt_filing}.",
+  "Budget and taxes (2026): at a May 2026 meeting, Board President Tom Reberger said bonds were being issued for capital projects ahead of a statewide restructuring of school funds, and member Dr. David Bess noted that other districts were turning to tax referendums {bt_scott}. At the Sept. 10, 2026 meeting, Szabo, who presented financial items to the board, said he anticipated a tax rate of about 88 cents per $100 of assessed value {bt_sept_meeting}.",
+  "Transportation (2026): the board held a public hearing on Sept. 10, 2026 on an amended bus replacement plan, after Reberger raised concerns about interest and depreciation tied to seven spare buses; the district posted a call for bus drivers two days earlier {bt_forum}.",
+  "Facilities (May 2026): the board heard estimates for North Clay gym floor work ($38,000–$275,000) and possible artificial turf baseball and softball fields at Northview and Clay City (up to $1.5 million for a full baseball field); Jackson said he requested the presentation after spring rainouts, and Burke Adams asked about the timing given expected funding challenges {bt_scott}.",
+  "Academics and accountability (2026): in April 2026 Scott briefed the board on Indiana's new A–F school grading model, with 2025-26 as a 'year zero', and said attendance policies were being tightened {bt_grades}. The district reported a 96.9% IREAD pass rate for 2026 {bt_sept_meeting}. The board is carrying out a 2026–2031 Academic Strategic Plan {bt_forum}.",
+  "Forums: the Brazil Public Library and The Brazil Times held a candidate forum on Sept. 24, 2026 with reader-submitted questions {bt_forum_notice}{bt_forum}. Six candidates attended; Jackson did not {bt_forum}. Main differences there: Burke Adams said the district was not discussing staff cuts or school closings and backed its one-to-one Chromebook program, while most other candidates called for limits on classroom device use; Rickert proposed reviewing administrator pay, Crafton raised replacing property taxes with other taxes, Ames and Karn Clodfelter called for changes to public comment at board meetings {bt_forum}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Amy Burke Adams",
+   "seat": "At Large",
+   "summary": "Incumbent at-large member and board assistant secretary, first elected in 2022 {clay_2022_results}{ccs_board}.",
+   "website": null,
+   "background": [
+    "Is the board's assistant secretary {ccs_board}.",
+    "Won an at-large seat in November 2022 with 2,857 votes, third among eight candidates for three seats {clay_2022_results}.",
+    "At the 2026 forum said she had attended an estimated 48 graduations {bt_forum}."
+   ],
+   "path_to_ballot": [
+    "Filed for an at-large seat by the June 18, 2026 deadline and is running as a Republican, according to the Clay County Election Office {bt_filing}{in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Said at the Sept. 24, 2026 forum: 'We are not discussing reducing staff or closing schools,' pointing to energy savings from lighting and fuel-bank participation, and added, 'We're in better shape than those around us' {bt_forum}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Described academic achievement, measured by results such as IREAD scores, as both the mission of the 2026–2031 Academic Strategic Plan and a measure of the curriculum team's work {bt_forum}.",
+      "Was the only forum candidate fully in favor of the district's current Chromebook use, saying she supported the K–12 one-to-one device program and that 'Traditional teaching instruction still takes place' {bt_forum}.",
+      "Said artificial intelligence would never replace teachers, and noted that a policy guidance provider using AI was replaced with a human-based service after errors were found {bt_forum}."
+     ]
+    },
+    {
+     "topic": "Facilities",
+     "items": [
+      "Said she supports the bus replacement plans and cited the new bus center among facility upgrades during her tenure {bt_forum}.",
+      "At a May 2026 meeting asked about the reasoning behind considering artificial turf fields in light of possible funding challenges for public schools {bt_scott}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Said board members are 'out and about' and pointed to community surveys the district has conducted; 'I show up,' she said {bt_forum}."
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "Noted that the district restricted cell phones before Indiana's statewide ban {bt_forum}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member. At the 2026 forum she described the district's finances as stronger than neighboring districts' and cited the new bus center and the cell phone restrictions as board actions {bt_forum}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "Occupation not found in reviewed sources.",
+    "No candidate website or questionnaire found."
+   ]
+  },
+  {
+   "ballot_name": "Charley Jackson",
+   "seat": "At Large",
+   "summary": "Incumbent at-large member and board secretary, seeking election to the seat {ccs_board}{bt_filing}.",
+   "website": null,
+   "background": [
+    "Is the board's secretary {ccs_board}.",
+    "Ran for an at-large seat in 2022 and finished fifth with 2,444 votes {clay_2022_results}; Ballotpedia lists him as taking office in 2024 {bp_clay}.",
+    "At a May 2026 board meeting said he had requested a presentation on artificial turf fields after rainy conditions canceled spring games, noting other conference schools were moving to turf {bt_scott}."
+   ],
+   "path_to_ballot": [
+    "Filed for an at-large seat by the June 18, 2026 deadline and is running as a Republican, according to the Clay County Election Office {bt_filing}{in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Facilities",
+     "items": [
+      "Requested the board's May 2026 presentation on turf baseball and softball fields at Northview and Clay City, citing rain cancellations {bt_scott}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member. This guide found no statement from him on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "Did not attend the Sept. 24, 2026 forum; no 2026 campaign statements found.",
+    "How he joined the board in 2024 (appointment to a vacancy is likely) was not confirmed in a source read in full; a district notice seen only in search results said a vacancy followed the death of member Lynn Romas in April 2024.",
+    "Occupation not found."
+   ]
+  },
+  {
+   "ballot_name": "Cheryl Schopmeyer",
+   "seat": "At Large",
+   "summary": "Incumbent at-large member first elected in 2022 {clay_2022_results}{ccs_board}.",
+   "website": null,
+   "background": [
+    "Won an at-large seat in November 2022 with 3,046 votes, second among eight candidates {clay_2022_results}.",
+    "At the 2026 forum emphasized faith in her opening and closing statements and said, 'I never want to stop learning' {bt_forum}."
+   ],
+   "path_to_ballot": [
+    "Filed for an at-large seat in June 2026 and is running as a Republican, according to the Clay County Election Office {bt_filing}{in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Said more information is needed before making budget decisions {bt_forum}.",
+      "Noted cost savings from replacing an AI-based policy guidance provider {bt_forum}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Predicted the 2026–2031 Academic Strategic Plan would raise the graduation rate, praised Superintendent Scott's presentation of it, and said its full impact would take time: '(Scott is) new, and it's new' {bt_forum}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Said Superintendent Scott leads community engagement, including a new Superintendent Ambassador Program {bt_forum}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member. Spoke favorably of the superintendent and the academic strategic plan at the 2026 forum {bt_forum}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "Occupation not found in reviewed sources.",
+    "No candidate website or questionnaire found."
+   ]
+  },
+  {
+   "ballot_name": "Gary Rickert",
+   "seat": "At Large",
+   "summary": "Challenger who ran for an at-large seat in 2022 {clay_2022_results}.",
+   "website": null,
+   "background": [
+    "Ran for an at-large seat in 2022 and received 916 votes, sixth of eight {clay_2022_results}.",
+    "Said at the 2026 forum that he had not attended school board meetings {bt_forum}."
+   ],
+   "path_to_ballot": [
+    "Filed for an at-large seat by the June 18, 2026 deadline and is running as a Republican, according to the Clay County Election Office {bt_filing}{in_list}. Referred to that affiliation at the forum: 'I am a true Republican here' {bt_forum}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Suggested reviewing administrator pay for cuts and said he would approach legislators about funding: 'I know how to find money' {bt_forum}.",
+      "Proposed auctioning old buses to get the best resale price {bt_forum}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Pledged raises for bus drivers and teacher's aides and noted the bus driver shortage {bt_forum}.",
+      "Called for firing the 'one or two' bad teachers he said may work in the district {bt_forum}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Emphasized smaller class sizes and vocational education, and predicted artificial intelligence would 'take over' {bt_forum}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Did not address specific board decisions in the forum coverage reviewed."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "Occupation and background not found.",
+    "No candidate website or questionnaire found."
+   ]
+  },
+  {
+   "ballot_name": "Gerry Crafton",
+   "seat": "At Large",
+   "summary": "Challenger and graduate of Clay County schools {bt_forum}.",
+   "website": null,
+   "background": [
+    "Listed the Clay County schools he attended as a child at the 2026 forum {bt_forum}.",
+    "Said at the forum that he had not attended school board meetings {bt_forum}."
+   ],
+   "path_to_ballot": [
+    "Filed for an at-large seat by the June 18, 2026 deadline and is running as a Republican, according to the Clay County Election Office {bt_filing}{in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Raised the idea of abolishing property taxes in favor of other forms of taxation: 'We're going to have to find more ways of funding' {bt_forum}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Called for technological strength and a goal-setting course for students, and framed artificial intelligence as a global competition with China {bt_forum}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Did not address specific board decisions in the forum coverage reviewed."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "Occupation not found.",
+    "No candidate website or questionnaire found."
+   ]
+  },
+  {
+   "ballot_name": "Jennifer Karn Clodfelter",
+   "seat": "At Large",
+   "summary": "Challenger who ran for the District 3 seat in 2024 {bt_2024_results}.",
+   "website": null,
+   "background": [
+    "Ran for the District 3 board seat in November 2024 and lost to Thomas Keith Reberger, 1,089 votes to 993 {bt_2024_results}.",
+    "Listed the Clay County schools she attended as a child at the 2026 forum, and said she had attended board meetings {bt_forum}."
+   ],
+   "path_to_ballot": [
+    "Filed for an at-large seat by the June 18, 2026 deadline and is running as a Republican, according to the Clay County Election Office {bt_filing}{in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Said she would look for duplication and underused resources before changes that affect students: 'If you don't know, you can't make cuts or additions' {bt_forum}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Noted the bus driver staffing shortage {bt_forum}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Said she prioritizes school culture and student mental health {bt_forum}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Said parents may hesitate to speak during the public comment period and supported changes to how public input is taken; 'People should know who (Board members) are,' she said, urging members to attend school events {bt_forum}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Said the format for public input at board meetings may need to change {bt_forum}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "Occupation not found.",
+    "No candidate website or questionnaire found."
+   ]
+  },
+  {
+   "ballot_name": "Mike Ames",
+   "seat": "At Large",
+   "summary": "Challenger and the only candidate in this race running as an Independent {bt_filing}.",
+   "website": null,
+   "background": [
+    "Said at the 2026 forum that he had attended board meetings in the past; faith was a key emphasis of his statements {bt_forum}."
+   ],
+   "path_to_ballot": [
+    "Filed for an at-large seat in June 2026 as an Independent {bt_filing}{in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Pointed to possible utility savings and to enrollment's effect on revenue {bt_forum}."
+     ]
+    },
+    {
+     "topic": "Enrollment & school choice",
+     "items": [
+      "Suggested the district explore ways to engage families who homeschool {bt_forum}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Suggested tailoring teacher evaluations to class size, grade level and similar factors, and adding spring parent-teacher meetings {bt_forum}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Stressed school culture and using context alongside data when measuring the strategic plan {bt_forum}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Suggested that some board members stay after meetings to talk with attendees, in addition to the patron comment period {bt_forum}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Said the format for public input at board meetings may need to change {bt_forum}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "Occupation not found.",
+    "No candidate website or questionnaire found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "bt_forum": [
+   "School Board candidates take on funding, plans and tech at forum",
+   "Brazil Times (suncommercial.com)",
+   "2026-09-28",
+   "https://www.suncommercial.com/brazil_times/brazil_times/article_40140080-eb82-5243-ad2c-47bd94584c07.html"
+  ],
+  "bt_filing": [
+   "Seven candidates file for school board election by deadline",
+   "Brazil Times (suncommercial.com)",
+   "2026-06-19",
+   "https://www.suncommercial.com/brazil_times/brazil_times/article_e006a17c-de6b-5338-8975-80c93eb690fc.html"
+  ],
+  "bt_sept_meeting": [
+   "School Board takes questions on leadership, cafeteria concerns",
+   "Brazil Times (suncommercial.com)",
+   "2026-09-11",
+   "https://www.suncommercial.com/brazil_times/brazil_times/article_cb328cd5-0e9e-56d6-adb5-ebab4a86ccb5.html"
+  ],
+  "bt_scott": [
+   "Scott to be put up for Superintendent spot",
+   "Brazil Times (suncommercial.com)",
+   "2026-05-14",
+   "https://www.suncommercial.com/brazil_times/brazil_times/article_5a8812bb-a646-5e65-8922-31bc33722020.html"
+  ],
+  "bt_grades": [
+   "Scott steps in for Rayle, explains school grade system at School Board",
+   "Brazil Times (suncommercial.com)",
+   "2026-04-13",
+   "https://www.suncommercial.com/brazil_times/brazil_times/article_17488078-c8c2-5241-acc9-27ad805fe4b7.html"
+  ],
+  "bt_forum_notice": [
+   "Candidate Forum to be held Sept. 24",
+   "Brazil Times (suncommercial.com)",
+   "2026-09-03",
+   "https://www.suncommercial.com/brazil_times/brazil_times/article_7654cbc8-db21-569a-b659-fa0a613038e5.html"
+  ],
+  "bt_2024_results": [
+   "Clay County, Indiana 2024 General Election Results",
+   "Brazil Times (suncommercial.com)",
+   "2024-11-14",
+   "https://www.suncommercial.com/brazil_times/article_8a28eb37-6718-5d65-aa07-a94083777e31.html"
+  ],
+  "clay_2022_results": [
+   "Election Summary Report, General Election 2022",
+   "Clay County, Indiana",
+   "2022-11",
+   "https://www.in.gov/counties/clay/files/Election_Summary_Report_Gen_2022.pdf"
+  ],
+  "bp_clay": [
+   "Clay Community Schools, Indiana",
+   "Ballotpedia",
+   "2026",
+   "https://ballotpedia.org/Clay_Community_Schools,_Indiana"
+  ],
+  "bp_clay_elections": [
+   "Clay Community Schools, Indiana, elections",
+   "Ballotpedia",
+   "2026",
+   "https://ballotpedia.org/Clay_Community_Schools,_Indiana,_elections"
+  ],
+  "ccs_board": [
+   "School Board",
+   "Clay Community Schools",
+   "2026",
+   "https://www.clay.k12.in.us/cms/One.aspx?portalId=74772956&pageId=74832540"
+  ],
+  "ccs_supt": [
+   "Superintendent",
+   "Clay Community Schools",
+   "2026",
+   "https://www.clay.k12.in.us/superintendent"
+  ]
+ }
+}

@@ -1,0 +1,254 @@
+{
+ "race_id": "in-school-board-delaware-yorktown",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The district: Yorktown Community Schools serves the Town of Yorktown and surrounding Mount Pleasant Township in Delaware County, west of Muncie, with four schools: Pleasant View Elementary (K-2), Yorktown Elementary (3-5), Yorktown Middle School (6-8) and Yorktown High School (9-12) {town_schools}. Ballotpedia reports 2,767 students in the 2023-24 school year {bp_yt}. Dr. Greg Hinshaw is superintendent {yt_board}.",
+  "The board has five members serving four-year terms {bp_yt}. Members are Ryan Kelly (president), Vici Gasaway (vice president), Jason Brooks (secretary), Ashley Gillespie and Tom Simpson {yt_board}. Because the district covers Mount Pleasant Township, all seats are listed on the ballot as Mt. Pleasant Township seats; Brooks and Gillespie were candidates for the two seats on the 2024 ballot {bp_yt_elections}.",
+  "Seats on the 2026 ballot: Ballotpedia lists the race as three seats, so voters may choose up to three, not one as shown on the state list {bp_yt_elections}{in_list}. In 2022 the three at-large seats were held by Ryan Kelly, Pat LaVelle and Tom Simpson, all of whom filed to run again {sp_2022}. Of the members whose seats were not on the 2024 ballot, Kelly is running again; Gasaway and Simpson are not on the 2026 candidate list {yt_board}{in_list}.",
+  "Party labels: under the 2025 law that lets school board candidates list a party, two candidates here are listed as Republicans, three as Independents and two as Nonpartisan {in_list}{bp_yt_elections}.",
+  "Budget and SEA 1 (2026): the district says SEA 1, the 2025 property-tax law, 'will reduce the funds available to schools over the next several years' for transportation, maintenance, non-certified staff and utilities, and that it staggered school start times for 2026-27 so drivers can run multiple routes and the bus fleet can shrink over time {yt_start_times}.",
+  "2027 budget: the board held a hearing Sept. 29, 2026 on the proposed 2027 budget, capital projects plan and bus replacement plan, with adoption set for Oct. 20, 2026 {yt_special_session}{yt_form3}. The published notice lists budget estimates totaling about $37.6 million, including $23 million for the education fund and $10.1 million for operations, and an estimated property tax cap credit of about $1.68 million {yt_form3}.",
+  "Teachers (2026): the board scheduled a Sept. 16, 2026 public meeting on a tentative 2026-27 contract with the Yorktown Teachers Association; the posted draft sets a minimum annual teacher salary of $55,000 {yt_teacher_notice}{yt_teacher_ta}. The superintendent said in June 2026 that the district was fully staffed for 2026-27 {wb_staffed}.",
+  "Enrollment and transfers: the district accepts transfer students on a space-available basis, with a lottery deadline of May 8, 2026 for grades 1–12 and possible closure of enrollment because of capacity {yt_transfers}.",
+  "Facilities: Hinshaw said in August 2026 that recent floods heavily damaged some middle school athletic fields and put water in the basements of two buildings {wb_flood}.",
+  "Forums: this guide found no 2026 candidate forum, questionnaire or news coverage of this race."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Brad Edmondson",
+   "seat": "Mt Pleasant Twp",
+   "summary": "Challenger listed on the state ballot list as an Independent {in_list}{bp_yt_elections}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Filed for one of the Mt. Pleasant Township seats on the Yorktown board; the state candidate list shows the label Independent {in_list}{bp_yt_elections}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "This guide found no statement from this candidate on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No news coverage, candidate forum, questionnaire, website or social media statements were found for this candidate; occupation and background could not be confirmed."
+   ]
+  },
+  {
+   "ballot_name": "Brian Lee Nixon",
+   "seat": "Mt Pleasant Twp",
+   "summary": "Challenger listed on the state ballot list as a Republican {in_list}{bp_yt_elections}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Filed for one of the Mt. Pleasant Township seats on the Yorktown board; the state candidate list shows the label Republican {in_list}{bp_yt_elections}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "This guide found no statement from this candidate on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No news coverage, candidate forum, questionnaire, website or social media statements were found for this candidate; occupation and background could not be confirmed."
+   ]
+  },
+  {
+   "ballot_name": "Eddie D Slaven",
+   "seat": "Mt Pleasant Twp",
+   "summary": "Challenger listed on the state ballot list as a Republican {in_list}{bp_yt_elections}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Filed for one of the Mt. Pleasant Township seats on the Yorktown board; the state candidate list shows the label Republican {in_list}{bp_yt_elections}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "This guide found no statement from this candidate on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No news coverage, candidate forum, questionnaire, website or social media statements were found for this candidate; occupation and background could not be confirmed."
+   ]
+  },
+  {
+   "ballot_name": "Jennifer C Craig",
+   "seat": "Mt Pleasant Twp",
+   "summary": "Challenger listed on the state ballot list as Nonpartisan {in_list}{bp_yt_elections}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Filed for one of the Mt. Pleasant Township seats on the Yorktown board; the state candidate list shows the label Nonpartisan {in_list}{bp_yt_elections}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "This guide found no statement from this candidate on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No news coverage, candidate forum, questionnaire, website or social media statements were found for this candidate; occupation and background could not be confirmed."
+   ]
+  },
+  {
+   "ballot_name": "Joni Miller",
+   "seat": "Mt Pleasant Twp",
+   "summary": "Challenger listed on the state ballot list as an Independent {in_list}{bp_yt_elections}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Filed for one of the Mt. Pleasant Township seats on the Yorktown board; the state candidate list shows the label Independent {in_list}{bp_yt_elections}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "This guide found no statement from this candidate on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No news coverage, candidate forum, questionnaire, website or social media statements were found for this candidate; occupation and background could not be confirmed."
+   ]
+  },
+  {
+   "ballot_name": "Ryan Kelly",
+   "seat": "Mt Pleasant Twp",
+   "summary": "Incumbent and current board president, seeking another term {yt_board}{in_list}.",
+   "website": null,
+   "background": [
+    "Is president of the Yorktown Community Schools board {yt_board}.",
+    "Held one of the three at-large seats on the 2022 ballot and filed that year to run again, according to The Star Press {sp_2022}."
+   ],
+   "path_to_ballot": [
+    "Filed for a Mt. Pleasant Township seat; the state lists him as Nonpartisan, and Ballotpedia lists him as 'No Party Affiliation' {in_list}{bp_yt_elections}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. This guide found no statement from him on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No 2026 campaign statements, forum appearances, questionnaire or website were found; occupation could not be confirmed.",
+    "When he first joined the board was not confirmed."
+   ]
+  },
+  {
+   "ballot_name": "Thomas Spry",
+   "seat": "Mt Pleasant Twp",
+   "summary": "Challenger listed on the state ballot list as an Independent {in_list}{bp_yt_elections}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Filed for one of the Mt. Pleasant Township seats on the Yorktown board; the state candidate list shows the label Independent {in_list}{bp_yt_elections}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "This guide found no statement from this candidate on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No news coverage, candidate forum, questionnaire, website or social media statements were found for this candidate; occupation and background could not be confirmed."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "yt_board": [
+   "School Board",
+   "Yorktown Community Schools",
+   "2026",
+   "https://www.yorktown.k12.in.us/apps/pages/index.jsp?uREC_ID=1525803&type=d&pREC_ID=1660676"
+  ],
+  "bp_yt": [
+   "Yorktown Community Schools, Indiana",
+   "Ballotpedia",
+   "2026",
+   "https://ballotpedia.org/Yorktown_Community_Schools,_Indiana"
+  ],
+  "bp_yt_elections": [
+   "Yorktown Community Schools, Indiana, elections",
+   "Ballotpedia",
+   "2026",
+   "https://ballotpedia.org/Yorktown_Community_Schools,_Indiana,_elections"
+  ],
+  "town_schools": [
+   "Schools",
+   "Town of Yorktown, Indiana",
+   "2026",
+   "https://www.in.gov/towns/yorktown/about-yorktown/schools"
+  ],
+  "sp_2022": [
+   "Delaware County school board ballots filling up, but still no races",
+   "The Star Press (via Yahoo News)",
+   "2022-08-24",
+   "https://www.yahoo.com/news/delaware-county-school-board-ballots-090511691.html"
+  ],
+  "yt_start_times": [
+   "New Start Times for 2026-2027 School Year",
+   "Yorktown Community Schools",
+   "2026",
+   "https://www.yorktown.k12.in.us/apps/news/article/2211182"
+  ],
+  "yt_special_session": [
+   "Notice of Special Session (Sept. 29, 2026)",
+   "Yorktown Community Schools",
+   "2026-09",
+   "https://www.yorktown.k12.in.us/apps/news/article/2233741"
+  ],
+  "yt_form3": [
+   "Notice to Taxpayers, 2027 Budget (Budget Form 3)",
+   "Yorktown Community Schools",
+   "2026-09-18",
+   "https://4.files.edl.io/99e4/09/18/26/183210-1c724fd7-29fb-40a8-826e-4ac329973753.pdf"
+  ],
+  "yt_teacher_notice": [
+   "Notice of Public Meeting: tentative collective bargaining agreement",
+   "Yorktown Community Schools",
+   "2026-09",
+   "https://www.yorktown.k12.in.us/apps/news/article/2230147"
+  ],
+  "yt_teacher_ta": [
+   "2026-27 Teacher Contract Tentative Agreement Changes",
+   "Yorktown Community Schools",
+   "2026-09",
+   "https://4.files.edl.io/aadc/09/16/26/122618-2a7bde88-5a9e-4382-8e2b-4adf738744dd.pdf"
+  ],
+  "yt_transfers": [
+   "Transfer Information",
+   "Yorktown Community Schools",
+   "2026",
+   "https://www.yorktown.k12.in.us/apps/news/article/2192675"
+  ],
+  "wb_staffed": [
+   "Yorktown School District Fully Staffed, 06/25/26",
+   "Woof Boom Radio News",
+   "2026-06-25",
+   "https://www.woofboomnews.com/2026/06/yorktown-school-district-fully-staffed-06-25-26/"
+  ],
+  "wb_flood": [
+   "Yorktown Supt. Speaks to WMUN, 08/26/26",
+   "Woof Boom Radio News",
+   "2026-08-26",
+   "https://www.woofboomnews.com/2026/08/yorktown-supt-speaks-to-wmun-08-26-26/"
+  ]
+ }
+}
