@@ -1,0 +1,373 @@
+{
+ "race_id": "in-school-board-brown-county",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The 'Brown County School Board' seats belong to the Brown County School Corporation (Brown County Schools), based in Nashville, Indiana, whose voters are all registered voters of Brown County {bcs_bylaw}{v411_d1}. The district lists an early education center, three elementary schools (Helmsburg, Sprunica and Van Buren), Brown County Middle School, Brown County High School and a Career Resource Center {bcs_home}. Federal data list 1,549 students in five schools in 2024-25 {nces_bcs}. Emily Callahan signs as superintendent in the district's 2025-26 and 2026 publications and board minutes {bcs_eagle_winter26}{bcs_eagle_summer26}{bcs_min_20250922}.",
+  "The Board of School Trustees has five members serving four-year terms: one must live in each of three residence districts (whose boundaries match the three county commissioner districts), and two are at-large members who may live anywhere, no more than two from any one district; every board candidate is voted on by all registered voters in the county {bcs_bylaw}{v411_d1}.",
+  "Seats on the 2026 ballot: the three residence-district seats, each electing one member, matching the state list's 'vote for 1' {bcs_board}{v411_d1}{v411_d2}{v411_d3}{in_list}. The two at-large seats, held by Jenise Bohbrink (board president) and Amy Oliver (vice president), run through 2028 {bcs_board}.",
+  "Who holds the seats now: Carol Bowden holds District 1, Vicki Harden (board secretary) holds District 2 and Doug Payne holds District 3, all with terms listed as 2022-2026 {bcs_board}. Bowden and Payne are running again; Harden is not on the ballot, so District 2 will have a new member, and Michael Fulton is the only candidate there {in_list}{v411_d2}. Payne was board president and Bowden vice president in 2025; at the January 5, 2026 reorganization the board elected Bohbrink president, Oliver vice president and Harden secretary {bcs_min_20250721}{bcs_min_20260105}.",
+  "Party labels: the League of Women Voters' VOTE411 guide lists Andrew Reed and Stephen Douglas Payne as Republicans, Michael Fulton as Independent, and Carolyn V. Bowden, Julia Smith and Jane Mitchell as nonpartisan, matching the state list {v411_d1}{v411_d2}{v411_d3}{in_list}.",
+  "Budget and property taxes: on September 22, 2025 the board heard a 'Policy Analytics Budget and SEA 1 Update' presentation and voted 5-0 to hire Policy Analytics LLC for school finance support services; the minutes do not summarize what the presentation said about the 2025 property-tax law {bcs_min_20250922}. The board adopted its 2026 budget ordinance 5-0 on October 20, 2025 {bcs_min_20251020}.",
+  "Referendum: in May 2024 voters approved a Brown County Schools referendum with 55 percent of the vote; Indiana Public Media reported the money would go to teacher salaries and to recruiting staff for apprenticeship and internship programs, at about $157 a year for a property assessed at $300,000 {ipm_referendum_2024}.",
+  "Facilities: on October 20, 2025 the board approved, 4-1, an athletic facility project designed and built by Tarkett Sports; the minutes do not say who voted no {bcs_min_20251020}. The district says the project moves its athletic field out of the floodway and raises it more than four feet to end repeated flooding, with a new track carrying a 50-year warranty {bcs_eagle_spring26}. The superintendent has also highlighted high school restroom renovations {bcs_eagle_winter26}.",
+  "Safety and staffing: in 2025-26 the district created a Director of Safety and Operations position and added a school nurse and a career coach, according to Superintendent Callahan {bcs_eagle_winter26}. The board heard presentations on school threat assessment guidelines (December 18, 2025) and on 2026-27 school resource officer funding (September 8, 2026 agenda) {bcs_min_20251218}{bcs_agenda_20260908}.",
+  "Programs and planning: on February 16, 2026 the board voted 5-0 to start a high school agriculture program with FFA for 2026-27 {bcs_min_20260216}. The district ran a parent survey in spring 2026 to inform 2026-2029 strategic priorities, discussed its 2026-2029 Priority Plan at the August 3, 2026 meeting, and says it will launch a public dashboard to track the plan's goals {bcs_eagle_spring26}{bcs_min_20260803}{bcs_eagle_summer26}. The board discussed a cell phone policy on June 1, 2026 following new state law {bcs_min_20260601}{bcs_eagle_summer26}.",
+  "Most votes recorded in the 2025-26 minutes reviewed for this guide were unanimous; the October 2025 athletic facility vote was the only split vote found {bcs_min_20251020}.",
+  "Forums and questionnaires: the League of Women Voters' VOTE411 guide posted questionnaire answers from Carolyn V. Bowden, Julia Smith, Michael Fulton and Jane Mitchell; Andrew Reed and Stephen Douglas Payne had not responded when it was checked {v411_d1}{v411_d2}{v411_d3}. The Brown County Democrat has covered the race, but its site could not be accessed for this guide. Key differences in District 1: Smith points to 26 years working in Brown County Schools' business office and classrooms, while Bowden, the incumbent, is a physical therapist; in District 3, Mitchell's answers stress one-on-one intervention with students, and Payne posted no answers {v411_d1}{v411_d3}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Andrew Reed",
+   "seat": "District 1",
+   "summary": "Candidate for District 1, listed with the Republican label; he did not answer the VOTE411 questionnaire and little public information about his campaign was found {in_list}{v411_d1}.",
+   "website": null,
+   "background": [
+    "No campaign biography was found; see gaps."
+   ],
+   "path_to_ballot": [
+    "Filed for the District 1 seat as a Republican; Indiana has no school board primary, and all county voters vote in each district race {in_list}{bcs_bylaw}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "The VOTE411 questionnaire shows 'Candidate has not yet responded' for every question.",
+    "Unverified (search-result snippets only): a news summary described him as a jail commander, and a public-salary listing shows an Andrew Reed E as Brown County jail commander in 2025; this guide did not confirm either or tie them to the candidate.",
+    "The Brown County Democrat (bcdemocrat.com), which covers the race, could not be accessed for this guide; its candidate articles were not read.",
+    "No website, forum remarks or campaign finance reports were found."
+   ]
+  },
+  {
+   "ballot_name": "Carol Bowden",
+   "seat": "District 1",
+   "summary": "Incumbent; a physical therapist who has held the District 1 seat in the 2022-2026 term and was board vice president in 2025 {bcs_board}{bcs_min_20250721}{v411_d1}.",
+   "website": null,
+   "background": [
+    "Physical therapist; education at Boston University's Sargent College of Allied Health Professions, per her VOTE411 listing (as Carolyn V. Bowden) {v411_d1}.",
+    "Board member for District 1, term listed as 2022-2026; vice president in 2025 {bcs_board}{bcs_min_20250721}.",
+    "She wrote that she has had a disability since birth and went through school before the Americans with Disabilities Act and Title IX, which motivates her to seek equal opportunity for all students {v411_d1}."
+   ],
+   "path_to_ballot": [
+    "Filed for reelection to District 1 with no party label (listed as Nonpartisan) {in_list}{v411_d1}."
+   ],
+   "positions": [
+    {
+     "topic": "Academics",
+     "items": [
+      "On chronic absenteeism, she wrote that the district needs to find out why it is happening for each student, check whether the student is in the right pathway, and support learning recovery both by computer and in person {v411_d1}.",
+      "She supports history education on the U.S. and the world so students understand how things happened and what could be done differently {v411_d1}.",
+      "On balancing college-prep, technology and trades, she wrote that the pathways share basic science and math requirements, and cited the C4 program in Columbus, the on-campus Career Resource Center, Eagle Manufacturing and pre-K childcare/education in the old Nashville elementary building {v411_d1}."
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "She wrote that bullying should always be stopped, with education and emotional support for the student being bullied and discipline plus an effort to learn why the other student is bullying; a student may need to be removed from the classroom for safety until behavior is corrected {v411_d1}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member. She describes the board member's role as asking questions to understand the district's finances and academics, learning what the law allows board members to do, and passing community, staff and student questions to the right department and following up {v411_d1}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "How she first joined the board (election or appointment) was not confirmed.",
+    "Her VOTE411 listing uses the name Carolyn V. Bowden; the state list and district site use Carol Bowden.",
+    "The Brown County Democrat (bcdemocrat.com), which covers the race, could not be accessed for this guide; its candidate articles were not read.",
+    "No campaign website, forum remarks or campaign finance reports were found."
+   ]
+  },
+  {
+   "ballot_name": "Julia A Smith",
+   "seat": "District 1",
+   "summary": "Candidate for District 1; a school business manager who worked 26 years in Brown County Schools, including as corporation treasurer, by her own account {v411_d1}.",
+   "website": "http://www.facebook.com/profile.php?id=61593167607077",
+   "background": [
+    "School business manager (employer not stated); she says she has 30 years in public education, 26 of them in Brown County Schools in roles from paraprofessional and extracurricular (ECA) treasurer to payroll and corporation treasurer {v411_d1}.",
+    "MBA, Western Governors University; bachelor's degree in psychology, Indiana University {v411_d1}.",
+    "VOTE411 lists her campaign Facebook page and a Nineveh mailing address {v411_d1}."
+   ],
+   "path_to_ballot": [
+    "Filed for District 1 with no party label (listed as Nonpartisan) {in_list}{v411_d1}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "She says she understands both the educational and financial sides of running a school corporation and would weigh the effect of decisions on students, staff and taxpayers {v411_d1}.",
+      "She does not think one pathway should be funded at the expense of another; funding should be based on student interest, participation, outcomes and program cost {v411_d1}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "On chronic absenteeism, she wrote the board should study attendance data and the reasons students miss school, and check student achievement and learning-gap data to see whether strategies are working {v411_d1}.",
+      "She would keep supporting programs such as the district's TEDx event, along with community service, student leadership and lessons on how government works {v411_d1}."
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "She wrote that bullying reports must be followed up, students need clear expectations and consequences, and schools should look at why a student is struggling; the board's role is to make sure good policies exist and are followed {v411_d1}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "No statement on the current board's decisions was found; she described the board's role as governance and oversight: setting policy, financial oversight and evaluating the superintendent {v411_d1}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "Her current employer as business manager is not stated in the material read.",
+    "Unverified (search-result snippet only): a Brown County Democrat article lists her MBA; the article itself could not be read.",
+    "The Brown County Democrat (bcdemocrat.com), which covers the race, could not be accessed for this guide; its candidate articles were not read.",
+    "No forum remarks or campaign finance reports were found."
+   ]
+  },
+  {
+   "ballot_name": "Michael Fulton",
+   "seat": "District 2",
+   "summary": "Unopposed candidate for the open District 2 seat, listed as Independent; a retired corporate executive and 40-year county resident, by his own account {in_list}{v411_d2}.",
+   "website": null,
+   "background": [
+    "Retired; he says he was a senior executive and officer of a Fortune 500 company who prepared multimillion-dollar budgets, ran IT and software projects and managed large teams {v411_d2}.",
+    "B.A. in liberal arts (1977) and MBA (1981), University of Kansas {v411_d2}.",
+    "Says he has lived in Brown County for 40 years {v411_d2}."
+   ],
+   "path_to_ballot": [
+    "Filed for District 2 as an Independent; he is the only candidate, and incumbent Vicki Harden is not on the ballot {in_list}{v411_d2}{bcs_board}."
+   ],
+   "positions": [
+    {
+     "topic": "Academics",
+     "items": [
+      "He would follow state law and district policy on absenteeism, and supports a formal learning recovery plan built with the student, family and school staff and reviewed periodically {v411_d2}.",
+      "He supports continued college-prep programs, expanding trades and health care programs (including adult education), entrepreneurial skills through EAGLE Manufacturing, the new agriculture programs, and stronger arts, music and theatre programs; funding could be roughly proportional to student interest and enrollment, subject to state law {v411_d2}."
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "On bullying, he would refer to and follow the district's existing policies and procedures {v411_d2}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "No statement on the current board's decisions was found; he wrote that Brown County Schools currently offers 'numerous avenues' for students to reach their goals {v411_d2}."
+   ],
+   "plans": [
+    "He would support staff-led projects connecting students with local organizations to study real-world issues {v411_d2}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "The Brown County Democrat (bcdemocrat.com), which covers the race, could not be accessed for this guide; its candidate articles were not read.",
+    "No website, forum remarks or campaign finance reports were found."
+   ]
+  },
+  {
+   "ballot_name": "Jane Mitchell",
+   "seat": "District 3",
+   "summary": "Challenger for District 3 with no party label; holds a master's degree, and little else about her background was found {in_list}{v411_d3}.",
+   "website": null,
+   "background": [
+    "Lists a master's degree on VOTE411; no occupation is listed {v411_d3}."
+   ],
+   "path_to_ballot": [
+    "Filed for District 3 with no party label (listed as Nonpartisan), challenging incumbent Doug Payne {in_list}{v411_d3}{bcs_board}."
+   ],
+   "positions": [
+    {
+     "topic": "Academics",
+     "items": [
+      "On chronic absenteeism, she would look at root causes, including one-on-one discussions with students who are repeatedly absent; she believes schools are still dealing with COVID-era learning setbacks and suggests educator training on learning recovery {v411_d3}.",
+      "She wrote that schools should tailor courses to each student's goals {v411_d3}."
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "She favors one-on-one intervention to find root causes of bullying and disruptive behavior, and says such behavior should not be tolerated {v411_d3}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "No statement on the current board's record was found. She described the board's role as approving the budget, setting a vision, working with the superintendent, setting policy and serving as a bridge to the community {v411_d3}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "Occupation and ties to the schools were not found.",
+    "The Brown County Democrat (bcdemocrat.com), which covers the race, could not be accessed for this guide; its candidate articles were not read.",
+    "No website, forum remarks or campaign finance reports were found."
+   ]
+  },
+  {
+   "ballot_name": "Stephen Douglas Payne",
+   "seat": "District 3",
+   "summary": "Incumbent, listed with the Republican label; has held the District 3 seat in the 2022-2026 term and was board president in 2025 {in_list}{bcs_board}{bcs_min_20250721}.",
+   "website": null,
+   "background": [
+    "Board member for District 3 (listed by the district as Doug Payne), term 2022-2026 {bcs_board}.",
+    "Served as board president in 2025 and as Board of Finance president in January 2026 {bcs_min_20250721}{bcs_min_20260105}."
+   ],
+   "path_to_ballot": [
+    "Filed for reelection to District 3 as a Republican {in_list}{v411_d3}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. In February 2026 he moved the motion approving the new high school agriculture and FFA program, which passed 5-0 {bcs_min_20260216}. No statement from him about the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "The VOTE411 questionnaire shows 'Candidate has not yet responded' for every question.",
+    "Occupation and how he first joined the board were not found.",
+    "The Brown County Democrat (bcdemocrat.com), which covers the race, could not be accessed for this guide; its candidate articles were not read.",
+    "No website, forum remarks or campaign finance reports were found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "bcs_home": [
+   "Brown County Schools (home page)",
+   "Brown County Schools",
+   "2026-10",
+   "https://www.browncountyschools.com/"
+  ],
+  "bcs_board": [
+   "District Info & School Board",
+   "Brown County Schools",
+   "2026-10",
+   "https://browncountyschools.com/about-bcs/district-info-school-board/"
+  ],
+  "bcs_bylaw": [
+   "Board bylaws: Membership, Election/Appointment (scanned excerpt)",
+   "Brown County Schools",
+   "2022-09",
+   "https://browncountyschools.com/wp-content/uploads/BC-School-Board-Election_Appointment-9-6-22-Scanned-document.pdf"
+  ],
+  "nces_bcs": [
+   "District detail: Brown County School Corporation",
+   "National Center for Education Statistics",
+   "2024-25",
+   "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1800960"
+  ],
+  "v411_d1": [
+   "Brown County School Board District 1",
+   "League of Women Voters (VOTE411)",
+   "2026-10",
+   "https://onyourballot.vote411.org/m/race-detail.do?id=4210727"
+  ],
+  "v411_d2": [
+   "Brown County School Board District 2",
+   "League of Women Voters (VOTE411)",
+   "2026-10",
+   "https://onyourballot.vote411.org/m/race-detail.do?id=4210860"
+  ],
+  "v411_d3": [
+   "Brown County School Board District 3",
+   "League of Women Voters (VOTE411)",
+   "2026-10",
+   "https://onyourballot.vote411.org/m/race-detail.do?id=4210888"
+  ],
+  "ipm_referendum_2024": [
+   "Brown County Schools superintendent 'relieved' over referendum passing",
+   "Indiana Public Media (WFIU)",
+   "2024-05-09",
+   "https://www.ipm.org/news/brown-county-schools-superintendent-relieved-over-referendum-passing.php"
+  ],
+  "bcs_eagle_winter26": [
+   "Eagle Eye, Issue 10 (Winter 2026)",
+   "Brown County Schools",
+   "2026-01",
+   "https://browncountyschools.com/wp-content/uploads/10-Eagle-Eye-Winter-2026.pdf"
+  ],
+  "bcs_eagle_spring26": [
+   "Eagle Eye, Issue 11 (Spring 2026)",
+   "Brown County Schools",
+   "2026-03",
+   "https://browncountyschools.com/wp-content/uploads/11-Eagle-Eye-Spring-2026.pdf"
+  ],
+  "bcs_eagle_summer26": [
+   "Eagle Eye, Issue 12 (Summer 2026)",
+   "Brown County Schools",
+   "2026-06",
+   "https://browncountyschools.com/wp-content/uploads/12-Eagle-Eye-Summer-2026-1.pdf"
+  ],
+  "bcs_min_20250721": [
+   "Board of School Trustees minutes, July 21, 2025",
+   "Brown County Schools",
+   "2025-07-21",
+   "https://drive.google.com/file/d/1IiiyfsNK74fSqvOfCknpkyIjqr6BxMAI/view"
+  ],
+  "bcs_min_20250922": [
+   "Board of School Trustees minutes, Sept. 22, 2025",
+   "Brown County Schools",
+   "2025-09-22",
+   "https://drive.google.com/file/d/1i5t9DWdQbqUGMjgt4ndhr2JLXJSp3BQQ/view"
+  ],
+  "bcs_min_20251020": [
+   "Board of School Trustees minutes, Oct. 20, 2025",
+   "Brown County Schools",
+   "2025-10-20",
+   "https://drive.google.com/file/d/1av6zyVNgeRHIb-gBT6XPqb1VP-0XeqNg/view"
+  ],
+  "bcs_min_20251218": [
+   "Board of School Trustees minutes, Dec. 18, 2025",
+   "Brown County Schools",
+   "2025-12-18",
+   "https://drive.google.com/file/d/1vtRjkui6_P_AmXdQMx_l5kV9LlMwhZmc/view"
+  ],
+  "bcs_min_20260105": [
+   "Board of School Trustees minutes, Jan. 5, 2026",
+   "Brown County Schools",
+   "2026-01-05",
+   "https://drive.google.com/file/d/1wVEkZK74HlcW6mM7tZKS2JQLpRQNR8Sl/view"
+  ],
+  "bcs_min_20260216": [
+   "Board of School Trustees minutes, Feb. 16, 2026",
+   "Brown County Schools",
+   "2026-02-16",
+   "https://drive.google.com/file/d/1sXT6aqqWAybG4Mk0BaQq3qbUqCc2Mr57/view"
+  ],
+  "bcs_min_20260601": [
+   "Board of School Trustees minutes, June 1, 2026",
+   "Brown County Schools",
+   "2026-06-01",
+   "https://drive.google.com/file/d/1dPk3-1qzLKreH-Wf99OotKwwx_IVVDh3/view"
+  ],
+  "bcs_min_20260803": [
+   "Board of School Trustees minutes, Aug. 3, 2026",
+   "Brown County Schools",
+   "2026-08-03",
+   "https://drive.google.com/file/d/1k92jTZ3vK19CdLDRm9-c27juHF839j8y/view"
+  ],
+  "bcs_agenda_20260908": [
+   "Board of School Trustees agenda, Sept. 8, 2026",
+   "Brown County Schools",
+   "2026-09-08",
+   "https://drive.google.com/file/d/1jb6C2aAdW21WL3BLoFzNY4CPxZNB-6gN/view"
+  ]
+ }
+}
