@@ -1,0 +1,177 @@
+{
+ "race_id": "in-school-board-west-washington",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "West Washington School Corp. is a two-school district in western Washington County based in Campbellsburg, with an elementary school and a junior-senior high school {nces_ww}{wiki_wwhs}. Federal data list 939 students and 69 full-time classroom teachers for 2024-25 {nces_ww}. Wikipedia lists Keith Nance as superintendent {wiki_wwhs}; a current district source confirming this could not be read.",
+  "The board has seven seats: Brown, Howard, Madison, Posey and Vernon townships, the Town of Campbellsburg and one at-large seat, according to a Washington County government roster that is several years out of date {wc_roster}. In 2024 Carri Jo Cambron won the Madison Township seat and Brian Farmer the Posey Township seat {enr_2024}.",
+  "Three seats are on the 2026 ballot, one member each: At Large, Brown Township and Howard Township {in_list}. In 2022 Tim Barksdale won the at-large seat (680 votes to 464 for Justin D. Davidson), Adam Brown won the Brown Township seat and Stephanie Keltner won the Howard Township seat, all in single-member races {enr_2022}. Barksdale is on the 2026 ballot for re-election; Brown and Keltner are not on the 2026 ballot {in_list}{enr_2022}.",
+  "The Town of Campbellsburg seat was also on the 2022 ballot (won by Claude C. Combs) {enr_2022}, but it does not appear on the 2026 state list {in_list}; how that seat is being filled could not be confirmed.",
+  "Party labels: 2026 is the first Indiana election in which school board candidates could declare a party; in this district Kyle Johnson and Brandon K. Davis are listed as Republicans, Katherine (Kate) M. Litts and Logan R Hall as Independents, and the rest as nonpartisan {in_list}.",
+  "Issues: news coverage of the West Washington board in 2025–2026 (budget, the 2025 property-tax law SEA 1, enrollment, staffing) could not be found or read for this profile; the district website blocks automated access and no local newspaper coverage was found.",
+  "Forums: no candidate forum, questionnaire or voter guide covering these races was found."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Justin Davidson",
+   "seat": "At Large",
+   "summary": "Challenger for the at-large seat, listed as nonpartisan {in_list}. A candidate listed as Justin D. Davidson lost the 2022 at-large race to Tim Barksdale {enr_2022}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Filed for the at-large seat as a nonpartisan candidate {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No background, positions, questionnaire or news coverage found.",
+    "Not confirmed that he is the same person as the 2022 at-large candidate Justin D. Davidson, though the name and race match.",
+    "No endorsements or campaign finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Justin K Elgin",
+   "seat": "At Large",
+   "summary": "Challenger for the at-large seat, listed as nonpartisan {in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Filed for the at-large seat as a nonpartisan candidate {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No background, positions, questionnaire or news coverage found.",
+    "No endorsements or campaign finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Kyle Johnson",
+   "seat": "At Large",
+   "summary": "Challenger for the at-large seat, listed as a Republican {in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the ballot as a Republican for the at-large seat {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No background, positions, questionnaire or news coverage found; the name is common, so search results could not be tied to this candidate.",
+    "No endorsements or campaign finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Tim Barksdale",
+   "seat": "At Large",
+   "summary": "Incumbent; won the at-large seat in 2022 {enr_2022}. Listed as nonpartisan {in_list}.",
+   "website": null,
+   "background": [
+    "Has held the at-large seat since at least 2018, according to an older Washington County board roster that lists his term as ending in 2022, and was re-elected in 2022 {wc_roster}{enr_2022}."
+   ],
+   "path_to_ballot": [
+    "Filed for re-election to the at-large seat as a nonpartisan candidate {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No statements on his record or plans, questionnaire or news coverage found.",
+    "Occupation and other background not found.",
+    "No endorsements or campaign finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Evan V Chastain",
+   "seat": "Brown Twp",
+   "summary": "Candidate for the Brown Township seat, listed as nonpartisan {in_list}. Adam Brown, who won the seat in 2022, is not on the 2026 ballot {enr_2022}{in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Filed for the Brown Township seat as a nonpartisan candidate {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No background, positions, questionnaire or news coverage found.",
+    "No endorsements or campaign finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Katherine (Kate) M. Litts",
+   "seat": "Brown Twp",
+   "summary": "Candidate for the Brown Township seat, listed as an Independent {in_list}. Adam Brown, who won the seat in 2022, is not on the 2026 ballot {enr_2022}{in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the ballot as an Independent for the Brown Township seat {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No background, positions, questionnaire or news coverage found.",
+    "No endorsements or campaign finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Brandon K. Davis",
+   "seat": "Howard Twp",
+   "summary": "Candidate for the Howard Township seat, listed as a Republican {in_list}. Stephanie Keltner, who won the seat in 2022, is not on the 2026 ballot {enr_2022}{in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the ballot as a Republican for the Howard Township seat {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No background, positions, questionnaire or news coverage found.",
+    "No endorsements or campaign finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Logan R Hall",
+   "seat": "Howard Twp",
+   "summary": "Candidate for the Howard Township seat, listed as an Independent {in_list}. Stephanie Keltner, who won the seat in 2022, is not on the 2026 ballot {enr_2022}{in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the ballot as an Independent for the Howard Township seat {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No background, positions, questionnaire or news coverage found.",
+    "No endorsements or campaign finance reports found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "nces_ww": ["District Detail: West Washington School Corp", "National Center for Education Statistics, Common Core of Data", "2026", "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?Search=2&details=1&ID2=1812930&DistrictID=1812930"],
+  "wiki_wwhs": ["West Washington Junior-Senior High School", "Wikipedia", "2026-10", "https://en.wikipedia.org/wiki/West_Washington_Junior-Senior_High_School"],
+  "wc_roster": ["West Washington School Corp (county education page, board roster)", "Washington County, Indiana", "2018-01", "https://washingtoncounty.in.gov/explore_washington_county/education/west_washington_school_corp.php"],
+  "enr_2022": ["2022 General Election results (All Office Results download)", "Indiana Election Division", "2022-11", "https://enr.indianavoters.in.gov/archive/2022General/index.html"],
+  "enr_2024": ["2024 General Election results (All Office Results download)", "Indiana Election Division", "2024-11", "https://enr.indianavoters.in.gov/archive/2024General/index.html"]
+ }
+}

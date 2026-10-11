@@ -163,6 +163,13 @@ SEAT_OVERRIDES = {
 }
 
 
+# Candidates on the Sept. 22 state list who were later removed from the
+# ballot, confirmed from county election records.
+REMOVED = {
+    ("North Harrison School Board, At Large", "Ray Von Allmen"),  # removed Sept. 1 after a challenge (Harrison County)
+}
+
+
 def seats_of(title):
     if title in SEAT_OVERRIDES:
         return SEAT_OVERRIDES[title]
@@ -292,6 +299,8 @@ def main():
         elif category in ("STATE SENATOR", "STATE REPRESENTATIVE"):
             seat_holder = leg_inc.get((category.title(), district), "")
         incumbent = "yes" if seat_holder and same_person(name, seat_holder) else ""
+        if (office, name) in REMOVED:
+            continue
         if (office, name, party) in seen:  # the state list repeats a few rows
             continue
         seen.add((office, name, party))

@@ -160,6 +160,51 @@ Incumbent board member and board president; elected to the Spencer Township seat
 - No news account found explaining why he moved from the Spencer Township seat to the at-large race.
 - No candidate forum found.
 
+## Chad Schenck — Jackson Township
+
+Former West Clark superintendent who now works in sales for an education services company; parent of current students; running to change how the district is managed [40]. Listed as a Republican [31].
+
+### Background
+
+- Former teacher and administrator: junior high math and Orleans third-grade teacher, Crawford County middle school principal, assistant superintendent at Tell City-Troy Township and Southwest Dubois County, West Clark superintendent (2015–2018) and chief operations officer (2018–2021) [40].
+- Lists his current job as senior account executive with Perfection Group since 2021 [40].
+- Holds education degrees from Indiana University and an education specialist degree from Oakland City University [40].
+- Parent of children who attend North Harrison schools [40].
+
+### Path to the ballot
+
+- Filed as a Republican for the Jackson Township seat; first run for elected office [31, 40].
+
+### Positions & plans
+
+**Budget & taxes**
+
+- Says he would propose cost-saving measures within 30 days that would not cut any teaching position, and believes $500,000 can be saved in the education fund [40].
+- Says the savings would pay for staff raises or stipends, offset enrollment declines and reduce transfers from the operations fund, freeing operations money for facility upgrades [40].
+
+**Teachers & staff**
+
+- Says the district is losing teachers and that staff should be valued and respected [40].
+
+**Facilities**
+
+- Wants freed-up operations money to go to facility upgrades [40].
+
+### On the current officeholder
+
+- Says board members and the superintendent have made serious errors in management and judgment and that he would hold leadership accountable [40].
+- Says politics has no place in board governance and that he would not let it enter his decisions [40].
+
+### How they say they'd run the office
+
+- Says he has researched the tax rate, enrollment trends, staffing, facilities and inefficiencies and would bring proposals in his first 30 days [40].
+
+### What we couldn't verify
+
+- No endorsements or campaign finance reports found.
+- He did not name specific cuts behind the $500,000 savings estimate in the questionnaire.
+- No candidate forum found.
+
 ## Charles (Chris) Bowyer — Jackson Township
 
 Incumbent board member; appointed in September 2024 to fill a vacancy and now board secretary [30, 24]. Listed as a Republican [31].
@@ -213,51 +258,6 @@ Incumbent board member; appointed in September 2024 to fill a vacancy and now bo
 
 - Fetched sources do not state which seat he was appointed to; a 2024 district vacancy notice for a Jackson Township seat was seen only in a search snippet (unverified), and 2022 Jackson Township winner Chris Lasley is not on the 2026 ballot.
 - No endorsements or campaign finance reports found.
-- No candidate forum found.
-
-## Chad Schenck — Jackson Township
-
-Former West Clark superintendent who now works in sales for an education services company; parent of current students; running to change how the district is managed [40]. Listed as a Republican [31].
-
-### Background
-
-- Former teacher and administrator: junior high math and Orleans third-grade teacher, Crawford County middle school principal, assistant superintendent at Tell City-Troy Township and Southwest Dubois County, West Clark superintendent (2015–2018) and chief operations officer (2018–2021) [40].
-- Lists his current job as senior account executive with Perfection Group since 2021 [40].
-- Holds education degrees from Indiana University and an education specialist degree from Oakland City University [40].
-- Parent of children who attend North Harrison schools [40].
-
-### Path to the ballot
-
-- Filed as a Republican for the Jackson Township seat; first run for elected office [31, 40].
-
-### Positions & plans
-
-**Budget & taxes**
-
-- Says he would propose cost-saving measures within 30 days that would not cut any teaching position, and believes $500,000 can be saved in the education fund [40].
-- Says the savings would pay for staff raises or stipends, offset enrollment declines and reduce transfers from the operations fund, freeing operations money for facility upgrades [40].
-
-**Teachers & staff**
-
-- Says the district is losing teachers and that staff should be valued and respected [40].
-
-**Facilities**
-
-- Wants freed-up operations money to go to facility upgrades [40].
-
-### On the current officeholder
-
-- Says board members and the superintendent have made serious errors in management and judgment and that he would hold leadership accountable [40].
-- Says politics has no place in board governance and that he would not let it enter his decisions [40].
-
-### How they say they'd run the office
-
-- Says he has researched the tax rate, enrollment trends, staffing, facilities and inefficiencies and would bring proposals in his first 30 days [40].
-
-### What we couldn't verify
-
-- No endorsements or campaign finance reports found.
-- He did not name specific cuts behind the $500,000 savings estimate in the questionnaire.
 - No candidate forum found.
 
 ## Dan Inboden — Jackson Township
