@@ -1,0 +1,242 @@
+{
+ "race_id": "in-school-board-fremont",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Fremont Community Schools serves Clear Lake, Fremont and Jamestown townships in Steuben County, an area that includes industrial parts of Fremont and lake communities {kpc_ref_2024_02}. State enrollment counts were 982 students in 2023-24, 979 in 2024-25 and 980 in 2025-26 {idoe_enroll}. William (Bill) Stitt is superintendent {kpc_stitt_2026}.",
+  "Board structure: seats are tied to residence districts plus one at-large seat. Election coverage shows two District 1 seats elected in 2024, District 2 seats elected in 2024 and 2022, two District 3 seats elected in 2018 and 2022, and the at-large seat elected in 2018 and 2022 {kpc_2024_06}{kpc_2022_08}{kpc_2018}. When no one files for a seat, the board fills it by appointment {kpc_2022_08}{kpc_2018}.",
+  "Who holds the seats on the ballot: in January 2026 the Herald Republican listed Ben Roederer as the District 2 member and 'Andrew Lies, Jim Hauguel and Abby Probst' as the District 3 trustees {kpc_2026_01}. County results show Probst won the at-large seat in 2022 and Lies ran unopposed for District 3 {steuben_2022}. In 2022 two District 3 seats were open and Lies was the only candidate {kpc_2022_08}. This guide did not find when or how Hauguel joined the board; he is not on the 2026 ballot {in_list}.",
+  "Seats on the 2026 ballot: District 2 (one seat; incumbent Benjamin Roederer, no party, against Travis Smoker, Republican) and the at-large seat (incumbent Abby K Probst, Republican, unopposed) {kpc_2026_07}{in_list}. In District 3 the state list shows Andrea Vaughn and incumbent Andrew J Lies, both nonpartisan, under 'vote for 1' {in_list}. Two District 3 seats were on the ballot in 2018 and 2022, and in May 2026 local media reported 'District 3 (three seats)' {kpc_2018}{kpc_2022_08}{wfga_2026_05}{kpc_2026_05}. This guide could not find a Steuben County sample ballot to confirm how many District 3 members voters will elect.",
+  "Party labels: 2026 is the first year Indiana school board candidates could file with a party. A candidate who claims a party must meet the state's two-primary rule or get a county chair's approval, and straight-ticket votes do not count for school board races {kpc_2026_05}.",
+  "Operating referendum: Fremont's first operating referendum passed in 2015 and expired. A renewal failed in May 2023, 510-433 {kpc_ref_2024_02}. In May 2024 voters approved a new eight-year levy of 15 cents per $100 of assessed value, 51.69% to 48.31% {kpc_ref_2024_05}{dlgf_fremont_2024}. The district said the levy would raise about $2.38 million a year: $1 million to retain and attract teachers and staff, $1 million for academic programs and $384,719 for the operations fund {kpc_ref_2024_02}. This guide found no reporting on how the 2025 property-tax law SEA 1 affects the district.",
+  "Academics: 68 of 72 Fremont third graders (94.4%) passed IREAD in 2026 {kpc_iread_2026}. Under Indiana's new accountability system, Stitt said the district had been 'A' rated for several years under the old grading system and that funding is now tied to how many students earn graduation seals {kpc_stitt_2026}.",
+  "Board meetings have been streamed online since November 2020 {kpc_stream_2025}.",
+  "Forums: this guide found no 2026 candidate forum, questionnaire or campaign website for these races."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Abby K Probst",
+   "seat": "At Large",
+   "summary": "Incumbent, elected in 2022; unopposed {steuben_2022}{kpc_2026_07}.",
+   "website": null,
+   "background": [
+    "Won the at-large seat in November 2022 with 1,373 votes (77.18%) to 406 for Nicholas Treat; the seat had been held by Anna Creager, who did not seek a third term {steuben_2022}{kpc_2022_08}."
+   ],
+   "path_to_ballot": [
+    "Running unopposed as a Republican, according to the Herald Republican and the state list {kpc_2026_07}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. This guide found no public statements from her on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign statements, website, questionnaire answers, occupation or endorsements found.",
+    "The July 2026 Herald Republican article calls her 'Amy Probst'; the state list and 2022 county results say Abby.",
+    "No campaign finance reports found online."
+   ]
+  },
+  {
+   "ballot_name": "Benjamin J Roederer",
+   "seat": "District 2",
+   "summary": "Incumbent and former Fremont superintendent, elected in 2022 {kpc_2022_08}{steuben_2022}.",
+   "website": null,
+   "background": [
+    "A Louisville, Kentucky native who started his career teaching in South Bend, where he was also a guidance counselor and assistant principal {kpc_roederer_2026}.",
+    "Came to Fremont in 1981 as elementary principal, then became assistant superintendent and later superintendent; he also coached basketball, baseball and softball {kpc_roederer_2026}{kpc_2022_08}.",
+    "Helped build the pavilion and ball diamonds at Vistula Park, a recreation area the school district owns; its three fields are named in his honor {kpc_roederer_2026}. The Fremont Alumni Association honored him in May 2026 {kpc_roederer_2026}.",
+    "Won the District 2 seat in November 2022 with 737 votes (42.02%), ahead of Kayla Delong (699) and Kurtis K Dennis (318) {steuben_2022}."
+   ],
+   "path_to_ballot": [
+    "Running for re-election with no party listed (nonpartisan) {kpc_2026_07}{in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Academics",
+     "items": [
+      "Explaining his move from teaching to administration, he said he believed he 'could effect more kids and help those great teachers out there' {kpc_roederer_2026}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member. This guide found no public statements from him on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign statements, website, questionnaire answers or endorsements found.",
+    "No campaign finance reports found online."
+   ]
+  },
+  {
+   "ballot_name": "Travis Smoker",
+   "seat": "District 2",
+   "summary": "Challenger for the District 2 seat; filed as a Republican {kpc_2026_07}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Filed as a Republican to challenge incumbent Benjamin Roederer {kpc_2026_07}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no news coverage beyond his filing, and no campaign website, questionnaire or public statements; occupation and ties to the schools are unknown.",
+    "No campaign finance reports found online."
+   ]
+  },
+  {
+   "ballot_name": "Andrea Vaughn",
+   "seat": "District 3",
+   "summary": "Candidate for District 3; listed as nonpartisan {in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed as nonpartisan on the state list {in_list}. She was not in the Herald Republican's July 14, 2026 list of candidates, which did not mention a District 3 race {kpc_2026_07}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no news coverage, campaign website, questionnaire or public statements for this candidate; occupation and ties to the schools are unknown.",
+    "Whether she is running against Lies for one seat or alongside him for two seats could not be confirmed.",
+    "No campaign finance reports found online."
+   ]
+  },
+  {
+   "ballot_name": "Andrew J Lies",
+   "seat": "District 3",
+   "summary": "Incumbent, elected unopposed in 2022 {steuben_2022}{kpc_2026_01}.",
+   "website": null,
+   "background": [
+    "Was the only candidate for two open District 3 seats in 2022 and won one unopposed, with 1,485 votes {kpc_2022_08}{steuben_2022}."
+   ],
+   "path_to_ballot": [
+    "Listed as nonpartisan on the state list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {kpc_2026_01}. This guide found no public statements from him on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign statements, website, questionnaire answers, occupation or endorsements found.",
+    "No campaign finance reports found online."
+   ]
+  }
+ ],
+ "review_flags": [
+  {
+   "person": "Andrew J Lies",
+   "category": "other",
+   "status": "held",
+   "summary": "In August 2022 the Herald Republican reported that Lies 'unsuccessfully sued the district last year in a dispute over the school's COVID-19 policies,' and that the suit was dismissed in the district's favor in Steuben Circuit Court in early January 2022 {kpc_2022_08}. This guide found no response from Lies.",
+   "note": "A civil lawsuit against the district he now helps govern. Only this newspaper account was read; the court record, the claims and how the case was dismissed were not checked."
+  }
+ ],
+ "sources": {
+  "idoe_enroll": [
+   "Corporation Enrollment by Grade Level, 2006-26",
+   "Indiana Department of Education",
+   "2026",
+   "https://www.in.gov/doe/files/corporation-enrollment-grade-2006-26.xlsx"
+  ],
+  "kpc_2026_07": [
+   "Several running for boards of education",
+   "The Herald Republican (KPC News)",
+   "2026-07-14",
+   "https://www.kpcnews.com/heraldrepublican/article_02f72cb4-ddbb-4993-9406-072aaa343ccb.html"
+  ],
+  "kpc_2026_05": [
+   "School elections become partisan this cycle",
+   "The Herald Republican (KPC News)",
+   "2026-05-19",
+   "https://www.kpcnews.com/heraldrepublican/article_d96ef37c-4f49-4b53-9e48-fbdbe4bc47d4.html"
+  ],
+  "kpc_2026_01": [
+   "Numerous seats are up for election this year",
+   "The Herald Republican (KPC News)",
+   "2026-01-06",
+   "https://www.kpcnews.com/heraldrepublican/article_48e310ba-df36-4d15-a526-2d3b9e906325.html"
+  ],
+  "kpc_2022_08": [
+   "Candidates file for school seats",
+   "The Herald Republican (KPC News)",
+   "2022-08-26",
+   "https://www.kpcnews.com/heraldrepublican/article_c0c69ec9-3bce-5709-afc6-d9f69264f8fa.html"
+  ],
+  "kpc_2018": [
+   "GOP keeps iron lid on Steuben County offices",
+   "The Herald Republican (KPC News)",
+   "2018-11-07",
+   "https://www.kpcnews.com/heraldrepublican/article_0be61e22-76f9-5cb9-be0f-679ce7e704ba.html"
+  ],
+  "kpc_2024_06": [
+   "One contested school board race emerges",
+   "KPC News",
+   "2024-06-24",
+   "https://www.kpcnews.com/article_b3815a6d-58c9-579d-8566-43c2fe0e742e.html"
+  ],
+  "steuben_2022": [
+   "2022 General Election Summary Results",
+   "Steuben County Clerk",
+   "2022-11-08",
+   "https://www.co.steuben.in.us/2022%20General.pdf"
+  ],
+  "wfga_2026_05": [
+   "Indiana School Board Candidates Will Run With Party Labels For First Time",
+   "WFGA / Swick Broadcasting",
+   "2026-05-20",
+   "https://www.realcountry1067.com/view_article.php?id=3758"
+  ],
+  "kpc_ref_2024_02": [
+   "Fremont board approves seeking referendum",
+   "The Herald Republican (KPC News)",
+   "2024-02-06",
+   "https://www.kpcnews.com/heraldrepublican/article_501f558e-ba66-5188-93f0-68804882b08e.html"
+  ],
+  "kpc_ref_2024_05": [
+   "Fremont school referendum passes",
+   "KPC News",
+   "2024-05-07",
+   "https://www.kpcnews.com/election/article_9d3ba451-ee11-555c-ab2e-5f55a51d20af.html"
+  ],
+  "dlgf_fremont_2024": [
+   "Findings and Final Determination on Proposed Question, Fremont Community Schools (No. 24-004-REF)",
+   "Indiana Department of Local Government Finance",
+   "2024-02-21",
+   "https://www.in.gov/dlgf/files/referendum-documentation2/Referendum-2-Determination-Operating-Fremont-Community-Schools.pdf"
+  ],
+  "kpc_stitt_2026": [
+   "Governor approves achievement-based education evaluation system",
+   "The Herald Republican (KPC News)",
+   "2026-05-18",
+   "https://www.kpcnews.com/heraldrepublican/article_33b2606a-4567-4c2b-8f69-3302caaa9c8b.html"
+  ],
+  "kpc_iread_2026": [
+   "Indiana students improve IREAD performances",
+   "The Herald Republican (KPC News)",
+   "2026-08-13",
+   "https://www.kpcnews.com/heraldrepublican/article_6e43a6c6-e4da-46c2-8505-da1462c1ad93.html"
+  ],
+  "kpc_stream_2025": [
+   "Government units prepared to start live streaming meetings under new law",
+   "The Herald Republican (KPC News)",
+   "2025-06-30",
+   "https://www.kpcnews.com/heraldrepublican/article_9c8778db-6d6c-4e6a-91f6-bbd857ab6cfd.html"
+  ],
+  "kpc_roederer_2026": [
+   "Fremont alumni will honor teacher/administrator/coach Ben Roederer",
+   "The Herald Republican (KPC News)",
+   "2026-05-14",
+   "https://www.kpcnews.com/heraldrepublican/article_8ede2db9-b97b-4525-9a67-1f615ab07195.html"
+  ]
+ }
+}

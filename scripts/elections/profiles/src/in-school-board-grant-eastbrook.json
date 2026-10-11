@@ -1,0 +1,170 @@
+{
+ "race_id": "in-school-board-grant-eastbrook",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The 'Grant Eastbrook Community School Board' races on the state list are for Eastbrook Community Schools Corporation in eastern Grant County, whose offices are at 560 S. 900 E., Marion {in_list}{eb_board}. Eastbrook High School serves students from Upland, Washington Township, Matthews and Van Buren, and the district's elementary schools are Eastbrook South in Upland and Eastbrook North in Van Buren {wiki_ehs}. Federal data reported through PlainSchools show 1,579 students in 2024-25, down from 1,668 in 2022-23 and 1,621 in 2023-24, in five schools {plainschools_eb}.",
+  "Superintendent: on April 27, 2026, the board voted 5-0 to hire Patrick McLaughlin, a former Eastbrook principal, on a three-year contract running July 1, 2026 to June 30, 2029 at a $135,000 base salary, with McLaughlin serving as interim superintendent from May 4 {ct_mclaughlin}. He replaced Brett Garrett, who led the district for more than 13 years and retired on Feb. 1, 2026; Stephan Darnell served as interim superintendent during the search {ct_search_feb2026}{ct_mclaughlin}.",
+  "The board has five members. The district lists Roger Richards (president), Eric Hinderliter (vice president), Patrick Pinkerton (secretary), Chris Duckwall and Daniel Spencer, whom it lists as 'Interim Board Member (12-31-26)' {eb_board}. The district's board page does not say which district each member represents {eb_board}. In the 2024 election, Duckwall won the District 5 at-large seat over incumbent Daniel E. Spencer, and Pinkerton was reelected; both took office in January 2025 {ct_duckwall}{ct_newmember}.",
+  "Seats on the 2026 ballot: one seat each in Districts 1, 2 and 3. The state list says 'vote for 1' in each {in_list}, and the Chronicle-Tribune's Oct. 3, 2026 ballot list agrees {ct_ballot_2026}. District 1 and District 2 are contested; Eric C Hinderliter is the only candidate in District 3 {in_list}{ct_ballot_2026}.",
+  "Who holds the seats: District 2 is held by Daniel Spencer, whom the board appointed by roll-call vote on July 13, 2026 to fill a District 2 seat 'for the remainder of the term ending December 31, 2026' {eb_min_20260713}. Spencer is not on the ballot, so District 2 is an open seat {in_list}. The minutes do not say who left the seat; Danny Combs was a board member in April 2026 {ct_mclaughlin} and is not on the board's July 2026 roll {eb_min_20260713}. The district does not publish which of the other members hold District 1 and District 3. Pinkerton and Duckwall were elected in 2024, which leaves Richards and Hinderliter as the members whose terms likely end in 2026 {ct_newmember}{eb_board}. Hinderliter is the District 3 candidate, and Roger Richards is not on the ballot {in_list}. This guide therefore believes District 1 is an open seat, but it could not confirm that from a district record. Richards said in April 2026 that he had served 23 years on the board {ct_mclaughlin}.",
+  "2027 budget (September-October 2026): the district advertised a 2027 budget of $20,696,761 across the Rainy Day, Debt Service, Education and Operations funds, with a public hearing on Sept. 28 and adoption set for Oct. 12, 2026 {eb_budget3}. The notice estimates a $291,900 property-tax-cap credit {eb_budget3}. On July 13, 2026, the board voted 4-0 to transfer amounts from the Debt Service Fund to the Operations Fund {eb_min_20260713}. The Oct. 12 agenda includes adopting the budget and a transfer from the Education Fund to the Operations Fund {eb_agenda_20261012}. In January 2025, then-superintendent Garrett said funds were down 'between $300,000 and $400,000' compared with the start of 2023 because of falling enrollment, but added that 'we are still in a very good spot' {ct_newmember}.",
+  "Facilities and bonds (2024-2026): in December 2024, a resident told the board he opposed spending '$10 million to $18 million' on a proposed sports complex and urged spending on vocational programs instead {ct_athletic}. In March 2025, Garrett said that ideas for main-campus improvements were 'not imminent' {ct_campus}. On Sept. 14, 2026, the board voted 5-0 to approve a $1,000,000 additional appropriation of bond proceeds for renovations, site improvements, technology, equipment and buses, and it adopted a final bond resolution {eb_approp_notice}{eb_min_20260914}. On Sept. 28, 2026, it voted 4-1 to hire Viridian Architectural Design for a districtwide facility assessment. Spencer voted no, citing the $22,000 cost {ct_architect}{eb_min_20260928}. The 2027 capital projects plan lists boiler replacement ($400,000), security cameras ($250,000) and other building work {eb_cap_plan}.",
+  "School safety (September 2026): the board accepted a $51,600 Secured School Safety Grant toward school resource officers. McLaughlin said the amount was not enough to expand from one and a half officer positions to two {ct_safety}{eb_min_20260914}.",
+  "Referendum: Eastbrook has no referendum on the November 2026 ballot. The Chronicle-Tribune's ballot list includes referendum questions only for Mississinewa and Oak Hill {ct_ballot_2026}.",
+  "Forums: this guide found no 2026 candidate forum or questionnaire for the Eastbrook races. The Chronicle-Tribune printed the candidate list on Oct. 3, 2026 {ct_ballot_2026}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Daniel W. Mayer",
+   "seat": "District 1",
+   "summary": "Republican candidate for the District 1 seat, which this guide believes is open {in_list}{ct_ballot_2026}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "The state lists him as a Republican {in_list}. The Indiana Citizen's copy of the state list gives June 16, 2026 as his filing date {incitizen_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no campaign website, social media page, news coverage or questionnaire for this candidate.",
+    "Occupation, community roles and ties to Eastbrook schools could not be found.",
+    "No campaign finance reports were found."
+   ]
+  },
+  {
+   "ballot_name": "Eric Richards",
+   "seat": "District 1",
+   "summary": "Nonpartisan candidate for the District 1 seat, which this guide believes is open {in_list}{ct_ballot_2026}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "The state lists him as Nonpartisan {in_list}. The Indiana Citizen's copy of the state list gives May 22, 2026 as his filing date {incitizen_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no campaign website, social media page, news coverage or questionnaire for this candidate.",
+    "Occupation, community roles and ties to Eastbrook schools could not be found.",
+    "This guide could not confirm who now holds the District 1 seat. Board President Roger Richards is not on the ballot, and this guide found no source describing any connection between the candidate and the board member.",
+    "No campaign finance reports were found."
+   ]
+  },
+  {
+   "ballot_name": "Emilee Stotts",
+   "seat": "District 2",
+   "summary": "Nonpartisan candidate for the open District 2 seat, now held by appointee Daniel Spencer, who is not running {in_list}{eb_min_20260713}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "The state lists her as Nonpartisan {in_list}. The Indiana Citizen's copy of the state list gives June 15, 2026 as her filing date {incitizen_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no campaign website, social media page, news coverage or questionnaire for this candidate.",
+    "Occupation, community roles and ties to Eastbrook schools could not be found.",
+    "This guide could not tell whether she applied for the July 2026 District 2 appointment. The minutes do not name the applicants who were interviewed.",
+    "No campaign finance reports were found."
+   ]
+  },
+  {
+   "ballot_name": "John Neargardner",
+   "seat": "District 2",
+   "summary": "Nonpartisan candidate for the open District 2 seat, now held by appointee Daniel Spencer, who is not running {in_list}{eb_min_20260713}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "The state lists him as Nonpartisan {in_list}. The Indiana Citizen's copy of the state list gives June 17, 2026 as his filing date {incitizen_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no campaign website, social media page, news coverage or questionnaire for this candidate.",
+    "The board's July 13, 2026 minutes approve a 'John Neargardner' as a trap team volunteer coach. This guide could not confirm that this is the candidate.",
+    "Occupation and community roles could not be confirmed.",
+    "No campaign finance reports were found."
+   ]
+  },
+  {
+   "ballot_name": "Eric C Hinderliter",
+   "seat": "District 3",
+   "summary": "Board vice president Eric Hinderliter is the only candidate in District 3. This guide believes he holds the seat, but the district does not publish members' districts {eb_board}{in_list}.",
+   "website": null,
+   "background": [
+    "The district lists Eric Hinderliter as board vice president {eb_board}. He was vice president in February 2026 {ct_search_feb2026}. In January 2025 he was nominated to be board president, and the nominations for 2025 officers were approved 3-1, with each nominee abstaining {ct_newmember}.",
+    "During the 2026 superintendent search, the Chronicle-Tribune reported that he was the board's main spokesperson on the search {ct_search_feb2026}."
+   ],
+   "path_to_ballot": [
+    "The state lists him as a Republican {in_list}. The Indiana Citizen's copy of the state list gives May 29, 2026 as his filing date {incitizen_list}. He has no opponent {in_list}{ct_ballot_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Facilities",
+     "items": [
+      "On Sept. 28, 2026, he moved to hire Viridian Architectural Design to do a facility assessment of all district buildings. The motion passed 4-1 {ct_architect}{eb_min_20260928}.",
+      "On Aug. 24, 2026, he moved to accept a bid to replace the stadium's perimeter fencing, which passed 4-1. On Sept. 14, 2026, he moved to adopt the additional appropriation resolution for bond proceeds, which passed 5-0 {eb_min_20260824}{eb_min_20260914}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "In February 2026 he said the board's online survey on the superintendent search had received more than 300 responses {ct_search_feb2026}. He said the district had received 16 applications and called it 'a strong pool of candidates' {ct_search_feb2026}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "He moved the first and second readings of the updated classified (non-teaching) staff handbook and the first reading of the certified (teaching) staff handbook in September 2026. Each passed 4-1 {eb_min_20260914}{eb_min_20260928}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member. When McLaughlin was hired in April 2026, Hinderliter said, 'I think we're really blessed to have a leader like you, and I'm excited for the next step in Eastbrook's future.' {ct_mclaughlin}"
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no campaign website, campaign statements or questionnaire answers for 2026.",
+    "Occupation and when he first joined the board could not be found.",
+    "A search-result summary of Ballotpedia says he holds the District 3 seat. This guide could not load that page, so the claim is unverified.",
+    "No campaign finance reports were found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "incitizen_list": ["2026 Indiana General Election School Board Candidate List", "The Indiana Citizen", "2026-08", "https://indianacitizen.org/2026-indiana-general-election-school-board-candidate-list/"],
+  "eb_board": ["School Board", "Eastbrook Community Schools", "2026-10", "https://www.eastbrook.k12.in.us/356893_2"],
+  "eb_min_20260713": ["Board Minutes - July 13, 2026", "Eastbrook Community Schools Corporation", "2026-07-13", "https://files.smartsites.parentsquare.com/11443/07_july_13_2026_-_board_minutes_1.pdf"],
+  "eb_min_20260824": ["Board Minutes - August 24, 2026", "Eastbrook Community Schools Corporation", "2026-08-24", "https://files.smartsites.parentsquare.com/11443/08_august_24_2026_-_board_minutes.pdf"],
+  "eb_min_20260914": ["Board Minutes - September 14, 2026", "Eastbrook Community Schools Corporation", "2026-09-14", "https://files.smartsites.parentsquare.com/11443/09_sept_14_2026_-_board_minutes.pdf"],
+  "eb_min_20260928": ["Board Minutes - September 28, 2026", "Eastbrook Community Schools Corporation", "2026-09-28", "https://files.smartsites.parentsquare.com/11443/09_sept_28_2026_-_board_minutes.pdf"],
+  "eb_agenda_20261012": ["Board of Education - Regular Meeting agenda, October 12, 2026", "Eastbrook Community Schools Corporation", "2026-10-12", "https://files.smartsites.parentsquare.com/11443/10_october_12_2026_agenda.pdf"],
+  "eb_budget3": ["Notice to Taxpayers (Budget Form 3), 2027 budget", "Eastbrook Community School Corporation", "2026-09-15", "https://files.smartsites.parentsquare.com/11443/notice_to_taxpayers_budget_3_form.pdf"],
+  "eb_cap_plan": ["Capital Projects Plan - Budget Year 2027", "Eastbrook Community Schools", "2026-10", "https://files.smartsites.parentsquare.com/11443/capital_projects_plan__budget_year_2027.pdf"],
+  "eb_approp_notice": ["Notice to Taxpayers of Additional Appropriation", "Eastbrook Community Schools Corporation", "2026-09-02", "https://files.smartsites.parentsquare.com/11443/eastbrook_school_-_notice_of_additional_appropriation_hearing_-_2026_go_4925-8345-6201v1.pdf"],
+  "plainschools_eb": ["Eastbrook Schools (NCES Common Core of Data, 2024-25)", "PlainSchools", "2026-10", "https://plainschools.com/districts/eastbrook-community-sch-corp-in"],
+  "wiki_ehs": ["Eastbrook High School", "Wikipedia", "2026-10", "https://en.wikipedia.org/wiki/Eastbrook_High_School"],
+  "ct_ballot_2026": ["Time to vote: Who is on the ballot for November?", "Chronicle-Tribune", "2026-10-03", "https://www.chronicle-tribune.com/news/time-to-vote-who-is-on-the-ballot-for-november/article_546f6821-370e-5d3a-b8dc-1d2c9dd38090.html"],
+  "ct_mclaughlin": ["Eastbrook names McLaughlin new superintendent", "Chronicle-Tribune", "2026-04-29", "https://www.chronicle-tribune.com/news/eastbrook-names-mclaughlin-new-superintendent/article_67a9275f-f4b8-5d63-8016-231ae7def5f1.html"],
+  "ct_search_feb2026": ["Hinderliter: 'We have a strong pool of candidates'", "Chronicle-Tribune", "2026-02-10", "https://www.chronicle-tribune.com/news/hinderliter-we-have-a-strong-pool-of-candidates/article_32a4303d-2c36-52b6-9c9e-ae68d577d620.html"],
+  "ct_safety": ["Eastbrook awarded $51,600 school safety grant", "Chronicle-Tribune", "2026-09-18", "https://www.chronicle-tribune.com/news/eastbrook-awarded-51-600-school-safety-grant/article_eea785cd-ad45-5d9c-8c25-ebccb800ce57.html"],
+  "ct_architect": ["Eastbrook hires new architect", "Chronicle-Tribune", "2026-10-10", "https://www.chronicle-tribune.com/news/eastbrook-hires-new-architect/article_9c4e128c-66ba-5fd3-bc4b-7024c56bd2c6.html"],
+  "ct_newmember": ["Eastbrook School Board welcomes new member", "Chronicle-Tribune", "2025-01-16", "https://www.chronicle-tribune.com/news/eastbrook-school-board-welcomes-new-member/article_9742396b-4b8d-5139-acbe-22840ade3b9d.html"],
+  "ct_duckwall": ["Duckwall defeats incumbent for Eastbrook School Board seat", "Chronicle-Tribune", "2024-11-06", "https://www.chronicle-tribune.com/news/duckwall-defeats-incumbent-for-eastbrook-school-board-seat/article_4b707c14-6f70-5191-9da3-e696f406855a.html"],
+  "ct_athletic": ["Eastbrook School Board hears public pushback over new athletic complex", "Chronicle-Tribune", "2024-12-02", "https://www.chronicle-tribune.com/news/eastbrook-school-board-hears-public-pushback-over-new-athletic-complex/article_590d5567-9e64-5c27-bdf6-e0b4c448d155.html"],
+  "ct_campus": ["Eastbrook to share main campus improvement ideas", "Chronicle-Tribune", "2025-03-14", "https://www.chronicle-tribune.com/news/eastbrook-to-share-main-campus-improvement-ideas/article_02d9b41a-12c5-5d51-b870-a00f65417039.html"]
+ }
+}

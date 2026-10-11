@@ -14,6 +14,8 @@ multi-seat but not yet confirmed from a 2026 county ballot:
 | Jennings County School Board, District 4 | 2 | 2018 and 2022 elected 2 |
 | Jennings County School Board, At Large | 2 | 2022 elected 2 |
 | Duneland School Board (all races) | ? | Porter County ballots not reachable |
+| Fulton Rochester School Board District 2, Rochester 2 | 3 | 2022 ballot "choose up to three"; three terms end 2026; Sentinel's 2026 list conflicts |
+| Jay School Board, District 1 | 0 on ballot | seat due in 2026 but no one filed; how it is filled is unknown |
 
 Also confirm with county election offices:
 - Hammond At Large: Cristina McNeiley on the state list but not on the Lake County sample ballot.

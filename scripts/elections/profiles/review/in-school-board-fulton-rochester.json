@@ -1,0 +1,27 @@
+{
+ "race_id": "in-school-board-fulton-rochester",
+ "office": "Indiana School Board Member",
+ "flags": [
+  {
+   "person": "Tim Durkes",
+   "category": "remark",
+   "status": "held",
+   "summary": "At a Fulton County Council meeting reported on May 23, 2026, a meeting attendee named Tim Durkes asked whether he could make a formal request to remove a Board of Zoning Appeals appointee. Durkes objected that the appointee had used a profanity about the county attorney on social media, and he repeated that word while making the point. Council member Ron Dittman replied, 'We're not talking about what's on social media. We're talking about a lawsuit.'  In January 2026 the Sentinel reported that the city had hired a Tim Durkes as its code enforcement officer.",
+   "note": "This is a public remark at a county meeting and not about schools. The article does not say this is the school board candidate. A Tim Durkes is also the city's code enforcement officer {rs_soc}. Identity is unconfirmed, and no response from Durkes was found.",
+   "sources": [
+    {
+     "title": "County Council discusses BZA appointee and conflict of interest",
+     "publisher": "Rochester Sentinel",
+     "date": "2026-05-23",
+     "url": "https://www.rochsent.com/news/county-council-discusses-bza-appointee-and-conflict-of-interest/article_885bdffb-39d7-5de2-9212-9a8c2484810b.html"
+    },
+    {
+     "title": "Mayor Odell urges community to stay connected at State of the City address",
+     "publisher": "Rochester Sentinel",
+     "date": "2026-01-24",
+     "url": "https://www.rochsent.com/news/mayor-odell-urges-community-to-stay-connected-at-state-of-the-city-address/article_13a9525c-0041-52ce-ae85-ca526422dc01.html"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,181 @@
+{
+ "race_id": "in-school-board-fulton-rochester",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The 'Fulton Rochester School Board' races on the state list are for Rochester Community School Corporation in Rochester, Fulton County {in_list}{rcs_board}. The district says it serves about 1,400 students in The Learning Center, Columbia Elementary (PreK-1), Riddle Elementary (grades 2-4), Rochester Middle School (grades 5-7) and Rochester High School (grades 8-12) {rcs_about}.",
+  "The superintendent is Jana Vance {rs_phones}. In August 2025 she said she was in her 11th year as superintendent. Before that she was a teacher, guidance counselor, assistant principal and Rochester Middle School principal in the district {rs_state_schools}.",
+  "The board has seven members. The district lists Casi Cowles (president), Katie Miller (vice president), Jennie Smith (secretary), Mark Martens, Kyle Rensberger, Ethan Trottier and Stephen Williams {rcs_board}. Seats are tied to areas of the district. In 2022 the Rochester Sentinel reported that Richland Township 'has a designated seat on the board' {rs_2022_ballotset}. That year's ballot listed 'Rochester School Board, Dist. 1' with one candidate (Mark E. Martens) and 'Dist. 2' with 'Choose up to three' (Jennifer M. Smith, Ethan Trottier and Stephen Williams) {rs_2022_guide}. All four were elected {rs_2022_results}. Cowles, Miller and Rensberger were reelected to at-large seats in 2024 {rs_2024_vote}.",
+  "District 1 (Richland) race: one seat. Mark Martens, elected to this seat in 2022, is not on the 2026 ballot, so the seat is open {rs_2022_guide}{in_list}. Kalyn Ranstead is the only candidate {in_list}.",
+  "District 2 (Rochester) race: three seats, not one. The state list says 'vote for 1' {in_list}. However, the three District 2 seats filled in 2022 ('Choose up to three') belong to Smith, Trottier and Williams, whose four-year terms run through 2026 {rs_2022_guide}{rs_2022_results}{rcs_board}. Smith and Trottier are running again, and Williams is not on the ballot {in_list}. Four candidates are running {in_list}.",
+  "Ballot-list discrepancy: the Rochester Sentinel's Oct. 3, 2026 list of Fulton County candidates labels the school board race 'At-large' and names four candidates, Michael A. Doran, Tim Durkes, Kalyn Ranstead and Jennifer Smith, without Ethan Trottier {rs_ballot_2026}. The state list places Ranstead in District 1 (Richland) and includes Trottier in District 2 {in_list}. The same Sentinel list names an 'Ethan Trottier, Republican' as a candidate for the Newcastle Township Advisory Board {rs_ballot_2026}. Voters should check their own ballot.",
+  "2027 budget (September-October 2026): the district advertised a 2027 budget of $21,120,000, including $12,950,000 in the Education Fund, $4,670,000 in Operations and $3,500,000 in Debt Service. The public hearing was set for Sept. 21 and adoption for Oct. 19, 2026 {rcs_budget3}. The notice estimates a $234,700 property-tax-cap credit {rcs_budget3}.",
+  "Costs and state funding (August 2025): Vance said more than half of students qualify for free or reduced-price lunch (58.3 percent at Rochester) and that the district's English-learner population is growing {rs_state_schools}. She said state 'unfunded mandates' and rising costs for electricity, insurance and supplies were adding pressure while the district was 'not getting any help from the state.' {rs_state_schools}",
+  "Facilities: a $2,756,000 renovation of the Rochester Middle School natatorium was paid for with general obligation bond proceeds and was expected to be finished by the 2025-26 school year {rs_pool}. In August 2025 Vance also cited $1.2 million in roof replacements at Riddle Elementary and a planned renovation of the high school tennis courts {rs_state_schools}.",
+  "Programs: the district reported a 100 percent graduation rate in 2024 and credited its preschool, internships and vocational programs, including CDL and heavy-equipment classes {rs_state_schools}. Vance said a community day care, Little Zebbie's, was being funded by a $2.5 million READI 2.0 grant, with groundbreaking planned for 2026 {rs_state_schools}. Starting in August 2026, students must keep phones silenced and stored in lockers during the school day to comply with state law {rs_phones}.",
+  "Forums: this guide found no 2026 candidate forum or questionnaire for the Rochester races."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Kalyn Ranstead",
+   "seat": "District 1, Richland 1",
+   "summary": "Nonpartisan candidate, unopposed, for the open Richland Township seat now held by Mark Martens, who is not running {in_list}{rs_2022_guide}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "The state lists her as Nonpartisan {in_list}. The Indiana Citizen's copy of the state list gives June 12, 2026 as her filing date {incitizen_list}. She has no opponent {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no campaign website, social media page, news coverage or questionnaire for this candidate.",
+    "Occupation, community roles and ties to Rochester schools could not be found.",
+    "The Rochester Sentinel lists her as an 'at-large' candidate, while the state lists her for the District 1 (Richland) seat. This guide could not resolve the difference.",
+    "No campaign finance reports were found."
+   ]
+  },
+  {
+   "ballot_name": "Ethan L Trottier",
+   "seat": "District 2, Rochester 2",
+   "summary": "Incumbent, first elected in 2022 and seeking another term in District 2, where three seats are up {rs_2022_results}{rcs_board}{in_list}.",
+   "website": null,
+   "background": [
+    "Is a Rochester High School graduate who served as a student non-voting member of the Rochester Park Board {rs_2024_youth}.",
+    "In 2023 the Rochester Park Board named an Ethan Trottier as one of the managers of the city pool {rs_2023_park}.",
+    "In January 2024, Rochester's mayor named school board member Ethan Trottier to the Rochester Redevelopment Commission, replacing board member Katie Miller {rs_2024_council}."
+   ],
+   "path_to_ballot": [
+    "Was elected to the board in November 2022 and sworn in in January 2023 {rs_2022_results}{rs_2023_sworn}.",
+    "The state lists him as Nonpartisan {in_list}. The Indiana Citizen's copy of the state list gives June 18, 2026 as his filing date {incitizen_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {rcs_board}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no campaign website, campaign statements or questionnaire answers for 2026, and no news account of his votes or statements on school board business.",
+    "His current occupation could not be confirmed.",
+    "The Rochester Sentinel's Oct. 3, 2026 candidate list leaves him out of the school board race and lists an 'Ethan Trottier, Republican' for the Newcastle Township Advisory Board. This guide could not confirm whether this is the same person or whether the list contains an error.",
+    "Board minutes on BoardDocs could not be reached, so his voting record was not reviewed.",
+    "No campaign finance reports were found."
+   ]
+  },
+  {
+   "ballot_name": "Jennifer Roberts Smith",
+   "seat": "District 2, Rochester 2",
+   "summary": "Incumbent and board secretary, seeking another term in District 2, where three seats are up. The board lists her as Jennie Smith {rcs_board}{rs_2022_ballotset}{in_list}.",
+   "website": null,
+   "background": [
+    "The district lists 'Jennie Smith' as board secretary {rcs_board}. She was board vice president in 2020 and secretary in 2022 {rs_2020_officers}{rs_2022_officers}."
+   ],
+   "path_to_ballot": [
+    "In 2022 the Sentinel described Jennifer Smith as the only incumbent among the Rochester school board candidates, and she was reelected {rs_2022_ballotset}{rs_2022_results}.",
+    "The state lists her as Nonpartisan {in_list}. The Indiana Citizen's copy of the state list gives June 10, 2026 as her filing date {incitizen_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Academics",
+     "items": [
+      "In May 2020, during pandemic school closures, she opposed a request to change how fourth-quarter grades would count for high school students. She said she had 'some strong concerns that this is wiping out the past nine weeks' and that 'these students use virtual learning all the time.' All six members present voted no {rs_2020_grades}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "In March 2020 the board debated whether to pay hourly staff 80 or 100 percent of their wages during the closure. She favored 80 percent so there would be an incentive for reassigned staff to come to work, and the board settled on 80 percent {rs_2020_pay}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member {rcs_board}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no campaign website, campaign statements or questionnaire answers for 2026.",
+    "The ballot name (Jennifer Roberts Smith), the 2022 ballot name (Jennifer M. Smith) and the district's listing (Jennie Smith) differ. This guide treats them as the same incumbent because the Sentinel called Jennifer Smith the only incumbent in 2022, but no source states this directly.",
+    "When she first joined the board and her occupation could not be found.",
+    "Board minutes on BoardDocs could not be reached, so her recent votes were not reviewed. The positions above are from 2020.",
+    "No campaign finance reports were found."
+   ]
+  },
+  {
+   "ballot_name": "Michael A Doran",
+   "seat": "District 2, Rochester 2",
+   "summary": "Republican candidate for one of three District 2 seats {in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "The state lists him as a Republican {in_list}. The Indiana Citizen's copy of the state list gives June 17, 2026 as his filing date {incitizen_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no campaign website, social media page, news coverage or questionnaire for this candidate.",
+    "Occupation, community roles and ties to Rochester schools could not be found.",
+    "No campaign finance reports were found."
+   ]
+  },
+  {
+   "ballot_name": "Tim Durkes",
+   "seat": "District 2, Rochester 2",
+   "summary": "Nonpartisan candidate for one of three District 2 seats {in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "The state lists him as Nonpartisan {in_list}. The Indiana Citizen's copy of the state list gives June 12, 2026 as his filing date {incitizen_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no campaign website, social media page or questionnaire for this candidate.",
+    "The Rochester Sentinel reported in January 2026 that the City of Rochester had hired a Tim Durkes as its code enforcement officer. This guide could not confirm that this is the candidate.",
+    "No campaign finance reports were found."
+   ]
+  }
+ ],
+ "review_flags": [
+  {
+   "person": "Tim Durkes",
+   "category": "remark",
+   "status": "held",
+   "summary": "At a Fulton County Council meeting reported on May 23, 2026, a meeting attendee named Tim Durkes asked whether he could make a formal request to remove a Board of Zoning Appeals appointee. Durkes objected that the appointee had used a profanity about the county attorney on social media, and he repeated that word while making the point. Council member Ron Dittman replied, 'We're not talking about what's on social media. We're talking about a lawsuit.' {rs_durkes_council} In January 2026 the Sentinel reported that the city had hired a Tim Durkes as its code enforcement officer {rs_soc}.",
+   "note": "This is a public remark at a county meeting and not about schools. The article does not say this is the school board candidate. A Tim Durkes is also the city's code enforcement officer {rs_soc}. Identity is unconfirmed, and no response from Durkes was found."
+  }
+ ],
+ "sources": {
+  "incitizen_list": ["2026 Indiana General Election School Board Candidate List", "The Indiana Citizen", "2026-08", "https://indianacitizen.org/2026-indiana-general-election-school-board-candidate-list/"],
+  "rcs_board": ["School Board", "Rochester Community School Corporation", "2026-10", "https://zebras.net/board"],
+  "rcs_about": ["About Us", "Rochester Community School Corporation", "2026-10", "https://zebras.net/about"],
+  "rcs_budget3": ["Notice to Taxpayers (Budget Form 3), 2027 budget", "Rochester Community School Corporation", "2026-09-08", "https://zebras.net/fs/resource-manager/view/bc057d03-a94c-4be9-9618-65b44f73f184"],
+  "rs_ballot_2026": ["Early voting begins Tuesday at the Fulton County Courthouse", "Rochester Sentinel", "2026-10-03", "https://www.rochsent.com/news/early-voting-begins-tuesday-at-the-fulton-county-courthouse/article_23514b63-ee16-5f95-86cd-1e572123c336.html"],
+  "rs_2022_ballotset": ["Ballot set for November election", "Rochester Sentinel", "2022-08-31", "https://www.rochsent.com/news/ballot-set-for-november-election/article_c60edb70-5d76-5cf4-ac42-d2fdc18c91ea.html"],
+  "rs_2022_guide": ["2022 midterm election: What you should know", "Rochester Sentinel", "2022-10-06", "https://www.rochsent.com/news/2022-midterm-election-what-you-should-know/article_34a4d3ad-08f2-55b7-952a-d6b95e827197.html"],
+  "rs_2022_results": ["Republicans sweep local offices in Fulton County", "Rochester Sentinel", "2022-11-10", "https://www.rochsent.com/news/republicans-sweep-local-offices-in-fulton-county/article_b90d7120-1115-5118-8c37-76aaf7b9d010.html"],
+  "rs_2023_sworn": ["New county officials sworn in", "Rochester Sentinel", "2023-01-03", "https://www.rochsent.com/news/new-county-officials-sworn-in/article_f5c89190-675b-5a2a-b3ea-fd7f19b3540b.html"],
+  "rs_2024_vote": ["Early voting goes on through Nov. 4", "Rochester Sentinel", "2024-10-29", "https://www.rochsent.com/news/early-voting-goes-on-through-nov-4/article_931eac28-1fe8-507a-bd50-a1ab782337f0.html"],
+  "rs_2024_council": ["City council reconvenes for first 2024 meeting", "Rochester Sentinel", "2024-01-26", "https://www.rochsent.com/news/city-council-reconvenes-for-first-2024-meeting/article_fffc25be-00ec-533a-8adb-88e696fa66e8.html"],
+  "rs_2024_youth": ["Odell: We need to hear from our youth", "Rochester Sentinel", "2024-01-25", "https://www.rochsent.com/news/odell-we-need-to-hear-from-our-youth/article_b1628414-e2e9-5d53-9224-2ca0aa79c7a7.html"],
+  "rs_2023_park": ["Park board gets $1,000 grant", "Rochester Sentinel", "2023-05-10", "https://www.rochsent.com/news/park-board-gets-1-000-grant/article_9b8b5e76-8526-57ef-b104-5e43e60eef7d.html"],
+  "rs_2020_officers": ["Schwenk stays school board president", "Rochester Sentinel", "2020-01-07", "https://www.rochsent.com/news/schwenk-stays-school-board-president/article_d059ea98-4755-5172-8da9-430c9fdc809d.html"],
+  "rs_2022_officers": ["Katie Miller heads school board", "Rochester Sentinel", "2022-01-08", "https://www.rochsent.com/news/katie-miller-heads-school-board/article_b2fe8bb8-b71b-5503-9578-a6a817822d5f.html"],
+  "rs_2020_grades": ["School board: No break on grades for RHS students", "Rochester Sentinel", "2020-05-20", "https://www.rochsent.com/news/school-board-no-break-on-grades-for-rhs-students/article_865f598d-a1cd-549f-9af8-638af436cb24.html"],
+  "rs_2020_pay": ["Student drug testing policy presented", "Rochester Sentinel", "2020-03-18", "https://www.rochsent.com/news/student-drug-testing-policy-presented/article_7f87afc7-1851-5890-a6db-a4440ef6c225.html"],
+  "rs_state_schools": ["Community hears from Vance, Miller at State of the Schools", "Rochester Sentinel", "2025-08-29", "https://www.rochsent.com/news/community-hears-from-vance-miller-at-state-of-the-schools/article_a2c69ae9-b5e5-5101-94b8-217f404a9cf3.html"],
+  "rs_pool": ["Rochester Middle School pool getting a makeover", "Rochester Sentinel", "2025-01-16", "https://www.rochsent.com/news/rochester-middle-school-pool-getting-a-makeover/article_eb0b108c-7888-592a-b1b4-13cab809cfb1.html"],
+  "rs_phones": ["Starting Monday, no cell phones out during the school day", "Rochester Sentinel", "2026-08-01", "https://www.rochsent.com/news/starting-monday-no-cell-phones-out-during-the-school-day/article_bf3c1032-fa1e-5ab9-a47e-958c6ab923b4.html"],
+  "rs_durkes_council": ["County Council discusses BZA appointee and conflict of interest", "Rochester Sentinel", "2026-05-23", "https://www.rochsent.com/news/county-council-discusses-bza-appointee-and-conflict-of-interest/article_885bdffb-39d7-5de2-9212-9a8c2484810b.html"],
+  "rs_soc": ["Mayor Odell urges community to stay connected at State of the City address", "Rochester Sentinel", "2026-01-24", "https://www.rochsent.com/news/mayor-odell-urges-community-to-stay-connected-at-state-of-the-city-address/article_13a9525c-0041-52ce-ae85-ca526422dc01.html"]
+ }
+}

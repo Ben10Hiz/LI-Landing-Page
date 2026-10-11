@@ -49,6 +49,21 @@ Sensitive items held for a second, careful editorial pass (criminal cases, misco
   - [Frankfort deer succumbs to injuries; parks superintendent resigns](https://www.ftimes.com/news/frankfort-deer-succumbs-to-injuries-parks-superintendent-resigns/article_b6c55a5e-bcd3-5259-81a3-5368187a69d3.html) — The Times (Frankfort), 2025-01-27
   - [Tatum sworn in](https://www.ftimes.com/news/tatum-sworn-in/article_d1f130d1-abae-5e56-a5f1-b82333541d41.html) — The Times (Frankfort), 2023-08-16
 
+## Indiana School Board Member (`in-school-board-fremont`)
+
+- **Andrew J Lies** — other — _held_
+  In August 2022 the Herald Republican reported that Lies 'unsuccessfully sued the district last year in a dispute over the school's COVID-19 policies,' and that the suit was dismissed in the district's favor in Steuben Circuit Court in early January 2022. This guide found no response from Lies.
+  Note: A civil lawsuit against the district he now helps govern. Only this newspaper account was read; the court record, the claims and how the case was dismissed were not checked.
+  - [Candidates file for school seats](https://www.kpcnews.com/heraldrepublican/article_c0c69ec9-3bce-5709-afc6-d9f69264f8fa.html) — The Herald Republican (KPC News), 2022-08-26
+
+## Indiana School Board Member (`in-school-board-fulton-rochester`)
+
+- **Tim Durkes** — remark — _held_
+  At a Fulton County Council meeting reported on May 23, 2026, a meeting attendee named Tim Durkes asked whether he could make a formal request to remove a Board of Zoning Appeals appointee. Durkes objected that the appointee had used a profanity about the county attorney on social media, and he repeated that word while making the point. Council member Ron Dittman replied, 'We're not talking about what's on social media. We're talking about a lawsuit.'  In January 2026 the Sentinel reported that the city had hired a Tim Durkes as its code enforcement officer.
+  Note: This is a public remark at a county meeting and not about schools. The article does not say this is the school board candidate. A Tim Durkes is also the city's code enforcement officer {rs_soc}. Identity is unconfirmed, and no response from Durkes was found.
+  - [County Council discusses BZA appointee and conflict of interest](https://www.rochsent.com/news/county-council-discusses-bza-appointee-and-conflict-of-interest/article_885bdffb-39d7-5de2-9212-9a8c2484810b.html) — Rochester Sentinel, 2026-05-23
+  - [Mayor Odell urges community to stay connected at State of the City address](https://www.rochsent.com/news/mayor-odell-urges-community-to-stay-connected-at-state-of-the-city-address/article_13a9525c-0041-52ce-ae85-ca526422dc01.html) — Rochester Sentinel, 2026-01-24
+
 ## Indiana School Board Member (`in-school-board-greater-clark`)
 
 - **Greater Clark board incl. Brian Jones, John Buckwalter, Tamara Tammy Yenawine Mustain** — personnel action — _held_
