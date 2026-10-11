@@ -56,6 +56,7 @@ Incumbent and past board president, first elected in 2018, seeking a third term 
 
 ### Background
 
+- Lead pastor of Lynhurst Baptist Church [24].
 - Past board president, first elected in 2018 [24].
 - Parent of students in the district [24].
 

@@ -140,6 +140,7 @@ Incumbent and board president; his term ends Dec. 31, 2026 [24, 27].
 
 ### Background
 
+- Senior pastor of Nu Corinthian Baptist Church [24].
 - Pike school board president, age 65 [24].
 
 ### Path to the ballot
@@ -189,6 +190,7 @@ Incumbent board member whose term ends Dec. 31, 2026 [24, 27].
 
 ### Background
 
+- Pastor at Olivet Baptist Church [24].
 - Current board member, age 64 [24].
 - Holds bachelor's and master's degrees, according to Chalkbeat/WFYI [24].
 
