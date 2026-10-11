@@ -161,6 +161,7 @@ SEAT_OVERRIDES = {
     "Delaware Yorktown Community School Board, Mt Pleasant Twp": 3,  # Delaware County ballot
     "South Harrison School Board District 4, Harrison Township": 2,  # Harrison County ballot
     "Whitley County Consolidated School Board, District Columbia City": 2,  # Whitley County election schedule
+    "Grant Marion Community School Board, District 1": 3,  # Chronicle-Tribune
 }
 
 
