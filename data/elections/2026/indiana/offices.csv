@@ -3776,21 +3776,21 @@ school,School Board Member,"Hamilton Southeastern School Board, District HSE 4",
 school,School Board Member,"Hamilton Westfield Washington School Board, At Large",,At-large,1,2,0,yes,Democratic; Republican
 school,School Board Member,"Hammond School Board, At Large",,At-large,3,4,0,yes,Democratic; Nonpartisan
 school,School Board Member,"Harrison Lanesville School Board, At Large",,At-large,1,3,0,yes,Republican
-school,School Board Member,"Hendricks Avon School Board, Washington Township",,,1,2,0,yes,Nonpartisan
+school,School Board Member,"Hendricks Avon School Board, Washington Township",,,2,2,0,,Nonpartisan
 school,School Board Member,"Hendricks Brownsburg School Board, At Large",,At-large,1,3,0,yes,American Solidarity; Nonpartisan
 school,School Board Member,"Hendricks Brownsburg School Board, Lincoln Township",,,1,2,0,yes,Nonpartisan
 school,School Board Member,"Hendricks Danville School Board, Center Township",,,1,2,0,yes,Nonpartisan; Republican
 school,School Board Member,"Hendricks Danville School Board, Marion Township",,,1,1,0,,Nonpartisan
 school,School Board Member,"Hendricks Mill Creek School Board, At Large",,At-large,1,1,0,,Nonpartisan
 school,School Board Member,"Hendricks Mill Creek School Board, Liberty Township",,,1,2,0,yes,Republican
-school,School Board Member,"Hendricks Plainfield School Board, Guilford Township",,,1,3,0,yes,Republican
+school,School Board Member,"Hendricks Plainfield School Board, Guilford Township",,,2,3,0,yes,Republican
 school,School Board Member,"Henry Blue River Valley School Board, At Large 2",,At-large,1,3,0,yes,Nonpartisan; Republican
 school,School Board Member,"Henry New Castle Community School Board, Inside 1",,,1,1,0,,Republican
 school,School Board Member,"Henry New Castle Community School Board, Outside",,,1,2,0,yes,Republican
 school,School Board Member,"Henry South Henry School Board, At Large",,At-large,1,2,0,yes,Nonpartisan; Republican
 school,School Board Member,"Henry South Henry School Board, Dudley 2",,,1,2,0,yes,Nonpartisan
 school,School Board Member,"Highland School Board, At Large",,At-large,1,4,0,yes,Independent; Nonpartisan; Republican
-school,School Board Member,"Hobart School Board, At Large",,At-large,1,4,0,yes,Nonpartisan
+school,School Board Member,"Hobart School Board, At Large",,At-large,4,4,0,,Nonpartisan
 school,School Board Member,"Jackson Medora Community School Board, Seats 4 & 5",,,1,2,0,yes,Nonpartisan; Republican
 school,School Board Member,"Jackson Seymour City Community School Board, Seats 1 & 2, At Large",,At-large,1,2,0,yes,Nonpartisan; Republican
 school,School Board Member,"Jackson Seymour Community School Board, Redding Township",,,1,1,0,,Republican
@@ -3854,7 +3854,7 @@ school,School Board Member,"Monroe Richland Bean Blossom Community School Corpor
 school,School Board Member,"Morgan Eminence Community School Board, Adams Township",,,1,1,0,,Republican
 school,School Board Member,"Morgan Eminence Community School Board, At Large",,At-large,1,1,0,,Republican
 school,School Board Member,"Mt. Vernon Community School Corporation School Board, At Large",,At-large,1,2,0,yes,Republican
-school,School Board Member,"Munster School Board, At Large",,At-large,1,2,0,yes,Nonpartisan
+school,School Board Member,"Munster School Board, At Large",,At-large,2,2,0,,Nonpartisan
 school,School Board Member,"Nettle Creek School Board, At Large (Wayne-Henry)",,At-large,1,2,0,yes,Nonpartisan; Republican
 school,School Board Member,"Nettle Creek School Board, District B (Wayne-Henry)",,,1,1,0,,Republican
 school,School Board Member,"Nineveh, Hensley, Jackson School Board, Jackson Township (Johnson, Morgan)",,,1,1,0,,Republican
@@ -3962,7 +3962,7 @@ school,School Board Member,"Wa-Nee School Board, Locke Township (Elkhart, Kosciu
 school,School Board Member,"Wa-Nee School Board, Union Township (Elkhart, Kosciusko)",,,1,1,0,,Republican
 school,School Board Member,"West Central School Board, Cass Township (Pulaski, Jasper)",,,1,1,0,,Nonpartisan
 school,School Board Member,"West Central School Board, Salem Township (Pulaski, Jasper)",,,1,2,0,yes,Republican
-school,School Board Member,West Lafayette Community School Board,,,1,4,0,yes,Nonpartisan
+school,School Board Member,West Lafayette Community School Board,,,3,4,0,yes,Nonpartisan
 school,School Board Member,West Noble School Board At Large,,At-large,1,1,0,,Republican
 school,School Board Member,"West Washington School Board, At Large",,At-large,1,4,0,yes,Nonpartisan; Republican
 school,School Board Member,"West Washington School Board, Brown Twp",,,1,2,0,yes,Independent; Nonpartisan
@@ -4064,7 +4064,7 @@ school,School Board Member,"UC/CC Joint School Board, Liberty Township (Union)",
 school,School Board Member,"UC/CC Joint School Board, Union Township (Union)",Union,,1,1,0,,Republican
 school,School Board Member,"Zionsville Community School Board, Union",Union,,1,2,0,yes,Nonpartisan; Republican
 school,School Board Member,"Southwest Parke School Board, District 2, Wabash",Wabash,2,1,1,0,,Nonpartisan
-school,School Board Member,Warrick County School Board,Warrick,,1,4,0,yes,Nonpartisan; Republican
+school,School Board Member,Warrick County School Board,Warrick,,4,4,0,,Nonpartisan; Republican
 school,School Board Member,"Knox School Board, Washington",Washington,,1,2,0,yes,Republican
 school,School Board Member,"North Montgomery School Board, Wayne",Wayne,,1,1,0,,Republican
 school,School Board Member,"Twin Lakes School Board, District 4 (White)",White,4,1,1,0,,Nonpartisan

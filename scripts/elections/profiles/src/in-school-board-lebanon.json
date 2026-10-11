@@ -1,0 +1,164 @@
+{
+ "race_id": "in-school-board-lebanon",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Lebanon Community School Corporation serves Lebanon and surrounding parts of Boone County, including Whitestown, with a preschool, four elementary schools, Lebanon Middle School and Lebanon High School {lcsc_home}{lcsc_min_0917}. Jon Milleman has been superintendent since 2019 {lcsc_leadership}. Enrollment was about 3,693 students on Sept. 11, 2026, about 40 below the district's forecast {lcsc_min_0917}.",
+  "The board of school trustees has five members elected by all voters in the district to four-year terms; members must live in set areas: one each from Center, Perry and Worth townships and two at large {lcsc_board_portal}. Current members are Jordan Clouser (president), Trey Hendrix (vice president), Brett Havlin (secretary), Craig Parks and Lisa Hutcheson {lcsc_board_portal}.",
+  "Seat on the 2026 ballot: one at-large seat, matching the state list's 'vote for 1' {boone_2026_list}{in_list}. It is held by Lisa Hutcheson, who won it in 2018 and was unopposed in 2022; she is not on the 2026 ballot, so the seat will have a new member {boone_2018}{boone_2022}{boone_2026_list}. The other at-large seat and the Center and Perry township seats were filled in 2024 {boone_2024}. In 2022 no candidate filed for the Worth Township seat, and the county's 2026 candidate list shows no Worth Township race {boone_2022}{boone_2026_list}.",
+  "Party labels: this is the first year Indiana school board candidates could declare a party when filing {chalkbeat_party}. The county list shows Haley (Hendrix) Shirley as a Republican and Chessany M. Edmonds with no party; the state lists Edmonds as Nonpartisan {boone_2026_list}{in_list}.",
+  "Budget and property taxes (2026): at a Sept. 15, 2026 budget hearing the board heard a parcel-level analysis of two options for 2027, one raising the operations fund and lowering the operating referendum rate and one doing the opposite; the consultant said the choice shifts tax burden between Lebanon and Whitestown taxpayers, and described how the 2025 property-tax law SEA 1 will limit growth in taxable value through 2031 {lcsc_min_0915}. Staff estimated the combined rate at about 91 cents under one model and 97 cents under the other, and no decision had been made as of Sept. 17 {lcsc_min_0917}. Adoption of the 2027 budget was on the Oct. 13, 2026 agenda {lcsc_agenda_1013}.",
+  "Referendums: voters approved an operating referendum in May 2022 at a rate of 15 cents; because taxable value has grown, the rate is 9 cents in 2026 {lcsc_min_0915}. The superintendent says it pays for school police, class sizes, the preschool, and art, music and PE teachers at every elementary school {lcsc_min_0915}. It expires in 2030, and district projections show a $5.4 million deficit starting in 2031 without a renewal or other revenue {lcsc_min_0917}. A 2022 capital referendum paid for a new elementary school, elementary renovations, a transportation center and a connector road {lcsc_min_0915}.",
+  "Growth and facilities: the district redrew elementary attendance lines after Perry-Worth Elementary reached about 96% capacity in May 2025; Clouser said the change caused problems for some families but added about 20% elementary capacity {lcsc_min_0917}. At a Sept. 17, 2026 joint session with the Lebanon and Whitestown councils, Clouser said forming a separate Whitestown school corporation would require state legislation and is not financially feasible, estimating $200–$250 million or more for a new K-12 system {lcsc_min_0917}. The board held a hearing on a 2027 general obligation bond project on Aug. 18, 2026, and the superintendent said the district will address athletic facility needs such as the six-lane track and original football bleachers {lcsc_agenda_0818}{lcsc_min_0915}.",
+  "Other business before the board in fall 2026: a tentative teacher contract (public meeting Oct. 13), a request to the state for a virtual school starting in 2027-28, a presentation on state A-F accountability grades, and a shortage of about four bus drivers each morning {lcsc_agenda_1013}{lcsc_min_0917}.",
+  "Forums: this guide found no 2026 candidate forum, questionnaire or news coverage for this race."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Chessany M Edmonds",
+   "seat": "At Large",
+   "summary": "Candidate for the open at-large seat; little public information about her campaign was found {boone_2026_list}{br_edmonds}.",
+   "website": null,
+   "background": [
+    "Lists a Lebanon address on the county candidate list {boone_2026_list}."
+   ],
+   "path_to_ballot": [
+    "Filed for the at-large seat without a party label; the state lists her as Nonpartisan {boone_2026_list}{in_list}. Her name appears as 'Chessany M. Edmonds' on county and BallotReady listings {boone_2026_list}{br_edmonds}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "BallotReady links to a campaign Facebook group, which this guide could not open; no website, questionnaire, forum remarks or news coverage were found.",
+    "Occupation and ties to the schools could not be confirmed.",
+    "County campaign finance filings were not checked."
+   ]
+  },
+  {
+   "ballot_name": "Haley (Hendrix) Shirley",
+   "seat": "At Large",
+   "summary": "Candidate for the open at-large seat, listed with the Republican label; little public information about her campaign was found {boone_2026_list}{br_shirley}.",
+   "website": null,
+   "background": [
+    "Lists a Lebanon address on the county candidate list {boone_2026_list}."
+   ],
+   "path_to_ballot": [
+    "Filed for the at-large seat as a Republican, the first year Indiana allowed school board candidates to declare a party {boone_2026_list}{in_list}{chalkbeat_party}. There was no school board primary; the May 2026 Boone County primary results list no school board races {boone_2026_primary}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "BallotReady links to a 'Haley Shirley for Lebanon School Board' Facebook page, which this guide could not open; no website, questionnaire, forum remarks or news coverage were found.",
+    "Occupation and ties to the schools could not be confirmed.",
+    "County campaign finance filings were not checked."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "lcsc_home": [
+   "Lebanon Community School Corporation (home page)",
+   "Lebanon Community School Corporation",
+   "2026-10",
+   "https://www.leb.k12.in.us/"
+  ],
+  "lcsc_leadership": [
+   "Leadership",
+   "Lebanon Community School Corporation",
+   "2026-10",
+   "https://www.leb.k12.in.us/about/leadership/leadership"
+  ],
+  "lcsc_board_portal": [
+   "Lebanon Community School Corporation Board of Trustees (board portal home)",
+   "Lebanon Community School Corporation",
+   "2026-10",
+   "https://lebk12.community.diligentoneplatform.com/Portal/Default.aspx"
+  ],
+  "lcsc_agenda_0818": [
+   "Agenda: Pre-Formal Bargaining Hearing, 2027 Bond Project Hearing and Regular Meeting, Aug. 18, 2026",
+   "Lebanon Community School Corporation",
+   "2026-08-18",
+   "https://lebk12.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Id=104"
+  ],
+  "lcsc_min_0915": [
+   "Minutes: Budget Hearing and Regular Meeting, Sept. 15, 2026",
+   "Lebanon Community School Corporation",
+   "2026-09-15",
+   "https://lebk12.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Id=106"
+  ],
+  "lcsc_min_0917": [
+   "Minutes: Joint Work Session with Lebanon City Council and Whitestown Town Council, Sept. 17, 2026",
+   "Lebanon Community School Corporation",
+   "2026-09-17",
+   "https://lebk12.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Id=113"
+  ],
+  "lcsc_agenda_1013": [
+   "Agenda: Regular Meeting and Public Meeting on Tentative Teacher Agreement, Oct. 13, 2026",
+   "Lebanon Community School Corporation",
+   "2026-10-13",
+   "https://lebk12.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Id=108"
+  ],
+  "boone_2026_list": [
+   "2026 General Election Candidates (updated Aug. 13, 2026)",
+   "Boone County Election Office",
+   "2026-09-28",
+   "https://boonecounty.in.gov/wp-content/uploads/2026/09/2026-General-Election-Candidates-August-13-2026.xlsx"
+  ],
+  "boone_2026_primary": [
+   "2026 Primary Election Summary Report (final)",
+   "Boone County Election Office",
+   "2026-05-05",
+   "https://boonecounty.in.gov/wp-content/uploads/2026/05/2026-Primary-Election-Summary-Report-Final.pdf"
+  ],
+  "boone_2018": [
+   "2018 General Election Results",
+   "Boone County Election Office",
+   "2018-11-07",
+   "https://boonecounty.in.gov/2018-general-election-results"
+  ],
+  "boone_2022": [
+   "2022 General Election Results",
+   "Boone County Election Office",
+   "2022-11-08",
+   "https://boonecounty.in.gov/wp-content/uploads/2022/11/2022-General-Election-Results-2043.pdf"
+  ],
+  "boone_2024": [
+   "2024 General Election Results",
+   "Boone County Election Office",
+   "2024-11",
+   "https://boonecounty.in.gov/wp-content/uploads/2026/08/2024-General-Election-Results.pdf"
+  ],
+  "chalkbeat_party": [
+   "Voter guide 2026: Here's who's running for school board in Wayne Township",
+   "Chalkbeat Indiana",
+   "2026-09-11",
+   "https://www.chalkbeat.org/indiana/2026/09/11/wayne-township-school-board-voter-guide-2026/"
+  ],
+  "br_edmonds": [
+   "Chessany M. Edmonds candidate profile",
+   "BallotReady",
+   "2026-10",
+   "https://www.ballotready.org/people/chessany-m-edmonds"
+  ],
+  "br_shirley": [
+   "Haley Hendrix Shirley candidate profile",
+   "BallotReady",
+   "2026-10",
+   "https://www.ballotready.org/people/haley-hendrix-shirley"
+  ]
+ }
+}

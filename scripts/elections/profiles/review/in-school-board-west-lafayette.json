@@ -1,0 +1,36 @@
+{
+ "race_id": "in-school-board-west-lafayette",
+ "office": "Indiana School Board Member",
+ "flags": [
+  {
+   "person": "Dacia Mumford",
+   "category": "misconduct allegation",
+   "status": "held",
+   "summary": "At the board's Oct. 1, 2026 meeting (reported as 'Thursday' in an Oct. 4 article), board member George Lyle said Mumford had in effect accused him of trading a library board seat for a political donation, called the claim false, accused her of secretly recording board members and of being 'at the heart of misinformation campaigns and doxxing campaigns', and demanded that she retract a post in her 'Meeting Summaries' newsletter. Mumford stood by what she wrote, saying Lyle and Amy Austin had made disparaging comments to her outside meetings and that large donations 'look like someone trying to buy political favors'. Board member Melissa Prochnau told Lyle his comments were inappropriate. No retraction had been made as of the report.",
+   "note": "Accusations made by a fellow board member at a public meeting; no formal finding or action was reported. Mumford's own published remarks about a 2020 PAC donation are also part of the dispute.",
+   "sources": [
+    {
+     "title": "BASED IN LAFAYETTE: Anger over accusations flares at West Lafayette School Board",
+     "publisher": "Based in Lafayette / The Indiana Citizen",
+     "date": "2026-10-04",
+     "url": "https://indianacitizen.org/based-in-lafayette-anger-over-accusations-flares-at-west-lafayette-school-board/"
+    }
+   ]
+  },
+  {
+   "person": "Dacia Mumford",
+   "category": "board censure",
+   "status": "held",
+   "summary": "Based in Lafayette reported that in 2024 some board members tried to censure Mumford over her Meeting Summaries, accusing her of publishing personal information about people who signed candidate petitions that year.",
+   "note": "The article does not say who brought the motion or how it ended; this guide did not find the 2024 minutes or a response from Mumford on this point.",
+   "sources": [
+    {
+     "title": "BASED IN LAFAYETTE: Anger over accusations flares at West Lafayette School Board",
+     "publisher": "Based in Lafayette / The Indiana Citizen",
+     "date": "2026-10-04",
+     "url": "https://indianacitizen.org/based-in-lafayette-anger-over-accusations-flares-at-west-lafayette-school-board/"
+    }
+   ]
+  }
+ ]
+}

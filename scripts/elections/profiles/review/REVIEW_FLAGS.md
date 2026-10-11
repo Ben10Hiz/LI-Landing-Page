@@ -98,6 +98,18 @@ Sensitive items held for a second, careful editorial pass (criminal cases, misco
   - [Vigo school board censures member Ken Warner](https://www.yahoo.com/news/us/articles/vigo-school-board-censures-member-035900761.html) — Tribune-Star (via Yahoo News), 2026-10-03
   - [Vigo County School Board unanimously votes to censure member Ken Warner](https://www.wthitv.com/2026/10/02/vigo-county-school-board-unanimously-votes-censure-member-ken-warner/) — WTHI, 2026-10-02
 
+## Indiana School Board Member (`in-school-board-west-lafayette`)
+
+- **Dacia Mumford** — misconduct allegation — _held_
+  At the board's Oct. 1, 2026 meeting (reported as 'Thursday' in an Oct. 4 article), board member George Lyle said Mumford had in effect accused him of trading a library board seat for a political donation, called the claim false, accused her of secretly recording board members and of being 'at the heart of misinformation campaigns and doxxing campaigns', and demanded that she retract a post in her 'Meeting Summaries' newsletter. Mumford stood by what she wrote, saying Lyle and Amy Austin had made disparaging comments to her outside meetings and that large donations 'look like someone trying to buy political favors'. Board member Melissa Prochnau told Lyle his comments were inappropriate. No retraction had been made as of the report.
+  Note: Accusations made by a fellow board member at a public meeting; no formal finding or action was reported. Mumford's own published remarks about a 2020 PAC donation are also part of the dispute.
+  - [BASED IN LAFAYETTE: Anger over accusations flares at West Lafayette School Board](https://indianacitizen.org/based-in-lafayette-anger-over-accusations-flares-at-west-lafayette-school-board/) — Based in Lafayette / The Indiana Citizen, 2026-10-04
+
+- **Dacia Mumford** — board censure — _held_
+  Based in Lafayette reported that in 2024 some board members tried to censure Mumford over her Meeting Summaries, accusing her of publishing personal information about people who signed candidate petitions that year.
+  Note: The article does not say who brought the motion or how it ended; this guide did not find the 2024 minutes or a response from Mumford on this point.
+  - [BASED IN LAFAYETTE: Anger over accusations flares at West Lafayette School Board](https://indianacitizen.org/based-in-lafayette-anger-over-accusations-flares-at-west-lafayette-school-board/) — Based in Lafayette / The Indiana Citizen, 2026-10-04
+
 ## Indiana Secretary of State (`in-secretary-of-state`)
 
 - **Diego Morales** — misconduct allegation — _held_

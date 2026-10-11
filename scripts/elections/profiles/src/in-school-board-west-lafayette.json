@@ -1,0 +1,466 @@
+{
+ "race_id": "in-school-board-west-lafayette",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "West Lafayette Community School Corporation serves the central part of the city of West Lafayette (not the whole city) through three schools: West Lafayette Elementary, West Lafayette Intermediate and West Lafayette Junior-Senior High School {wiki_wlcsc}. Superintendent Shawn Greiner reported 2,309 students on Sept. 14, 2026, slightly above the same point a year earlier, with kindergarten enrollment at a record low of 125 {wl_min_0914}.",
+  "The board of school trustees has seven members, all elected at large by every voter in the district, in staggered elections: three seats were on the 2022 ballot and four on the 2024 ballot {jc_2022_qa}{masson_2024}{wfyi_2024_results}. Current members are Amy Austin (president), Laurence Wang (vice president), George Lyle (secretary), Dacia Mumford, Melissa Prochnau, David Purpura and Yue Yin {wl_board_page}.",
+  "Seats on the 2026 ballot: three at-large seats, so voters may choose up to three of the four candidates, not one as shown on the state list {exponent_forum}{ic_bangert}{in_list}. They are the seats filled in 2022, held now by Mumford, Wang and Prochnau {jc_2022_qa}{wl_board_page}. Mumford and Wang are seeking second terms {exponent_forum}. Rachel Witt, who held the third seat, submitted her resignation effective July 31, 2026, and the board chose Prochnau on Aug. 10, 2026 to fill the vacancy until Dec. 31, 2026; Prochnau is not on the ballot {wl_min_0608}{wl_min_0810}{in_list}.",
+  "Operating referendum (Nov. 3, 2026 ballot): on June 8, 2026 the board voted 6-0 to put an operating tax question on the ballot; Mumford and Wang voted yes and Yin did not vote because she attended virtually {wl_min_0608}. The question would allow a referendum tax rate of up to $0.5706 per $100 of assessed value for up to eight years, replacing the current $0.37 rate that voters approved in 2010 and renewed in 2017 and 2023 {wl_ref_ballot}{wl_ref_need}. The district says the 2025 property-tax law SEA 1 shrinks the tax base so the current rate would raise less money each year through 2031, that referendum money pays more than 50 teachers plus maintenance and transportation costs, and that it intends to levy only what is needed to keep revenue level {wl_ref_need}{wl_ref_faq}. If the question fails, the current levy continues to 2031 and the district says it would cut budgets or spend reserves, with layoffs likely {wl_ref_faq}.",
+  "2027 budget: after the county certified higher-than-expected assessed values, the superintendent told the board on Sept. 14, 2026 that he would recommend keeping the referendum rate at 37 cents for 2027; the board held its budget hearing that night and set adoption, including a resolution of budget reductions, for Oct. 1, 2026 {wl_min_0914}{wl_agenda_1001}.",
+  "Library board appointments (August–October 2026): the board split 3-3 on Aug. 10, 2026 over reappointing a West Lafayette Public Library board member; Mumford, Wang and Yin voted to postpone so the board could first adopt an appointment process, and Austin, Lyle and Purpura voted to reappoint {wl_min_0810}. The board then advertised the seat, adopted a written appointment process and interviewed three applicants in September {wl_min_0914}. Based in Lafayette reported that the board then chose Ted Fondak 3-1 with three abstentions, with Mumford, Wang and Purpura voting yes {ic_bangert}.",
+  "Other 2026 board business includes a $717,000 contract for natatorium repairs and a $940,000 chiller replacement at the junior-senior high school, a revised student cell-phone policy, and a special education staffing update {wl_min_0810}{wl_min_0608}.",
+  "Forum: West Lafayette Junior-Senior High School AP Government students held a candidate forum on Oct. 5, 2026 with all four candidates; the questions covered funding, electives, Indiana's new diploma framework, artificial intelligence and student mental health {exponent_forum}.",
+  "Key differences: all four candidates say they support the district's direction on teaching and finances, but they differ on how the board should work. Mumford says candidates should run independently rather than as a slate and calls for more public information and community input {ic_bangert}{mumford_home}. Koliantz and Robinson stress board unity and collaboration, and have many of the same endorsers, including board president Amy Austin and former board president Rachel Witt {koliantz_issues}{koliantz_endorse}{robinson_site}. Wang points to his work as vice president and finance committee chair {wang_record}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Dacia Mumford",
+   "seat": "At Large",
+   "summary": "Incumbent first elected in November 2022, a former district teacher seeking a second term {mumford_about}{exponent_forum}.",
+   "website": "https://daciamumford.com/",
+   "background": [
+    "Taught kindergarten and first grade at West Lafayette Elementary from 2016 to 2019, after working as a substitute teacher and parent-council officer in district schools; she says she is completing a master's degree in social work and plans to work as a mental health therapist for children and teens {mumford_about}.",
+    "Is a parent of students in the district {mumford_about}.",
+    "Ran for the board in 2020 and was elected in November 2022 {mumford_views}{mumford_about}. She serves as the board's liaison to the Community Council {wl_agenda_1001}.",
+    "Publishes a monthly 'Meeting Summaries' newsletter on board meetings, which mixes her account of meetings with her own commentary {ic_bangert}."
+   ],
+   "path_to_ballot": [
+    "Filed for an at-large seat; she is listed as Nonpartisan {in_list}{br_mumford}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "At the Oct. 5, 2026 forum, pointed to the operating referendum as a way to protect elective programs facing funding pressure {exponent_forum}.",
+      "In 2022 named financial oversight and transparency as her top issue, saying the board announced $50 million in building projects but borrowed $95 million {jc_2022_qa}. Her website repeats this criticism and says 2023 debt payments exceeded debt-fund tax revenue {mumford_views}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Said at the 2026 forum that work-based learning may help some students but should not come 'at the expense of academics, performing arts, languages, electives' {exponent_forum}.",
+      "Said teachers need training on artificial intelligence: 'Our teachers don't know how to teach this' {exponent_forum}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Her website says effective teachers matter more than new facilities, that a strong teachers union helps teachers improve their working conditions, and that the district has struggled to attract and keep highly effective teachers {mumford_views}{br_mumford}."
+     ]
+    },
+    {
+     "topic": "Enrollment & school choice",
+     "items": [
+      "Has said the board should adopt a transfer-student policy setting how many transfer students to accept and how to choose them, rather than leaving it to the superintendent {br_mumford}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Her website says the board should represent the community rather than administrators and union leaders, and credits a 2023 policy change for posting board packets online before meetings {mumford_home}{mumford_views}.",
+      "Pushed in 2026 for an open, advertised process for the board's library board appointments; she called the process the board adopted 'meaningful progress' {wl_min_0810}{ic_bangert}.",
+      "Said after the Oct. 1, 2026 meeting that 'each candidate should run independently' and that it 'should not cost tens of thousands of dollars to run for the school board in a small community like ours' {ic_bangert}."
+     ]
+    },
+    {
+     "topic": "Curriculum & library policy",
+     "items": [
+      "In 2022 opposed requiring community review of lesson plans or classroom libraries, and called for curriculum reviews to be advertised and open to wider participation {jc_2022_qa}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member. She voted for the 2026 referendum resolution {wl_min_0608}. She abstained on the Aug. 10, 2026 personnel report and voted with Wang and Yin to postpone the library board reappointment {wl_min_0810}. She has said a slate of candidates has run together in every contested board election since 2016 and that this has been 'damaging to our community' {ic_bangert}."
+   ],
+   "plans": [
+    "At the 2026 forum named student mental health as what she would most like to change {exponent_forum}."
+   ],
+   "endorsements_finance": [
+    "No 2026 endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "Most policy posts on her website are undated, so it is unclear which reflect 2026 views.",
+    "No 2026 newspaper questionnaire was found; county campaign finance filings were not checked."
+   ]
+  },
+  {
+   "ballot_name": "John Alden Robinson, IV",
+   "seat": "At Large",
+   "summary": "Retired Air Force officer and Purdue University computer science lecturer making his first run for the board {robinson_site}{exponent_forum}.",
+   "website": "https://majorrobinson.com/",
+   "background": [
+    "Served more than 20 years in the U.S. Air Force, retiring as an officer, and now teaches computer science at Purdue University as a lecturer {robinson_site}.",
+    "Lives in West Lafayette and is the parent of two West Lafayette graduates {robinson_site}."
+   ],
+   "path_to_ballot": [
+    "Filed for an at-large seat; he is listed as Nonpartisan {in_list}{br_robinson}. His campaign site uses the name John Robinson {robinson_site}."
+   ],
+   "positions": [
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Says he will work to keep pay, working conditions and classroom support strong enough to keep teachers, noting the district competes for staff in a highly educated community {robinson_site}."
+     ]
+    },
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Says state property-tax changes and the expansion of vouchers are reshaping district budgets and that he would take a 'disciplined, detail-oriented approach' to resources and planning {robinson_site}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Wants schools to value trade apprenticeships, military service and technical programs as much as four-year college, citing his own path from enlisting to a GI Bill degree {robinson_site}.",
+      "Said at the 2026 forum that students should learn to use AI, questioned how early it should be introduced, and said 'AI can be used to help you learn, not to replace the learning' {exponent_forum}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "His website says the board's job is 'to make sure good policy is in place and the educators have what they need' rather than run classrooms {robinson_site}. No statement on specific board decisions was found."
+   ],
+   "plans": [
+    "At the 2026 forum named student mental health as what he would most like to change {exponent_forum}."
+   ],
+   "endorsements_finance": [
+    "His website lists endorsements from board president Amy Austin, former board presidents Rachel Witt and Alan Karpick, former board member Doug Masson, State Rep. Chris Campbell (House District 26), and West Lafayette Jr/Sr High teachers Randy Studt, Mary Beth Boyd, Lisa Mills and Becky Creech {robinson_site}. No campaign finance reports were found."
+   ],
+   "gaps": [
+    "No position found on the operating referendum.",
+    "County campaign finance filings were not checked."
+   ]
+  },
+  {
+   "ballot_name": "Laurence Wang",
+   "seat": "At Large",
+   "summary": "Incumbent board vice president first elected in November 2022, with a background in business analysis and finance {wang_community}{wl_board_page}.",
+   "website": "https://lw4wlsb.org/",
+   "background": [
+    "Describes his work as business analysis, finance and information systems across several industries; in 2022 he described himself as a former business analyst with degrees in business administration, finance and management information systems {wang_meet}{wang_community}.",
+    "Has lived in West Lafayette since 2012 and is a parent of students in the district {wang_meet}.",
+    "Says he has served as board vice president, chaired the board finance committee, served on the policy committee and took part in the 2024–2025 teacher contract talks; he is the board's liaison to two school foundations {wang_record}{wl_agenda_1001}."
+   ],
+   "path_to_ballot": [
+    "Filed for an at-large seat; he is listed as Nonpartisan {in_list}{br_wang}. He announced his re-election bid on July 2, 2026 {wang_community}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Says 'every tax dollar should be spent wisely, transparently,' with a focus on long-term sustainability as schools face financial pressure {wang_priorities}.",
+      "Says he supported the 2023 operating referendum and the 2024 general obligation bond {wang_record}. He seconded the June 2026 resolution placing the new referendum on the ballot {wl_min_0608}.",
+      "In 2022 wrote that the district's building bonds ($83.9 million in principal, $38.8 million in interest through 2040) were costly, and described a pay-as-you-go alternative, while saying he was not criticizing past boards {wang_community}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Said at the 2026 forum that AI can help with research but quick answers could let students 'bypass that learning process' {exponent_forum}.",
+      "In 2022 proposed dual-credit courses with Purdue for high-achieving students and more support for disadvantaged students and students with special needs {jc_2022_qa}{wang_community}."
+     ]
+    },
+    {
+     "topic": "Enrollment & school choice",
+     "items": [
+      "Says he helped write a transfer enrollment policy using more than 800 community survey responses {wang_record}.",
+      "In 2022 called flat enrollment the district's biggest challenge and said he favored more educational options, including alternatives to traditional public schools when a student's needs are not met {wang_community}."
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "In 2022 proposed safety policies that follow state law, staff training, funding for cameras and school resource officers, and regular safety reviews {jc_2022_qa}."
+     ]
+    },
+    {
+     "topic": "Curriculum & library policy",
+     "items": [
+      "In 2022 said proposals for parents to review lesson plans 'make sense to me', but also said teachers should decide what to share and when, and that posting a full year of plans would be unrealistic {wang_community}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Said at the 2026 forum that he wants to improve financial transparency, noting that survey scores on it were lower than other areas but 'much better than before' {exponent_forum}.",
+      "Wrote in 2022 that school board elections should be nonpartisan and that political action committees should not be involved {wang_community}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member. He says the board has advanced the district's strategic plan, invested in teachers and facilities, updated policies and adopted a fairer transfer enrollment policy {wang_home}{wang_record}. He voted with Mumford and Yin to postpone the August 2026 library board reappointment until a process was in place {wl_min_0810}."
+   ],
+   "plans": [
+    "Lists three priorities for the next four years: strong schools and teachers, fiscal responsibility, and community engagement {wang_priorities}."
+   ],
+   "endorsements_finance": [
+    "No 2026 endorsements were found. A 2022 blog post by former board member Doug Masson, citing pre-election reports, said Wang reported $3,047.78 in spending that year {masson_2022_finance}. No 2026 finance reports were found."
+   ],
+   "gaps": [
+    "Most of his detailed statements on curriculum, school choice and debt date from 2022; no 2026 questionnaire was found."
+   ]
+  },
+  {
+   "ballot_name": "Maria Koliantz",
+   "seat": "At Large",
+   "summary": "Construction project manager and West Lafayette Schools Education Foundation board member making her second run for the board {koliantz_about}{wfyi_2024_results}.",
+   "website": "https://mariakoliantz.com/",
+   "background": [
+    "Is a project manager with Summit EPC, a West Lafayette general contractor, and holds a Purdue degree in building construction management {koliantz_about}.",
+    "Worked for the Detroit Public Schools Foundation in accounts payable, grant compliance and budget management, and served as a PTA treasurer and president in Detroit {koliantz_about}{br_koliantz}.",
+    "Joined the West Lafayette Schools Education Foundation board in August 2022 {koliantz_about}.",
+    "Is a parent of students in the district {koliantz_home}.",
+    "Ran for the board in 2024 and finished sixth of six candidates for four seats, with 15.36% of the vote {wfyi_2024_results}."
+   ],
+   "path_to_ballot": [
+    "Filed for an at-large seat; she is listed as Nonpartisan {in_list}{br_koliantz}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Supports the 2026 operating referendum, saying SEA 1 reduces taxable values through 2031, so the rate must rise to keep revenue level, and that the district has committed to collect only what it needs {koliantz_issues}.",
+      "Said at the 2026 forum that state 'unfunded mandates' leave districts with the consequences, and that the district should seek grants and business partnerships before cutting programs {exponent_forum}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Said at the forum that she wants to ease pressure on students to take many AP and honors classes: 'It's not all about the AP classes and honors classes and your grades' {exponent_forum}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Says 'Our teachers are the experts' and that the board should listen to their feedback and speak up for them at the state level {koliantz_issues}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Says she supports the Indiana School Boards Association view that boards set mission, goals, policy and budget while the superintendent handles day-to-day work, and that 'board unity is essential' but 'unity does not equal uniformity' {koliantz_issues}. No statement on specific board votes was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "Her website lists endorsements from board president Amy Austin, former board presidents Rachel Witt and Alan Karpick, former board member Doug Masson, State Rep. Chris Campbell, West Lafayette Schools Education Foundation president Brad Cohen, and current and retired district teachers {koliantz_endorse}. No campaign finance reports were found."
+   ],
+   "gaps": [
+    "No answers from her on AI were reported from the Oct. 5, 2026 forum.",
+    "County campaign finance filings were not checked.",
+    "Unverified (search-result text only): a 2024 Journal & Courier candidate profile listed her age as 40; this guide could not open it."
+   ]
+  }
+ ],
+ "review_flags": [
+  {
+   "person": "Dacia Mumford",
+   "category": "misconduct allegation",
+   "status": "held",
+   "summary": "At the board's Oct. 1, 2026 meeting (reported as 'Thursday' in an Oct. 4 article), board member George Lyle said Mumford had in effect accused him of trading a library board seat for a political donation, called the claim false, accused her of secretly recording board members and of being 'at the heart of misinformation campaigns and doxxing campaigns', and demanded that she retract a post in her 'Meeting Summaries' newsletter. Mumford stood by what she wrote, saying Lyle and Amy Austin had made disparaging comments to her outside meetings and that large donations 'look like someone trying to buy political favors'. Board member Melissa Prochnau told Lyle his comments were inappropriate. No retraction had been made as of the report {ic_bangert}.",
+   "note": "Accusations made by a fellow board member at a public meeting; no formal finding or action was reported. Mumford's own published remarks about a 2020 PAC donation are also part of the dispute."
+  },
+  {
+   "person": "Dacia Mumford",
+   "category": "board censure",
+   "status": "held",
+   "summary": "Based in Lafayette reported that in 2024 some board members tried to censure Mumford over her Meeting Summaries, accusing her of publishing personal information about people who signed candidate petitions that year {ic_bangert}.",
+   "note": "The article does not say who brought the motion or how it ended; this guide did not find the 2024 minutes or a response from Mumford on this point."
+  }
+ ],
+ "sources": {
+  "wiki_wlcsc": [
+   "West Lafayette Community School Corporation",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/West_Lafayette_Community_School_Corporation"
+  ],
+  "wl_board_page": [
+   "School Board of Trustees (directory)",
+   "West Lafayette Community School Corporation",
+   "2026-10",
+   "https://www.wl.k12.in.us/contact/school-board-of-trustees"
+  ],
+  "wl_min_0608": [
+   "Minutes, Regular Meeting of the Board of School Trustees, June 8, 2026",
+   "West Lafayette Community School Corporation",
+   "2026-06-08",
+   "https://www.wl.k12.in.us/document-library/school-board-information/board-minutes/2026-2/4695-2026-06-08-regular-board-meeting-minutes/file"
+  ],
+  "wl_min_0810": [
+   "Minutes, Regular Meeting of the Board of School Trustees, August 10, 2026",
+   "West Lafayette Community School Corporation",
+   "2026-08-10",
+   "https://www.wl.k12.in.us/document-library/school-board-information/board-minutes/2026-2/4762-2026-08-10-regular-board-meeting-minutes/file"
+  ],
+  "wl_min_0914": [
+   "Minutes, Regular Meeting of the Board of School Trustees, September 14, 2026",
+   "West Lafayette Community School Corporation",
+   "2026-09-14",
+   "https://www.wl.k12.in.us/document-library/school-board-information/board-minutes/2026-2/4797-2026-09-14-regular-board-meeting-minutes/file"
+  ],
+  "wl_agenda_1001": [
+   "Agenda, Regular Meeting of the Board of School Trustees, October 1, 2026",
+   "West Lafayette Community School Corporation",
+   "2026-10-01",
+   "https://www.wl.k12.in.us/document-library/school-board-information/school-board-agenda/2026/4785-2026-10-01-agenda-regular-board-mtg/file"
+  ],
+  "wl_ref_need": [
+   "The Need (2026 Referendum)",
+   "West Lafayette Community School Corporation",
+   "2026",
+   "https://wlvote26.com/the-need-2026.html"
+  ],
+  "wl_ref_ballot": [
+   "Ballot Question (2026 Referendum)",
+   "West Lafayette Community School Corporation",
+   "2026",
+   "https://wlvote26.com/ballot-2026.html"
+  ],
+  "wl_ref_faq": [
+   "FAQs (2026 Referendum)",
+   "West Lafayette Community School Corporation",
+   "2026",
+   "https://wlvote26.com/faq-2026.html"
+  ],
+  "wfyi_2024_results": [
+   "Tippecanoe County school board election winners 2024",
+   "WFYI / WBAA",
+   "2024-11-06",
+   "https://www.wbaa.org/2024-11-06/the-winners-in-west-lafayette-lafayette-and-other-tippecanoe-county-school-board-elections"
+  ],
+  "jc_2022_qa": [
+   "Q&A: 2022 West Lafayette Community School Corporation school board candidates",
+   "Lafayette Journal & Courier (via Yahoo News)",
+   "2022-10-13",
+   "https://www.yahoo.com/news/q-2022-west-lafayette-community-103334324.html"
+  ],
+  "masson_2024": [
+   "My Endorsements for the 2024 West Lafayette School Board Election",
+   "A Citizen's Guide to Indiana (Doug Masson blog)",
+   "2024-10-07",
+   "https://www.masson.us/blog/?p=13279"
+  ],
+  "masson_2022_finance": [
+   "West Lafayette School Board: Campaign Finance Reports",
+   "A Citizen's Guide to Indiana (Doug Masson blog)",
+   "2022-11-02",
+   "https://www.masson.us/blog/category/school-board/"
+  ],
+  "exponent_forum": [
+   "WL school board candidates discuss AI, budget in student-led forum",
+   "Purdue Exponent",
+   "2026-10-05",
+   "https://www.purdueexponent.org/city_state/wl-school-board-candidates-discuss-ai-budget-in-student-led-forum/article_44cbaf64-19f7-421f-b010-834ee1380723.html"
+  ],
+  "ic_bangert": [
+   "BASED IN LAFAYETTE: Anger over accusations flares at West Lafayette School Board",
+   "Based in Lafayette / The Indiana Citizen",
+   "2026-10-04",
+   "https://indianacitizen.org/based-in-lafayette-anger-over-accusations-flares-at-west-lafayette-school-board/"
+  ],
+  "mumford_home": [
+   "Dacia Mumford – WL School Board (home)",
+   "Dacia Mumford (candidate website)",
+   "2026-10",
+   "https://daciamumford.com/"
+  ],
+  "mumford_about": [
+   "About Me",
+   "Dacia Mumford (candidate website)",
+   "2026-10",
+   "https://daciamumford.com/about-me/"
+  ],
+  "mumford_views": [
+   "My Views",
+   "Dacia Mumford (candidate website)",
+   "2026-10",
+   "https://daciamumford.com/my-views/"
+  ],
+  "br_mumford": [
+   "Dacia J. Mumford candidate profile",
+   "BallotReady",
+   "2026-10",
+   "https://www.ballotready.org/people/dacia-j-mumford"
+  ],
+  "robinson_site": [
+   "John Robinson for West Lafayette School Board",
+   "John Robinson (candidate website)",
+   "2026-10",
+   "https://majorrobinson.com/"
+  ],
+  "br_robinson": [
+   "John Alden Robinson candidate profile",
+   "BallotReady",
+   "2026-10",
+   "https://www.ballotready.org/people/john-alden-robinson"
+  ],
+  "wang_home": [
+   "Laurence Wang For West Lafayette School Board (home)",
+   "Laurence Wang (candidate website)",
+   "2026-10",
+   "https://lw4wlsb.org/"
+  ],
+  "wang_meet": [
+   "Meet Laurence",
+   "Laurence Wang (candidate website)",
+   "2026-10",
+   "https://lw4wlsb.org/meet_laurence/"
+  ],
+  "wang_record": [
+   "My Record of Service",
+   "Laurence Wang (candidate website)",
+   "2026-10",
+   "https://lw4wlsb.org/record_of_service/"
+  ],
+  "wang_priorities": [
+   "My Priorities",
+   "Laurence Wang (candidate website)",
+   "2026-10",
+   "https://lw4wlsb.org/my-priorities/"
+  ],
+  "wang_community": [
+   "Community Updates",
+   "Laurence Wang (candidate website)",
+   "2026-10",
+   "https://lw4wlsb.org/community-updates/"
+  ],
+  "br_wang": [
+   "Laurence Wang candidate profile",
+   "BallotReady",
+   "2026-10",
+   "https://www.ballotready.org/people/laurence-wang"
+  ],
+  "koliantz_home": [
+   "Vote Maria Koliantz for West Lafayette School Board",
+   "Maria Koliantz (candidate website)",
+   "2026-10",
+   "https://mariakoliantz.com/"
+  ],
+  "koliantz_about": [
+   "About Maria",
+   "Maria Koliantz (candidate website)",
+   "2026-10",
+   "https://mariakoliantz.com/about/"
+  ],
+  "koliantz_issues": [
+   "Issues",
+   "Maria Koliantz (candidate website)",
+   "2026-10",
+   "https://mariakoliantz.com/issues/"
+  ],
+  "koliantz_endorse": [
+   "Endorsements",
+   "Maria Koliantz (candidate website)",
+   "2026-10",
+   "https://mariakoliantz.com/endorsements/"
+  ],
+  "br_koliantz": [
+   "Maria D. Koliantz candidate profile",
+   "BallotReady",
+   "2026-10",
+   "https://www.ballotready.org/people/maria-d-koliantz"
+  ]
+ }
+}

@@ -156,6 +156,7 @@ SEAT_OVERRIDES = {
     "Munster School Board, At Large": 2,                       # Lake County sample ballot
     "Warrick County School Board": 4,                          # VOTE411 / Ballot Brief
     "Hobart School Board, At Large": 4,                        # Lake County sample ballot
+    "West Lafayette Community School Board": 3,                # Journal & Courier / district
 }
 
 
