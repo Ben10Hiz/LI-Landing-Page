@@ -1,0 +1,36 @@
+{
+ "race_id": "in-school-board-north-harrison",
+ "office": "Indiana School Board Member",
+ "flags": [
+  {
+   "person": "Charles (Chris) Bowyer",
+   "category": "remark",
+   "status": "held",
+   "summary": "At the Aug. 13, 2026 board meeting, resident Jordan Black said in public comment that Bowyer had told him the board is a 'self-serving board' and that members will enact their own personal agendas; the Corydon Democrat reported the claim as Black's account and did not report a response from Bowyer to that specific claim.",
+   "note": "A secondhand account of a private remark by one speaker (who shares a surname with at-large candidate Ashley Black); not confirmed by Bowyer.",
+   "sources": [
+    {
+     "title": "North Harrison board finalizes classroom display policy",
+     "publisher": "The Corydon Democrat / Clarion News",
+     "date": "2026-08-26",
+     "url": "https://www.madisoncourier.com/the_clarion_news/news/education/north-harrison-board-finalizes-classroom-display-policy/article_da192398-6cce-51d4-a6fb-92da6de4a69f.html"
+    }
+   ]
+  },
+  {
+   "person": "Chad Schenck",
+   "category": "other",
+   "status": "held",
+   "summary": "In his Sept. 2026 Corydon Democrat questionnaire, Schenck said the district's focus should be servant leadership, 'not ridicule, nepotism and party politics,' and accused board members and the superintendent of mismanagement; he gave no specific examples, and no response from the board or superintendent was published.",
+   "note": "An unspecified nepotism claim against current officials; the profile text keeps only his general management criticism.",
+   "sources": [
+    {
+     "title": "NH Jackson Township school board seat draws four (Chad Schenck questionnaire)",
+     "publisher": "The Corydon Democrat / Clarion News",
+     "date": "2026-09-23",
+     "url": "https://www.madisoncourier.com/the_clarion_news/news/nh-jackson-township-school-board-seat-draws-four/article_c86c6e80-b7a8-57df-918a-e41461f5fbe3.html"
+    }
+   ]
+  }
+ ]
+}

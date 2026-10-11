@@ -1,0 +1,63 @@
+{
+ "race_id": "in-school-board-greene-wrv",
+ "office": "Indiana School Board Member",
+ "flags": [
+  {
+   "person": "Jim Larkin (former WRV superintendent; not a candidate)",
+   "category": "personnel action",
+   "status": "held",
+   "summary": "On Aug. 18, 2025 the board added an agenda item and voted 7-0, on Roger Weaver's motion, to put Superintendent Jim Larkin on paid administrative leave pending review. The Daily World reported a confidential source's claim about the reason but said no verifiable evidence was given. Larkin resigned effective Sept. 30, 2025 under a separation agreement. In an Oct. 1, 2025 statement through its attorney, the board said he “voluntarily resigned” and named Jason Walton acting lead administrator. The board released nothing confirming or denying the reported reason.",
+   "note": "Background to the district's superintendent turnover, a 2026 issue. The reason for the leave is unconfirmed, so the profile text says only that he left under a separation agreement.",
+   "sources": [
+    {
+     "title": "Board meeting minutes, Aug. 18, 2025",
+     "publisher": "White River Valley School District",
+     "date": "2025-08-18",
+     "url": "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/MINUTES%20-%20August%2018%202025%20(1).pdf"
+    },
+    {
+     "title": "WRV School Board suspends superintendent pending review",
+     "publisher": "Greene County Daily World",
+     "date": "2025-08-22",
+     "url": "https://www.suncommercial.com/gcdailyworld/article_96825474-e7ef-5966-8ce0-0141dae98209.html"
+    },
+    {
+     "title": "WRV School Board accepts resignation of Superintendent Jim Larkin",
+     "publisher": "Greene County Daily World",
+     "date": "2025-10-03",
+     "url": "https://www.suncommercial.com/gcdailyworld/news/article_bee58647-bc28-5269-b714-1857aaac849a.html"
+    }
+   ]
+  },
+  {
+   "person": "Unnamed WRV board member",
+   "category": "remark",
+   "status": "held",
+   "summary": "At the June 15, 2026 meeting, parent Dawnielle Fulford read aloud a reply she said she got from a board member about the drama sponsor vote. The reply said former member Conner Hill “burned a lot of bridges,” “broke board rules one after another,” and that the writer would vote no on anything involving Hill. The board member was not named. Afterward the board president and superintendent said there would be no statement. Hill said the vote was based on “personal feelings and not what is best for the kids”.",
+   "note": "The member is unidentified. Members whose terms end in 2026 include Shake and Decker (not running) and Brock Hostetter (listed by the Daily World as an at-large candidate but not on the state list). The quoted reply refers to the writer as “her.”",
+   "sources": [
+    {
+     "title": "WRV Board deals with public backlash in support of former drama club director; Hill responds",
+     "publisher": "Greene County Daily World",
+     "date": "2026-06-23",
+     "url": "https://www.suncommercial.com/gcdailyworld/article_56f6705c-cbc6-53d5-8a6e-57c841628683.html"
+    }
+   ]
+  },
+  {
+   "person": "Dustin Stahl",
+   "category": "remark",
+   "status": "held",
+   "summary": "At the June 15, 2026 board meeting, according to the Daily World, Dustin Stahl cited community hearsay in asking whether the decision not to approve Conner Hill as drama sponsor was due to a “personal vendetta”. The board did not respond during public comment.",
+   "note": "Questions board members' motives, citing hearsay. Matched to the candidate by name only. The profile text includes only the policy part of his comments.",
+   "sources": [
+    {
+     "title": "WRV Board deals with public backlash in support of former drama club director; Hill responds",
+     "publisher": "Greene County Daily World",
+     "date": "2026-06-23",
+     "url": "https://www.suncommercial.com/gcdailyworld/article_56f6705c-cbc6-53d5-8a6e-57c841628683.html"
+    }
+   ]
+  }
+ ]
+}

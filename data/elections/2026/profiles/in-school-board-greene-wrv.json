@@ -1,0 +1,650 @@
+{
+ "race_id": "in-school-board-greene-wrv",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": {
+  "title": "Indiana School Board Member",
+  "summary": "A school board is the elected or appointed governing body of a public school corporation, the legal unit that runs a local school district [1, 2]. The board hires and evaluates the superintendent, adopts policies, and approves the annual budget, while the superintendent and staff run schools day to day [3]. Most boards have five or seven members serving staggered four-year terms [3]. Starting in 2026, candidates may list a political party, run as independents, or list no affiliation on the ballot, and there is no primary for these seats [2, 4].",
+  "facts": [
+   {
+    "label": "Term",
+    "value": "4 years, with elections staggered so part of the board is chosen every two years [3]"
+   },
+   {
+    "label": "Elected",
+    "value": "At the November general election (November 3, 2026, or November 2028 for some seats); depending on the local organization plan, members represent the whole school corporation (at large) or a district within it, and some boards are wholly or partly appointed [2]"
+   },
+   {
+    "label": "Ballot label",
+    "value": "Each candidate chooses a party label, 'Independent', or no affiliation, shown next to the name; no primary and no straight-ticket voting for these races [2, 4]"
+   },
+   {
+    "label": "Pay",
+    "value": "Set by board resolution: an annual amount of no more than 10% of the lowest starting teacher salary in the school corporation, plus a capped per diem [5]"
+   },
+   {
+    "label": "On the 2026 ballot",
+    "value": "632 races in 299 school corporations; 1,039 candidates [6]"
+   }
+  ],
+  "duties": [
+   "Hires, evaluates and can dismiss the superintendent, and approves the hiring and firing of principals, teachers and other staff recommended by the superintendent [1, 7, 3].",
+   "Adopts the annual budget, appropriates funds and oversees school finances [1, 3].",
+   "Decides whether to ask voters to approve an operating referendum (an extra property tax levy); the board adopts the resolution and the Department of Local Government Finance reviews the ballot language for compliance with state law [8].",
+   "Approves contracts, buys and sells property, and decides on construction, repair and demolition of school buildings [1].",
+   "Bargains with the teachers' union over salary, wages and wage-related benefits such as health insurance and retirement; state law excludes teacher evaluation procedures from those bargaining subjects [9].",
+   "Writes and updates policies and rules for schools, often in a policy handbook, including the student handbook [1, 3].",
+   "Buys curricular materials, provides them to students without charge, and runs programs such as student transportation and school lunch [1].",
+   "Must adopt a process for parents and residents to ask that library material be removed as obscene or harmful to minors, review requests at public meetings and keep a public catalog of library materials [10].",
+   "Hears written appeals of student expulsions, unless the board has voted not to hear them [11].",
+   "Must take official action openly; Indiana's Open Door Law says public agencies' official action is to be conducted openly so the people may be fully informed [12, 13].",
+   "A school board member must have lived in the school corporation (and, for a district seat, the district) for at least one year before the election, and a teacher or other employee of the school corporation may not serve on its board [2].",
+   "What the board does not control: the State Board of Education adopts statewide academic standards [14], the General Assembly sets the state school funding formula in the state budget [15], and voucher (Choice Scholarship) eligibility is set by state law [16]."
+  ],
+  "recent_changes": [
+   "2025: Senate Enrolled Act 287 allowed school board candidates to declare a party affiliation; the Indiana School Boards Association opposed the change, and a supporter quoted by WNDU, a Noblesville school board member, said it adds transparency [17].",
+   "2026: Candidates choose a party, 'Independent' or no affiliation on their nominating petition, and that choice appears on the ballot; a candidate claiming the Democratic or Republican party must have voted in that party's primary in the two most recent primaries they voted in, or have certification from the county party chair, or can be challenged and removed from the ballot [2].",
+   "July 2026: Chalkbeat reported, citing Indiana School Boards Association data, that 524 of 1,044 candidates chose a party, about 72% of them Republicans [18]; the Indiana Election Division's 2026 guidance and the wording of the law differ on the primary-voting test, a question county election boards decide [19].",
+   "February 2026: Senate Enrolled Act 25 set the order of school board candidates on the ballot, grouped by party, with candidates who list no affiliation placed after the party and independent candidates [20].",
+   "2025: Senate Enrolled Act 1, a property tax law, limits how much operating revenue districts can raise through taxes and restricts school referendums to statewide general elections in even-numbered years [21, 22].",
+   "2025: The same law requires districts to share operating revenue with brick-and-mortar charter schools that enroll their students, statewide starting in 2028 [21, 22].",
+   "2025: The state budget opened Choice Scholarship vouchers to all Indiana families starting in June 2026 [16].",
+   "2026: The Indianapolis Public Education Corporation, rather than the Indianapolis Public Schools board, now certifies Indianapolis Public Schools referendum questions for the ballot [20].",
+   "2023: Senate Enrolled Act 391 changed the so-called $1 law so the Indiana Department of Education can order districts that lost at least 10% of enrollment over five years to close schools under 60% capacity and offer them to charter schools [23].",
+   "2023: House Enrolled Act 1447 required school districts to set up procedures for complaints that library material is obscene or harmful to minors [10]."
+  ]
+ },
+ "incumbent": null,
+ "race_context": [
+  "The district: White River Valley School District (WRV) serves western Greene County. Its high school is in Switz City, its middle school in Lyons and its elementary school in Worthington [24, 25]. Public School Review lists about 704 students in three schools; the year behind that figure is unclear [26]. Federal data show 209 students at the high school in 2023-24 [24]. Jason Walton is superintendent: the board named him interim superintendent in October 2025 and approved his contract as superintendent on March 16, 2026 [27, 28].",
+  "Board: the board has seven members, elected from township-based districts plus at-large seats [29, 30]. As of mid-2026 the members were Brock Hostetter (president, at large), Joe Decker (vice president, Jefferson II), Cleta Shake (secretary, Stafford Township), Brenden Dyer (Fairplay and Cass), Andy Davis, Miranda Hostetter and Roger Weaver [31, 32, 33]. Davis (District 5), Miranda Hostetter (District 1) and Weaver (District 3) were elected in 2024 [30].",
+  "Seats on the 2026 ballot: District 2 (Stafford), District 4 (Fairplay and Cass), District 6 (Jefferson 2) and one at-large seat [29, 6]. The district's board page says Shake (Stafford), Decker (Jefferson II) and Brock Hostetter (at large) serve through 2026 [31]. Neither Shake nor Decker is on the ballot [6]. Dyer, appointed to the District 4 seat in January 2026, is running for it [34, 6].",
+  "Seat-count and name discrepancy: the Daily World's Sept. 18 ballot list shows the at-large race as one seat, consistent with the state's “vote for 1” [29]. But that list also names incumbent Brock Hostetter (Republican) as an at-large candidate, and the state list does not include him [29, 6]. No fetched source explains the difference, for example a withdrawal.",
+  "Party labels: on the state list, Brandon C Deloof, Jan (Johnson) Van Sant, Dustin Stahl and Timothy York are Republican. Scott Cooksey and Brenden Dyer are Independent. Kyla Helms, Tracey (Strickler) Linneweber and Ashley B. (Bingham) Harroll are Nonpartisan [6].",
+  "Superintendent turnover: the board voted in February 2025 to hire Jim Larkin as superintendent [35]. He left on Sept. 30, 2025 under a separation agreement, and high school principal Jason Walton was named acting lead administrator [35]. On Oct. 20, 2025 the board voted 7-0 to make Walton interim superintendent [27]. In February 2026 it began drafting a contract for him to serve as full-time superintendent, and it approved that contract 7-0 on March 16, 2026 [36, 28].",
+  "Finances and enrollment: in November 2025 the board discussed a one-year teacher contract that allowed no step or column raises for 2025-26 “due to deficit financing”; the board ratified the agreement Nov. 12 [37, 38]. At a Dec. 15, 2025 hearing the business official explained that the board was approving up to $750,000 in additional Education Fund appropriations from cash balances. She said lower-than-projected enrollment had reduced state tuition revenue, and that declining enrollment “remains the primary long-term concern” [39]. In April 2026 the superintendent told the board the effects of SEA 1 (the 2025 property-tax law) were uncertain, with possible cuts to operating funds in coming years [40].",
+  "Staffing: the board updated its staff-reduction policy in April 2026 so that seniority is considered first, along with effectiveness, and in June 2026 it acknowledged staffing reductions involving four employees [40, 33]. Parents, staff and residents raised concerns about staff turnover and communication during public comment at the May 18, 2026 meeting [41].",
+  "Food service: on July 27, 2026 the board approved hiring Chartwells to run cafeteria operations; the minutes record a 4-1 vote with Roger Weaver abstaining [42]. Administration cited cafeteria staffing problems, and said Chartwells proposed higher wages than the district paid, along with more scratch cooking [42]. A resident who spoke at that meeting questioned the cost and asked about cafeteria electrical safety [42].",
+  "Technology and facilities: in May 2026, after a public work session, the board approved a student-device plan (Option Two) that moves from iPads to Neo devices. In April the board had discussed screen time and put the cost at about $350,000–$400,000 [40, 43]. In August 2026 it chose Linton Glass to replace high school door locks and voted to study an early care center at the elementary school, with start-up costs covered by a Greene County Foundation grant [25]. In a September 2026 letter to the Daily World, resident Bruce Porter objected to planned capital spending on field irrigation, tennis courts and middle school HVAC, citing enrollment losses [44].",
+  "Homeschool participation: in May 2026 the board voted to let homeschooled students who live in the district take part in athletics, consistent with IHSAA rules, if they enroll in one credit-bearing course [41, 45].",
+  "Drama sponsor vote: on May 18, 2026 a recommendation to approve former board member Conner Hill as volunteer drama club sponsor got three yes votes (Dyer, Miranda Hostetter, Weaver), two no votes (Brock Hostetter, Shake) and one abstention (Decker). The board attorney later said the motion failed because four yes votes were needed [41, 33]. Supporters of Hill spoke at the May and June meetings; the board president and superintendent said the matter was settled [46].",
+  "Forums: no 2026 WRV candidate forum, questionnaire or candidate statement was found in fetched sources. The Daily World published bios for Bloomfield candidates but none for WRV candidates."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Brandon C Deloof",
+   "seat": "District 2",
+   "summary": "Candidate for the open District 2 (Stafford) seat, where incumbent Cleta Shake is not on the ballot; listed as Republican [6, 29].",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Republican for District 2 [6, 29]."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement about the current board's decisions was found in fetched sources."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No biography, occupation, statement, website, questionnaire or forum appearance was found."
+   ]
+  },
+  {
+   "ballot_name": "Scott Cooksey",
+   "seat": "District 2",
+   "summary": "Candidate for the open District 2 (Stafford) seat; listed as Independent [6, 29].",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Independent for District 2 [6, 29]."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement about the current board's decisions was found in fetched sources."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No biography, occupation, statement, website, questionnaire or forum appearance was found."
+   ]
+  },
+  {
+   "ballot_name": "Brenden Dyer",
+   "seat": "District 4",
+   "summary": "Incumbent, appointed in January 2026 to the District 4 (Fairplay and Cass) seat vacated by Conner Hill; listed as Independent [6, 47].",
+   "website": null,
+   "background": [
+    "Is a current board member. The board appointed him on Jan. 19, 2026 to fill the District 4 vacancy left when Conner Hill resigned, after Hill bought a home outside the district he represented. The vote was 4-1, with Roger Weaver opposed [48, 34, 47].",
+    "The district's board page says he is serving his first term, appointed to fill a vacancy, and represents the Fairplay and Cass township seat [31]."
+   ],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Independent for District 4 [6, 29]."
+   ],
+   "positions": [
+    {
+     "topic": "Enrollment & school choice",
+     "items": [
+      "On May 18, 2026 he moved to let homeschooled students who live in the district take part in athletics, consistent with IHSAA rules, if they enroll in one credit-bearing course; the motion passed unanimously [41]."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "On May 18, 2026 he moved to approve a partnership with Indiana Wesleyan University to train instructional assistants as licensed teachers; it passed unanimously [41].",
+      "On May 18, 2026 he moved to approve Conner Hill as volunteer drama club sponsor and voted yes; the motion failed for lack of four yes votes [41, 33]."
+     ]
+    },
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "On July 27, 2026 he moved to approve Chartwells as the district's food service vendor; the motion passed [42]."
+     ]
+    },
+    {
+     "topic": "Facilities",
+     "items": [
+      "In March 2026 he moved to begin negotiations to let the Greene-Sullivan Special Education Cooperative use space at the Lyons facility, and in April he moved to donate an unused modular building to the fire department for training; both passed [28, 40]."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member. No public statement of his own on the board's record was found in fetched sources; his record is shown through the motions and votes above."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No biography, occupation, campaign statement, website or questionnaire was found. The board page gives no occupation.",
+    "The Daily World spelled his name “Brendan Dyer” and “Brendan Dyar” in a January 2026 article, and board minutes use both Brenden and Brendan."
+   ]
+  },
+  {
+   "ballot_name": "Jan (Johnson) Van Sant",
+   "seat": "District 4",
+   "summary": "Challenger for the District 4 (Fairplay and Cass) seat held by appointed incumbent Brenden Dyer; listed as Republican [6, 29].",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Republican for District 4 [6, 29]."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement about the current board's decisions was found in fetched sources."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No biography, occupation, statement, website, questionnaire or forum appearance was found.",
+    "Possible match, not confirmed as the same person: on July 20, 2026 the board approved a “Jan Vansant” (“Jan VanSant” in the Daily World) as a middle school volunteer assistant volleyball coach."
+   ]
+  },
+  {
+   "ballot_name": "Kyla Helms",
+   "seat": "District 6",
+   "summary": "Candidate for the open District 6 (Jefferson 2) seat, where incumbent Joe Decker is not on the ballot; listed as Nonpartisan [6, 29].",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Nonpartisan for District 6 [6, 29]."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement about the current board's decisions was found in fetched sources."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No biography, occupation, statement, website, questionnaire or forum appearance was found."
+   ]
+  },
+  {
+   "ballot_name": "Tracey (Strickler) Linneweber",
+   "seat": "District 6",
+   "summary": "Candidate for the open District 6 (Jefferson 2) seat; listed as Nonpartisan [6, 29].",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Nonpartisan for District 6 [6, 29]."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement about the current board's decisions was found in fetched sources."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No biography, occupation, statement, website, questionnaire or forum appearance was found."
+   ]
+  },
+  {
+   "ballot_name": "Ashley B. (Bingham) Harroll",
+   "seat": "At Large",
+   "summary": "Candidate for the one at-large seat; listed as Nonpartisan [6, 29].",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Nonpartisan for the at-large seat [6, 29]."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement about the current board's decisions was found in fetched sources."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No biography, occupation, statement, website, questionnaire or forum appearance was found.",
+    "Possible match, not confirmed: the Daily World reported in January 2026 that the board approved an “Ashley Harrell” as a middle school volunteer track coach. The spelling differs from the ballot name."
+   ]
+  },
+  {
+   "ballot_name": "Dustin Stahl",
+   "seat": "At Large",
+   "summary": "Candidate for the one at-large seat who has spoken at 2026 board meetings; listed as Republican [6, 29].",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Republican for the at-large seat [6, 29]."
+   ],
+   "positions": [
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "At the July 20, 2026 board meeting he spoke about accountability, board members' responsibilities and decision-making, raised concerns about school activities and personnel, and thanked staff for their work, according to the minutes [49]."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "At the June 15, 2026 meeting he spoke against the board's May vote that left Conner Hill out of the volunteer drama club sponsor position. Citing the board-member ethics policy's call to think of “children first,” he asked, “Were you thinking of the children first?” and urged members to listen to students [46, 33]."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No biography, occupation, campaign statement, website or questionnaire was found.",
+    "The June 2026 Daily World article and the board minutes name the speaker “Dustin Stahl” (the July 20 minutes spell it “Dustin Stall”) but do not say he is the ballot candidate; the match is by name only."
+   ]
+  },
+  {
+   "ballot_name": "Timothy York",
+   "seat": "At Large",
+   "summary": "Candidate for the one at-large seat; listed as Republican [6, 29].",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Republican for the at-large seat [6, 29]."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement about the current board's decisions was found in fetched sources."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No biography, occupation, statement, website, questionnaire or forum appearance was found."
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": 1,
+   "title": "Indiana Code 20-26-5-4: Specific powers of governing body",
+   "publisher": "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "date": "accessed 2026-10-10",
+   "url": "https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-5-4/"
+  },
+  {
+   "id": 2,
+   "title": "2026 Indiana Candidate Guide (School Board Offices)",
+   "publisher": "Indiana Election Division",
+   "date": "accessed 2026-10-10",
+   "url": "https://www.in.gov/dA/1eada35c3e/2026-Candidate-Guide.FINAL.pdf"
+  },
+  {
+   "id": 3,
+   "title": "800 school board seats are up for election in Indiana",
+   "publisher": "Chalkbeat Indiana / WFYI",
+   "date": "2024-06-13",
+   "url": "https://chalkbeat.org/indiana/2024/06/13/school-board-seats-up-for-election-in-indiana-in-2024"
+  },
+  {
+   "id": 4,
+   "title": "Why there are no education elections on your primary ballot",
+   "publisher": "Chalkbeat Indiana",
+   "date": "2026-04-07",
+   "url": "https://www.chalkbeat.org/indiana/2026/04/07/primary-election-ballot-changes-exclude-education-races-and-referendums/"
+  },
+  {
+   "id": 5,
+   "title": "Indiana Code 20-26-4-7: Compensation of governing body members",
+   "publisher": "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "date": "accessed 2026-10-10",
+   "url": "https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-4-7/"
+  },
+  {
+   "id": 6,
+   "title": "2026 General Election Candidate List",
+   "publisher": "Indiana Election Division",
+   "date": "2026-09-22",
+   "url": "https://www.in.gov/sos/elections/candidate-information/"
+  },
+  {
+   "id": 7,
+   "title": "Indiana Code 20-26-5-4.5: Selection and discharge of employees",
+   "publisher": "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "date": "accessed 2026-10-10",
+   "url": "https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-5-4-5/"
+  },
+  {
+   "id": 8,
+   "title": "School Tax Levy Referendum",
+   "publisher": "Indiana Department of Local Government Finance",
+   "date": "accessed 2026-10-10",
+   "url": "https://www.in.gov/dlgf/referendum-information/school-tax-levy-referendum/"
+  },
+  {
+   "id": 9,
+   "title": "Indiana Code 20-29-6-4: Subjects of collective bargaining",
+   "publisher": "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "date": "accessed 2026-10-10",
+   "url": "https://codes.findlaw.com/in/title-20-education/in-code-sect-20-29-6-4/"
+  },
+  {
+   "id": 10,
+   "title": "Obscene, or just objectionable? Here's how Indiana schools are tackling library book complaints",
+   "publisher": "Arnolt Center for Investigative Journalism / Indiana Capital Chronicle",
+   "date": "2024-02-05",
+   "url": "https://arnoltcenter.org/?p=1345"
+  },
+  {
+   "id": 11,
+   "title": "Indiana Code 20-33-8-19: Expulsion appeals",
+   "publisher": "FindLaw (Indiana Code)",
+   "date": "accessed 2026-10-10",
+   "url": "https://codes.findlaw.com/in/title-20-education/in-code-sect-20-33-8-19/"
+  },
+  {
+   "id": 12,
+   "title": "Indiana Code 5-14-1.5-1: Open Door Law policy",
+   "publisher": "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "date": "accessed 2026-10-10",
+   "url": "https://codes.findlaw.com/in/title-5-state-and-local-administration/in-code-sect-5-14-1-5-1/"
+  },
+  {
+   "id": 13,
+   "title": "What We Do",
+   "publisher": "Indiana Public Access Counselor",
+   "date": "accessed 2026-10-10",
+   "url": "https://www.in.gov/pac/about-us/what-we-do/"
+  },
+  {
+   "id": 14,
+   "title": "Indiana Code 20-31-3-1: State academic standards",
+   "publisher": "FindLaw (Indiana Code, current as of 2026-01-01)",
+   "date": "accessed 2026-10-10",
+   "url": "https://codes.findlaw.com/in/title-20-education/in-code-sect-20-31-3-1/"
+  },
+  {
+   "id": 15,
+   "title": "Indiana K-12 State Tuition Support Annual Report FY2023",
+   "publisher": "Indiana Department of Education",
+   "date": "2023",
+   "url": "https://www.in.gov/doe/files/2023-Tuition-Support-Report.pdf"
+  },
+  {
+   "id": 16,
+   "title": "Indiana lawmakers expand voucher eligibility, increase school funding in budget",
+   "publisher": "Chalkbeat Indiana",
+   "date": "2025-04-24",
+   "url": "https://chalkbeat.org/indiana/2025/04/24/vouchers-for-all-start-in-2026-budget-year"
+  },
+  {
+   "id": 17,
+   "title": "Indiana school board candidates split 50-50 on affiliating with a party",
+   "publisher": "WNDU",
+   "date": "2026-07-20",
+   "url": "https://www.wndu.com/2026/07/20/indiana-school-board-candidates-split-50-50-affiliating-with-party/"
+  },
+  {
+   "id": 18,
+   "title": "5 takeaways from Chalkbeat's panel on Indiana's changes to school board elections and referendums",
+   "publisher": "Chalkbeat Indiana",
+   "date": "2026-07-10",
+   "url": "https://www.chalkbeat.org/indiana/2026/07/10/indiana-school-board-elections-partisan-referendums-takeaways/"
+  },
+  {
+   "id": 19,
+   "title": "Confusion on partisan school board law puts two IPS candidates' spots at risk",
+   "publisher": "Chalkbeat Indiana",
+   "date": "2026-07-27",
+   "url": "https://www.chalkbeat.org/indiana/2026/07/27/confusion-on-partisan-schoolboard-threatens-ips-ballot-spots/"
+  },
+  {
+   "id": 20,
+   "title": "2026 Indiana Election Legislation Summary",
+   "publisher": "Indiana Election Division",
+   "date": "2026",
+   "url": "https://www.in.gov/dA/d13ecb1f55/2026-Indiana-Election-Legislation-Summary.FINAL.pdf"
+  },
+  {
+   "id": 21,
+   "title": "Indiana school referendum elections: Districts seek funding for teacher pay, class size, buses",
+   "publisher": "Chalkbeat Indiana",
+   "date": "2025-10-27",
+   "url": "https://www.chalkbeat.org/indiana/2025/10/27/schools-property-tax-referendum-election-2025"
+  },
+  {
+   "id": 22,
+   "title": "Indiana school district referendum guide 2026: What to know about your district's requested tax increase",
+   "publisher": "WFYI and Chalkbeat Indiana (via WVXU)",
+   "date": "2026-08-17",
+   "url": "https://www.wvxu.org/2026-08-17/indiana-school-district-referendum-guide-2026-what-to-know-about-your-districts-requested-tax-increase"
+  },
+  {
+   "id": 23,
+   "title": "Indiana charter schools could now have an easier path to acquiring district buildings",
+   "publisher": "Chalkbeat Indiana",
+   "date": "2023-06-11",
+   "url": "https://www.chalkbeat.org/indiana/2023/6/11/23755769/indiana-charters-acquire-traditional-public-school-buildings-underutilized-enrollment"
+  },
+  {
+   "id": 24,
+   "title": "White River Valley High School",
+   "publisher": "Wikipedia",
+   "date": "2026-10",
+   "url": "https://en.wikipedia.org/wiki/White_River_Valley_High_School"
+  },
+  {
+   "id": 25,
+   "title": "WRV school board votes to move forward with early care options at elementary school",
+   "publisher": "Greene County Daily World",
+   "date": "2026-08-28",
+   "url": "https://www.suncommercial.com/gcdailyworld/article_85a7387a-1f06-53f1-a69c-d0ede40b840d.html"
+  },
+  {
+   "id": 26,
+   "title": "White River Valley School District",
+   "publisher": "Public School Review",
+   "date": "2026-10",
+   "url": "https://www.publicschoolreview.com/indiana/white-river-valley-school-district/1800008-school-district"
+  },
+  {
+   "id": 27,
+   "title": "Board meeting and budget adoption minutes, Oct. 20, 2025",
+   "publisher": "White River Valley School District",
+   "date": "2025-10-20",
+   "url": "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/Board%20Minutes%20Oct%2020.pdf"
+  },
+  {
+   "id": 28,
+   "title": "Board meeting minutes, March 16, 2026",
+   "publisher": "White River Valley School District",
+   "date": "2026-03-16",
+   "url": "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/Board%20of%20Trustees/Monday%20March%2016.pdf"
+  },
+  {
+   "id": 29,
+   "title": "School board seats on the ballot this November",
+   "publisher": "Greene County Daily World",
+   "date": "2026-09-18",
+   "url": "https://www.suncommercial.com/gcdailyworld/article_f7fcb2d0-1b6d-54fe-a0b5-0c3e028bac72.html"
+  },
+  {
+   "id": 30,
+   "title": "Greene County General Election results",
+   "publisher": "Greene County Daily World",
+   "date": "2024-11-07",
+   "url": "https://www.suncommercial.com/gcdailyworld/news/article_e7e60118-a42d-53c2-b92b-65066dc667ae.html"
+  },
+  {
+   "id": 31,
+   "title": "Board of Trustees",
+   "publisher": "White River Valley School District",
+   "date": "2026-10",
+   "url": "https://www.wrv.k12.in.us/board_of_trustees"
+  },
+  {
+   "id": 32,
+   "title": "Reorganizational meeting minutes, Jan. 7, 2026",
+   "publisher": "White River Valley School District",
+   "date": "2026-01-07",
+   "url": "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/Jan7Minutes.pdf"
+  },
+  {
+   "id": 33,
+   "title": "Board meeting minutes, June 15, 2026",
+   "publisher": "White River Valley School District",
+   "date": "2026-06-15",
+   "url": "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/Minutes%20-%20June%202026%20(1).pdf"
+  },
+  {
+   "id": 34,
+   "title": "Board meeting minutes, Jan. 19, 2026",
+   "publisher": "White River Valley School District",
+   "date": "2026-01-19",
+   "url": "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/Board%20of%20Trustees/January%2019,%202026%20Minutes.pdf"
+  },
+  {
+   "id": 35,
+   "title": "WRV School Board accepts resignation of Superintendent Jim Larkin",
+   "publisher": "Greene County Daily World",
+   "date": "2025-10-03",
+   "url": "https://www.suncommercial.com/gcdailyworld/news/article_bee58647-bc28-5269-b714-1857aaac849a.html"
+  },
+  {
+   "id": 36,
+   "title": "Board meeting minutes, Feb. 16, 2026",
+   "publisher": "White River Valley School District",
+   "date": "2026-02-16",
+   "url": "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/Board%20of%20Trustees/Monday%20February%2016%20MINUTES.pdf"
+  },
+  {
+   "id": 37,
+   "title": "Special meeting minutes, Nov. 7, 2025",
+   "publisher": "White River Valley School District",
+   "date": "2025-11-07",
+   "url": "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/November%207%202025%20Special%20Meeting%20Minutes.pdf"
+  },
+  {
+   "id": 38,
+   "title": "Special meeting minutes, Nov. 12, 2025",
+   "publisher": "White River Valley School District",
+   "date": "2025-11-12",
+   "url": "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/11_12_2025%20minutes.pdf"
+  },
+  {
+   "id": 39,
+   "title": "Board meeting minutes, Dec. 15, 2025",
+   "publisher": "White River Valley School District",
+   "date": "2025-12-15",
+   "url": "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/MINUTES%20-%20December%2015,%202025.pdf"
+  },
+  {
+   "id": 40,
+   "title": "Board meeting minutes, April 20, 2026",
+   "publisher": "White River Valley School District",
+   "date": "2026-04-20",
+   "url": "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/Minutes%20-%20April%202026.pdf"
+  },
+  {
+   "id": 41,
+   "title": "Board meeting minutes, May 18, 2026",
+   "publisher": "White River Valley School District",
+   "date": "2026-05-18",
+   "url": "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/Minutes%20-%20May%202026%20(1).pdf"
+  },
+  {
+   "id": 42,
+   "title": "Special meeting minutes, July 27, 2026",
+   "publisher": "White River Valley School District",
+   "date": "2026-07-27",
+   "url": "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/Minutes%20-%20July%2027%202026.pdf"
+  },
+  {
+   "id": 43,
+   "title": "Special meeting minutes, May 4, 2026",
+   "publisher": "White River Valley School District",
+   "date": "2026-05-04",
+   "url": "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/Minutes%20-%20May%204,%202026%20-%20Special%20Meeting.pdf"
+  },
+  {
+   "id": 44,
+   "title": "Resident offers views on WRV board budgeting decisions (letter to the editor)",
+   "publisher": "Greene County Daily World",
+   "date": "2026-09-11",
+   "url": "https://www.suncommercial.com/gcdailyworld/article_7bf44092-67dc-5533-aa55-bac298eeef01.html"
+  },
+  {
+   "id": 45,
+   "title": "WRV School Board readies for next year",
+   "publisher": "Greene County Daily World",
+   "date": "2026-07-24",
+   "url": "https://www.suncommercial.com/gcdailyworld/article_c332e44b-47f8-5ef8-8123-fb5bab89ea6a.html"
+  },
+  {
+   "id": 46,
+   "title": "WRV Board deals with public backlash in support of former drama club director; Hill responds",
+   "publisher": "Greene County Daily World",
+   "date": "2026-06-23",
+   "url": "https://www.suncommercial.com/gcdailyworld/article_56f6705c-cbc6-53d5-8a6e-57c841628683.html"
+  },
+  {
+   "id": 47,
+   "title": "WRV School Board swears in new member",
+   "publisher": "Greene County Daily World",
+   "date": "2026-01-23",
+   "url": "https://www.suncommercial.com/gcdailyworld/article_571420fa-6bb3-5db1-bfd5-a2b7f7f0d1d9.html"
+  },
+  {
+   "id": 48,
+   "title": "Board meeting minutes, Nov. 17, 2025",
+   "publisher": "White River Valley School District",
+   "date": "2025-11-17",
+   "url": "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/11_17_2025%20minutes.pdf"
+  },
+  {
+   "id": 49,
+   "title": "Board meeting minutes, July 20, 2026",
+   "publisher": "White River Valley School District",
+   "date": "2026-07-20",
+   "url": "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/Minutes%20-%20July%202026%20(2).pdf"
+  }
+ ]
+}

@@ -51,7 +51,7 @@ A school board is the elected or appointed governing body of a public school cor
 - Budget: the board approved the 2026 budget, capital projects plan and bus replacement plan in September 2025, and the 2027 versions on Sept. 24, 2026 [34, 28]. No fetched source covered how the 2025 property-tax law (SEA 1) affects Bloomfield, and none mentioned an operating or safety referendum.
 - Programs: the district has been building a child care center (Chirps Childcare), which was nearing completion in September 2026. It is also creating a cybersecurity career pathway with Project Lead The Way and College Board, and has formed a Next Generation School Improvement Plan steering committee [34, 28]. The board accepted Secured School Safety grants of $87,875 in 2025 and $85,226 in 2026 [34, 28].
 - Forum: seven candidates appeared at a “Meet the Candidates” event at the Shawnee Theatre in Bloomfield on Thursday, Sept. 17, 2026, moderated by Brent Seymour; Leland Hutchens was not present [35]. The Daily World reported that candidates “by and large” agreed on working with staff and administration, and differed mainly in personal experience, reasons for running and familiarity with school policy [35].
-- Differences in candidate statements: Strange, Pinnick and Blazier spoke well of the district's spending decisions [36]. Chesnut said she is concerned about recent turnover of teachers and administrators and about outdated textbooks [37]. Bennett said some changes in the district left “more questions than answers” [38].
+- Differences in candidate statements: Strange and Blazier spoke well of the district's current spending, and Pinnick cited her experience keeping the district financially sound [36]. Chesnut said she is concerned about recent turnover of teachers and administrators and about outdated textbooks [37]. Bennett said some changes in the district left “more questions than answers” [38].
 
 ## Aaron Wilson — District 1
 
@@ -307,7 +307,7 @@ Registered nurse at Greene County General Hospital and parent of two Bloomfield 
 
 ## Leland E Hutchens — District 2
 
-The only candidate for the District 2 (Highland) seat, which incumbent Kayla Hendrix is leaving; listed as Republican [6, 29, 25].
+The only candidate for the District 2 (Highland) seat, where incumbent Kayla Hendrix is not on the ballot; listed as Republican [6, 29, 25].
 
 ### Path to the ballot
 

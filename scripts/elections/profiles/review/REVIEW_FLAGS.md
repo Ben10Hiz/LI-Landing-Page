@@ -41,6 +41,25 @@ Sensitive items held for a second, careful editorial pass (criminal cases, misco
   Note: A board decision on an employee's criminal charges and an earlier warning about his conduct; voters may weigh it, but it involves a third party's charges. The article does not list each member's vote, but with six voting and one recused, it implies all three 2026 incumbents voted no. Editor: strong local story. Cover in Legal Insights news once board voting records are in; the three candidates' votes are part of it.
   - [Greater Clark board votes against terminating teacher contract](https://www.newsandtribune.com/news/greater-clark-board-votes-against-terminating-teacher-contract/article_78f5b446-ba07-497c-8e31-ab0845355cb5.html) — News and Tribune, 2025-12-10
 
+## Indiana School Board Member (`in-school-board-greene-wrv`)
+
+- **Jim Larkin (former WRV superintendent; not a candidate)** — personnel action — _held_
+  On Aug. 18, 2025 the board added an agenda item and voted 7-0, on Roger Weaver's motion, to put Superintendent Jim Larkin on paid administrative leave pending review. The Daily World reported a confidential source's claim about the reason but said no verifiable evidence was given. Larkin resigned effective Sept. 30, 2025 under a separation agreement. In an Oct. 1, 2025 statement through its attorney, the board said he “voluntarily resigned” and named Jason Walton acting lead administrator. The board released nothing confirming or denying the reported reason.
+  Note: Background to the district's superintendent turnover, a 2026 issue. The reason for the leave is unconfirmed, so the profile text says only that he left under a separation agreement.
+  - [Board meeting minutes, Aug. 18, 2025](https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/MINUTES%20-%20August%2018%202025%20(1).pdf) — White River Valley School District, 2025-08-18
+  - [WRV School Board suspends superintendent pending review](https://www.suncommercial.com/gcdailyworld/article_96825474-e7ef-5966-8ce0-0141dae98209.html) — Greene County Daily World, 2025-08-22
+  - [WRV School Board accepts resignation of Superintendent Jim Larkin](https://www.suncommercial.com/gcdailyworld/news/article_bee58647-bc28-5269-b714-1857aaac849a.html) — Greene County Daily World, 2025-10-03
+
+- **Unnamed WRV board member** — remark — _held_
+  At the June 15, 2026 meeting, parent Dawnielle Fulford read aloud a reply she said she got from a board member about the drama sponsor vote. The reply said former member Conner Hill “burned a lot of bridges,” “broke board rules one after another,” and that the writer would vote no on anything involving Hill. The board member was not named. Afterward the board president and superintendent said there would be no statement. Hill said the vote was based on “personal feelings and not what is best for the kids”.
+  Note: The member is unidentified. Members whose terms end in 2026 include Shake and Decker (not running) and Brock Hostetter (listed by the Daily World as an at-large candidate but not on the state list). The quoted reply refers to the writer as “her.”
+  - [WRV Board deals with public backlash in support of former drama club director; Hill responds](https://www.suncommercial.com/gcdailyworld/article_56f6705c-cbc6-53d5-8a6e-57c841628683.html) — Greene County Daily World, 2026-06-23
+
+- **Dustin Stahl** — remark — _held_
+  At the June 15, 2026 board meeting, according to the Daily World, Dustin Stahl cited community hearsay in asking whether the decision not to approve Conner Hill as drama sponsor was due to a “personal vendetta”. The board did not respond during public comment.
+  Note: Questions board members' motives, citing hearsay. Matched to the candidate by name only. The profile text includes only the policy part of his comments.
+  - [WRV Board deals with public backlash in support of former drama club director; Hill responds](https://www.suncommercial.com/gcdailyworld/article_56f6705c-cbc6-53d5-8a6e-57c841628683.html) — Greene County Daily World, 2026-06-23
+
 ## Indiana School Board Member (`in-school-board-hammond`)
 
 - **Carlotta Blake King** — remark — _held_
@@ -82,6 +101,18 @@ Sensitive items held for a second, careful editorial pass (criminal cases, misco
   - [Morgan County Correspondent v. Board of Education of the Mooresville Consolidated School Corporation](https://www.rcfp.org/litigation/morgan-county-correspondent-v-board-of-ed/) — Reporters Committee for Freedom of the Press, 2024-12
   - [PAC: school board noncompliant](https://morgancountycorrespondent.com/2025/03/06/pac-school-board-noncompliant/) — Morgan County Correspondent, 2025-03-06
   - [Newspaper's lawsuit prompts Indiana school board to adopt transparency reforms](https://www.rcfp.org/?p=74978) — Reporters Committee for Freedom of the Press, 2025-06-06
+
+## Indiana School Board Member (`in-school-board-north-harrison`)
+
+- **Charles (Chris) Bowyer** — remark — _held_
+  At the Aug. 13, 2026 board meeting, resident Jordan Black said in public comment that Bowyer had told him the board is a 'self-serving board' and that members will enact their own personal agendas; the Corydon Democrat reported the claim as Black's account and did not report a response from Bowyer to that specific claim.
+  Note: A secondhand account of a private remark by one speaker (who shares a surname with at-large candidate Ashley Black); not confirmed by Bowyer.
+  - [North Harrison board finalizes classroom display policy](https://www.madisoncourier.com/the_clarion_news/news/education/north-harrison-board-finalizes-classroom-display-policy/article_da192398-6cce-51d4-a6fb-92da6de4a69f.html) — The Corydon Democrat / Clarion News, 2026-08-26
+
+- **Chad Schenck** — other — _held_
+  In his Sept. 2026 Corydon Democrat questionnaire, Schenck said the district's focus should be servant leadership, 'not ridicule, nepotism and party politics,' and accused board members and the superintendent of mismanagement; he gave no specific examples, and no response from the board or superintendent was published.
+  Note: An unspecified nepotism claim against current officials; the profile text keeps only his general management criticism.
+  - [NH Jackson Township school board seat draws four (Chad Schenck questionnaire)](https://www.madisoncourier.com/the_clarion_news/news/nh-jackson-township-school-board-seat-draws-four/article_c86c6e80-b7a8-57df-918a-e41461f5fbe3.html) — The Corydon Democrat / Clarion News, 2026-09-23
 
 ## Indiana School Board Member (`in-school-board-vanderburgh`)
 

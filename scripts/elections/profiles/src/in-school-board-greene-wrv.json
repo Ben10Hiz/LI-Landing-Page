@@ -1,0 +1,292 @@
+{
+ "race_id": "in-school-board-greene-wrv",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The district: White River Valley School District (WRV) serves western Greene County. Its high school is in Switz City, its middle school in Lyons and its elementary school in Worthington {wiki_wrvhs}{gcdw_waug26}. Public School Review lists about 704 students in three schools; the year behind that figure is unclear {psr_wrv}. Federal data show 209 students at the high school in 2023-24 {wiki_wrvhs}. Jason Walton is superintendent: the board named him interim superintendent in October 2025 and approved his contract as superintendent on March 16, 2026 {wrv_min251020}{wrv_min260316}.",
+  "Board: the board has seven members, elected from township-based districts plus at-large seats {gcdw_seats}{gcdw_res24}. As of mid-2026 the members were Brock Hostetter (president, at large), Joe Decker (vice president, Jefferson II), Cleta Shake (secretary, Stafford Township), Brenden Dyer (Fairplay and Cass), Andy Davis, Miranda Hostetter and Roger Weaver {wrv_board}{wrv_min260107}{wrv_min260615}. Davis (District 5), Miranda Hostetter (District 1) and Weaver (District 3) were elected in 2024 {gcdw_res24}.",
+  "Seats on the 2026 ballot: District 2 (Stafford), District 4 (Fairplay and Cass), District 6 (Jefferson 2) and one at-large seat {gcdw_seats}{in_list}. The district's board page says Shake (Stafford), Decker (Jefferson II) and Brock Hostetter (at large) serve through 2026 {wrv_board}. Neither Shake nor Decker is on the ballot {in_list}. Dyer, appointed to the District 4 seat in January 2026, is running for it {wrv_min260119}{in_list}.",
+  "Seat-count and name discrepancy: the Daily World's Sept. 18 ballot list shows the at-large race as one seat, consistent with the state's “vote for 1” {gcdw_seats}. But that list also names incumbent Brock Hostetter (Republican) as an at-large candidate, and the state list does not include him {gcdw_seats}{in_list}. No fetched source explains the difference, for example a withdrawal.",
+  "Party labels: on the state list, Brandon C Deloof, Jan (Johnson) Van Sant, Dustin Stahl and Timothy York are Republican. Scott Cooksey and Brenden Dyer are Independent. Kyla Helms, Tracey (Strickler) Linneweber and Ashley B. (Bingham) Harroll are Nonpartisan {in_list}.",
+  "Superintendent turnover: the board voted in February 2025 to hire Jim Larkin as superintendent {gcdw_woct25}. He left on Sept. 30, 2025 under a separation agreement, and high school principal Jason Walton was named acting lead administrator {gcdw_woct25}. On Oct. 20, 2025 the board voted 7-0 to make Walton interim superintendent {wrv_min251020}. In February 2026 it began drafting a contract for him to serve as full-time superintendent, and it approved that contract 7-0 on March 16, 2026 {wrv_min260216}{wrv_min260316}.",
+  "Finances and enrollment: in November 2025 the board discussed a one-year teacher contract that allowed no step or column raises for 2025-26 “due to deficit financing”; the board ratified the agreement Nov. 12 {wrv_min251107}{wrv_min251112}. At a Dec. 15, 2025 hearing the business official explained that the board was approving up to $750,000 in additional Education Fund appropriations from cash balances. She said lower-than-projected enrollment had reduced state tuition revenue, and that declining enrollment “remains the primary long-term concern” {wrv_min251215}. In April 2026 the superintendent told the board the effects of SEA 1 (the 2025 property-tax law) were uncertain, with possible cuts to operating funds in coming years {wrv_min260420}.",
+  "Staffing: the board updated its staff-reduction policy in April 2026 so that seniority is considered first, along with effectiveness, and in June 2026 it acknowledged staffing reductions involving four employees {wrv_min260420}{wrv_min260615}. Parents, staff and residents raised concerns about staff turnover and communication during public comment at the May 18, 2026 meeting {wrv_min260518}.",
+  "Food service: on July 27, 2026 the board approved hiring Chartwells to run cafeteria operations; the minutes record a 4-1 vote with Roger Weaver abstaining {wrv_min260727}. Administration cited cafeteria staffing problems, and said Chartwells proposed higher wages than the district paid, along with more scratch cooking {wrv_min260727}. A resident who spoke at that meeting questioned the cost and asked about cafeteria electrical safety {wrv_min260727}.",
+  "Technology and facilities: in May 2026, after a public work session, the board approved a student-device plan (Option Two) that moves from iPads to Neo devices. In April the board had discussed screen time and put the cost at about $350,000–$400,000 {wrv_min260420}{wrv_min260504}. In August 2026 it chose Linton Glass to replace high school door locks and voted to study an early care center at the elementary school, with start-up costs covered by a Greene County Foundation grant {gcdw_waug26}. In a September 2026 letter to the Daily World, resident Bruce Porter objected to planned capital spending on field irrigation, tennis courts and middle school HVAC, citing enrollment losses {gcdw_lte_porter}.",
+  "Homeschool participation: in May 2026 the board voted to let homeschooled students who live in the district take part in athletics, consistent with IHSAA rules, if they enroll in one credit-bearing course {wrv_min260518}{gcdw_wjul26}.",
+  "Drama sponsor vote: on May 18, 2026 a recommendation to approve former board member Conner Hill as volunteer drama club sponsor got three yes votes (Dyer, Miranda Hostetter, Weaver), two no votes (Brock Hostetter, Shake) and one abstention (Decker). The board attorney later said the motion failed because four yes votes were needed {wrv_min260518}{wrv_min260615}. Supporters of Hill spoke at the May and June meetings; the board president and superintendent said the matter was settled {gcdw_wjun26}.",
+  "Forums: no 2026 WRV candidate forum, questionnaire or candidate statement was found in fetched sources. The Daily World published bios for Bloomfield candidates but none for WRV candidates."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Brandon C Deloof",
+   "seat": "District 2",
+   "summary": "Candidate for the open District 2 (Stafford) seat, where incumbent Cleta Shake is not on the ballot; listed as Republican {in_list}{gcdw_seats}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Republican for District 2 {in_list}{gcdw_seats}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement about the current board's decisions was found in fetched sources."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No biography, occupation, statement, website, questionnaire or forum appearance was found."
+   ]
+  },
+  {
+   "ballot_name": "Scott Cooksey",
+   "seat": "District 2",
+   "summary": "Candidate for the open District 2 (Stafford) seat; listed as Independent {in_list}{gcdw_seats}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Independent for District 2 {in_list}{gcdw_seats}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement about the current board's decisions was found in fetched sources."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No biography, occupation, statement, website, questionnaire or forum appearance was found."
+   ]
+  },
+  {
+   "ballot_name": "Brenden Dyer",
+   "seat": "District 4",
+   "summary": "Incumbent, appointed in January 2026 to the District 4 (Fairplay and Cass) seat vacated by Conner Hill; listed as Independent {in_list}{gcdw_wjan26}.",
+   "website": null,
+   "background": [
+    "Is a current board member. The board appointed him on Jan. 19, 2026 to fill the District 4 vacancy left when Conner Hill resigned, after Hill bought a home outside the district he represented. The vote was 4-1, with Roger Weaver opposed {wrv_min251117}{wrv_min260119}{gcdw_wjan26}.",
+    "The district's board page says he is serving his first term, appointed to fill a vacancy, and represents the Fairplay and Cass township seat {wrv_board}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Independent for District 4 {in_list}{gcdw_seats}."
+   ],
+   "positions": [
+    {"topic": "Enrollment & school choice", "items": [
+     "On May 18, 2026 he moved to let homeschooled students who live in the district take part in athletics, consistent with IHSAA rules, if they enroll in one credit-bearing course; the motion passed unanimously {wrv_min260518}."
+    ]},
+    {"topic": "Teachers & staff", "items": [
+     "On May 18, 2026 he moved to approve a partnership with Indiana Wesleyan University to train instructional assistants as licensed teachers; it passed unanimously {wrv_min260518}.",
+     "On May 18, 2026 he moved to approve Conner Hill as volunteer drama club sponsor and voted yes; the motion failed for lack of four yes votes {wrv_min260518}{wrv_min260615}."
+    ]},
+    {"topic": "Budget & taxes", "items": [
+     "On July 27, 2026 he moved to approve Chartwells as the district's food service vendor; the motion passed {wrv_min260727}."
+    ]},
+    {"topic": "Facilities", "items": [
+     "In March 2026 he moved to begin negotiations to let the Greene-Sullivan Special Education Cooperative use space at the Lyons facility, and in April he moved to donate an unused modular building to the fire department for training; both passed {wrv_min260316}{wrv_min260420}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Is a current board member. No public statement of his own on the board's record was found in fetched sources; his record is shown through the motions and votes above."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No biography, occupation, campaign statement, website or questionnaire was found. The board page gives no occupation.",
+    "The Daily World spelled his name “Brendan Dyer” and “Brendan Dyar” in a January 2026 article, and board minutes use both Brenden and Brendan."
+   ]
+  },
+  {
+   "ballot_name": "Jan (Johnson) Van Sant",
+   "seat": "District 4",
+   "summary": "Challenger for the District 4 (Fairplay and Cass) seat held by appointed incumbent Brenden Dyer; listed as Republican {in_list}{gcdw_seats}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Republican for District 4 {in_list}{gcdw_seats}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement about the current board's decisions was found in fetched sources."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No biography, occupation, statement, website, questionnaire or forum appearance was found.",
+    "Possible match, not confirmed as the same person: on July 20, 2026 the board approved a “Jan Vansant” (“Jan VanSant” in the Daily World) as a middle school volunteer assistant volleyball coach."
+   ]
+  },
+  {
+   "ballot_name": "Kyla Helms",
+   "seat": "District 6",
+   "summary": "Candidate for the open District 6 (Jefferson 2) seat, where incumbent Joe Decker is not on the ballot; listed as Nonpartisan {in_list}{gcdw_seats}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Nonpartisan for District 6 {in_list}{gcdw_seats}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement about the current board's decisions was found in fetched sources."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No biography, occupation, statement, website, questionnaire or forum appearance was found."
+   ]
+  },
+  {
+   "ballot_name": "Tracey (Strickler) Linneweber",
+   "seat": "District 6",
+   "summary": "Candidate for the open District 6 (Jefferson 2) seat; listed as Nonpartisan {in_list}{gcdw_seats}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Nonpartisan for District 6 {in_list}{gcdw_seats}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement about the current board's decisions was found in fetched sources."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No biography, occupation, statement, website, questionnaire or forum appearance was found."
+   ]
+  },
+  {
+   "ballot_name": "Ashley B. (Bingham) Harroll",
+   "seat": "At Large",
+   "summary": "Candidate for the one at-large seat; listed as Nonpartisan {in_list}{gcdw_seats}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Nonpartisan for the at-large seat {in_list}{gcdw_seats}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement about the current board's decisions was found in fetched sources."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No biography, occupation, statement, website, questionnaire or forum appearance was found.",
+    "Possible match, not confirmed: the Daily World reported in January 2026 that the board approved an “Ashley Harrell” as a middle school volunteer track coach. The spelling differs from the ballot name."
+   ]
+  },
+  {
+   "ballot_name": "Dustin Stahl",
+   "seat": "At Large",
+   "summary": "Candidate for the one at-large seat who has spoken at 2026 board meetings; listed as Republican {in_list}{gcdw_seats}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Republican for the at-large seat {in_list}{gcdw_seats}."
+   ],
+   "positions": [
+    {"topic": "Transparency & community input", "items": [
+     "At the July 20, 2026 board meeting he spoke about accountability, board members' responsibilities and decision-making, raised concerns about school activities and personnel, and thanked staff for their work, according to the minutes {wrv_min260720}."
+    ]}
+   ],
+   "on_incumbent": [
+    "At the June 15, 2026 meeting he spoke against the board's May vote that left Conner Hill out of the volunteer drama club sponsor position. Citing the board-member ethics policy's call to think of “children first,” he asked, “Were you thinking of the children first?” and urged members to listen to students {gcdw_wjun26}{wrv_min260615}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No biography, occupation, campaign statement, website or questionnaire was found.",
+    "The June 2026 Daily World article and the board minutes name the speaker “Dustin Stahl” (the July 20 minutes spell it “Dustin Stall”) but do not say he is the ballot candidate; the match is by name only."
+   ]
+  },
+  {
+   "ballot_name": "Timothy York",
+   "seat": "At Large",
+   "summary": "Candidate for the one at-large seat; listed as Republican {in_list}{gcdw_seats}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Republican for the at-large seat {in_list}{gcdw_seats}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement about the current board's decisions was found in fetched sources."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No biography, occupation, statement, website, questionnaire or forum appearance was found."
+   ]
+  }
+ ],
+ "review_flags": [
+  {
+   "person": "Jim Larkin (former WRV superintendent; not a candidate)",
+   "category": "personnel action",
+   "status": "held",
+   "summary": "On Aug. 18, 2025 the board added an agenda item and voted 7-0, on Roger Weaver's motion, to put Superintendent Jim Larkin on paid administrative leave pending review {wrv_min250818}. The Daily World reported a confidential source's claim about the reason but said no verifiable evidence was given {gcdw_waug25}. Larkin resigned effective Sept. 30, 2025 under a separation agreement. In an Oct. 1, 2025 statement through its attorney, the board said he “voluntarily resigned” and named Jason Walton acting lead administrator {gcdw_woct25}. The board released nothing confirming or denying the reported reason {gcdw_woct25}.",
+   "note": "Background to the district's superintendent turnover, a 2026 issue. The reason for the leave is unconfirmed, so the profile text says only that he left under a separation agreement."
+  },
+  {
+   "person": "Unnamed WRV board member",
+   "category": "remark",
+   "status": "held",
+   "summary": "At the June 15, 2026 meeting, parent Dawnielle Fulford read aloud a reply she said she got from a board member about the drama sponsor vote. The reply said former member Conner Hill “burned a lot of bridges,” “broke board rules one after another,” and that the writer would vote no on anything involving Hill {gcdw_wjun26}. The board member was not named. Afterward the board president and superintendent said there would be no statement. Hill said the vote was based on “personal feelings and not what is best for the kids” {gcdw_wjun26}.",
+   "note": "The member is unidentified. Members whose terms end in 2026 include Shake and Decker (not running) and Brock Hostetter (listed by the Daily World as an at-large candidate but not on the state list). The quoted reply refers to the writer as “her.”"
+  },
+  {
+   "person": "Dustin Stahl",
+   "category": "remark",
+   "status": "held",
+   "summary": "At the June 15, 2026 board meeting, according to the Daily World, Dustin Stahl cited community hearsay in asking whether the decision not to approve Conner Hill as drama sponsor was due to a “personal vendetta” {gcdw_wjun26}. The board did not respond during public comment {gcdw_wjun26}.",
+   "note": "Questions board members' motives, citing hearsay. Matched to the candidate by name only. The profile text includes only the policy part of his comments."
+  }
+ ],
+ "sources": {
+  "gcdw_seats": ["School board seats on the ballot this November", "Greene County Daily World", "2026-09-18", "https://www.suncommercial.com/gcdailyworld/article_f7fcb2d0-1b6d-54fe-a0b5-0c3e028bac72.html"],
+  "gcdw_res24": ["Greene County General Election results", "Greene County Daily World", "2024-11-07", "https://www.suncommercial.com/gcdailyworld/news/article_e7e60118-a42d-53c2-b92b-65066dc667ae.html"],
+  "gcdw_waug25": ["WRV School Board suspends superintendent pending review", "Greene County Daily World", "2025-08-22", "https://www.suncommercial.com/gcdailyworld/article_96825474-e7ef-5966-8ce0-0141dae98209.html"],
+  "gcdw_woct25": ["WRV School Board accepts resignation of Superintendent Jim Larkin", "Greene County Daily World", "2025-10-03", "https://www.suncommercial.com/gcdailyworld/news/article_bee58647-bc28-5269-b714-1857aaac849a.html"],
+  "gcdw_wjan26": ["WRV School Board swears in new member", "Greene County Daily World", "2026-01-23", "https://www.suncommercial.com/gcdailyworld/article_571420fa-6bb3-5db1-bfd5-a2b7f7f0d1d9.html"],
+  "gcdw_wjun26": ["WRV Board deals with public backlash in support of former drama club director; Hill responds", "Greene County Daily World", "2026-06-23", "https://www.suncommercial.com/gcdailyworld/article_56f6705c-cbc6-53d5-8a6e-57c841628683.html"],
+  "gcdw_wjul26": ["WRV School Board readies for next year", "Greene County Daily World", "2026-07-24", "https://www.suncommercial.com/gcdailyworld/article_c332e44b-47f8-5ef8-8123-fb5bab89ea6a.html"],
+  "gcdw_waug26": ["WRV school board votes to move forward with early care options at elementary school", "Greene County Daily World", "2026-08-28", "https://www.suncommercial.com/gcdailyworld/article_85a7387a-1f06-53f1-a69c-d0ede40b840d.html"],
+  "gcdw_lte_porter": ["Resident offers views on WRV board budgeting decisions (letter to the editor)", "Greene County Daily World", "2026-09-11", "https://www.suncommercial.com/gcdailyworld/article_7bf44092-67dc-5533-aa55-bac298eeef01.html"],
+  "wrv_board": ["Board of Trustees", "White River Valley School District", "2026-10", "https://www.wrv.k12.in.us/board_of_trustees"],
+  "wrv_min250818": ["Board meeting minutes, Aug. 18, 2025", "White River Valley School District", "2025-08-18", "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/MINUTES%20-%20August%2018%202025%20(1).pdf"],
+  "wrv_min251020": ["Board meeting and budget adoption minutes, Oct. 20, 2025", "White River Valley School District", "2025-10-20", "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/Board%20Minutes%20Oct%2020.pdf"],
+  "wrv_min251107": ["Special meeting minutes, Nov. 7, 2025", "White River Valley School District", "2025-11-07", "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/November%207%202025%20Special%20Meeting%20Minutes.pdf"],
+  "wrv_min251112": ["Special meeting minutes, Nov. 12, 2025", "White River Valley School District", "2025-11-12", "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/11_12_2025%20minutes.pdf"],
+  "wrv_min251117": ["Board meeting minutes, Nov. 17, 2025", "White River Valley School District", "2025-11-17", "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/11_17_2025%20minutes.pdf"],
+  "wrv_min251215": ["Board meeting minutes, Dec. 15, 2025", "White River Valley School District", "2025-12-15", "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/MINUTES%20-%20December%2015,%202025.pdf"],
+  "wrv_min260107": ["Reorganizational meeting minutes, Jan. 7, 2026", "White River Valley School District", "2026-01-07", "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/Jan7Minutes.pdf"],
+  "wrv_min260119": ["Board meeting minutes, Jan. 19, 2026", "White River Valley School District", "2026-01-19", "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/Board%20of%20Trustees/January%2019,%202026%20Minutes.pdf"],
+  "wrv_min260216": ["Board meeting minutes, Feb. 16, 2026", "White River Valley School District", "2026-02-16", "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/Board%20of%20Trustees/Monday%20February%2016%20MINUTES.pdf"],
+  "wrv_min260316": ["Board meeting minutes, March 16, 2026", "White River Valley School District", "2026-03-16", "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/Board%20of%20Trustees/Monday%20March%2016.pdf"],
+  "wrv_min260420": ["Board meeting minutes, April 20, 2026", "White River Valley School District", "2026-04-20", "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/Minutes%20-%20April%202026.pdf"],
+  "wrv_min260504": ["Special meeting minutes, May 4, 2026", "White River Valley School District", "2026-05-04", "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/Minutes%20-%20May%204,%202026%20-%20Special%20Meeting.pdf"],
+  "wrv_min260518": ["Board meeting minutes, May 18, 2026", "White River Valley School District", "2026-05-18", "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/Minutes%20-%20May%202026%20(1).pdf"],
+  "wrv_min260615": ["Board meeting minutes, June 15, 2026", "White River Valley School District", "2026-06-15", "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/Minutes%20-%20June%202026%20(1).pdf"],
+  "wrv_min260720": ["Board meeting minutes, July 20, 2026", "White River Valley School District", "2026-07-20", "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/Minutes%20-%20July%202026%20(2).pdf"],
+  "wrv_min260727": ["Special meeting minutes, July 27, 2026", "White River Valley School District", "2026-07-27", "https://www.wrv.k12.in.us/UserFiles/Servers/Server_85223/File/Minutes%20-%20July%2027%202026.pdf"],
+  "wiki_wrvhs": ["White River Valley High School", "Wikipedia", "2026-10", "https://en.wikipedia.org/wiki/White_River_Valley_High_School"],
+  "psr_wrv": ["White River Valley School District", "Public School Review", "2026-10", "https://www.publicschoolreview.com/indiana/white-river-valley-school-district/1800008-school-district"]
+ }
+}
