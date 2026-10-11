@@ -17,6 +17,16 @@ file per race, named after the race id the app uses
   is thin, say so under `gaps` rather than filling space.
 - **Dated.** `reviewed` is the research date; statements carry their dates
   where known.
+- **Occupations, plainly.** A candidate's job is listed, including a job in a
+  church (e.g. pastor of a named church) — that is where voters can see them
+  at work. Otherwise no religious affiliation or family details.
+- **Sensitive items go to review, not the page.** Criminal cases, arrests,
+  misconduct allegations, firings, censures and controversial remarks are a
+  second level: they are recorded as `review_flags` in the source file, kept
+  off the public profile, and listed in
+  `scripts/elections/profiles/review/REVIEW_FLAGS.md` for a separate, careful
+  editorial pass. A flag marked "in profile" stays on the page by editor
+  decision and is still due for that pass.
 
 ## Shape
 

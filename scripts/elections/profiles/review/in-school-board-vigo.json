@@ -1,0 +1,27 @@
+{
+ "race_id": "in-school-board-vigo",
+ "office": "Indiana School Board Member",
+ "flags": [
+  {
+   "person": "Ken Warner",
+   "category": "board censure",
+   "status": "in profile",
+   "summary": "On Oct. 2, 2026 the Vigo County School Board voted 6-0 to censure Warner over his personal social media comments about a local criminal case involving possession of child sexual abuse material; he says his comments were taken out of context.",
+   "note": "Kept in the public profile by editor decision; revisit. A censure is a formal public statement of disapproval; it does not remove a member. Warner is running unopposed for District 4.",
+   "sources": [
+    {
+     "title": "Vigo school board censures member Ken Warner",
+     "publisher": "Tribune-Star (via Yahoo News)",
+     "date": "2026-10-03",
+     "url": "https://www.yahoo.com/news/us/articles/vigo-school-board-censures-member-035900761.html"
+    },
+    {
+     "title": "Vigo County School Board unanimously votes to censure member Ken Warner",
+     "publisher": "WTHI",
+     "date": "2026-10-02",
+     "url": "https://www.wthitv.com/2026/10/02/vigo-county-school-board-unanimously-votes-censure-member-ken-warner/"
+    }
+   ]
+  }
+ ]
+}

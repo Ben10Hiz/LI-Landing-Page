@@ -479,5 +479,14 @@
       "2026-10",
       "https://www.in.gov/dlgf/referendum-information/"
     ]
-  }
+  },
+  "review_flags": [
+    {
+      "person": "Larry J. Walker",
+      "category": "remark",
+      "status": "held",
+      "summary": "During a May 20, 2024 board discussion of walk zones in which an administrator mentioned checking the sex offender registry, Walker said \"I live far enough away.\" An advocate with the Indiana Coalition to End Sexual Assault and Human Trafficking called the comment troubling. Walker told Mirror Indy the statement \"had no meaning,\" and the district gave its account of what he said he meant {mi_walker}.",
+      "note": ""
+    }
+  ]
 }

@@ -76,8 +76,7 @@
       "summary": "Challenger; a longtime educator who has worked in Pike Township schools and at the Indiana Charter School Board {cb_guide}.",
       "website": null,
       "background": [
-        "Longtime educator who held positions in Pike Township and at the Indiana Charter School Board and was a founding principal at Global Prep Academy, according to Chalkbeat/WFYI's summary of her LinkedIn profile {cb_guide}.",
-        "WFYI reported she was director of schools for the Indiana Charter School Board {wfyi_scott}."
+        "Longtime educator who held positions in Pike Township and at the Indiana Charter School Board and was a founding principal at Global Prep Academy, according to Chalkbeat/WFYI's summary of her LinkedIn profile {cb_guide}."
       ],
       "path_to_ballot": [
         "Listed on the state candidate list as a Democrat {in_list}.",
@@ -262,5 +261,14 @@
       "2026-10-08",
       "https://www.wfyi.org/education/2026-10-08/pike-township-school-board-candidate-arrested-faces-felony-charge"
     ]
-  }
+  },
+  "review_flags": [
+    {
+      "person": "Sherie Latoya Scott",
+      "category": "criminal case",
+      "status": "held",
+      "summary": "WFYI reported Oct. 8, 2026 that Scott was arrested Oct. 2 and charged with felony domestic battery; a magistrate found probable cause and the case is pending; no response from her was found {wfyi_scott}.",
+      "note": "The same WFYI article says she was director of schools for the Indiana Charter School Board."
+    }
+  ]
 }

@@ -1,0 +1,69 @@
+{
+ "race_id": "in-state-senator-district-22",
+ "office": "Indiana State Senator",
+ "flags": [
+  {
+   "person": "Ron Alting",
+   "category": "criminal case",
+   "status": "held",
+   "summary": "Oct. 2026: The Lafayette Journal & Courier reported, citing a source, that Alting is accused of shoplifting from a Lafayette Walmart on Sept. 22 and a Monticello Walmart on Oct. 1; Elkhart County Prosecutor Vicki Becker was appointed special prosecutor to review possible charges, and no charges had been filed .",
+   "note": "Police reports; no charges filed as of Oct. 8, 2026. Includes his statement that he is stepping back from active campaigning. Previously shown in the public profile. The same Journal & Courier report says public records list his main residence in Monticello.",
+   "sources": [
+    {
+     "title": "Source: Alting accused of 2 recent Walmart shoplifting incidents",
+     "publisher": "Lafayette Journal & Courier via InkFreeNews",
+     "date": "2026-10-08",
+     "url": "https://www.inkfreenews.com/2026/10/08/source-alting-accused-of-2-recent-walmart-shoplifting-incidents/"
+    },
+    {
+     "title": "Becker to decide if senator should face shoplifting charges",
+     "publisher": "WVPE via IPM",
+     "date": "2026-10-08",
+     "url": "https://www.ipm.org/news/2026-10-08/becker-to-decide-if-senator-should-face-shoplifting-charges"
+    }
+   ]
+  },
+  {
+   "person": "Ron Alting",
+   "category": "campaign status",
+   "status": "held",
+   "summary": "Oct. 2026 response: Alting said he has been 'experiencing concerning changes in my judgment and cognitive functioning,' is undergoing medical evaluation and treatment, takes responsibility, apologized to his family, constituents, and store employees, and is 'stepping back from actively campaigning' .",
+   "note": "Police reports; no charges filed as of Oct. 8, 2026. Includes his statement that he is stepping back from active campaigning. Previously shown in the public profile.",
+   "sources": [
+    {
+     "title": "Becker to decide if senator should face shoplifting charges",
+     "publisher": "WVPE via IPM",
+     "date": "2026-10-08",
+     "url": "https://www.ipm.org/news/2026-10-08/becker-to-decide-if-senator-should-face-shoplifting-charges"
+    },
+    {
+     "title": "Source: Alting accused of 2 recent Walmart shoplifting incidents",
+     "publisher": "Lafayette Journal & Courier via InkFreeNews",
+     "date": "2026-10-08",
+     "url": "https://www.inkfreenews.com/2026/10/08/source-alting-accused-of-2-recent-walmart-shoplifting-incidents/"
+    }
+   ]
+  },
+  {
+   "person": "Ron Alting",
+   "category": "campaign status",
+   "status": "held",
+   "summary": "Alting's Oct. 2026 statement that he is stepping back from active campaigning came less than a month before the Nov. 3 election ; his name remains on the state's official general-election candidate list.",
+   "note": "Police reports; no charges filed as of Oct. 8, 2026. Includes his statement that he is stepping back from active campaigning. Previously shown in the public profile.",
+   "sources": [
+    {
+     "title": "Becker to decide if senator should face shoplifting charges",
+     "publisher": "WVPE via IPM",
+     "date": "2026-10-08",
+     "url": "https://www.ipm.org/news/2026-10-08/becker-to-decide-if-senator-should-face-shoplifting-charges"
+    },
+    {
+     "title": "2026 General Election Candidate List",
+     "publisher": "Indiana Election Division",
+     "date": "2026-09-22",
+     "url": "https://www.in.gov/sos/elections/candidate-information/"
+    }
+   ]
+  }
+ ]
+}

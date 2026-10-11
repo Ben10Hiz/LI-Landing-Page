@@ -53,7 +53,6 @@ A school board is the elected or appointed governing body of a public school cor
 - Budget cuts: in March 2025 Superintendent Daniel said the district's six-year budget projection had fallen from about $55 million to about $18 million, and the board announced that more than 20 positions were eliminated, saving about $3 million [29].
 - Building closure: in November 2025 FWCS announced South Wayne Elementary will close at the end of the 2025-26 school year, citing the cost to repair or replace the building and upcoming funding reductions; most students move to Abbett or Fairfield elementary [30].
 - Board appointments: in May 2026 the board moved President Noah Smith from District 3 to a vacant at-large seat without an application process, drawing a complaint to the board and the Indiana Department of Education [31]. Willie Burton was later appointed to District 3 through 2028 [25].
-- Personnel: in September 2026 the board approved the termination of at-large candidate Brandon Foster as Irwin STEM Magnet School principal, effective in May [32].
 - No 2026 candidate forum for FWCS was found; the Journal Gazette published questionnaire responses from all contested candidates in October 2026 [28, 26].
 - Key differences in the questionnaires: on state advocacy, Daly would press to redirect voucher money to public schools, Crummey to seek more local autonomy, Foster to have the state take over leadership of districts with multiple D or F schools, and Jaquish said she would not seek more per-student funding for FWCS; on enrollment, Crummey, Jaquish and Foster called for the district to compete harder or change leadership, while Smith, Follo, Jordan and Hollingsworth emphasized building on and publicizing existing programs [28, 26].
 
@@ -194,14 +193,12 @@ Incumbent, running unopposed. Ivy Tech legal studies program chair and attorney 
 
 ## Brandon J Foster — At Large
 
-Educational consultant and former FWCS elementary principal whose termination the board approved in September 2026; he filed as an independent [28, 32, 27].
+Educational consultant and former FWCS elementary principal; he filed as an independent [28, 27].
 
 ### Background
 
 - Educational consultant; age 41; lives in Fort Wayne; first-time candidate [28].
 - Was hired as principal of Irwin STEM Magnet School in summer 2024 [32].
-- The FWCS board approved his termination as part of its consent agenda in September 2026, effective May 22; the district's May 14 termination letter said it had lost confidence in his leadership and cited "a pattern of concerns, including but not limited to employee complaints," the climate and culture of the school and "violation of written directives" [32].
-- Foster told the Journal Gazette he attributed the firing to missed work during a family matter and to his questions about Black students' standardized test scores [32].
 
 ### Path to the ballot
 
@@ -242,7 +239,6 @@ Educational consultant and former FWCS elementary principal whose termination th
 ### What we couldn't verify
 
 - No campaign website or social media page found.
-- No district response to Foster's account of his firing was reported beyond the termination letter; the Journal Gazette article does not mention an appeal.
 - No forum appearances found.
 - No campaign finance filings were reviewed (Allen County filings page returned 403).
 

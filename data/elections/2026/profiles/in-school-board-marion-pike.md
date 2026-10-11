@@ -110,7 +110,6 @@ Challenger; a longtime educator who has worked in Pike Township schools and at t
 ### Background
 
 - Longtime educator who held positions in Pike Township and at the Indiana Charter School Board and was a founding principal at Global Prep Academy, according to Chalkbeat/WFYI's summary of her LinkedIn profile [24].
-- WFYI reported she was director of schools for the Indiana Charter School Board [32].
 
 ### Path to the ballot
 
@@ -269,4 +268,3 @@ Incumbent board member whose term ends Dec. 31, 2026 [24, 27].
 29. [MSD of Pike Township's School Board responses to questions from the Board's July 8, 2026 Town Hall Meeting](https://www.pike.k12.in.us/432357_2) — MSD of Pike Township, 2026-07
 30. [Re: A Letter to the MSD of Pike Township Community from the Board of Education](https://www.pike.k12.in.us/re-a-letter-to-the-msd-of-pike-town) — MSD of Pike Township, 2026-09-09
 31. ['Are my kids safe?' Parents question Pike Township school board after it alleges a culture of fear](https://www.wfyi.org/education/2026-09-10/msd-pike-township-parents-demand-answers-school-board-culture-letter) — WFYI, 2026-09-10
-32. [Pike Township school board candidate arrested, faces felony charge](https://www.wfyi.org/education/2026-10-08/pike-township-school-board-candidate-arrested-faces-felony-charge) — WFYI, 2026-10-08

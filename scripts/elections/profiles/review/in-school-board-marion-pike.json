@@ -1,0 +1,21 @@
+{
+ "race_id": "in-school-board-marion-pike",
+ "office": "Indiana School Board Member",
+ "flags": [
+  {
+   "person": "Sherie Latoya Scott",
+   "category": "criminal case",
+   "status": "held",
+   "summary": "WFYI reported Oct. 8, 2026 that Scott was arrested Oct. 2 and charged with felony domestic battery; a magistrate found probable cause and the case is pending; no response from her was found.",
+   "note": "The same WFYI article says she was director of schools for the Indiana Charter School Board.",
+   "sources": [
+    {
+     "title": "Pike Township school board candidate arrested, faces felony charge",
+     "publisher": "WFYI",
+     "date": "2026-10-08",
+     "url": "https://www.wfyi.org/education/2026-10-08/pike-township-school-board-candidate-arrested-faces-felony-charge"
+    }
+   ]
+  }
+ ]
+}

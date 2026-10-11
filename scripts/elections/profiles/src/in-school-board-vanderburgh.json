@@ -529,5 +529,14 @@
       "2026-10",
       "https://t.me/s/ColbertReport/2146"
     ]
-  }
+  },
+  "review_flags": [
+    {
+      "person": "Ken Colbert",
+      "category": "other",
+      "status": "held",
+      "summary": "WNIN reported that Colbert and his podcast co-host were removed from the state and county Republican Party and that he faces a recent bench warrant related to an attempt to file as a Republican in another race {wnin_d2_challengers}.",
+      "note": "Not confirmed from court or party records."
+    }
+  ]
 }

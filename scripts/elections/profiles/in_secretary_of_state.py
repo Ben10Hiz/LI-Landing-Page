@@ -79,6 +79,14 @@ S = {
 
 PROFILE = {
     "race_id": "in-secretary-of-state",
+    "review_flags": [
+        {"person": "Diego Morales", "category": "misconduct allegation", "status": "held",
+         "summary": "March 2026: the Marion County Election Board referred allegations that a re-election video used footage from an official visit to the State Inspector General and State Ethics Commission. His campaign called the allegations meritless. No outcome had been reported as of this review {indypol_mar2026}.",
+         "note": "Previously shown in the public profile."},
+        {"person": "Ballard campaign (Lincoln Party)", "category": "other", "status": "held",
+         "summary": "In June 2026, Hamilton County officials flagged one petition page with suspect signatures gathered by a single volunteer, and state police opened an investigation. The campaign said it ended the volunteer's involvement. No outcome had been reported as of this review {ipm_jun18}.",
+         "note": "Previously shown in the public profile."},
+    ],
     "reviewed": "2026-10-10",
     "status": "draft",
     "status_note": "Pending editorial review. Quotes were taken from news reports; check key quotes against the Oct. 7 debate video before publishing.",
@@ -121,7 +129,6 @@ PROFILE = {
             "July 2025: signed an agreement with U.S. Citizenship and Immigration Services to use the federal SAVE database to check the citizenship of registered voters {sos_save}.",
             "November 2025: after Indiana sued the Department of Homeland Security for bulk SAVE access, the state settled; the office uploaded nearly 500,000 voter registrations to DHS and provided the voter list to the U.S. Justice Department {indypol_jun2026}.",
             "June 2026: an analysis filed by the plaintiffs in the federal lawsuit counted 3,234 people flagged under HEA 1680, of whom 981 had their registrations canceled and 113 were identified as false positives {wthi_jun2026}.",
-            "March 2026: the Marion County Election Board referred allegations that a re-election video used footage from an official visit to the State Inspector General and State Ethics Commission. His campaign called the allegations meritless. No outcome had been reported as of this review {indypol_mar2026}.",
             "September 2026: the office responded to campaign criticism, stating that all office vendors were contracted through public processes {sos_sept2026}.",
         ],
     },
@@ -261,7 +268,6 @@ PROFILE = {
             "path_to_ballot": [
                 "Announced an independent campaign March 4, 2026 {wrtv_mar4}. Indiana law does not allow an \"Independent Party\" label, so he chose the name Lincoln Party {wfyi_mar12}.",
                 "Qualified by petition; the Election Division lists his filing date as July 14, 2026 {in_list}{wndu_sep9}.",
-                "In June 2026, Hamilton County officials flagged one petition page with suspect signatures gathered by a single volunteer, and state police opened an investigation. The campaign said it ended the volunteer's involvement. No outcome had been reported as of this review {ipm_jun18}.",
                 "The Lincoln Party is chaired by Nathan Gotsch, Ballard's campaign manager, and has not published a platform {wndu_sep9}.",
             ],
             "positions": [

@@ -351,5 +351,14 @@
       "2026-10",
       "https://www.documenters.org/agencies/decatur-township-school-board-989"
     ]
-  }
+  },
+  "review_flags": [
+    {
+      "person": "Chase Lyday",
+      "category": "misconduct allegation",
+      "status": "held",
+      "summary": "Chalkbeat reported he resigned as Avon Community Schools police chief in 2022 while under investigation by the Hendricks County prosecutor, who alleged he lied about past disciplinary actions, and that no charges were filed. Lyday called the allegations \"patently false\" and \"baseless\" and asked voters to \"look at the totality of my record\" {cb_dec_guide}.",
+      "note": ""
+    }
+  ]
 }

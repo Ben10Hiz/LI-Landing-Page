@@ -510,5 +510,14 @@
       "2024-02-21",
       "https://www.wvpe.org/wvpe-news/2024-02-21/four-goshen-school-board-members-criminally-charged-with-campaign-finance-violations"
     ]
-  }
+  },
+  "review_flags": [
+    {
+      "person": "Allan Kauffman, Mario Garber, José Elizalde, Roger Nafziger (board members, not on the ballot)",
+      "category": "criminal case",
+      "status": "held",
+      "summary": "In February 2024, board members Allan Kauffman, Mario Garber, José Elizalde and Roger Nafziger and former candidate Andrea Johnson were charged over campaign finance reports for a 2022 school board mailer {wvpe_charged}.",
+      "note": "A later WVPE report (source not retained) said Elizalde and Nafziger pleaded guilty to a Level 6 felony; other outcomes unconfirmed. None of these members is on the 2026 ballot."
+    }
+  ]
 }

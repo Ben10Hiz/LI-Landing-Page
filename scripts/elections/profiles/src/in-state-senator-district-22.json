@@ -7,14 +7,12 @@
  "incumbent": {
   "name": "Ron Alting",
   "party": "Republican",
-  "summary": "Sen. Ron Alting, first elected in 1998 and chair of the Senate Public Policy Committee, is seeking another term; in October 2026 he said he was stepping back from active campaigning after news reports that police suspect him in shoplifting incidents, and no charges had been filed as of Oct. 8 {alting_bio} {ipm_becker} {inkfree_jc}.",
+  "summary": "Sen. Ron Alting, first elected in 1998 and chair of the Senate Public Policy Committee, is seeking another term {alting_bio}.",
   "record": [
    "Committees: The Senate Republican caucus lists him as chair of Public Policy and a member of Insurance and Financial Institutions {alting_bio}.",
    "2025: Voted against SB 1, the 2025 property-tax law, saying it was 'not a solution that provides meaningful tax relief for Hoosiers' and that relief should not become an excuse for growth in local income taxes {jc_qa}.",
    "Dec. 2025: Supported the mid-decade congressional redistricting proposal, which the Senate defeated; IPM reported he has at times voted against his party's majority, including on the 2022 near-total abortion ban bill {ipm_trump_endorse}.",
-   "2026 session: According to the Senate Republican caucus, he authored a bill banning vaping products made in foreign adversarial nations such as China, signed March 12 and effective July 1, and a bill coupling Indiana's tax code to federal 'no tax on tips' and 'no tax on overtime' provisions that passed the Senate 47–1 on Jan. 28 {alting_bio}.",
-   "Oct. 2026: The Lafayette Journal & Courier reported, citing a source, that Alting is accused of shoplifting from a Lafayette Walmart on Sept. 22 and a Monticello Walmart on Oct. 1; Elkhart County Prosecutor Vicki Becker was appointed special prosecutor to review possible charges, and no charges had been filed {inkfree_jc} {ipm_becker}.",
-   "Oct. 2026 response: Alting said he has been 'experiencing concerning changes in my judgment and cognitive functioning,' is undergoing medical evaluation and treatment, takes responsibility, apologized to his family, constituents, and store employees, and is 'stepping back from actively campaigning' {ipm_becker} {inkfree_jc}."
+   "2026 session: According to the Senate Republican caucus, he authored a bill banning vaping products made in foreign adversarial nations such as China, signed March 12 and effective July 1, and a bill coupling Indiana's tax code to federal 'no tax on tips' and 'no tax on overtime' provisions that passed the Senate 47–1 on Jan. 28 {alting_bio}."
   ]
  },
  "race_context": [
@@ -22,7 +20,6 @@
   "Republican primary (May 5, 2026): Alting 4,954 (59.1%) over Richard Bagsby 3,424 (40.9%); Democratic primary: Natasha Baker 3,554 (62.1%) over Marlena Edmondson 2,045, per Wikipedia's results compilation {wiki_2026_insen}.",
   "Trump endorsed Alting in March 2026; primary challenger Bagsby, who criticized Alting's voting record, had the backing of Lt. Gov. Micah Beckwith {ipm_trump_endorse}.",
   "In an Oct. 1, 2026 Journal & Courier Q&A, both candidates opposed shifting the tax burden from property taxes to local income taxes; they differed on the gas tax, with Alting favoring removing the sales tax on gas and Baker favoring reinstating the gas tax to fund roads {jc_qa}.",
-  "Alting's Oct. 2026 statement that he is stepping back from active campaigning came less than a month before the Nov. 3 election {ipm_becker}; his name remains on the state's official general-election candidate list {in_list}.",
   "No debate or forum between the candidates was found in available coverage."
  ],
  "candidates": [
@@ -31,8 +28,7 @@
    "summary": "Ron Alting is the incumbent Republican, first elected in 1998 and a former Lafayette City Council president, who chairs the Senate Public Policy Committee {alting_bio}.",
    "website": null,
    "background": [
-    "According to the Senate Republican caucus, he is a Purdue University graduate, a business development leader at Trane, a major in the Indiana Guard Reserve, and was Lafayette City Council president from 1995 to 1998 {alting_bio}.",
-    "The Journal & Courier reported that public records list his main residence in Monticello {inkfree_jc}."
+    "According to the Senate Republican caucus, he is a Purdue University graduate, a business development leader at Trane, a major in the Indiana Guard Reserve, and was Lafayette City Council president from 1995 to 1998 {alting_bio}."
    ],
    "path_to_ballot": [
     "Won the May 5, 2026 Republican primary with 59.1% over Richard Bagsby, per Wikipedia's results compilation {wiki_2026_insen}."
@@ -55,7 +51,7 @@
     "Is the current officeholder. No statements by Alting about Baker were found in fetched sources {jc_qa}."
    ],
    "plans": [
-    "No general-election legislative agenda was found; in October 2026 he said he was stepping back from active campaigning while undergoing medical evaluation {ipm_becker}."
+    "No general-election legislative agenda was found."
    ],
    "endorsements_finance": [
     "Endorsed by President Trump in March 2026 {ipm_trump_endorse}.",
@@ -188,5 +184,28 @@
    "2026-01-10",
    "https://therecoveredrepublican.substack.com/p/a-conversation-with-natasha-baker"
   ]
- }
+ },
+ "review_flags": [
+  {
+   "person": "Ron Alting",
+   "category": "criminal case",
+   "status": "held",
+   "summary": "Oct. 2026: The Lafayette Journal & Courier reported, citing a source, that Alting is accused of shoplifting from a Lafayette Walmart on Sept. 22 and a Monticello Walmart on Oct. 1; Elkhart County Prosecutor Vicki Becker was appointed special prosecutor to review possible charges, and no charges had been filed {inkfree_jc} {ipm_becker}.",
+   "note": "Police reports; no charges filed as of Oct. 8, 2026. Includes his statement that he is stepping back from active campaigning. Previously shown in the public profile. The same Journal & Courier report says public records list his main residence in Monticello."
+  },
+  {
+   "person": "Ron Alting",
+   "category": "campaign status",
+   "status": "held",
+   "summary": "Oct. 2026 response: Alting said he has been 'experiencing concerning changes in my judgment and cognitive functioning,' is undergoing medical evaluation and treatment, takes responsibility, apologized to his family, constituents, and store employees, and is 'stepping back from actively campaigning' {ipm_becker} {inkfree_jc}.",
+   "note": "Police reports; no charges filed as of Oct. 8, 2026. Includes his statement that he is stepping back from active campaigning. Previously shown in the public profile."
+  },
+  {
+   "person": "Ron Alting",
+   "category": "campaign status",
+   "status": "held",
+   "summary": "Alting's Oct. 2026 statement that he is stepping back from active campaigning came less than a month before the Nov. 3 election {ipm_becker}; his name remains on the state's official general-election candidate list {in_list}.",
+   "note": "Police reports; no charges filed as of Oct. 8, 2026. Includes his statement that he is stepping back from active campaigning. Previously shown in the public profile."
+  }
+ ]
 }

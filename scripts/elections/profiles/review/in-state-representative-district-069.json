@@ -1,0 +1,63 @@
+{
+ "race_id": "in-state-representative-district-069",
+ "office": "Indiana State Representative",
+ "flags": [
+  {
+   "person": "Jim Lucas",
+   "category": "criminal case",
+   "status": "held",
+   "summary": "May 31, 2023: Crashed his pickup through a guardrail at I-65 and Indiana 11 and drove away; a trooper's affidavit reported a 0.097% portable breath test more than an hour later. On June 12, 2023 he pleaded guilty to misdemeanor operating while intoxicated and leaving the scene, receiving suspended sentences, probation and about $4,000 in restitution; he kept his seat. He said he took \"full responsibility,\" apologized and was \"already enrolled in counseling\". In December 2023 a judge ended his probation after six months, finding he had completed its conditions.",
+   "note": "Misdemeanor OWI and leaving-the-scene plea, 2023; probation ended early. Previously shown in the public profile.",
+   "sources": [
+    {
+     "title": "Indiana lawmaker to keep seat after pleading guilty to drunken driving (Associated Press)",
+     "publisher": "Indianapolis Business Journal",
+     "date": "2023-06-12",
+     "url": "https://www.ibj.com/articles/indiana-lawmaker-to-keep-seat-after-pleading-guilty-to-drunken-driving"
+    },
+    {
+     "title": "Judge cuts probation for Indiana lawmaker after drunken driving plea (Associated Press)",
+     "publisher": "Indianapolis Business Journal",
+     "date": "2023-12-23",
+     "url": "https://www.ibj.com/articles/judge-cuts-probation-for-indiana-lawmaker-after-drunken-driving-plea"
+    }
+   ]
+  },
+  {
+   "person": "Jim Lucas",
+   "category": "conduct",
+   "status": "held",
+   "summary": "Jan. 30, 2024: Briefly opened his jacket to show a holstered handgun while talking with Muncie students at a gun-safety rally. Speaker Todd Huston said he should not have done so; Democratic leaders criticized it. Lucas said \"There was no intimidation whatsoever\" and that the episode was \"being intentionally blown out of proportion\".",
+   "note": "Showing a holstered handgun to students at a gun-safety rally; relates to his gun-policy work. Previously shown in the public profile.",
+   "sources": [
+    {
+     "title": "House Speaker Huston says Lucas shouldn't have flashed holstered gun at students",
+     "publisher": "WFYI",
+     "date": "2024-02-01",
+     "url": "https://www.wfyi.org/news/articles/house-speaker-huston-says-lucas-shouldnt-have-flashed-holstered-gun-at-students"
+    },
+    {
+     "title": "State Rep. Jim Lucas defends showing handgun to students, says episode 'blown out of proportion' (Indiana Capital Chronicle)",
+     "publisher": "Indianapolis Business Journal",
+     "date": "2024-01-31",
+     "url": "https://www.ibj.com/articles/state-rep-jim-lucas-defends-flashing-handgun-at-students-says-episode-blown-out-of-proportion"
+    }
+   ]
+  },
+  {
+   "person": "Jim Lucas",
+   "category": "remark",
+   "status": "held",
+   "summary": "August 2022: Was criticized, including by the CANDLES Holocaust Museum, for a Facebook cover photo with a quote attributed to Joseph Goebbels; he deleted it and replaced it with a different quote. The report noted earlier criticism of his social-media posts and that Speaker Huston had previously removed him from study committees over a meme.",
+   "note": "Removed from the profile as non-policy. Other 2017-2022 social-media controversies were not read in full.",
+   "sources": [
+    {
+     "title": "State Rep Jim Lucas quotes Nazi propagandist in Facebook photo",
+     "publisher": "Indiana Public Media",
+     "date": "2022-08-17",
+     "url": "https://indianapublicmedia.org/news/state-rep-jim-lucas-quotes-nazi-propagandist-in-facebook-photo.php"
+    }
+   ]
+  }
+ ]
+}

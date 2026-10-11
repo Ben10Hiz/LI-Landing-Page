@@ -6,6 +6,14 @@ README.md) with {key} citations, plus "sources": {key: [title, publisher,
 date, url]}. "office": "@us_house" / "@in_senate" / "@in_house" / "@in_school_board" pulls in the shared
 office section from src/_shared_*_office.json.
 
+"review_flags" (optional) holds sensitive items kept off the public profile
+for a second, more careful editorial pass: criminal cases, misconduct
+allegations, firings, censures and similar. Each flag is {"person",
+"category", "status": "held" | "in profile", "summary" (with {key}
+citations), "note"}. They are stripped from the profile and written, with
+their sources resolved, to review/<race-id>.json and review/REVIEW_FLAGS.md
+(see common.build_profile).
+
     python3 scripts/elections/profiles/build_from_src.py [race-id ...]
 """
 import json
@@ -16,6 +24,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from common import build_profile  # noqa: E402
 
 SRC = Path(__file__).resolve().parent / "src"
+
 SHARED = {
     "@us_house": "_shared_us_house_office.json",
     "@in_senate": "_shared_in_senate_office.json",
