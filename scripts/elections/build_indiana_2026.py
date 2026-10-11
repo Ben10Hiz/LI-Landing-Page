@@ -167,6 +167,7 @@ SEAT_OVERRIDES = {
     "Franklin County Community School Board, At Large": 3,  # Franklin County sample ballot
     "Grant Mississinewa Community School Board, District 4 At Large": 2,  # Chronicle-Tribune
     "Griffith Public School Board, At Large": 3,  # Lake County sample ballot
+    "Jefferson Madison School Board, District 2": 2,  # Madison Courier
 }
 
 

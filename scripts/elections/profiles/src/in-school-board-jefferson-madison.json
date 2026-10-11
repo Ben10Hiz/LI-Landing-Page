@@ -1,0 +1,139 @@
+{
+ "race_id": "in-school-board-jefferson-madison",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The 'Jefferson Madison' races on the state list are for the Board of School Trustees of Madison Consolidated Schools (MCS), based in Madison in Jefferson County; the superintendent is Dr. Teresa Brown {mcs_board}{mcs_team}. State enrollment counts were 2,554 students in 2023-24, 2,651 in 2024-25 and 2,672 in 2025-26 {idoe_enroll}. In August 2026 Brown told the board MCS had 2,600 students, up 65 from the year before {mc_enroll}.",
+  "The board has five members: David Storie (president), Dustin Bentz (vice president), Jodi Yancey (secretary), Michael Scott and John Wallace {mcs_board}{mcs_jan14}. Seats are tied to residence districts: District 1 (Madison precincts 1, 2 and 3 and Graham, Lancaster, Milton, Monroe and Shelby townships) has two members, District 2 (precincts 4-1, 4-1A, 4-2, 4-3, 5-1 and 5-2) has two, and District 3 (precincts 1-1, 1-2, 2-1, 2-2 and the 3rd ward) has one {mc_2024_filing}{mc_bentz}{mc_filing_open}.",
+  "Seats on the 2026 ballot: two District 2 seats and one District 3 seat {mc_filing_open}{mc_filing_begins}. The state list shows District 2 as 'vote for 1', but the Madison Courier reports District 2 'is for two positions'; in 2022 the District 2 race was also 'choose two' {in_list}{mc_races_set}{mc_2022_totals}. District 2 members Jodi Yancey (first elected 2018) and John Wallace (elected 2022) chose not to run again, so Anthony Miller and Jacqueline Overpeck, the only two District 2 candidates, would fill both seats {mc_races_set}{mc_filing_begins}. District 3 member Michael Scott (elected unopposed in 2022) is running for a second term against Jill Kelly-Koren {mc_races_set}{mc_2022_forum}.",
+  "Party labels: the state list shows Kelly-Koren as Democratic and Miller, Overpeck and Scott as Nonpartisan {in_list}. Filing ran from May 19 to a June 18 noon deadline, which was extended to noon June 22, 2026 after a storm knocked out power at the Jefferson County Courthouse; Miller, Overpeck and Kelly-Koren all filed in the final days {mc_filing_open}{mc_outage}{mc_races_set}.",
+  "Budget and SEA 1: at a Sept. 9, 2026 hearing MCS advertised a 2027 budget of $41,601,979 ($25.0 million education fund, $10.9 million operations, $5.7 million debt service) and a tax rate of $1.1942; chief financial officer Danica Houze said the rate will go up because of Senate Bill 1, so the district can keep its levy as assessed values change {mc_budget}. The board is scheduled to adopt the budget Oct. 14 {mc_budget}.",
+  "Early Learning Center (2025-2026): in January 2026 the district's building corporation approved $22 million in bonds, part of $28 million in total borrowing, to build an Early Learning Center on the site of the closed E.O. Muncie Elementary, and the board awarded a $353,000 demolition contract {mc_elc}. The district's municipal adviser said the new bonds will be repaid through 2045 {mc_elc}.",
+  "Teacher pay: in November 2025 the board ratified a teacher contract that raised the salary schedule by $1,500 across the board plus a step for returning teachers; then-president Wallace credited the raises to the superintendent's team, 'the cuts made and the increased enrollment' {mcs_nov5}. Teacher contract talks with the Madison Teachers Association begin again this fall {mc_enroll}.",
+  "Programs and choice: in July 2026 the board created the Jefferson County Virtual Academy for grades 6-12, open to students outside the district, and approved rejoining the Southeast Career Center, where Brown said 45 to 50 high school students had registered {mc_virtual}. A state-mandated cell phone policy bars student phone use from the start of the school day until dismissal {mc_enroll}.",
+  "Forums: this guide found no 2026 candidate forum or questionnaire for these races, and no candidate websites. The only campaign coverage found was the Madison Courier's filing reports {mc_races_set}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Anthony Miller",
+   "seat": "District 2",
+   "summary": "Newcomer running for one of two open District 2 seats; with two candidates for two seats, he faces no contest for a seat {mc_races_set}.",
+   "website": null,
+   "background": [
+    "No background information was found in news coverage or district records."
+   ],
+   "path_to_ballot": [
+    "Filed for District 2 shortly before the extended June 22, 2026 noon deadline; listed as Nonpartisan {mc_races_set}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No statements of positions, campaign website, forum answers, endorsements or finance reports were found.",
+    "Minutes of the board's July 2026 work session list an 'Anthony Miller' among attendees; this guide could not confirm it is the same person."
+   ]
+  },
+  {
+   "ballot_name": "Jacqueline Marie Overpeck",
+   "seat": "District 2",
+   "summary": "Newcomer running for one of two open District 2 seats; with two candidates for two seats, she faces no contest for a seat {mc_races_set}.",
+   "website": null,
+   "background": [
+    "No background information was found in news coverage or district records."
+   ],
+   "path_to_ballot": [
+    "Filed for District 2 (reported as 'Jacqueline Overpeck') shortly before the extended June 22, 2026 noon deadline; listed as Nonpartisan {mc_races_set}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No statements of positions, campaign website, forum answers, endorsements or finance reports were found."
+   ]
+  },
+  {
+   "ballot_name": "Jill Kelly-Koren",
+   "seat": "District 3",
+   "summary": "Challenger to incumbent Michael Scott for the single District 3 seat; listed as a Democrat {mc_races_set}{in_list}.",
+   "website": null,
+   "background": [
+    "No background information was found in news coverage or district records."
+   ],
+   "path_to_ballot": [
+    "Filed for District 3 (reported as 'Jill Kelly Koren') shortly before the extended June 22, 2026 noon deadline; the state list shows her as Democratic {mc_races_set}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No statements of positions, comments on the current board, campaign website, forum answers, endorsements or finance reports were found.",
+    "How her party label was recorded (filing declaration versus party nomination) was not reported."
+   ]
+  },
+  {
+   "ballot_name": "Michael Scott",
+   "seat": "District 3",
+   "summary": "Incumbent, first elected unopposed in 2022, seeking a second term {mc_scott_files}{mc_2022_forum}.",
+   "website": null,
+   "background": [
+    "Elected to the District 3 seat in 2022 with 4,581 votes as the only candidate {mc_2022_totals}{mc_2022_forum}.",
+    "Board committee assignments for 2026: policy, facilities and strategic planning {mc_elc}."
+   ],
+   "path_to_ballot": [
+    "Filed on the first day of filing, May 19, 2026, the first candidate for Madison school board that year; listed as Nonpartisan {mc_scott_files}{in_list}."
+   ],
+   "positions": [
+    {"topic": "Teachers & staff", "items": ["At the November 2025 meeting he said the new teacher contract, 'with its truly impressive pay increase and stipend,' shows the value placed on staff, and credited the superintendent's team {mcs_nov5}."]},
+    {"topic": "Facilities", "items": ["In April 2026 he said the board 'had to do something' with the closed E.O. Muncie building and called the new Early Learning Center a continuation of Mr. Muncie's legacy {mcs_apr8}."]}
+   ],
+   "on_incumbent": [
+    "Is a current board member. In May 2026 he noted the awards MCS and Superintendent Brown received over the year and said 'life is really good at MCS' {mcs_may13}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign statement, website, forum answers, endorsements or finance reports for 2026 were found.",
+    "His occupation was not found in the sources reviewed."
+   ]
+  }
+ ],
+ "review_flags": [
+  {
+   "person": "Michael Scott",
+   "category": "board censure",
+   "status": "held",
+   "summary": "At an Oct. 28, 2024 special meeting, then-board president John Wallace said Scott had violated the board's code of ethics policy by endorsing two candidates in the 2024 District 1 race during the board's Oct. 2, 2024 meeting. Scott read an apology, said 'My opinion wasn't needed and I violated our Code of Ethics Policy,' gave up his $500 fourth-quarter stipend and asked to be replaced as vice president; David Storie was elected vice president for the rest of 2024 {mc_ethics}{mc_ratify_2024}.",
+   "note": "Self-imposed penalties after the board president cited a policy violation; no formal censure vote was reported. Scott remains a board member and is seeking reelection."
+  }
+ ],
+ "sources": {
+  "mcs_board": ["Board Overview", "Madison Consolidated Schools", "2026-10", "https://www.madison.k12.in.us/school-board/board-overview"],
+  "mcs_team": ["Meet Our Team!", "Madison Consolidated Schools", "2026-10", "https://www.madison.k12.in.us/about-mcs/meet-our-team"],
+  "idoe_enroll": ["Corporation Enrollment by Grade Level, 2006-26", "Indiana Department of Education", "2026", "https://www.in.gov/doe/files/corporation-enrollment-grade-2006-26.xlsx"],
+  "mcs_jan14": ["Meeting minutes, January 14, 2026 (Board of Finance, statutory and regular meeting)", "Madison Consolidated Schools", "2026-01-14", "https://www.madison.k12.in.us/document-library-list-view/school-board-of-trustees/meeting-minutes/2025-2026/2476-meeting-minutes-january-14-2026/file"],
+  "mcs_nov5": ["Ratification and regular meeting minutes, November 5, 2025", "Madison Consolidated Schools", "2025-11-05", "https://www.madison.k12.in.us/document-library-list-view/school-board-of-trustees/meeting-minutes/2025-2026/2444-november-5-2025-ratification-regular-meeting-minutes/file"],
+  "mcs_apr8": ["Meeting minutes, April 8, 2026", "Madison Consolidated Schools", "2026-04-08", "https://www.madison.k12.in.us/document-library-list-view/school-board-of-trustees/meeting-minutes/2025-2026/2528-april-8-2026-meeting-minutes/file"],
+  "mcs_may13": ["Meeting minutes, May 13, 2026", "Madison Consolidated Schools", "2026-05-13", "https://www.madison.k12.in.us/document-library-list-view/school-board-of-trustees/meeting-minutes/2025-2026/2540-may-13-2026-meeting-minutes/file"],
+  "mc_filing_open": ["Filing open for school board elections", "Madison Courier", "2026-05-18", "https://www.madisoncourier.com/news/filing-open-for-school-board-elections/article_48a666b7-3d69-53cc-831b-412b167b0b96.html"],
+  "mc_filing_begins": ["2026 election filing begins Wednesday in Indiana", "Madison Courier", "2026-01-01", "https://www.madisoncourier.com/news/2026-election-filing-begins-wednesday-in-indiana/article_e863c1ff-875c-5e2e-9ff1-4834a9c777ca.html"],
+  "mc_scott_files": ["Scott files for reelection to Madison school board", "Madison Courier", "2026-05-21", "https://www.madisoncourier.com/news/scott-files-for-reelection-to-madison-school-board/article_49721f80-378d-5948-98fe-44d6780da991.html"],
+  "mc_outage": ["Power outage extends filing deadline for school board", "Madison Courier", "2026-06-18", "https://www.madisoncourier.com/news/power-outage-extends-filing-deadline-for-school-board/article_fe880747-9358-510f-b1bc-d57a47694817.html"],
+  "mc_races_set": ["School board races set for November", "Madison Courier", "2026-06-22", "https://www.madisoncourier.com/news/school-board-races-set-for-november/article_110114eb-f025-5b73-8193-dc4d7d29fed7.html"],
+  "mc_2024_filing": ["5 file at deadline for Madison, Southwestern school boards", "Madison Courier", "2024-06-20", "https://www.madisoncourier.com/news/5-file-at-deadline-for-madison-southwestern-school-boards/article_d243ede3-b51d-5ea8-8c66-2e3ad4ec680a.html"],
+  "mc_bentz": ["Dustin Bentz selected to fill vacancy on Madison school board", "Madison Courier", "2024-09-30", "https://www.madisoncourier.com/news/dustin-bentz-selected-to-fill-vacancy-on-madison-school-board/article_43abf648-a334-5ea1-b131-88ae1fbcb3a8.html"],
+  "mc_2022_forum": ["Forum focuses on candidates for November election", "Madison Courier", "2022-10-21", "https://www.madisoncourier.com/news/forum-focuses-on-candidates-for-november-election/article_1c42b20f-eab4-5b02-acc4-90e9b2d1524a.html"],
+  "mc_2022_totals": ["Jefferson County 2022 general election vote totals", "Madison Courier", "2022-11-09", "https://www.madisoncourier.com/news/jefferson-county-2022-general-election-vote-totals/article_3f94eb0f-b02c-5c76-8948-78285980fdbb.html"],
+  "mc_budget": ["MCS proposes $41.6M budget for 2027", "Madison Courier", "2026-09-10", "https://www.madisoncourier.com/news/mcs-proposes-41-6m-budget-for-2027/article_5b23a657-0d50-56ef-ae65-1dc252816560.html"],
+  "mc_elc": ["MCS OKs $22M bond for ELC at Muncie site", "Madison Courier", "2026-01-15", "https://www.madisoncourier.com/news/mcs-oks-22m-bond-for-elc-at-muncie-site/article_c8d900b3-04ea-53b9-9495-5029e0db11da.html"],
+  "mc_enroll": ["Enrollment up 65 for MCS; school year off to 'great start'", "Madison Courier", "2026-08-24", "https://www.madisoncourier.com/news/enrollment-up-65-for-mcs-school-year-off-to-great-start/article_9ca0f6c7-3a12-5459-b807-6195de9b1224.html"],
+  "mc_virtual": ["MCS to establish Jefferson County Virtual Academy", "Madison Courier", "2026-07-23", "https://www.madisoncourier.com/news/mcs-to-establish-jefferson-county-virtual-academy/article_174adb43-ebd2-52df-98f0-20dce852d3b4.html"],
+  "mc_ethics": ["MCS board presents tentative agreement with teachers", "Madison Courier", "2024-10-31", "https://www.madisoncourier.com/news/mcs-board-presents-tentative-agreement-with-teachers/article_03240253-b952-56e8-a350-78d5b469137b.html"],
+  "mc_ratify_2024": ["MCS ratifies teacher contract, increases pay for all staff", "Madison Courier", "2024-11-14", "https://www.madisoncourier.com/news/mcs-ratifies-teacher-contract-increases-pay-for-all-staff/article_55f4f9dd-9a5e-5bd5-9ee4-1db7a213aa3f.html"]
+ }
+}

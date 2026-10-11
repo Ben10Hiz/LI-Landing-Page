@@ -1,0 +1,182 @@
+# Indiana School Board Member — 2026 race profile
+
+_Researched 2026-10-10 · status: draft._ Pending editorial review.
+
+## About the office
+
+A school board is the elected or appointed governing body of a public school corporation, the legal unit that runs a local school district [1, 2]. The board hires and evaluates the superintendent, adopts policies, and approves the annual budget, while the superintendent and staff run schools day to day [3]. Most boards have five or seven members serving staggered four-year terms [3]. Starting in 2026, candidates may list a political party, run as independents, or list no affiliation on the ballot, and there is no primary for these seats [2, 4].
+
+- **Term:** 4 years, with elections staggered so part of the board is chosen every two years [3]
+- **Elected:** At the November general election (November 3, 2026, or November 2028 for some seats); depending on the local organization plan, members represent the whole school corporation (at large) or a district within it, and some boards are wholly or partly appointed [2]
+- **Ballot label:** Each candidate chooses a party label, 'Independent', or no affiliation, shown next to the name; no primary and no straight-ticket voting for these races [2, 4]
+- **Pay:** Set by board resolution: an annual amount of no more than 10% of the lowest starting teacher salary in the school corporation, plus a capped per diem [5]
+- **On the 2026 ballot:** 632 races in 299 school corporations; 1,039 candidates [6]
+
+### What the office does
+
+- Hires, evaluates and can dismiss the superintendent, and approves the hiring and firing of principals, teachers and other staff recommended by the superintendent [1, 7, 3].
+- Adopts the annual budget, appropriates funds and oversees school finances [1, 3].
+- Decides whether to ask voters to approve an operating referendum (an extra property tax levy); the board adopts the resolution and the Department of Local Government Finance reviews the ballot language for compliance with state law [8].
+- Approves contracts, buys and sells property, and decides on construction, repair and demolition of school buildings [1].
+- Bargains with the teachers' union over salary, wages and wage-related benefits such as health insurance and retirement; state law excludes teacher evaluation procedures from those bargaining subjects [9].
+- Writes and updates policies and rules for schools, often in a policy handbook, including the student handbook [1, 3].
+- Buys curricular materials, provides them to students without charge, and runs programs such as student transportation and school lunch [1].
+- Must adopt a process for parents and residents to ask that library material be removed as obscene or harmful to minors, review requests at public meetings and keep a public catalog of library materials [10].
+- Hears written appeals of student expulsions, unless the board has voted not to hear them [11].
+- Must take official action openly; Indiana's Open Door Law says public agencies' official action is to be conducted openly so the people may be fully informed [12, 13].
+- A school board member must have lived in the school corporation (and, for a district seat, the district) for at least one year before the election, and a teacher or other employee of the school corporation may not serve on its board [2].
+- What the board does not control: the State Board of Education adopts statewide academic standards [14], the General Assembly sets the state school funding formula in the state budget [15], and voucher (Choice Scholarship) eligibility is set by state law [16].
+
+### Recent changes to the office
+
+- 2025: Senate Enrolled Act 287 allowed school board candidates to declare a party affiliation; the Indiana School Boards Association opposed the change, and a supporter quoted by WNDU, a Noblesville school board member, said it adds transparency [17].
+- 2026: Candidates choose a party, 'Independent' or no affiliation on their nominating petition, and that choice appears on the ballot; a candidate claiming the Democratic or Republican party must have voted in that party's primary in the two most recent primaries they voted in, or have certification from the county party chair, or can be challenged and removed from the ballot [2].
+- July 2026: Chalkbeat reported, citing Indiana School Boards Association data, that 524 of 1,044 candidates chose a party, about 72% of them Republicans [18]; the Indiana Election Division's 2026 guidance and the wording of the law differ on the primary-voting test, a question county election boards decide [19].
+- February 2026: Senate Enrolled Act 25 set the order of school board candidates on the ballot, grouped by party, with candidates who list no affiliation placed after the party and independent candidates [20].
+- 2025: Senate Enrolled Act 1, a property tax law, limits how much operating revenue districts can raise through taxes and restricts school referendums to statewide general elections in even-numbered years [21, 22].
+- 2025: The same law requires districts to share operating revenue with brick-and-mortar charter schools that enroll their students, statewide starting in 2028 [21, 22].
+- 2025: The state budget opened Choice Scholarship vouchers to all Indiana families starting in June 2026 [16].
+- 2026: The Indianapolis Public Education Corporation, rather than the Indianapolis Public Schools board, now certifies Indianapolis Public Schools referendum questions for the ballot [20].
+- 2023: Senate Enrolled Act 391 changed the so-called $1 law so the Indiana Department of Education can order districts that lost at least 10% of enrollment over five years to close schools under 60% capacity and offer them to charter schools [23].
+- 2023: House Enrolled Act 1447 required school districts to set up procedures for complaints that library material is obscene or harmful to minors [10].
+
+## This race
+
+- John Glenn School Corporation (JGSC) is headquartered in Walkerton and serves Walkerton and North Liberty in St. Joseph County plus territory in Marshall County; its schools are John Glenn High School, Urey Middle School, North Liberty Elementary and Walkerton Elementary [24]. The state list ties each township seat to LaPorte, Marshall and St. Joseph counties [6]. Superintendent Christopher Winchell said in January 2026 that the district received a 'Max Levy Appeal' after annexing Greene Township [25].
+- Enrollment: state counts were 1,999 students in 2023-24, 1,993 in 2024-25 and 1,960 in 2025-26 [26]. In September 2026 Winchell put enrollment at about 1,910, said it has declined by about 100 students since 2020, and said the district budgets around a 'sweet spot' of 1,950; about 20 students are in the district's virtual school [27].
+- The board has seven members: Jared Egger, Kathy Jaworski, Ryan Knowlton, Christian Mattix, Christine Carson, Todd McGaughey and Carissa Smith. In January 2026 the board, which rotates officers each year, chose Knowlton as president, Smith as vice president and Mattix as secretary, and kept member pay at $2,000 a year [25].
+- Seats on the 2026 ballot: one each for Liberty, Lincoln and Polk townships, matching the state list [6]. All three are held by members first elected in 2022: Christine Carson (Liberty), Carissa Smith (Lincoln) and Todd McGaughey (Polk) [28]. All three are running again; Carson and McGaughey are unopposed, and Smith faces Dennis Leon Metz, Jr. [6].
+- Budget and SEA 1 (2026): Winchell told the board in January that the district's circuit breaker losses, tied to property taxes, rose from $290,000 in its 2025 budget order to $680,000, and that he expected them to grow in 2027 and 2028 [25]. In April he said the district is working to cut $500,000 from its operations budget and that the property-tax cuts in SB 1 'will affect us directly'; the board voted 5-1 to buy Chromebooks partly to replace staff laptops, after a teacher said the change 'was not positively received at all' [29]. In September he said St. Joseph County's certified assessed value for John Glenn came in lower than nearby areas' roughly 4% growth, as an earlier outside analysis had predicted [27].
+- Facilities bond (fall 2026): after putting Urey Middle School work on hold during the previous budget cycle because of SB 1 uncertainty, the board held public hearings Sept. 15 and Oct. 6, 2026 on renovating and improving facilities, buying buses, equipment and technology, and possibly buying real estate [30, 31]. On Oct. 6 it made a preliminary determination to issue up to $14,945,000 in bonds over up to 20 years (23 if leases) [32]. The district's notice estimates the debt service tax rate would rise from $0.3997 to $0.4243 in 2027 and then fall to $0.3807, for a projected net increase of $0.00 over the current rate as older debt matures [32]. Winchell said Urey's HVAC, windows, doors, carpet, lighting and paint would be the focus, along with some high school needs and elementary playground equipment [27].
+- Other issues: in summer 2026 the board chose the least restrictive option under the new state cell phone law, allowing phones on campus as long as they stay in lockers or backpacks [33]. The 2026-27 school year began with three days canceled because of a storm, and the district planned to seek a state waiver for them [27].
+- Forums: this guide found no 2026 candidate forum, questionnaire or campaign website for these races. Minutes of the January through September 2026 board meetings reviewed for this guide record no public comment at any of them [25, 27].
+
+## Christine L. Carson — Liberty Township
+
+Incumbent, first elected in 2022; unopposed [28, 6].
+
+### Background
+
+- Lives in North Liberty; won the Liberty Township seat in 2022 with 61% of the vote over one opponent, according to unofficial results [28].
+- Serves as the board's member on the district's High Abilities Committee [25].
+
+### Path to the ballot
+
+- Listed on the state's 2026 candidate list as Nonpartisan; she is the only candidate for the Liberty Township seat [6].
+
+### On the current officeholder
+
+- Is a current board member. In January 2026 she nominated the year's board officers, noting the board's tradition of rotating officers each year [25]. In May 2026 she moved to approve the district's use of a one-time state option (House Bill 1210) to help cover circuit breaker losses caused by SB 1 [34].
+
+### What we couldn't verify
+
+- No 2026 campaign statements, website, forum answers, endorsements or finance reports were found.
+- Her occupation was not found in the sources reviewed.
+
+## Carissa Smith — Lincoln Township
+
+Incumbent and 2026 board vice president, first elected in 2022; faces Dennis Leon Metz, Jr. [28, 25, 6].
+
+### Background
+
+- Won the Lincoln Township seat in 2022 with nearly 33% of the vote in a four-candidate race, according to unofficial results [28].
+- Elected board vice president for 2026; serves on the district's technology committee [25].
+
+### Path to the ballot
+
+- Listed on the state's 2026 candidate list as Nonpartisan [6].
+
+### Positions & plans
+
+**Teachers & staff**
+
+- During the April 2026 debate on moving staff from laptops to Chromebooks, she asked whether all staff would have to switch and how teachers felt about the change [29].
+
+### On the current officeholder
+
+- Is a current board member. The minutes do not record how individual members voted on the 5-1 Chromebook purchase in April 2026 [29].
+
+### What we couldn't verify
+
+- No 2026 campaign statements, website, forum answers, endorsements or finance reports were found.
+- Her occupation was not found in the sources reviewed.
+
+## Dennis Leon Metz, Jr. — Lincoln Township
+
+Challenger for the Lincoln Township seat held by Carissa Smith [6].
+
+### Background
+
+- No background information was found in news coverage or district records.
+
+### Path to the ballot
+
+- Listed on the state's 2026 candidate list as Nonpartisan [6].
+
+### What we couldn't verify
+
+- No statements of positions, comments on the current board, campaign website, forum answers, endorsements or finance reports were found; this guide found no news coverage of his candidacy.
+
+## Todd A. McGaughey — Polk Township
+
+Incumbent, first elected in 2022; unopposed [28, 6].
+
+### Background
+
+- Won the Polk Township seat in 2022 with 45% of the vote in a three-candidate race, according to unofficial results [28].
+
+### Path to the ballot
+
+- Listed on the state's 2026 candidate list as Nonpartisan; he is the only candidate for the Polk Township seat [6].
+
+### Positions & plans
+
+**Teachers & staff**
+
+- During the April 2026 Chromebook debate he asked whether teachers who now have a laptop could keep it [29].
+
+### On the current officeholder
+
+- Is a current board member. In 2026 he moved to approve updated salaries for teachers and administrators (June) and an updated classified staff wage scale (August), both of which passed [33, 30].
+
+### What we couldn't verify
+
+- No 2026 campaign statements, website, forum answers, endorsements or finance reports were found.
+- His occupation was not found in the sources reviewed.
+
+## Sources
+
+1. [Indiana Code 20-26-5-4: Specific powers of governing body](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-5-4/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+2. [2026 Indiana Candidate Guide (School Board Offices)](https://www.in.gov/dA/1eada35c3e/2026-Candidate-Guide.FINAL.pdf) — Indiana Election Division, accessed 2026-10-10
+3. [800 school board seats are up for election in Indiana](https://chalkbeat.org/indiana/2024/06/13/school-board-seats-up-for-election-in-indiana-in-2024) — Chalkbeat Indiana / WFYI, 2024-06-13
+4. [Why there are no education elections on your primary ballot](https://www.chalkbeat.org/indiana/2026/04/07/primary-election-ballot-changes-exclude-education-races-and-referendums/) — Chalkbeat Indiana, 2026-04-07
+5. [Indiana Code 20-26-4-7: Compensation of governing body members](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-4-7/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+6. [2026 General Election Candidate List](https://www.in.gov/sos/elections/candidate-information/) — Indiana Election Division, 2026-09-22
+7. [Indiana Code 20-26-5-4.5: Selection and discharge of employees](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-5-4-5/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+8. [School Tax Levy Referendum](https://www.in.gov/dlgf/referendum-information/school-tax-levy-referendum/) — Indiana Department of Local Government Finance, accessed 2026-10-10
+9. [Indiana Code 20-29-6-4: Subjects of collective bargaining](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-29-6-4/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+10. [Obscene, or just objectionable? Here's how Indiana schools are tackling library book complaints](https://arnoltcenter.org/?p=1345) — Arnolt Center for Investigative Journalism / Indiana Capital Chronicle, 2024-02-05
+11. [Indiana Code 20-33-8-19: Expulsion appeals](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-33-8-19/) — FindLaw (Indiana Code), accessed 2026-10-10
+12. [Indiana Code 5-14-1.5-1: Open Door Law policy](https://codes.findlaw.com/in/title-5-state-and-local-administration/in-code-sect-5-14-1-5-1/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+13. [What We Do](https://www.in.gov/pac/about-us/what-we-do/) — Indiana Public Access Counselor, accessed 2026-10-10
+14. [Indiana Code 20-31-3-1: State academic standards](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-31-3-1/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+15. [Indiana K-12 State Tuition Support Annual Report FY2023](https://www.in.gov/doe/files/2023-Tuition-Support-Report.pdf) — Indiana Department of Education, 2023
+16. [Indiana lawmakers expand voucher eligibility, increase school funding in budget](https://chalkbeat.org/indiana/2025/04/24/vouchers-for-all-start-in-2026-budget-year) — Chalkbeat Indiana, 2025-04-24
+17. [Indiana school board candidates split 50-50 on affiliating with a party](https://www.wndu.com/2026/07/20/indiana-school-board-candidates-split-50-50-affiliating-with-party/) — WNDU, 2026-07-20
+18. [5 takeaways from Chalkbeat's panel on Indiana's changes to school board elections and referendums](https://www.chalkbeat.org/indiana/2026/07/10/indiana-school-board-elections-partisan-referendums-takeaways/) — Chalkbeat Indiana, 2026-07-10
+19. [Confusion on partisan school board law puts two IPS candidates' spots at risk](https://www.chalkbeat.org/indiana/2026/07/27/confusion-on-partisan-schoolboard-threatens-ips-ballot-spots/) — Chalkbeat Indiana, 2026-07-27
+20. [2026 Indiana Election Legislation Summary](https://www.in.gov/dA/d13ecb1f55/2026-Indiana-Election-Legislation-Summary.FINAL.pdf) — Indiana Election Division, 2026
+21. [Indiana school referendum elections: Districts seek funding for teacher pay, class size, buses](https://www.chalkbeat.org/indiana/2025/10/27/schools-property-tax-referendum-election-2025) — Chalkbeat Indiana, 2025-10-27
+22. [Indiana school district referendum guide 2026: What to know about your district's requested tax increase](https://www.wvxu.org/2026-08-17/indiana-school-district-referendum-guide-2026-what-to-know-about-your-districts-requested-tax-increase) — WFYI and Chalkbeat Indiana (via WVXU), 2026-08-17
+23. [Indiana charter schools could now have an easier path to acquiring district buildings](https://www.chalkbeat.org/indiana/2023/6/11/23755769/indiana-charters-acquire-traditional-public-school-buildings-underutilized-enrollment) — Chalkbeat Indiana, 2023-06-11
+24. [John Glenn School Corporation](https://en.wikipedia.org/wiki/John_Glenn_School_Corporation) — Wikipedia, 2026-10
+25. [School Board Meeting minutes, January 6, 2026](https://www.jgsc.k12.in.us/about/documents/john-glenn-sc-board-documents/school-board-minutes/2026/1655-january-6-2026-minutes/file) — John Glenn School Corporation, 2026-01-06
+26. [Corporation Enrollment by Grade Level, 2006-26](https://www.in.gov/doe/files/corporation-enrollment-grade-2006-26.xlsx) — Indiana Department of Education, 2026
+27. [School Board Meeting minutes, September 1, 2026](https://www.jgsc.k12.in.us/about/documents/john-glenn-sc-board-documents/school-board-minutes/2026/1766-september-1-2026-minutes/file) — John Glenn School Corporation, 2026-09-01
+28. ['Common Sense' slate takes 2 of 3 seats over 'SOS' in PHM; One South Bend incumbent loses](https://www.yahoo.com/news/common-sense-slate-takes-2-050807820.html) — South Bend Tribune (via Yahoo News), 2022-11-09
+29. [School Board Meeting minutes, April 7, 2026](https://www.jgsc.k12.in.us/about/documents/john-glenn-sc-board-documents/school-board-minutes/2026/1689-april-7-2026-minutes/file) — John Glenn School Corporation, 2026-04-07
+30. [School Board Meeting minutes, August 4, 2026](https://www.jgsc.k12.in.us/about/documents/john-glenn-sc-board-documents/school-board-minutes/2026/1750-august-4-2026-minutes/file) — John Glenn School Corporation, 2026-08-04
+31. [Notice of Hearings](https://www.jgsc.k12.in.us/docs/john-glenn-sc-board-documents/public-documents/1758-notice-of-hearings-1/file) — John Glenn School Corporation, 2026-09-03
+32. [Notice of Adoption of Preliminary Determination](https://www.jgsc.k12.in.us/docs/john-glenn-sc-board-documents/public-documents/1774-notice-of-adoption-of-preliminary-determination-2026-go-4903-6349-8707-v1/file) — John Glenn School Corporation, 2026-10
+33. [School Board Meeting minutes, June 16, 2026](https://www.jgsc.k12.in.us/about/documents/john-glenn-sc-board-documents/school-board-minutes/2026/1721-june-16-2026-minutes/file) — John Glenn School Corporation, 2026-06-16
+34. [School Board Meeting minutes, May 5, 2026](https://www.jgsc.k12.in.us/about/documents/john-glenn-sc-board-documents/school-board-minutes/2026/1704-may-5-2026-minutes/file) — John Glenn School Corporation, 2026-05-05

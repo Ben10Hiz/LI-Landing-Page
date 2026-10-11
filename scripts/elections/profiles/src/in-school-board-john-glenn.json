@@ -1,0 +1,125 @@
+{
+ "race_id": "in-school-board-john-glenn",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "John Glenn School Corporation (JGSC) is headquartered in Walkerton and serves Walkerton and North Liberty in St. Joseph County plus territory in Marshall County; its schools are John Glenn High School, Urey Middle School, North Liberty Elementary and Walkerton Elementary {wiki_jgsc}. The state list ties each township seat to LaPorte, Marshall and St. Joseph counties {in_list}. Superintendent Christopher Winchell said in January 2026 that the district received a 'Max Levy Appeal' after annexing Greene Township {jg_jan6}.",
+  "Enrollment: state counts were 1,999 students in 2023-24, 1,993 in 2024-25 and 1,960 in 2025-26 {idoe_enroll}. In September 2026 Winchell put enrollment at about 1,910, said it has declined by about 100 students since 2020, and said the district budgets around a 'sweet spot' of 1,950; about 20 students are in the district's virtual school {jg_sep1}.",
+  "The board has seven members: Jared Egger, Kathy Jaworski, Ryan Knowlton, Christian Mattix, Christine Carson, Todd McGaughey and Carissa Smith. In January 2026 the board, which rotates officers each year, chose Knowlton as president, Smith as vice president and Mattix as secretary, and kept member pay at $2,000 a year {jg_jan6}.",
+  "Seats on the 2026 ballot: one each for Liberty, Lincoln and Polk townships, matching the state list {in_list}. All three are held by members first elected in 2022: Christine Carson (Liberty), Carissa Smith (Lincoln) and Todd McGaughey (Polk) {sbt_2022}. All three are running again; Carson and McGaughey are unopposed, and Smith faces Dennis Leon Metz, Jr. {in_list}.",
+  "Budget and SEA 1 (2026): Winchell told the board in January that the district's circuit breaker losses, tied to property taxes, rose from $290,000 in its 2025 budget order to $680,000, and that he expected them to grow in 2027 and 2028 {jg_jan6}. In April he said the district is working to cut $500,000 from its operations budget and that the property-tax cuts in SB 1 'will affect us directly'; the board voted 5-1 to buy Chromebooks partly to replace staff laptops, after a teacher said the change 'was not positively received at all' {jg_apr7}. In September he said St. Joseph County's certified assessed value for John Glenn came in lower than nearby areas' roughly 4% growth, as an earlier outside analysis had predicted {jg_sep1}.",
+  "Facilities bond (fall 2026): after putting Urey Middle School work on hold during the previous budget cycle because of SB 1 uncertainty, the board held public hearings Sept. 15 and Oct. 6, 2026 on renovating and improving facilities, buying buses, equipment and technology, and possibly buying real estate {jg_aug4}{jg_hearings}. On Oct. 6 it made a preliminary determination to issue up to $14,945,000 in bonds over up to 20 years (23 if leases) {jg_prelim}. The district's notice estimates the debt service tax rate would rise from $0.3997 to $0.4243 in 2027 and then fall to $0.3807, for a projected net increase of $0.00 over the current rate as older debt matures {jg_prelim}. Winchell said Urey's HVAC, windows, doors, carpet, lighting and paint would be the focus, along with some high school needs and elementary playground equipment {jg_sep1}.",
+  "Other issues: in summer 2026 the board chose the least restrictive option under the new state cell phone law, allowing phones on campus as long as they stay in lockers or backpacks {jg_jun16}. The 2026-27 school year began with three days canceled because of a storm, and the district planned to seek a state waiver for them {jg_sep1}.",
+  "Forums: this guide found no 2026 candidate forum, questionnaire or campaign website for these races. Minutes of the January through September 2026 board meetings reviewed for this guide record no public comment at any of them {jg_jan6}{jg_sep1}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Christine L. Carson",
+   "seat": "Liberty Township",
+   "summary": "Incumbent, first elected in 2022; unopposed {sbt_2022}{in_list}.",
+   "website": null,
+   "background": [
+    "Lives in North Liberty; won the Liberty Township seat in 2022 with 61% of the vote over one opponent, according to unofficial results {sbt_2022}.",
+    "Serves as the board's member on the district's High Abilities Committee {jg_jan6}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state's 2026 candidate list as Nonpartisan; she is the only candidate for the Liberty Township seat {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. In January 2026 she nominated the year's board officers, noting the board's tradition of rotating officers each year {jg_jan6}. In May 2026 she moved to approve the district's use of a one-time state option (House Bill 1210) to help cover circuit breaker losses caused by SB 1 {jg_may5}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No 2026 campaign statements, website, forum answers, endorsements or finance reports were found.",
+    "Her occupation was not found in the sources reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Carissa Smith",
+   "seat": "Lincoln Township",
+   "summary": "Incumbent and 2026 board vice president, first elected in 2022; faces Dennis Leon Metz, Jr. {sbt_2022}{jg_jan6}{in_list}.",
+   "website": null,
+   "background": [
+    "Won the Lincoln Township seat in 2022 with nearly 33% of the vote in a four-candidate race, according to unofficial results {sbt_2022}.",
+    "Elected board vice president for 2026; serves on the district's technology committee {jg_jan6}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state's 2026 candidate list as Nonpartisan {in_list}."
+   ],
+   "positions": [
+    {"topic": "Teachers & staff", "items": ["During the April 2026 debate on moving staff from laptops to Chromebooks, she asked whether all staff would have to switch and how teachers felt about the change {jg_apr7}."]}
+   ],
+   "on_incumbent": [
+    "Is a current board member. The minutes do not record how individual members voted on the 5-1 Chromebook purchase in April 2026 {jg_apr7}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No 2026 campaign statements, website, forum answers, endorsements or finance reports were found.",
+    "Her occupation was not found in the sources reviewed."
+   ]
+  },
+  {
+   "ballot_name": "Dennis Leon Metz, Jr.",
+   "seat": "Lincoln Township",
+   "summary": "Challenger for the Lincoln Township seat held by Carissa Smith {in_list}.",
+   "website": null,
+   "background": [
+    "No background information was found in news coverage or district records."
+   ],
+   "path_to_ballot": [
+    "Listed on the state's 2026 candidate list as Nonpartisan {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No statements of positions, comments on the current board, campaign website, forum answers, endorsements or finance reports were found; this guide found no news coverage of his candidacy."
+   ]
+  },
+  {
+   "ballot_name": "Todd A. McGaughey",
+   "seat": "Polk Township",
+   "summary": "Incumbent, first elected in 2022; unopposed {sbt_2022}{in_list}.",
+   "website": null,
+   "background": [
+    "Won the Polk Township seat in 2022 with 45% of the vote in a three-candidate race, according to unofficial results {sbt_2022}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state's 2026 candidate list as Nonpartisan; he is the only candidate for the Polk Township seat {in_list}."
+   ],
+   "positions": [
+    {"topic": "Teachers & staff", "items": ["During the April 2026 Chromebook debate he asked whether teachers who now have a laptop could keep it {jg_apr7}."]}
+   ],
+   "on_incumbent": [
+    "Is a current board member. In 2026 he moved to approve updated salaries for teachers and administrators (June) and an updated classified staff wage scale (August), both of which passed {jg_jun16}{jg_aug4}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No 2026 campaign statements, website, forum answers, endorsements or finance reports were found.",
+    "His occupation was not found in the sources reviewed."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "wiki_jgsc": ["John Glenn School Corporation", "Wikipedia", "2026-10", "https://en.wikipedia.org/wiki/John_Glenn_School_Corporation"],
+  "idoe_enroll": ["Corporation Enrollment by Grade Level, 2006-26", "Indiana Department of Education", "2026", "https://www.in.gov/doe/files/corporation-enrollment-grade-2006-26.xlsx"],
+  "sbt_2022": ["'Common Sense' slate takes 2 of 3 seats over 'SOS' in PHM; One South Bend incumbent loses", "South Bend Tribune (via Yahoo News)", "2022-11-09", "https://www.yahoo.com/news/common-sense-slate-takes-2-050807820.html"],
+  "jg_jan6": ["School Board Meeting minutes, January 6, 2026", "John Glenn School Corporation", "2026-01-06", "https://www.jgsc.k12.in.us/about/documents/john-glenn-sc-board-documents/school-board-minutes/2026/1655-january-6-2026-minutes/file"],
+  "jg_apr7": ["School Board Meeting minutes, April 7, 2026", "John Glenn School Corporation", "2026-04-07", "https://www.jgsc.k12.in.us/about/documents/john-glenn-sc-board-documents/school-board-minutes/2026/1689-april-7-2026-minutes/file"],
+  "jg_may5": ["School Board Meeting minutes, May 5, 2026", "John Glenn School Corporation", "2026-05-05", "https://www.jgsc.k12.in.us/about/documents/john-glenn-sc-board-documents/school-board-minutes/2026/1704-may-5-2026-minutes/file"],
+  "jg_jun16": ["School Board Meeting minutes, June 16, 2026", "John Glenn School Corporation", "2026-06-16", "https://www.jgsc.k12.in.us/about/documents/john-glenn-sc-board-documents/school-board-minutes/2026/1721-june-16-2026-minutes/file"],
+  "jg_aug4": ["School Board Meeting minutes, August 4, 2026", "John Glenn School Corporation", "2026-08-04", "https://www.jgsc.k12.in.us/about/documents/john-glenn-sc-board-documents/school-board-minutes/2026/1750-august-4-2026-minutes/file"],
+  "jg_sep1": ["School Board Meeting minutes, September 1, 2026", "John Glenn School Corporation", "2026-09-01", "https://www.jgsc.k12.in.us/about/documents/john-glenn-sc-board-documents/school-board-minutes/2026/1766-september-1-2026-minutes/file"],
+  "jg_hearings": ["Notice of Hearings", "John Glenn School Corporation", "2026-09-03", "https://www.jgsc.k12.in.us/docs/john-glenn-sc-board-documents/public-documents/1758-notice-of-hearings-1/file"],
+  "jg_prelim": ["Notice of Adoption of Preliminary Determination", "John Glenn School Corporation", "2026-10", "https://www.jgsc.k12.in.us/docs/john-glenn-sc-board-documents/public-documents/1774-notice-of-adoption-of-preliminary-determination-2026-go-4903-6349-8707-v1/file"]
+ }
+}

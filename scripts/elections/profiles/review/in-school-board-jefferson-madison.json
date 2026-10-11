@@ -1,0 +1,27 @@
+{
+ "race_id": "in-school-board-jefferson-madison",
+ "office": "Indiana School Board Member",
+ "flags": [
+  {
+   "person": "Michael Scott",
+   "category": "board censure",
+   "status": "held",
+   "summary": "At an Oct. 28, 2024 special meeting, then-board president John Wallace said Scott had violated the board's code of ethics policy by endorsing two candidates in the 2024 District 1 race during the board's Oct. 2, 2024 meeting. Scott read an apology, said 'My opinion wasn't needed and I violated our Code of Ethics Policy,' gave up his $500 fourth-quarter stipend and asked to be replaced as vice president; David Storie was elected vice president for the rest of 2024.",
+   "note": "Self-imposed penalties after the board president cited a policy violation; no formal censure vote was reported. Scott remains a board member and is seeking reelection.",
+   "sources": [
+    {
+     "title": "MCS board presents tentative agreement with teachers",
+     "publisher": "Madison Courier",
+     "date": "2024-10-31",
+     "url": "https://www.madisoncourier.com/news/mcs-board-presents-tentative-agreement-with-teachers/article_03240253-b952-56e8-a350-78d5b469137b.html"
+    },
+    {
+     "title": "MCS ratifies teacher contract, increases pay for all staff",
+     "publisher": "Madison Courier",
+     "date": "2024-11-14",
+     "url": "https://www.madisoncourier.com/news/mcs-ratifies-teacher-contract-increases-pay-for-all-staff/article_55f4f9dd-9a5e-5bd5-9ee4-1db7a213aa3f.html"
+    }
+   ]
+  }
+ ]
+}
