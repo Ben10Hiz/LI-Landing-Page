@@ -1,0 +1,338 @@
+{
+  "race_id": "in-school-board-kosciusko-warsaw",
+  "reviewed": "2026-10-10",
+  "status": "draft",
+  "status_note": "Pending editorial review.",
+  "office": "@in_school_board",
+  "incumbent": null,
+  "race_context": [
+    "Warsaw Community Schools serves Warsaw and surrounding Kosciusko County; fall 2025 enrollment was 6,619 students, down from 6,762 in fall 2020, and the district has eight elementary schools {ifn_enroll}.",
+    "The superintendent is Dr. David Hoffert {ifn_enroll}{tu_lakeview}.",
+    "The Board of School Trustees has seven members, each representing a numbered district (Districts 1 through 7) {wcs_board}.",
+    "Four seats are on the 2026 ballot: Districts 1, 2, 5 and 7; each elects one member {tu_filing}{in_list}.",
+    "District 1: incumbent Tom Westerhof, finishing his first four-year term, is challenged by first-time candidate Heather M. Helton {ifn_d1}.",
+    "District 2: board President Heather Reichenbach, on the board since January 2015, is unopposed for a fourth term {ifn_unc}{tu_filing}.",
+    "District 5: Denny Duncan, finishing his first four-year term, is unopposed {ifn_unc}{tu_filing}.",
+    "District 7: the seat is held by Bradly Johnson, who is not on the ballot; Ben Rice and Ryan Parker both filed, but Rice announced in August 2026 that he had withdrawn and asked supporters to vote for Parker, and his name remains on the ballot because state deadlines had passed {tu_filing}{tu_rice_out}{in_list}.",
+    "Enrollment outlook (October 2025): a demographer told the board enrollment has been declining slowly and is expected to fall by about 200 more students over 10 years, with Claypool Elementary projected to drop to about 150 to 200 students; Hoffert said the district is watching Claypool's numbers because of cost and equity across its elementary schools {ifn_enroll}.",
+    "Budget (October 2025): the board adopted a 2026 budget of $105,241,306, including a $56.2 million education fund, a $27.1 million operations fund and a $17.6 million debt service fund {ifn_enroll}.",
+    "Middle school consolidation (July 2026): the board held its second preliminary determination hearing on a plan to combine Lakeview and Edgewood middle schools at Lakeview and repurpose Edgewood for Gateway and Warsaw Area Career Center programs; the estimated cost is $108 million ($119 million with escalation) under a proposed maximum bond authorization of $143 million, which the CFO said would be paid through the existing debt service fund without a higher debt service levy, and Hoffert said the district chose not to pursue a referendum {tu_lakeview}.",
+    "Strategic plan: the district launched a new five-year strategic plan in August 2026 built around four priorities: Life-Ready Learners, Engaged Families & Community, Aligned Operations & Administration, and Dedicated Teachers & Staff {ifn_launch}.",
+    "No 2026 candidate forum was found. InkFreeNews published questionnaire answers from both District 1 candidates in October 2026 {ifn_d1}.",
+    "Key differences in District 1: Westerhof emphasized continuing the district's conservative fiscal planning and using assessment data to raise scores; Helton emphasized communication and transparency with parents, staff and taxpayers, educator support and life-readiness skills {ifn_d1}."
+  ],
+  "candidates": [
+    {
+      "ballot_name": "Heather Michelle Helton",
+      "seat": "District 1",
+      "summary": "Self-described educator and first-time candidate running as a Libertarian against incumbent Tom Westerhof {ifn_d1}{in_list}.",
+      "website": null,
+      "background": [
+        "Describes herself as an educator who has worked with students from kindergarten through post-high school programs {ifn_d1}."
+      ],
+      "path_to_ballot": [
+        "Listed on the ballot as the Libertarian candidate for District 1 {in_list}.",
+        "First run for office, according to InkFreeNews {ifn_d1}."
+      ],
+      "positions": [
+        {
+          "topic": "Academics",
+          "items": [
+            "Lists student achievement and growth and \"life readiness\" (employment, financial responsibility, communication and independence) among the board's priorities for the next four years {ifn_d1}.",
+            "Would measure success with academic growth, graduation and post-secondary outcomes, attendance, discipline and school climate data, staff retention and participation in career or life-readiness opportunities {ifn_d1}.",
+            "Supports implementing technology, including artificial intelligence, \"thoughtfully\" with professional development for educators {ifn_d1}."
+          ]
+        },
+        {
+          "topic": "Teachers & staff",
+          "items": [
+            "Wants educators to have the resources, training and professional support to do their jobs, and says she is not running \"to tell educators how to teach or to micromanage\" daily operations {ifn_d1}."
+          ]
+        },
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "Her main proposed improvement is stronger transparency and communication between the board and the community, including making sure taxpayers understand how money is used {ifn_d1}.",
+            "Says a board should listen to the community throughout the year, \"not just during an election\" {ifn_d1}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Did not criticize specific board decisions in her questionnaire; said she would not expect to agree with every board or administrative decision and would make the case for reconsidering a policy when she disagreed {ifn_d1}."
+      ],
+      "plans": [
+        "Would respond to disagreements by listening, reviewing data and asking questions, and would respect board decisions once made {ifn_d1}."
+      ],
+      "endorsements_finance": [
+        "No endorsements or campaign finance reports for this race were found in local coverage."
+      ],
+      "gaps": [
+        "Her current employer and position were not reported.",
+        "No campaign website or social media page was found.",
+        "No campaign finance filings were found."
+      ]
+    },
+    {
+      "ballot_name": "Tom Westerhof",
+      "seat": "District 1",
+      "summary": "Incumbent finishing his first four-year term, running as a Republican {ifn_d1}{in_list}.",
+      "website": null,
+      "background": [
+        "Grew up in the Warsaw area and graduated from Warsaw Community High School and Grace College, according to his district board biography {wcs_board}.",
+        "His board biography says he has worked about 20 years in purchasing at Indiana University and that he had two children in Warsaw schools when he ran {wcs_board}.",
+        "Serves on the boards of CASA of Kosciusko County and the Warsaw Education Foundation, according to his board biography {wcs_board}."
+      ],
+      "path_to_ballot": [
+        "Listed on the ballot as the Republican candidate for District 1 {in_list}."
+      ],
+      "positions": [
+        {
+          "topic": "Budget & taxes",
+          "items": [
+            "Said he is proud of how \"fiscally conservative\" the district has been under Superintendent Hoffert and its CFOs, saying WCS has \"stayed ahead of the curve\" while other schools face difficult financial decisions {ifn_d1}."
+          ]
+        },
+        {
+          "topic": "Academics",
+          "items": [
+            "Wants the district to use data to identify where it is succeeding and where it is not, and to keep state assessment scores rising after the dip during COVID {ifn_d1}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Is a current board member.",
+        "Describes the board's role as setting policy and hiring the superintendent to carry it out, and says disagreements should be handled through honest communication {ifn_d1}."
+      ],
+      "plans": [
+        "Says he will keep focusing on assessment results, measuring the district against itself to keep scores improving {ifn_d1}."
+      ],
+      "endorsements_finance": [
+        "No endorsements or campaign finance reports for this race were found in local coverage."
+      ],
+      "gaps": [
+        "Whether he still works at Indiana University was not confirmed in 2026 coverage.",
+        "No campaign website found.",
+        "No campaign finance filings were found."
+      ]
+    },
+    {
+      "ballot_name": "Heather Reichenbach",
+      "seat": "District 2",
+      "summary": "Incumbent and board president since at least 2025, unopposed for a fourth term; a Republican on the ballot list {ifn_unc}{tu_filing}{in_list}.",
+      "website": null,
+      "background": [
+        "Vice president of community engagement at the Kosciusko County Community Foundation {ifn_unc}.",
+        "Former social studies teacher in Iowa and former administrative assistant to the principal at Madison Elementary, according to her board biography {wcs_board}.",
+        "Vice chair of the Bluffton University Board of Trustees and vice president of the Wagon Wheel Center for the Arts board {ifn_unc}.",
+        "Serves as second vice president of the Indiana School Boards Association, according to information she provided to the Times-Union {tu_filing}.",
+        "Describes herself as a parent and former educator; her children graduated from Warsaw schools {ifn_unc}{tu_filing}."
+      ],
+      "path_to_ballot": [
+        "Filed for reelection on the first day of filing in May 2026 {tu_filing}.",
+        "Listed on the ballot as a Republican; unopposed {in_list}{ifn_unc}."
+      ],
+      "positions": [
+        {
+          "topic": "Academics",
+          "items": [
+            "Cites the district's range of programs, including STEM, dual language immersion, Leader in Me, AP and dual credit courses and work-based learning, and says she values that WCS has \"something for every student\" {ifn_unc}."
+          ]
+        },
+        {
+          "topic": "Budget & taxes",
+          "items": [
+            "Has said understanding school budgets and funding categories takes \"time and diligence\" because they differ from business and household budgets, according to her board biography {wcs_board}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Is a current board member and board president.",
+        "Said the district has done \"a lot of things within the schools to offer opportunities for students\" during her tenure {tu_filing}."
+      ],
+      "plans": [
+        "Wants to continue \"building on the strengths\" of the district with long-term planning and collaboration {ifn_unc}."
+      ],
+      "endorsements_finance": [
+        "Unopposed. No endorsements or campaign finance reports for this race were found in local coverage."
+      ],
+      "gaps": [
+        "A search result said the Indiana School Boards Association named her school board member of the year for 2025; this was not confirmed on a fetched page.",
+        "Her votes on specific 2025-26 decisions, such as the middle school consolidation, were not reported in fetched coverage."
+      ]
+    },
+    {
+      "ballot_name": "Denny Duncan",
+      "seat": "District 5",
+      "summary": "Incumbent finishing his first four-year term and retired Warsaw elementary principal; unopposed and listed as a Republican {ifn_unc}{in_list}.",
+      "website": null,
+      "background": [
+        "Spent his career at Warsaw Community Schools as a teacher, assistant principal at Warsaw Community High School and about 18 years as principal of Jefferson Elementary {ifn_unc}{tu_filing}.",
+        "Later worked as alumni director at Grace College and taught adjunct classes there {tu_filing}.",
+        "His board biography lists his current work as a real estate agent with the Brian Peterson Real Estate Group {wcs_board}.",
+        "Has served on the boards of United Way of Kosciusko County, Grace Village, Indiana Lakes Federal Credit Union and the Winona Lake Town Board, according to his board biography {wcs_board}.",
+        "His children graduated from Warsaw schools and he has grandchildren enrolled {ifn_unc}."
+      ],
+      "path_to_ballot": [
+        "Filed for reelection on the first day of filing in May 2026 {tu_filing}.",
+        "Listed on the ballot as a Republican; unopposed {in_list}{ifn_unc}."
+      ],
+      "positions": [
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "Says the board's job is \"to hire quality people and to let them do their job without … undue interference\" {ifn_unc}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Is a current board member.",
+        "Said he has \"extreme confidence\" in Superintendent David Hoffert's judgment {ifn_unc}."
+      ],
+      "plans": [
+        "Wants the board to continue providing \"opportunities for all students\" throughout the district {tu_filing}."
+      ],
+      "endorsements_finance": [
+        "Unopposed. No endorsements or campaign finance reports for this race were found in local coverage."
+      ],
+      "gaps": [
+        "Few policy-specific statements were found."
+      ]
+    },
+    {
+      "ballot_name": "Benjamin Rice",
+      "seat": "District 7",
+      "summary": "Lake City Bank commercial banking officer who announced in August 2026 that he had withdrawn from the race; his name remains on the ballot {inf_rice}{tu_rice_out}.",
+      "website": null,
+      "background": [
+        "Vice president and commercial banking officer at Lake City Bank {inf_rice}.",
+        "Treasurer of the Warsaw Community Public Library board of trustees and a member of the Warsaw Education Foundation board {inf_rice}{tu_filing}.",
+        "Warsaw Community High School graduate and parent of children in the district {inf_rice}."
+      ],
+      "path_to_ballot": [
+        "Announced his candidacy in May 2026 and filed for District 7 {inf_rice}{tu_filing}.",
+        "Listed on the ballot as a Republican {in_list}.",
+        "Announced in August 2026 that he is no longer an active candidate; his name stays on the ballot because state deadlines had passed {tu_rice_out}."
+      ],
+      "positions": [
+        {
+          "topic": "Budget & taxes",
+          "items": [
+            "When he entered the race, said board members should make \"thoughtful, fiscally sound decisions that always put students first\" {inf_rice}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "No statements on the current board's decisions were found."
+      ],
+      "plans": [
+        "Has withdrawn; asked voters who planned to support him to vote for Ryan Parker {tu_rice_out}."
+      ],
+      "endorsements_finance": [
+        "Endorsed Ryan Parker after withdrawing {tu_rice_out}. No campaign finance reports were found."
+      ],
+      "gaps": [
+        "How votes cast for him would be handled if he received the most votes was not addressed in fetched coverage."
+      ]
+    },
+    {
+      "ballot_name": "Ryan M. Parker",
+      "seat": "District 7",
+      "summary": "Claypool-area farmer and first-time candidate for an open seat, listed as a Republican; the only active candidate after Ben Rice withdrew {ifn_unc}{tu_rice_out}.",
+      "website": "https://script.google.com/macros/s/AKfycbwXiBKk4FI2XsMwdjXQrzB3_fOUyDUCxT2i1K-oVSQoUTiso1fPxsoPNxh-28FggP7x/exec",
+      "background": [
+        "Operates his own farm and cattle operation in Claypool and is part of a family business {ifn_unc}; the Times-Union reported he has an equipment business/dealership {tu_filing}.",
+        "Tippecanoe Valley High School graduate with an associate degree in agricultural business from Vincennes University {ifn_unc}.",
+        "Assistant coach for the Claypool Knights basketball team {ifn_unc}.",
+        "Parent of three children who attended Warsaw schools, including Claypool Elementary {ifn_unc}."
+      ],
+      "path_to_ballot": [
+        "Filed for District 7 in May 2026 {tu_filing}.",
+        "Listed on the ballot as a Republican {in_list}."
+      ],
+      "positions": [
+        {
+          "topic": "Teachers & staff",
+          "items": [
+            "His website, as quoted by InkFreeNews, calls teachers and staff the \"heart of our schools\" and says they need trust, respect and resources {ifn_unc}."
+          ]
+        },
+        {
+          "topic": "School safety",
+          "items": [
+            "His website, as quoted by InkFreeNews, says decisions should \"keep students at the center and support safe, challenging and encouraging schools\" {ifn_unc}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Said his family's experience with the schools \"has been great\" {tu_filing}."
+      ],
+      "plans": [
+        "Wants board decision-making to be as efficient as possible while putting students and staff first {tu_filing}."
+      ],
+      "endorsements_finance": [
+        "Endorsed by Ben Rice after Rice withdrew {tu_rice_out}. No campaign finance reports were found."
+      ],
+      "gaps": [
+        "His campaign website loads its content dynamically and could not be read directly; positions are taken from InkFreeNews's description of it.",
+        "No questionnaire answers were found."
+      ]
+    }
+  ],
+  "review_flags": [],
+  "sources": {
+    "wcs_board": [
+      "School Board Members",
+      "Warsaw Community Schools",
+      "2026-10",
+      "https://www.warsaw.k12.in.us/schoolboard"
+    ],
+    "ifn_d1": [
+      "Westerhof, Helton Running For Warsaw School Board District 1",
+      "InkFreeNews",
+      "2026-10-06",
+      "https://www.inkfreenews.com/2026/10/06/westerhof-running-for-warsaw-school-board-district-1/"
+    ],
+    "ifn_unc": [
+      "Duncan, Parker, Reichenbach Uncontested In Various Warsaw School Board Districts",
+      "InkFreeNews",
+      "2026-10-06",
+      "https://www.inkfreenews.com/2026/10/06/duncan-parker-reichenbach-uncontested-in-various-warsaw-school-board-districts/"
+    ],
+    "tu_filing": [
+      "Four File For Warsaw School Board Election",
+      "Times-Union",
+      "2026-05-19",
+      "https://timesuniononline.com/stories/four-file-for-warsaw-school-board-election,284891"
+    ],
+    "tu_rice_out": [
+      "Ben Rice Announces Withdrawal from Warsaw Community Schools Board Race",
+      "Times-Union",
+      "2026-08-23",
+      "https://www.timesuniononline.com/stories/ben-rice-announces-withdrawal-from-warsaw-community-schools-board-race,297436"
+    ],
+    "inf_rice": [
+      "Ben Rice Announces Candidacy for Warsaw Community Schools' Board",
+      "InkFreeNews",
+      "2026-05-26",
+      "https://www.inkfreenews.com/2026/05/26/ben-rice-announces-candidacy-for-warsaw-community-schools-board/"
+    ],
+    "ifn_enroll": [
+      "Warsaw Schools' Enrollment Projected To Decrease Over Next 10 Years",
+      "InkFreeNews",
+      "2025-10-28",
+      "https://www.inkfreenews.com/2025/10/28/warsaw-schools-enrollment-projected-to-decrease-over-next-10-years/"
+    ],
+    "tu_lakeview": [
+      "Warsaw Community Schools Moves Forward With Combining Lakeview, Edgewood",
+      "Times-Union",
+      "2026-07-21",
+      "https://timesuniononline.com/stories/warsaw-community-schools-moves-forward-with-combining-lakeview-edgewood,293185"
+    ],
+    "ifn_launch": [
+      "Warsaw Community Schools Launches 2026-27 School Year",
+      "InkFreeNews",
+      "2026-08-06",
+      "https://www.inkfreenews.com/2026/08/06/warsaw-community-schools-launches-2026-27-school-year/"
+    ]
+  }
+}

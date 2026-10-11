@@ -1,0 +1,157 @@
+{
+ "race_id": "in-school-board-northwest-allen-county",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Northwest Allen County Schools (NACS) serves northwest Allen County north of Fort Wayne, with one high school; a third middle school, Willow Creek, was scheduled to open in August 2026 {jg_nonres26}. Wayne Barker is superintendent {jg_ref25}{jg_nonres26}. A current districtwide enrollment figure could not be confirmed from a fetched source.",
+  "The board has five members who serve four-year terms {jg22_prev}. The district lists Liz Hathaway (president), Kristi Schlatter (vice president), Darren Vogt (secretary), Erica Jamison and Liz Chaffee {nacs_board}. Jamison and Chaffee were elected in 2024 {jg24_res}.",
+  "Seats on the 2026 ballot: District 3, held by Schlatter, and the at-large seats held by Hathaway and Vogt, who were the top two finishers for two at-large seats in 2022 {jg22_res}{jg_fil26}. The Allen County Election Board's list, as reported by The Journal Gazette, shows Schlatter (District 3), Vogt (at large, Republican) and Hathaway (at large, Republican) as the only NACS candidates, all incumbents {jg_party26}.",
+  "Seat count: the state list shows the at-large race (labeled District 4) as vote for 1 with two candidates {in_list}. Both at-large incumbents' terms end in 2026, and The Journal Gazette describes both as unchallenged incumbents {jg_party26}{jg22_res}, which indicates two at-large seats are being filled. If so, all three NACS seats on the ballot are uncontested.",
+  "Filing: newcomer Matthew Cohee also filed for an at-large seat in June 2026 {jg_fil26}, but he is not on the October candidate list {jg_party26} or the state list {in_list}.",
+  "Party labels: 2026 is the first year Allen County school board candidates could declare a party; Hathaway and Vogt filed as Republicans and Schlatter left the box blank {jg_fil26}{jg_party26}. School board races are excluded from straight-party voting {jg_party26}.",
+  "Operating referendum (Nov. 4, 2025): voters rejected an eight-year operating referendum of up to $0.2787 per $100 of assessed value (about $12.2 million a year), 3,952 to 3,368, according to final unofficial results {jg_ref25}{wboi_ref25}. The money would have gone mainly to staff pay, instructional support, the career and technical education (CTE) facility, and safety and well-being staffing {wboi_ref25}. Barker said NACS receives about $8 million a year less than the state average and that the district would move forward within its existing budget {jg_ref25}{wboi_ref25}.",
+  "Budget and SEA 1 (2025–2026): for 2026, NACS prepared a budget of nearly $126 million and estimated a $2.7 million property tax cap loss, about $1.6 million of it in the operations fund; the CFO said the plan to absorb this was $11 million in general obligation bonds over two years for technology and transportation {jg_bud25}. A third-party summary of the Aug. 17, 2026 board meeting reports a financial presentation on SEA 1 and says the board decided not to make a $38 million capital investment in a swim-trials pool project {govly_aug26}.",
+  "Enrollment and school choice (2026): in April 2026, Barker put enrollment about 300 students below projections, which officials attributed to vouchers, housing trends and falling birth rates; the board approved open enrollment for non-residents and changes to the preschool {wpta_enr26}. The board agreed to accept up to 340 non-resident students in fall 2026 and had received 129 transfer requests by May 4 {jg_nonres26}.",
+  "Facilities: the board redrew middle school boundaries in January 2026 ahead of Willow Creek Middle School's scheduled August 2026 opening, and limited 2026 middle school transfers to Willow Creek {jg_nonres26}.",
+  "Forums: no 2026 NACS candidate forum or questionnaire was found. Because the seats appear uncontested, the most recent issue statements from these candidates come from 2022 campaign coverage {jg22_prev}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Kristi Schlatter",
+   "seat": "District 3",
+   "summary": "Incumbent and board vice president, unopposed for reelection in District 3; listed as Nonpartisan {in_list}{nacs_board}{jg_fil26}.",
+   "website": null,
+   "background": [
+    "In 2022 she was listed as a former teacher and homemaker {jg22_prev}.",
+    "She is a NACS graduate whose children have graduated from Carroll High School or attend NACS {jg22_prev}.",
+    "She was appointed to the board in 2017, ran unopposed in 2018, and won District 3 in 2022 with 53.2% of the vote {jg22_prev}{jg22_res}."
+   ],
+   "path_to_ballot": [
+    "Filed for reelection to District 3 and left the party box blank; she is unopposed {jg_fil26}{jg_party26}.",
+    "Listed on the state ballot list as Nonpartisan {in_list}."
+   ],
+   "positions": [
+    {"topic": "Enrollment & school choice", "items": [
+     "In 2022 she said the most pressing need was managing the district's population growth while maintaining educational excellence {jg22_prev}."
+    ]},
+    {"topic": "Academics", "items": [
+     "In 2022 she said her focus would be meeting the needs of each student, adding that it mattered to her \"to have no personal agenda\" {jg22_prev}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Is a current board member.",
+    "In 2022 she said six years on the board had taught her the value of long-term planning that gives the board options and sets up future district leaders {jg22_prev}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "In 2022 she was endorsed by former NACS Superintendent Steve Yager, former state Superintendent Jennifer McCormick and the Committee to Support Public Education in Northwest Allen County {jg22_prev}{jg22_res}. No 2026 endorsements or campaign finance report were found."
+   ],
+   "gaps": [
+    "No 2026 candidate website, questionnaire or forum statements were found; her issue statements are from 2022.",
+    "Her votes on the 2025 referendum, SEA 1 budget actions and 2026 open enrollment were not found in fetched sources.",
+    "No 2026 campaign finance report was found."
+   ]
+  },
+  {
+   "ballot_name": "Darren Vogt",
+   "seat": "District 4",
+   "summary": "Incumbent at-large member and board secretary, elected in 2022; listed as Republican. He lost the May 2026 Republican primary for state Senate District 15 by 14 votes {in_list}{nacs_board}{jg22_res}{ipm_recount2}.",
+   "website": null,
+   "background": [
+    "He is a staffer to U.S. Sen. Jim Banks {ipm_recount1}{ipm_recount2}.",
+    "In 2022 he was described as a local business owner and NACS parent with 12 years on the Allen County Council, six as president, and a seat on the Allen County Redevelopment Commission {jg22_prev}.",
+    "He won the second of two at-large seats in 2022 with 21.7% of the vote, according to unofficial results {jg22_res}.",
+    "He ran in the May 5, 2026 Republican primary for state Senate District 15 against Sen. Liz Brown. Certified tallies gave Brown 5,241 votes to his 5,227 {ipm_recount2}. He asked for a recount on May 19 and withdrew the request in July 2026, saying the vote totals would not change enough to affect the outcome {ipm_recount1}{ipm_recount2}{fwb_recount}."
+   ],
+   "path_to_ballot": [
+    "Filed for reelection to an at-large seat as a Republican while the Senate primary recount was pending {jg_fil26}{fwb_recount}.",
+    "Listed on the state ballot list as Republican {in_list}."
+   ],
+   "positions": [
+    {"topic": "Academics", "items": [
+     "In 2022 he said schools should focus on basics such as reading and writing {jg22_prev}{jg22_res}."
+    ]},
+    {"topic": "Transparency & community input", "items": [
+     "In 2022 he supported redrawing NACS board voting districts to match population growth, and said the district might be better served by seven board members instead of five {jg22_prev}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Is a current board member.",
+    "As a 2022 candidate, he said of the board he had watched in recent years that \"They really needed some leadership\" {jg22_prev}. No 2026 statement on the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "In 2022 he was endorsed by then-Congressman Jim Banks; the Purple for Parents of Indiana group and a \"Conservative NACS School Board Candidates 2022\" Facebook page also backed him {jg22_prev}{jg22_res}.",
+    "In his 2026 state Senate campaign, state filings show $90,000 from Attorney General Todd Rokita's campaign fund and $35,000 from Sen. Banks's campaign account {ipm_recount2}. No school board campaign finance report for 2026 was found."
+   ],
+   "gaps": [
+    "No 2026 school board website, questionnaire or forum statements were found; his school-board issue statements are from 2022.",
+    "His votes on the 2025 referendum, SEA 1 budget actions and 2026 open enrollment were not found in fetched sources.",
+    "A search snippet (unverified) says he took office on the board Jan. 1, 2023.",
+    "No 2026 school board campaign finance report was found."
+   ]
+  },
+  {
+   "ballot_name": "Elizabeth Hathaway",
+   "seat": "District 4",
+   "summary": "Incumbent at-large member and board president (listed by the district as Liz Hathaway), first elected in 2014; listed as Republican {in_list}{nacs_board}{br_hathaway}{jg22_prev}.",
+   "website": null,
+   "background": [
+    "BallotReady lists her as an engineer at Von Duprin with a 1992 electrical engineering degree from Purdue University {br_hathaway}. In 2022 The Journal Gazette described her as a stay-at-home mother who had worked as an electrical engineer {jg22_prev}.",
+    "Her children have graduated from NACS {jg22_prev}.",
+    "She has served on the board since 2015, according to BallotReady; she won a third term in 2022 with 23.8% of the at-large vote {br_hathaway}{jg22_res}."
+   ],
+   "path_to_ballot": [
+    "Filed for reelection to an at-large seat as a Republican {jg_fil26}{jg_party26}.",
+    "Listed on the state ballot list as Republican under the name Elizabeth Hathaway {in_list}."
+   ],
+   "positions": [
+    {"topic": "Facilities", "items": [
+     "In 2022 she said residential growth meant the district would need to decide when to build a new elementary school and whether to expand the middle schools or add another {jg22_prev}{jg22_res}."
+    ]},
+    {"topic": "Academics", "items": [
+     "In 2022 she said NACS had done a good job adapting curriculum but could offer more for students who are not college-bound {jg22_prev}."
+    ]},
+    {"topic": "Transparency & community input", "items": [
+     "In 2022 she pointed to the strategic planning process as a way to get input from various stakeholders {jg22_prev}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Is a current board member.",
+    "In 2022, referring to division in recent years, she said: \"We need to come together as a district and focus on our positives\" {jg22_prev}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "In 2022 she was endorsed by former NACS Superintendent Steve Yager, former state Superintendent Jennifer McCormick and the Committee to Support Public Education in Northwest Allen County {jg22_prev}{jg22_res}. No 2026 endorsements or campaign finance report were found."
+   ],
+   "gaps": [
+    "No 2026 candidate website, questionnaire or forum statements were found; her issue statements are from 2022.",
+    "Her current occupation is reported differently: BallotReady says engineer at Von Duprin, and 2022 Journal Gazette coverage says stay-at-home mother and former electrical engineer.",
+    "Her votes on the 2025 referendum, SEA 1 budget actions and 2026 open enrollment were not found in fetched sources.",
+    "No 2026 campaign finance report was found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "nacs_board": ["School Board", "Northwest Allen County Schools", "2026-10", "https://www.nacs.k12.in.us/schoolboard"],
+  "jg_fil26": ["School board hopefuls file for candidacy in Allen County", "The Journal Gazette", "2026-06-18", "https://www.journalgazette.net/local/schools/school-board-hopefuls-file-for-candidacy-in-allen-county/article_cad8d648-3b19-4981-8734-0d9f923f423c.html"],
+  "jg_party26": ["Few Allen County races give voters option to keep school boards nonpartisan", "The Journal Gazette", "2026-10-02", "https://www.journalgazette.net/elections/few-allen-county-races-give-voters-option-to-keep-school-boards-nonpartisan/article_860c849f-1ba9-497f-a3a2-42b5c99d3601.html"],
+  "jg22_prev": ["Election Preview: Northwest Allen County Schools board", "The Journal Gazette", "2022-10-26", "https://www.journalgazette.net/local/local-government/eight-candidates-vying-for-three-seats-on-northwest-allen-county-schools-board/article_9520443a-53bb-11ed-92eb-c3c593d083c3.html"],
+  "jg22_res": ["Northwest Allen County Schools voters retain incumbents", "The Journal Gazette", "2022-11-09", "https://www.journalgazette.net/local/schools/northwest-allen-county-schools-voters-retain-incumbents/article_81560a46-5fde-11ed-a866-6f32e11ffefa.html"],
+  "jg24_res": ["Newcomer unseats Northwest Allen County Schools board incumbent", "The Journal Gazette", "2024-11-05", "https://www.journalgazette.net/elections/newcomer-unseats-northwest-allen-county-schools-board-incumbent/article_d63263a2-9bc8-11ef-aae2-8bbcf1805caf.html"],
+  "jg_bud25": ["Northwest Allen County Schools prepares $126 million budget with losses in mind", "The Journal Gazette", "2025-09-08", "https://www.journalgazette.net/local/schools/northwest-allen-county-schools-prepares-126-million-budget-with-losses-in-mind/article_17499cbb-78ef-4a6e-96b6-6dd3ed5083ec.html"],
+  "jg_ref25": ["Northwest Allen County Schools referendum fails with 54% of voters against it", "The Journal Gazette", "2025-11-04", "https://www.journalgazette.net/local/schools/northwest-allen-county-schools-referendum-fails-with-54-of-voters-against-it/article_6c28a432-fc74-440c-8cc5-98ac3515069e.html"],
+  "wboi_ref25": ["NACS referendum fails", "WBOI", "2025-11-05", "https://www.wboi.org/education/2025-11-05/nacs-referendum-fails"],
+  "wpta_enr26": ["NACS approves enrollment changes", "WPTA 21Alive", "2026-04-14", "https://www.21alivenews.com/2026/04/14/nacs-approves-enrollment-changes/"],
+  "jg_nonres26": ["More than 100 non-residents seek enrollment at Northwest Allen County Schools", "The Journal Gazette", "2026-05-04", "https://www.journalgazette.net/local/schools/more-than-100-non-residents-seek-enrollment-at-northwest-allen-county-schools/article_dc9abde1-62d2-4611-ab99-641dcf59aaf0.html"],
+  "govly_aug26": ["NACS Regular School Board Meeting - August 17, 2026 (meeting summary)", "Govly", "2026-08", "https://app.govly.com/public/meetings/73527"],
+  "ipm_recount1": ["Challenger seeks recount of 15-vote loss to Republican Sen. Liz Brown", "Indiana Capital Chronicle via IPM/WFIU", "2026-05-19", "https://www.ipm.org/news/2026-05-19/challenger-seeks-recount-of-15-vote-loss-to-republican-sen-liz-brown"],
+  "ipm_recount2": ["Challenger drops recount of 14-vote GOP primary margin for state Sen. Liz Brown", "Indiana Capital Chronicle via IPM/WFIU", "2026-07-21", "https://www.ipm.org/news/2026-07-21/challenger-drops-recount-of-14-vote-gop-primary-margin-for-state-sen-liz-brown"],
+  "fwb_recount": ["State Senate recount in Allen County loses an attorney but starts", "Indiana Capital Chronicle via Fort Wayne Business Weekly", "2026-07-01", "https://www.fwbusiness.com/news/article_699e7dc0-17a2-45ab-ae4f-5078f6f7a11b.html"],
+  "br_hathaway": ["Elizabeth Hathaway", "BallotReady", "2026-10", "https://www.ballotready.org/people/elizabeth-hathaway"]
+ }
+}

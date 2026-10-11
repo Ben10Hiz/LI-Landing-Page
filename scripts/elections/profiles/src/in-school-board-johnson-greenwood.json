@@ -1,0 +1,129 @@
+{
+ "race_id": "in-school-board-johnson-greenwood",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Greenwood Community School Corporation serves the city of Greenwood in Johnson County; Dr. Terry Terhune is superintendent {gcsc_min0925}. A current enrollment figure could not be confirmed from a fetched source.",
+  "Board: at the Sept. 16, 2025 meeting, Chad Shaffer presided as board president, with Peggy Daeger, Jack Napier and Lori Feller present and Sheila Martin listed as the board's Central Nine Career Center representative {gcsc_min0925}. The board's size, its district/at-large structure and current officers could not be confirmed on a fetched district page, because the district website blocks automated access.",
+  "Seats on the 2026 ballot: the state list shows District 2 (vote for 1), with Napier as the only candidate, and an at-large race (vote for 1) with Shaffer, Laura Chisholm and Feller {in_list}. Napier, Shaffer and Feller are current board members {gcsc_min0925}; BallotReady also lists Feller as a current at-large member {br_feller}.",
+  "Seat count: whether the at-large race fills one seat or two could not be confirmed from a fetched source. Daily Journal coverage that could not be read (see gaps) indicates that two at-large seats were filled in 2022, which would put two at-large seats on the 2026 ballot.",
+  "Party labels: on the state list, Shaffer and Feller are Republican, and Napier and Chisholm are Nonpartisan {in_list}.",
+  "Budget and finances: at the Sept. 16, 2025 meeting, the chief financial officer held public hearings on the 2026 budget and the bus and capital plans. She told the board that incoming student transfers account for about $5.5 million in revenue and are one reason the district has kept its financial footing {gcsc_min0925}. That meeting also approved higher substitute-teacher pricing to stay competitive with neighboring districts {gcsc_min0925}.",
+  "Other 2025 actions: the board approved the 2026–27 calendar, which was aligned with Central Nine Career Center's, and renewed its agreement with Adult and Child Services as school-based provider, which serves about 7% of students. The technology director reported that a Verkada building-security system was in place {gcsc_min0925}.",
+  "Forums: no 2026 Greenwood candidate forum, questionnaire or candidate website could be read. The Daily Journal, the main local paper, blocks automated access."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Jack Napier",
+   "seat": "District 2",
+   "summary": "Incumbent board member, the only candidate for District 2; listed as Nonpartisan {in_list}{gcsc_min0925}.",
+   "website": null,
+   "background": [
+    "Is a current board member; he made or seconded several motions at the Sept. 16, 2025 meeting {gcsc_min0925}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Nonpartisan, unopposed {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. No statement of his on the board's record was found in fetched sources."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance report were found in fetched sources."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire, forum remarks, occupation or biography was found in fetched sources.",
+    "Unverified (search snippets of Daily Journal coverage): he ran unopposed for District 2 in an earlier cycle, apparently 2022.",
+    "The Daily Journal blocks automated access, so its 2026 candidate coverage could not be read."
+   ]
+  },
+  {
+   "ballot_name": "Chad Shaffer",
+   "seat": "At Large",
+   "summary": "Incumbent board member who presided as board president in September 2025; listed as Republican {in_list}{gcsc_min0925}.",
+   "website": null,
+   "background": [
+    "Is a current board member; he presided over the Sept. 16, 2025 meeting as board president and serves as the board's Indiana School Boards Association representative {gcsc_min0925}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Republican {in_list}."
+   ],
+   "positions": [
+    {"topic": "Transparency & community input", "items": [
+     "At the Sept. 16, 2025 meeting, after attending the ISBA fall conference for the first time, he encouraged all board members to attend the next year {gcsc_min0925}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Is a current board member. No statement of his on the board's overall record was found in fetched sources."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance report were found in fetched sources."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire, forum remarks, occupation or biography was found in fetched sources.",
+    "Unverified (search snippets of Daily Journal coverage): he was a first-time candidate in 2022 and won an at-large seat with about 22.4% of the vote; he was a member of the Southwest Elementary parent-teacher organization; and in 2022 he talked about financial planning for a future with fewer students as birth rates fall.",
+    "Unverified (search snippet): a district board page lists him as 2026 board president.",
+    "The Daily Journal blocks automated access, so its 2026 candidate coverage could not be read."
+   ]
+  },
+  {
+   "ballot_name": "Laura Chisholm",
+   "seat": "At Large",
+   "summary": "Candidate for an at-large seat; listed as Nonpartisan {in_list}{br_chisholm}.",
+   "website": null,
+   "background": [
+    "No background was found in fetched sources {br_chisholm}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Nonpartisan {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance report were found in fetched sources."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire, forum remarks, occupation or biography was found in fetched sources.",
+    "The Sept. 16, 2025 board minutes record a Greenwood resident named Laura Chisholm signing the public-comment sheet by mistake, thinking it was an attendance sheet; whether this is the candidate was not confirmed.",
+    "The Daily Journal blocks automated access, so its 2026 candidate coverage could not be read."
+   ]
+  },
+  {
+   "ballot_name": "Lori Feller",
+   "seat": "At Large",
+   "summary": "Incumbent board member; listed as Republican {in_list}{gcsc_min0925}{br_feller}.",
+   "website": null,
+   "background": [
+    "Is a current board member; BallotReady lists her as an at-large member {br_feller}. She attended and seconded motions at the Sept. 16, 2025 meeting {gcsc_min0925}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Republican {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. No statement of hers on the board's record was found in fetched sources."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance report were found in fetched sources."
+   ],
+   "gaps": [
+    "How and when she joined the board (election or appointment, and whose seat) was not found in fetched sources. A search snippet of the district's 2025 board roster lists Mike Metzger and not Feller, which suggests she filled a vacancy during 2025 (unverified).",
+    "No candidate website, questionnaire, forum remarks, occupation or biography was found in fetched sources.",
+    "The Daily Journal blocks automated access, so its 2026 candidate coverage could not be read."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "gcsc_min0925": ["Regular School Board Meeting minutes, Sept. 16, 2025", "Greenwood Community School Corporation", "2025-09-16", "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/3787/Gws/b59043d0-c2ec-47d5-96ba-298d6ccdd2bd/schoolboardmeeting-minutes-9-16-25.pdf?disposition=inline"],
+  "br_feller": ["Lori Feller", "BallotReady", "2026-10", "https://www.ballotready.org/people/lori-feller"],
+  "br_chisholm": ["Laura Chisholm", "BallotReady", "2026-10", "https://www.ballotready.org/people/laura-chisholm"]
+ }
+}

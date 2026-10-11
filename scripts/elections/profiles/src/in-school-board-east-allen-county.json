@@ -1,0 +1,238 @@
+{
+  "race_id": "in-school-board-east-allen-county",
+  "reviewed": "2026-10-10",
+  "status": "draft",
+  "status_note": "Pending editorial review.",
+  "office": "@in_school_board",
+  "incumbent": null,
+  "race_context": [
+    "East Allen County Schools (EACS), headquartered in New Haven, serves eastern Allen County through five attendance areas; average enrollment on last year's count days was nearly 9,900 students {jg_budget26}{jg_facilities}.",
+    "The superintendent is Marilyn Hissong {jg_fieldhouse}.",
+    "The board has seven members, each tied to a numbered district with an R or E designation (for example, District 1R, 2E, 3E and 4E) {jg_preview22}{jg_vacancy}.",
+    "Three seats are on the 2026 ballot, one member each: Districts 1R, 2E and 3E {jg_filing}{in_list}.",
+    "All three incumbents are running: board President Tim Hines (District 1R) and Pamela Dukes (District 3E) are unopposed; first-term incumbent Beth Wood (District 2E) is challenged by Joni Price, the only contested EACS race {jg_d2e}.",
+    "2026 is the first year Indiana school board candidates could declare a party; Hines, Dukes and Price filed as Republicans, and Wood did not state an affiliation (the state list shows her as Nonpartisan) {jg_d2e}{in_list}.",
+    "Budget and SEA 1 (September 2026): the proposed 2027 budget is about $157 million at a flat tax rate of 99.99 cents per $100 of assessed value; the CFO estimated tax-cap losses of about $4.7 million next year, up from $3.8 million this year and under $1 million as recently as 2024, and said the state's property tax law, SEA 1, is contributing; he said rate increases could follow in later years {jg_budget26}.",
+    "Budget tightening (September 2025): facing an estimated $4.2 million tax-cap loss, the district cut its proposed operations fund by $3.8 million and its education fund by $2 million, which the CFO said was the first decrease in allocations during his tenure {jg_budget25}.",
+    "Facilities: in July 2024 the board supported $190 million in projects, including Paul Harding Junior High/East Allen University renovations, Leo Junior-Senior High athletic upgrades, a new Southwick Elementary and a new Leo Intermediate School, financed with bonds within existing tax caps rather than a referendum; about $120 million in further needs is to be addressed later {jg_facilities}. The Leo fieldhouse, the first of the four projects to open, was dedicated in October 2026 {jg_fieldhouse}.",
+    "Board vacancy: Vice President Steve Screeton announced in June 2026 he would resign because of a move; the board took applications for his District 4E (New Haven) seat, with the appointee to serve through 2028 {jg_vacancy}.",
+    "No 2026 candidate forum was found. The Journal Gazette sent a questionnaire to the District 2E candidates; Price answered and Wood did not {jg_d2e}."
+  ],
+  "candidates": [
+    {
+      "ballot_name": "Timothy E Hines",
+      "seat": "District 1R",
+      "summary": "Incumbent board president seeking a fourth term (he won his third in 2022); unopposed and filed as a Republican {jg_preview22}{jg_d2e}.",
+      "website": null,
+      "background": [
+        "Retired owner of T.E. Hines, a concrete construction company he ran for 32 years (as of 2022) {jg_preview22}.",
+        "Ball State University graduate; has served on the East Allen Career Center advisory board and been involved in youth sports {jg_preview22}.",
+        "Board president as of 2024 and 2026 {jg_facilities}{jg_vacancy}."
+      ],
+      "path_to_ballot": [
+        "Filed as a Republican for District 1R; unopposed {jg_filing}{jg_d2e}{in_list}.",
+        "Won a third term in 2022 against challenger George Nicklow {jg_preview22}."
+      ],
+      "positions": [
+        {
+          "topic": "Academics",
+          "items": [
+            "In 2022 said he wanted the East Allen Career Center's skilled-trades programs to continue and expand {jg_preview22}."
+          ]
+        },
+        {
+          "topic": "Curriculum & library policy",
+          "items": [
+            "In 2022 said an existing committee of librarians, educators and parents decides what is appropriate in school libraries {jg_preview22}."
+          ]
+        },
+        {
+          "topic": "Facilities",
+          "items": [
+            "In 2024 said the building work was overdue, noting the pandemic had stalled improvements after the New Haven construction projects {jg_facilities}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Is a current board member and board president.",
+        "At the October 2026 fieldhouse dedication, described the facility as teaching students teamwork, discipline and confidence {jg_fieldhouse}."
+      ],
+      "plans": [
+        "No 2026 campaign statements were found."
+      ],
+      "endorsements_finance": [
+        "In 2022 he said he did not seek endorsements but was endorsed by the Indiana State Teachers Association and the East Allen Education Association {jg_preview22}. No endorsements or campaign finance reports for 2026 were found in local coverage."
+      ],
+      "gaps": [
+        "No 2026 interviews or questionnaire answers were found; most positions are from 2022 and 2024 coverage."
+      ]
+    },
+    {
+      "ballot_name": "Beth A Wood",
+      "seat": "District 2E",
+      "summary": "First-term incumbent who won the seat unopposed in 2022 and did not state a party affiliation {jg_d2e}{jg_filing22}.",
+      "website": null,
+      "background": [
+        "No background information was found in fetched coverage."
+      ],
+      "path_to_ballot": [
+        "Filed for reelection without a party affiliation; the state list shows her as Nonpartisan {jg_d2e}{in_list}.",
+        "Elected unopposed in 2022 to succeed Gayle Etzler {jg_filing22}."
+      ],
+      "positions": [],
+      "on_incumbent": [
+        "Is a current board member.",
+        "Did not answer the Journal Gazette's 2026 questionnaire {jg_d2e}."
+      ],
+      "plans": [
+        "No campaign statements were found."
+      ],
+      "endorsements_finance": [
+        "No endorsements or campaign finance reports for 2026 were found in local coverage."
+      ],
+      "gaps": [
+        "Occupation, background and policy positions were not found.",
+        "A district news item (search snippet) says she was sworn in January 3, 2023 representing the Woodlan area; not confirmed on a fetched page.",
+        "No campaign website or social media page was found."
+      ]
+    },
+    {
+      "ballot_name": "Joni Price",
+      "seat": "District 2E",
+      "summary": "Retired educator from Woodburn and first-time candidate, filed as a Republican {jg_d2e}.",
+      "website": null,
+      "background": [
+        "Retired educator, age 60, lives in Woodburn {jg_d2e}."
+      ],
+      "path_to_ballot": [
+        "Filed as a Republican for District 2E {jg_filing}{in_list}.",
+        "First-time candidate {jg_d2e}."
+      ],
+      "positions": [
+        {
+          "topic": "Budget & taxes",
+          "items": [
+            "Says board members should act as a bridge to state lawmakers, advocating for local needs and inviting legislators to see schools firsthand {jg_d2e}."
+          ]
+        },
+        {
+          "topic": "Enrollment & school choice",
+          "items": [
+            "Says EACS offers \"a small-town feel with big opportunities,\" citing its five community-based high schools and programs from early childhood through college and career pathways {jg_d2e}."
+          ]
+        },
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "Says she would listen actively, seek diverse perspectives and explain the reasoning behind decisions where confidentiality allows {jg_d2e}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Did not comment on specific board decisions in her questionnaire {jg_d2e}."
+      ],
+      "plans": [
+        "Says every effort should focus on strengthening schools and improving student achievement {jg_d2e}."
+      ],
+      "endorsements_finance": [
+        "No endorsements or campaign finance reports for 2026 were found in local coverage."
+      ],
+      "gaps": [
+        "Where she taught and her ties to EACS were not reported.",
+        "No campaign website or social media page was found."
+      ]
+    },
+    {
+      "ballot_name": "Pamela G Dukes",
+      "seat": "District 3E",
+      "summary": "Incumbent finishing her first term, unopposed and filed as a Republican {jg_d2e}{jg_filing}.",
+      "website": null,
+      "background": [
+        "In 2022 she was a longtime EACS substitute teacher focused on special education classes and worked as a rescue worker for a company that helps after natural disasters {jg_preview22}.",
+        "Ball State University graduate in production and operations management {jg_preview22}."
+      ],
+      "path_to_ballot": [
+        "Filed as a Republican for District 3E; unopposed {jg_filing}{jg_d2e}{in_list}.",
+        "Won an open seat in 2022 in a three-candidate race {jg_preview22}."
+      ],
+      "positions": [
+        {
+          "topic": "Academics",
+          "items": [
+            "In 2022 praised the district's technology and workplace-skills programs and said students sometimes need to progress at their own pace when catching up from the pandemic {jg_preview22}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Is a current board member."
+      ],
+      "plans": [
+        "No 2026 campaign statements were found."
+      ],
+      "endorsements_finance": [
+        "In 2022 she said she was self-funding her campaign {jg_preview22}. No endorsements or campaign finance reports for 2026 were found in local coverage."
+      ],
+      "gaps": [
+        "No 2026 interviews or questionnaire answers were found; positions are from 2022.",
+        "Whether she still works as a substitute teacher was not confirmed."
+      ]
+    }
+  ],
+  "review_flags": [],
+  "sources": {
+    "jg_d2e": [
+      "First-term incumbent faces challenger in East Allen County Schools board race",
+      "The Journal Gazette",
+      "2026-10-02",
+      "https://www.journalgazette.net/elections/first-term-incumbent-faces-challenger-in-east-allen-county-schools-board-race/article_c8ef9a0e-d6ca-4604-ae43-1ff685d6a5fa.html"
+    ],
+    "jg_filing": [
+      "School board hopefuls file for candidacy in Allen County",
+      "The Journal Gazette",
+      "2026-06-18",
+      "https://www.journalgazette.net/local/schools/school-board-hopefuls-file-for-candidacy-in-allen-county/article_cad8d648-3b19-4981-8734-0d9f923f423c.html"
+    ],
+    "jg_budget26": [
+      "East Allen County Schools readies next year's budget",
+      "The Journal Gazette",
+      "2026-09-01",
+      "https://www.journalgazette.net/local/schools/east-allen-county-schools-readies-next-years-budget/article_07e9ddb0-50da-4a0c-9f4f-f8f6218ac722.html"
+    ],
+    "jg_budget25": [
+      "East Allen County Schools tightens budget, anticipating ballooning tax cap loss",
+      "The Journal Gazette",
+      "2025-09-02",
+      "https://www.journalgazette.net/local/schools/east-allen-county-schools-tightens-budget-anticipating-ballooning-tax-cap-loss/article_0e9e513e-9156-4dfa-aebf-062fa2023b0e.html"
+    ],
+    "jg_facilities": [
+      "East Allen County Schools addresses 'critical needs'",
+      "The Journal Gazette",
+      "2024-09-13",
+      "https://www.journalgazette.net/local/schools/east-allen-county-schools-addresses-critical-needs/article_c24e66f0-7068-11ef-8727-976dc47a1936.html"
+    ],
+    "jg_fieldhouse": [
+      "East Allen County Schools celebrates Leo's new fieldhouse",
+      "The Journal Gazette",
+      "2026-10-07",
+      "https://www.journalgazette.net/local/schools/east-allen-county-schools-celebrates-leos-new-fieldhouse/article_41c780af-d429-45f4-80f1-819e806cc2bb.html"
+    ],
+    "jg_vacancy": [
+      "East Allen County Schools board member to resign next month, applicants sought for seat",
+      "The Journal Gazette",
+      "2026-06-24",
+      "https://www.journalgazette.net/local/schools/east-allen-county-schools-board-member-to-resign-next-month-applicants-sought-for-seat/article_396fe3d2-51fc-4a3d-9a9c-23bbec9a4e7c.html"
+    ],
+    "jg_preview22": [
+      "Election Preview: East Allen County Schools",
+      "The Journal Gazette",
+      "2022-10-31",
+      "https://www.journalgazette.net/local/local-government/east-allen-county-schools-candidates-seek-diversity-parent-involvement/article_f976f376-5554-11ed-afad-475cfefe3de2.html"
+    ],
+    "jg_filing22": [
+      "Allen County school board races finalized",
+      "The Journal Gazette",
+      "2022-08-29",
+      "https://www.journalgazette.net/local/schools/allen-county-school-board-races-finalized/article_01ca993c-27b1-11ed-b838-5328cb1b9592.html"
+    ]
+  }
+}

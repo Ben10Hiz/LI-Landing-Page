@@ -1,0 +1,352 @@
+# Indiana School Board Member — 2026 race profile
+
+_Researched 2026-10-10 · status: draft._ Pending editorial review.
+
+## About the office
+
+A school board is the elected or appointed governing body of a public school corporation, the legal unit that runs a local school district [1, 2]. The board hires and evaluates the superintendent, adopts policies, and approves the annual budget, while the superintendent and staff run schools day to day [3]. Most boards have five or seven members serving staggered four-year terms [3]. Starting in 2026, candidates may list a political party, run as independents, or list no affiliation on the ballot, and there is no primary for these seats [2, 4].
+
+- **Term:** 4 years, with elections staggered so part of the board is chosen every two years [3]
+- **Elected:** At the November general election (November 3, 2026, or November 2028 for some seats); depending on the local organization plan, members represent the whole school corporation (at large) or a district within it, and some boards are wholly or partly appointed [2]
+- **Ballot label:** Each candidate chooses a party label, 'Independent', or no affiliation, shown next to the name; no primary and no straight-ticket voting for these races [2, 4]
+- **Pay:** Set by board resolution: an annual amount of no more than 10% of the lowest starting teacher salary in the school corporation, plus a capped per diem [5]
+- **On the 2026 ballot:** 632 races in 299 school corporations; 1,039 candidates [6]
+
+### What the office does
+
+- Hires, evaluates and can dismiss the superintendent, and approves the hiring and firing of principals, teachers and other staff recommended by the superintendent [1, 7, 3].
+- Adopts the annual budget, appropriates funds and oversees school finances [1, 3].
+- Decides whether to ask voters to approve an operating referendum (an extra property tax levy); the board adopts the resolution and the Department of Local Government Finance reviews the ballot language for compliance with state law [8].
+- Approves contracts, buys and sells property, and decides on construction, repair and demolition of school buildings [1].
+- Bargains with the teachers' union over salary, wages and wage-related benefits such as health insurance and retirement; state law excludes teacher evaluation procedures from those bargaining subjects [9].
+- Writes and updates policies and rules for schools, often in a policy handbook, including the student handbook [1, 3].
+- Buys curricular materials, provides them to students without charge, and runs programs such as student transportation and school lunch [1].
+- Must adopt a process for parents and residents to ask that library material be removed as obscene or harmful to minors, review requests at public meetings and keep a public catalog of library materials [10].
+- Hears written appeals of student expulsions, unless the board has voted not to hear them [11].
+- Must take official action openly; Indiana's Open Door Law says public agencies' official action is to be conducted openly so the people may be fully informed [12, 13].
+- A school board member must have lived in the school corporation (and, for a district seat, the district) for at least one year before the election, and a teacher or other employee of the school corporation may not serve on its board [2].
+- What the board does not control: the State Board of Education adopts statewide academic standards [14], the General Assembly sets the state school funding formula in the state budget [15], and voucher (Choice Scholarship) eligibility is set by state law [16].
+
+### Recent changes to the office
+
+- 2025: Senate Enrolled Act 287 allowed school board candidates to declare a party affiliation; the Indiana School Boards Association opposed the change, and a supporter quoted by WNDU, a Noblesville school board member, said it adds transparency [17].
+- 2026: Candidates choose a party, 'Independent' or no affiliation on their nominating petition, and that choice appears on the ballot; a candidate claiming the Democratic or Republican party must have voted in that party's primary in the two most recent primaries they voted in, or have certification from the county party chair, or can be challenged and removed from the ballot [2].
+- July 2026: Chalkbeat reported, citing Indiana School Boards Association data, that 524 of 1,044 candidates chose a party, about 72% of them Republicans [18]; the Indiana Election Division's 2026 guidance and the wording of the law differ on the primary-voting test, a question county election boards decide [19].
+- February 2026: Senate Enrolled Act 25 set the order of school board candidates on the ballot, grouped by party, with candidates who list no affiliation placed after the party and independent candidates [20].
+- 2025: Senate Enrolled Act 1, a property tax law, limits how much operating revenue districts can raise through taxes and restricts school referendums to statewide general elections in even-numbered years [21, 22].
+- 2025: The same law requires districts to share operating revenue with brick-and-mortar charter schools that enroll their students, statewide starting in 2028 [21, 22].
+- 2025: The state budget opened Choice Scholarship vouchers to all Indiana families starting in June 2026 [16].
+- 2026: The Indianapolis Public Education Corporation, rather than the Indianapolis Public Schools board, now certifies Indianapolis Public Schools referendum questions for the ballot [20].
+- 2023: Senate Enrolled Act 391 changed the so-called $1 law so the Indiana Department of Education can order districts that lost at least 10% of enrollment over five years to close schools under 60% capacity and offer them to charter schools [23].
+- 2023: House Enrolled Act 1447 required school districts to set up procedures for complaints that library material is obscene or harmful to minors [10].
+
+## This race
+
+- Warsaw Community Schools serves Warsaw and surrounding Kosciusko County; fall 2025 enrollment was 6,619 students, down from 6,762 in fall 2020, and the district has eight elementary schools [24].
+- The superintendent is Dr. David Hoffert [24, 25].
+- The Board of School Trustees has seven members, each representing a numbered district (Districts 1 through 7) [26].
+- Four seats are on the 2026 ballot: Districts 1, 2, 5 and 7; each elects one member [27, 6].
+- District 1: incumbent Tom Westerhof, finishing his first four-year term, is challenged by first-time candidate Heather M. Helton [28].
+- District 2: board President Heather Reichenbach, on the board since January 2015, is unopposed for a fourth term [29, 27].
+- District 5: Denny Duncan, finishing his first four-year term, is unopposed [29, 27].
+- District 7: the seat is held by Bradly Johnson, who is not on the ballot; Ben Rice and Ryan Parker both filed, but Rice announced in August 2026 that he had withdrawn and asked supporters to vote for Parker, and his name remains on the ballot because state deadlines had passed [27, 30, 6].
+- Enrollment outlook (October 2025): a demographer told the board enrollment has been declining slowly and is expected to fall by about 200 more students over 10 years, with Claypool Elementary projected to drop to about 150 to 200 students; Hoffert said the district is watching Claypool's numbers because of cost and equity across its elementary schools [24].
+- Budget (October 2025): the board adopted a 2026 budget of $105,241,306, including a $56.2 million education fund, a $27.1 million operations fund and a $17.6 million debt service fund [24].
+- Middle school consolidation (July 2026): the board held its second preliminary determination hearing on a plan to combine Lakeview and Edgewood middle schools at Lakeview and repurpose Edgewood for Gateway and Warsaw Area Career Center programs; the estimated cost is $108 million ($119 million with escalation) under a proposed maximum bond authorization of $143 million, which the CFO said would be paid through the existing debt service fund without a higher debt service levy, and Hoffert said the district chose not to pursue a referendum [25].
+- Strategic plan: the district launched a new five-year strategic plan in August 2026 built around four priorities: Life-Ready Learners, Engaged Families & Community, Aligned Operations & Administration, and Dedicated Teachers & Staff [31].
+- No 2026 candidate forum was found. InkFreeNews published questionnaire answers from both District 1 candidates in October 2026 [28].
+- Key differences in District 1: Westerhof emphasized continuing the district's conservative fiscal planning and using assessment data to raise scores; Helton emphasized communication and transparency with parents, staff and taxpayers, educator support and life-readiness skills [28].
+
+## Heather Michelle Helton — District 1
+
+Educator and first-time candidate running as a Libertarian against incumbent Tom Westerhof [28, 6].
+
+### Background
+
+- Describes herself as an educator who has worked with students from kindergarten through post-high school programs [28].
+
+### Path to the ballot
+
+- Listed on the ballot as the Libertarian candidate for District 1 [6].
+- First run for office, according to InkFreeNews [28].
+
+### Positions & plans
+
+**Academics**
+
+- Lists student achievement and growth and "life readiness" (employment, financial responsibility, communication and independence) among the board's priorities for the next four years [28].
+- Would measure success with academic growth, graduation and post-secondary outcomes, attendance, discipline and school climate data, staff retention and participation in career or life-readiness opportunities [28].
+- Supports implementing technology, including artificial intelligence, "thoughtfully" with professional development for educators [28].
+
+**Teachers & staff**
+
+- Wants educators to have the resources, training and professional support to do their jobs, and says she is not running "to tell educators how to teach or to micromanage" daily operations [28].
+
+**Transparency & community input**
+
+- Her main proposed improvement is stronger transparency and communication between the board and the community, including making sure taxpayers understand how money is used [28].
+- Says a board should listen to the community throughout the year, "not just during an election" [28].
+
+### On the current officeholder
+
+- Did not criticize specific board decisions in her questionnaire; said she would not expect to agree with every board or administrative decision and would make the case for reconsidering a policy when she disagreed [28].
+
+### How they say they'd run the office
+
+- Would respond to disagreements by listening, reviewing data and asking questions, and would respect board decisions once made [28].
+
+### Endorsements & fundraising
+
+- No endorsements or campaign finance reports for this race were found in local coverage.
+
+### What we couldn't verify
+
+- Her current employer and position were not reported.
+- No campaign website or social media page was found.
+- No campaign finance filings were found.
+
+## Tom Westerhof — District 1
+
+Incumbent finishing his first four-year term, running as a Republican [28, 6].
+
+### Background
+
+- Grew up in the Warsaw area and graduated from Warsaw Community High School and Grace College, according to his district board biography [26].
+- His board biography says he has worked about 20 years in purchasing at Indiana University and that he had two children in Warsaw schools when he ran [26].
+- Serves on the boards of CASA of Kosciusko County and the Warsaw Education Foundation, according to his board biography [26].
+
+### Path to the ballot
+
+- Listed on the ballot as the Republican candidate for District 1 [6].
+
+### Positions & plans
+
+**Budget & taxes**
+
+- Said he is proud of how "fiscally conservative" the district has been under Superintendent Hoffert and its CFOs, saying WCS has "stayed ahead of the curve" while other schools face difficult financial decisions [28].
+
+**Academics**
+
+- Wants the district to use data to identify where it is succeeding and where it is not, and to keep state assessment scores rising after the dip during COVID [28].
+
+### On the current officeholder
+
+- Is a current board member.
+- Describes the board's role as setting policy and hiring the superintendent to carry it out, and says disagreements should be handled through honest communication [28].
+
+### How they say they'd run the office
+
+- Says he will keep focusing on assessment results, measuring the district against itself to keep scores improving [28].
+
+### Endorsements & fundraising
+
+- No endorsements or campaign finance reports for this race were found in local coverage.
+
+### What we couldn't verify
+
+- Whether he still works at Indiana University was not confirmed in 2026 coverage.
+- No campaign website found.
+- No campaign finance filings were found.
+
+## Heather Reichenbach — District 2
+
+Incumbent and board president since at least 2025, unopposed for a fourth term; a Republican on the ballot list [29, 27, 6].
+
+### Background
+
+- Vice president of community engagement at the Kosciusko County Community Foundation [29].
+- Former social studies teacher in Iowa and former administrative assistant to the principal at Madison Elementary, according to her board biography [26].
+- Vice chair of the Bluffton University Board of Trustees and vice president of the Wagon Wheel Center for the Arts board [29].
+- Serves as second vice president of the Indiana School Boards Association, according to information she provided to the Times-Union [27].
+- Describes herself as a parent and former educator; her children graduated from Warsaw schools [29, 27].
+
+### Path to the ballot
+
+- Filed for reelection on the first day of filing in May 2026 [27].
+- Listed on the ballot as a Republican; unopposed [6, 29].
+
+### Positions & plans
+
+**Academics**
+
+- Cites the district's range of programs, including STEM, dual language immersion, Leader in Me, AP and dual credit courses and work-based learning, and says she values that WCS has "something for every student" [29].
+
+**Budget & taxes**
+
+- Has said understanding school budgets and funding categories takes "time and diligence" because they differ from business and household budgets, according to her board biography [26].
+
+### On the current officeholder
+
+- Is a current board member and board president.
+- Said the district has done "a lot of things within the schools to offer opportunities for students" during her tenure [27].
+
+### How they say they'd run the office
+
+- Wants to continue "building on the strengths" of the district with long-term planning and collaboration [29].
+
+### Endorsements & fundraising
+
+- Unopposed. No endorsements or campaign finance reports for this race were found in local coverage.
+
+### What we couldn't verify
+
+- A search result said the Indiana School Boards Association named her school board member of the year for 2025; this was not confirmed on a fetched page.
+- Her votes on specific 2025-26 decisions, such as the middle school consolidation, were not reported in fetched coverage.
+
+## Denny Duncan — District 5
+
+Incumbent finishing his first four-year term and retired Warsaw elementary principal; unopposed and listed as a Republican [29, 6].
+
+### Background
+
+- Spent his career at Warsaw Community Schools as a teacher, assistant principal at Warsaw Community High School and about 18 years as principal of Jefferson Elementary [29, 27].
+- Later worked as alumni director at Grace College and taught adjunct classes there [27].
+- His board biography lists his current work as a real estate agent with the Brian Peterson Real Estate Group [26].
+- Has served on the boards of United Way of Kosciusko County, Grace Village, Indiana Lakes Federal Credit Union and the Winona Lake Town Board, according to his board biography [26].
+- His children graduated from Warsaw schools and he has grandchildren enrolled [29].
+
+### Path to the ballot
+
+- Filed for reelection on the first day of filing in May 2026 [27].
+- Listed on the ballot as a Republican; unopposed [6, 29].
+
+### Positions & plans
+
+**Transparency & community input**
+
+- Says the board's job is "to hire quality people and to let them do their job without … undue interference" [29].
+
+### On the current officeholder
+
+- Is a current board member.
+- Said he has "extreme confidence" in Superintendent David Hoffert's judgment [29].
+
+### How they say they'd run the office
+
+- Wants the board to continue providing "opportunities for all students" throughout the district [27].
+
+### Endorsements & fundraising
+
+- Unopposed. No endorsements or campaign finance reports for this race were found in local coverage.
+
+### What we couldn't verify
+
+- Few policy-specific statements were found.
+
+## Benjamin Rice — District 7
+
+Lake City Bank commercial banking officer who announced in August 2026 that he had withdrawn from the race; his name remains on the ballot [32, 30].
+
+### Background
+
+- Vice president and commercial banking officer at Lake City Bank [32].
+- Treasurer of the Warsaw Community Public Library board of trustees and a member of the Warsaw Education Foundation board [32, 27].
+- Warsaw Community High School graduate and parent of children in the district [32].
+
+### Path to the ballot
+
+- Announced his candidacy in May 2026 and filed for District 7 [32, 27].
+- Listed on the ballot as a Republican [6].
+- Announced in August 2026 that he is no longer an active candidate; his name stays on the ballot because state deadlines had passed [30].
+
+### Positions & plans
+
+**Budget & taxes**
+
+- When he entered the race, said board members should make "thoughtful, fiscally sound decisions that always put students first" [32].
+
+### On the current officeholder
+
+- No statements on the current board's decisions were found.
+
+### How they say they'd run the office
+
+- Has withdrawn; asked voters who planned to support him to vote for Ryan Parker [30].
+
+### Endorsements & fundraising
+
+- Endorsed Ryan Parker after withdrawing [30]. No campaign finance reports were found.
+
+### What we couldn't verify
+
+- How votes cast for him would be handled if he received the most votes was not addressed in fetched coverage.
+
+## Ryan M. Parker — District 7
+
+Claypool-area farmer and first-time candidate for an open seat, listed as a Republican; the only active candidate after Ben Rice withdrew [29, 30].
+
+Campaign website: https://script.google.com/macros/s/AKfycbwXiBKk4FI2XsMwdjXQrzB3_fOUyDUCxT2i1K-oVSQoUTiso1fPxsoPNxh-28FggP7x/exec
+
+### Background
+
+- Operates his own farm and cattle operation in Claypool and is part of a family business [29]; the Times-Union reported he has an equipment business/dealership [27].
+- Tippecanoe Valley High School graduate with an associate degree in agricultural business from Vincennes University [29].
+- Assistant coach for the Claypool Knights basketball team [29].
+- Parent of three children who attended Warsaw schools, including Claypool Elementary [29].
+
+### Path to the ballot
+
+- Filed for District 7 in May 2026 [27].
+- Listed on the ballot as a Republican [6].
+
+### Positions & plans
+
+**Teachers & staff**
+
+- His website, as quoted by InkFreeNews, calls teachers and staff the "heart of our schools" and says they need trust, respect and resources [29].
+
+**School safety**
+
+- His website, as quoted by InkFreeNews, says decisions should "keep students at the center and support safe, challenging and encouraging schools" [29].
+
+### On the current officeholder
+
+- Said his family's experience with the schools "has been great" [27].
+
+### How they say they'd run the office
+
+- Wants board decision-making to be as efficient as possible while putting students and staff first [27].
+
+### Endorsements & fundraising
+
+- Endorsed by Ben Rice after Rice withdrew [30]. No campaign finance reports were found.
+
+### What we couldn't verify
+
+- His campaign website loads its content dynamically and could not be read directly; positions are taken from InkFreeNews's description of it.
+- No questionnaire answers were found.
+
+## Sources
+
+1. [Indiana Code 20-26-5-4: Specific powers of governing body](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-5-4/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+2. [2026 Indiana Candidate Guide (School Board Offices)](https://www.in.gov/dA/1eada35c3e/2026-Candidate-Guide.FINAL.pdf) — Indiana Election Division, accessed 2026-10-10
+3. [800 school board seats are up for election in Indiana](https://chalkbeat.org/indiana/2024/06/13/school-board-seats-up-for-election-in-indiana-in-2024) — Chalkbeat Indiana / WFYI, 2024-06-13
+4. [Why there are no education elections on your primary ballot](https://www.chalkbeat.org/indiana/2026/04/07/primary-election-ballot-changes-exclude-education-races-and-referendums/) — Chalkbeat Indiana, 2026-04-07
+5. [Indiana Code 20-26-4-7: Compensation of governing body members](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-4-7/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+6. [2026 General Election Candidate List](https://www.in.gov/sos/elections/candidate-information/) — Indiana Election Division, 2026-09-22
+7. [Indiana Code 20-26-5-4.5: Selection and discharge of employees](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-5-4-5/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+8. [School Tax Levy Referendum](https://www.in.gov/dlgf/referendum-information/school-tax-levy-referendum/) — Indiana Department of Local Government Finance, accessed 2026-10-10
+9. [Indiana Code 20-29-6-4: Subjects of collective bargaining](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-29-6-4/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+10. [Obscene, or just objectionable? Here's how Indiana schools are tackling library book complaints](https://arnoltcenter.org/?p=1345) — Arnolt Center for Investigative Journalism / Indiana Capital Chronicle, 2024-02-05
+11. [Indiana Code 20-33-8-19: Expulsion appeals](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-33-8-19/) — FindLaw (Indiana Code), accessed 2026-10-10
+12. [Indiana Code 5-14-1.5-1: Open Door Law policy](https://codes.findlaw.com/in/title-5-state-and-local-administration/in-code-sect-5-14-1-5-1/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+13. [What We Do](https://www.in.gov/pac/about-us/what-we-do/) — Indiana Public Access Counselor, accessed 2026-10-10
+14. [Indiana Code 20-31-3-1: State academic standards](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-31-3-1/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+15. [Indiana K-12 State Tuition Support Annual Report FY2023](https://www.in.gov/doe/files/2023-Tuition-Support-Report.pdf) — Indiana Department of Education, 2023
+16. [Indiana lawmakers expand voucher eligibility, increase school funding in budget](https://chalkbeat.org/indiana/2025/04/24/vouchers-for-all-start-in-2026-budget-year) — Chalkbeat Indiana, 2025-04-24
+17. [Indiana school board candidates split 50-50 on affiliating with a party](https://www.wndu.com/2026/07/20/indiana-school-board-candidates-split-50-50-affiliating-with-party/) — WNDU, 2026-07-20
+18. [5 takeaways from Chalkbeat's panel on Indiana's changes to school board elections and referendums](https://www.chalkbeat.org/indiana/2026/07/10/indiana-school-board-elections-partisan-referendums-takeaways/) — Chalkbeat Indiana, 2026-07-10
+19. [Confusion on partisan school board law puts two IPS candidates' spots at risk](https://www.chalkbeat.org/indiana/2026/07/27/confusion-on-partisan-schoolboard-threatens-ips-ballot-spots/) — Chalkbeat Indiana, 2026-07-27
+20. [2026 Indiana Election Legislation Summary](https://www.in.gov/dA/d13ecb1f55/2026-Indiana-Election-Legislation-Summary.FINAL.pdf) — Indiana Election Division, 2026
+21. [Indiana school referendum elections: Districts seek funding for teacher pay, class size, buses](https://www.chalkbeat.org/indiana/2025/10/27/schools-property-tax-referendum-election-2025) — Chalkbeat Indiana, 2025-10-27
+22. [Indiana school district referendum guide 2026: What to know about your district's requested tax increase](https://www.wvxu.org/2026-08-17/indiana-school-district-referendum-guide-2026-what-to-know-about-your-districts-requested-tax-increase) — WFYI and Chalkbeat Indiana (via WVXU), 2026-08-17
+23. [Indiana charter schools could now have an easier path to acquiring district buildings](https://www.chalkbeat.org/indiana/2023/6/11/23755769/indiana-charters-acquire-traditional-public-school-buildings-underutilized-enrollment) — Chalkbeat Indiana, 2023-06-11
+24. [Warsaw Schools' Enrollment Projected To Decrease Over Next 10 Years](https://www.inkfreenews.com/2025/10/28/warsaw-schools-enrollment-projected-to-decrease-over-next-10-years/) — InkFreeNews, 2025-10-28
+25. [Warsaw Community Schools Moves Forward With Combining Lakeview, Edgewood](https://timesuniononline.com/stories/warsaw-community-schools-moves-forward-with-combining-lakeview-edgewood,293185) — Times-Union, 2026-07-21
+26. [School Board Members](https://www.warsaw.k12.in.us/schoolboard) — Warsaw Community Schools, 2026-10
+27. [Four File For Warsaw School Board Election](https://timesuniononline.com/stories/four-file-for-warsaw-school-board-election,284891) — Times-Union, 2026-05-19
+28. [Westerhof, Helton Running For Warsaw School Board District 1](https://www.inkfreenews.com/2026/10/06/westerhof-running-for-warsaw-school-board-district-1/) — InkFreeNews, 2026-10-06
+29. [Duncan, Parker, Reichenbach Uncontested In Various Warsaw School Board Districts](https://www.inkfreenews.com/2026/10/06/duncan-parker-reichenbach-uncontested-in-various-warsaw-school-board-districts/) — InkFreeNews, 2026-10-06
+30. [Ben Rice Announces Withdrawal from Warsaw Community Schools Board Race](https://www.timesuniononline.com/stories/ben-rice-announces-withdrawal-from-warsaw-community-schools-board-race,297436) — Times-Union, 2026-08-23
+31. [Warsaw Community Schools Launches 2026-27 School Year](https://www.inkfreenews.com/2026/08/06/warsaw-community-schools-launches-2026-27-school-year/) — InkFreeNews, 2026-08-06
+32. [Ben Rice Announces Candidacy for Warsaw Community Schools' Board](https://www.inkfreenews.com/2026/05/26/ben-rice-announces-candidacy-for-warsaw-community-schools-board/) — InkFreeNews, 2026-05-26
