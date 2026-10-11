@@ -1,0 +1,283 @@
+{
+ "race_id": "in-school-board-henry-new-castle",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "New Castle Community School Corporation serves the city of New Castle, Henry Township and part of Liberty Township in Henry County {wiki_nccsc}. It runs New Castle High School, New Castle Middle School, the New Castle Career Center and five elementary schools (Eastwood, Parker, Riley, Westwood and Wilbur Wright) {wiki_nccsc}{ct_iread26}. State enrollment counts were 2,949 students in 2023-24, 2,881 in 2024-25 and 2,937 in 2025-26, down from 4,030 in 2005-06 {idoe_enroll}.",
+  "Superintendent: Dr. Matthew Shoemaker, who joined the corporation in 2017 {ct_localsup24}. In July 2026 the board approved a new contract for him 4-1; Jaci Hadsell voted no after proposing a one-month delay over his pay package relative to staff pay. Josh Estelle, Nan Polk, Seth Lee and Jamey Marcum spoke in support {ct_sup26}.",
+  "The board has five members. County results show an 'Inside' seat and an 'Outside' seat filled in 2022, and an at-large seat and two Inside seats filled in 2024 {hc_2022_results}{hc_2024_results}. As of July 2026 the members were President Seth Lee, Josh Estelle, Jaci Hadsell, Nan Polk and Jamey Marcum {ct_sup26}. Polk is also the Democratic candidate for Indiana House District 54 on this ballot {ct_bh26}{ct_cands26}.",
+  "Inside seat on the 2026 ballot: Seth Lee won it in 2022 over Jeremy Fewell, 3,306 votes to 1,750 {hc_2022_results}{ct_win22}. He is unopposed {ct_cands26}{hc_2026_list}.",
+  "Outside seat on the 2026 ballot: John Griffith won it in 2022 {hc_2022_results}{ct_win22}. Griffith died May 31, 2025, and Jamey Marcum was appointed to serve the rest of the term in July 2025 {ct_marcum25}. Marcum is not on the 2026 candidate list. The candidates are Josh Estelle and Kenon Gray, both listed as Republicans; voters choose one {ct_cands26}{hc_2026_list}.",
+  "Seat-count check: the state list's 'vote for 1' matches the county list for both races {in_list}{ct_cands26}.",
+  "Budget and SEA 1 (2025-2026): in November 2025 Shoemaker said the corporation expected to lose $2 million a year from the property-tax cuts in the 2025 law, that its $1.18 tax rate would have to rise above $1.50 to keep the same funding, and that the district would need to 'think outside the box' to avoid a referendum. The first step was ending night custodian positions, with no current employee losing a job {ct_tc25}. In January 2026 he said custodians had been cut by 12 and one central-office position eliminated {ct_meetkids26}{ct_award26}. He also said child-care voucher payments that funded pre-K at five elementary schools had been cut 66 percent {ct_meetkids26}.",
+  "Teacher contracts: in November 2025 the board approved a contract raising starting pay $500 to $50,000 {ct_tc25}. A public hearing on another tentative bargaining agreement was set for Oct. 13, 2026 {ct_briefs_oct3}{ct_iread26}.",
+  "Facilities: in June 2025 the board approved $6.6 million in projects funded through a lease with its building corporation, including security cameras, the Fieldhouse floor and the Career Center roof, with bus replacement and partial roof work at other buildings planned through 2030 {ct_fund25}{ct_marcum25}.",
+  "Hoosier Youth Challenge Academy: the National Guard program in Knightstown, whose cadets New Castle schools educate, closed June 30, 2026; in February 2026 Shoemaker told the board the district was responsible for 95 students there {ct_award26}{ct_hyca26}.",
+  "Enrollment: in October 2024 The Courier-Times reported a hiring freeze because elementary enrollment had dropped by 60 students; at the same meeting Shoemaker said the only realistic way to pay non-certified staff more was to employ fewer of them {ct_crowd24}.",
+  "Academics: the district reported that 94.1 percent of its students passed the 2025-26 IREAD-3 reading test, against a state average of 82 percent; staff credited the Core Knowledge Language Arts curriculum adopted three years earlier {ct_iread26}.",
+  "School safety: in September 2026 the district received an $86,000 state Secured School Safety matching grant {ct_safety26}.",
+  "Forums: this guide found no 2026 candidate forum or questionnaire for the New Castle races. Kenon Gray issued a candidacy announcement printed in The Courier-Times {ct_gray26}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Seth Lee",
+   "seat": "Inside",
+   "summary": "Incumbent and board president, running unopposed; listed as Republican {ct_sup26}{ct_cands26}.",
+   "website": null,
+   "background": [
+    "2005 New Castle High School graduate; stepped down as an assistant varsity football coach to run in 2022 {ct_win22}.",
+    "Parent of students in the district (2022) {ct_win22}. Listed in November 2025 as a volunteer basketball coach {ct_tc25}."
+   ],
+   "path_to_ballot": [
+    "Listed as Republican on the state and county 2026 lists; no other candidate filed for the Inside seat {in_list}{hc_2026_list}.",
+    "In 2022 he ran for the open Inside seat vacated by Corey Bennett {ct_file22}. He won it, when no party labels were shown, with 3,306 votes to Jeremy Fewell's 1,750 {hc_2022_results}{ct_win22}."
+   ],
+   "positions": [
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "In 2022 he said he wanted to 'empower our teachers to teach what they are hired to teach and continuing to improve on their compensation' {ct_win22}."
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "In 2022 he named student and faculty safety as a key issue {ct_win22}."
+     ]
+    },
+    {
+     "topic": "Enrollment & school choice",
+     "items": [
+      "In 2022 he named increasing enrollment and improving teacher retention as key issues {ct_win22}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member and board president. At the July 2026 vote on the superintendent's contract he credited Shoemaker with changing a nearly insolvent school corporation into a financially successful one, as paraphrased by The Courier-Times {ct_sup26}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No 2026 campaign statements, questionnaire, website, endorsements or finance reports found.",
+    "Occupation not found."
+   ]
+  },
+  {
+   "ballot_name": "Josh Estelle",
+   "seat": "Outside",
+   "summary": "Current board member, elected to an Inside seat in 2024, now running for the Outside seat; listed as Republican {hc_2024_results}{ct_cands26}.",
+   "website": null,
+   "background": [
+    "Partner/owner at McGowan Insurance; said in 2024 he had been in business 25 years and insures many schools and public entities, which he said gave him 'a good handle on funding, budgets, state board of accounts' {ct_est24}.",
+    "Said in 2024 that he grew up in New Castle and has lived there his whole life {ct_est24}. Listed in November 2025 as a volunteer basketball coach {ct_tc25}."
+   ],
+   "path_to_ballot": [
+    "Listed as Republican on the state and county 2026 lists for the Outside seat {in_list}{hc_2026_list}.",
+    "In 2024 he and Jaci Hadsell were the only candidates for two Inside seats; he received 6,197 votes and Hadsell 5,414 {hc_2024_results}."
+   ],
+   "positions": [
+    {
+     "topic": "School safety",
+     "items": [
+      "Named school safety as a top issue in his 2024 questionnaire {ct_est24}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Said in 2024: 'We need to continue to work toward higher compensation for all staff so that we can attract and retain top talent in administration and teaching positions' {ct_est24}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Said in 2024 the district should keep expanding college courses, internships and other programs 'so we have something that fits all student's needs' {ct_est24}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member. At the July 2026 contract vote he agreed with Hadsell that the next five to six years would be hard because of funding cuts, but said he believes Shoemaker is a proven leader with the skills to handle future issues, as paraphrased by The Courier-Times {ct_sup26}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No 2026 campaign statements, questionnaire, website, endorsements or finance reports found; his positions above are from his 2024 questionnaire.",
+    "Not explained in any source found: why he is running for the Outside seat while holding an Inside seat elected in 2024 (term normally through 2028), and what would happen to the Inside seat if he wins."
+   ]
+  },
+  {
+   "ballot_name": "Kenon Gray",
+   "seat": "Outside",
+   "summary": "Retired New Castle High School associate principal and Henry County Council member; listed as Republican {ct_gray26}{ct_cands26}.",
+   "website": null,
+   "background": [
+    "According to his own announcement: retired in 2018 after 21 years as associate principal at New Castle High School and 39 years in education; earlier principal at Union High School (Modoc), vice principal at Tri High School, and a library media specialist at Northeastern High School {ct_gray26}.",
+    "According to his announcement, he is in his eighth and final year on the Henry County Council, three of them as president, and serves on the county Planning Commission, the Hope Initiative board and the Eastern Indiana Regional Planning Commission {ct_gray26}.",
+    "His announcement says he helped create the Henry County School Safety Commission and wrote grants bringing $400,000 in state school safety funds for school resource officers, cameras and a visitor sign-in system {ct_gray26}."
+   ],
+   "path_to_ballot": [
+    "Listed as Republican on the state and county 2026 lists for the Outside seat {in_list}{hc_2026_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Said he is running because with nearly 40 years in education he has 'something positive to offer to the students, teachers and support staff to help make this vibrant school district even better' (his own announcement) {ct_gray26}."
+     ]
+    }
+   ],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No statements found on SEA 1, the budget, the superintendent contract or other current board decisions.",
+    "No questionnaire, website, endorsements or finance reports found.",
+    "Background details come from his own announcement and were not independently checked."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "hc_2026_list": [
+   "2026 General Election Candidate List",
+   "Henry County Voter Registration",
+   "2026-08",
+   "https://www.henrycounty.in.gov/DocumentCenter/View/944/2026-GENERAL-ELECTION-CANDIDATE-LIST-PDF"
+  ],
+  "hc_2022_results": [
+   "2022 General Election Official Results",
+   "Henry County",
+   "2022-11-18",
+   "https://www.henrycounty.in.gov/DocumentCenter/View/666/2022-General-Election-Results"
+  ],
+  "hc_2024_results": [
+   "2024 General Election Official Results",
+   "Henry County",
+   "2024-11-18",
+   "https://www.henrycounty.in.gov/DocumentCenter/View/809/2024-GENERAL-ELECTION-RESULTS-PDF"
+  ],
+  "ct_cands26": [
+   "2026 General Election Candidates",
+   "The Courier-Times",
+   "2026-10-03",
+   "https://www.thecouriertimes.com/news/2026-general-election-candidates/article_3b530ff5-7fe2-5b0e-ad41-470b69c73b6b.html"
+  ],
+  "idoe_enroll": [
+   "Corporation Enrollment by Grade Level, 2006-26",
+   "Indiana Department of Education",
+   "2026",
+   "https://www.in.gov/doe/files/corporation-enrollment-grade-2006-26.xlsx"
+  ],
+  "wiki_nccsc": [
+   "New Castle Community School Corporation",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/New_Castle_Community_School_Corporation"
+  ],
+  "ct_file22": [
+   "School Board seats up for grabs in general election; Deadline to file is noon Aug. 26",
+   "The Courier-Times",
+   "2022-08-18",
+   "https://www.thecouriertimes.com/news/school-board-seats-up-for-grabs-in-general-election-deadline-to-file-is-noon-aug/article_07b9d015-de89-5636-9ebc-962fd11a4fdf.html"
+  ],
+  "ct_win22": [
+   "Griffith, Lee win seats on New Castle School Board",
+   "The Courier-Times",
+   "2022-11-11",
+   "https://www.thecouriertimes.com/news/griffith-lee-win-seats-on-new-castle-school-board/article_d96d5fab-70e7-584d-86d2-478ed32ec8c8.html"
+  ],
+  "ct_est24": [
+   "Josh Estelle (candidate questionnaire)",
+   "The Courier-Times",
+   "2024-10-22",
+   "https://www.thecouriertimes.com/news/josh-estelle/article_5f21506b-abc4-5df2-b6c9-4dfe08cf150c.html"
+  ],
+  "ct_crowd24": [
+   "Large crowd attends October school board meeting",
+   "The Courier-Times",
+   "2024-10-22",
+   "https://www.thecouriertimes.com/news/large-crowd-attends-october-school-board-meeting/article_d5d6dd4f-f0f0-5fcf-909d-1abd636635f0.html"
+  ],
+  "ct_localsup24": [
+   "Local schools need local support",
+   "The Courier-Times",
+   "2024-12-31",
+   "https://www.thecouriertimes.com/news/local-schools-need-local-support/article_9f53fec1-6037-507f-8200-e3b0cd197bf3.html"
+  ],
+  "ct_fund25": [
+   "Board discusses funding renovations and school improvements",
+   "The Courier-Times",
+   "2025-06-13",
+   "https://www.thecouriertimes.com/news/board-discusses-funding-renovations-and-school-improvements/article_725dde38-920f-5a9c-9736-979ec732b514.html"
+  ],
+  "ct_marcum25": [
+   "Marcum rejoins Trojan school board",
+   "The Courier-Times",
+   "2025-07-22",
+   "https://www.thecouriertimes.com/news/marcum-rejoins-trojan-school-board/article_ba7a85ee-c27e-5ce4-af91-9f50bcf5d7e3.html"
+  ],
+  "ct_tc25": [
+   "New Castle School Board approves teacher contracts, personnel changes",
+   "The Courier-Times",
+   "2025-11-14",
+   "https://www.thecouriertimes.com/news/new-castle-school-board-approves-teacher-contracts-personnel-changes/article_e56d18a1-9f12-5d04-961c-d41b5cdc5e3d.html"
+  ],
+  "ct_meetkids26": [
+   "'Meet kids where they are'",
+   "The Courier-Times",
+   "2026-01-21",
+   "https://www.thecouriertimes.com/news/meet-kids-where-they-are/article_6d94719b-7449-5162-a27c-af540267e2c3.html"
+  ],
+  "ct_award26": [
+   "An awarding school board meeting",
+   "The Courier-Times",
+   "2026-02-19",
+   "https://www.thecouriertimes.com/news/an-awarding-school-board-meeting/article_78a8916a-a0d2-589d-b0e0-c276c9c0429a.html"
+  ],
+  "ct_hyca26": [
+   "Knightstown's Hoosier Youth Challenge Academy closing",
+   "The Courier-Times",
+   "2026-02-11",
+   "https://www.thecouriertimes.com/news/knightstowns-hoosier-youth-challenge-academy-closing/article_61df6756-4691-56c6-a8f1-e1126337fc46.html"
+  ],
+  "ct_sup26": [
+   "New Castle approves new contract for superintendent",
+   "The Courier-Times",
+   "2026-07-20",
+   "https://www.thecouriertimes.com/news/new-castle-approves-new-contract-for-superintendent/article_75850aee-831e-5c09-b0d8-185eb9aa2169.html"
+  ],
+  "ct_gray26": [
+   "Gray announces candidacy in New Castle School Board outside seat race (provided by Kenon Gray)",
+   "The Courier-Times",
+   "2026-08-08",
+   "https://www.thecouriertimes.com/news/gray-announces-candidacy-in-new-castle-school-board-outside-seat-race/article_f188102b-8b5d-5296-b340-d52413f273d1.html"
+  ],
+  "ct_iread26": [
+   "New Castle school board recognizes REMC, celebrates IREAD scores",
+   "The Courier-Times",
+   "2026-09-19",
+   "https://www.thecouriertimes.com/news/new-castle-school-board-recognizes-remc-celebrates-iread-scores/article_0a84ee03-5713-5b9a-973f-4beed8f24aa7.html"
+  ],
+  "ct_safety26": [
+   "State awards fund safety upgrades for local schools",
+   "The Courier-Times",
+   "2026-09-19",
+   "https://www.thecouriertimes.com/news/state-awards-fund-safety-upgrades-for-local-schools/article_59f314d6-045b-5faf-8bc4-e449f1e8ea17.html"
+  ],
+  "ct_briefs_oct3": [
+   "Local briefs",
+   "The Courier-Times",
+   "2026-10-03",
+   "https://www.thecouriertimes.com/news/local-briefs/article_fccfea59-f5dd-5b8d-ae99-fe3ff7c9ebb0.html"
+  ],
+  "ct_bh26": [
+   "Boss Hog of Liberty 461: Candidate series begins",
+   "The Courier-Times",
+   "2026-10-07",
+   "https://www.thecouriertimes.com/news/boss-hog-of-liberty-461-candidate-series-begins/article_0add6a55-b534-5651-8e07-f7c23949019e.html"
+  ]
+ }
+}

@@ -1,0 +1,207 @@
+# Indiana School Board Member — 2026 race profile
+
+_Researched 2026-10-10 · status: draft._ Pending editorial review.
+
+## About the office
+
+A school board is the elected or appointed governing body of a public school corporation, the legal unit that runs a local school district [1, 2]. The board hires and evaluates the superintendent, adopts policies, and approves the annual budget, while the superintendent and staff run schools day to day [3]. Most boards have five or seven members serving staggered four-year terms [3]. Starting in 2026, candidates may list a political party, run as independents, or list no affiliation on the ballot, and there is no primary for these seats [2, 4].
+
+- **Term:** 4 years, with elections staggered so part of the board is chosen every two years [3]
+- **Elected:** At the November general election (November 3, 2026, or November 2028 for some seats); depending on the local organization plan, members represent the whole school corporation (at large) or a district within it, and some boards are wholly or partly appointed [2]
+- **Ballot label:** Each candidate chooses a party label, 'Independent', or no affiliation, shown next to the name; no primary and no straight-ticket voting for these races [2, 4]
+- **Pay:** Set by board resolution: an annual amount of no more than 10% of the lowest starting teacher salary in the school corporation, plus a capped per diem [5]
+- **On the 2026 ballot:** 632 races in 299 school corporations; 1,039 candidates [6]
+
+### What the office does
+
+- Hires, evaluates and can dismiss the superintendent, and approves the hiring and firing of principals, teachers and other staff recommended by the superintendent [1, 7, 3].
+- Adopts the annual budget, appropriates funds and oversees school finances [1, 3].
+- Decides whether to ask voters to approve an operating referendum (an extra property tax levy); the board adopts the resolution and the Department of Local Government Finance reviews the ballot language for compliance with state law [8].
+- Approves contracts, buys and sells property, and decides on construction, repair and demolition of school buildings [1].
+- Bargains with the teachers' union over salary, wages and wage-related benefits such as health insurance and retirement; state law excludes teacher evaluation procedures from those bargaining subjects [9].
+- Writes and updates policies and rules for schools, often in a policy handbook, including the student handbook [1, 3].
+- Buys curricular materials, provides them to students without charge, and runs programs such as student transportation and school lunch [1].
+- Must adopt a process for parents and residents to ask that library material be removed as obscene or harmful to minors, review requests at public meetings and keep a public catalog of library materials [10].
+- Hears written appeals of student expulsions, unless the board has voted not to hear them [11].
+- Must take official action openly; Indiana's Open Door Law says public agencies' official action is to be conducted openly so the people may be fully informed [12, 13].
+- A school board member must have lived in the school corporation (and, for a district seat, the district) for at least one year before the election, and a teacher or other employee of the school corporation may not serve on its board [2].
+- What the board does not control: the State Board of Education adopts statewide academic standards [14], the General Assembly sets the state school funding formula in the state budget [15], and voucher (Choice Scholarship) eligibility is set by state law [16].
+
+### Recent changes to the office
+
+- 2025: Senate Enrolled Act 287 allowed school board candidates to declare a party affiliation; the Indiana School Boards Association opposed the change, and a supporter quoted by WNDU, a Noblesville school board member, said it adds transparency [17].
+- 2026: Candidates choose a party, 'Independent' or no affiliation on their nominating petition, and that choice appears on the ballot; a candidate claiming the Democratic or Republican party must have voted in that party's primary in the two most recent primaries they voted in, or have certification from the county party chair, or can be challenged and removed from the ballot [2].
+- July 2026: Chalkbeat reported, citing Indiana School Boards Association data, that 524 of 1,044 candidates chose a party, about 72% of them Republicans [18]; the Indiana Election Division's 2026 guidance and the wording of the law differ on the primary-voting test, a question county election boards decide [19].
+- February 2026: Senate Enrolled Act 25 set the order of school board candidates on the ballot, grouped by party, with candidates who list no affiliation placed after the party and independent candidates [20].
+- 2025: Senate Enrolled Act 1, a property tax law, limits how much operating revenue districts can raise through taxes and restricts school referendums to statewide general elections in even-numbered years [21, 22].
+- 2025: The same law requires districts to share operating revenue with brick-and-mortar charter schools that enroll their students, statewide starting in 2028 [21, 22].
+- 2025: The state budget opened Choice Scholarship vouchers to all Indiana families starting in June 2026 [16].
+- 2026: The Indianapolis Public Education Corporation, rather than the Indianapolis Public Schools board, now certifies Indianapolis Public Schools referendum questions for the ballot [20].
+- 2023: Senate Enrolled Act 391 changed the so-called $1 law so the Indiana Department of Education can order districts that lost at least 10% of enrollment over five years to close schools under 60% capacity and offer them to charter schools [23].
+- 2023: House Enrolled Act 1447 required school districts to set up procedures for complaints that library material is obscene or harmful to minors [10].
+
+## This race
+
+- New Castle Community School Corporation serves the city of New Castle, Henry Township and part of Liberty Township in Henry County [24]. It runs New Castle High School, New Castle Middle School, the New Castle Career Center and five elementary schools (Eastwood, Parker, Riley, Westwood and Wilbur Wright) [24, 25]. State enrollment counts were 2,949 students in 2023-24, 2,881 in 2024-25 and 2,937 in 2025-26, down from 4,030 in 2005-06 [26].
+- Superintendent: Dr. Matthew Shoemaker, who joined the corporation in 2017 [27]. In July 2026 the board approved a new contract for him 4-1; Jaci Hadsell voted no after proposing a one-month delay over his pay package relative to staff pay. Josh Estelle, Nan Polk, Seth Lee and Jamey Marcum spoke in support [28].
+- The board has five members. County results show an 'Inside' seat and an 'Outside' seat filled in 2022, and an at-large seat and two Inside seats filled in 2024 [29, 30]. As of July 2026 the members were President Seth Lee, Josh Estelle, Jaci Hadsell, Nan Polk and Jamey Marcum [28]. Polk is also the Democratic candidate for Indiana House District 54 on this ballot [31, 32].
+- Inside seat on the 2026 ballot: Seth Lee won it in 2022 over Jeremy Fewell, 3,306 votes to 1,750 [29, 33]. He is unopposed [32, 34].
+- Outside seat on the 2026 ballot: John Griffith won it in 2022 [29, 33]. Griffith died May 31, 2025, and Jamey Marcum was appointed to serve the rest of the term in July 2025 [35]. Marcum is not on the 2026 candidate list. The candidates are Josh Estelle and Kenon Gray, both listed as Republicans; voters choose one [32, 34].
+- Seat-count check: the state list's 'vote for 1' matches the county list for both races [6, 32].
+- Budget and SEA 1 (2025-2026): in November 2025 Shoemaker said the corporation expected to lose $2 million a year from the property-tax cuts in the 2025 law, that its $1.18 tax rate would have to rise above $1.50 to keep the same funding, and that the district would need to 'think outside the box' to avoid a referendum. The first step was ending night custodian positions, with no current employee losing a job [36]. In January 2026 he said custodians had been cut by 12 and one central-office position eliminated [37, 38]. He also said child-care voucher payments that funded pre-K at five elementary schools had been cut 66 percent [37].
+- Teacher contracts: in November 2025 the board approved a contract raising starting pay $500 to $50,000 [36]. A public hearing on another tentative bargaining agreement was set for Oct. 13, 2026 [39, 25].
+- Facilities: in June 2025 the board approved $6.6 million in projects funded through a lease with its building corporation, including security cameras, the Fieldhouse floor and the Career Center roof, with bus replacement and partial roof work at other buildings planned through 2030 [40, 35].
+- Hoosier Youth Challenge Academy: the National Guard program in Knightstown, whose cadets New Castle schools educate, closed June 30, 2026; in February 2026 Shoemaker told the board the district was responsible for 95 students there [38, 41].
+- Enrollment: in October 2024 The Courier-Times reported a hiring freeze because elementary enrollment had dropped by 60 students; at the same meeting Shoemaker said the only realistic way to pay non-certified staff more was to employ fewer of them [42].
+- Academics: the district reported that 94.1 percent of its students passed the 2025-26 IREAD-3 reading test, against a state average of 82 percent; staff credited the Core Knowledge Language Arts curriculum adopted three years earlier [25].
+- School safety: in September 2026 the district received an $86,000 state Secured School Safety matching grant [43].
+- Forums: this guide found no 2026 candidate forum or questionnaire for the New Castle races. Kenon Gray issued a candidacy announcement printed in The Courier-Times [44].
+
+## Seth Lee — Inside
+
+Incumbent and board president, running unopposed; listed as Republican [28, 32].
+
+### Background
+
+- 2005 New Castle High School graduate; stepped down as an assistant varsity football coach to run in 2022 [33].
+- Parent of students in the district (2022) [33]. Listed in November 2025 as a volunteer basketball coach [36].
+
+### Path to the ballot
+
+- Listed as Republican on the state and county 2026 lists; no other candidate filed for the Inside seat [6, 34].
+- In 2022 he ran for the open Inside seat vacated by Corey Bennett [45]. He won it, when no party labels were shown, with 3,306 votes to Jeremy Fewell's 1,750 [29, 33].
+
+### Positions & plans
+
+**Teachers & staff**
+
+- In 2022 he said he wanted to 'empower our teachers to teach what they are hired to teach and continuing to improve on their compensation' [33].
+
+**School safety**
+
+- In 2022 he named student and faculty safety as a key issue [33].
+
+**Enrollment & school choice**
+
+- In 2022 he named increasing enrollment and improving teacher retention as key issues [33].
+
+### On the current officeholder
+
+- Is a current board member and board president. At the July 2026 vote on the superintendent's contract he credited Shoemaker with changing a nearly insolvent school corporation into a financially successful one, as paraphrased by The Courier-Times [28].
+
+### What we couldn't verify
+
+- No 2026 campaign statements, questionnaire, website, endorsements or finance reports found.
+- Occupation not found.
+
+## Josh Estelle — Outside
+
+Current board member, elected to an Inside seat in 2024, now running for the Outside seat; listed as Republican [30, 32].
+
+### Background
+
+- Partner/owner at McGowan Insurance; said in 2024 he had been in business 25 years and insures many schools and public entities, which he said gave him 'a good handle on funding, budgets, state board of accounts' [46].
+- Said in 2024 that he grew up in New Castle and has lived there his whole life [46]. Listed in November 2025 as a volunteer basketball coach [36].
+
+### Path to the ballot
+
+- Listed as Republican on the state and county 2026 lists for the Outside seat [6, 34].
+- In 2024 he and Jaci Hadsell were the only candidates for two Inside seats; he received 6,197 votes and Hadsell 5,414 [30].
+
+### Positions & plans
+
+**School safety**
+
+- Named school safety as a top issue in his 2024 questionnaire [46].
+
+**Teachers & staff**
+
+- Said in 2024: 'We need to continue to work toward higher compensation for all staff so that we can attract and retain top talent in administration and teaching positions' [46].
+
+**Academics**
+
+- Said in 2024 the district should keep expanding college courses, internships and other programs 'so we have something that fits all student's needs' [46].
+
+### On the current officeholder
+
+- Is a current board member. At the July 2026 contract vote he agreed with Hadsell that the next five to six years would be hard because of funding cuts, but said he believes Shoemaker is a proven leader with the skills to handle future issues, as paraphrased by The Courier-Times [28].
+
+### What we couldn't verify
+
+- No 2026 campaign statements, questionnaire, website, endorsements or finance reports found; his positions above are from his 2024 questionnaire.
+- Not explained in any source found: why he is running for the Outside seat while holding an Inside seat elected in 2024 (term normally through 2028), and what would happen to the Inside seat if he wins.
+
+## Kenon Gray — Outside
+
+Retired New Castle High School associate principal and Henry County Council member; listed as Republican [44, 32].
+
+### Background
+
+- According to his own announcement: retired in 2018 after 21 years as associate principal at New Castle High School and 39 years in education; earlier principal at Union High School (Modoc), vice principal at Tri High School, and a library media specialist at Northeastern High School [44].
+- According to his announcement, he is in his eighth and final year on the Henry County Council, three of them as president, and serves on the county Planning Commission, the Hope Initiative board and the Eastern Indiana Regional Planning Commission [44].
+- His announcement says he helped create the Henry County School Safety Commission and wrote grants bringing $400,000 in state school safety funds for school resource officers, cameras and a visitor sign-in system [44].
+
+### Path to the ballot
+
+- Listed as Republican on the state and county 2026 lists for the Outside seat [6, 34].
+
+### Positions & plans
+
+**Teachers & staff**
+
+- Said he is running because with nearly 40 years in education he has 'something positive to offer to the students, teachers and support staff to help make this vibrant school district even better' (his own announcement) [44].
+
+### What we couldn't verify
+
+- No statements found on SEA 1, the budget, the superintendent contract or other current board decisions.
+- No questionnaire, website, endorsements or finance reports found.
+- Background details come from his own announcement and were not independently checked.
+
+## Sources
+
+1. [Indiana Code 20-26-5-4: Specific powers of governing body](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-5-4/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+2. [2026 Indiana Candidate Guide (School Board Offices)](https://www.in.gov/dA/1eada35c3e/2026-Candidate-Guide.FINAL.pdf) — Indiana Election Division, accessed 2026-10-10
+3. [800 school board seats are up for election in Indiana](https://chalkbeat.org/indiana/2024/06/13/school-board-seats-up-for-election-in-indiana-in-2024) — Chalkbeat Indiana / WFYI, 2024-06-13
+4. [Why there are no education elections on your primary ballot](https://www.chalkbeat.org/indiana/2026/04/07/primary-election-ballot-changes-exclude-education-races-and-referendums/) — Chalkbeat Indiana, 2026-04-07
+5. [Indiana Code 20-26-4-7: Compensation of governing body members](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-4-7/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+6. [2026 General Election Candidate List](https://www.in.gov/sos/elections/candidate-information/) — Indiana Election Division, 2026-09-22
+7. [Indiana Code 20-26-5-4.5: Selection and discharge of employees](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-5-4-5/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+8. [School Tax Levy Referendum](https://www.in.gov/dlgf/referendum-information/school-tax-levy-referendum/) — Indiana Department of Local Government Finance, accessed 2026-10-10
+9. [Indiana Code 20-29-6-4: Subjects of collective bargaining](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-29-6-4/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+10. [Obscene, or just objectionable? Here's how Indiana schools are tackling library book complaints](https://arnoltcenter.org/?p=1345) — Arnolt Center for Investigative Journalism / Indiana Capital Chronicle, 2024-02-05
+11. [Indiana Code 20-33-8-19: Expulsion appeals](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-33-8-19/) — FindLaw (Indiana Code), accessed 2026-10-10
+12. [Indiana Code 5-14-1.5-1: Open Door Law policy](https://codes.findlaw.com/in/title-5-state-and-local-administration/in-code-sect-5-14-1-5-1/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+13. [What We Do](https://www.in.gov/pac/about-us/what-we-do/) — Indiana Public Access Counselor, accessed 2026-10-10
+14. [Indiana Code 20-31-3-1: State academic standards](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-31-3-1/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+15. [Indiana K-12 State Tuition Support Annual Report FY2023](https://www.in.gov/doe/files/2023-Tuition-Support-Report.pdf) — Indiana Department of Education, 2023
+16. [Indiana lawmakers expand voucher eligibility, increase school funding in budget](https://chalkbeat.org/indiana/2025/04/24/vouchers-for-all-start-in-2026-budget-year) — Chalkbeat Indiana, 2025-04-24
+17. [Indiana school board candidates split 50-50 on affiliating with a party](https://www.wndu.com/2026/07/20/indiana-school-board-candidates-split-50-50-affiliating-with-party/) — WNDU, 2026-07-20
+18. [5 takeaways from Chalkbeat's panel on Indiana's changes to school board elections and referendums](https://www.chalkbeat.org/indiana/2026/07/10/indiana-school-board-elections-partisan-referendums-takeaways/) — Chalkbeat Indiana, 2026-07-10
+19. [Confusion on partisan school board law puts two IPS candidates' spots at risk](https://www.chalkbeat.org/indiana/2026/07/27/confusion-on-partisan-schoolboard-threatens-ips-ballot-spots/) — Chalkbeat Indiana, 2026-07-27
+20. [2026 Indiana Election Legislation Summary](https://www.in.gov/dA/d13ecb1f55/2026-Indiana-Election-Legislation-Summary.FINAL.pdf) — Indiana Election Division, 2026
+21. [Indiana school referendum elections: Districts seek funding for teacher pay, class size, buses](https://www.chalkbeat.org/indiana/2025/10/27/schools-property-tax-referendum-election-2025) — Chalkbeat Indiana, 2025-10-27
+22. [Indiana school district referendum guide 2026: What to know about your district's requested tax increase](https://www.wvxu.org/2026-08-17/indiana-school-district-referendum-guide-2026-what-to-know-about-your-districts-requested-tax-increase) — WFYI and Chalkbeat Indiana (via WVXU), 2026-08-17
+23. [Indiana charter schools could now have an easier path to acquiring district buildings](https://www.chalkbeat.org/indiana/2023/6/11/23755769/indiana-charters-acquire-traditional-public-school-buildings-underutilized-enrollment) — Chalkbeat Indiana, 2023-06-11
+24. [New Castle Community School Corporation](https://en.wikipedia.org/wiki/New_Castle_Community_School_Corporation) — Wikipedia, 2026-10
+25. [New Castle school board recognizes REMC, celebrates IREAD scores](https://www.thecouriertimes.com/news/new-castle-school-board-recognizes-remc-celebrates-iread-scores/article_0a84ee03-5713-5b9a-973f-4beed8f24aa7.html) — The Courier-Times, 2026-09-19
+26. [Corporation Enrollment by Grade Level, 2006-26](https://www.in.gov/doe/files/corporation-enrollment-grade-2006-26.xlsx) — Indiana Department of Education, 2026
+27. [Local schools need local support](https://www.thecouriertimes.com/news/local-schools-need-local-support/article_9f53fec1-6037-507f-8200-e3b0cd197bf3.html) — The Courier-Times, 2024-12-31
+28. [New Castle approves new contract for superintendent](https://www.thecouriertimes.com/news/new-castle-approves-new-contract-for-superintendent/article_75850aee-831e-5c09-b0d8-185eb9aa2169.html) — The Courier-Times, 2026-07-20
+29. [2022 General Election Official Results](https://www.henrycounty.in.gov/DocumentCenter/View/666/2022-General-Election-Results) — Henry County, 2022-11-18
+30. [2024 General Election Official Results](https://www.henrycounty.in.gov/DocumentCenter/View/809/2024-GENERAL-ELECTION-RESULTS-PDF) — Henry County, 2024-11-18
+31. [Boss Hog of Liberty 461: Candidate series begins](https://www.thecouriertimes.com/news/boss-hog-of-liberty-461-candidate-series-begins/article_0add6a55-b534-5651-8e07-f7c23949019e.html) — The Courier-Times, 2026-10-07
+32. [2026 General Election Candidates](https://www.thecouriertimes.com/news/2026-general-election-candidates/article_3b530ff5-7fe2-5b0e-ad41-470b69c73b6b.html) — The Courier-Times, 2026-10-03
+33. [Griffith, Lee win seats on New Castle School Board](https://www.thecouriertimes.com/news/griffith-lee-win-seats-on-new-castle-school-board/article_d96d5fab-70e7-584d-86d2-478ed32ec8c8.html) — The Courier-Times, 2022-11-11
+34. [2026 General Election Candidate List](https://www.henrycounty.in.gov/DocumentCenter/View/944/2026-GENERAL-ELECTION-CANDIDATE-LIST-PDF) — Henry County Voter Registration, 2026-08
+35. [Marcum rejoins Trojan school board](https://www.thecouriertimes.com/news/marcum-rejoins-trojan-school-board/article_ba7a85ee-c27e-5ce4-af91-9f50bcf5d7e3.html) — The Courier-Times, 2025-07-22
+36. [New Castle School Board approves teacher contracts, personnel changes](https://www.thecouriertimes.com/news/new-castle-school-board-approves-teacher-contracts-personnel-changes/article_e56d18a1-9f12-5d04-961c-d41b5cdc5e3d.html) — The Courier-Times, 2025-11-14
+37. ['Meet kids where they are'](https://www.thecouriertimes.com/news/meet-kids-where-they-are/article_6d94719b-7449-5162-a27c-af540267e2c3.html) — The Courier-Times, 2026-01-21
+38. [An awarding school board meeting](https://www.thecouriertimes.com/news/an-awarding-school-board-meeting/article_78a8916a-a0d2-589d-b0e0-c276c9c0429a.html) — The Courier-Times, 2026-02-19
+39. [Local briefs](https://www.thecouriertimes.com/news/local-briefs/article_fccfea59-f5dd-5b8d-ae99-fe3ff7c9ebb0.html) — The Courier-Times, 2026-10-03
+40. [Board discusses funding renovations and school improvements](https://www.thecouriertimes.com/news/board-discusses-funding-renovations-and-school-improvements/article_725dde38-920f-5a9c-9736-979ec732b514.html) — The Courier-Times, 2025-06-13
+41. [Knightstown's Hoosier Youth Challenge Academy closing](https://www.thecouriertimes.com/news/knightstowns-hoosier-youth-challenge-academy-closing/article_61df6756-4691-56c6-a8f1-e1126337fc46.html) — The Courier-Times, 2026-02-11
+42. [Large crowd attends October school board meeting](https://www.thecouriertimes.com/news/large-crowd-attends-october-school-board-meeting/article_d5d6dd4f-f0f0-5fcf-909d-1abd636635f0.html) — The Courier-Times, 2024-10-22
+43. [State awards fund safety upgrades for local schools](https://www.thecouriertimes.com/news/state-awards-fund-safety-upgrades-for-local-schools/article_59f314d6-045b-5faf-8bc4-e449f1e8ea17.html) — The Courier-Times, 2026-09-19
+44. [Gray announces candidacy in New Castle School Board outside seat race (provided by Kenon Gray)](https://www.thecouriertimes.com/news/gray-announces-candidacy-in-new-castle-school-board-outside-seat-race/article_f188102b-8b5d-5296-b340-d52413f273d1.html) — The Courier-Times, 2026-08-08
+45. [School Board seats up for grabs in general election; Deadline to file is noon Aug. 26](https://www.thecouriertimes.com/news/school-board-seats-up-for-grabs-in-general-election-deadline-to-file-is-noon-aug/article_07b9d015-de89-5636-9ebc-962fd11a4fdf.html) — The Courier-Times, 2022-08-18
+46. [Josh Estelle (candidate questionnaire)](https://www.thecouriertimes.com/news/josh-estelle/article_5f21506b-abc4-5df2-b6c9-4dfe08cf150c.html) — The Courier-Times, 2024-10-22

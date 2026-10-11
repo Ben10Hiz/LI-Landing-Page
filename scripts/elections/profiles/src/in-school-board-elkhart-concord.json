@@ -1,0 +1,218 @@
+{
+ "race_id": "in-school-board-elkhart-concord",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Concord Community Schools is in Elkhart, Indiana. It has seven schools: Concord High School, Concord Junior High, Concord Intermediate and four elementary schools (East Side, Ox Bow, South Side and West Side). The superintendent is Dan Funston {ccs_leadership}.",
+  "Federal (NCES) data show 5,212 students enrolled in 2024-25, down from 5,288 in 2023-24 and 5,348 in 2022-23 {plain_ccs}.",
+  "The board has five members. Each is elected to a four-year term and must live within the school corporation's boundaries. Current members: Jennifer Davis (president, term 2022-2026), Tim Yoder (vice president, 2025-2028), Tara Towner (secretary, 2022-2026), Mike Malooley (2022-2026) and Tim Koontz (2025-2028) {ccs_board}.",
+  "How seats are elected: in 2022 three seats were filled from one pool of eight candidates. Candidates could live in any district, but no more than one could come from District 3 {gn_recount}. In 2024 two seats were on the ballot (Koontz, Yoder and Stacy McDowell ran, vote for not more than two) {gn_2024}{ccs_board}.",
+  "Seats on the 2026 ballot: the three seats won in 2022, held by Davis, Towner and Malooley, all of whose terms end in 2026 {ccs_board}{gn_recount}. All three are on the ballot for 'Elkhart Concord School Board, District 1' and no one else is listed {in_list}. The state list says 'vote for 1'. If the race fills all three expiring seats, as in 2022, all three incumbents would win. Voters should check the county sample ballot for the number to vote for {in_list}{gn_recount}.",
+  "The 2022 race was decided by a recount. Davis and Towner kept their seats. Malooley won the third seat by 55 votes over Stacy McDowell, replacing incumbent Jared Sponseller {gn_recount}.",
+  "Operating referendum: in a Nov. 2, 2021 special election, voters narrowly rejected renewing Concord's operating referendum, 1,514 (51.29%) to 1,438 (48.71%). The renewal would have cut the rate from 40.5 to 32 cents per $100 of assessed value. Funston said referendum money made up 10% of the overall budget {wvpe_ref21}. No later Concord referendum was found.",
+  "Facilities: in April 2025 the Elkhart Truth reported a multi-year renovation plan. Phase one covered Jake Field ($16.2 million), Ox Bow Elementary ($13.2 million) and South Side Elementary ($17.7 million), with high school cafeteria, classroom and activity-center work to follow. The article did not say how the work is funded {et_reno}.",
+  "In 2026 the board unanimously voted to rename the district office the George S. Dyer Education Center, after a longtime Concord educator and administrator {et_dyer}.",
+  "No reporting was found on how the 2025 property-tax law (SEA 1) affects Concord's budget.",
+  "No 2026 Concord candidate forum, questionnaire or news coverage of the race was found. Statements below come from the candidates' district board biographies and 2022 election coverage."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Jennifer Davis",
+   "seat": "District 1",
+   "summary": "Incumbent and board president; first elected in 2014 and seeking a fourth term {ccs_davis}{ccs_board}{in_list}.",
+   "website": null,
+   "background": [
+    "Corporate treasurer at Indiana Wood Products in Middlebury {ccs_davis}.",
+    "Parent of two Concord graduates. Has volunteered in classrooms and with SOAR, and is a past PTO president at Concord South Side Elementary {ccs_davis}.",
+    "Treasurer of the Well Foundation and a member of Tri Kappa {ccs_davis}.",
+    "First elected in November 2014 and took office in January 2015; now board president {ccs_davis}{ccs_board}.",
+    "Led the 2022 field after the recount with 2,264 votes {gn_recount}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state candidate list as Nonpartisan {in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Her district biography quotes her: \"Our state legislature places a lot of financial constraints on local school boards\" {ccs_davis}.",
+      "After winning in 2022, the Elkhart Truth reported that she looked forward to improving the quality of education \"while also being fiscally responsible for taxpayers\" {et_2022}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Her biography quotes her: \"All children should have an opportunity to reach their full learning potential in a safe and caring environment\" {ccs_davis}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member and serves as president {ccs_board}.",
+    "In 2022 she said: \"I work with hands down the best school board in Indiana,\" and \"We have a lot of things we're working on and I'm just excited to be able to keep moving forward\" {et_2022}."
+   ],
+   "plans": [
+    "No 2026 campaign plans were found."
+   ],
+   "endorsements_finance": [
+    "None found."
+   ],
+   "gaps": [
+    "No 2026 questionnaire, forum appearance, campaign website or finance filing was found.",
+    "No statements found on the 2021 referendum defeat, SEA 1 or the renovation program."
+   ]
+  },
+  {
+   "ballot_name": "Michael T (Mike) Malooley",
+   "seat": "District 1",
+   "summary": "Incumbent, first elected in 2022 after a recount, seeking a second term {ccs_malooley}{gn_recount}{in_list}.",
+   "website": null,
+   "background": [
+    "Coordinates quality assurance and training for Elkhart County Court Services, including staff at the Juvenile Detention Center and Juvenile Probation {ccs_malooley}.",
+    "Moved to Elkhart in 2014 to join the Elkhart County Sheriff's Department, and has spent more than 15 years in law enforcement and corrections {ccs_malooley}.",
+    "Purdue University bachelor's degree in industrial management {ccs_malooley}.",
+    "Parent of a child in the district; has worked as a camp counselor and coach {ccs_malooley}.",
+    "First elected in November 2022 and took office in January 2023 {ccs_malooley}. After the recount he finished third with 1,105 votes, 55 ahead of Stacy McDowell {gn_recount}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state candidate list as Nonpartisan {in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "His district biography says he believes student success depends on trust and shared goals among parents, teachers and administrators, and that education \"is a community affair\" {ccs_malooley}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member {ccs_board}.",
+    "No public statements on the board's record were found."
+   ],
+   "plans": [
+    "No 2026 campaign plans were found."
+   ],
+   "endorsements_finance": [
+    "None found."
+   ],
+   "gaps": [
+    "No 2026 questionnaire, forum appearance, campaign website or finance filing was found.",
+    "His district biography lists his term as expiring in 2029, but the board roster shows 2022-2026, and he is on the 2026 ballot. The roster and ballot are treated as correct here.",
+    "The Elkhart Truth's 2022 election-night story spelled his name 'Malooney' and placed the races in districts; the post-recount Goshen News report is used here instead."
+   ]
+  },
+  {
+   "ballot_name": "Tara Towner",
+   "seat": "District 1",
+   "summary": "Incumbent and board secretary; appointed in August 2022 and elected that November, seeking a second full term {ccs_towner}{in_list}.",
+   "website": null,
+   "background": [
+    "Bookkeeper for West on Warren in Middlebury {ccs_towner}.",
+    "Parent of two children in the district. Was secretary of the South Side Elementary PTO and its president for two years, and has substituted in the front offices at Concord High School and Concord Intermediate {ccs_towner}.",
+    "Appointed in August 2022 to fill the rest of Kelly Barr's term after Barr moved out of the district, then elected in November 2022 {ccs_towner}. Finished second in the 2022 race after the recount, with 1,677 votes {gn_recount}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state candidate list as Nonpartisan {in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "After her 2022 win she told the Elkhart Truth she was excited about \"the good we can do for our kids and our teachers\" {et_2022}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member and serves as secretary {ccs_board}.",
+    "No public statements on the board's record were found."
+   ],
+   "plans": [
+    "No 2026 campaign plans were found."
+   ],
+   "endorsements_finance": [
+    "None found."
+   ],
+   "gaps": [
+    "No 2026 questionnaire, forum appearance, campaign website or finance filing was found.",
+    "No stated positions found on budget, facilities or academics."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "ccs_board": [
+   "Meet the School Board",
+   "Concord Community Schools",
+   "2026-10",
+   "https://www.concordschools.com/school-board"
+  ],
+  "ccs_leadership": [
+   "Leadership",
+   "Concord Community Schools",
+   "2026-10",
+   "https://www.concordschools.com/leadership"
+  ],
+  "ccs_davis": [
+   "President Jennifer Davis",
+   "Concord Community Schools",
+   "2026-10",
+   "https://www.concordschools.com/president-jennifer-davis"
+  ],
+  "ccs_malooley": [
+   "Board Member Mike Malooley",
+   "Concord Community Schools",
+   "2026-10",
+   "https://www.concordschools.com/board-member-mike-malooley"
+  ],
+  "ccs_towner": [
+   "Secretary Tara Towner",
+   "Concord Community Schools",
+   "2026-10",
+   "https://concordschools.com/secretary-tara-towner"
+  ],
+  "plain_ccs": [
+   "Concord Community Schools (NCES Common Core of Data, 2024-25)",
+   "PlainSchools",
+   "2026-10",
+   "https://plainschools.com/districts/concord-community-schools-in"
+  ],
+  "gn_recount": [
+   "Recount changes Concord school board election outcome",
+   "The Goshen News",
+   "2022-11-28",
+   "https://www.goshennews.com/news/concord-election-race-results-change/article_ae6f367e-6f29-11ed-85a1-373cc67b0147.html"
+  ],
+  "et_2022": [
+   "Familiar faces, newcomers round out school board races",
+   "The Elkhart Truth (via Yahoo News)",
+   "2022-11-10",
+   "https://www.yahoo.com/news/familiar-faces-newcomers-round-school-170900965.html"
+  ],
+  "gn_2024": [
+   "ELECTION 2024: Concord Community Schools — District 2",
+   "The Goshen News",
+   "2024-10-26",
+   "https://www.goshennews.com/election/election-2024-concord-community-schools-district-2/article_fac18de0-907b-11ef-8630-17f3b199aaf2.html"
+  ],
+  "wvpe_ref21": [
+   "Concord referendum fails according to unofficial results",
+   "WVPE",
+   "2021-11-02",
+   "https://www.wvpe.org/indiana-news/2021-11-02/concord-referendum-fails-according-to-unofficial-results"
+  ],
+  "et_reno": [
+   "Concord Community Schools to start renovations",
+   "The Elkhart Truth",
+   "2025-04-09",
+   "https://www.elkharttruth.com/schools/concord_schools/concord-community-schools-to-start-renovations/article_3ed79a3d-c364-5f88-bcff-15b085050d15.html"
+  ],
+  "et_dyer": [
+   "Concord honors former superintendent",
+   "The Elkhart Truth",
+   "2026-09-12",
+   "https://www.elkharttruth.com/hometown/elkhart/concord-honors-former-superintendent/article_d2424ccf-b631-5047-afaf-93e02bac8241.html"
+  ]
+ }
+}
