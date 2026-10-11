@@ -169,6 +169,7 @@ SEAT_OVERRIDES = {
     "Griffith Public School Board, At Large": 3,  # Lake County sample ballot
     "Jefferson Madison School Board, District 2": 2,  # Madison Courier
     "Highland School Board, At Large": 3,  # Lake County sample ballot
+    "Marion Beech Grove Public School Board, At Large": 3,  # Chalkbeat / WFYI
 }
 
 

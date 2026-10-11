@@ -1,0 +1,146 @@
+{
+ "race_id": "in-school-board-laville",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The 'LaVille Community School Board' races are for the board of Union-North United School Corporation, which now calls itself LaVille Community Schools; it still uses the Union-North United name on its 2027 budget notice {lv_board}{lv_form3}. The district serves Union Township in St. Joseph County, including Lakeville, and North Township in Marshall County, including La Paz, and runs LaVille Elementary (K-6) and LaVille Jr.-Sr. High School (7-12) {wiki_un}{lv_board}. State counts show 1,221 students in 2024-25 and 1,188 in 2025-26 {idoe_enroll}.",
+  "Superintendent: Keith Burke {lv_supt}. The board held a public hearing on Jan. 2, 2025 on a superintendent contract running Jan. 6, 2025 through Dec. 31, 2028, with a starting base salary of $129,185.56 {lv_supt_notice}.",
+  "The board has five members {wiki_un}. The district lists Jared McQueen (president), Rodd Decker (vice president), Dawn Amor (secretary), Andrew Doyle and Tom Strang {lv_board}. The state list shows one North Township seat and one Union Township seat on the 2026 ballot, each 'vote for 1' and each listed for both Marshall and St. Joseph counties {in_list}. This guide could not confirm how the five seats are split between the townships, whether voters districtwide vote for each seat, or which current members hold the two seats on the ballot.",
+  "Seats on the 2026 ballot: North Township, where Thomas R. Strang is unopposed, and Union Township, where Arden Balmer and Bradley Sherman are running {in_list}. Strang appears to be the board member the district lists as Tom Strang, but this guide could not confirm that he holds the North Township seat {lv_board}{in_list}. Neither Union Township candidate appears on the current board roster {lv_board}{in_list}.",
+  "Party labels: 2026 is the first year Indiana school board candidates could list a party; all three LaVille candidates are listed as Nonpartisan {in_list}.",
+  "Budget: the district's notice for the 2027 budget lists $16.6 million in total budget estimates, including $9 million for education, $3.9 million for operations and $3.7 million for debt service; it estimates the operations fund's maximum levy at $2,367,255 and $731,700 in property-tax-cap credits (revenue lost to the caps). The hearing was Sept. 14, 2026 and adoption is set for Oct. 12, 2026 {lv_form3}. The district also posted 2027-31 bus replacement and 2027-29 capital plans in September 2026 {lv_docs}. This guide found no reporting on how the 2025 property-tax law SEA 1 affects LaVille, and the district is not on the state's list of November 2026 school referendums {dlgf_ref}.",
+  "Forums: this guide found no 2026 candidate forum, questionnaire or news coverage of these races."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Thomas R. Strang",
+   "seat": "North Township",
+   "summary": "Unopposed for the North Township seat; appears to be current board member Tom Strang, which this guide could not confirm {in_list}{lv_board}.",
+   "website": null,
+   "background": [
+    "The district's board page lists a Tom Strang as a member {lv_board}. No other background information was found."
+   ],
+   "path_to_ballot": [
+    "Listed as Nonpartisan on the state candidate list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "If he is the current member, he is on the board. No statement from him on the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "Could not confirm that Thomas R. Strang is the board member listed as Tom Strang, when he joined the board, or which seat he holds.",
+    "No website, social media page, questionnaire, forum remarks or news coverage of the campaign were found; positions are unknown.",
+    "Occupation and ties to the schools could not be confirmed.",
+    "Marshall and St. Joseph county campaign finance filings were not checked."
+   ]
+  },
+  {
+   "ballot_name": "Arden Balmer",
+   "seat": "Union Township",
+   "summary": "Candidate for the Union Township seat; little public information about the campaign was found {in_list}.",
+   "website": null,
+   "background": [
+    "No background information was found beyond the candidate's name on the state list {in_list}."
+   ],
+   "path_to_ballot": [
+    "Listed as Nonpartisan on the state candidate list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No website, social media page, questionnaire, forum remarks or news coverage of the campaign were found; positions are unknown.",
+    "Occupation and ties to the schools could not be confirmed.",
+    "Marshall and St. Joseph county campaign finance filings were not checked."
+   ]
+  },
+  {
+   "ballot_name": "Bradley Sherman",
+   "seat": "Union Township",
+   "summary": "Candidate for the Union Township seat; little public information about the campaign was found {in_list}.",
+   "website": null,
+   "background": [
+    "No background information was found beyond the candidate's name on the state list {in_list}."
+   ],
+   "path_to_ballot": [
+    "Listed as Nonpartisan on the state candidate list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No website, social media page, questionnaire, forum remarks or news coverage of the campaign were found; positions are unknown.",
+    "Occupation and ties to the schools could not be confirmed.",
+    "Marshall and St. Joseph county campaign finance filings were not checked."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "lv_board": [
+   "School Board Members",
+   "LaVille Community Schools",
+   "2025-11-04",
+   "https://lavilleschools.org/school-board-members/"
+  ],
+  "lv_supt": [
+   "Superintendent's Welcome",
+   "LaVille Community Schools",
+   "2026-10",
+   "https://lavilleschools.org/superintendents-welcome/"
+  ],
+  "lv_supt_notice": [
+   "Notice of Public Hearing and Meeting Concerning the Proposed Contract for Union-North United School Corporation Superintendent",
+   "Union-North United School Corporation",
+   "2024-12",
+   "https://lavilleschools.org/wp-content/uploads/2024/12/Notice-of-Public-Hearing-on-Superintendent-Contract-Union-North4901315.1.pdf"
+  ],
+  "lv_form3": [
+   "Notice to Taxpayers, 2027 Budget (Budget Form 3)",
+   "Union-North United School Corporation",
+   "2026-09-03",
+   "https://lavilleschools.org/wp-content/uploads/2026/09/LaVille-Form-3.pdf"
+  ],
+  "lv_docs": [
+   "Important Documents",
+   "LaVille Community Schools",
+   "2026-10",
+   "https://lavilleschools.org/important-documents/"
+  ],
+  "wiki_un": [
+   "Union-North United Schools",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/Union-North_United_Schools"
+  ],
+  "idoe_enroll": [
+   "Corporation Enrollment by Grade, 2006-2026",
+   "Indiana Department of Education",
+   "2026",
+   "https://www.in.gov/doe/files/corporation-enrollment-grade-2006-26.xlsx"
+  ],
+  "dlgf_ref": [
+   "Referendum Information",
+   "Indiana Department of Local Government Finance",
+   "2026-10",
+   "https://www.in.gov/dlgf/referendum-information/"
+  ]
+ }
+}

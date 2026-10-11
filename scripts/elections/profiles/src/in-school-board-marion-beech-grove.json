@@ -1,0 +1,212 @@
+{
+ "race_id": "in-school-board-marion-beech-grove",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Beech Grove City Schools (legally the School City of Beech Grove) serves Beech Grove on Indianapolis' southeast side in Marion County {cb_bg_2026}{dlgf_bg_det}. It runs Beech Grove High School, Beech Grove Middle School, Central Intermediate, South Grove Elementary, Hornet Park Elementary, Hornet Park Early Childhood Center and K-12 virtual programs {bg_board}. State counts show enrollment of 2,790 in 2024-25 and 5,481 in 2025-26; Chalkbeat described it in 2026 as a district of 'nearly 5,500 students,' up from about 3,000 in its 2022 and 2024 guides {idoe_enroll}{cb_bg_2026}{cb_bg_2022}{cb_bg_2024}.",
+  "Superintendent: Dr. Laura Hammack, hired by a unanimous board vote in 2021 {bg_ref}{cb_bg_2022}.",
+  "The board has seven members elected at large, so every voter in the district may vote for every open seat; terms are four years {cb_bg_2022}{cb_bg_2024}. Current members listed by the district: Jannis King (president), Tara Wolf (vice president), April Rinks (secretary), Beth Prindle, Brian Downard, Jill Laker and Madison West {bg_board}.",
+  "Seats on the 2026 ballot: three at-large seats, not one as the state list's 'vote for 1' suggests {cb_bg_2026}{in_list}. These are the seats won unopposed in 2022 by Rob Challis, Jannis King and Rick Skirvin {cb_bg_2022}. Downard was appointed in January 2024 to the vacancy left by Skirvin, and West was appointed in July 2026 to the seat vacated by Challis {cb_bg_2026}. All three current holders are running and are unopposed, so all three will be elected {cb_bg_2026}{cb_mc_2026}. Winners serve from January 2027 through December 2030 {cb_bg_2026}{cb_mc_2026}.",
+  "Party labels: 2026 is the first year Indiana school board candidates could list a party; King is running as an Independent, while Downard and West did not declare a party {cb_bg_2026}{cb_mc_2026}{in_list}.",
+  "Operating referendum (Nov. 3, 2026): on June 17, 2026 the board approved putting an operating referendum on the ballot to replace the one voters approved in 2020 {govly_jun17}{bg_ref}. The state-approved ballot question asks for a rate of up to 57 cents per $100 of assessed value, raising up to $4.4 million a year for up to eight years, for school bus transportation, facilities maintenance and student safety including school resource officers {dlgf_bg_det}. The question states that a median $200,000 home's tax bill would rise $493 a year {dlgf_bg_det}. The district says that because it replaces the 2020 levy, the median homeowner would pay slightly less than now (about $6.76 less in 2027) {bg_ref}; WRTV reported district documents showing an average increase of $1.25 a month {wrtv_ref}.",
+  "Budget and SEA 1: Hammack told WRTV that the operations fund, which pays for transportation, utilities, maintenance, custodial services and school safety, is strained by property tax caps and that SEA 1 will reduce revenue as assessed values decline; the district expects about $4 million in annual cuts if the referendum fails {wrtv_ref}. A third-party summary of the July 15, 2026 meeting says the board voted to advertise the 2027 budget and reviewed transportation-lot security upgrades and an energy audit {govly_jul15}.",
+  "Forums: this guide found no 2026 candidate forum. Chalkbeat Indiana, Mirror Indy and WFYI published a candidate survey; Downard and West answered and King did not respond {cb_bg_2026}. Both respondents said they support the referendum {cb_bg_2026}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Brian Downard",
+   "seat": "At Large",
+   "summary": "Incumbent, appointed in January 2024; running unopposed for one of three at-large seats {cb_bg_2026}.",
+   "website": null,
+   "background": [
+    "Works in aerospace engineering and has two children in Beech Grove schools {cb_bg_2026}.",
+    "Appointed to the board in January 2024 to fill the vacancy left by longtime member Rick Skirvin {cb_bg_2026}."
+   ],
+   "path_to_ballot": [
+    "On the ballot without a party label; Chalkbeat reported he did not declare a party affiliation {in_list}{cb_bg_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Told Chalkbeat the district faces 'overwhelming impacts from the legislation and tax base,' has been 'doing more with less' and has an 'extremely thin budget' {cb_bg_2026}.",
+      "Said he 'absolutely support[s] the 2026 operating referendum,' saying the rate was designed to 'limit impact to our taxpayers,' and committed to asking only for what is needed {cb_bg_2026}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Lists 'educational quality, academic experience, safety, and well-being' of students as priorities; said foundational literacy and math matter and that his focus is STEM and students' 'vocational callings' {cb_bg_2026}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Said he is 'always willing to discuss any topic' and welcomes feedback on how to represent the community {cb_bg_2026}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member. He described his immediate focus as passing the 2026 operating referendum and continuing to improve operational efficiency {cb_bg_2026}."
+   ],
+   "plans": [
+    "Pass the operating referendum and keep improving operational efficiency; expand STEM opportunities {cb_bg_2026}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, social media page or forum remarks were found.",
+    "Marion County campaign finance filings were not checked."
+   ]
+  },
+  {
+   "ballot_name": "Jannis King",
+   "seat": "At Large",
+   "summary": "Incumbent and board president, on the board for more than a decade; running unopposed as an Independent {cb_bg_2026}{bg_board}.",
+   "website": null,
+   "background": [
+    "Board president, on the board for more than a decade {cb_bg_2026}{bg_board}.",
+    "In 2022 Chalkbeat reported she worked as a part-time substitute teacher through Kelly Services and served as the school board's ex-officio appointee on the Beech Grove Parks and Recreation Board {cb_bg_2022}.",
+    "Was re-elected unopposed in 2022 and was among the members who unanimously hired Superintendent Laura Hammack in 2021 {cb_bg_2022}."
+   ],
+   "path_to_ballot": [
+    "Listed as an Independent on the state candidate list {in_list}{cb_bg_2026}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member and its president. She did not respond to multiple requests to complete the 2026 Chalkbeat/Mirror Indy/WFYI candidate survey, and no statement from her on the board's record was found {cb_bg_2026}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No 2026 campaign statements, website, questionnaire answers or forum remarks were found; her positions are unknown.",
+    "Current occupation not confirmed since 2022.",
+    "Marion County campaign finance filings were not checked."
+   ]
+  },
+  {
+   "ballot_name": "Madison West",
+   "seat": "At Large",
+   "summary": "Incumbent, appointed in July 2026; running unopposed for one of three at-large seats {cb_bg_2026}.",
+   "website": null,
+   "background": [
+    "Works in government affairs and has three young children in the district {cb_bg_2026}.",
+    "Appointed in July 2026 to the seat vacated by Rob Challis; a third-party summary of the July 15, 2026 meeting says she was sworn in that night {cb_bg_2026}{govly_jul15}."
+   ],
+   "path_to_ballot": [
+    "On the ballot without a party label; Chalkbeat reported she did not declare a party affiliation {in_list}{cb_bg_2026}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Named long-term financial stability as the most pressing issue, calling the referendum 'an important short-term solution' and saying the district needs a 'sustainable, long-term funding model' {cb_bg_2026}.",
+      "Supports the 57-cent referendum, calling it a 'fiscally responsible step'; said 'affordability and fiscal responsibility must remain top priorities' and that she would advocate for funding at the state level {cb_bg_2026}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Wants to strengthen early literacy, support growth at every grade, and build pathways to college, careers and skilled trades {cb_bg_2026}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Said 'effective leadership begins with listening' and plans to attend school and community events {cb_bg_2026}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member (since July 2026). She described the referendum as providing 'critical funding needed to maintain the high-quality education our students deserve' {cb_bg_2026}."
+   ],
+   "plans": [
+    "Support the referendum, seek a long-term funding model, and focus on early literacy and career pathways {cb_bg_2026}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, social media page or forum remarks were found.",
+    "Her employer in government affairs was not identified.",
+    "The departing member's name appears as 'Rob Challis' (Chalkbeat) and 'Rob Chalice' (a third-party meeting summary); official minutes were not checked.",
+    "Marion County campaign finance filings were not checked."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "cb_bg_2026": [
+   "Beech Grove school board voter guide 2026: Meet the 3 candidates",
+   "Chalkbeat Indiana / Mirror Indy / WFYI",
+   "2026-09-11",
+   "https://www.chalkbeat.org/indiana/2026/09/11/beech-grove-school-board-voter-guide-2026/"
+  ],
+  "cb_mc_2026": [
+   "Your guide to 2026 school board elections in Marion County",
+   "Chalkbeat Indiana",
+   "2026-09-11",
+   "https://www.chalkbeat.org/indiana/2026/09/11/voter-guides-for-2026-school-board-elections-in-marion-county/"
+  ],
+  "cb_bg_2022": [
+   "Beech Grove school board members run unopposed in upcoming election",
+   "Chalkbeat Indiana",
+   "2022-10-04",
+   "https://www.chalkbeat.org/indiana/2022/10/4/23385581/beech-grove-teacher-pay-staffing-school-board-election-incumbents"
+  ],
+  "cb_bg_2024": [
+   "Beech Grove school board election: Who's running and how to vote",
+   "Chalkbeat Indiana",
+   "2024-10-01",
+   "https://www.chalkbeat.org/indiana/2024/10/01/beech-grove-school-board-2024-election-voter-guide"
+  ],
+  "bg_board": [
+   "District & School Board Information",
+   "Beech Grove City Schools",
+   "2026-10",
+   "https://bgcs.k12.in.us/district-school-board-information/"
+  ],
+  "bg_ref": [
+   "2026 Operating Referendum",
+   "Beech Grove City Schools",
+   "2026-10",
+   "https://bgcs.k12.in.us/2026-operating-referendum/"
+  ],
+  "dlgf_bg_det": [
+   "Findings and Final Determination on Proposed Question, School City of Beech Grove (No. 26-002-REF)",
+   "Indiana Department of Local Government Finance",
+   "2026-07-02",
+   "https://www.in.gov/dlgf/files/referendum-documentation2/2026-november-referendum-documents/26-002-School-City-of-Beech-Grove-Operating-Determination.pdf"
+  ],
+  "wrtv_ref": [
+   "Beech Grove schools begin public push for 2026 referendum",
+   "WRTV",
+   "2026-06-24",
+   "https://www.wrtv.com/news/local-news/beech-grove-schools-begin-public-push-for-2026-referendum"
+  ],
+  "govly_jun17": [
+   "Beech Grove City Schools School Board Meeting, June 17, 2026 (third-party summary)",
+   "Govly",
+   "2026-06-17",
+   "https://app.govly.com/public/meetings/75232"
+  ],
+  "govly_jul15": [
+   "Beech Grove City Schools School Board Meeting, July 15, 2026 (third-party summary)",
+   "Govly",
+   "2026-07-15",
+   "https://app.govly.com/public/meetings/75235"
+  ],
+  "idoe_enroll": [
+   "Corporation Enrollment by Grade, 2006-2026",
+   "Indiana Department of Education",
+   "2026",
+   "https://www.in.gov/doe/files/corporation-enrollment-grade-2006-26.xlsx"
+  ]
+ }
+}
