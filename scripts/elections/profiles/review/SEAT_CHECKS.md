@@ -34,6 +34,7 @@ multi-seat but not yet confirmed from a 2026 county ballot:
 | South Adams School Board, District 3 | 2 | both D3 terms end 2026; 2022 was vote for 2 |
 | Shelby Southwestern School Board, Washington | 2? | four seats should be up but only three races listed |
 | Delaware Cowan Community School Board | 3 | three at-large terms end 2026; 2022 was vote for 3 |
+| Elkhart Concord School Board, District 1 | 3 | three 2022 seats expire; all three holders running |
 | Jay School Board, District 1 | 0 on ballot | seat due in 2026 but no one filed; how it is filled is unknown |
 
 Also confirm with county election offices:

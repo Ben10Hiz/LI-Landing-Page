@@ -171,6 +171,7 @@ SEAT_OVERRIDES = {
     "Highland School Board, At Large": 3,  # Lake County sample ballot
     "Marion Beech Grove Public School Board, At Large": 3,  # Chalkbeat / WFYI
     "Henry Blue River Valley School Board, At Large 2": 2,  # Henry County candidate list
+    "Harrison Lanesville School Board, At Large": 2,  # Harrison County list / sample ballot
 }
 
 

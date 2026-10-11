@@ -115,7 +115,7 @@ Former Lanesville town council member; announced in September 2026 that he is no
 
 - Listed as a Republican on the county and state candidate lists [24, 6].
 - Served as an at-large Lanesville town council member from 2020 to 2026. He says he stepped aside to avoid a conflict of interest with his town laborer job and to run for this office [46].
-- After his questionnaire ran on Sept. 9, he announced on Facebook that he would no longer be an active candidate, citing a non-life-threatening health issue. The July 15 withdrawal deadline had passed, so his name remains on the ballot [34].
+- After his questionnaire ran on Sept. 9, he announced on Facebook that he would no longer be an active candidate. The July 15 withdrawal deadline had passed, so his name remains on the ballot [34].
 
 ### Positions & plans
 
