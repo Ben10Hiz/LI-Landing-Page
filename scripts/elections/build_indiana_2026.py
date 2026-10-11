@@ -172,6 +172,7 @@ SEAT_OVERRIDES = {
     "Marion Beech Grove Public School Board, At Large": 3,  # Chalkbeat / WFYI
     "Henry Blue River Valley School Board, At Large 2": 2,  # Henry County candidate list
     "Harrison Lanesville School Board, At Large": 2,  # Harrison County list / sample ballot
+    "Nettle Creek School Board, At Large (Wayne-Henry)": 2,  # Western Wayne News
 }
 
 

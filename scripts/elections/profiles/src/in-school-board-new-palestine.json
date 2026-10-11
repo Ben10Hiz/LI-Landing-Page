@@ -1,125 +1,119 @@
 {
- "race_id": "in-school-board-new-palestine",
- "reviewed": "2026-10-10",
- "status": "draft",
- "status_note": "Pending editorial review.",
- "office": "@in_school_board",
- "incumbent": null,
- "race_context": [
-  "New Palestine Community Schools, formerly the Community School Corporation of Southern Hancock County, is based in New Palestine in Hancock County {npcs_history}{npcs_supt}. It runs Little Dragons Early Childhood, three elementary schools (Brandywine, New Palestine and Sugar Creek), New Palestine Junior High and New Palestine High School {npcs_supt}. Public School Review, using federal and state data, lists about 3,959 students in six schools {psr_enroll}. Superintendent: Dr. Gina Pleak {npcs_supt}.",
-  "The board has five members, each tied to a numbered district: Amanda Wooton (District 1), Laura Haeberle (District 2), Jon Hooker (District 3, vice president), Dan Walker (District 4, president) and Brian McKinney (District 5, secretary) {npcs_board}. District 3 represents all of Sugar Creek Township, which is made up of Districts 1 and 2 {npcs_board}{indystar_2022}.",
-  "Seats on the 2026 ballot: District 3 and District 5, one seat each, matching the state list {in_list}. Hooker, appointed to District 3 in August 2020 and on the board since, is not on the 2026 ballot, so Emily Boesen (Republican) and Brian Hart (Independent) are competing for an open seat {indystar_2022}{npcs_history}{in_list}. McKinney, District 5 member since 2007, is running unopposed {npcs_history}{in_list}.",
-  "Building consolidation (announced March 2026): Hoodline, an AI-assisted news site summarizing district materials, reported that the district would close and remove the junior high building, move grades 6-8 into the intermediate school campus renamed New Palestine Junior High starting in 2026-27, use the cleared site to expand Sugar Creek Elementary, and serve kindergarten through grade 5 in the three elementary schools {hoodline_jh}. It reported that the district cited lower operating costs from running fewer buildings and named Senate Enrolled Act 1, the 2025 property-tax law, as a budget pressure {hoodline_jh}.",
-  "Upcoming board business: the Oct. 26, 2026 meeting agenda includes budget approval and ratification of the teachers' master contract {npcs_board}.",
-  "Recognition: the district reported in August 2026 that it was named a 2026 Top Workplace and in September 2026 that it received a 'Best in Education' recognition {npcs_news}.",
-  "Forums: this guide found no candidate forum or questionnaire for the District 3 race that it could read. The Daily Reporter in Greenfield published a story on the race on Sept. 22, 2026, but its site was not accessible to this guide."
- ],
- "candidates": [
-  {
-   "ballot_name": "Brian Hart",
-   "seat": "District 3",
-   "summary": "Candidate for the open District 3 seat, which covers Sugar Creek Township {in_list}{npcs_board}.",
-   "website": null,
-   "background": [],
-   "path_to_ballot": [
-    "Listed on the state's 2026 candidate list as an Independent for District 3 {in_list}."
-   ],
-   "positions": [],
-   "on_incumbent": [],
-   "plans": [],
-   "endorsements_finance": [],
-   "gaps": [
-    "No occupation, background, campaign statement, website, endorsements or finance reports found in sources this guide could read.",
-    "The Daily Reporter's Sept. 22, 2026 story on the District 3 race ('Two vying for New Palestine school board seat') could not be accessed; its contents are unverified.",
-    "Unverified (search-result snippet only): a candidate named Hart ran in the 2024 New Palestine District 1 race won by Amanda Wooton; it is not confirmed that this is the same person."
-   ]
-  },
-  {
-   "ballot_name": "Emily Boesen",
-   "seat": "District 3",
-   "summary": "Candidate for the open District 3 seat, which covers Sugar Creek Township {in_list}{npcs_board}.",
-   "website": null,
-   "background": [],
-   "path_to_ballot": [
-    "Listed on the state's 2026 candidate list as a Republican for District 3 {in_list}."
-   ],
-   "positions": [],
-   "on_incumbent": [],
-   "plans": [],
-   "endorsements_finance": [],
-   "gaps": [
-    "No occupation, background, campaign statement, website, endorsements or finance reports found in sources this guide could read.",
-    "The Daily Reporter's Sept. 22, 2026 story on the District 3 race could not be accessed; its contents are unverified."
-   ]
-  },
-  {
-   "ballot_name": "Brian McKinney",
-   "seat": "District 5",
-   "summary": "Incumbent and board secretary, a member since 2007; unopposed {npcs_board}{npcs_history}{in_list}.",
-   "website": null,
-   "background": [
-    "First elected to the board in 2007; ran unopposed for District 5 in 2022 {indystar_2022}{npcs_history}.",
-    "In 2022 he worked for Dow Chemical as a North American manufacturing implementation specialist after 15 years in seed-related roles at Dow AgroSciences, and he studied agricultural economics, farm management and agricultural engineering at Purdue University {indystar_2022}.",
-    "Joined the Hancock County Community Foundation board in 2021; his three children graduated from the district {indystar_2022}."
-   ],
-   "path_to_ballot": [
-    "Listed on the state's 2026 candidate list without a party affiliation (Nonpartisan) for District 5 {in_list}."
-   ],
-   "positions": [],
-   "on_incumbent": [
-    "Is a current board member and the board's secretary {npcs_board}. This guide found no 2026 public statements by him on the board's record."
-   ],
-   "plans": [],
-   "endorsements_finance": [],
-   "gaps": [
-    "Background details are from 2022 and may be out of date.",
-    "No 2026 campaign statement, website, endorsements or finance reports found."
-   ]
+  "race_id": "in-school-board-new-palestine",
+  "reviewed": "2026-10-10",
+  "status": "draft",
+  "status_note": "Pending editorial review.",
+  "office": "@in_school_board",
+  "incumbent": null,
+  "race_context": [
+    "New Palestine Community Schools, formerly the Community School Corporation of Southern Hancock County, is based in New Palestine in Hancock County {npcs_history}{npcs_supt}. It runs Little Dragons Early Childhood, three elementary schools (Brandywine, New Palestine and Sugar Creek), New Palestine Junior High and New Palestine High School {npcs_supt}. Public School Review, using federal and state data, lists about 3,959 students in six schools {psr_enroll}. Superintendent: Dr. Gina Pleak {npcs_supt}.",
+    "The board has five members, each tied to a numbered district: Amanda Wooton (District 1), Laura Haeberle (District 2), Jon Hooker (District 3, vice president), Dan Walker (District 4, president) and Brian McKinney (District 5, secretary) {npcs_board}. District 3 represents all of Sugar Creek Township, which is made up of Districts 1 and 2 {npcs_board}{indystar_2022}.",
+    "Seats on the 2026 ballot: District 3 and District 5, one seat each, matching the state list {in_list}. Hooker, appointed to District 3 in August 2020 and on the board since, is not on the 2026 ballot, so Emily Boesen (Republican) and Brian Hart (Independent) are competing for an open seat {indystar_2022}{npcs_history}{in_list}. McKinney, District 5 member since 2007, is running unopposed {npcs_history}{in_list}.",
+    "Upcoming board business: the Oct. 26, 2026 meeting agenda includes budget approval and ratification of the teachers' master contract {npcs_board}.",
+    "Recognition: the district reported in August 2026 that it was named a 2026 Top Workplace and in September 2026 that it received a 'Best in Education' recognition {npcs_news}.",
+    "Forums: this guide found no candidate forum or questionnaire for the District 3 race that it could read. The Daily Reporter in Greenfield published a story on the race on Sept. 22, 2026, but its site was not accessible to this guide.",
+    "Not included: reports of the junior high closing and grades 6–8 moving to the intermediate campus appeared only on Hoodline, an AI-assisted news site this guide does not use as a source; not yet confirmed from district records or local news."
+  ],
+  "candidates": [
+    {
+      "ballot_name": "Brian Hart",
+      "seat": "District 3",
+      "summary": "Candidate for the open District 3 seat, which covers Sugar Creek Township {in_list}{npcs_board}.",
+      "website": null,
+      "background": [],
+      "path_to_ballot": [
+        "Listed on the state's 2026 candidate list as an Independent for District 3 {in_list}."
+      ],
+      "positions": [],
+      "on_incumbent": [],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "No occupation, background, campaign statement, website, endorsements or finance reports found in sources this guide could read.",
+        "The Daily Reporter's Sept. 22, 2026 story on the District 3 race ('Two vying for New Palestine school board seat') could not be accessed; its contents are unverified.",
+        "Unverified (search-result snippet only): a candidate named Hart ran in the 2024 New Palestine District 1 race won by Amanda Wooton; it is not confirmed that this is the same person."
+      ]
+    },
+    {
+      "ballot_name": "Emily Boesen",
+      "seat": "District 3",
+      "summary": "Candidate for the open District 3 seat, which covers Sugar Creek Township {in_list}{npcs_board}.",
+      "website": null,
+      "background": [],
+      "path_to_ballot": [
+        "Listed on the state's 2026 candidate list as a Republican for District 3 {in_list}."
+      ],
+      "positions": [],
+      "on_incumbent": [],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "No occupation, background, campaign statement, website, endorsements or finance reports found in sources this guide could read.",
+        "The Daily Reporter's Sept. 22, 2026 story on the District 3 race could not be accessed; its contents are unverified."
+      ]
+    },
+    {
+      "ballot_name": "Brian McKinney",
+      "seat": "District 5",
+      "summary": "Incumbent and board secretary, a member since 2007; unopposed {npcs_board}{npcs_history}{in_list}.",
+      "website": null,
+      "background": [
+        "First elected to the board in 2007; ran unopposed for District 5 in 2022 {indystar_2022}{npcs_history}.",
+        "In 2022 he worked for Dow Chemical as a North American manufacturing implementation specialist after 15 years in seed-related roles at Dow AgroSciences, and he studied agricultural economics, farm management and agricultural engineering at Purdue University {indystar_2022}.",
+        "Joined the Hancock County Community Foundation board in 2021; his three children graduated from the district {indystar_2022}."
+      ],
+      "path_to_ballot": [
+        "Listed on the state's 2026 candidate list without a party affiliation (Nonpartisan) for District 5 {in_list}."
+      ],
+      "positions": [],
+      "on_incumbent": [
+        "Is a current board member and the board's secretary {npcs_board}. This guide found no 2026 public statements by him on the board's record."
+      ],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "Background details are from 2022 and may be out of date.",
+        "No 2026 campaign statement, website, endorsements or finance reports found."
+      ]
+    }
+  ],
+  "review_flags": [],
+  "sources": {
+    "npcs_board": [
+      "Board of Education",
+      "New Palestine Community Schools",
+      "2026-10",
+      "https://www.newpal.k12.in.us/school-board/board-of-education"
+    ],
+    "npcs_history": [
+      "Board Member History",
+      "New Palestine Community Schools",
+      "2026-10",
+      "https://www.newpal.k12.in.us/board-member-history"
+    ],
+    "npcs_supt": [
+      "Office of the Superintendent",
+      "New Palestine Community Schools",
+      "2026-10",
+      "https://www.newpal.k12.in.us/departments/office-of-the-superintendent"
+    ],
+    "npcs_news": [
+      "District news",
+      "New Palestine Community Schools",
+      "2026-09",
+      "https://www.newpal.k12.in.us/fs/pages/4754"
+    ],
+    "psr_enroll": [
+      "New Palestine Community Schools",
+      "Public School Review",
+      "2026-10",
+      "https://www.publicschoolreview.com/indiana/new-palestine-community-schools/1810710-school-district"
+    ],
+    "indystar_2022": [
+      "2022 Indiana General Election: Meet the candidates for Southern Hancock School Board",
+      "Indianapolis Star (via Yahoo News)",
+      "2022-10-19",
+      "https://www.yahoo.com/news/2022-indiana-general-election-meet-090312604.html"
+    ]
   }
- ],
- "review_flags": [],
- "sources": {
-  "npcs_board": [
-   "Board of Education",
-   "New Palestine Community Schools",
-   "2026-10",
-   "https://www.newpal.k12.in.us/school-board/board-of-education"
-  ],
-  "npcs_history": [
-   "Board Member History",
-   "New Palestine Community Schools",
-   "2026-10",
-   "https://www.newpal.k12.in.us/board-member-history"
-  ],
-  "npcs_supt": [
-   "Office of the Superintendent",
-   "New Palestine Community Schools",
-   "2026-10",
-   "https://www.newpal.k12.in.us/departments/office-of-the-superintendent"
-  ],
-  "npcs_news": [
-   "District news",
-   "New Palestine Community Schools",
-   "2026-09",
-   "https://www.newpal.k12.in.us/fs/pages/4754"
-  ],
-  "psr_enroll": [
-   "New Palestine Community Schools",
-   "Public School Review",
-   "2026-10",
-   "https://www.publicschoolreview.com/indiana/new-palestine-community-schools/1810710-school-district"
-  ],
-  "hoodline_jh": [
-   "New Palestine to raze junior high, pack 6th-8th graders into NPI",
-   "Hoodline",
-   "2026-03-14",
-   "https://hoodline.com/2026/03/new-palestine-to-raze-junior-high-pack-6th-8th-graders-into-npi/"
-  ],
-  "indystar_2022": [
-   "2022 Indiana General Election: Meet the candidates for Southern Hancock School Board",
-   "Indianapolis Star (via Yahoo News)",
-   "2022-10-19",
-   "https://www.yahoo.com/news/2022-indiana-general-election-meet-090312604.html"
-  ]
- }
 }

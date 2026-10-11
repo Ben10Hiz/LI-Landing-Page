@@ -45,10 +45,10 @@ A school board is the elected or appointed governing body of a public school cor
 - New Palestine Community Schools, formerly the Community School Corporation of Southern Hancock County, is based in New Palestine in Hancock County [24, 25]. It runs Little Dragons Early Childhood, three elementary schools (Brandywine, New Palestine and Sugar Creek), New Palestine Junior High and New Palestine High School [25]. Public School Review, using federal and state data, lists about 3,959 students in six schools [26]. Superintendent: Dr. Gina Pleak [25].
 - The board has five members, each tied to a numbered district: Amanda Wooton (District 1), Laura Haeberle (District 2), Jon Hooker (District 3, vice president), Dan Walker (District 4, president) and Brian McKinney (District 5, secretary) [27]. District 3 represents all of Sugar Creek Township, which is made up of Districts 1 and 2 [27, 28].
 - Seats on the 2026 ballot: District 3 and District 5, one seat each, matching the state list [6]. Hooker, appointed to District 3 in August 2020 and on the board since, is not on the 2026 ballot, so Emily Boesen (Republican) and Brian Hart (Independent) are competing for an open seat [28, 24, 6]. McKinney, District 5 member since 2007, is running unopposed [24, 6].
-- Building consolidation (announced March 2026): Hoodline, an AI-assisted news site summarizing district materials, reported that the district would close and remove the junior high building, move grades 6-8 into the intermediate school campus renamed New Palestine Junior High starting in 2026-27, use the cleared site to expand Sugar Creek Elementary, and serve kindergarten through grade 5 in the three elementary schools [29]. It reported that the district cited lower operating costs from running fewer buildings and named Senate Enrolled Act 1, the 2025 property-tax law, as a budget pressure [29].
 - Upcoming board business: the Oct. 26, 2026 meeting agenda includes budget approval and ratification of the teachers' master contract [27].
-- Recognition: the district reported in August 2026 that it was named a 2026 Top Workplace and in September 2026 that it received a 'Best in Education' recognition [30].
+- Recognition: the district reported in August 2026 that it was named a 2026 Top Workplace and in September 2026 that it received a 'Best in Education' recognition [29].
 - Forums: this guide found no candidate forum or questionnaire for the District 3 race that it could read. The Daily Reporter in Greenfield published a story on the race on Sept. 22, 2026, but its site was not accessible to this guide.
+- Not included: reports of the junior high closing and grades 6–8 moving to the intermediate campus appeared only on Hoodline, an AI-assisted news site this guide does not use as a source; not yet confirmed from district records or local news.
 
 ## Brian Hart — District 3
 
@@ -130,5 +130,4 @@ Incumbent and board secretary, a member since 2007; unopposed [27, 24, 6].
 26. [New Palestine Community Schools](https://www.publicschoolreview.com/indiana/new-palestine-community-schools/1810710-school-district) — Public School Review, 2026-10
 27. [Board of Education](https://www.newpal.k12.in.us/school-board/board-of-education) — New Palestine Community Schools, 2026-10
 28. [2022 Indiana General Election: Meet the candidates for Southern Hancock School Board](https://www.yahoo.com/news/2022-indiana-general-election-meet-090312604.html) — Indianapolis Star (via Yahoo News), 2022-10-19
-29. [New Palestine to raze junior high, pack 6th-8th graders into NPI](https://hoodline.com/2026/03/new-palestine-to-raze-junior-high-pack-6th-8th-graders-into-npi/) — Hoodline, 2026-03-14
-30. [District news](https://www.newpal.k12.in.us/fs/pages/4754) — New Palestine Community Schools, 2026-09
+29. [District news](https://www.newpal.k12.in.us/fs/pages/4754) — New Palestine Community Schools, 2026-09
