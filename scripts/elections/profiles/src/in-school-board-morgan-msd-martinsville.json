@@ -1,0 +1,98 @@
+{
+ "race_id": "in-school-board-morgan-msd-martinsville",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The district: the 'Morgan MSD Martinsville School Board' seat belongs to the Metropolitan School District of Martinsville (MSD of Martinsville) in Morgan County, based in Martinsville {nces_msd}{msd_rfp_2026}. The district lists seven K-4 elementary schools, Bell Intermediate Academy (grades 5-6), John R. Wooden Middle School, Martinsville High School, Hammons Alternative School and preschool programs {msd_about}. Federal data list 3,998 students in ten schools in 2024-25 {nces_msd}. Dr. Eric Bowlen is superintendent; the board selected him effective July 1, 2022, after he served as a middle school principal and then Martinsville High School principal {msd_about}{msd_rfp_2026}.",
+  "The board has five members: Luke Jackson (president), Dan Conway (vice president), Matt Hankins (secretary), Jacque Deckard and Heather Staggs {msd_board}. State election results list five numbered districts with one seat each; Districts 1, 3 and 4 were on the ballot in 2020 and 2024, and Districts 2 and 5 in 2022 {enr_2020}{enr_2022}{enr_2024}. This guide did not find the district's own description of residence rules or of which voters may vote in each district race.",
+  "Seat on the 2026 ballot: District 2, which elects one member, matching the state list's 'vote for 1' {in_list}{enr_2022}. Dan Conway holds the seat: he won it in 2022 with 4,051 votes to 3,700 for incumbent Don Lipps {enr_2022}. Conway is running for re-election and is challenged by Jordan Scott Terrell {in_list}.",
+  "District 5, held by board president Luke Jackson since he won it unopposed in 2022, would also normally be up in 2026, but no District 5 race appears on the state list {enr_2022}{in_list}{msd_board}. This guide could not determine why.",
+  "Party labels: both candidates are listed as Republicans on the state list {in_list}. In 2022 the District 2 candidates ran without party labels {rt_20220907}{enr_2022}.",
+  "Elementary consolidation: the district plans to close Centerton Elementary, Green Township Elementary, Poston Road Elementary and Smith Fine Arts Academy at the end of the 2026-27 school year and open one new elementary school for 2027-28, according to a December 2025 district announcement published by the Martinsville Chamber of Commerce {chamber_20251210}. The district said all four buildings were built before the 1960s and that maintaining several aging buildings costs more than building and operating one new school; it described the project as tax-neutral, built under a 'Build-Operate-Transfer' model {chamber_20251210}{fox59_consolidation}. The announcement said the board was scheduled to approve the plans on December 10, 2025; this guide did not find a record of that vote {chamber_20251210}. Then-board president Heather Staggs said the board's responsibility is to 'plan not just for today's students, but for generations to come' {fox59_consolidation}.",
+  "Bond projects: in May 2026 the district sought proposals for a $12.5 million package of smaller projects funded by general obligation bonds, including a gym roof at John R. Wooden Middle School, HVAC and other upgrades at Poston Road Elementary, Martinsville High School auditorium and cafeteria work, playground and furniture upgrades at four elementary schools, demolition at Charles L. Smith Fine Arts Academy, and solar at Paragon Elementary and the high school {msd_rfp_2026}.",
+  "Budget and taxes: the 2027 budget hearing was set for October 8, 2026 and adoption for October 22, 2026 {msd_form3_2027}. The published notice lists a $61.3 million total budget estimate; for the debt service fund it lists a maximum of $12,531,898 to be raised, 42.27 percent above the current levy of $8,808,726, and an estimated $946,000 in property-tax cap credits {msd_form3_2027}. This guide found no public statement from the board on how the 2025 property-tax law (SEA 1) affects Martinsville's budget. Martinsville is not listed among districts with referendums on the November 2026 ballot {dlgf_ref}.",
+  "Teacher pay: in October 2025 the Indiana Department of Education notified the district that its state tuition support rose from fiscal 2024 to 2025 but that it did not meet the state's minimum spending requirement for full-time teacher salaries, spending $14,227,991.79 against a required floor of $14,630,676.84; the district was required to acknowledge the notice at a public meeting and post it online {msd_floor_2025}.",
+  "Board meeting minutes are posted on BoardDocs, which could not be read for this guide, so individual votes in 2025-26 are not described here {msd_board}.",
+  "Forums and questionnaires: this guide found no 2026 candidate forum, newspaper questionnaire or VOTE411 entry for this race."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Dan Conway",
+   "seat": "District 2",
+   "summary": "Incumbent and board vice president, first elected in 2022 {enr_2022}{msd_board}.",
+   "website": null,
+   "background": [
+    "Won the District 2 seat in 2022, defeating incumbent Don Lipps {enr_2022}{rt_20221103}.",
+    "Serves as board vice president {msd_board}."
+   ],
+   "path_to_ballot": [
+    "Filed on May 29, 2026 {incitizen_list}.",
+    "Listed as a Republican on the state list {in_list}."
+   ],
+   "positions": [
+    {"topic": "School safety", "items": [
+     "As a 2022 candidate, named bullying as a challenge for the district: 'I've heard a lot of concerns from different folks about the bullying, about how we report it and then what are we doing to correct it,' and said he was meeting with a district to see how it handles and reports bullying {rt_20221103}."
+    ]},
+    {"topic": "Enrollment & school choice", "items": [
+     "In 2022 said the district should find out why families who live in the MSD send their children elsewhere, saying he had asked parents at other schools, 'What is your negative to Martinsville?', and that the district should address their concerns with 'more of an action plan' {rt_20221103}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Is a current board member and the board's vice president {msd_board}.",
+    "As a challenger in 2022, said families he talked to were frustrated with the MSD of Martinsville {rt_20221103}. No 2026 account of the board's record from him was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign website, questionnaire, forum answers or 2026 news coverage found; positions above are from his 2022 campaign.",
+    "Occupation and other background not found.",
+    "No 2026 statements found on the elementary consolidation, the 2026 bond projects, the teacher-salary funding-floor notice, the budget or SEA 1.",
+    "His votes on 2025-26 board decisions could not be checked because the district's BoardDocs minutes were not readable.",
+    "No campaign finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Jordan Scott Terrell",
+   "seat": "District 2",
+   "summary": "Challenger, listed as a Republican {in_list}.",
+   "website": null,
+   "background": [
+    "This guide found no campaign biography or news profile for this candidate."
+   ],
+   "path_to_ballot": [
+    "Filed on June 18, 2026 {incitizen_list}.",
+    "Listed as a Republican on the state list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign website, questionnaire, forum answers or news coverage found.",
+    "Occupation, ties to the district and stated positions unknown. A Martinsville Chamber of Commerce directory lists a 'Jordan & Quinton Terrell' as contacts for a Martinsville business (search result only); this guide could not confirm it is the same person.",
+    "No campaign finance reports found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "msd_board": ["School Board", "MSD of Martinsville", "2026-10", "https://msdofmartinsville.org/school-board/"],
+  "msd_about": ["About Us", "MSD of Martinsville", "2026-10", "https://msdofmartinsville.org/about-us/"],
+  "nces_msd": ["District Directory Information: MSD Martinsville Schools (2024-25)", "National Center for Education Statistics", "2024-25", "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1806510"],
+  "msd_rfp_2026": ["Request for Proposals and Statement of Qualifications: GO Bond Projects", "Metropolitan School District of Martinsville", "2026-05-21", "https://msdofmartinsville.org/wp-content/uploads/2026/05/RFP_Q-MSD-Martinsville-GO-Bond-Projects-FINAL.pdf"],
+  "msd_form3_2027": ["Budget Form 3: Notice to Taxpayers (2027 budget)", "M.S.D. Martinsville School Corporation", "2026-09-28", "https://msdofmartinsville.org/wp-content/uploads/2026/09/Form-3-Notice-to-Taxpayers-10.08.26.pdf"],
+  "msd_floor_2025": ["Funding Floor Notification", "Indiana Department of Education (posted by MSD of Martinsville)", "2025-10-24", "https://msdofmartinsville.org/wp-content/uploads/2025/11/Funding-Floor-Notification-5925.pdf"],
+  "chamber_20251210": ["MSD Next Steps", "Martinsville Chamber of Commerce", "2025-12-18", "https://martinsvillechamber.com/msd-next-steps/"],
+  "fox59_consolidation": ["Martinsville to consolidate 4 elementary schools into 1 new building", "FOX59", "2025-12", "https://fox59.com/indiana-news/martinsville-to-consolidate-4-elementary-schools-into-1-new-building/amp/"],
+  "rt_20220907": ["MSD of Martinsville has one competitive school board race this year, see which one it is", "The Reporter-Times (via Yahoo News)", "2022-09-07", "https://www.yahoo.com/news/msd-martinsville-one-competitive-school-093032121.html"],
+  "rt_20221103": ["See what Dan Conway, Don Lipps had to say about challenges MSD will face in coming years", "The Reporter-Times (via Yahoo News)", "2022-11-03", "https://www.yahoo.com/news/see-dan-conway-don-lipps-094233539.html"],
+  "enr_2020": ["2020 General Election Results (School Board Member)", "Indiana Election Division", "2020-11", "https://enr.indianavoters.in.gov/archive/2020General/index.html"],
+  "enr_2022": ["2022 General Election Results (School Board Member)", "Indiana Election Division", "2022-11", "https://enr.indianavoters.in.gov/archive/2022General/index.html"],
+  "enr_2024": ["2024 General Election Results (School Board Member)", "Indiana Election Division", "2024-11", "https://enr.indianavoters.in.gov/archive/2024General/index.html"],
+  "incitizen_list": ["2026 Indiana General Election School Board Candidate List", "The Indiana Citizen", "2026-08", "https://indianacitizen.org/2026-indiana-general-election-school-board-candidate-list/"],
+  "dlgf_ref": ["Referendum Information", "Indiana Department of Local Government Finance", "2026-10", "https://www.in.gov/dlgf/referendum-information/"]
+ }
+}
