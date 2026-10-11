@@ -1,0 +1,85 @@
+{
+ "race_id": "in-prosecuting-attorney-of-vermillion-county-47th-judicial-circuit",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_prosecutor",
+ "incumbent": {
+  "name": "Bruce D. Aukerman",
+  "party": "Democratic",
+  "summary": "Bruce D. Aukerman has been Vermillion County prosecutor since January 1, 2011, and sits on the board of directors of the Indiana Prosecuting Attorneys Council {verm_ipac}. He is seeking re-election as the Democratic nominee {in_list}.",
+  "record": [
+   "January 1, 2011: Took office as Vermillion County prosecutor {verm_ipac}.",
+   "October 2023: The county announced that the prosecutor's office had received the STOP Violence Against Women grant for the second year in a row {verm_stop}.",
+   "The office, based in Newport, lists child support enforcement and victim services among its functions; its staff page lists Noah Gambill as chief deputy prosecutor {verm_office}{verm_staff}.",
+   "No 2025–2026 news coverage of the office's caseloads, budget or charging decisions was found in the sources reviewed."
+  ]
+ },
+ "race_context": [
+  "Incumbent Democrat Bruce D. Aukerman, in office since 2011, faces Republican Jim Organ {in_list}{verm_ipac}.",
+  "Both candidates filed during the primary filing period: Organ on January 9, 2026 and Aukerman on January 13, 2026 {in_list}. No May 5, 2026 primary results for this office were found.",
+  "Local news coverage of this race is very thin; no candidate interviews, forums, debates or questionnaires were found."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Bruce D. Aukerman",
+   "summary": "Aukerman is the sitting Vermillion County prosecutor, in office since January 1, 2011, and a board member of the Indiana Prosecuting Attorneys Council {verm_ipac}.",
+   "website": null,
+   "background": [
+    "Undergraduate degree from Indiana University; J.D. from Southern Illinois University {verm_ipac}.",
+    "Vermillion County prosecutor since January 1, 2011; member of the Indiana Prosecuting Attorneys Council board of directors {verm_ipac}."
+   ],
+   "path_to_ballot": [
+    "Filed as a Democrat on January 13, 2026, and is listed as the Democratic nominee {in_list}. Primary results were not found."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is the current officeholder {verm_ipac}. No statements by Aukerman about his challenger were found."
+   ],
+   "plans": [
+    "No stated plans for a new term were found."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, interviews, forum appearances or questionnaire responses were found; no statements on any policy topic.",
+    "A search-result snippet listed Mark Christoff as chief deputy, while the office's staff page fetched for this profile lists Noah Gambill; the snippet appears out of date.",
+    "No primary results or prior election results were found."
+   ]
+  },
+  {
+   "ballot_name": "Jim Organ",
+   "summary": "Organ is the Republican nominee {in_list}. No news coverage, campaign website or biography confirming his background was found.",
+   "website": null,
+   "background": [
+    "No verified background information was found in the sources reviewed."
+   ],
+   "path_to_ballot": [
+    "Filed as a Republican on January 9, 2026, and is listed as the Republican nominee {in_list}. Primary results were not found."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements by Organ about Prosecutor Aukerman's record were found."
+   ],
+   "plans": [
+    "No stated plans for the office were found."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "Lawyer directories in search results list a James (James Bryan) Organ as a criminal defense and family law attorney with Organ Law Offices in Terre Haute; it was not confirmed that this is the same person as the ballot candidate, so this is unverified and not used.",
+    "No campaign website, interviews, forum appearances or questionnaire responses were found; no statements on any policy topic.",
+    "Coverage is very thin; profile depth reflects available sources, not the candidate."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "verm_ipac": ["Vermillion County Prosecutor Bruce D. Aukerman", "Indiana Prosecuting Attorneys Council", "accessed 2026-10-11", "https://www.in.gov/ipac/find-your-prosecutor/vermillion-county-prosecutor-bruce-d-aukerman/"],
+  "verm_office": ["Vermillion County Prosecutor's Office", "State of Indiana", "accessed 2026-10-11", "https://www.in.gov/prosecutors/vermillioncounty/"],
+  "verm_staff": ["Our Staff", "Vermillion County Prosecutor's Office", "accessed 2026-10-11", "https://www.in.gov/prosecutors/vermillioncounty/our-staff/"],
+  "verm_stop": ["Vermillion County receives the STOP Grant", "Vermillion County Government", "2023-10-06", "https://www.vermilliongov.us/general/vermillion-county-receives-the-stop-grant/"]
+ }
+}

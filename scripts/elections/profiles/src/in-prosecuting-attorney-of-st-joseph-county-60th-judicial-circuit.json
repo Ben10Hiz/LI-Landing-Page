@@ -1,0 +1,144 @@
+{
+ "race_id": "in-prosecuting-attorney-of-st-joseph-county-60th-judicial-circuit",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_prosecutor",
+ "incumbent": {
+  "name": "Kenneth Cotter",
+  "party": "Democratic",
+  "summary": "Ken Cotter has been St. Joseph County prosecutor since 2015, after serving as chief deputy to Prosecutor Michael Dvorak {stj_wvpe_2025_cotter}. He announced in January 2026 that he would retire after 11 years as county prosecutor and endorsed his chief deputy, Amy Cressy, as his successor; he is not on the ballot {stj_wndu_retire}.",
+  "record": [
+   "2015: Elected prosecutor after serving as Prosecutor Michael Dvorak's chief deputy {stj_wvpe_2025_cotter}; before becoming prosecutor he spent almost 20 years as a deputy prosecuting attorney and chief deputy {stj_wndu_retire}.",
+   "June 2025: Said his county group's Adult Protective Services coverage would change from seven investigators for four counties to 11 for 20 counties under the state's privatization of APS, effective July 1, 2025; he said the state had long underfunded APS, that St. Joseph County had supplemented investigator pay, and that he planned to ask the county council for a few thousand dollars in severance for unused paid time off {stj_wvpe_aps}.",
+   "June 2025: The county Democratic Party reported that Cotter would not seek re-election {stj_wvpe_2025_cotter}.",
+   "January 21, 2026: Announced his retirement at a press conference and endorsed Cressy, saying, \"Her proven abilities, her dedication, and hard work will do this community well\" {stj_wndu_retire}.",
+   "July 2026: Announced that a South Bend officer acted within the law in a May 6, 2026 fatal shooting; he said the shooting was recorded on video but that he would not release the footage because the woman's family asked him not to. WVPE reported that Indiana's Access to Public Records Act does not let family members decide whether such videos are released; Cotter declined WVPE's interview request {stj_wvpe_aberegg}."
+  ]
+ },
+ "race_context": [
+  "Open seat: incumbent Ken Cotter is retiring at the end of his term and endorsed Democratic nominee Amy Cressy, his chief deputy {stj_wndu_retire}.",
+  "Cressy filed as a Democrat on January 12, 2026 {in_list}. No primary vote totals for this office were found; local primary-results coverage listed sheriff, clerk and council races but not the prosecutor race {stj_mnc_primary}.",
+  "Republican John Maciejczyk withdrew from an earlier party caucus, then agreed to run again; the county Republican Party formally added him to the ballot on July 31, 2026 {stj_wvpe_gop}{stj_abc57_gop}. The state candidate list shows his filing dated August 4, 2026 {in_list}.",
+  "Both nominees are career prosecutors: Cressy has worked in the St. Joseph County Prosecutor's Office since 2003 and became chief deputy in 2022 {stj_wndu_retire}{stj_cressy_site}; Maciejczyk is a former St. Joseph County chief deputy prosecutor and assistant U.S. attorney {stj_wvpe_gop}{stj_nd_bio}.",
+  "Police-prosecutor relations are a stated theme of the Republican ticket: at the July 31 party briefing, Republican Rod Laureys said there had been \"a huge breakdown between the prosecutor's office and the police department,\" particularly involving the city {stj_abc57_gop}. No response from the prosecutor's office was found.",
+  "No general-election forums or debates between Cressy and Maciejczyk were found in the sources reviewed."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Amy Suzanne Cressy",
+   "summary": "Cressy is the St. Joseph County chief deputy prosecutor, a post she has held since 2022, and began in the office as an intern in 2003 {stj_wndu_retire}. She is endorsed by retiring Prosecutor Ken Cotter {stj_wndu_retire}.",
+   "website": "https://cressy4prosecutor.com/",
+   "background": [
+    "South Bend native; LaSalle High School, 1993; journalism degree from IU-Bloomington and law degree from IU-Indianapolis {stj_cressy_site}.",
+    "Started as an intern in the St. Joseph County Prosecutor's Office in 2003 and became a deputy prosecutor; worked in the Traffic and Misdemeanor Division, then Major Crimes, handling drug, gun and gang cases, according to her campaign site {stj_cressy_site}.",
+    "Spent four years embedded with the county's Drug Investigation Unit, which her campaign describes as targeting violent drug traffickers and overdose fatalities {stj_cressy_site}.",
+    "Promoted to chief deputy prosecutor and chief of staff in 2022 {stj_cressy_site}{stj_wndu_retire}."
+   ],
+   "path_to_ballot": [
+    "Filed as a Democrat on January 12, 2026 {in_list}{stj_wndu_retire}; listed as the Democratic nominee on the general-election candidate list {in_list}. Primary vote totals were not found."
+   ],
+   "positions": [
+    {
+     "topic": "Violent crime",
+     "items": [
+      "Quoted by the South Bend Tribune, as reproduced on the county Democratic Party's candidate page: \"I want to keep our focus on violent crimes and putting our dedication and our resources into that…\" {stj_dems}."
+     ]
+    },
+    {
+     "topic": "Charging priorities",
+     "items": [
+      "Told ABC57 that the prosecutor must make tough decisions, take tough cases and hold people accountable, working with investigators and community members {stj_abc57_gop}.",
+      "Her campaign site says she \"believes that compassion and accountability are both necessary in the pursuit of justice\" {stj_cressy_site}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is the chief deputy to retiring Prosecutor Ken Cotter, who endorsed her {stj_wndu_retire}. She told ABC57 she felt a duty to continue public service after her predecessor left the role {stj_abc57_gop}.",
+    "No statements by Cressy about Maciejczyk were found."
+   ],
+   "plans": [
+    "Emphasizes community involvement in public safety; she told ABC57, \"I think a safe community is an engaged community\" and \"I can't wave a magic wand from the 10th floor of the county city building\" {stj_abc57_gop}.",
+    "No detailed written plan for the office was found on her campaign site, which lists no specific policy positions {stj_cressy_site}."
+   ],
+   "endorsements_finance": [
+    "Endorsed by Prosecutor Ken Cotter {stj_wndu_retire}.",
+    "Her campaign site takes donations through ActBlue and lists no endorsements {stj_cressy_site}. No campaign finance totals were found."
+   ],
+   "gaps": [
+   "Search-result summaries said Cressy has spoken of using diversion and deferral programs for lower-level, non-violent offenses; the source article (South Bend Tribune, Jan. 22, 2026) could not be fetched, so this is unverified.",
+    "No forum or debate appearances, questionnaire responses, or statements on backlog, staffing, juvenile justice or victims' services were found.",
+    "No primary vote totals were found."
+   ]
+  },
+  {
+   "ballot_name": "John Michael Maciejczyk",
+   "summary": "Maciejczyk is a former St. Joseph County chief deputy prosecutor and assistant U.S. attorney who teaches as an adjunct professor at Notre Dame Law School {stj_wvpe_gop}{stj_nd_bio}. He was added to the ballot by the county Republican Party in July 2026 {stj_wvpe_gop}.",
+   "website": null,
+   "background": [
+    "U.S. Naval Academy graduate (1976); served on Atlantic Fleet destroyers until 1981 {stj_nd_bio}.",
+    "Notre Dame law degree (1984); clerked for Chief Judge Ruggero Aldisert of the Third Circuit, 1984–1986; private practice in Houston and Elkhart, 1987–1998 {stj_nd_bio}.",
+    "Chief deputy prosecutor for St. Joseph County until 2002, then an Elkhart County deputy prosecutor; became an assistant U.S. attorney in 2004 {stj_nd_bio}.",
+    "Notre Dame lists him as having tried more than 100 criminal jury trials and argued more than 30 appeals in the Seventh Circuit; he teaches cybercrime and cybersecurity/data protection as an adjunct professor {stj_nd_bio}."
+   ],
+   "path_to_ballot": [
+    "Withdrew from an earlier party caucus, saying he was concerned about time away from his family, then agreed to run again after meeting with party officials; the county Republican Party formally added him to the ballot on July 31, 2026 {stj_wvpe_gop}{stj_abc57_gop}.",
+    "He said, \"I know it looks like I'm going back and forth, which I did, but it's just because this is going to be a big job\" {stj_wvpe_gop}. The state candidate list dates his filing August 4, 2026 {in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Charging priorities",
+     "items": [
+      "Main platform is coordination among the police department, sheriff's office and prosecutor's office {stj_abc57_gop}; he promised monthly meetings with police chiefs {stj_wvpe_gop}."
+     ]
+    },
+    {
+     "topic": "Drugs & treatment",
+     "items": [
+      "Said his office would enforce state marijuana law as long as marijuana remains illegal in Indiana {stj_abc57_gop}."
+     ]
+    },
+    {
+     "topic": "Staffing & budget",
+     "items": [
+      "Promised expanded training for younger prosecutors {stj_wvpe_gop}."
+     ]
+    },
+    {
+     "topic": "Transparency",
+     "items": [
+      "Promised to share office statistics publicly each month {stj_wvpe_gop}.",
+      "On Flock license-plate cameras, said he was not fully aware of how the county uses them and compared them to court limits on cell phone location data: \"And I think that's a similar type of privacy concern that the courts will be looking at with regard to Flock cameras\" {stj_wvpe_gop}. He told ABC57 he wants to see how state-level litigation unfolds before setting a local approach {stj_abc57_gop}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "No statements by Maciejczyk about Prosecutor Cotter's record or about Cressy were found. At the same July 31 Republican briefing, Rod Laureys said there had been a breakdown between the prosecutor's office and police {stj_abc57_gop}."
+   ],
+   "plans": [
+    "Monthly meetings with police chiefs, monthly public release of statistics, and more training for younger prosecutors {stj_wvpe_gop}."
+   ],
+   "endorsements_finance": [
+    "Selected by the St. Joseph County Republican Party to fill the ballot vacancy {stj_wvpe_gop}. No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website or candidate questionnaire was found.",
+    "Search-result snippets described the July 31 caucus vote as unanimous and said Maciejczyk had first been chosen at an earlier caucus; the full article (reposted on a site that returned 403) was not read, so these details are unverified.",
+    "No forum or debate appearances were found; no statements on backlog, violent crime, juvenile justice or victims' services."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "stj_wndu_retire": ["St. Joseph County prosecutor announces retirement, endorses deputy", "WNDU", "2026-01-21", "https://www.wndu.com/2026/01/21/st-joseph-county-prosecutor-kenneth-cotter-announces-retirement"],
+  "stj_wvpe_2025_cotter": ["Cotter, Hess stepping down, other Democrats stepping up to run", "WVPE", "2025-06-09", "https://www.wvpe.org/wvpe-news/2025-06-09/cotter-hess-stepping-down-other-democrats-stepping-up-to-run"],
+  "stj_wvpe_aps": ["Cotter says APS privatization will stretch investigators thinner", "WVPE", "2025-06-24", "https://www.wvpe.org/wvpe-news/2025-06-24/cotter-says-aps-privatization-will-stretch-investigators-thinner"],
+  "stj_wvpe_aberegg": ["Cotter says officer's fatal shooting of South Bend woman justified", "WVPE", "2026-07-07", "https://www.wvpe.org/wvpe-news/2026-07-07/cotter-says-officers-fatal-shooting-of-south-bend-woman-justified"],
+  "stj_wvpe_gop": ["St. Joseph County's GOP public safety candidates discuss Flock cameras, platforms", "WVPE", "2026-07-31", "https://www.wvpe.org/wvpe-news/2026-07-31/st-joseph-countys-gop-public-safety-candidates-discuss-flock-cameras-platforms"],
+  "stj_abc57_gop": ["Saint Joseph County Republican Party holds briefing over county safety", "ABC57", "2026-07-31", "https://abc57.com/news/saint-joseph-county-republican-party-holds-briefing-over-county-safety"],
+  "stj_mnc_primary": ["2026 Primary Election Results", "95.3 MNC", "2026-05-06", "https://www.953mnc.com/2026/05/06/2026-primary-election-results/"],
+  "stj_cressy_site": ["Amy Cressy for Prosecutor (campaign website)", "Committee to Elect Amy Cressy for Prosecutor", "accessed 2026-10-11", "https://cressy4prosecutor.com/"],
+  "stj_dems": ["2026 Candidates", "St. Joseph County Democratic Party", "accessed 2026-10-11", "https://www.stjoedemocrats.org/2026-candidates-1"],
+  "stj_nd_bio": ["John Maciejczyk, Adjunct Professor of Law", "Notre Dame Law School", "accessed 2026-10-11", "https://law.nd.edu/directory/john-maciejczyk/"]
+ }
+}

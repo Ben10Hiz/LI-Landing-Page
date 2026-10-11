@@ -1,0 +1,121 @@
+{
+ "race_id": "in-prosecuting-attorney-of-washington-county-42nd-judicial-circuit",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_prosecutor",
+ "incumbent": {
+  "name": "Tara Coats Hunt",
+  "party": "Republican",
+  "summary": "Hunt is the Washington County Prosecutor and is seeking a second term {wct_general}{wco_attorneys}. She joined the office in 2017, served as deputy and then chief deputy prosecutor, and took office as elected prosecutor on January 1, 2023, according to her Washington County Times interview {wct_hunt}{wco_attorneys}.",
+  "record": [
+   "2017: Joined the Washington County Prosecutor's Office after practicing as a partner in Hunt Rippey Law LLC {wco_attorneys}.",
+   "January 1, 2023: Took office as elected prosecutor after serving as deputy and chief deputy prosecutor, per her own account {wct_hunt}.",
+   "Office scope: Hunt describes an office of three prosecutors, three criminal legal assistants and three child support caseworkers, handling misdemeanors, Level 1-6 felonies, murder, post-conviction petitions, expungements, traffic and DNR infractions and the state Child Support IV-D program {wct_hunt}.",
+   "Staffing: Hunt says Indiana Prosecuting Attorneys Council data for the 42nd Judicial Circuit shows the office is \"short one full-time attorney and a half a staff member\"; she says the office has managed without new hires so far but may need to raise the issue with county officials {wct_hunt}.",
+   "Case outcomes she cites: the conspiracy-to-commit-murder conviction of Dawn Coleman (30 years, 5 suspended) in a case involving a child found in a suitcase, resolved by plea agreement, with the child's mother sent to Jefferson County, Kentucky for prosecution; more sex-crime convictions and longer sentences; \"over 70 drug dealers convicted\" since 2017; and five dealers convicted in the past seven months with a combined 95 years {wct_hunt}. These are the candidate's own figures.",
+   "Case filings: Opponent Brock Dawson cites criminal filings of 1,004 (2022, the year before Hunt took office), 879 (2023), 861 (2024) and 779 (2025), and says fewer than 450 cases were filed as of September 1, 2026 {wct_dawson_sept}. Hunt said she would \"respectfully disagree that there is a significant decline in cases,\" attributing filing volume to crime levels and police staffing shortages {wct_hunt}.",
+   "Drug-dealing sentences: Dawson says that of 20 Level 1 and Level 2 dealing cases disposed of from January 2023 to February 2026, 5 were dismissed, 4 ended in conviction on the most serious charge and none were sentenced at or above the advisory sentence {wct_dawson_sept}. No response from Hunt to these specific figures was found.",
+   "Trials: Dawson says he has tried seven criminal cases to a jury since January 2023 and that the incumbent has tried none {wct_dawson_sept}. Hunt's interview does not address the trial claim {wct_hunt}.",
+   "Other roles listed in her office biography: chair of the Indiana Prosecuting Attorneys Council Technology Committee, member of a National District Attorneys Association committee, board president of the Washington County Substance Abuse Council, and chair of the Washington County Republican Central Committee {wco_attorneys}."
+  ]
+ },
+ "race_context": [
+  "The prosecutor of the 42nd Judicial Circuit represents the State of Indiana in felony and misdemeanor prosecutions for crimes committed in Washington County and assists crime victims {wco_about}. The office also runs an infraction deferral program and victim services {wco_about}.",
+  "Incumbent Republican Tara Coats Hunt faces Democrat Brock Dawson; it is not an open seat {in_list}{wct_general}.",
+  "Both candidates were on the May 5, 2026 primary ballot without opposition in their own party's primary {wct_primary}{wct_dawson_feb}.",
+  "The Washington County Times published interviews with Dawson (February and September 2026) and Hunt (October 2026); the paper says it does not endorse candidates {wct_dawson_feb}{wct_dawson_sept}{wct_hunt}. No candidate forum or debate was found.",
+  "Key differences: Dawson says case filings have dropped and sentences for serious offenders have been lenient, and proposes more treatment options for low-level drug offenders alongside tougher pursuit of dealers {wct_dawson_sept}. Hunt disputes a significant decline in filings, says a prosecutor's role is accountability rather than treatment, and points to drug-dealer convictions and sentences {wct_hunt}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Brock Dawson",
+   "summary": "Dawson is a Salem-area attorney whose practice since 2013 has been mostly criminal law; he is challenging the incumbent on case filings, sentencing and trial readiness {wct_dawson_feb}{wct_dawson_sept}.",
+   "website": null,
+   "background": [
+    "Attorney; says criminal law has been most of his practice, that since 2013 he has handled hundreds of criminal matters and been lead counsel in several jury trials in multiple counties {wct_dawson_feb}.",
+    "Says he has practiced in more than 50 Indiana courtrooms, mostly in criminal matters {wct_dawson_sept}, and that he has tried seven criminal cases to a jury since January 2023 {wct_dawson_sept}."
+   ],
+   "path_to_ballot": [
+    "Ran unopposed in the May 5, 2026 Democratic primary {wct_primary}{wct_dawson_feb}; listed as the Democratic nominee on the general ballot {in_list}{wct_general}."
+   ],
+   "positions": [
+    {"topic": "Caseloads & backlog", "items": ["Cites declining criminal filings (1,004 in 2022 to 779 in 2025, and fewer than 450 as of September 1, 2026) and says victims and officers feel unsupported; says he will not speculate about the incumbent's motives {wct_dawson_sept}."]},
+    {"topic": "Charging priorities", "items": ["Says most cases resolve by plea and he would use plea agreements, but would be prepared to take cases to trial rather than accept weak pleas {wct_dawson_sept}.", "Says a State Trooper should be consulted on pleas in high-level felony cases {wct_dawson_sept}."]},
+    {"topic": "Violent crime", "items": ["Says sexual predators should face maximum sentences and violent and repeat offenders should be held accountable; says these offenders currently receive lenient sentences {wct_dawson_sept}."]},
+    {"topic": "Drugs & treatment", "items": ["Names addiction, drug abuse and mental health as the most pressing public-safety issues because they drive repeat crime {wct_dawson_feb}.", "Favors more recovery and rehabilitation resources for low-level drug offenders, preferring faith-based and inpatient programs to short prison terms, and alternatives such as counseling, halfway houses, work release and house arrest; says repeat offenders would still face jail {wct_dawson_feb}{wct_dawson_sept}.", "Says high-level dealers and habitual offenders should be pursued more aggressively, working with law enforcement to identify drug sources {wct_dawson_feb}{wct_dawson_sept}."]},
+    {"topic": "Victims' services", "items": ["Says the office should follow Indiana's victims' rights statute, include victims in negotiations, communicate proactively, and protect victims of sex crimes, child victims and domestic violence victims; \"Victims deserve timely communication\" {wct_dawson_feb}{wct_dawson_sept}."]},
+    {"topic": "Transparency", "items": ["Describes his intended relationship with police as \"Harmonious and transparent,\" with daily contact with agencies and investigating officers involved in trial preparation {wct_dawson_sept}.", "Says politics should have no place in the office {wct_dawson_sept}."]}
+   ],
+   "on_incumbent": [
+    "Says community leaders, officers and crime victims are dissatisfied with current leadership {wct_dawson_sept}.",
+    "Cites falling filing numbers and says that of 20 Level 1-2 dealing cases disposed of from January 2023 to February 2026, none were sentenced at or above the advisory sentence {wct_dawson_sept}.",
+    "Says he has tried seven criminal jury trials since January 2023 and the incumbent has tried none, and that he has \"significantly more relevant trial experience than my opponent\" {wct_dawson_sept}{wct_dawson_feb}."
+   ],
+   "plans": [
+    "Prioritize resolving serious felony drug and violent cases, securing victim statements and preparing cases for trial {wct_dawson_feb}.",
+    "Daily contact with law-enforcement agencies and officer involvement in trial preparation {wct_dawson_sept}.",
+    "Expand use of treatment and alternative sentencing for low-level, nonviolent drug offenders willing to participate {wct_dawson_feb}{wct_dawson_sept}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in the sources reviewed {wct_dawson_sept}."
+   ],
+   "gaps": [
+    "No campaign website or social media page was confirmed.",
+    "Unverified (attorney-directory search snippets only; page returned 403): that he runs the Law Office of Brock A. Dawson in Salem, practices family, criminal defense, real estate and estate planning law, and has been licensed in Indiana about 12 years.",
+    "Law school, bar admission date and full career history not confirmed from a fetched source.",
+    "The source of his case-filing and sentencing statistics is not stated in the interview.",
+    "No positions found on juvenile justice, staffing or office budget.",
+    "No endorsements, fundraising figures or forum appearances found; coverage is limited to the Washington County Times interviews."
+   ]
+  },
+  {
+   "ballot_name": "Tara Coats Hunt",
+   "summary": "Hunt is the incumbent prosecutor, in the office since 2017 and elected prosecutor since 2023; she emphasizes drug-dealer prosecutions, sex-crime cases and victim contact {wct_hunt}{wco_attorneys}.",
+   "website": null,
+   "background": [
+    "Washington County Prosecutor; joined the office in 2017 and served as deputy and chief deputy prosecutor before taking office as prosecutor on January 1, 2023 {wco_attorneys}{wct_hunt}.",
+    "Earlier practiced for nearly six years in Wisconsin in complex litigation (fire and explosion, auto crashworthiness and product liability), then returned to Washington County in 2009 as a partner in Hunt Rippey Law LLC {wco_attorneys}.",
+    "Graduated from Indiana University Southeast (1999) and Marquette University Law School (2003) {wco_attorneys}.",
+    "Board president of the Washington County Substance Abuse Council; chair of the Washington County Republican Central Committee {wco_attorneys}."
+   ],
+   "path_to_ballot": [
+    "On the May 5, 2026 Republican primary ballot with no Republican opponent listed {wct_primary}; listed as the Republican nominee on the general ballot {in_list}{wct_general}."
+   ],
+   "positions": [
+    {"topic": "Caseloads & backlog", "items": ["Disputes that filings have declined significantly; attributes filing volume to crime levels and police staffing shortages, saying rural agencies struggle to compete with neighboring counties on pay and benefits {wct_hunt}."]},
+    {"topic": "Charging priorities", "items": ["Describes prosecutors as \"ministers of justice\" and lists factors she weighs: strength of evidence, first-time versus repeat offense, injury or death, victim input, rehabilitation efforts, veteran status including Veterans Court eligibility, and lab results on drug weights; cases that cannot be proven beyond a reasonable doubt may not be filed {wct_hunt}.", "Says her office separately reviews each police report for probable cause, while officers decide how to investigate and whom to arrest {wct_hunt}."]},
+    {"topic": "Violent crime", "items": ["Plans to train officers in sex-crime and child-abuse investigations and to pursue no-contact orders and sex-offender registration {wct_hunt}."]},
+    {"topic": "Drugs & treatment", "items": ["Says \"A Prosecutor's role is not the same as a probation officer, a therapist, or a social worker\"; describes her role as accountability and supports treatment programs as separate efforts {wct_hunt}.", "Says she will prosecute all drug cases while drugs remain illegal in Indiana, raises concerns about modern THC products, and has used plea agreements with treatment conditions {wct_hunt}.", "Credits full cash bail, prison time and patrols with deterring drug dealers, and plans to seek long prison terms for dealers {wct_hunt}."]},
+    {"topic": "Victims' services", "items": ["Says her victim advocate contacts every victim for statements on case resolution and restitution, and victims are kept informed of court dates; her office files no-contact orders in crimes against persons and does not dismiss them before a case resolves unless a judge agrees after a hearing {wct_hunt}."]},
+    {"topic": "Juvenile justice", "items": ["Cites work with the county's three school corporations on truancy, drugs at school and student crime {wct_hunt}."]},
+    {"topic": "Staffing & budget", "items": ["Says state data show the office is short one full-time attorney and half a staff member and that she may need to raise this with county officials {wct_hunt}."]}
+   ],
+   "on_incumbent": [
+    "Is the current officeholder. Her published interview does not mention her opponent; asked about a decline in filings, she said she would \"respectfully disagree that there is a significant decline in cases\" {wct_hunt}."
+   ],
+   "plans": [
+    "Second-term priorities: officer training in sex-crime and child-abuse investigations, no-contact orders and sex-offender registration, and long prison terms for drug dealers {wct_hunt}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in the sources reviewed {wct_hunt}."
+   ],
+   "gaps": [
+    "How she first won the office in 2022 (primary/general results and opponent) was not confirmed from a fetched source; her predecessor is not named in the sources read.",
+    "No response found to Dawson's sentencing statistics or his claim that she has not tried a jury case since 2023.",
+    "Her office-level conviction figures are her own and were not independently verified.",
+    "No campaign website, endorsements, fundraising figures or forum appearances found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "wct_general": ["Election 2026: Candidates on the General Ballot", "The Washington County Times", "2026-10-09", "https://www.washingtoncountytimes.com/post/election-2026-candidates-on-the-general-ballot"],
+  "wct_primary": ["Full list of Washington County 2026 Primary Election Candidates", "The Washington County Times", "2026-05-05", "https://www.washingtoncountytimes.com/post/2026-election-candidates-for-washington-county-indiana"],
+  "wct_hunt": ["Election 2026: Candidate for Washington County Prosecutor Tara Coats Hunt", "The Washington County Times", "2026-10-06", "https://www.washingtoncountytimes.com/post/election-2026-candidate-for-washington-county-prosecutor-tara-coats-hunt"],
+  "wct_dawson_sept": ["Election 2026: Candidate for Washington County Prosecutor Brock Dawson", "The Washington County Times", "2026-09-14", "https://www.washingtoncountytimes.com/post/election-2026-interview-series-candidate-for-washington-county-prosecutor-brock-dawson"],
+  "wct_dawson_feb": ["Election 2026: Prosecuting Attorney Candidate Brock Dawson", "The Washington County Times", "2026-02-11", "https://www.washingtoncountytimes.com/post/election-2026-prosecuting-attorney-candidate-brock-dawson"],
+  "wco_attorneys": ["Our Attorneys", "Washington County Prosecutor's Office", "2026-10", "https://www.in.gov/prosecutors/washingtoncounty/about/our-attorneys"],
+  "wco_about": ["About", "Washington County Prosecutor's Office", "2026-10", "https://www.in.gov/prosecutors/washingtoncounty/about"]
+ }
+}
