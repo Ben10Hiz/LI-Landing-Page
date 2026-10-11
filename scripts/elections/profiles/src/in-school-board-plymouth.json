@@ -1,0 +1,97 @@
+{
+  "race_id": "in-school-board-plymouth",
+  "reviewed": "2026-10-10",
+  "status": "draft",
+  "status_note": "Pending editorial review.",
+  "office": "@in_school_board",
+  "incumbent": null,
+  "race_context": [
+    "The ballot's \"Plymouth Community School Board\" is the board of Plymouth Community School Corporation (PCSC) in Marshall County, which runs Plymouth High School, Lincoln Junior High, Riverside Intermediate, Jefferson, Menominee, Washington and Webster elementary schools and Lincoln Education Center {pcsc_board}{in_list}. The district reports 3,275 students and a 96% graduation rate {pcsc_board}.",
+    "Dr. Pamela Campbell became superintendent July 1, 2026, according to The Pilot News {pilot_campbell}.",
+    "The district lists five board members: Stacey Patrick (president), Steve Holm (vice president), Robin Cupka (secretary), Lisa Huff and Jaime Borden {pcsc_board}. The board has district and at-large seats: in 2024 Allison Shook won the at-large seat over Morris Riddle and Steve Holm won District 2 {abc57_2024}.",
+    "Two seats are on the 2026 ballot, each electing one member {in_list}. District 1 (Center Township) has one candidate, Morris Riddle {in_list}. District 3 is contested between Elizabeth Ginder Wray and Robin Cupka, a current board member {in_list}{pcsc_board}. Which current members hold the District 1 and District 3 seats was not stated on fetched district pages.",
+    "Board vacancy: at-large member Allison Shook resigned effective June 3, 2026; the board took letters of interest through June 19, held public interviews July 1 and scheduled an appointment vote for July 2, 2026, for the term ending Dec. 31, 2028 {wkvi_vacancy}. The appointee's name was not found in fetched sources.",
+    "School meals: in February 2026 the district told parents that free, reduced-price and paid meals would return for 2026-27 after two years of free meals for all students, saying state and USDA reimbursement did not cover the higher cost of food; paid lunch was set at $3.50 and breakfast at $2.50 {abc57_meals}.",
+    "School safety: PCSC received a $70,283.50 Indiana Secured School Safety Grant in 2026 {wkvi_safety}.",
+    "Budget and taxes: in May 2019 voters rejected a PCSC operating referendum of 19 cents per $100 of assessed value for eight years, intended for safety, mental-health programs and teacher recruitment and retention, with 64% voting no {abc57_2019}. No fetched source described the district's 2027 budget or the effect of the 2025 property-tax law (SEA 1) on PCSC.",
+    "No candidate forums, questionnaires or news coverage of the 2026 PCSC races were found in fetched sources."
+  ],
+  "candidates": [
+    {
+      "ballot_name": "Morris Riddle",
+      "seat": "District 1, Center Twp",
+      "summary": "Sole candidate for the District 1 (Center Township) seat {in_list}. Ran for the at-large seat in 2024 and lost to Allison Shook {abc57_2024}.",
+      "website": null,
+      "background": [
+        "No information on his occupation, community roles or ties to the schools was found in fetched sources."
+      ],
+      "path_to_ballot": [
+        "Listed on the 2026 general-election ballot as Nonpartisan for District 1, Center Township, with no opponent {in_list}.",
+        "In November 2024 he received 2,599 votes (41%) for the at-large seat to incumbent Allison Shook's 3,806 (59%) {abc57_2024}."
+      ],
+      "positions": [],
+      "on_incumbent": [],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "No campaign website, social media page, questionnaire answers or forum appearances were found for 2024 or 2026.",
+        "Whether he holds the seat now (for example, by appointment to the June 2026 at-large vacancy) was not found; the district's board list does not include him.",
+        "Background, positions, endorsements and fundraising are unknown."
+      ]
+    },
+    {
+      "ballot_name": "Elizabeth Ginder Wray",
+      "seat": "District 3",
+      "summary": "Challenger for the District 3 seat {in_list}.",
+      "website": null,
+      "background": [
+        "No information on her occupation, community roles or ties to the schools was found in fetched sources."
+      ],
+      "path_to_ballot": [
+        "Listed on the 2026 general-election ballot as Nonpartisan for District 3 {in_list}."
+      ],
+      "positions": [],
+      "on_incumbent": [],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "No news coverage, campaign website, social media page, questionnaire answers or forum appearances were found.",
+        "Background, positions, endorsements and fundraising are unknown."
+      ]
+    },
+    {
+      "ballot_name": "Robin Cupka",
+      "seat": "District 3",
+      "summary": "Current board member and board secretary {pcsc_board}; on the ballot for District 3 {in_list}.",
+      "website": null,
+      "background": [
+        "Serves as secretary of the PCSC board {pcsc_board}.",
+        "No information on her occupation or community roles was found in fetched sources."
+      ],
+      "path_to_ballot": [
+        "Listed on the 2026 general-election ballot as Nonpartisan for District 3 {in_list}."
+      ],
+      "positions": [],
+      "on_incumbent": [
+        "Is a current board member {pcsc_board}."
+      ],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "Unverified (search snippets and paywalled Pilot News results pages only): she ran for District 3 in 2020, finishing second to Kurt Christiansen, and won District 3 in 2022 with about 72%. If accurate, she is the District 3 incumbent; the district's site does not state her seat.",
+        "No campaign statements, website, questionnaire answers or forum appearances were found; her positions and her account of the board's record are unknown.",
+        "No endorsements or campaign finance reports were found."
+      ]
+    }
+  ],
+  "review_flags": [],
+  "sources": {
+    "pcsc_board": ["School Board", "Plymouth Community School Corporation", "2026-10", "https://www.plymouth.k12.in.us/page/school-board"],
+    "pilot_campbell": ["Dr. Pamela Campbell joins PCSC as new superintendent", "The Pilot News", "2026-06-23", "https://www.thepilotnews.com/multimedia/dr-pamela-campbell-joins-pcsc-as-new-superintendent/article_7ccfde8c-e52b-48d7-bc71-276c0cd36f51.html"],
+    "abc57_2024": ["Election Results: Indiana school board races", "ABC57", "2024-11-05", "https://abc57.com/news/election-results-indiana-school-boards"],
+    "wkvi_vacancy": ["Plymouth Community School Corporation seeking Board Member", "WKVI", "2026-06-09", "https://wkvi.com/2026/06/plymouth-community-school-corporation-seeking-board-member/"],
+    "abc57_meals": ["Plymouth Community School Corporation announces return of paid meals, community speaks out", "ABC57", "2026-02-18", "https://www.abc57.com/news/plymouth-community-school-corporation-announces-return-of-paid-meals-community-speaks-out"],
+    "wkvi_safety": ["Local schools receive more than $814,000 in Secured School Safety Grants", "WKVI", "2026-09-01", "https://wkvi.com/2026/09/local-schools-receive-more-than-814000-in-secured-school-safety-grants/"],
+    "abc57_2019": ["Primary election: Elkhart and Plymouth school tax referenda", "ABC57", "2019-05-07", "https://www.abc57.com/news/primary-election-elkhart-and-plymouth-school-tax-referenda"]
+  }
+}

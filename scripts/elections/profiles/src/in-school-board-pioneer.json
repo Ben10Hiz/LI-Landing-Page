@@ -1,0 +1,110 @@
+{
+  "race_id": "in-school-board-pioneer",
+  "reviewed": "2026-10-10",
+  "status": "draft",
+  "status_note": "Pending editorial review.",
+  "office": "@in_school_board",
+  "incumbent": null,
+  "race_context": [
+    "The ballot's \"Pioneer School Board\" is the board of trustees of Pioneer Regional School Corporation, based in Royal Center, which serves Boone, Harrison, Jefferson and Noble townships in Cass County and Cass Township in White County {prsc_board}{in_list}. The district covers about 153 square miles and includes Lucerne, Headlee, Lake Cicott and Royal Center {wiki_prsc}.",
+    "It runs two schools, Pioneer Elementary School and Pioneer Jr./Sr. High School {prsc_board}. GreatSchools lists enrollment of 898 students {gs_prsc}. Dr. Charles Grable is superintendent {prsc_vacancy}{prsc_letter}.",
+    "The board has five members, one representing each of the five townships, according to the district {prsc_board}. The district currently lists Alex Cosgray, Dennis Herd, Lisa Kesling, Bryce Caudle and Brad Swartzell as members {prsc_board}. The state list labels the township seats as numbered districts (District 2, Boone Township; District 4, Jefferson Township) {in_list}; the district's own pages refer to seats by township only {prsc_board}.",
+    "Two seats are on the 2026 ballot, each electing one member {in_list}. Boone Township (District 2): incumbent Brad Swartzell, on the board since 2006, is seeking a sixth term, according to the district {prsc_isba}{prsc_board}; he faces Miriam Henry, listed as Republican {in_list}. Jefferson Township (District 4): Bryce Caudle is the only candidate {in_list}.",
+    "Jefferson Township seat: in April 2026 the district announced that board member Rachelle Pearson would resign at the end of June 2026 after seven years, and that the board planned to appoint a Jefferson Township resident to the seat in July 2026 {prsc_vacancy}. Caudle now appears on the district's list of board members {prsc_board}; a record of his appointment was not found in fetched sources.",
+    "Fees: in a July 2026 parent letter, Superintendent Grable said state law (HEA 1008 / SB 395) requires schools to provide necessary curricular materials at no cost, and that the district would assess a $50 supplemental materials fee for every student beginning after Oct. 1, 2026, for non-curricular instructional and technology supplies; the letter said all Cass County school corporations would assess the fee {prsc_letter}.",
+    "Phones: the same letter said that under state law (SEA 78) and board policy 5136, personal communication devices must be powered off and stored all school day, with all Cass County schools using the same policy {prsc_letter}.",
+    "Facilities: the board scheduled a Sept. 8, 2026 public hearing under IC 20-26-7-37 on proposed deferred-maintenance, HVAC/mechanical-electrical-plumbing, roofing and site work and purchases of technology, equipment and buses {prsc_hearing}. The district posted a further public hearing notice on Sept. 28, 2026, whose content is in images not readable in fetched text {prsc_hearing2}.",
+    "Academics: in April 2026 the district said a Ball State University Center for Business and Economic Research study placed Pioneer among the top 10 Indiana districts for overall value-added performance and among the top 10 most improved {prsc_bsu}. On 2025 state data, Pioneer Elementary had a 3rd-grade IREAD pass rate of 81.1%, ILEARN English/language arts proficiency of 24.2% and math proficiency of 31.1% {idoe_pes}.",
+    "Budget and taxes: no fetched source described the district's 2027 budget, any referendum, or the effect of the 2025 property-tax law (SEA 1) on Pioneer.",
+    "No candidate forums, questionnaires or news coverage of the 2026 Pioneer races were found in fetched sources."
+  ],
+  "candidates": [
+    {
+      "ballot_name": "Bradley Swartzell",
+      "seat": "District 2, Boone Twp",
+      "summary": "Incumbent; the district's longest-serving board member, on the board since 2006 and seeking a sixth term {prsc_isba}{prsc_board}. Energy sales/marketing manager at CountryMark {prsc_board}.",
+      "website": null,
+      "background": [
+        "Energy sales/marketing manager at CountryMark; 1988 Pioneer graduate with a bachelor's degree in marketing from Ball State University (1992), according to his district biography {prsc_board}.",
+        "Served 12 years on the Royal Center Town Council and on the Pioneer Youth League board from 2000 to 2014, according to the district {prsc_board}.",
+        "His children attended Pioneer schools {prsc_isba}.",
+        "In September 2026 the district announced he had been selected for the Indiana School Boards Association's 2026 Region 4 Outstanding Board Service Award {prsc_isba}."
+      ],
+      "path_to_ballot": [
+        "Listed on the 2026 general-election ballot as Nonpartisan for District 2, Boone Township {in_list}. The district says he recently completed his fifth term and is seeking a sixth {prsc_isba}."
+      ],
+      "positions": [],
+      "on_incumbent": [
+        "Is a current board member.",
+        "The district credits him with helping develop Pioneer's first strategic plan, long-range facility planning, bond-funded improvement projects, hiring key administrators and mentoring new board members {prsc_isba}. Superintendent Charles Grable said, \"Brad leads by example\" {prsc_isba}."
+      ],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "No campaign statements, website, questionnaire answers or forum appearances were found; his own stated positions for 2026 are unknown.",
+        "No endorsements or campaign finance reports were found.",
+        "The ballot name is \"Bradley Swartzell\"; the district refers to him as Brad Swartzell."
+      ]
+    },
+    {
+      "ballot_name": "Miriam Henry",
+      "seat": "District 2, Boone Twp",
+      "summary": "Challenger for the Boone Township seat; listed on the state ballot list as Republican {in_list}.",
+      "website": null,
+      "background": [
+        "No information on her occupation or community roles was found in fetched sources."
+      ],
+      "path_to_ballot": [
+        "Listed on the 2026 general-election ballot as Republican for District 2, Boone Township {in_list}."
+      ],
+      "positions": [],
+      "on_incumbent": [],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "No news coverage, campaign website, social media page, questionnaire answers or forum appearances were found.",
+        "Background, ties to the schools, positions, endorsements and fundraising are unknown.",
+        "How she obtained the Republican label (convention or party certification) was not found."
+      ]
+    },
+    {
+      "ballot_name": "Bryce Caudle",
+      "seat": "District 4, Jefferson Twp",
+      "summary": "Sole candidate for the Jefferson Township seat; listed by the district as a current board member {in_list}{prsc_board}. Physicist with Medical Physics Consultants {prsc_board}.",
+      "website": null,
+      "background": [
+        "Works as a physicist for Medical Physics Consultants; 2005 Pioneer graduate with a bachelor's degree in nuclear medicine technology from IUPUI and a master's degree in health physics from Purdue University, according to his district biography {prsc_board}.",
+        "Parent of three children in Pioneer schools {prsc_board}.",
+        "Board member of the Junior Civic Theater in Logansport and member of a professional committee of the Society of Nuclear Medicine (Central Chapter) {prsc_board}."
+      ],
+      "path_to_ballot": [
+        "Listed on the 2026 general-election ballot as Nonpartisan for District 4, Jefferson Township, with no opponent {in_list}.",
+        "The Jefferson Township seat was vacated by Rachelle Pearson's resignation at the end of June 2026, with a board appointment planned for July 2026 {prsc_vacancy}; Caudle now appears on the district's board list {prsc_board}."
+      ],
+      "positions": [],
+      "on_incumbent": [
+        "Is a current board member {prsc_board}."
+      ],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "The date and manner in which he joined the board (presumably the July 2026 appointment to the Jefferson Township vacancy) was not confirmed in a fetched source.",
+        "No campaign statements, website, questionnaire answers or forum appearances were found; his positions are unknown.",
+        "No endorsements or campaign finance reports were found."
+      ]
+    }
+  ],
+  "review_flags": [],
+  "sources": {
+    "prsc_board": ["Members (Meet the Board)", "Pioneer Regional School Corporation", "2026-10", "https://www.pioneer.k12.in.us/page/members"],
+    "prsc_vacancy": ["School Board Vacancy – Jefferson Township", "Pioneer Regional School Corporation", "2026-04-20", "https://www.pioneer.k12.in.us/article/2831339"],
+    "prsc_isba": ["Brad Swartzell Receives ISBA Region 4 Outstanding Board Service Award", "Pioneer Regional School Corporation", "2026-09-29", "https://www.pioneer.k12.in.us/article/3158685"],
+    "prsc_letter": ["Parent Letter, July 2026 (Dr. Charles Grable)", "Pioneer Regional School Corporation", "2026-07-28", "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/415/Prsc/99d11ce4-0222-4184-b73c-cf49899a4872/Parent-Letter-July-2026.pdf"],
+    "prsc_hearing": ["Notice of Public Hearing", "Pioneer Regional School Corporation", "2026-08-26", "https://www.pioneer.k12.in.us/article/3080320"],
+    "prsc_hearing2": ["Public Hearing notice", "Pioneer Regional School Corporation", "2026-09-28", "https://www.pioneer.k12.in.us/article/3156593"],
+    "prsc_bsu": ["Pioneer Ranks Among Top Schools in State in Ball State Study", "Pioneer Regional School Corporation", "2026-04-14", "https://www.pioneer.k12.in.us/article/2819987"],
+    "idoe_pes": ["Indiana GPS report card: Pioneer Elementary School", "Indiana Department of Education", "2026-10", "https://indianagps.doe.in.gov/ReportCard/3514"],
+    "gs_prsc": ["Pioneer Regional School Corp", "GreatSchools", "2026-10", "https://www.greatschools.org/indiana/royal-center/pioneer-regional-school-corp/"],
+    "wiki_prsc": ["Pioneer Regional School Corporation", "Wikipedia", "2026-10", "https://en.wikipedia.org/wiki/Pioneer_Regional_School_Corporation"]
+  }
+}

@@ -1,0 +1,184 @@
+{
+ "race_id": "in-school-board-nettle-creek",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Nettle Creek School Corporation is based in Hagerstown in western Wayne County and runs two schools: Hagerstown Elementary (preschool through grade 6) and Hagerstown Jr.-Sr. High School (grades 7-12), with about 1,100 students {nc_who}. Enrollment was about 1,071 as of July 24, 2026, ahead of the official Oct. 1 count {wwn_finance_aug}. The state ballot names for these offices add '(Wayne-Henry)', indicating the district reaches into Henry County {in_list}. Superintendent: Emily Schaeffer {wwn_officers26}{wwn_president24}.",
+  "The board has seven members: four at-large seats and one seat each for Districts A, B and C {nc_board}. Current members are Shaun Lieberman (at large, president), Sandi Schraub (at large, vice president), Julie Blaase (District A, secretary), Ruthie LaMar (at large), Marcie Houghton (at large), Cody Sankey (District B) and Mike Banning (District C) {nc_board}{wwn_officers26}. Candidates file a petition signed by at least 10 voters in their board district {wwn_filing}{wwn_filing_rules}.",
+  "Seats on the 2026 ballot: two at-large seats and the District B seat, which covers Dalton and Perry townships {wwn_slate}{wwn_filing}. The state list shows the at-large race as 'vote for 1', but the Western Wayne News reported two at-large seats open, matching the two seats held by Lieberman and Houghton, whose terms were last up in 2022 {wwn_slate}{pi_2022}{in_list}. All three incumbents filed again and none has an opponent: Houghton (Republican) and Lieberman (nonpartisan) for the two at-large seats and Sankey (Republican) for District B {wwn_slate}.",
+  "Budget cuts (May 2026): facing a projected $623,000 gap between revenue and spending, which the newspaper tied to lower enrollment and state funding pressures, the board voted 6-0 at a May 27 special meeting to cut about $612,000 from the education fund, including two cancelled teacher contracts, four unfilled vacancies and six instructional assistant positions, plus custodial, maintenance and transportation cuts in the operations fund; Houghton was absent {wwn_cuts}. An earlier work session aimed to save about $300,000 in the operations fund for 2026-27 {wwn_worksession}.",
+  "Finances (2025-2026): there were no raises in 2025 because of fund reappropriations, and a wage increase was a 2026 goal {wwn_officers26}. In February 2025 board member Sandi Schraub urged residents to read Senate Bill 1, the property-tax bill, saying it would affect schools and local governments {wwn_lawmakers}. By July 2026 the operations fund was out of the red at $883,176, and two reduced teaching positions were reinstated; each student brings about $7,345 in state funding {wwn_finance_aug}.",
+  "Facilities and policy: an architectural firm's facility assessments are guiding a 10-year building and maintenance plan, and in July 2026 the board updated policies under the new state wireless device ban {wwn_finance_aug}. Blaase noted the district's 100% graduation rate in 2025 {wwn_officers26}.",
+  "Forums: this guide found no 2026 candidate forum or questionnaire for these uncontested races. The Western Wayne News ran candidate Q&As for contested Nettle Creek races in 2020 and 2024, but none for 2026 was found {wwn_qa2020}{wwn_qa2024}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Marcie Houghton",
+   "seat": "At Large",
+   "summary": "Incumbent at-large member, unopposed for one of two at-large seats {wwn_slate}{nc_board}.",
+   "website": null,
+   "background": [
+    "Has held an at-large seat since at least 2022, when her term was up for election {pi_2022}.",
+    "Became board secretary in January 2024 {wwn_president24}. In January 2026 she was named the board's representative to the Hagerstown/Jefferson Township Library trustees and secretary of the board of finance {wwn_officers26}."
+   ],
+   "path_to_ballot": [
+    "Filed by the June 18, 2026 deadline as a Republican for an at-large seat {wwn_slate}{wwn_filing}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. She was absent from the May 27, 2026 special meeting at which the board approved staffing and budget cuts {wwn_cuts}. This guide found no public statements by her on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No occupation, campaign statement, website, endorsements or finance reports found.",
+    "No candidate Q&A or forum found for 2026."
+   ]
+  },
+  {
+   "ballot_name": "Shaun Lieberman",
+   "seat": "At Large",
+   "summary": "Incumbent at-large member and board president, unopposed for one of two at-large seats {wwn_slate}{nc_board}.",
+   "website": null,
+   "background": [
+    "Has held an at-large seat since at least 2022, when his term was up for election {pi_2022}.",
+    "Was vice president before being elected board president in January 2024; he was reelected president in January 2026 {wwn_president24}{wwn_officers26}.",
+    "Serves as the board's appointee to the Hagerstown park board {wwn_officers26}. In February 2025 he proposed moving money the park board had received for a wheelchair swing to the school {wwn_lawmakers}."
+   ],
+   "path_to_ballot": [
+    "Filed by the June 18, 2026 deadline without a party affiliation for an at-large seat; the state lists him as Nonpartisan {wwn_slate}{in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "At a May 2026 work session on cuts, said he prefers quantitative over qualitative results and wants a direct return on investment, especially from the professional development program {wwn_worksession}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member. As president, he said the board searched hard for alternatives before the May 2026 staffing and budget cuts and that the cuts were needed for the district's long-term stability {wwn_cuts}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No occupation, campaign statement, website, endorsements or finance reports found.",
+    "No candidate Q&A or forum found for 2026."
+   ]
+  },
+  {
+   "ballot_name": "Cody Sankey",
+   "seat": "District B",
+   "summary": "Incumbent District B member, unopposed {wwn_slate}{nc_board}.",
+   "website": null,
+   "background": [
+    "Has held the District B seat (Dalton and Perry townships) since at least 2022, when he filed to keep it {pi_2022}{wwn_slate}.",
+    "Was chosen in January 2026 as the board's representative to the agricultural advisory committee {wwn_officers26}."
+   ],
+   "path_to_ballot": [
+    "Filed by June 12, 2026 for District B, listed as a Republican {wwn_filing}{wwn_slate}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. At the May 2026 work session on budget cuts, he said he does not take the task lightly and wants the school to be the best in the community {wwn_worksession}. He was one of six members voting for the May 27 cuts {wwn_cuts}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No occupation, campaign statement, website, endorsements or finance reports found.",
+    "No candidate Q&A or forum found for 2026.",
+    "His vote on the May 27 cuts is inferred: the article reported a 6-0 vote with only Houghton absent, but did not list votes by name."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "nc_who": [
+   "Who We Are",
+   "Nettle Creek School Corporation",
+   "2026-10",
+   "https://nettlecreekschools.com/who-we-are/"
+  ],
+  "nc_board": [
+   "School Board",
+   "Nettle Creek School Corporation",
+   "2026-10",
+   "https://nettlecreekschools.com/school-board/"
+  ],
+  "wwn_slate": [
+   "School board candidate slate finalized",
+   "Western Wayne News",
+   "2026-06-25",
+   "https://westernwaynenews.com/school-board-candidate-slate-finalized/"
+  ],
+  "wwn_filing": [
+   "4 candidates file for 12 open seats",
+   "Western Wayne News",
+   "2026-06-16",
+   "https://westernwaynenews.com/4-candidates-file-for-12-open-seats-202606/"
+  ],
+  "wwn_filing_rules": [
+   "School board candidates begin election filing",
+   "Western Wayne News",
+   "2026-05-27",
+   "https://westernwaynenews.com/school-board-candidates-begin-election-filing/"
+  ],
+  "wwn_officers26": [
+   "2026 officers elected at Nettle Creek school board",
+   "Western Wayne News",
+   "2026-01-22",
+   "https://westernwaynenews.com/2026-officers-elected-at-nettle-creek-school-board/"
+  ],
+  "wwn_cuts": [
+   "School board approves budget, teaching cuts",
+   "Western Wayne News",
+   "2026-06-02",
+   "https://westernwaynenews.com/school-board-approves-budget-teaching-cuts-202606/"
+  ],
+  "wwn_worksession": [
+   "School's operational cuts topic at second work session",
+   "Western Wayne News",
+   "2026-05-15",
+   "https://westernwaynenews.com/schools-operational-cuts-topic-at-second-work-session/"
+  ],
+  "wwn_finance_aug": [
+   "Board seeks financial improvement",
+   "Western Wayne News",
+   "2026-08-07",
+   "https://westernwaynenews.com/board-seeks-financial-improvement-202608/"
+  ],
+  "wwn_lawmakers": [
+   "School board member: Contact lawmakers about funding",
+   "Western Wayne News",
+   "2025-02-24",
+   "https://westernwaynenews.com/board-member-contact-lawmakers/"
+  ],
+  "wwn_president24": [
+   "Nettle Creek board elects new president",
+   "Western Wayne News",
+   "2024-01-24",
+   "https://westernwaynenews.com/nettle-creek-board-new-president/"
+  ],
+  "pi_2022": [
+   "Incumbent, newcomer have so far filed candidacy for RCS board positions",
+   "Palladium-Item (via Yahoo News)",
+   "2022-08-22",
+   "https://www.yahoo.com/news/incumbent-newcomer-far-filed-candidacy-160014134.html"
+  ],
+  "wwn_qa2020": [
+   "Nettle Creek School Board Candidates",
+   "Western Wayne News",
+   "2020-10-20",
+   "https://westernwaynenews.com/nettle-creek-school-board-candidates/"
+  ],
+  "wwn_qa2024": [
+   "Candidate Q&A: Nettle Creek School Board",
+   "Western Wayne News",
+   "2024-10-09",
+   "https://westernwaynenews.com/candidate-qa-nettle-creek-school-board/"
+  ]
+ }
+}
