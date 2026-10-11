@@ -1,0 +1,278 @@
+{
+ "race_id": "in-school-board-tipton",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The 'Tipton Community School Board' seats belong to Tipton Community School Corporation (TCSC) in Tipton, Tipton County, which runs Tipton Elementary, Tipton Middle and Tipton High School {tcsc_vote}{nces_tcsc}. Federal data list 1,366 students in 2024-25, and the district says enrollment has declined gradually over the past decade {nces_tcsc}{tcsc_ref_why}. Scott Jaworski became superintendent on July 1, 2026, succeeding the retired Ryan Glaze; the board chose him in 2025 and he served as associate superintendent and then interim superintendent during the transition {rep_supt_20260707}{kt_supt_2025}{rep_brief_20260609}.",
+  "The board has seven members: Rob Cochrane (president), Jennifer Humrichous (vice president), Kimberly Fague (secretary), Tami Brown, Andrea Campbell, Eric Underwood and Beth Woelfert {tcsc_board}{rep_brief_20260113}. Members are elected from residence areas that include the City of Tipton and Cicero Township; the district site does not describe the full seat plan {tcsc_board}{kt_forum_2022}{kt_kyc_2024}.",
+  "Cicero Township: Robert Cochrane won this seat unopposed in 2022 and is running again, unopposed {kt_results_2022}{in_list}. Cicero Township has a second seat, filled by Beth Woelfert in the 2024 election, which is not on the 2026 ballot {kt_kyc_2024}{kt_newmembers_2025}.",
+  "City of Tipton — likely two seats, not one: in 2022 voters filled two City of Tipton seats, electing Jason Springer and Eric Underwood and unseating incumbent Chris McNew {kt_forum_2022}{kt_results_2022}. Springer resigned in September 2024, and the board interviewed six people in November 2024 to serve the rest of his term; it appointed Tamera Brown and Kimberly Fague to fill vacancies in late 2024 {kt_vacancy_2024}{kt_newmembers_2025}. Both 2022 City seats would normally be up in 2026, but the state list shows this race as 'vote for 1'; this guide could not confirm the number of seats from an official 2026 ballot {in_list}.",
+  "Incumbents running: Cochrane (Cicero Township) and Eric Underwood (City of Tipton) are current members on the ballot; Tamera Noble Brown appears to be the board member listed as Tami Brown, who was appointed in late 2024, though no fetched source gives her full name {in_list}{tcsc_board}{kt_newmembers_2025}.",
+  "Party labels: the state list shows Cochrane, Underwood and Tamera Noble Brown with the Republican label, Caiden C. McNew as Democratic and Christopher K. McNew as Independent {in_list}.",
+  "Operating referendum on the same ballot: on June 30, 2026 the board approved placing the district's first operating referendum on the November 3 ballot, asking for a tax rate of up to $0.25 per $100 of assessed value for up to eight years, raising no more than $2 million a year {rep_ref_20260708}{tcsc_ref}. The district estimates the cost for a median home at $174 to $216 a year and about $4 per acre of farmland, and says the money would go to academic programs, student supports, staff recruitment and retention, transportation and operations, not construction or athletic facilities {rep_ref_20260708}{tcsc_ref}.",
+  "Budget and SEA 1: the district cites revenue losses from the 2025 property-tax law (SEA 1), property-tax cap (circuit breaker) losses, rising costs and declining enrollment, and says earlier cuts — staff reductions through attrition, shared positions, deferred maintenance and transportation changes — cannot fully close the gap; it says cuts to staffing, programs, transportation and student services may follow if the referendum fails {tcsc_ref_why}{tcsc_ref_faq}{tcsc_ref}. The district's pages do not give a dollar figure for the SEA 1 loss {tcsc_ref_why}{tcsc_ref_faq}.",
+  "Fees: in January 2026 the board approved transportation participation fees to offset SEA 1 costs, including a fixed fee for extracurricular activities and a field trip fee; in July 2026 it kept the transportation fee at $5 per student per round trip, to be reviewed in June 2027 {rep_brief_20260113}{rep_brief_20260711}. Meal prices rise for 2026-27 to meet a required weighted average {rep_brief_20260609}.",
+  "Facilities: a Tipton Elementary playground replacement was funded in part by a $200,000 Tipton County Foundation grant; in January 2026 the board put off a $2.95 million microturbine energy project, saying the upfront cost was not feasible {rep_brief_20260113}{rep_brief_20260609}.",
+  "Other 2026 actions: the board adopted 2026 legislative policy updates including wireless device restrictions (June 2026) and set a 2027 budget hearing for September 22 with adoption scheduled for October 13, 2026 {rep_brief_20260609}{rep_brief_20260711}.",
+  "Forums: no 2026 candidate forum was found for this guide. In a 2022 Tipton County Chamber of Commerce forum, Underwood and Chris McNew (then the incumbent) answered questions on teacher retention and district programs {kt_forum_2022}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Robert C. Cochrane, II",
+   "seat": "Cicero Township",
+   "summary": "Incumbent and board president, running unopposed for the Cicero Township seat he first won unopposed in 2022 {in_list}{kt_results_2022}{rep_brief_20260113}.",
+   "website": null,
+   "background": [
+    "Elected to the Cicero Township seat in 2022 without opposition and joined the board in January 2023 {kt_results_2022}.",
+    "Board president; re-elected to that post at the January 13, 2026 reorganization {rep_brief_20260113}{tcsc_board}."
+   ],
+   "path_to_ballot": [
+    "Listed with the Republican label on the state candidate list; he is the only candidate for the seat {in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "As president he leads the board that approved the June 30, 2026 operating referendum resolution; no vote tally or individual statement was published in the coverage reviewed {rep_ref_20260708}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member. On the superintendent transition approved in 2025, he told the Kokomo Tribune, \"I didn't want to do anything to disrupt that,\" referring to the year-long transition from Ryan Glaze to Scott Jaworski {kt_supt_2025}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, occupation or campaign statement was found.",
+    "No 2022 candidate remarks were reported; he was unopposed and the 2022 forum article reported no remarks from him.",
+    "No 2026 candidate forum, Kokomo Tribune candidate guide, VOTE411 questionnaire or county campaign finance filing was found for this guide; Kokomo Tribune articles are partly paywalled, and only their free portions were read."
+   ]
+  },
+  {
+   "ballot_name": "Caiden C. McNew",
+   "seat": "City of Tipton",
+   "summary": "Candidate for a City of Tipton seat, listed with the Democratic label; not a current board member {in_list}{tcsc_board}.",
+   "website": null,
+   "background": [
+    "No campaign biography was found; see gaps."
+   ],
+   "path_to_ballot": [
+    "Listed with the Democratic label on the state candidate list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, social media page, forum remarks or news coverage was found; a web search for the name returned no relevant results.",
+    "Relationship, if any, to fellow candidate Christopher K. McNew was not established.",
+    "No 2026 candidate forum, Kokomo Tribune candidate guide, VOTE411 questionnaire or county campaign finance filing was found for this guide; Kokomo Tribune articles are partly paywalled, and only their free portions were read."
+   ]
+  },
+  {
+   "ballot_name": "Christopher K. McNew",
+   "seat": "City of Tipton",
+   "summary": "Candidate for a City of Tipton seat, listed as Independent; not a current board member {in_list}{tcsc_board}.",
+   "website": null,
+   "background": [
+    "No 2026 campaign biography was found; see gaps."
+   ],
+   "path_to_ballot": [
+    "Listed as Independent on the state candidate list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No 2026 statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "Possible identity not confirmed: a Chris McNew, described as a former Tipton educator, held a City of Tipton board seat until losing reelection in 2022 (Kokomo Tribune, October 25 and November 9, 2022). At a 2022 forum he cited district facility and program improvements and teacher pay. This guide did not confirm that he is the 2026 candidate, so those remarks are not used in this profile.",
+    "No campaign website, social media page or 2026 news coverage was found.",
+    "No 2026 candidate forum, Kokomo Tribune candidate guide, VOTE411 questionnaire or county campaign finance filing was found for this guide; Kokomo Tribune articles are partly paywalled, and only their free portions were read."
+   ]
+  },
+  {
+   "ballot_name": "Eric Underwood",
+   "seat": "City of Tipton",
+   "summary": "Incumbent; elected to a City of Tipton seat in 2022 and seeking reelection {kt_results_2022}{tcsc_board}{in_list}.",
+   "website": null,
+   "background": [
+    "Former teacher who taught at Southwood for five years before leaving the profession, and a relatively new Tipton resident as of 2022, according to the Kokomo Tribune {kt_forum_2022}.",
+    "Won one of two City of Tipton seats in 2022 with about 27 percent of the vote in a four-candidate field {kt_results_2022}."
+   ],
+   "path_to_ballot": [
+    "Listed with the Republican label on the state candidate list {in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "In 2022 he said the district should survey teachers, students and community members, including teachers who leave and families who choose other districts or choose Tipton {kt_forum_2022}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Explaining his own departure from teaching in 2022, he said, \"I think I left for the same reason a lot of people leave jobs, that is the culture and leadership,\" adding that pay was not the reason {kt_forum_2022}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member and serves on board advisory committees {tcsc_board}{rep_brief_20260711}. No 2026 statement from him on the board's record, including the referendum, was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "His positions are from the 2022 campaign; no 2026 statements were found.",
+    "Current occupation not found.",
+    "No 2026 candidate forum, Kokomo Tribune candidate guide, VOTE411 questionnaire or county campaign finance filing was found for this guide; Kokomo Tribune articles are partly paywalled, and only their free portions were read."
+   ]
+  },
+  {
+   "ballot_name": "Tamera Noble Brown",
+   "seat": "City of Tipton",
+   "summary": "Appears to be the current board member listed by the district as Tami Brown, appointed in late 2024 to fill a vacancy; listed with the Republican label {in_list}{tcsc_board}{kt_newmembers_2025}.",
+   "website": null,
+   "background": [
+    "The Kokomo Tribune reported that the board appointed Tamera Brown in late 2024 because of a vacancy; the article did not say which seat {kt_newmembers_2025}. The board interviewed candidates that November to fill the rest of Jason Springer's City of Tipton term {kt_vacancy_2024}.",
+    "Listed as a board member in 2026 district materials {tcsc_board}{rep_brief_20260113}{rep_brief_20260711}."
+   ],
+   "path_to_ballot": [
+    "Listed with the Republican label on the state candidate list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Appears to be a current board member (appointed). No statement from her on the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No fetched source gives the board member's full name, so the match between 'Tamera Noble Brown' and board member 'Tami Brown' rests on the name and the 2024 appointment report.",
+    "Whether she was appointed to Springer's City of Tipton seat or another vacancy was not confirmed (the free portion of the Kokomo Tribune's November 2024 article was cut off).",
+    "No campaign website, occupation, social media page or forum remarks were found.",
+    "No 2026 candidate forum, Kokomo Tribune candidate guide, VOTE411 questionnaire or county campaign finance filing was found for this guide; Kokomo Tribune articles are partly paywalled, and only their free portions were read."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "tcsc_board": [
+   "Meet the Board",
+   "Tipton Community School Corporation",
+   "2026-10",
+   "https://www.tcsc.k12.in.us/our-district/board/meet-the-board"
+  ],
+  "tcsc_ref": [
+   "Referendum 2026: Overview",
+   "Tipton Community School Corporation",
+   "2026-10",
+   "https://www.tcsc.k12.in.us/our-district/referendum"
+  ],
+  "tcsc_ref_why": [
+   "Why TCSC is Considering an Operating Referendum",
+   "Tipton Community School Corporation",
+   "2026-10",
+   "https://www.tcsc.k12.in.us/our-district/referendum/why"
+  ],
+  "tcsc_ref_faq": [
+   "Referendum: Frequently Asked Questions",
+   "Tipton Community School Corporation",
+   "2026-10",
+   "https://www.tcsc.k12.in.us/our-district/referendum/frequently-asked-questions"
+  ],
+  "tcsc_vote": [
+   "Referendum: Voting Information",
+   "Tipton Community School Corporation",
+   "2026-10",
+   "https://www.tcsc.k12.in.us/our-district/referendum/voting-information"
+  ],
+  "nces_tcsc": [
+   "Search for Public School Districts: Tipton Community School Corp (2024-25 data)",
+   "National Center for Education Statistics",
+   "2026-10",
+   "https://nces.ed.gov/ccd/districtsearch/district_list.asp?Search=1&details=1&InstName=Tipton+Community&State=18"
+  ],
+  "rep_ref_20260708": [
+   "Tipton school board approves district's first operating referendum to appear on November ballot",
+   "The Reporter",
+   "2026-07-08",
+   "https://readthereporter.com/?p=197174"
+  ],
+  "rep_supt_20260707": [
+   "Scott Jaworski named Tipton Community Schools superintendent",
+   "The Reporter",
+   "2026-07-07",
+   "https://readthereporter.com/scott-jaworski-named-tipton-community-schools-superintendent/"
+  ],
+  "rep_brief_20260113": [
+   "Tipton School Board Briefs: Jan. 13, 2026",
+   "The Reporter",
+   "2026-01-28",
+   "https://readthereporter.com/tipton-school-board-briefs-jan-13-2026/"
+  ],
+  "rep_brief_20260609": [
+   "Tipton School Board Briefs: June 9, 2026",
+   "The Reporter",
+   "2026-06-16",
+   "https://readthereporter.com/tipton-school-board-briefs-june-9-2026/"
+  ],
+  "rep_brief_20260711": [
+   "Tipton School Board Briefs: July 11, 2026",
+   "The Reporter",
+   "2026-07",
+   "https://readthereporter.com/tipton-school-board-briefs-july-11-2026/"
+  ],
+  "kt_supt_2025": [
+   "Tipton schools names new superintendent for 2026",
+   "Kokomo Tribune",
+   "2025-06-06",
+   "https://www.kokomotribune.com/news/tipton-schools-names-new-superintendent-for-2026/article_50c28b11-7b72-4c79-b789-328e405ce9a4.html"
+  ],
+  "kt_forum_2022": [
+   "Tipton hears from school board candidates",
+   "Kokomo Tribune (via Yahoo News)",
+   "2022-10-25",
+   "https://www.yahoo.com/news/tipton-hears-school-board-candidates-222300549.html"
+  ],
+  "kt_results_2022": [
+   "Mixed bag for incumbents in reelection bids",
+   "Kokomo Tribune (via Yahoo News)",
+   "2022-11-09",
+   "https://www.yahoo.com/news/mixed-bag-incumbents-reelection-bids-105100280.html"
+  ],
+  "kt_kyc_2024": [
+   "Know your candidates: 2024 Tipton School Board",
+   "Kokomo Tribune",
+   "2024-10-15",
+   "https://www.kokomotribune.com/news/know-your-candidates-2024-tipton-school-board/article_f487017e-898e-11ef-9f7d-33de40105875.html"
+  ],
+  "kt_vacancy_2024": [
+   "Tipton School Board hears from potential members",
+   "Kokomo Tribune",
+   "2024-11-11",
+   "https://www.kokomotribune.com/news/tipton-school-board-hears-from-potential-members/article_19f81dc6-9e2a-11ef-a44e-a3e7b91d00eb.html"
+  ],
+  "kt_newmembers_2025": [
+   "New school board members take seats this month",
+   "Kokomo Tribune (via Yahoo News)",
+   "2025-01-06",
+   "https://www.yahoo.com/news/school-board-members-seats-month-231600718.html"
+  ]
+ }
+}
