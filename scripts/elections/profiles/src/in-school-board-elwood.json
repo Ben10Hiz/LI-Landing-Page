@@ -1,0 +1,226 @@
+{
+ "race_id": "in-school-board-elwood",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Elwood Community School Corporation serves the Elwood area of Madison County; its taxing districts are Duck Creek and Pipe Creek townships and the City of Elwood, with the Elwood City–Pipe Creek Township district making up 81.7% of the tax base {el_forecast}. State enrollment counts were 1,568 students in 2018-19, 1,462 in 2024-25 and 1,408 in 2025-26 {idoe_enroll}.",
+  "Superintendent: Dr. Troy Friedersdorf. He became interim superintendent in February 2022 after Joe Brown left for Fort Wayne Community Schools {hb_supt_2022}. On Aug. 6, 2026 the board approved a new contract running from Aug. 10, 2026 to June 30, 2029, with automatic one-year extensions possible through June 30, 2034; it was signed by board president Robert Savage and board secretary Sandra Ratliff {el_supt_contract}.",
+  "How members are elected: all seats are at large, and elections alternate. Three at-large seats were on the ballot in 2020 (nine candidates; the Herald Bulletin said it was the second election with an at-large field) and again in 2024, when incumbents Chad Bock, Stephanie Hoel and Robert Savage ran unopposed; two seats were on the ballot in 2022 {hb_2020}{hb_2024}{hb_2022}. Together this points to a five-member board, though this guide did not find a district page listing all members.",
+  "Seats on the 2026 ballot: the state list shows 'vote for 1' for the Elwood at-large race, but the two seats filled in 2022 are the ones up this year {in_list}{hb_2022}. In 2022 David (Mike) Peterson (1,669 votes) and Sandra (Sandy) Ratliff (1,498) were the only two candidates and won both seats {enr_2022}. Both are on the 2026 ballot, so voters are likely choosing two of four candidates; this guide could not confirm the vote-for number on the Madison County ballot {in_list}.",
+  "Operating referendum (Nov. 2026 ballot): on June 18, 2026 the board passed a resolution placing an operating referendum on the ballot {el_news}{el_resolution}. The question asks to raise property taxes for up to eight years at a rate of no more than $0.49 per $100 of assessed value, up to $2.5 million a year, to fund teacher and staff retention and recruitment 'to maintain current class sizes', student transportation, technology, and school safety and security; the state's Department of Local Government Finance approved the wording on July 2, 2026 and estimated a $245 a year increase for a median $100,000 home {dlgf_elwood}. The Madison County Election Board placed it on the ballot in late July {hb_ref_2026}.",
+  "Referendum spending plan: the district's filed plan estimates about $1.7 million a year, including $1,050,000 for staff retention and recruitment, $350,000 for transportation (about 8 bus drivers and 5 bus monitors), $250,000 for technology and $50,000 for the existing school resource officer's salary and benefits {el_spending}. The district says that if the measure fails it would need further cuts that could mean fewer courses and activities, larger classes, possible staff reductions and bus route changes {el_refpage}.",
+  "Budget and SEA 1: the district's September 2026 financial update shows the education and operations funds spending more than they take in each year from 2024 on, with the combined ending balance projected to fall from $2.76 million at the end of 2026 to below zero in 2029 without changes {el_onepager}. A fall 2026 property-tax forecast prepared for the district outlines the 2025 property-tax law SEA 1 (larger homestead deductions phased in through 2031 and a new homestead credit) and projects circuit-breaker tax-cap losses of about $1.3 million in 2026, rising in later years {el_forecast}.",
+  "Forums: this guide found no 2026 candidate forum, questionnaire or news coverage of this race. The most recent candidate statements found are from the 2020 campaign {hb_2020}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "David (Mike) Peterson",
+   "seat": "At Large",
+   "summary": "Incumbent, first elected in 2022 {enr_2022}{in_list}.",
+   "website": null,
+   "background": [
+    "In 2020 the Herald Bulletin described him as a store manager in Noblesville and the father of students at Elwood's high school and intermediate school {hb_2020}."
+   ],
+   "path_to_ballot": [
+    "Listed as Nonpartisan on the state's 2026 candidate list {in_list}.",
+    "Ran unsuccessfully for an at-large seat in 2020, finishing seventh of nine with 719 votes {enr_2020}; won a seat in 2022 with 1,669 votes as one of two candidates for two seats {hb_2022}{enr_2022}."
+   ],
+   "positions": [
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "In 2020 he said 'the teaching staff is central to attracting and keeping families in the district' and named keeping students and teachers as the top concern {hb_2020}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "In 2020 he called the Hinds Career Center the district's 'shining star' and said he wanted to help carry the message of the district's successes {hb_2020}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member. This guide found no 2026 statement from him on the board's record, including the referendum the board placed on the ballot in June 2026."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No 2026 campaign statements, website, questionnaire or forum answers found.",
+    "Current occupation not confirmed; the store-manager description dates from 2020.",
+    "No endorsements or campaign finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Joseph Greg Tackett",
+   "seat": "At Large",
+   "summary": "Candidate for an at-large seat; not a current board member as far as this guide found {in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed as Nonpartisan on the state's 2026 candidate list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no news coverage, website, social media page, questionnaire or forum answers for this candidate.",
+    "Occupation, background and ties to the schools are unknown.",
+    "No positions, endorsements or campaign finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Sandra (Sandy) Ratliff",
+   "seat": "At Large",
+   "summary": "Incumbent and board secretary, elected in 2022 {enr_2022}{el_supt_contract}.",
+   "website": null,
+   "background": [
+    "Serves as secretary of the board; she attested the June 18, 2026 referendum resolution and signed the superintendent's August 2026 contract in that role {el_resolution}{el_supt_contract}.",
+    "In 2020 the Herald Bulletin described her as a former member who had served more than eight years on the board and sometimes worked as a substitute teacher {hb_2020}."
+   ],
+   "path_to_ballot": [
+    "Listed as Nonpartisan on the state's 2026 candidate list {in_list}.",
+    "Ran unsuccessfully in 2020, finishing eighth of nine with 654 votes {enr_2020}; returned to the board in 2022 with 1,498 votes as one of two candidates for two seats {hb_2022}{enr_2022}."
+   ],
+   "positions": [
+    {
+     "topic": "Enrollment & school choice",
+     "items": [
+      "In 2020 she said 'it seems like we are losing more students each year and more staff each year' and that officials should survey students and staff to find out why they leave and act on the results {hb_2020}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member. Her signature appears on the June 18, 2026 resolution placing the operating referendum on the ballot {el_resolution}. This guide found no 2026 public statement from her on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No 2026 campaign statements, website, questionnaire or forum answers found.",
+    "Dates of her earlier board service (before 2020) were not confirmed.",
+    "No endorsements or campaign finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Steven (Alex) Mireles",
+   "seat": "At Large",
+   "summary": "Candidate for an at-large seat; not a current board member as far as this guide found {in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed as Nonpartisan on the state's 2026 candidate list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no news coverage, website, social media page, questionnaire or forum answers for this candidate.",
+    "Occupation, background and ties to the schools are unknown.",
+    "No positions, endorsements or campaign finance reports found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "idoe_enroll": [
+   "Corporation Enrollment by Grade Level, 2006-26",
+   "Indiana Department of Education",
+   "2026",
+   "https://www.in.gov/doe/files/corporation-enrollment-grade-2006-26.xlsx"
+  ],
+  "enr_2020": [
+   "2020 General Election results, School Board Member (Madison County)",
+   "Indiana Election Division",
+   "2020-11",
+   "https://enr.indianavoters.in.gov/archive/2020General/index.html"
+  ],
+  "enr_2022": [
+   "2022 General Election results, School Board Member (Madison County)",
+   "Indiana Election Division",
+   "2022-11",
+   "https://enr.indianavoters.in.gov/archive/2022General/index.html"
+  ],
+  "hb_2020": [
+   "Student, teacher turnover top Elwood candidate concerns",
+   "The Herald Bulletin",
+   "2020-10-24",
+   "https://www.heraldbulletin.com/elections/student-teacher-turnover-top-elwood-candidate-concerns/article_9507acee-14d0-11eb-8de8-c75c2b491a7d.html"
+  ],
+  "hb_2022": [
+   "School board seats' deadline is noon Friday",
+   "The Herald Bulletin",
+   "2022-08-25",
+   "https://www.heraldbulletin.com/news/education/school-board-seats-deadline-is-noon-friday/article_ba47da06-24a5-11ed-9d99-6b992d8c4316.html"
+  ],
+  "hb_2024": [
+   "ACS incumbents being challenged in November election",
+   "The Herald Bulletin",
+   "2024-06-20",
+   "https://www.heraldbulletin.com/elections/acs-incumbents-being-challenged-in-november-election/article_9c98bf9c-2f3a-11ef-92ec-3f7903afbc8e.html"
+  ],
+  "hb_supt_2022": [
+   "Three school districts start off 2022-23 school year with new superintendents",
+   "The Herald Bulletin",
+   "2022-07-23",
+   "https://www.heraldbulletin.com/news/education/three-school-districts-start-off-2022-23-school-year-with-new-superintendents/article_b5956760-093b-11ed-aabb-47323862f9d1.html"
+  ],
+  "hb_ref_2026": [
+   "Madison County Election Board approves 3 referendums on November ballots",
+   "The Herald Bulletin",
+   "2026-07-30",
+   "https://www.heraldbulletin.com/news/local_news/madison-county-election-board-approves-3-referendums-on-november-ballots/article_013f16b8-a900-4f0a-a277-aa9548259518.html"
+  ],
+  "el_supt_contract": [
+   "Superintendent's Contract of Employment (Dr. Troy Friedersdorf)",
+   "Elwood Community School Corporation",
+   "2026-08-06",
+   "https://www.elwood.k12.in.us/wp-content/uploads/2026/08/Superintendents-signed-contract.pdf"
+  ],
+  "el_news": [
+   "Operating Referendum 2026",
+   "Elwood Community School Corporation",
+   "2026-10",
+   "https://www.elwood.k12.in.us/test-post-2/"
+  ],
+  "el_refpage": [
+   "Referendums",
+   "Elwood Community School Corporation",
+   "2026-10",
+   "https://www.elwood.k12.in.us/referendums/"
+  ],
+  "el_onepager": [
+   "Financial Update, September 2026",
+   "Elwood Community School Corporation",
+   "2026-09-15",
+   "https://www.elwood.k12.in.us/wp-content/uploads/2024/10/September-2026-One-Pager.pdf"
+  ],
+  "el_forecast": [
+   "Elwood Community School Corporation Property Tax Forecast – Fall 2026",
+   "Policy Analytics for Elwood Community School Corporation",
+   "2026-10",
+   "https://www.elwood.k12.in.us/wp-content/uploads/2024/10/Fall-2026-Financial-Forecast.pdf"
+  ],
+  "el_resolution": [
+   "Resolution placing operating referendum on the ballot (adopted June 18, 2026)",
+   "Elwood Community School Corporation, filed with the Indiana Department of Local Government Finance",
+   "2026-06-18",
+   "https://www.in.gov/dlgf/files/referendum-documentation2/2026-november-referendum-documents/26-033-Elwood-Community-School-Corporation-Operating-Documentation.pdf"
+  ],
+  "el_spending": [
+   "Exhibit A: Revenue Spending Plan",
+   "Elwood Community School Corporation, filed with the Indiana Department of Local Government Finance",
+   "2026-06",
+   "https://www.in.gov/dlgf/files/referendum-documentation2/2026-november-referendum-documents/26-033-Elwood-Community-School-Corporation-Operating-Spending-Plan.pdf"
+  ],
+  "dlgf_elwood": [
+   "Findings and Final Determination on Proposed Question, No. 26-033-REF",
+   "Indiana Department of Local Government Finance",
+   "2026-07-02",
+   "https://www.in.gov/dlgf/files/referendum-documentation2/2026-november-referendum-documents/26-033-Elwood-Community-School-Corporation-Operating-Determination.pdf"
+  ]
+ }
+}

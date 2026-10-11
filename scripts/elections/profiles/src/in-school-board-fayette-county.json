@@ -1,0 +1,153 @@
+{
+ "race_id": "in-school-board-fayette-county",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Fayette County School Corporation is the countywide public school district for Fayette County, based in Connersville. State enrollment counts were 3,498 students in 2018-19, 3,103 in 2024-25 and 3,051 in 2025-26 {idoe_enroll}. This guide could not load the district's website, which blocked automated access, and did not confirm the current superintendent from a fetched page.",
+  "How members are elected: members run by residence district. State results show District 3 electing two members each cycle (2018, 2020, 2022 and 2024), District 4 one member in 2018 and 2022, and Districts 1 and 2 one member each in 2020 and 2024 {enr_2018}{enr_2020}{enr_2022}{enr_2024}. That adds up to seven seats, but this guide did not find a district page confirming the board's size.",
+  "District 3 (2026): the state list shows 'vote for 1', but District 3 has elected two members in every recent cycle, and the two seats filled in 2022 are the ones up this year {in_list}{enr_2022}. In 2022 Chris Hunt (1,364 votes) and Ryan Baker (736) won those seats over six other candidates {enr_2022}. Hunt is running again; Baker is not on the 2026 list {in_list}. With three candidates for what appears to be two seats, this guide could not confirm the vote-for number on the Fayette County ballot.",
+  "District 4 (2026): Ann Kirschner, who won the seat unopposed in 2018 and won a three-way race in 2022 (460 votes to 268 and 215), is the only candidate {enr_2018}{enr_2022}{in_list}.",
+  "Earlier District 3 races: in 2018 the two seats went to Dennis E. Perkins Jr. (2,622 votes) and Chris Hunt (2,358), who were unopposed; in 2024 Sasha C. Henderson and Dustin T. Munson won the other two District 3 seats in a seven-way race in which Jared M Glaub finished sixth {enr_2018}{enr_2024}.",
+  "Enrollment: the district's enrollment has fallen by about 450 students (13%) since 2018-19 {idoe_enroll}.",
+  "Technology: in spring 2026 the corporation said it would stop issuing individual devices to kindergarten and first-grade students starting in 2026-27, shifting toward hands-on learning and direct instruction, and that elementary students would not take Chromebooks home over the summer while officials review screen-time practices {k96_tech}.",
+  "Budget and referendums: the state's list of November 2026 referendum filings does not include Fayette County School Corporation {dlgf_list}. This guide found no reporting on how the 2025 property-tax law SEA 1 affects the district's budget.",
+  "Forums: this guide found no 2026 candidate forum, questionnaire or news coverage of these races."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Chris Hunt",
+   "seat": "District 3",
+   "summary": "Incumbent; won District 3 seats in 2018 and 2022 {enr_2018}{enr_2022}.",
+   "website": null,
+   "background": [
+    "Has held a District 3 seat since at least 2018, when he and one other candidate ran unopposed for two seats {enr_2018}."
+   ],
+   "path_to_ballot": [
+    "Listed as Nonpartisan on the state's 2026 candidate list {in_list}.",
+    "Finished first of eight candidates for two District 3 seats in 2022 with 1,364 votes {enr_2022}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. This guide found no public statement from him on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign statements, website, questionnaire or forum answers found.",
+    "Occupation and community roles not found.",
+    "No endorsements or campaign finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Dennis Perkins",
+   "seat": "District 3",
+   "summary": "Candidate for a District 3 seat; not a current board member {in_list}{enr_2022}{enr_2024}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed as Nonpartisan on the state's 2026 candidate list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "A candidate listed as Dennis E. Perkins Jr. won a District 3 seat in 2018 and was not on the 2022 ballot; this guide could not confirm that he is the same person as the 2026 candidate, so his possible earlier board service is not stated in the profile.",
+    "No news coverage, website, questionnaire or forum answers found.",
+    "Occupation, background and positions unknown; no endorsements or campaign finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Jared M Glaub",
+   "seat": "District 3",
+   "summary": "Candidate for a District 3 seat; ran for the board in 2024 {enr_2024}{in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed as Nonpartisan on the state's 2026 candidate list {in_list}.",
+    "Ran for a District 3 seat in 2024, finishing sixth of seven with 954 votes {enr_2024}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, website, questionnaire or forum answers found.",
+    "Occupation, background and ties to the schools unknown.",
+    "No positions, endorsements or campaign finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Ann Kirschner",
+   "seat": "District 4",
+   "summary": "Incumbent, unopposed; won the seat in 2018 and 2022 {enr_2018}{enr_2022}{in_list}.",
+   "website": null,
+   "background": [
+    "Has held the District 4 seat since at least 2018 {enr_2018}{enr_2022}."
+   ],
+   "path_to_ballot": [
+    "Listed as Nonpartisan on the state's 2026 candidate list, the only candidate for District 4 {in_list}.",
+    "Won unopposed in 2018 and won a three-candidate race in 2022 with 460 votes {enr_2018}{enr_2022}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. This guide found no public statement from her on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign statements, website, questionnaire or forum answers found.",
+    "Occupation and community roles not found.",
+    "No endorsements or campaign finance reports found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "idoe_enroll": [
+   "Corporation Enrollment by Grade Level, 2006-26",
+   "Indiana Department of Education",
+   "2026",
+   "https://www.in.gov/doe/files/corporation-enrollment-grade-2006-26.xlsx"
+  ],
+  "enr_2018": [
+   "2018 General Election results, School Board Member (Fayette County)",
+   "Indiana Election Division",
+   "2018-11",
+   "https://enr.indianavoters.in.gov/archive/2018General/index.html"
+  ],
+  "enr_2020": [
+   "2020 General Election results, School Board Member (Fayette County)",
+   "Indiana Election Division",
+   "2020-11",
+   "https://enr.indianavoters.in.gov/archive/2020General/index.html"
+  ],
+  "enr_2022": [
+   "2022 General Election results, School Board Member (Fayette County)",
+   "Indiana Election Division",
+   "2022-11",
+   "https://enr.indianavoters.in.gov/archive/2022General/index.html"
+  ],
+  "enr_2024": [
+   "2024 General Election results, School Board Member (Fayette County)",
+   "Indiana Election Division",
+   "2024-11",
+   "https://enr.indianavoters.in.gov/archive/2024General/index.html"
+  ],
+  "k96_tech": [
+   "Fayette County School Ending One-To-One Tech",
+   "Kicks 96 News",
+   "2026-05",
+   "https://kicks96.com/local-news/917029"
+  ],
+  "dlgf_list": [
+   "Referendum Information (November 2026 referendum documents)",
+   "Indiana Department of Local Government Finance",
+   "2026-10",
+   "https://www.in.gov/dlgf/referendum-information/"
+  ]
+ }
+}

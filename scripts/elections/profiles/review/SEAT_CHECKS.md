@@ -22,6 +22,9 @@ multi-seat but not yet confirmed from a 2026 county ballot:
 | Oregon Davis School Board (at large) | 3 | three 2022 at-large terms end 2026 |
 | Salem Community School Board (at large) | 3 | three terms end 2026 |
 | Elkhart Baugo School Board, District III | 2 | both District 3 seats elected in 2022 run through 2026 |
+| Elwood School Board, At Large | 2 | 2022 filled 2; both winners running |
+| Fayette County School Board, District 3 | 2 | District 3 elects 2 every cycle |
+| Greene Linton Stockton (Districts 1, 2) | ? | board likely 2 seats per district + 1 at large |
 | Jay School Board, District 1 | 0 on ballot | seat due in 2026 but no one filed; how it is filled is unknown |
 
 Also confirm with county election offices:
