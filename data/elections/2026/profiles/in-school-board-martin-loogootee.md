@@ -150,7 +150,7 @@ Candidate for an at-large seat; this guide found no public statements from her [
 
 ## Nicholas Toy — At Large
 
-Appears to be incumbent board vice president Nick Toy, first listed in this guide's sources in 2022, seeking another term [27, 29].
+Appears to be incumbent board vice president Nick Toy, who was elected unopposed in 2022, seeking another term [27, 29].
 
 ### Background
 

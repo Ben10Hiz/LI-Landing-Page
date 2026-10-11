@@ -159,6 +159,7 @@ SEAT_OVERRIDES = {
     "West Lafayette Community School Board": 3,                # Journal & Courier / district
     "Clay Community School Board, At Large (Clay, Parke)": 3,  # Brazil Times / county ballot
     "Delaware Yorktown Community School Board, Mt Pleasant Twp": 3,  # Delaware County ballot
+    "South Harrison School Board District 4, Harrison Township": 2,  # Harrison County ballot
 }
 
 

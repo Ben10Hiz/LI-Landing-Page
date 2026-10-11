@@ -1,0 +1,366 @@
+{
+ "race_id": "in-school-board-greene-bloomfield",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The district: Bloomfield School District in Greene County serves the town of Bloomfield and Highland, Richland and Taylor townships {wiki_bsd}. Its schools are Bloomfield Elementary School and Bloomfield Middle and High School {bsd_board}. Public School Review lists about 852 students in three schools; the year behind that figure is unclear {psr_bsd}. Dr. Scott Van Der Aa has been superintendent since the board hired him in March 2023 on a 5-1 vote {gcdw_bsup23}{gcdw_bsep26}.",
+  "Board: the board has seven members {gcdw_seats}. The district's board page lists three District 1 (Richland) members: Darren Burch (president), Chad J. Strange (vice president) and Terri Neighbors. It also lists Kayla Hendrix for District 2 (Highland), Lana Pinnick (secretary) for District 3 (Taylor), and Casey Michael and Steve Dowden at large {bsd_board}. In January 2025 the board appointed Michael to an at-large seat that no candidate had filed for in the 2024 election {gcdw_bsel}{gcdw_res24}.",
+  "Seats on the 2026 ballot: the seats elected in 2022 come up again in 2026. In 2022, Neighbors and Strange won the two District 1 seats, Hendrix won District 2 unopposed, and Pinnick won District 3 over Keith Bennett, 987 to 887 votes {gcdw_b22win}. Of those four members, only Strange (District 1) and Pinnick (District 3) are on the 2026 ballot {in_list}{gcdw_seats}. Neighbors and Hendrix are not running, so at least one District 1 seat and the District 2 seat will go to a newcomer.",
+  "Seat count: the state list shows District 1 as “vote for 1,” but District 1 filled two seats in 2022 {gcdw_b22win} and has three members in all {bsd_board}. That points to two District 1 seats on the 2026 ballot. No fetched 2026 source states the number of District 1 seats. The Daily World's 2026 ballot list gives District 1 six candidates without saying how many will win {gcdw_seats}.",
+  "Party labels: on the state list, Aaron Wilson, Chad J Strange, Darla Lynn Chesnut, Jessica Blazier, Leland E Hutchens and Keith Bennett are Republican. Blake D. Burch, Kaitilyn Elizabeth Harvey and Lana J. Pinnick are Nonpartisan {in_list}.",
+  "Facilities and bonds: in August and September 2026 the board took steps toward its next bond project. It approved the form of lease and reapproved the building corporation, appointed a technical review committee, hired The Rawlins Group LLC as design criteria developer, and passed resolutions on project need, construction bids, appropriations and the issuing of bonds {gcdw_baug26}{gcdw_bsep26}. Earlier, in 2025, science, chemistry and art classrooms at the middle/high school were renovated {gcdw_boct25}.",
+  "Budget: the board approved the 2026 budget, capital projects plan and bus replacement plan in September 2025, and the 2027 versions on Sept. 24, 2026 {gcdw_boct25}{gcdw_bsep26}. No fetched source covered how the 2025 property-tax law (SEA 1) affects Bloomfield, and none mentioned an operating or safety referendum.",
+  "Programs: the district has been building a child care center (Chirps Childcare), which was nearing completion in September 2026. It is also creating a cybersecurity career pathway with Project Lead The Way and College Board, and has formed a Next Generation School Improvement Plan steering committee {gcdw_boct25}{gcdw_bsep26}. The board accepted Secured School Safety grants of $87,875 in 2025 and $85,226 in 2026 {gcdw_boct25}{gcdw_bsep26}.",
+  "Forum: seven candidates appeared at a “Meet the Candidates” event at the Shawnee Theatre in Bloomfield on Thursday, Sept. 17, 2026, moderated by Brent Seymour; Leland Hutchens was not present {gcdw_forum}. The Daily World reported that candidates “by and large” agreed on working with staff and administration, and differed mainly in personal experience, reasons for running and familiarity with school policy {gcdw_forum}.",
+  "Differences in candidate statements: Strange and Blazier spoke well of the district's current spending, and Pinnick cited her experience keeping the district financially sound {gcdw_bios}. Chesnut said she is concerned about recent turnover of teachers and administrators and about outdated textbooks {gcdw_chesnut}. Bennett said some changes in the district left “more questions than answers” {gcdw_bw}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Aaron Wilson",
+   "seat": "District 1",
+   "summary": "Agriculture worker with Keystone Cooperative and parent of a Bloomfield Elementary student, running in District 1; listed as Republican {in_list}{gcdw_bw}.",
+   "website": null,
+   "background": [
+    "Works in agriculture with Keystone Cooperative in New Lebanon, according to a candidate statement published by the Daily World {gcdw_bw}.",
+    "A Bloomfield graduate and parent of a second grader at Bloomfield Elementary School {gcdw_bw}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Republican for District 1 {in_list}{gcdw_seats}.",
+    "Attended the Sept. 17, 2026 Meet the Candidates event {gcdw_forum}."
+   ],
+   "positions": [
+    {"topic": "Academics", "items": [
+     "Says he wants every student to receive an excellent education and to find an activity, program, sport, organization or subject they enjoy {gcdw_bw}."
+    ]},
+    {"topic": "Teachers & staff", "items": [
+     "Says supporting teachers and staff is essential to the district's future, and that he wants Bloomfield to be a place where educators feel valued and want to build long-term careers {gcdw_bw}."
+    ]}
+   ],
+   "on_incumbent": [
+    "No statement about the current board's decisions was found in fetched sources."
+   ],
+   "plans": [
+    "Says he hopes to bring a practical, community-focused perspective and to work with families, educators, administrators and residents {gcdw_bw}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No candidate website or questionnaire was found. The Daily World did not report his answers at the Sept. 17 event in detail.",
+    "The statement the Daily World published is written in the third person; the article presents it as his own words."
+   ]
+  },
+  {
+   "ballot_name": "Blake D. Burch",
+   "seat": "District 1",
+   "summary": "Foster-care child advocate and former instructional assistant at Bloomfield High School, running in District 1; listed as Nonpartisan {in_list}{gcdw_bios}.",
+   "website": null,
+   "background": [
+    "Graduated from Bloomfield High School in 2020 and lives in Richland Township {gcdw_bios}.",
+    "Since January 2024 has worked for a local government program that advocates for children in foster care or involved in custody disputes {gcdw_bios}.",
+    "After a service year with AmeriCorps' FEMA Corps program, he returned to Bloomfield in fall 2023. He worked briefly as an instructional assistant in the high school library and remains sponsor of the high school Beta Club {gcdw_bios}.",
+    "Serves on the board of directors of Shawnee Summer Theatre and on the Greene County 4-H Council, leads a Bloomfield 4-H club, and teaches local Parents Forever and Strengthening Families classes {gcdw_bios}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Nonpartisan for District 1 {in_list}{gcdw_seats}.",
+    "Attended the Sept. 17, 2026 Meet the Candidates event {gcdw_forum}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement about the current board's decisions was found in fetched sources."
+   ],
+   "plans": [
+    "Says he is running to serve the community and its young people {gcdw_bios}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "His published statement describes his background but takes no position on budget, academics, staffing or other board policy, and no forum answers were reported in detail.",
+    "No candidate website or questionnaire was found."
+   ]
+  },
+  {
+   "ballot_name": "Chad J Strange",
+   "seat": "District 1",
+   "summary": "Incumbent and board vice president, seeking reelection to a District 1 (Richland) seat; safety and operations manager for Nutrien Ag Solutions; listed as Republican {in_list}{bsd_board}{gcdw_bios}.",
+   "website": null,
+   "background": [
+    "Is the board's vice president, holding a District 1 Richland seat {bsd_board}. He was first elected in 2022 with 943 votes {gcdw_b22win}.",
+    "Works for Nutrien Ag Solutions as safety and operations manager of its Switz City and Odon locations, and is a graduate of Bloomfield High School and Vincennes University {gcdw_bios}.",
+    "Parent of two students in the district {gcdw_bios}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Republican for District 1 {in_list}{gcdw_seats}.",
+    "Attended the Sept. 17, 2026 Meet the Candidates event {gcdw_forum}."
+   ],
+   "positions": [
+    {"topic": "Budget & taxes", "items": [
+     "Said schools are being asked to do more with less funding, and that the board has been innovative with its money, thanks partly to a fiscally responsible superintendent and treasurer {gcdw_bios}.",
+     "In 2022 he said his main goal was “to bring the taxpayers voices back to the voting floor, and ensure that the will of the voters is being done” {gcdw_b22forum}."
+    ]},
+    {"topic": "Teachers & staff", "items": [
+     "At a 2022 forum he said teachers in the district need to be taken care of {gcdw_b22forum}."
+    ]},
+    {"topic": "Transparency & community input", "items": [
+     "Says he has made it a priority to listen to anyone who contacts him, calling that his “elected duty” {gcdw_bios}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Is a current board member. Says he is proud of what the board has done to make sure every student gets the best education the district can provide {gcdw_bios}.",
+    "In January 2025 he nominated Brian Cahill, who was not selected, for the vacant at-large seat; the board appointed Casey Michael on a 4-2 vote, with Strange voting for Cahill {gcdw_bsel}."
+   ],
+   "plans": [
+    "Says that if reelected he will keep representing stakeholders, faculty, staff and students {gcdw_bios}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "His voting record on major items, such as the 2023 superintendent hire and the 2026 bond resolutions, was not broken out by member in fetched sources.",
+    "No candidate website or questionnaire was found."
+   ]
+  },
+  {
+   "ballot_name": "Darla Lynn Chesnut",
+   "seat": "District 1",
+   "summary": "Works in accounting at Metal Technologies Inc. and is a longtime community-event volunteer, running in District 1; listed as Republican {in_list}{gcdw_chesnut}.",
+   "website": null,
+   "background": [
+    "Works in the accounting department at Metal Technologies Inc. in Bloomfield {gcdw_chesnut}.",
+    "Has been on the Bloomfield Apple Festival Committee for about 25 years, mostly as secretary or treasurer, and organizes the town's Easter egg hunt, Light up the Park and Lighted Parade {gcdw_chesnut}.",
+    "Has grandchildren at Bloomfield Elementary and Bloomfield High School {gcdw_chesnut}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Republican for District 1 {in_list}{gcdw_seats}.",
+    "Attended the Sept. 17, 2026 Meet the Candidates event {gcdw_forum}."
+   ],
+   "positions": [
+    {"topic": "Teachers & staff", "items": [
+     "Says she is running because she is concerned about recent turnover of teachers and administrators: “An employee doesn't leave a job they love; they leave because they do not feel valued” {gcdw_chesnut}.",
+     "Says teachers should be allowed to teach without being micromanaged and should be treated as professionals, which she says would help retain current teachers {gcdw_chesnut}."
+    ]},
+    {"topic": "Academics", "items": [
+     "Says some teachers are using textbooks more than 10 years old, and that the curriculum should be kept up to date with updated resources {gcdw_chesnut}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Points to recent teacher and administrator turnover and outdated textbooks as concerns, without naming specific board decisions {gcdw_chesnut}."
+   ],
+   "plans": [
+    "Says providing stability and updated resources would set students up to succeed {gcdw_chesnut}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No figures on staff turnover were found in fetched sources to check her concern against.",
+    "No candidate website or questionnaire was found."
+   ]
+  },
+  {
+   "ballot_name": "Jessica Blazier",
+   "seat": "District 1",
+   "summary": "Human resources assistant and former Bloomfield School District employee, running in District 1; listed as Republican {in_list}{gcdw_bios}.",
+   "website": null,
+   "background": [
+    "Works as a human resources assistant, handling onboarding, compliance and confidential records {gcdw_bios}.",
+    "Worked for the Bloomfield School District for more than six years, working closely with the superintendent, administration and board {gcdw_bios}.",
+    "Parent in the district; has lived in Bloomfield for 15 years {gcdw_bios}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Republican for District 1 {in_list}{gcdw_seats}.",
+    "Attended the Sept. 17, 2026 Meet the Candidates event {gcdw_forum}."
+   ],
+   "positions": [
+    {"topic": "Budget & taxes", "items": [
+     "Says she “fully support[s] where our dollars are currently going” and wants to work with the board to keep spending wisely {gcdw_bios}."
+    ]},
+    {"topic": "Teachers & staff", "items": [
+     "Says she is running to support students and keep good staff in the schools {gcdw_bios}."
+    ]},
+    {"topic": "Transparency & community input", "items": [
+     "Says she is committed to clear communication and “total transparency” so the community stays informed {gcdw_bios}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Supports the district's current spending priorities {gcdw_bios}."
+   ],
+   "plans": [
+    "Says effective leadership starts with listening, understanding the facts and working together {gcdw_bios}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "Her current employer and her former job title with the district were not stated in fetched sources.",
+    "No candidate website or questionnaire was found."
+   ]
+  },
+  {
+   "ballot_name": "Kaitilyn Elizabeth Harvey",
+   "seat": "District 1",
+   "summary": "Registered nurse at Greene County General Hospital and parent of two Bloomfield students, running in District 1; listed as Nonpartisan {in_list}{gcdw_bios}.",
+   "website": null,
+   "background": [
+    "Registered nurse who has worked at Greene County General Hospital for 15 years, now as its employee health nurse; earned a nursing degree from Indiana State University {gcdw_bios}.",
+    "A 2009 Bloomfield Jr./Sr. High School graduate and parent of two students in the district {gcdw_bios}.",
+    "Is active in the PTO and leads its Teacher Appreciation Committee {gcdw_bios}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Nonpartisan for District 1 {in_list}. The Daily World's ballot list spells her first name “Kaitlyn” {gcdw_seats}."
+   ],
+   "positions": [
+    {"topic": "School safety", "items": [
+     "Lists student safety among the issues she cares most about {gcdw_bios}."
+    ]},
+    {"topic": "Teachers & staff", "items": [
+     "Lists staff engagement and retention, teacher recruitment, and showing appreciation for district employees as priorities {gcdw_bios}."
+    ]}
+   ],
+   "on_incumbent": [
+    "No statement about the current board's decisions was found in fetched sources."
+   ],
+   "plans": [
+    "Says she wants to help keep Bloomfield a place where students, staff and families thrive {gcdw_bios}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "The Daily World's list of candidates at the Sept. 17 event did not include her, though the article ran her submitted bio.",
+    "No candidate website or questionnaire was found."
+   ]
+  },
+  {
+   "ballot_name": "Leland E Hutchens",
+   "seat": "District 2",
+   "summary": "The only candidate for the District 2 (Highland) seat, where incumbent Kayla Hendrix is not on the ballot; listed as Republican {in_list}{gcdw_seats}{bsd_board}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Republican, unopposed for District 2 {in_list}{gcdw_seats}.",
+    "Did not attend the Sept. 17, 2026 Meet the Candidates event {gcdw_forum}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement about the current board's decisions was found in fetched sources."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No biography, occupation, statement, website or questionnaire was found. The Daily World published no bio for him."
+   ]
+  },
+  {
+   "ballot_name": "Keith Bennett",
+   "seat": "District 3",
+   "summary": "Farmer and trucking-company owner who drove a Bloomfield school bus for 18 years, challenging incumbent Lana Pinnick for the District 3 (Taylor) seat for the second time; listed as Republican {in_list}{gcdw_bw}{gcdw_b22win}.",
+   "website": null,
+   "background": [
+    "Self-employed farmer who also owns and runs a trucking company; earned an agribusiness degree from Vincennes University {gcdw_bw}.",
+    "Drove a school bus for the Bloomfield School District for 18 years {gcdw_bw}.",
+    "Parent of a fourth grader at Bloomfield Elementary {gcdw_bw}.",
+    "In 2022 he said he had served on the Greene County FSA board for 12 years {gcdw_b22forum}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Republican for District 3 {in_list}{gcdw_seats}.",
+    "Ran for the same seat in 2022 and lost to Pinnick, 987 to 887 votes {gcdw_b22win}.",
+    "Attended the Sept. 17, 2026 Meet the Candidates event {gcdw_forum}."
+   ],
+   "positions": [
+    {"topic": "Budget & taxes", "items": [
+     "In 2022 he said he wanted the school to improve “without increasing taxes,” and to do all it can with what it already has “without anymore major projects” {gcdw_b22forum}."
+    ]},
+    {"topic": "Facilities", "items": [
+     "In 2022 he said he wanted to improve the district's existing infrastructure {gcdw_b22forum}."
+    ]},
+    {"topic": "Teachers & staff", "items": [
+     "At a 2022 forum he said the school needs to stand behind its teachers and pay them well {gcdw_b22forum}."
+    ]},
+    {"topic": "Transparency & community input", "items": [
+     "Says that as a board member he would ask “the tough questions,” listen to different perspectives and have honest conversations about decisions facing the school {gcdw_bw}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Says that while driving a bus he saw changes in the district, “some positive, and some that left us with more questions than answers.” He did not name specific decisions {gcdw_bw}."
+   ],
+   "plans": [
+    "Says he wants Bloomfield to remain a district that students, teachers, parents and the community can be proud of {gcdw_bw}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "His statements on taxes and major projects are from 2022. No 2026 statement on the district's planned bond project was found.",
+    "No candidate website or questionnaire was found."
+   ]
+  },
+  {
+   "ballot_name": "Lana J. Pinnick",
+   "seat": "District 3",
+   "summary": "Incumbent and board secretary, seeking a third term in the District 3 (Taylor) seat; works for the district as a bus driver and paraprofessional; listed as Nonpartisan {in_list}{bsd_board}{gcdw_bios}.",
+   "website": null,
+   "background": [
+    "Is board secretary and holds the District 3 Taylor seat {bsd_board}. She says she is finishing her second term {gcdw_bios}.",
+    "Has worked for the Bloomfield School District since 2005, when she was hired as a bus driver. She still drives a bus, has been a substitute teacher, and works as a paraprofessional in the Greene-Sullivan Co-op within the district {gcdw_bios}.",
+    "Has lived in Taylor Township her whole life; she has two grandchildren at Bloomfield Elementary {gcdw_bios}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Nonpartisan for District 3 {in_list}{gcdw_seats}.",
+    "Won reelection in 2022 over Keith Bennett, 987 to 887 votes {gcdw_b22win}.",
+    "Attended the Sept. 17, 2026 Meet the Candidates event {gcdw_forum}."
+   ],
+   "positions": [
+    {"topic": "Budget & taxes", "items": [
+     "Says she has a strong understanding of state guidelines, of handling budget cuts, and of keeping the district financially sound {gcdw_bios}.",
+     "In 2022 she said she wanted to keep giving teachers and employees the raises they deserve {gcdw_b22forum}."
+    ]},
+    {"topic": "Teachers & staff", "items": [
+     "At a 2022 forum she said pushing for state funding to keep technology updated, and keeping trust and communication with administrators, were key to keeping qualified teachers {gcdw_b22forum}."
+    ]},
+    {"topic": "Enrollment & school choice", "items": [
+     "In 2022 she said she wanted enrollment to keep increasing {gcdw_b22forum}."
+    ]}
+   ],
+   "on_incumbent": [
+    "Is a current board member. Says she is proud to have worked alongside former and current board members and superintendents, and that every child deserves an education {gcdw_bios}.",
+    "In January 2025 she voted to appoint Casey Michael to the vacant at-large seat {gcdw_bsel}."
+   ],
+   "plans": [
+    "Says she wants to keep supporting students, staff and families by serving a third term {gcdw_bios}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "She is a district employee as well as a board member; no fetched source discussed how she handles votes on employee pay or contracts.",
+    "No candidate website or questionnaire was found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "gcdw_seats": ["School board seats on the ballot this November", "Greene County Daily World", "2026-09-18", "https://www.suncommercial.com/gcdailyworld/article_f7fcb2d0-1b6d-54fe-a0b5-0c3e028bac72.html"],
+  "gcdw_bios": ["2026 General Election Bloomfield School Board candidates", "Greene County Daily World", "2026-09-15", "https://www.suncommercial.com/gcdailyworld/article_dc8e228d-7186-5b99-9a6c-f85a5a11eaed.html"],
+  "gcdw_forum": ["2026 General Election Bloomfield School Board candidates (Meet the Candidates report)", "Greene County Daily World", "2026-09-22", "https://www.suncommercial.com/gcdailyworld/article_300bdae4-8e31-5c8a-855c-64ac72ae0bb2.html"],
+  "gcdw_bw": ["Bloomfield School Board candidates Bennett and Wilson", "Greene County Daily World", "2026-09-25", "https://www.suncommercial.com/gcdailyworld/article_bce7ab73-2a25-53e6-aee3-51cd97aed4ff.html"],
+  "gcdw_chesnut": ["Bloomfield School Board candidate Darla Chesnut", "Greene County Daily World", "2026-09-29", "https://www.suncommercial.com/gcdailyworld/article_396a7602-845e-54cf-a54d-2dbbd870a8e0.html"],
+  "gcdw_bsep26": ["Bloomfield School Board in September", "Greene County Daily World", "2026-09-29", "https://www.suncommercial.com/gcdailyworld/article_56fe29f4-b2f0-538f-b20a-91d90ad6d68c.html"],
+  "gcdw_baug26": ["Bloomfield School Board takes care of business", "Greene County Daily World", "2026-09-01", "https://www.suncommercial.com/gcdailyworld/article_3fd9d7bc-723e-582a-9096-aad17713bec3.html"],
+  "gcdw_boct25": ["Bloomfield School Board approves key plans, recognizes outstanding students", "Greene County Daily World", "2025-10-03", "https://www.suncommercial.com/gcdailyworld/news/article_c0150f47-5cf1-5603-8f72-7d0cca484af8.html"],
+  "gcdw_bsel": ["Bloomfield Board selects new member", "Greene County Daily World", "2025-01-28", "https://www.suncommercial.com/gcdailyworld/news/article_6f8eef1e-2962-5613-8a26-52ebf75aa71f.html"],
+  "gcdw_res24": ["Greene County General Election results", "Greene County Daily World", "2024-11-07", "https://www.suncommercial.com/gcdailyworld/news/article_e7e60118-a42d-53c2-b92b-65066dc667ae.html"],
+  "gcdw_b22win": ["Bloomfield school board seat winners", "Greene County Daily World", "2022-11-11", "https://www.suncommercial.com/gcdailyworld/archives/article_da381c12-6c9b-5544-a4d1-081df34b1b9c.html"],
+  "gcdw_b22forum": ["Bloomfield school board candidates address the public", "Greene County Daily World", "2022-10-28", "https://www.suncommercial.com/gcdailyworld/archives/article_f9c9424a-f647-59f0-bffe-fb8f99c760b4.html"],
+  "gcdw_bsup23": ["UPDATED: Bloomfield chooses new superintendent", "Greene County Daily World", "2023-03-30", "https://www.suncommercial.com/gcdailyworld/archives/article_0ebe5ffb-1a86-5f9b-ac87-f2e1f6724e16.html"],
+  "bsd_board": ["School Board", "Bloomfield School District", "2026-10", "https://bloomfielddistrict.sites.thrillshare.com/page/school-board"],
+  "wiki_bsd": ["Bloomfield School District (Indiana)", "Wikipedia", "2026-10", "https://en.wikipedia.org/wiki/Bloomfield_School_District_(Indiana)"],
+  "psr_bsd": ["Bloomfield School District (Bloomfield, IN)", "Public School Review", "2026-10", "https://www.publicschoolreview.com/indiana/bloomfield-school-district/1800600-school-district"]
+ }
+}
