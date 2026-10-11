@@ -132,7 +132,7 @@
    "summary": "Challenger for the at-large seat; listed on the state ballot list as Democratic {in_list}{hb_partylabels}.",
    "website": null,
    "background": [
-    "No background beyond a family connection (omitted under editorial rules) was found in fetched sources {hb_partylabels}."
+    "No background was found in fetched sources {hb_partylabels}."
    ],
    "path_to_ballot": [
     "Filed by the June 18, 2026 deadline and declared a Democratic affiliation {hb_15filed}{hb_partylabels}."
@@ -342,7 +342,7 @@
    "summary": "Candidate for the open South District seat being vacated by board president Mandy Webb; listed on the state ballot list as Nonpartisan {in_list}{hb_15filed}.",
    "website": null,
    "background": [
-    "No background beyond a family connection to a former board member (omitted under editorial rules) was found in fetched sources {hb_partylabels}."
+    "No background was found in fetched sources {hb_partylabels}."
    ],
    "path_to_ballot": [
     "Filed by the June 18, 2026 deadline without declaring a party {hb_15filed}."

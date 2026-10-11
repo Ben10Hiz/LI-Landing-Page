@@ -162,7 +162,7 @@ Challenger for the at-large seat; listed on the state ballot list as Democratic 
 
 ### Background
 
-- No background beyond a family connection (omitted under editorial rules) was found in fetched sources [32].
+- No background was found in fetched sources [32].
 
 ### Path to the ballot
 
@@ -365,7 +365,7 @@ Candidate for the open South District seat being vacated by board president Mand
 
 ### Background
 
-- No background beyond a family connection to a former board member (omitted under editorial rules) was found in fetched sources [32].
+- No background was found in fetched sources [32].
 
 ### Path to the ballot
 
