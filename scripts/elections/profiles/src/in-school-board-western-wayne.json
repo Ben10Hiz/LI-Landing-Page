@@ -1,0 +1,333 @@
+{
+  "race_id": "in-school-board-western-wayne",
+  "reviewed": "2026-10-10",
+  "status": "draft",
+  "status_note": "Pending editorial review.",
+  "office": "@in_school_board",
+  "incumbent": null,
+  "race_context": [
+    "Western Wayne Schools serves western Wayne County. The board meets in Cambridge City. Its schools are Lincoln Middle/High School and Western Wayne Elementary School {ww_home}{ww_m0114}.",
+    "Enrollment: the Western Wayne News reported in May 2026 that 699 students were enrolled that school year, down 42.6% from 1,218 in 2007. It reported that 252 district residents attend other schools and 106 students from other districts attend Western Wayne {wwn_special}.",
+    "Superintendent: the board hired Melissa McIntire as superintendent 5-0 on Aug. 17, 2026 {ww_m0817}. She is the district's third superintendent in about a year and a half. Andy Stover left in 2025 for a job with Fayette County School Corp. {wwn_supt_search}. Kelly Plank was hired in July 2025 {wwn_interim26}. On May 22, 2026 the board named Alice Johnson interim superintendent by a 4-1 vote, with Brent Fortman voting no {ww_m0522}.",
+    "The board has five members: districts A, B and C plus at-large seats {wwn_supt_search}{wwn_2024}. The district's website lists Kris Bex (District B, president), Jenni Risch (at large, vice president), Brent Fortman (District C, secretary), Ryan Riggs (listed as at large) and Amber Rushton (no seat listed) {ww_members}. Riggs was appointed in May 2025 to replace David Sturgis; the Western Wayne News reported he was the only District A resident who applied {wwn_riggs}.",
+    "Seats on the 2026 ballot: one at-large seat and District C (Washington) {wwn_slate}{in_list}. Both were last elected in 2022. That year Phillip Pflum won reelection to the at-large seat over Amber Rushton, 789 votes to 619, and William Brent Fortman was unopposed in District C {wwn_2022}.",
+    "Pflum resigned in June 2025 {wwn_interim25}. The board chose Rushton for his at-large seat, and she took the oath on July 9, 2025 {wwn_rushton}. In 2026 Rushton filed for District C rather than the at-large seat. The Western Wayne News lists her as the District C incumbent with no challenger {wwn_slate}. Fortman, listed by the district as the District C member, is not on the ballot {ww_members}{in_list}. The at-large race is between two Republicans, Jeffrey (Jeff) Allen Munchel and Robert Miller, neither of whom is a board member {wwn_slate}{in_list}.",
+    "Referendum: a 2020 operating referendum, an eight-year levy of 19 cents per $100 of net assessed value, raises about $500,000 a year {wwn_pause}. On May 13, 2026 the board voted 5-0 to authorize auditor certification for a potential referendum levy {ww_m0513}. Board President Kris Bex said a referendum was needed for the district to continue {wwn_ref_step}. On June 17, 2026 no member moved to adopt the referendum resolution {ww_m0617}. Interim Superintendent Johnson said members saw 'too many unknowns about future leadership.' She said the district had sought the referendum to replace money lost after Senate Enrolled Act 1, and that the proposed levy would have been about half the 2020 amount {wwn_pause}. No referendum for November 2026 was found.",
+    "Budget: Superintendent Plank said in May 2026 that property tax reform had reduced operating funds. She said the district transfers nearly the maximum allowed from the education fund to operations, which limits instructional hiring and has forced cuts to curriculum funds {wwn_special}. In August 2026 the board voted to advertise its budget, capital and bus replacement plans {ww_m0817}. The Sept. 9, 2026 agenda listed a budget hearing and a resolution to approve a reduction in appropriations {ww_a0909}.",
+    "Facilities: the renovated Lincoln Middle/High School opened for tours in February 2026 {wwn_special}{ww_m0114}. Elementary construction continued in summer 2026 {ww_m0617}. In June 2026 a resident asked the board to share with the community where and how the bond money was allocated {ww_m0617}.",
+    "Flood: after an Aug. 12, 2026 flood, the board amended the 2026-27 calendar. On Aug. 31 it voted 5-0 to open a full-time Western Wayne Virtual Academy and an Eagle Flex Hybrid Academy {ww_m0831}. Superintendent McIntire said the district would let the Town of Cambridge City use its Pershing building while the town's building is rebuilt {ww_m0817}.",
+    "Policies: in March 2026 an updated non-resident transfer policy failed 4-0 {ww_m0311}. In June 2026 the board adopted spring policy updates covering weapons, wireless communication devices, attendance, budget adoption and public records {ww_m0617}. The 2026-27 handbooks require students to keep phones in lockers from bell to bell under the new state law {wwn_pause}. An SRO agreement with Cambridge City was approved for 2026-27 {ww_m0817}.",
+    "Forums and questionnaires: the Western Wayne News published Q&As with both at-large candidates on Oct. 6, 2026 {wwn_qa_miller}{wwn_qa_munchel}. Both named transparency as the main thing that needs to change: Miller called for more public discussion and for board members to explain their votes, and Munchel for clear information on the reasons behind board decisions. Miller emphasized core academics and career and technical pathways, and Munchel student advocacy, including for special education students {wwn_qa_miller}{wwn_qa_munchel}. No candidate forum was found."
+  ],
+  "candidates": [
+    {
+      "ballot_name": "Jeffrey (Jeff) Allen Munchel",
+      "seat": "At Large, District D",
+      "summary": "Paramedic supervisor with Reid Health EMS and retired airport firefighter, running for the open at-large seat as a Republican; a parent in the district {wwn_qa_munchel}{in_list}.",
+      "website": null,
+      "background": [
+        "Graduated from Lincoln High School in 2002 {wwn_qa_munchel}.",
+        "Retired from the Indianapolis International Airport Fire Department in 2021. Has been a paramedic supervisor with Reid Health EMS since 2019 {wwn_qa_munchel}.",
+        "Describes himself as a parent and lifelong community member {wwn_qa_munchel}."
+      ],
+      "path_to_ballot": [
+        "Listed on the state candidate list as a Republican for the at-large seat {in_list}.",
+        "Was the first Western Wayne candidate to file, as of June 12, 2026 {wwn_filings}{wwn_slate}."
+      ],
+      "positions": [
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "Wants 'clear and honest information regarding board decisions' and consistent communication about priorities and the reasons behind major decisions {wwn_qa_munchel}.",
+            "Proposes community surveys with results shared openly, more chances for residents to ask questions, and being accessible to families {wwn_qa_munchel}."
+          ]
+        },
+        {
+          "topic": "Budget & taxes",
+          "items": [
+            "Would stress fiscal responsibility and long-term planning as state and federal funding shrinks. He would question spending priorities, support grant applications and keep taxpayers informed about spending {wwn_qa_munchel}."
+          ]
+        },
+        {
+          "topic": "Special education",
+          "items": [
+            "Lists support for district leadership and staff, including support for students with special education needs, among his top priorities {wwn_qa_munchel}."
+          ]
+        },
+        {
+          "topic": "Academics",
+          "items": [
+            "Says the board's support for academic and career pathways is working and should continue {wwn_qa_munchel}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Credits the board's support for academic and career pathways. Says the board needs more transparency about its decisions {wwn_qa_munchel}."
+      ],
+      "plans": [
+        "Says he wants to be 'a voice for students and families' and to hold the district accountable to families {wwn_qa_munchel}.",
+        "Would listen to students, families, staff and residents, and review policies, facts and community input before deciding {wwn_qa_munchel}.",
+        "Says he will accept the election outcome {wwn_qa_munchel}."
+      ],
+      "endorsements_finance": [
+        "None found."
+      ],
+      "gaps": [
+        "No website, forum appearance, endorsements or campaign finance filing found.",
+        "The Q&A summary reviewed did not address the referendum, staffing levels, safety or curriculum."
+      ]
+    },
+    {
+      "ballot_name": "Robert Miller",
+      "seat": "At Large, District D",
+      "summary": "Works in his family's business, Miller's Wood Specialties, and serves on Cambridge City planning and zoning boards; parent of two Western Wayne students, running for the open at-large seat as a Republican {wwn_qa_miller}{in_list}.",
+      "website": null,
+      "background": [
+        "Holds a degree from Purdue University's School of Technology. Worked five years in construction management in Florida before returning to Indiana {wwn_qa_miller}.",
+        "Works in the family business, Miller's Wood Specialties {wwn_qa_miller}.",
+        "Serves on the Cambridge City Board of Zoning Appeals and Planning Commission {wwn_qa_miller}.",
+        "Parent of two Western Wayne students {wwn_qa_miller}."
+      ],
+      "path_to_ballot": [
+        "Listed on the state candidate list as a Republican for the at-large seat {in_list}{wwn_slate}."
+      ],
+      "positions": [
+        {
+          "topic": "Academics",
+          "items": [
+            "Wants to strengthen reading, writing and math, and to use technology sensibly: 'Technology should strengthen students' abilities, not replace them.' {wwn_qa_miller}",
+            "Wants career and technical pathways with defined curricula, measurable skills, recognized credentials and community partnerships, with clear routes to college, technical training, the military or jobs {wwn_qa_miller}."
+          ]
+        },
+        {
+          "topic": "Budget & taxes",
+          "items": [
+            "Would protect instruction and essential services while working toward competitive employee pay. Would work with the administration to pursue every responsible funding source, including less traditional ones {wwn_qa_miller}.",
+            "Lists responsible financial management and measurable goals among his top three priorities {wwn_qa_miller}."
+          ]
+        },
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "Wants more substantive public discussion, decisions made in public except where confidentiality is legally required, and board members who explain their votes {wwn_qa_miller}.",
+            "Would make agendas and supporting documents easy to reach, and use surveys, advisory groups or community roundtables before major decisions {wwn_qa_miller}."
+          ]
+        },
+        {
+          "topic": "School safety",
+          "items": [
+            "Lists a safe environment among his reasons for running {wwn_qa_miller}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Says transparency and accountability need to change. Credits the district's small size and close relationships among students, staff and families {wwn_qa_miller}."
+      ],
+      "plans": [
+        "Would request information early and explain his own decisions {wwn_qa_miller}.",
+        "Says he will accept the election outcome {wwn_qa_miller}."
+      ],
+      "endorsements_finance": [
+        "None found."
+      ],
+      "gaps": [
+        "No website, forum appearance, endorsements or campaign finance filing found.",
+        "No stated position found on the paused referendum."
+      ]
+    },
+    {
+      "ballot_name": "Amber R Rushton",
+      "seat": "District C",
+      "summary": "Incumbent board member, appointed in July 2025 to the at-large seat, now unopposed for the District C (Washington) seat. Listed as nonpartisan {wwn_rushton}{wwn_slate}{in_list}.",
+      "website": null,
+      "background": [
+        "Business manager for Nettle Creek schools; in July 2025 the Western Wayne News reported she had held the job for two years {wwn_rushton}.",
+        "2003 Tri High graduate with an agriculture business degree from Purdue {wwn_rushton}.",
+        "Parent of three Western Wayne students. Involved with Cambridge City Youth League and 4-H {wwn_rushton}.",
+        "Ran for the at-large seat in 2022 and lost to Phillip Pflum, 789 votes to 619 {wwn_2022}."
+      ],
+      "path_to_ballot": [
+        "Chosen by the four remaining board members to replace Pflum and sworn in July 9, 2025 {wwn_rushton}.",
+        "Filed as nonpartisan for District C (Washington), with no challenger {wwn_slate}{in_list}."
+      ],
+      "positions": [
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "When appointed, acknowledged conflict between the community and the school and asked for patience: 'Change doesn't happen overnight.' {wwn_rushton}"
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Is a current board member. Minutes show she moved or seconded several 2026 actions, all of which passed: the auditor certification for a potential referendum levy (May 2026), the interim superintendent appointment (May 2026), advertising the budget (August 2026), and opening the virtual and hybrid academies after the flood (August 2026) {ww_m0513}{ww_m0522}{ww_m0817}{ww_m0831}.",
+        "No campaign statements describing her view of the board's record were found."
+      ],
+      "plans": [
+        "Said at her appointment: 'I have a passion for rural communities, and I believe schools are the heartbeats of small communities.' {wwn_rushton}"
+      ],
+      "endorsements_finance": [
+        "None found."
+      ],
+      "gaps": [
+        "No 2026 campaign statement, questionnaire, forum appearance, website or finance filing was found. The Western Wayne News Q&A covered only contested races.",
+        "She was appointed to the at-large seat but is running for District C. The district website lists Brent Fortman as the District C member and gives no seat for Rushton. No source explains the switch or whether Fortman chose not to run.",
+        "She is not listed as present in the January and March 2026 minutes reviewed (4-member meetings); she is listed from May 2026 on. The reason was not found."
+      ]
+    }
+  ],
+  "review_flags": [
+    {
+      "person": "Kelly Plank (former superintendent; not a candidate)",
+      "category": "criminal case",
+      "status": "held",
+      "summary": "The Western Wayne News reported on May 22, 2026 that the district put Superintendent Kelly Plank on administrative leave on May 11, 2026. That was the day she was charged in Henry County with one count of Level 5 felony battery resulting in serious bodily injury, over an alleged April 5 incident at a New Castle lodge. Her attorney entered a not guilty plea, and no further court dates had been set. The paper received no response from Plank to its requests for comment. On May 22 the board approved 4-1, with Brent Fortman voting no, the separation of employment of an employee identified only as '#172', and named an interim superintendent. The board did not publicly identify the employee {wwn_interim26}{ww_m0522}.",
+      "note": "Bears on the superintendent turnover described in race_context and on the board's May 22 vote; Rushton seconded the interim appointment. The case outcome was not found. A search snippet gave the incident date as April 4 (the article says April 5). The profile text deliberately mentions only the interim appointment."
+    }
+  ],
+  "sources": {
+    "ww_home": [
+      "Western Wayne Schools home page",
+      "Western Wayne Schools",
+      "2026-10",
+      "https://wwayne.k12.in.us/"
+    ],
+    "ww_members": [
+      "Board of Education members",
+      "Western Wayne Schools",
+      "2026-10",
+      "https://wwayne.k12.in.us/members"
+    ],
+    "ww_m0114": [
+      "Western Wayne Schools board minutes, Jan. 14, 2026",
+      "Western Wayne Schools",
+      "2026-01-14",
+      "https://files.smartsites.parentsquare.com/11948/2026_1_14_regular_board_minutes.pdf"
+    ],
+    "ww_m0311": [
+      "Western Wayne Schools board minutes, March 11, 2026",
+      "Western Wayne Schools",
+      "2026-03-11",
+      "https://drive.google.com/file/d/1VcMqUlxmljQmNxE1MS1kEfV8ZOMTRI2S/view?usp=sharing"
+    ],
+    "ww_m0513": [
+      "Western Wayne Schools board minutes, May 13, 2026",
+      "Western Wayne Schools",
+      "2026-05-13",
+      "https://drive.google.com/file/d/1dRS6rDfApoK2KNHeZWiwfUIY76LGzrjZ/view?usp=sharing"
+    ],
+    "ww_m0522": [
+      "Western Wayne Schools board special meeting minutes, May 22, 2026",
+      "Western Wayne Schools",
+      "2026-05-22",
+      "https://drive.google.com/file/d/1G-zxoltLmMD-O4xrfyXSOZXgFVQ9HVU6/view?usp=sharing"
+    ],
+    "ww_m0617": [
+      "Western Wayne Schools board minutes, June 17, 2026",
+      "Western Wayne Schools",
+      "2026-06-17",
+      "https://drive.google.com/file/d/1t48vWI4UfwsIBnh2DEnj8H55bbTpFVF0/view?usp=sharing"
+    ],
+    "ww_m0817": [
+      "Western Wayne Schools board minutes, Aug. 17, 2026",
+      "Western Wayne Schools",
+      "2026-08-17",
+      "https://drive.google.com/file/d/1n5W_oY2woFgd4nk60OILAN195RgNXE_1/view?usp=sharing"
+    ],
+    "ww_m0831": [
+      "Western Wayne Schools board special session minutes, Aug. 31, 2026",
+      "Western Wayne Schools",
+      "2026-08-31",
+      "https://drive.google.com/file/d/1qDRsksWONPHSl3f2ruEyOkbt0Sbdcdwc/view?usp=sharing"
+    ],
+    "ww_a0909": [
+      "Western Wayne Schools board agenda, Sept. 9, 2026",
+      "Western Wayne Schools",
+      "2026-09-09",
+      "https://drive.google.com/file/d/1sa7vCebxxKu3J6YPaaOzHN5XARBPP3iT/view?usp=sharing"
+    ],
+    "wwn_slate": [
+      "School board candidate slate finalized",
+      "Western Wayne News",
+      "2026-06-25",
+      "https://westernwaynenews.com/school-board-candidate-slate-finalized/"
+    ],
+    "wwn_filings": [
+      "4 candidates file for 12 open seats",
+      "Western Wayne News",
+      "2026-06-16",
+      "https://westernwaynenews.com/4-candidates-file-for-12-open-seats-202606/"
+    ],
+    "wwn_qa_miller": [
+      "Election 2026 General: Robert Miller",
+      "Western Wayne News",
+      "2026-10-06",
+      "https://westernwaynenews.com/election-2026-general-robert-miller/"
+    ],
+    "wwn_qa_munchel": [
+      "Election 2026 General: Jeffrey Munchel",
+      "Western Wayne News",
+      "2026-10-06",
+      "https://westernwaynenews.com/election-2026-general-jeffrey-munchel/"
+    ],
+    "wwn_rushton": [
+      "Meet new WWS leader at reception",
+      "Western Wayne News",
+      "2025-07-16",
+      "https://westernwaynenews.com/meet-new-wws-leader-at-reception/"
+    ],
+    "wwn_2022": [
+      "RP&L measure passes by 37 votes; Zaleski, Mopps, Claypoole win contested school board seats",
+      "Western Wayne News",
+      "2022-11-08",
+      "https://westernwaynenews.com/?p=100377"
+    ],
+    "wwn_2024": [
+      "Wayne County votes: Election 2024 results",
+      "Western Wayne News",
+      "2024-11-05",
+      "https://westernwaynenews.com/?p=126954"
+    ],
+    "wwn_riggs": [
+      "Parent, graduate joins WWS board",
+      "Western Wayne News",
+      "2025-05-22",
+      "https://westernwaynenews.com/parent-graduate-joins-wws-board/"
+    ],
+    "wwn_supt_search": [
+      "WWS board, superintendent searches",
+      "Western Wayne News",
+      "2025-04-21",
+      "https://westernwaynenews.com/wws-board-superintendent-searches/"
+    ],
+    "wwn_interim25": [
+      "WWS hires temporary superintendent",
+      "Western Wayne News",
+      "2025-06-16",
+      "https://westernwaynenews.com/?p=134232"
+    ],
+    "wwn_interim26": [
+      "WWS hires interim superintendent",
+      "Western Wayne News",
+      "2026-05-22",
+      "https://westernwaynenews.com/?p=145193"
+    ],
+    "wwn_ref_step": [
+      "WWS board takes 1st referendum step",
+      "Western Wayne News",
+      "2026-05-18",
+      "https://westernwaynenews.com/wws-board-takes-1st-referendum-step/"
+    ],
+    "wwn_pause": [
+      "WWS pauses referendum pursuit",
+      "Western Wayne News",
+      "2026-06-23",
+      "https://westernwaynenews.com/wws-pauses-referendum-pursuit/"
+    ],
+    "wwn_special": [
+      "Enrollment, finances, facilities: Perspectives on a path forward for WWS",
+      "Western Wayne News",
+      "2026-05-06",
+      "https://westernwaynenews.com/wws-enrollment-finances-facilities-202605/"
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+ "race_id": "in-school-board-jackson-medora",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The district: Medora Community School Corporation in Medora, Jackson County, runs two schools, Medora STEM Academy and Medora Jr./Sr. High, in one building at 82 South George Street {med_home}{wiki_mjshs}. It is one of Indiana's smallest districts: state data show 184 students in 2026 and 185 in 2025 {idoe_enroll}. Roger Bane is superintendent {med_agenda_2026_10_19}{med_min_2024_05_13}.",
+  "Board: five trustees. Joe Campbell is president, Darrell Persinger vice president and Ada Reynolds secretary; Faythe Gill and Tony Hall are the other members {med_min_2026_01_12}. State results list two races: 'Seats 1, 2, & 3' (three seats, last elected in 2024: Campbell, Gill and Anthony J. Hall) and 'Seats 4 & 5' (two seats, last elected in 2022) {enr_2024}{enr_2022}.",
+  "Seats on the 2026 ballot: TWO seats, Seats 4 and 5. The state list shows 'vote for 1', but state results list this race as electing two members in both 2018 and 2022 {in_list}{enr_2018}{enr_2022}. In 2022 Darrell Persinger (268 votes) and Larry Osborn (176) were elected unopposed {enr_2022}. Osborn resigned effective December 31, 2023, and on January 15, 2024 the board appointed Ada Reynolds to replace him for a term running to December 31, 2026 {med_min_2024_01_15}. Both incumbents, Persinger and Reynolds, are running, and they are the only two candidates for the two seats {in_list}. Voters should check their sample ballot for how many candidates to choose.",
+  "Party labels: Persinger is listed as a Republican and Reynolds as Nonpartisan {in_list}. Persinger ran without a party label in 2018 and 2022, when none were allowed {enr_2018}{enr_2022}.",
+  "Budget: the board has repeatedly moved money from the Education Fund to the Operations Fund, including $100,000 transfers approved in October 2025, December 2025 and September 2026 {med_min_2025_10_13}{med_min_2025_12_08}{med_min_2026_09_14}. On September 14, 2026 it voted 5-0 to reduce 2026 appropriations in the Operations, Rainy Day and Education funds and held the public hearing on the 2027 budget, bus replacement plan and capital projects plan {med_min_2026_09_14}. Adoption of the 2027 budget and the purchase of a 15-passenger activity bus are on the October 19, 2026 agenda {med_agenda_2026_10_19}. This guide found no public statement from the board on how the 2025 property-tax law (SEA 1) affects Medora's budget. Medora is not listed among districts with a school tax referendum on the November 2026 ballot {dlgf_ref}.",
+  "Facilities and debt: in 2024 the board approved a $1,770,500 HVAC bid from Harrell-Fish Inc. and an amended lease with the Medora 1999 School Building Corporation to finance HVAC and roofing improvements to the school building {med_min_2024_05_13}. In 2026 the superintendent held preliminary determination hearings on a new bond project on March 9 and April 13. On April 13 the board voted 4-0 for the preliminary determination/bond resolution and an additional appropriation to spend the bond proceeds; no members of the public commented {med_min_2026_03_09}{med_min_2026_04_13}. The minutes do not describe the project or its amount.",
+  "Staffing and academics: on November 10, 2025 the board ratified a teachers' contract with the Medora Classroom Teachers Association (MCTA) covering July 1, 2025 to June 30, 2027 {med_min_2025_10_13}{med_min_2025_11_10}. In April 2025 the principal reported that Medora Jr./Sr. High was chosen for a Notre Dame AP program cohort that lets students earn college credit {med_min_2025_04_14}. The board renewed a career and technical education agreement with North Lawrence schools in 2025 and 2026 {med_min_2025_04_14}{med_min_2026_07_13}.",
+  "Forums: this guide found no candidate forum, questionnaire or news profile for this race."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Ada Reynolds",
+   "seat": "Seats 4 & 5",
+   "summary": "Incumbent and board secretary, appointed in January 2024 to fill a vacancy, and listed as Nonpartisan {med_min_2024_01_15}{med_min_2026_01_12}{in_list}.",
+   "website": null,
+   "background": [
+    "Appointed to the board on January 15, 2024 to replace Larry Osborn, who resigned effective December 31, 2023 {med_min_2024_01_15}. Has been board secretary since January 2025 and was reappointed secretary in January 2026 {med_min_2025_01_13}{med_min_2026_01_12}.",
+    "This guide found no other biography (occupation, community roles or ties to the schools) in sources it could read."
+   ],
+   "path_to_ballot": [
+    "Filed on May 27, 2026, according to a list compiled from state filings, and is listed as Nonpartisan {incitizen_list}{in_list}. This is her first time on the ballot for this board; she joined it by appointment {med_min_2024_01_15}{enr_2022}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. This guide found no public statements from her about the board's record; the posted minutes record no remarks under 'items by School Board members' at the meetings reviewed {med_min_2026_09_14}.",
+    "She made the motions to approve the May 2024 HVAC bid, to ratify the 2025-2027 teachers' contract in November 2025, to approve the April 2026 bond resolution and to reduce 2026 appropriations in September 2026. All passed with no votes against {med_min_2024_05_13}{med_min_2025_11_10}{med_min_2026_04_13}{med_min_2026_09_14}.",
+    "She is recorded as present at 18 of the 20 board meetings from January 2025 through September 2026 whose posted minutes this guide could read {med_min_2025_06_09}{med_min_2025_10_13}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign website, questionnaire, forum answers or news coverage found.",
+    "Occupation and community roles not found.",
+    "No campaign finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Darrell Persinger",
+   "seat": "Seats 4 & 5",
+   "summary": "Incumbent and board vice president, elected in 2018 and 2022, and listed as a Republican {med_min_2026_01_12}{enr_2018}{enr_2022}{in_list}.",
+   "website": null,
+   "background": [
+    "Board member since at least 2018 and vice president since at least January 2024 {enr_2018}{med_min_2024_01_15}{med_min_2026_01_12}.",
+    "This guide found no other biography (occupation, community roles or ties to the schools) in sources it could read."
+   ],
+   "path_to_ballot": [
+    "Won one of the two Seats 4 & 5 places in 2018 (298 votes) and in 2022 (268 votes), each time in a two-candidate race for two seats with no party labels {enr_2018}{enr_2022}.",
+    "Filed for re-election on May 21, 2026 and is listed as a Republican {incitizen_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member and its vice president {med_min_2026_01_12}. This guide found no public statements from him about the board's record.",
+    "He made the motions to approve the May 2024 lease resolution for the HVAC and roofing project, to adopt the 2026 budget (Form 4) in October 2025, to adopt new textbooks and the ED Options Academy in August 2025 and to approve the April 2026 additional appropriation for bond proceeds. All passed with no votes against {med_min_2024_05_13}{med_min_2025_10_13}{med_min_2025_08_11}{med_min_2026_04_13}.",
+    "He is recorded as present at 15 of the 20 board meetings from January 2025 through September 2026 whose posted minutes this guide could read. He was absent in February 2025, December 2025, February 2026 (both meetings) and July 2026 {med_min_2025_02_10}{med_min_2025_12_08}{med_min_2026_02_09}{med_min_2026_02_25}{med_min_2026_07_13}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign website, questionnaire, forum answers or news coverage found.",
+    "Occupation and community roles not found.",
+    "No campaign finance reports found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "med_home": [
+   "Home",
+   "Medora Community School Corporation",
+   "accessed 2026-10-10",
+   "https://www.medora.k12.in.us/"
+  ],
+  "wiki_mjshs": [
+   "Medora Junior-Senior High School",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/Medora_Junior-Senior_High_School"
+  ],
+  "idoe_enroll": [
+   "Corporation Enrollment by Grade Level, 2006-26",
+   "Indiana Department of Education",
+   "2026",
+   "https://www.in.gov/doe/files/corporation-enrollment-grade-2006-26.xlsx"
+  ],
+  "med_min_2024_01_15": [
+   "Board minutes, January 15, 2024",
+   "Medora Community School Corporation",
+   "2024-01-15",
+   "https://www.medora.k12.in.us/UserFiles/Servers/Server_202863/File/January%2015%2C%202024%20Board%20Minutes.pdf"
+  ],
+  "med_min_2024_05_13": [
+   "Board minutes, May 13, 2024",
+   "Medora Community School Corporation",
+   "2024-05-13",
+   "https://www.medora.k12.in.us/UserFiles/Servers/Server_202863/File/May%2013%2C%202024%20Board%20Minutes.pdf"
+  ],
+  "med_min_2025_01_13": [
+   "Board minutes, January 13, 2025",
+   "Medora Community School Corporation",
+   "2025-01-13",
+   "https://www.medora.k12.in.us/UserFiles/Servers/Server_202863/File/January%2013%202025%20Board%20Minutes.pdf"
+  ],
+  "med_min_2025_02_10": [
+   "Board minutes, February 10, 2025",
+   "Medora Community School Corporation",
+   "2025-02-10",
+   "https://www.medora.k12.in.us/UserFiles/Servers/Server_202863/File/February%2010%202025%20Board%20Minutes.pdf"
+  ],
+  "med_min_2025_04_14": [
+   "Board minutes, April 14, 2025",
+   "Medora Community School Corporation",
+   "2025-04-14",
+   "https://www.medora.k12.in.us/UserFiles/Servers/Server_202863/File/April%2014%2C%202025%20Board%20Minutes.pdf"
+  ],
+  "med_min_2025_06_09": [
+   "Board minutes, June 9, 2025",
+   "Medora Community School Corporation",
+   "2025-06-09",
+   "https://www.medora.k12.in.us/UserFiles/Servers/Server_202863/File/June%209%2C%202025%20%20Board%20Minutes.pdf"
+  ],
+  "med_min_2025_08_11": [
+   "Board minutes, August 11, 2025",
+   "Medora Community School Corporation",
+   "2025-08-11",
+   "https://www.medora.k12.in.us/UserFiles/Servers/Server_202863/File/August%2011%2C%202025%20Board%20Minutes.pdf"
+  ],
+  "med_min_2025_10_13": [
+   "Board minutes, October 13, 2025",
+   "Medora Community School Corporation",
+   "2025-10-13",
+   "https://www.medora.k12.in.us/UserFiles/Servers/Server_202863/File/Oct%2013%2C%202025%20Board%20Minutes.pdf"
+  ],
+  "med_min_2025_11_10": [
+   "Board minutes, November 10, 2025",
+   "Medora Community School Corporation",
+   "2025-11-10",
+   "https://www.medora.k12.in.us/UserFiles/Servers/Server_202863/File/November%2010%2C%202025%20%20Board%20Minutes.pdf"
+  ],
+  "med_min_2025_12_08": [
+   "Board minutes, December 8, 2025",
+   "Medora Community School Corporation",
+   "2025-12-08",
+   "https://www.medora.k12.in.us/UserFiles/Servers/Server_202863/File/Decmeber%208%2C%202025%20Board%20Minutes.pdf"
+  ],
+  "med_min_2026_01_12": [
+   "Board minutes, January 12, 2026",
+   "Medora Community School Corporation",
+   "2026-01-12",
+   "https://www.medora.k12.in.us/UserFiles/Servers/Server_202863/File/January%2012%2C%202026%20Board%20Minutes.pdf"
+  ],
+  "med_min_2026_02_09": [
+   "Board minutes, February 9, 2026",
+   "Medora Community School Corporation",
+   "2026-02-09",
+   "https://www.medora.k12.in.us/UserFiles/Servers/Server_202863/File/February%209%2C%202026%20Board%20Minutes.pdf"
+  ],
+  "med_min_2026_02_25": [
+   "Special meeting minutes, February 25, 2026",
+   "Medora Community School Corporation",
+   "2026-02-25",
+   "https://www.medora.k12.in.us/UserFiles/Servers/Server_202863/File/February%2025%2C%202026%20Minutes%20-%20Special%20Meeting.pdf"
+  ],
+  "med_min_2026_03_09": [
+   "Board minutes, March 9, 2026",
+   "Medora Community School Corporation",
+   "2026-03-09",
+   "https://www.medora.k12.in.us/UserFiles/Servers/Server_202863/File/March%209%2C%202026%20Minutes.pdf"
+  ],
+  "med_min_2026_04_13": [
+   "Board minutes, April 13, 2026",
+   "Medora Community School Corporation",
+   "2026-04-13",
+   "https://www.medora.k12.in.us/UserFiles/Servers/Server_202863/File/April%2013%2C%202026%20Minutes.pdf"
+  ],
+  "med_min_2026_07_13": [
+   "Board minutes, July 13, 2026",
+   "Medora Community School Corporation",
+   "2026-07-13",
+   "https://www.medora.k12.in.us/UserFiles/Servers/Server_202863/File/July%2013%2C%202026%20Minutes.pdf"
+  ],
+  "med_min_2026_09_14": [
+   "Board minutes, September 14, 2026",
+   "Medora Community School Corporation",
+   "2026-09-14",
+   "https://www.medora.k12.in.us/UserFiles/Servers/Server_202863/File/September%2014%2C%202026%20Minutes.pdf"
+  ],
+  "med_agenda_2026_10_19": [
+   "Regular board meeting agenda, October 19, 2026",
+   "Medora Community School Corporation",
+   "2026-10",
+   "https://www.medora.k12.in.us/UserFiles/Servers/Server_202863/File/October%2019%2C%202026%20Agenda.pdf"
+  ],
+  "enr_2018": [
+   "2018 General Election Results (School Board Member)",
+   "Indiana Election Division",
+   "2018-11",
+   "https://enr.indianavoters.in.gov/archive/2018General/index.html"
+  ],
+  "enr_2022": [
+   "2022 General Election Results (School Board Member)",
+   "Indiana Election Division",
+   "2022-11",
+   "https://enr.indianavoters.in.gov/archive/2022General/index.html"
+  ],
+  "enr_2024": [
+   "2024 General Election Results (School Board Member)",
+   "Indiana Election Division",
+   "2024-11",
+   "https://enr.indianavoters.in.gov/archive/2024General/index.html"
+  ],
+  "incitizen_list": [
+   "2026 Indiana General Election School Board Candidate List",
+   "The Indiana Citizen",
+   "2026-08",
+   "https://indianacitizen.org/2026-indiana-general-election-school-board-candidate-list/"
+  ],
+  "dlgf_ref": [
+   "Referendum Information",
+   "Indiana Department of Local Government Finance",
+   "2026-10",
+   "https://www.in.gov/dlgf/referendum-information/"
+  ]
+ }
+}

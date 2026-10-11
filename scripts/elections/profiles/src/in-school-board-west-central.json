@@ -1,0 +1,193 @@
+{
+  "race_id": "in-school-board-west-central",
+  "reviewed": "2026-10-10",
+  "status": "draft",
+  "status_note": "Pending editorial review.",
+  "office": "@in_school_board",
+  "incumbent": null,
+  "race_context": [
+    "West Central School Corporation is based in Francesville and runs two schools on US 421: West Central Elementary School and West Central Middle/High School. The superintendent is Dr. Cathy Rowe {wc_home}. The ballot office names for its board seats list Pulaski and Jasper counties {in_list}.",
+    "Enrollment: in October 2025 Superintendent Rowe said average daily membership would be about 609.66 students, 11.75 below budget. She put the Education Fund loss at about $88,000 and said about 77 tuition transfers come into the district {wc_m251002}. In October 2026 she said membership would come in around 583.71 rather than the forecast 605, a funding loss of more than $160,000 for the next calendar year {wc_m261001}.",
+    "The board has seven members. The district lists them by area: Jonathan Gutwein (Gilliam Township, president), Darin Gudeman (White Post Township, vice president), Jake Tanner (Jefferson Township, secretary), Jeff Lowry (Beaver Township), Todd Miller (Salem Township), Heather Reese (Cass Township) and Dennis Gutwein (at large) {wc_board}{wc_m260108}.",
+    "Cass Township seat: Kyle McTeigue won it unopposed in 2022 {pp_2022}. On Nov. 6, 2025 the board voted 6-0 to appoint Heather Reese to the seat McTeigue left vacant {wc_m251106}. Reese is the only 2026 candidate {in_list}{pp_ballot}.",
+    "Salem Township seat: in 2022 Todd Miller won reelection over Lindsey Geyer, 467 votes to 387 {pp_2022}. The district lists Miller's term as ending in 2026 {wc_board}. He is not on the 2026 ballot, so the seat is open. The candidates are Lindsey Geyer and Jamie (Jay) Johnson, both listed as Republicans {in_list}{pp_ballot}.",
+    "The district site also lists a 2026 term end for Jeff Lowry's Beaver Township seat, which he won unopposed in 2022. Neither the state list nor the Pulaski Post's ballot list shows a Beaver Township race in 2026 {wc_board}{pp_2022}{in_list}{pp_ballot}.",
+    "Budget: the board adopted the 2026 budget, capital projects plan and bus replacement plan 6-0 in October 2025 {wc_m251002}. On Oct. 1, 2026 it adopted the 2027 budget and plans 6-0. At the same meeting it approved a transfer from the Education Fund to the Operations Fund and a transfer to the Rainy Day Fund {wc_m261001}. In September 2026 Superintendent Rowe raised a concern about the effect on the Education Fund of a large graduating class against a small incoming kindergarten class {wc_m260903}. The minutes reviewed do not discuss the 2025 property-tax law (SEA 1) or a referendum.",
+    "Staffing: in May 2026 the board approved 6-0 a reduction in force to a partial contract, and in June 2026 a reduction in force in high school music {wc_m260507}{wc_m260604}. In April 2026 it approved Teacher Appreciation Grant distributions 5-1, with Jeff Lowry voting no {wc_m260402}.",
+    "Facilities: a renovation project was wrapping up in January 2026 {wc_m260108}. A Feb. 19, 2026 hail storm damaged the middle/high school roof and outbuildings. Rowe said in October 2026 that the claim came to $2,137,013 and that insurance paid it less a $100,000 deductible {wc_m260507}{wc_m261001}. She said in August 2026 that the wind/hail deductible will rise to $250,000 at renewal {wc_m260806}.",
+    "Wind turbine costs: in September 2025 a transfer from the Rainy Day Fund to the Wind Turbine Maintenance Fund failed 1-6 {wc_m250904}. In February 2026 the board approved a Turbine Maintenance Fund resolution 6-1, with Jeff Lowry voting no {wc_m260205}. Rowe later met with other districts that own turbines about common concerns {wc_m260604}.",
+    "Academics: Rowe reported in April 2026 that 60% of West Central students passed IREAD, against 49% statewide {wc_m260402}. In May 2026 the middle/high school principal said the school had not earned Early College endorsement {wc_m260507}. In February 2026 he said that beginning in 2026-27, students scoring above proficiency on ILEARN with at least a C in math would be auto-enrolled in advanced math {wc_m260205}.",
+    "Policies: in August 2026 the board adopted a wireless devices prohibition policy (4307) 4-0 {wc_m260806}. Sunday use of school facilities came up twice. In January 2026 the board rejected Sunday volleyball league practices 4-3, with Todd Miller, Dennis Gutwein, Jake Tanner and Heather Reese voting no. In February 2026 it approved them 6-1 with a 1 p.m. earliest start, with Miller voting no {wc_m260108}{wc_m260205}.",
+    "No candidate forum, questionnaire or news profile for the 2026 West Central races was found."
+  ],
+  "candidates": [
+    {
+      "ballot_name": "Heather Marie Reese",
+      "seat": "Cass Township",
+      "summary": "Incumbent: appointed to the Cass Township seat in November 2025 and unopposed in 2026. Listed as nonpartisan {wc_m251106}{in_list}.",
+      "website": null,
+      "background": [
+        "Appointed by the board on Nov. 6, 2025, by a 6-0 vote, to fill the seat vacated by Kyle McTeigue {wc_m251106}.",
+        "Listed by the district as the Cass Township board member {wc_board}."
+      ],
+      "path_to_ballot": [
+        "Listed on the state candidate list as nonpartisan for the Cass Township seat, with no opponent {in_list}{pp_ballot}."
+      ],
+      "positions": [],
+      "on_incumbent": [
+        "Is a current board member. Minutes record her votes and motions. In January 2026 she voted against Sunday volleyball league practices {wc_m260108}. She moved approval of the Teacher Appreciation Grant distributions in April 2026 {wc_m260402}, of advertising the 2027 budget, capital projects plan and bus replacement plan in August 2026 {wc_m260806}, and of the 2026 transfer to the Rainy Day Fund in October 2026 {wc_m261001}.",
+        "No campaign statements describing her view of the board's record were found."
+      ],
+      "plans": [],
+      "endorsements_finance": [
+        "None found."
+      ],
+      "gaps": [
+        "No campaign statement, questionnaire, forum appearance, website or campaign finance filing was found.",
+        "Occupation and other background not found."
+      ]
+    },
+    {
+      "ballot_name": "Jamie (Jay) Johnson",
+      "seat": "Salem Township",
+      "summary": "Candidate for the open Salem Township seat, listed as a Republican. No candidate statements were found {in_list}{pp_ballot}.",
+      "website": null,
+      "background": [
+        "No published biography was found."
+      ],
+      "path_to_ballot": [
+        "Listed on the state candidate list as a Republican for the Salem Township seat {in_list}.",
+        "The Pulaski Post lists him as Jamie \"Jay\" Johnson (R) {pp_ballot}."
+      ],
+      "positions": [],
+      "on_incumbent": [
+        "No statements found."
+      ],
+      "plans": [],
+      "endorsements_finance": [
+        "None found."
+      ],
+      "gaps": [
+        "No biography, questionnaire, forum appearance, website or campaign finance filing was found.",
+        "Not established whether he has any role with the school corporation."
+      ]
+    },
+    {
+      "ballot_name": "Lindsey Geyer",
+      "seat": "Salem Township",
+      "summary": "Candidate for the open Salem Township seat, listed as a Republican. She ran for the same seat in 2022 {in_list}{pp_2022}.",
+      "website": null,
+      "background": [
+        "Ran for the Salem Township seat in 2022 and lost to incumbent Todd Miller, 467 votes to 387 {pp_2022}."
+      ],
+      "path_to_ballot": [
+        "Listed on the state candidate list as a Republican for the Salem Township seat {in_list}{pp_ballot}."
+      ],
+      "positions": [],
+      "on_incumbent": [
+        "No statements found."
+      ],
+      "plans": [],
+      "endorsements_finance": [
+        "None found."
+      ],
+      "gaps": [
+        "No biography, questionnaire, forum appearance, website or campaign finance filing was found for 2022 or 2026.",
+        "Occupation and ties to the schools not found."
+      ]
+    }
+  ],
+  "review_flags": [],
+  "sources": {
+    "wc_home": [
+      "West Central School Corporation home page",
+      "West Central School Corporation",
+      "2026-10",
+      "https://www.wcsc.k12.in.us/"
+    ],
+    "wc_board": [
+      "WCSC Board of Education",
+      "West Central School Corporation",
+      "2026-10",
+      "https://wcsc.k12.in.us/wcsc/school-board/overview"
+    ],
+    "wc_m250904": [
+      "West Central School Board minutes, Sept. 4, 2025",
+      "West Central School Corporation",
+      "2025-09-04",
+      "https://www.wcsc.k12.in.us/wcsc/info/document-library/school-board-documents-1/school-board-minutes-1/2730-9-4-25-wcsc-school-board-minutes-unapproved/file?force-download=1"
+    ],
+    "wc_m251002": [
+      "West Central School Board minutes, Oct. 2, 2025",
+      "West Central School Corporation",
+      "2025-10-02",
+      "https://www.wcsc.k12.in.us/wcsc/info/document-library/school-board-documents-1/school-board-minutes-1/2774-oct-2-2025-school-board-minute-unapproved/file?force-download=1"
+    ],
+    "wc_m251106": [
+      "West Central School Board minutes, Nov. 6, 2025",
+      "West Central School Corporation",
+      "2025-11-06",
+      "https://www.wcsc.k12.in.us/wcsc/info/document-library/school-board-documents-1/school-board-minutes-1/2821-11-6-25-wcsc-sb-minutes/file?force-download=1"
+    ],
+    "wc_m260108": [
+      "West Central School Board minutes, Jan. 8, 2026",
+      "West Central School Corporation",
+      "2026-01-08",
+      "https://www.wcsc.k12.in.us/wcsc/info/document-library/school-board-documents-1/school-board-minutes-1/2896-january-8-2026-school-board-minutes-unapproved/file?force-download=1"
+    ],
+    "wc_m260205": [
+      "West Central School Board minutes, Feb. 5, 2026",
+      "West Central School Corporation",
+      "2026-02-05",
+      "https://www.wcsc.k12.in.us/wcsc/info/document-library/school-board-documents-1/school-board-minutes-1/2929-wcsc-school-board-minutes-unapproved-february-5-2026/file?force-download=1"
+    ],
+    "wc_m260402": [
+      "West Central School Board minutes, April 2, 2026",
+      "West Central School Corporation",
+      "2026-04-02",
+      "https://www.wcsc.k12.in.us/wcsc/info/document-library/school-board-documents-1/school-board-minutes-1/3009-april-2-2026-wcsc-school-board-minutes-unapproved/file?force-download=1"
+    ],
+    "wc_m260507": [
+      "West Central School Board minutes, May 7, 2026",
+      "West Central School Corporation",
+      "2026-05-07",
+      "https://www.wcsc.k12.in.us/wcsc/info/document-library/school-board-documents-1/school-board-minutes-1/3059-may-7-2026-board-minutes-unapproved-pdf-revised/file?force-download=1"
+    ],
+    "wc_m260604": [
+      "West Central School Board minutes, June 4, 2026",
+      "West Central School Corporation",
+      "2026-06-04",
+      "https://www.wcsc.k12.in.us/wcsc/info/document-library/school-board-documents-1/school-board-minutes-1/3085-june-4-2026-wcsc-sb-minutes/file?force-download=1"
+    ],
+    "wc_m260806": [
+      "West Central School Board minutes, Aug. 6, 2026",
+      "West Central School Corporation",
+      "2026-08-06",
+      "https://www.wcsc.k12.in.us/wcsc/info/document-library/school-board-documents-1/school-board-minutes-1/3098-aug-6-2026-board-minutes-unapproved/file?force-download=1"
+    ],
+    "wc_m260903": [
+      "West Central School Board minutes, Sept. 3, 2026",
+      "West Central School Corporation",
+      "2026-09-03",
+      "https://www.wcsc.k12.in.us/wcsc/info/document-library/school-board-documents-1/school-board-minutes-1/3137-sbm-9-3-26-unapproved/file?force-download=1"
+    ],
+    "wc_m261001": [
+      "West Central School Board minutes, Oct. 1, 2026",
+      "West Central School Corporation",
+      "2026-10-01",
+      "https://www.wcsc.k12.in.us/wcsc/info/document-library/school-board-documents-1/school-board-minutes-1/3188-wcsc-school-board-minutes-october-1-2026/file?force-download=1"
+    ],
+    "pp_2022": [
+      "2022 midterm election local results announced",
+      "Pulaski Post",
+      "2022-11",
+      "https://pulaskipost.com/index.php/4-news/news/9019-2022-midterm-election-local-results-announced"
+    ],
+    "pp_ballot": [
+      "2026 General Election: Who's on my ballot?",
+      "Pulaski Post",
+      "2026-10",
+      "https://pulaskipost.com/index.php/4-news/news/11050-2026-general-election-who-s-on-my-ballot"
+    ]
+  }
+}

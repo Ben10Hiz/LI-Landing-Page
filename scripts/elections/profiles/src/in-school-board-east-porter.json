@@ -1,0 +1,138 @@
+{
+ "race_id": "in-school-board-east-porter",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The district: East Porter County School Corporation, based in Kouts, serves Pleasant, Morgan and Washington townships in Porter County, including Kouts and parts of Valparaiso that extend into Washington Township {wiki_epcsc}. It runs an elementary school and a middle/high school in each township: Kouts, Morgan Township and Washington Township {ep_board}{wiki_epcsc}. State data show 2,182 students in 2026, down from 2,467 in 2020 {idoe_enroll}.",
+  "Superintendent: the board appointed Dr. Reid Amones superintendent effective July 1, 2026. He was previously executive director of personnel for Merrillville Community School Corporation and a principal at Valparaiso High School and George Rogers Clark Middle/High School in Hammond {ep_amones}.",
+  "Board: the district's website lists seven trustees: Richard McSparin (president), Elizabeth McFalls (vice president), Stacia Terpstra (secretary), Bob Martin, Vanessa Moore, Audrey Starr and Jim Chowning {ep_board}. State results show two seats for each township plus one at-large seat. Morgan Township has two seats that both carry the label 'District 1': McSparin's seat, which state results title 'East Porter School Board, Morgan Township, District 1', and a second seat titled 'East Porter County School Board, Morgan Township, District 1' that Audrey Starr won in 2024 {enr_2018}{enr_2022}{enr_2024}. Pleasant Township has two seats (McFalls, Terpstra), Washington Township has two (Martin, Moore), and the at-large seat was won in 2024 by Natalie Bowersock {enr_2022}{enr_2024}. Bowersock is not on the current board list. This guide did not find a district record of how Jim Chowning joined the board {ep_board}.",
+  "Seats on the 2026 ballot: this race is for ONE seat, the Morgan Township seat held by board president Richard McSparin, who is running for re-election {in_list}{ep_board}{enr_2022}. McSparin won this seat unopposed in 2018 and 2022 {enr_2018}{enr_2022}. The state list's 'vote for 1' matches past results for this seat {in_list}{enr_2022}. The district's other 2026 races (Pleasant Township District 2 and Washington Township District 3) appear on the state list under the name 'East Porter County School Board' and are covered in a separate profile {in_list}.",
+  "Party labels: McSparin is listed as a Republican and Scot Steven Spoljaric, II as an Independent {in_list}. McSparin ran without a party label in 2018 and 2022, when none were allowed {enr_2018}{enr_2022}.",
+  "Facilities and debt: on August 3, 2026 the board made a preliminary determination to issue up to $17.5 million in bonds and enter lease agreements of up to 12 years. The money would pay for renovations and improvements across the district, including site work, solar arrays, furniture, buses, equipment and technology {ep_bond_notice}. The notice estimates the maximum annual lease payment at $5,485,000 and the maximum increase in the debt service tax rate at $0.3557. It also says that, as existing debts are paid off, 'the anticipated net increase to the Debt Service Fund levy is expected to be $0.00' {ep_bond_notice}. Under the notice, property owners or registered voters could start a petition-and-remonstrance process within 30 days of its publication {ep_bond_notice}.",
+  "Lease hearing: the board has set a public hearing for November 9, 2026 at 5:30 p.m. in Kouts on a proposed 12-year lease. The building to be renovated is 'a portion of Washington Township Middle/High School' {ep_lease_notice}.",
+  "Enrollment: state data show enrollment fell from 2,467 in 2020 to 2,275 in 2025 and 2,182 in 2026 {idoe_enroll}. East Porter is not listed among districts with a school tax referendum on the November 2026 ballot {dlgf_ref}. This guide found no public statement from the board on how the 2025 property-tax law (SEA 1) affects East Porter's budget.",
+  "Forums: this guide found no candidate forum, questionnaire or news profile for this race. The district posts board agendas and minutes on BoardDocs, which could not be reached for this guide {ep_board}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Richard McSparin",
+   "seat": "Morgan Township, District 1",
+   "summary": "Incumbent and board president, first elected to this seat in 2018, and listed as a Republican {ep_board}{enr_2018}{in_list}.",
+   "website": null,
+   "background": [
+    "Board president of East Porter County School Corporation {ep_board}. He has held the Morgan Township seat since winning it in 2018 {enr_2018}{enr_2022}.",
+    "This guide found no other biography (occupation, community roles or ties to the schools) in sources it could read."
+   ],
+   "path_to_ballot": [
+    "Won the seat unopposed in 2018 with 3,183 votes and again in 2022 with 3,810 votes, running without a party label {enr_2018}{enr_2022}.",
+    "Filed for re-election on May 19, 2026 and is listed as a Republican {incitizen_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member and its president {ep_board}. This guide found no public statements from him about the board's record.",
+    "During his current term as president, the board appointed Dr. Reid Amones superintendent effective July 1, 2026 {ep_amones}{ep_board}. On August 3, 2026 it also made a preliminary determination to issue up to $17.5 million in bonds for renovations across the district {ep_bond_notice}. This guide could not read the minutes, so his individual votes are not known."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign website, questionnaire, forum answers or news coverage found.",
+    "Occupation and community roles not found.",
+    "Individual votes not confirmed because the board's BoardDocs minutes could not be reached.",
+    "No campaign finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Scot Steven Spoljaric, II",
+   "seat": "Morgan Township, District 1",
+   "summary": "Challenger for the Morgan Township seat, listed as an Independent {in_list}.",
+   "website": null,
+   "background": [
+    "This guide found no campaign biography or news profile for this candidate."
+   ],
+   "path_to_ballot": [
+    "Filed on June 17, 2026, according to a list compiled from state filings, and is listed as an Independent {incitizen_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign website, social media page, questionnaire, forum answers or news coverage found.",
+    "Occupation, ties to the district and stated positions unknown.",
+    "No campaign finance reports found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "ep_board": [
+   "School Board",
+   "East Porter County School Corporation",
+   "accessed 2026-10-10",
+   "https://www.eastporter.k12.in.us/page/school-board"
+  ],
+  "ep_amones": [
+   "Announcement: Dr. Reid Amones as New Superintendent",
+   "East Porter County School Corporation",
+   "2026-06-16",
+   "https://www.eastporter.k12.in.us/page/announcement-dr-reid-amones-as-new-superintendent"
+  ],
+  "ep_bond_notice": [
+   "Notice of Adoption of Preliminary Determination",
+   "East Porter County School Corporation Board of School Trustees",
+   "2026-08-11",
+   "https://drive.google.com/file/d/1QfI_JCgZIAYDpPBeBtzh45xdqAQaaLd3/view"
+  ],
+  "ep_lease_notice": [
+   "Notice of Hearing on Proposed Lease, East Porter County School Corporation",
+   "East Porter County School Corporation",
+   "2026-10-07",
+   "https://drive.google.com/file/d/1TguMn7SBK5H-RujnK3P6nBsU2w7eaeLt/view"
+  ],
+  "wiki_epcsc": [
+   "East Porter County School Corporation",
+   "Wikipedia",
+   "accessed 2026-10-10",
+   "https://en.wikipedia.org/wiki/East_Porter_County_School_Corporation"
+  ],
+  "idoe_enroll": [
+   "Corporation Enrollment by Grade Level, 2006-26",
+   "Indiana Department of Education",
+   "2026",
+   "https://www.in.gov/doe/files/corporation-enrollment-grade-2006-26.xlsx"
+  ],
+  "enr_2018": [
+   "2018 General Election Results (School Board Member)",
+   "Indiana Election Division",
+   "2018-11",
+   "https://enr.indianavoters.in.gov/archive/2018General/index.html"
+  ],
+  "enr_2022": [
+   "2022 General Election Results (School Board Member)",
+   "Indiana Election Division",
+   "2022-11",
+   "https://enr.indianavoters.in.gov/archive/2022General/index.html"
+  ],
+  "enr_2024": [
+   "2024 General Election Results (School Board Member)",
+   "Indiana Election Division",
+   "2024-11",
+   "https://enr.indianavoters.in.gov/archive/2024General/index.html"
+  ],
+  "incitizen_list": [
+   "2026 Indiana General Election School Board Candidate List",
+   "The Indiana Citizen",
+   "2026-08",
+   "https://indianacitizen.org/2026-indiana-general-election-school-board-candidate-list/"
+  ],
+  "dlgf_ref": [
+   "Referendum Information",
+   "Indiana Department of Local Government Finance",
+   "2026-10",
+   "https://www.in.gov/dlgf/referendum-information/"
+  ]
+ }
+}

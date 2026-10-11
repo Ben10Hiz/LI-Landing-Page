@@ -39,6 +39,7 @@ multi-seat but not yet confirmed from a 2026 county ballot:
 | Delaware Daleville Community School Board | 2 | two 2022 seats up on the four-year cycle |
 | Shelbyville Central School Board, District 4 | 2 | 2022 and 2024 each elected 2; Rees's seat also up |
 | Shelby Eastern School Board | ? | three seats in 2024 but two races listed for 2026 |
+| West Central School Board, Beaver Township | 0 on ballot | term ends 2026; no race on the state list |
 | Jay School Board, District 1 | 0 on ballot | seat due in 2026 but no one filed; how it is filled is unknown |
 
 Also confirm with county election offices:

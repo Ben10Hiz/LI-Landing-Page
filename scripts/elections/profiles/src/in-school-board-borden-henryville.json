@@ -1,0 +1,198 @@
+{
+ "race_id": "in-school-board-borden-henryville",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The district: Borden-Henryville School Corporation (BHSC) was formed on July 1, 2020 after West Clark Community Schools was dissolved. It runs Borden Elementary, Borden Jr/Sr High, Henryville Elementary and Henryville Jr/Sr High in northern Clark County. Henryville students live mainly in Monroe and Union townships and Borden students mainly in Wood and Carr townships {bhsc_about}. Voters approved splitting West Clark into two districts in 2020 {nt_split}. State enrollment data show 1,766 students in 2026, compared with 1,721 in 2022 {idoe_enroll}.",
+  "Superintendent: Dr. Brent Comer {bhsc_board}. The News and Tribune reported that Comer started in January 2025, after Superintendent Johnny Budd retired at the end of 2024 {nt_supt}.",
+  "Board: five members. Myra Powell is president, Kevin Puckett vice president and Andy Guernsey secretary, and Terry Roudenbush and Adam Campbell are members {bhsc_board}. Clark County describes three board districts. District 1 is parts of Monroe Township, District 2 is Union Township plus western Monroe Township, and District 3 is Wood Township plus part of Carr Township {clark_districts}. Campbell (District 1), Roudenbush (District 2) and Powell (District 3) won the district seats in 2024 {enr_2024}. Guernsey and Puckett won the board's at-large seats in 2022 {enr_2022}.",
+  "Seats on the 2026 ballot: the state list shows 'vote for 1' for the at-large race {in_list}. But the two at-large seats now held by Guernsey and Puckett were filled together in 2022, when the race had two seats and the News and Tribune reported that 'Voters will select two candidates' {enr_2022}{nt_2022_cands}. Both of those terms appear to end in 2026, so this guide believes the at-large race elects TWO members. If so, the two candidates on the ballot would fill both seats. This guide did not find an official 2026 seat count, so voters should check their sample ballot.",
+  "Who is running: both at-large incumbents, Andy Guernsey (listed as Republican) and Kevin Puckett (listed as Nonpartisan), are on the ballot, and no challenger filed {in_list}{lpm_2026}. Louisville Public Media noted that 2026 is the first general election in which Indiana school board candidates may run with a party label, and that most chose to run as nonpartisan {lpm_2026}. In 2022 the race had three candidates: Guernsey got 2,938 votes and Puckett 2,653, and Summer Guthrie was third with 1,995 {enr_2022}.",
+  "Budget and taxes: in October 2025 the board approved a $25.7 million budget for 2026, including $13.5 million for the education fund, $6.1 million for debt service and $6 million for operations {nt_budget2026}. When the board adopted a preliminary bond resolution for capital needs that month, Comer said the board was discussing how to keep the tax rate below $0.89, which he called 'a staple in the community' {nt_bond2025}. This guide found no public statement from BHSC on how the 2025 property-tax law (SEA 1) affects its budget. BHSC is not listed among districts with referendums on the November 2026 ballot {dlgf_ref}.",
+  "New 2026 bond: the board held public hearings on September 28 and October 8, 2026 on facility renovations, site improvements, and technology, equipment and bus purchases {bhsc_hearings}. On October 8, 2026 it made a preliminary determination to issue up to $3,370,000 in five-year bonds. The district estimates the debt service tax rate will rise by up to $0.0801 from the current $0.5598 {bhsc_go2026}.",
+  "Policies: in June 2026 the board gave final approval to cell phone and grading policies for 2026-27 to comply with the state ban on devices in schools. Students must keep their phones in a locker from the first bell to the last {nt_phone}. In November 2025 the board discussed changing testing and retake rules for 2026-27 {nt_retake}. In June 2026 it removed the weekly Monday one-hour delays for teacher development from the 2026-27 calendar {bhsc_calendar}. In July 2026 it approved a list of middle and high school novels and new lunch prices, and Comer said all open teaching positions had been filled {nt_lunch}.",
+  "Forums: this guide found no candidate forum, questionnaire or news profile for this race in 2026."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Andy Guernsey",
+   "seat": "At Large",
+   "summary": "Incumbent at-large member and board secretary, first elected in 2022, listed as Republican {bhsc_board}{enr_2022}{in_list}.",
+   "website": null,
+   "background": [
+    "Board secretary of the Borden-Henryville School Corporation {bhsc_board}.",
+    "Won an at-large seat in 2022 with 2,938 votes, the most of the three candidates {enr_2022}. The News and Tribune described him as a newcomer facing incumbent Kevin Puckett in that race {nt_2022_cands}.",
+    "This guide found no campaign biography giving his occupation or other community roles."
+   ],
+   "path_to_ballot": [
+    "Is on the state list of 2026 general-election candidates for the at-large seat, listed as Republican {in_list}{lpm_2026}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {bhsc_board}. This guide found no public statement from him on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign website, questionnaire, forum answers or 2026 news profile found.",
+    "Occupation, ties to the schools and stated positions unknown.",
+    "No campaign finance reports found.",
+    "The Republican label is as shown on the state list. This guide did not find whether a county party took any action on his candidacy.",
+    "A News and Tribune article from June 30, 2026 listing Clark and Floyd County candidates is for subscribers only and was not read."
+   ]
+  },
+  {
+   "ballot_name": "Kevin Puckett",
+   "seat": "At Large",
+   "summary": "Incumbent at-large member and board vice president, listed as Nonpartisan {bhsc_board}{in_list}.",
+   "website": null,
+   "background": [
+    "Vice president of the Borden-Henryville School Corporation board {bhsc_board}.",
+    "Was an incumbent in the 2022 at-large race, according to the News and Tribune {nt_2022_cands}. He won re-election with 2,653 votes {enr_2022}. He also ran for the district's at-large seat in 2020, as 'Kevin P Puckett' {enr_2020}.",
+    "This guide found no campaign biography giving his occupation or other community roles."
+   ],
+   "path_to_ballot": [
+    "Is on the state list of 2026 general-election candidates for the at-large seat, listed as Nonpartisan {in_list}{lpm_2026}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {bhsc_board}. This guide found no public statement from him on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign website, questionnaire, forum answers or 2026 news profile found.",
+    "Occupation, ties to the schools and stated positions unknown.",
+    "No campaign finance reports found.",
+    "A 2019 News and Tribune article reports that a judge appointed 'Sellersburg resident Kevin Puckett' to the at-large seat on the former West Clark Community Schools board. This guide could not confirm that this is the same person, so it is not used in the profile.",
+    "How and when he first joined the Borden-Henryville board, before the 2022 election, was not confirmed."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "bhsc_about": [
+   "About the District",
+   "Borden-Henryville School Corporation",
+   "2026-10",
+   "https://www.bhsc.school/page/about-the-district"
+  ],
+  "bhsc_board": [
+   "Board Members",
+   "Borden-Henryville School Corporation",
+   "2026-10",
+   "https://www.bhsc.school/page/board-members"
+  ],
+  "bhsc_hearings": [
+   "Notice of Hearings (2026 GO)",
+   "Borden-Henryville School Corporation",
+   "2026-09-16",
+   "https://www.bhsc.school/article/3133519"
+  ],
+  "bhsc_go2026": [
+   "Notice of Adoption of Preliminary Determination - 2026 GO",
+   "Borden-Henryville School Corporation",
+   "2026-10-09",
+   "https://www.bhsc.school/article/3183764"
+  ],
+  "bhsc_calendar": [
+   "Updated SY 26-27 Calendar",
+   "Borden-Henryville School Corporation",
+   "2026-06-16",
+   "https://www.bhsc.school/article/2998655"
+  ],
+  "clark_districts": [
+   "School Board Districts and Boundaries",
+   "Clark County Clerk of Courts",
+   "2026-10",
+   "https://secure.in.gov/counties/clarkcountyclerkofcourts/voting-and-elections/school-board-districts-and-boundaries/"
+  ],
+  "idoe_enroll": [
+   "Corporation Enrollment by Grade, 2006-2026",
+   "Indiana Department of Education",
+   "2026",
+   "https://www.in.gov/doe/files/corporation-enrollment-grade-2006-26.xlsx"
+  ],
+  "enr_2020": [
+   "2020 General Election Results (School Board Member)",
+   "Indiana Election Division",
+   "2020-11",
+   "https://enr.indianavoters.in.gov/archive/2020General/index.html"
+  ],
+  "enr_2022": [
+   "2022 General Election Results (School Board Member)",
+   "Indiana Election Division",
+   "2022-11",
+   "https://enr.indianavoters.in.gov/archive/2022General/index.html"
+  ],
+  "enr_2024": [
+   "2024 General Election Results (School Board Member)",
+   "Indiana Election Division",
+   "2024-11",
+   "https://enr.indianavoters.in.gov/archive/2024General/index.html"
+  ],
+  "dlgf_ref": [
+   "Referendum Information",
+   "Indiana Department of Local Government Finance",
+   "2026-10",
+   "https://www.in.gov/dlgf/referendum-information/"
+  ],
+  "lpm_2026": [
+   "Here's who's running for local seats in Clark and Floyd counties",
+   "Louisville Public Media",
+   "2026-07-17",
+   "https://www.lpm.org/news/2026-07-17/heres-whos-running-for-local-seats-in-clark-and-floyd-counties"
+  ],
+  "nt_2022_cands": [
+   "Three candidates seek at-large seats for Borden-Henryville board",
+   "News and Tribune",
+   "2022-11-01",
+   "https://www.newsandtribune.com/news/three-candidates-seek-at-large-seats-for-borden-henryville-board/article_d1c21920-5a16-11ed-8343-4f31aecabe51.html"
+  ],
+  "nt_split": [
+   "Voters approve referendum to separate West Clark into two school districts",
+   "News and Tribune",
+   "2020-06-02",
+   "https://www.newsandtribune.com/news/voters-approve-referendum-to-separate-west-clark-into-two-school-districts/article_95d1e10e-a53f-11ea-8152-6712362b73cf.html"
+  ],
+  "nt_supt": [
+   "New superintendent begins at Borden-Henryville",
+   "News and Tribune",
+   "2025-02-10",
+   "https://www.newsandtribune.com/news/new-superintendent-begins-at-borden-henryville/article_3058bdc0-e7f7-11ef-b995-b7ff7976f8f9.html"
+  ],
+  "nt_budget2026": [
+   "Borden-Henryville school board passes 2026 budget",
+   "News and Tribune",
+   "2025-10-21",
+   "https://www.newsandtribune.com/news/borden-henryville-school-board-passes-2026-budget/article_df3fdbc0-b781-4d8d-bb99-4f11475fcc2d.html"
+  ],
+  "nt_bond2025": [
+   "Borden-Henryville issues bond toward capital needs",
+   "News and Tribune",
+   "2025-10-16",
+   "https://www.newsandtribune.com/news/borden-henryville-issues-bond-toward-capital-needs/article_9c6e74d0-fdbd-4e46-a72f-9efcb9e1ff39.html"
+  ],
+  "nt_retake": [
+   "Borden-Henryville discusses adjusting district retake policy",
+   "News and Tribune",
+   "2025-11-18",
+   "https://www.newsandtribune.com/news/borden-henryville-discusses-adjusting-district-retake-policy/article_0e9e61b9-8070-45e3-8f64-06f3d33ea1e6.html"
+  ],
+  "nt_phone": [
+   "Borden-Henryville adjusts grading, cell phone policies",
+   "News and Tribune",
+   "2026-06-17",
+   "https://www.newsandtribune.com/news/borden-henryville-adjusts-grading-cell-phone-policies/article_e8bd800d-bcfe-47ca-b714-db24f91b20f4.html"
+  ],
+  "nt_lunch": [
+   "Borden-Henryville school board approves new lunch pricing, other tweaks ahead of first day",
+   "News and Tribune",
+   "2026-07-28",
+   "https://www.newsandtribune.com/news/borden-henryville-school-board-approves-new-lunch-pricing-other-tweaks-ahead-of-first-day/article_b5fe67c9-d64b-49f1-b1ed-5f3e52cd09cf.html"
+  ]
+ }
+}

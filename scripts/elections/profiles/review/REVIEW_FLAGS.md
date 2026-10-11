@@ -277,6 +277,14 @@ Sensitive items held for a second, careful editorial pass (criminal cases, misco
   Note: The article does not say who brought the motion or how it ended; this guide did not find the 2024 minutes or a response from Mumford on this point.
   - [BASED IN LAFAYETTE: Anger over accusations flares at West Lafayette School Board](https://indianacitizen.org/based-in-lafayette-anger-over-accusations-flares-at-west-lafayette-school-board/) — Based in Lafayette / The Indiana Citizen, 2026-10-04
 
+## Indiana School Board Member (`in-school-board-western-wayne`)
+
+- **Kelly Plank (former superintendent; not a candidate)** — criminal case — _held_
+  The Western Wayne News reported on May 22, 2026 that the district put Superintendent Kelly Plank on administrative leave on May 11, 2026. That was the day she was charged in Henry County with one count of Level 5 felony battery resulting in serious bodily injury, over an alleged April 5 incident at a New Castle lodge. Her attorney entered a not guilty plea, and no further court dates had been set. The paper received no response from Plank to its requests for comment. On May 22 the board approved 4-1, with Brent Fortman voting no, the separation of employment of an employee identified only as '#172', and named an interim superintendent. The board did not publicly identify the employee.
+  Note: Bears on the superintendent turnover described in race_context and on the board's May 22 vote; Rushton seconded the interim appointment. The case outcome was not found. A search snippet gave the incident date as April 4 (the article says April 5). The profile text deliberately mentions only the interim appointment.
+  - [WWS hires interim superintendent](https://westernwaynenews.com/?p=145193) — Western Wayne News, 2026-05-22
+  - [Western Wayne Schools board special meeting minutes, May 22, 2026](https://drive.google.com/file/d/1G-zxoltLmMD-O4xrfyXSOZXgFVQ9HVU6/view?usp=sharing) — Western Wayne Schools, 2026-05-22
+
 ## Indiana Secretary of State (`in-secretary-of-state`)
 
 - **Diego Morales** — misconduct allegation — _held_
