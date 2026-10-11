@@ -35,20 +35,32 @@
     "Filed for the at-large seat; appears on the county list with no party and on the state list as nonpartisan {hc_gen_list}{in_list}."
    ],
    "positions": [
-    {"topic": "Teachers & staff", "items": [
-     "Says her immediate priority is for teachers and the board to reach an agreed master contract, and that it would be her 'focal point' until resolved {cd_black}.",
-     "In June 2025 public comment, urged the board to find ways to keep staff leaving for neighboring districts {cd_search}."
-    ]},
-    {"topic": "Budget & taxes", "items": [
-     "Says SEA 1 reduces funding to public schools and that the board needs members who can review financial statements closely {cd_black}.",
-     "Wants to find new revenue and cost savings that do not cut teacher and student resources, and to spend savings on things that add value to students' education {cd_black}."
-    ]},
-    {"topic": "Transparency & community input", "items": [
-     "Says the board should explain every vote and major decision, make public documents easier to get, and post meeting notices widely with supporting documents attached {cd_black}."
-    ]},
-    {"topic": "Curriculum & library policy", "items": [
-     "Opposed the 2026 classroom display policy, calling it too vague and saying more important issues faced the corporation, such as the expired teachers' contract and teacher retention {cd_pushback}{cd_display}."
-    ]}
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Says her immediate priority is for teachers and the board to reach an agreed master contract, and that it would be her 'focal point' until resolved {cd_black}.",
+      "In June 2025 public comment, urged the board to find ways to keep staff leaving for neighboring districts {cd_search}."
+     ]
+    },
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Says SEA 1 reduces funding to public schools and that the board needs members who can review financial statements closely {cd_black}.",
+      "Wants to find new revenue and cost savings that do not cut teacher and student resources, and to spend savings on things that add value to students' education {cd_black}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Says the board should explain every vote and major decision, make public documents easier to get, and post meeting notices widely with supporting documents attached {cd_black}."
+     ]
+    },
+    {
+     "topic": "Curriculum & library policy",
+     "items": [
+      "Opposed the 2026 classroom display policy, calling it too vague and saying more important issues faced the corporation, such as the expired teachers' contract and teacher retention {cd_pushback}{cd_display}."
+     ]
+    }
    ],
    "on_incumbent": [
     "At the Aug. 13, 2026 meeting, said she disagreed with the classroom display policy and asked board members to explain their votes {cd_display}.",
@@ -78,24 +90,42 @@
     "Filed for the at-large seat as a Republican {hc_gen_list}{in_list}."
    ],
    "positions": [
-    {"topic": "Teachers & staff", "items": [
-     "Names staffing, pay, benefits, morale and retention as his top priority; says wages and benefits must stay competitive and the teachers' contract must be fair to educators and keep the corporation solvent {cd_bowen}."
-    ]},
-    {"topic": "Enrollment & school choice", "items": [
-     "Wants to maintain enrollment and grow the district's new virtual school program for families who prefer non-traditional options {cd_bowen}."
-    ]},
-    {"topic": "Special education", "items": [
-     "Wants to expand special education services so all students can learn {cd_bowen}."
-    ]},
-    {"topic": "Academics", "items": [
-     "Supports building career-ready pathways through North Harrison career and technical programs and the Prosser Career Education Center {cd_bowen}."
-    ]},
-    {"topic": "Facilities", "items": [
-     "Wants to modernize the athletic department, facilities and processes, and says he would 'protect women's sports' {cd_bowen}."
-    ]},
-    {"topic": "Budget & taxes", "items": [
-     "Says the schools 'must be run very efficiently' {cd_bowen}. In January 2026 he said the late-2025 insurance costs came from keeping premiums low, which left the corporation effectively self-insured once coverage ran out {cd_stifel}."
-    ]}
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Names staffing, pay, benefits, morale and retention as his top priority; says wages and benefits must stay competitive and the teachers' contract must be fair to educators and keep the corporation solvent {cd_bowen}."
+     ]
+    },
+    {
+     "topic": "Enrollment & school choice",
+     "items": [
+      "Wants to maintain enrollment and grow the district's new virtual school program for families who prefer non-traditional options {cd_bowen}."
+     ]
+    },
+    {
+     "topic": "Special education",
+     "items": [
+      "Wants to expand special education services so all students can learn {cd_bowen}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Supports building career-ready pathways through North Harrison career and technical programs and the Prosser Career Education Center {cd_bowen}."
+     ]
+    },
+    {
+     "topic": "Facilities",
+     "items": [
+      "Wants to modernize the athletic department, facilities and processes, and says he would 'protect women's sports' {cd_bowen}."
+     ]
+    },
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Says the schools 'must be run very efficiently' {cd_bowen}. In January 2026 he said the late-2025 insurance costs came from keeping premiums low, which left the corporation effectively self-insured once coverage ran out {cd_stifel}."
+     ]
+    }
    ],
    "on_incumbent": [
     "Is a current board member.",
@@ -108,53 +138,6 @@
    "gaps": [
     "No endorsements or campaign finance reports found.",
     "No news account found explaining why he moved from the Spencer Township seat to the at-large race.",
-    "No candidate forum found."
-   ]
-  },
-  {
-   "ballot_name": "Charles (Chris) Bowyer",
-   "seat": "Jackson Township",
-   "summary": "Incumbent board member; appointed in September 2024 to fill a vacancy and now board secretary {cd_bowyer}{cd_stifel}. Listed as a Republican {hc_gen_list}.",
-   "website": null,
-   "background": [
-    "Works for Consolidated Electrical Distributors; 1980 graduate of Jeffersonville High School and Prosser Vocational School {cd_bowyer}.",
-    "His three children are North Harrison graduates and three grandchildren attend the district {cd_bowyer}."
-   ],
-   "path_to_ballot": [
-    "Appointed in September 2024 from a group of volunteers to fill a vacancy left by a resignation; filed as a Republican for the Jackson Township seat in 2026 {cd_bowyer}{hc_gen_list}."
-   ],
-   "positions": [
-    {"topic": "Academics", "items": [
-     "Wants instruction focused on math, science, social studies, English, special education and career/agriculture programs {cd_bowyer}."
-    ]},
-    {"topic": "Budget & taxes", "items": [
-     "Lists finance and budget among the issues needing attention {cd_bowyer}. In October 2025 he told teachers asking for raises that the money is not there to pay teachers more {cd_pay}."
-    ]},
-    {"topic": "Enrollment & school choice", "items": [
-     "Lists declining enrollment and its effects as a priority {cd_bowyer}."
-    ]},
-    {"topic": "Special education", "items": [
-     "Acknowledges that not everyone who attends board meetings is convinced the district's special education programs are as good as they can be {cd_bowyer}."
-    ]},
-    {"topic": "Teachers & staff", "items": [
-     "Lists teacher and staff retention as a priority {cd_bowyer}."
-    ]},
-    {"topic": "Transparency & community input", "items": [
-     "Lists transparency with the public about school business as a priority {cd_bowyer}; said in January 2026 that 'the transparency that this board wants to parlay to you guys can't be overstated' {cd_stifel}."
-    ]}
-   ],
-   "on_incumbent": [
-    "Is a current board member.",
-    "Says the current board is productive and 'has made and will continue to make real progress' {cd_bowyer}.",
-    "Voted with the full board for the classroom display policy; when asked at the Aug. 13 meeting to explain the vote, he said, 'Appreciate everyone's opinion. We have our own.' {cd_display}"
-   ],
-   "plans": [
-    "Says priorities shift and need simultaneous attention; lists enrollment, special education, staff retention, budget, student safety and transparency, in no set order {cd_bowyer}."
-   ],
-   "endorsements_finance": [],
-   "gaps": [
-    "Fetched sources do not state which seat he was appointed to; a 2024 district vacancy notice for a Jackson Township seat was seen only in a search snippet (unverified), and 2022 Jackson Township winner Chris Lasley is not on the 2026 ballot.",
-    "No endorsements or campaign finance reports found.",
     "No candidate forum found."
    ]
   },
@@ -173,16 +156,25 @@
     "Filed as a Republican for the Jackson Township seat; first run for elected office {hc_gen_list}{cd_schenck}."
    ],
    "positions": [
-    {"topic": "Budget & taxes", "items": [
-     "Says he would propose cost-saving measures within 30 days that would not cut any teaching position, and believes $500,000 can be saved in the education fund {cd_schenck}.",
-     "Says the savings would pay for staff raises or stipends, offset enrollment declines and reduce transfers from the operations fund, freeing operations money for facility upgrades {cd_schenck}."
-    ]},
-    {"topic": "Teachers & staff", "items": [
-     "Says the district is losing teachers and that staff should be valued and respected {cd_schenck}."
-    ]},
-    {"topic": "Facilities", "items": [
-     "Wants freed-up operations money to go to facility upgrades {cd_schenck}."
-    ]}
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Says he would propose cost-saving measures within 30 days that would not cut any teaching position, and believes $500,000 can be saved in the education fund {cd_schenck}.",
+      "Says the savings would pay for staff raises or stipends, offset enrollment declines and reduce transfers from the operations fund, freeing operations money for facility upgrades {cd_schenck}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Says the district is losing teachers and that staff should be valued and respected {cd_schenck}."
+     ]
+    },
+    {
+     "topic": "Facilities",
+     "items": [
+      "Wants freed-up operations money to go to facility upgrades {cd_schenck}."
+     ]
+    }
    ],
    "on_incumbent": [
     "Says board members and the superintendent have made serious errors in management and judgment and that he would hold leadership accountable {cd_schenck}.",
@@ -195,6 +187,71 @@
    "gaps": [
     "No endorsements or campaign finance reports found.",
     "He did not name specific cuts behind the $500,000 savings estimate in the questionnaire.",
+    "No candidate forum found."
+   ]
+  },
+  {
+   "ballot_name": "Charles (Chris) Bowyer",
+   "seat": "Jackson Township",
+   "summary": "Incumbent board member; appointed in September 2024 to fill a vacancy and now board secretary {cd_bowyer}{cd_stifel}. Listed as a Republican {hc_gen_list}.",
+   "website": null,
+   "background": [
+    "Works for Consolidated Electrical Distributors; 1980 graduate of Jeffersonville High School and Prosser Vocational School {cd_bowyer}.",
+    "His three children are North Harrison graduates and three grandchildren attend the district {cd_bowyer}."
+   ],
+   "path_to_ballot": [
+    "Appointed in September 2024 from a group of volunteers to fill a vacancy left by a resignation; filed as a Republican for the Jackson Township seat in 2026 {cd_bowyer}{hc_gen_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Academics",
+     "items": [
+      "Wants instruction focused on math, science, social studies, English, special education and career/agriculture programs {cd_bowyer}."
+     ]
+    },
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Lists finance and budget among the issues needing attention {cd_bowyer}. In October 2025 he told teachers asking for raises that the money is not there to pay teachers more {cd_pay}."
+     ]
+    },
+    {
+     "topic": "Enrollment & school choice",
+     "items": [
+      "Lists declining enrollment and its effects as a priority {cd_bowyer}."
+     ]
+    },
+    {
+     "topic": "Special education",
+     "items": [
+      "Acknowledges that not everyone who attends board meetings is convinced the district's special education programs are as good as they can be {cd_bowyer}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Lists teacher and staff retention as a priority {cd_bowyer}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Lists transparency with the public about school business as a priority {cd_bowyer}; said in January 2026 that 'the transparency that this board wants to parlay to you guys can't be overstated' {cd_stifel}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member.",
+    "Says the current board is productive and 'has made and will continue to make real progress' {cd_bowyer}.",
+    "Voted with the full board for the classroom display policy; when asked at the Aug. 13 meeting to explain the vote, he said, 'Appreciate everyone's opinion. We have our own.' {cd_display}"
+   ],
+   "plans": [
+    "Says priorities shift and need simultaneous attention; lists enrollment, special education, staff retention, budget, student safety and transparency, in no set order {cd_bowyer}."
+   ],
+   "endorsements_finance": [],
+   "gaps": [
+    "Fetched sources do not state which seat he was appointed to; a 2024 district vacancy notice for a Jackson Township seat was seen only in a search snippet (unverified), and 2022 Jackson Township winner Chris Lasley is not on the 2026 ballot.",
+    "No endorsements or campaign finance reports found.",
     "No candidate forum found."
    ]
   },
@@ -212,11 +269,14 @@
     "Filed as an Independent for the Jackson Township seat; no prior elected office {hc_gen_list}{cd_inboden}."
    ],
    "positions": [
-    {"topic": "Budget & taxes", "items": [
-     "Says his top priority is helping the corporation stabilize and improve its finances as state changes reduce revenue {cd_inboden}.",
-     "Calls the Stifel financial review a good first step, and says the board and administration must keep developing and carrying out changes {cd_inboden}.",
-     "Wants to seek more resources through grant writing and partnerships while using current resources efficiently {cd_inboden}."
-    ]}
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Says his top priority is helping the corporation stabilize and improve its finances as state changes reduce revenue {cd_inboden}.",
+      "Calls the Stifel financial review a good first step, and says the board and administration must keep developing and carrying out changes {cd_inboden}.",
+      "Wants to seek more resources through grant writing and partnerships while using current resources efficiently {cd_inboden}."
+     ]
+    }
    ],
    "on_incumbent": [
     "Describes the board's 2026 partnership with Stifel as 'a great first step' {cd_inboden}."
@@ -244,19 +304,31 @@
     "Filed as a Republican for the Jackson Township seat; first run for elected office {hc_gen_list}{cd_fanz}."
    ],
    "positions": [
-    {"topic": "Academics", "items": [
-     "Says schools should focus on reading, writing, mathematics, science and history, with high academic standards and an emphasis on discipline, respect and order {cd_fanz}.",
-     "Says schools should respect the role families play in shaping their children's values {cd_fanz}."
-    ]},
-    {"topic": "Teachers & staff", "items": [
-     "Wants to empower teachers to teach effectively {cd_fanz}."
-    ]},
-    {"topic": "Budget & taxes", "items": [
-     "Says he would work to keep budgets balanced and direct resources where they help students and teachers most {cd_fanz}."
-    ]},
-    {"topic": "Transparency & community input", "items": [
-     "Says taxpayers deserve transparency and responsible stewardship of public funds {cd_fanz}."
-    ]}
+    {
+     "topic": "Academics",
+     "items": [
+      "Says schools should focus on reading, writing, mathematics, science and history, with high academic standards and an emphasis on discipline, respect and order {cd_fanz}.",
+      "Says schools should respect the role families play in shaping their children's values {cd_fanz}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Wants to empower teachers to teach effectively {cd_fanz}."
+     ]
+    },
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Says he would work to keep budgets balanced and direct resources where they help students and teachers most {cd_fanz}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Says taxpayers deserve transparency and responsible stewardship of public funds {cd_fanz}."
+     ]
+    }
    ],
    "on_incumbent": [],
    "plans": [
@@ -305,25 +377,125 @@
   }
  ],
  "sources": {
-  "hc_gen_list": ["Candidate List - Abbreviated, 2026 General Election", "Harrison County (Ind.) Election Board", "2026-10", "https://secure.in.gov/counties/harrison/files/2026generalelectioncandidates/Candidate_List_2026_General_Harp.pdf"],
-  "hc_sample_jackson": ["2026 General Election sample ballot, Jackson Township", "Harrison County (Ind.) Election Board", "2026-09", "https://secure.in.gov/counties/harrison/files/2026generalelectionsampleballots/Jackson.pdf"],
-  "hc_2022": ["2022 General Election cumulative results", "Harrison County (Ind.) Election Board", "2022-11-14", "https://secure.in.gov/counties/harrison/files/Cumulative-Results-11-14-2022-09-32-10-AM.pdf"],
-  "hc_2024": ["2024 General Election cumulative results", "Harrison County (Ind.) Election Board", "2024-11", "https://secure.in.gov/counties/harrison/files/2024generalresults/Cumulative_Results.pdf"],
-  "cd_gencands": ["2026 General Election candidates announced", "The Corydon Democrat / Clarion News", "2026-07-29", "https://www.madisoncourier.com/the_clarion_news/announcements/2026-general-election-candidates-announced/article_3de8e260-522a-5995-b66c-70c999577faa.html"],
-  "cd_atlarge": ["Black and Bowen seek NH School Board, At Large", "The Corydon Democrat / Clarion News", "2026-09-16", "https://www.madisoncourier.com/the_clarion_news/news/black-and-bowen-seek-nh-school-board-at-large/article_dcd7d8fa-aa85-556f-97d8-7e5891f9d3e4.html"],
-  "cd_black": ["Black and Bowen seek NH School Board, At Large (Ashley Black questionnaire)", "The Corydon Democrat / Clarion News", "2026-09-16", "https://www.madisoncourier.com/the_clarion_news/news/black-and-bowen-seek-nh-school-board-at-large/article_2f278872-c529-5bea-a8dc-0817687582dd.html"],
-  "cd_bowen": ["Black and Bowen seek NH School Board, At Large (Joshua Bowen questionnaire)", "The Corydon Democrat / Clarion News", "2026-09-16", "https://www.madisoncourier.com/the_clarion_news/news/black-and-bowen-seek-nh-school-board-at-large/article_99b85091-5280-5f92-873e-59678da71964.html"],
-  "cd_jackson": ["NH Jackson Township school board seat draws four", "The Corydon Democrat / Clarion News", "2026-09-23", "https://www.madisoncourier.com/the_clarion_news/news/nh-jackson-township-school-board-seat-draws-four/article_518cc36b-ba9a-5ec1-927c-80f57ad1bf00.html"],
-  "cd_bowyer": ["NH Jackson Township school board seat draws four (Chris Bowyer questionnaire)", "The Corydon Democrat / Clarion News", "2026-09-23", "https://www.madisoncourier.com/the_clarion_news/news/nh-jackson-township-school-board-seat-draws-four/article_944ad715-3c3f-5e31-a18a-a7e4e6dc5290.html"],
-  "cd_inboden": ["NH Jackson Township school board seat draws four (Dan Inboden questionnaire)", "The Corydon Democrat / Clarion News", "2026-09-23", "https://www.madisoncourier.com/the_clarion_news/news/nh-jackson-township-school-board-seat-draws-four/article_9d9c52ce-fe2e-59ab-ae7a-ca9179f32194.html"],
-  "cd_fanz": ["NH Jackson Township school board seat draws four (James Fanz questionnaire)", "The Corydon Democrat / Clarion News", "2026-09-23", "https://www.madisoncourier.com/the_clarion_news/news/nh-jackson-township-school-board-seat-draws-four/article_133f1ad3-ea78-501f-b631-b46054a5e0f6.html"],
-  "cd_schenck": ["NH Jackson Township school board seat draws four (Chad Schenck questionnaire)", "The Corydon Democrat / Clarion News", "2026-09-23", "https://www.madisoncourier.com/the_clarion_news/news/nh-jackson-township-school-board-seat-draws-four/article_c86c6e80-b7a8-57df-918a-e41461f5fbe3.html"],
-  "cd_search": ["Search for next superintendent underway at NH", "The Corydon Democrat / Clarion News", "2025-07-02", "https://www.madisoncourier.com/the_clarion_news/news/search-for-next-superintendent-underway-at-nh/article_868832ab-6d65-560a-b479-4f1bc3185e79.html"],
-  "cd_hire": ["NH hires next superintendent", "The Corydon Democrat / Clarion News", "2025-07-16", "https://www.madisoncourier.com/the_clarion_news/news/nh-hires-next-superintendent/article_a5984f1e-6e2f-534e-95ef-6e91e2d3c419.html"],
-  "cd_pay": ["Higher NH teacher pay urged by full house", "The Corydon Democrat / Clarion News", "2025-10-29", "https://www.madisoncourier.com/the_clarion_news/news/higher-nh-teacher-pay-urged-by-full-house/article_97212cc6-db66-5c1a-a980-f9f640b6296c.html"],
-  "cd_stifel": ["NH hires financial firm, pays high insurance claims", "The Corydon Democrat / Clarion News", "2026-01-21", "https://www.madisoncourier.com/the_clarion_news/news/nh-hires-financial-firm-pays-high-insurance-claims/article_3e202905-5ad4-5f85-99fa-e79992c4c230.html"],
-  "cd_pushback": ["NH classroom display policy draws pushback", "The Corydon Democrat / Clarion News", "2026-08-12", "https://www.madisoncourier.com/the_clarion_news/news/nh-classroom-display-policy-draws-pushback/article_03cf3304-3a5d-575f-a3c1-5285bb4f3222.html"],
-  "cd_display": ["North Harrison board finalizes classroom display policy", "The Corydon Democrat / Clarion News", "2026-08-26", "https://www.madisoncourier.com/the_clarion_news/news/education/north-harrison-board-finalizes-classroom-display-policy/article_da192398-6cce-51d4-a6fb-92da6de4a69f.html"],
-  "cd_crash": ["School board faces questions on student safety after crash", "The Corydon Democrat / Clarion News", "2026-09-23", "https://www.madisoncourier.com/the_clarion_news/news/education/school-board-faces-questions-on-student-safety-after-crash/article_097ab379-81c5-582d-9cc2-384f2b8392da.html"]
+  "hc_gen_list": [
+   "Candidate List - Abbreviated, 2026 General Election",
+   "Harrison County (Ind.) Election Board",
+   "2026-10",
+   "https://secure.in.gov/counties/harrison/files/2026generalelectioncandidates/Candidate_List_2026_General_Harp.pdf"
+  ],
+  "hc_sample_jackson": [
+   "2026 General Election sample ballot, Jackson Township",
+   "Harrison County (Ind.) Election Board",
+   "2026-09",
+   "https://secure.in.gov/counties/harrison/files/2026generalelectionsampleballots/Jackson.pdf"
+  ],
+  "hc_2022": [
+   "2022 General Election cumulative results",
+   "Harrison County (Ind.) Election Board",
+   "2022-11-14",
+   "https://secure.in.gov/counties/harrison/files/Cumulative-Results-11-14-2022-09-32-10-AM.pdf"
+  ],
+  "hc_2024": [
+   "2024 General Election cumulative results",
+   "Harrison County (Ind.) Election Board",
+   "2024-11",
+   "https://secure.in.gov/counties/harrison/files/2024generalresults/Cumulative_Results.pdf"
+  ],
+  "cd_gencands": [
+   "2026 General Election candidates announced",
+   "The Corydon Democrat / Clarion News",
+   "2026-07-29",
+   "https://www.madisoncourier.com/the_clarion_news/announcements/2026-general-election-candidates-announced/article_3de8e260-522a-5995-b66c-70c999577faa.html"
+  ],
+  "cd_atlarge": [
+   "Black and Bowen seek NH School Board, At Large",
+   "The Corydon Democrat / Clarion News",
+   "2026-09-16",
+   "https://www.madisoncourier.com/the_clarion_news/news/black-and-bowen-seek-nh-school-board-at-large/article_dcd7d8fa-aa85-556f-97d8-7e5891f9d3e4.html"
+  ],
+  "cd_black": [
+   "Black and Bowen seek NH School Board, At Large (Ashley Black questionnaire)",
+   "The Corydon Democrat / Clarion News",
+   "2026-09-16",
+   "https://www.madisoncourier.com/the_clarion_news/news/black-and-bowen-seek-nh-school-board-at-large/article_2f278872-c529-5bea-a8dc-0817687582dd.html"
+  ],
+  "cd_bowen": [
+   "Black and Bowen seek NH School Board, At Large (Joshua Bowen questionnaire)",
+   "The Corydon Democrat / Clarion News",
+   "2026-09-16",
+   "https://www.madisoncourier.com/the_clarion_news/news/black-and-bowen-seek-nh-school-board-at-large/article_99b85091-5280-5f92-873e-59678da71964.html"
+  ],
+  "cd_jackson": [
+   "NH Jackson Township school board seat draws four",
+   "The Corydon Democrat / Clarion News",
+   "2026-09-23",
+   "https://www.madisoncourier.com/the_clarion_news/news/nh-jackson-township-school-board-seat-draws-four/article_518cc36b-ba9a-5ec1-927c-80f57ad1bf00.html"
+  ],
+  "cd_bowyer": [
+   "NH Jackson Township school board seat draws four (Chris Bowyer questionnaire)",
+   "The Corydon Democrat / Clarion News",
+   "2026-09-23",
+   "https://www.madisoncourier.com/the_clarion_news/news/nh-jackson-township-school-board-seat-draws-four/article_944ad715-3c3f-5e31-a18a-a7e4e6dc5290.html"
+  ],
+  "cd_inboden": [
+   "NH Jackson Township school board seat draws four (Dan Inboden questionnaire)",
+   "The Corydon Democrat / Clarion News",
+   "2026-09-23",
+   "https://www.madisoncourier.com/the_clarion_news/news/nh-jackson-township-school-board-seat-draws-four/article_9d9c52ce-fe2e-59ab-ae7a-ca9179f32194.html"
+  ],
+  "cd_fanz": [
+   "NH Jackson Township school board seat draws four (James Fanz questionnaire)",
+   "The Corydon Democrat / Clarion News",
+   "2026-09-23",
+   "https://www.madisoncourier.com/the_clarion_news/news/nh-jackson-township-school-board-seat-draws-four/article_133f1ad3-ea78-501f-b631-b46054a5e0f6.html"
+  ],
+  "cd_schenck": [
+   "NH Jackson Township school board seat draws four (Chad Schenck questionnaire)",
+   "The Corydon Democrat / Clarion News",
+   "2026-09-23",
+   "https://www.madisoncourier.com/the_clarion_news/news/nh-jackson-township-school-board-seat-draws-four/article_c86c6e80-b7a8-57df-918a-e41461f5fbe3.html"
+  ],
+  "cd_search": [
+   "Search for next superintendent underway at NH",
+   "The Corydon Democrat / Clarion News",
+   "2025-07-02",
+   "https://www.madisoncourier.com/the_clarion_news/news/search-for-next-superintendent-underway-at-nh/article_868832ab-6d65-560a-b479-4f1bc3185e79.html"
+  ],
+  "cd_hire": [
+   "NH hires next superintendent",
+   "The Corydon Democrat / Clarion News",
+   "2025-07-16",
+   "https://www.madisoncourier.com/the_clarion_news/news/nh-hires-next-superintendent/article_a5984f1e-6e2f-534e-95ef-6e91e2d3c419.html"
+  ],
+  "cd_pay": [
+   "Higher NH teacher pay urged by full house",
+   "The Corydon Democrat / Clarion News",
+   "2025-10-29",
+   "https://www.madisoncourier.com/the_clarion_news/news/higher-nh-teacher-pay-urged-by-full-house/article_97212cc6-db66-5c1a-a980-f9f640b6296c.html"
+  ],
+  "cd_stifel": [
+   "NH hires financial firm, pays high insurance claims",
+   "The Corydon Democrat / Clarion News",
+   "2026-01-21",
+   "https://www.madisoncourier.com/the_clarion_news/news/nh-hires-financial-firm-pays-high-insurance-claims/article_3e202905-5ad4-5f85-99fa-e79992c4c230.html"
+  ],
+  "cd_pushback": [
+   "NH classroom display policy draws pushback",
+   "The Corydon Democrat / Clarion News",
+   "2026-08-12",
+   "https://www.madisoncourier.com/the_clarion_news/news/nh-classroom-display-policy-draws-pushback/article_03cf3304-3a5d-575f-a3c1-5285bb4f3222.html"
+  ],
+  "cd_display": [
+   "North Harrison board finalizes classroom display policy",
+   "The Corydon Democrat / Clarion News",
+   "2026-08-26",
+   "https://www.madisoncourier.com/the_clarion_news/news/education/north-harrison-board-finalizes-classroom-display-policy/article_da192398-6cce-51d4-a6fb-92da6de4a69f.html"
+  ],
+  "cd_crash": [
+   "School board faces questions on student safety after crash",
+   "The Corydon Democrat / Clarion News",
+   "2026-09-23",
+   "https://www.madisoncourier.com/the_clarion_news/news/education/school-board-faces-questions-on-student-safety-after-crash/article_097ab379-81c5-582d-9cc2-384f2b8392da.html"
+  ]
  }
 }
