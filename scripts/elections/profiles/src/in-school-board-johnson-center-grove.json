@@ -1,0 +1,351 @@
+{
+ "race_id": "in-school-board-johnson-center-grove",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Center Grove Community School Corporation, based in Greenwood, serves White River Township in Johnson County, with one high school, two middle schools and six elementary schools; its 2027 budget estimates 9,617 students (fall 2026) and 1,632 employees {cg_budget27}{cg_amb}{cg_board}.",
+  "Dr. Erin Stalbaum became superintendent after Dr. William Long retired effective June 30, 2026; the board accepted Long's retirement Jan. 15, 2026 and chose Stalbaum after a search with the University Search Team and a community survey {cg_supt}.",
+  "The board has five members: Jack Russell (president), Scott Alexander (vice president), Jane Dunigan-Smith (secretary), Amy Counts and Rob Daniels {cg_board}. The ballot lists the race as At Large {in_list}.",
+  "Seats on the 2026 ballot: the state list shows one at-large contest, vote for 1, with eight candidates {in_list}. Dunigan-Smith's appointed term runs through December 2026, and she and Russell (elected 2010) are both on the ballot; Alexander (elected 2010) is not {cg_board}{tp_dunigan}{tp_russell}. Whether more than one seat is being filled could not be confirmed from fetched sources.",
+  "2026 is the first cycle in which Indiana school board candidates may list a party, identify as independent or run nonpartisan {cb_party}; on the Center Grove ballot three candidates are listed as Republican, four as Independent and one as Nonpartisan {in_list}.",
+  "Budget: the district reports a balanced 2027 budget, no referendum fund, a 3.7% drop in certified assessed value and a tax rate of $1.1044 per $100; its debt service plan says the rate will rise to make up revenue lost to tax caps {cg_budget27}.",
+  "Budget: the 2027 plan assumes enrollment down 30 students, raises of 1.85% for teachers and 1.6% for administrators and support staff, three added classroom teachers, and new bonds for building and technology projects; the posted schedule lists a Sept. 17 public hearing and Oct. 29, 2026 adoption {cg_budget27}.",
+  "Forums: no 2026 forum or questionnaire could be read; four candidates (Russell, Dunigan-Smith, Goodpaster and Kemp) published paid campaign profiles in the Towne Post in September-October 2026 {tp_russell}{tp_dunigan}{tp_goodpaster}{tp_kemp26}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Angie Buergler Teed",
+   "seat": "At Large",
+   "summary": "Candidate for an at-large seat; listed on the state ballot list as Republican {in_list}.",
+   "website": null,
+   "background": [
+    "No background was found in fetched sources {in_list}."
+   ],
+   "path_to_ballot": [
+    "Listed on the ballot as Republican {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance report were found in fetched sources."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire, forum remarks, endorsements or finance report was found in fetched sources.",
+    "The Daily Journal (Franklin), the main local paper covering Center Grove, blocks automated access; its 2026 candidate coverage and forum reports could not be read.",
+    "A search-result snippet (unverified) describes a Teed as a licensed teacher and lifelong Center Grove-area resident who applied for a board vacancy; not confirmed on a fetched page."
+   ]
+  },
+  {
+   "ballot_name": "Jack L. Russell",
+   "seat": "At Large",
+   "summary": "Incumbent; board president, first elected in 2010; listed on the state ballot list as Republican {cg_board}{in_list}.",
+   "website": null,
+   "background": [
+    "A 1974 Center Grove High School graduate with a Purdue degree in elementary education; he later taught full time and ran a family real estate business, according to the district {cg_board}.",
+    "Elected to the board in 2010; has served in leadership roles including president in 2013, and is board president in 2026 {cg_board}.",
+    "His campaign says he has more than 35 years of education experience, served six years with the Indiana School Boards Association and completed Leadership Johnson County in 2015-16 {tp_russell}."
+   ],
+   "path_to_ballot": [
+    "Listed on the ballot as Republican {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member.",
+    "As board president he said in 2026 that the community survey showed families want “a strong focus on student outcomes and a genuine community connection” in the next superintendent, and that Dr. Erin Stalbaum met those priorities {cg_supt}."
+   ],
+   "plans": [
+    "His campaign says his goal is to keep Center Grove a top-tier school and continue its forward direction {tp_russell}."
+   ],
+   "endorsements_finance": [
+    "His campaign ran paid content in the Towne Post in October 2026; no endorsements were listed {tp_russell}.",
+    "No campaign finance report was found."
+   ],
+   "gaps": [
+    "No questionnaire or forum remarks were found.",
+    "The Daily Journal (Franklin), the main local paper covering Center Grove, blocks automated access; its 2026 candidate coverage and forum reports could not be read."
+   ]
+  },
+  {
+   "ballot_name": "Jane Dunigan-Smith",
+   "seat": "At Large",
+   "summary": "Incumbent; appointed in August 2024 to fill Gary Robinson's seat, with a term through December 2026; listed on the state ballot list as Independent {cg_board}{in_list}.",
+   "website": null,
+   "background": [
+    "Senior vice president and chief strategy officer at BioCrossroads, with accounting/finance and MBA degrees from Indiana University's Kelley School of Business, according to the district {cg_board}.",
+    "Served on the Center Grove Education Foundation board, including a term as president, and took part in the CG Ambassadors program (2022-23 class) {tp_dunigan}{cg_amb}.",
+    "Parent of recent Center Grove graduates {tp_dunigan}."
+   ],
+   "path_to_ballot": [
+    "Appointed by the board in 2024 from 25 applicants; is seeking a full four-year term {tp_dunigan}.",
+    "Listed on the ballot as Independent {in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Her campaign says board decisions should weigh current needs against long-term financial and operational impact, with questions that test the numbers and assumptions behind recommendations {tp_dunigan}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Her campaign says students should leave school with the knowledge, skills and confidence to support themselves and contribute to the community {tp_dunigan}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member.",
+    "Her campaign argues that continuity on the board matters because of the learning curve involved {tp_dunigan}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "Her campaign ran paid content in the Towne Post; no endorsements were listed {tp_dunigan}.",
+    "No campaign finance report was found."
+   ],
+   "gaps": [
+    "No questionnaire or forum remarks were found.",
+    "The Daily Journal (Franklin), the main local paper covering Center Grove, blocks automated access; its 2026 candidate coverage and forum reports could not be read."
+   ]
+  },
+  {
+   "ballot_name": "Jennifer K. Quesenberry",
+   "seat": "At Large",
+   "summary": "Candidate for an at-large seat; listed on the state ballot list as Independent {in_list}.",
+   "website": null,
+   "background": [
+    "No background was found in fetched sources {in_list}."
+   ],
+   "path_to_ballot": [
+    "Listed on the ballot as Independent {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance report were found in fetched sources."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire, forum remarks, endorsements or finance report was found in fetched sources.",
+    "The Daily Journal (Franklin), the main local paper covering Center Grove, blocks automated access; its 2026 candidate coverage and forum reports could not be read."
+   ]
+  },
+  {
+   "ballot_name": "Kathryn Minor Reed",
+   "seat": "At Large",
+   "summary": "Candidate for an at-large seat; listed on the state ballot list as Independent {in_list}.",
+   "website": null,
+   "background": [
+    "A Kathryn Minor-Reed is listed in the district's 2024-25 CG Ambassadors class, a program giving residents an inside view of the school corporation {cg_amb}."
+   ],
+   "path_to_ballot": [
+    "Listed on the ballot as Independent {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance report were found in fetched sources."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire, forum remarks, endorsements or finance report was found in fetched sources.",
+    "The Daily Journal (Franklin), the main local paper covering Center Grove, blocks automated access; its 2026 candidate coverage and forum reports could not be read.",
+    "Search-result snippets (unverified) say a Kathryn Minor-Reed was among eight finalists for the 2024 board vacancy.",
+    "The district page hyphenates the surname (Minor-Reed); the ballot list does not."
+   ]
+  },
+  {
+   "ballot_name": "Matt Goodpaster",
+   "seat": "At Large",
+   "summary": "Candidate for an at-large seat; a former Center Grove Education Foundation president; listed on the state ballot list as Independent {tp_goodpaster}{in_list}.",
+   "website": null,
+   "background": [
+    "A 2001 Center Grove graduate with degrees from Franklin College and Stetson University College of Law, according to his campaign {tp_goodpaster}.",
+    "Coached basketball in the district for nine years and served as president of the Center Grove Education Foundation {tp_goodpaster}; listed in the 2023-24 CG Ambassadors class {cg_amb}.",
+    "Parent of students in the district {tp_goodpaster}."
+   ],
+   "path_to_ballot": [
+    "Listed on the ballot as Independent {in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "His campaign says supporting, equipping and resourcing teachers and staff is essential to student success {tp_goodpaster}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "His campaign says the district should engage parents and hold community conversations to support informed decisions {tp_goodpaster}."
+     ]
+    }
+   ],
+   "on_incumbent": [],
+   "plans": [
+    "His campaign cites experience managing budgets and leading renovation and building projects, and says students should remain the primary focus of every decision {tp_goodpaster}."
+   ],
+   "endorsements_finance": [
+    "His campaign ran paid content in the Towne Post; no endorsements were listed {tp_goodpaster}.",
+    "No campaign finance report was found."
+   ],
+   "gaps": [
+    "No questionnaire or forum remarks were found; no statements on the current board's specific decisions were found.",
+    "The Daily Journal (Franklin), the main local paper covering Center Grove, blocks automated access; its 2026 candidate coverage and forum reports could not be read."
+   ]
+  },
+  {
+   "ballot_name": "Michael Overpeck",
+   "seat": "At Large",
+   "summary": "Candidate for an at-large seat; listed on the state ballot list as Republican {in_list}.",
+   "website": null,
+   "background": [
+    "A Michael Overpeck is listed in the district's 2024-25 CG Ambassadors class {cg_amb}."
+   ],
+   "path_to_ballot": [
+    "Listed on the ballot as Republican {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance report were found in fetched sources."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire, forum remarks, endorsements or finance report was found in fetched sources.",
+    "The Daily Journal (Franklin), the main local paper covering Center Grove, blocks automated access; its 2026 candidate coverage and forum reports could not be read.",
+    "Search-result snippets (unverified) say a Mike Overpeck was among eight finalists for the 2024 board vacancy and said he applied to help 'cultivate and refine the excellence' of Center Grove."
+   ]
+  },
+  {
+   "ballot_name": "Nicole Kemp",
+   "seat": "At Large",
+   "summary": "Candidate for an at-large seat who also ran in 2024; listed on the state ballot list as Nonpartisan {tp_kemp26}{in_list}.",
+   "website": "https://nicolekempforcentergrove.com",
+   "background": [
+    "A Center Grove graduate, former substitute teacher, classroom volunteer and parent of a student with an IEP, according to her campaign {tp_kemp26}.",
+    "Her campaign says she helped launch Every Kid Eats Johnson County to address student lunch debt and, through the PTO, created book fair certificates for students receiving free or reduced-price lunch {tp_kemp26}{tp_kemp24}.",
+    "Listed in the district's 2025-26 CG Ambassadors class {cg_amb}."
+   ],
+   "path_to_ballot": [
+    "Ran for the board in 2024, when two seats were on the ballot {tp_kemp24}.",
+    "Running as Nonpartisan, which her campaign says is different from Independent {tp_kemp26}."
+   ],
+   "positions": [
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Lists teacher retention and compensation as a 2026 priority {tp_kemp26}."
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "Lists student safety and mental health as priorities; her website says she is running for “the children who feel unsafe at school due to harassment or assault” {tp_kemp26}{kemp_site}."
+     ]
+    },
+    {
+     "topic": "Special education",
+     "items": [
+      "Lists special education as a priority; her website says she is running for “the parents fighting tirelessly for their children’s IEPs” {tp_kemp26}{kemp_site}."
+     ]
+    },
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Lists responsible budgeting as a priority; no specific budget proposals were found {tp_kemp26}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Lists stronger community communication as a priority {tp_kemp26}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Her website calls for a board that puts “education before politics, and students before partisanship”; no statements on specific board decisions were found {kemp_site}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "Her campaign lists endorsements from GoodParty.org and IPACE, support from the Center Grove Teachers Association, and recognition from Moms Demand Action and Mental Health Now {tp_kemp26}.",
+    "No campaign finance report was found."
+   ],
+   "gaps": [
+    "No questionnaire or forum remarks were found.",
+    "The Daily Journal (Franklin), the main local paper covering Center Grove, blocks automated access; its 2026 candidate coverage and forum reports could not be read."
+   ]
+  }
+ ],
+ "sources": {
+  "cg_board": [
+   "School Board",
+   "Center Grove Community School Corporation",
+   "2026-10",
+   "https://www.centergrove.k12.in.us/community/school-board"
+  ],
+  "cg_supt": [
+   "Superintendent Search",
+   "Center Grove Community School Corporation",
+   "2026",
+   "https://www.centergrove.k12.in.us/district/superintendent-search"
+  ],
+  "cg_budget27": [
+   "2027 Budget",
+   "Center Grove Community School Corporation",
+   "2026-10",
+   "https://www.centergrove.k12.in.us/departments/budget-and-finance/2027budget"
+  ],
+  "cg_amb": [
+   "Center Grove Ambassadors",
+   "Center Grove Community School Corporation",
+   "2026-10",
+   "https://centergrove.k12.in.us/community/center-grove-ambassadors"
+  ],
+  "tp_russell": [
+   "Jack L. Russell for Center Grove School Board (paid campaign content)",
+   "Towne Post Network",
+   "2026-10-08",
+   "https://townepost.com/indiana/center-grove/jack-l-russell-for-center-grove-school-board/"
+  ],
+  "tp_goodpaster": [
+   "Matt Goodpaster for Center Grove School Board (paid campaign content)",
+   "Towne Post Network",
+   "2026-10-05",
+   "https://townepost.com/indiana/center-grove/matt-goodpaster-for-center-grove-school-board/"
+  ],
+  "tp_dunigan": [
+   "Jane Dunigan-Smith for Center Grove School Board (paid campaign content)",
+   "Towne Post Network",
+   "2026-09-29",
+   "https://townepost.com/indiana/center-grove/jane-dunigan-smith-for-center-grove-school-board/"
+  ],
+  "tp_kemp26": [
+   "Nicole Kemp Returns to the Ballot in Center Grove (paid campaign content)",
+   "Towne Post Network",
+   "2026-09-24",
+   "https://townepost.com/indiana/center-grove/nicole-kemp-returns-to-the-ballot-in-center-grove/"
+  ],
+  "tp_kemp24": [
+   "Candidate Spotlight: Nicole Kemp for Center Grove School Board (paid campaign content)",
+   "Towne Post Network",
+   "2024-09",
+   "https://townepost.com/?p=117560"
+  ],
+  "kemp_site": [
+   "Nicole Kemp for Center Grove School Board",
+   "Nicole Kemp campaign",
+   "2026-10",
+   "https://nicolekempforcentergrove.com"
+  ],
+  "cb_party": [
+   "15 candidates for 5 seats: See who's running for school board at IPS and other Indianapolis area districts",
+   "Chalkbeat Indiana",
+   "2026-06-18",
+   "https://www.chalkbeat.org/indiana/2026/06/18/candidates-and-political-affiliation-for-school-board-november-2026/"
+  ]
+ }
+}

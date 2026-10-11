@@ -1,0 +1,240 @@
+{
+ "race_id": "in-school-board-vigo",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The Vigo County School Corporation (VCSC) serves all of Vigo County, including Terre Haute {wiki_vcsc}. The district says it operates 15 elementary schools, 5 middle schools, 3 high schools, 2 alternative schools and 5 specialized education facilities {vcsc_site}. Wikipedia lists enrollment of 13,787 in 2023 {wiki_vcsc}.",
+  "Superintendent: Wikipedia lists Chris Himsel, hired in 2023 {wiki_vcsc}; an October 2025 WTWO report referred to the corporation's 'new superintendent' without naming one, and this guide could not confirm who holds the post now {wtwo_funding}. Deputy Superintendent John Newport has presented the facilities plan {ipm_plan}.",
+  "The board has seven members elected countywide; candidates must have lived in their district for at least a year, and members are paid $2,000 a year {tribstar_filing}. 2026 is the first year of party labels in school board races under a new state law; school board races are not included in straight-ticket voting {tribstar_contested}.",
+  "Four of the seven seats are on the 2026 ballot {tribstar_filing}. District 1 (listed on the ballot as District 1-1): incumbent and board president Carey LaBella faces Imer Holman and Chase Nattkemper {tribstar_contested}. District 2: Jenny Norris is the only candidate {tribstar_filing}; the district lists James D. Skelton as the current District 2 member, and he did not file {vcsc_meetboard}{tribstar_filing}. District 4: incumbent Ken Warner is unopposed {tribstar_censure}. District 5: incumbent Rick Burger faces former District 5 member Rosemarie Scott {tribstar_contested}.",
+  "District 1 has three board seats; the other two, held by Amy Lore and Christina Crist, were filled in 2024 and are not on this ballot {vcsc_meetboard}{tribstar_2024_d1}.",
+  "Facilities consolidation (2025–2026): the district's 'Option 6.2' plan would cut 23 schools to 16, combining Terre Haute North and South in a new high school east of the Wabash River and making West Vigo a grades 7–12 school {tribstar_forum}. In February 2026 the new high school was estimated at $222 million, with a possible opening in August 2029 {ipm_plan}.",
+  "County funding (2025–2026): in October 2025 the Vigo County Council voted 4–3 for an ordinance barring county funding of school projects or an oversight board without a referendum {wtwo_funding}. By 2026 a five-member county oversight board was reviewing the plan {ipm_plan}; in August 2026 the county commissioners unanimously approved its recommendation that the county commit $15 million upfront and $6 million a year for the bond {wthi_commissioners}. As of Sept. 2, the council had not voted, and commissioners hoped for a vote on Oct. 6 or 13 {wthi_council}. Voters rejected a 2022 school construction referendum, with 68.5% opposed {wthi_commissioners}.",
+  "Carbon project and emergency planning (2026): forum candidates discussed emergency planning tied to the Wabash Valley Resources carbon sequestration project near Fayette Elementary {tribstar_forum}.",
+  "Censure (October 2026): on Oct. 2, 2026 the board voted 6–0 to censure District 4 member Ken Warner over his personal social media comments about possession of child sexual abuse material in a local criminal case; Warner did not attend and says his comments were taken out of context {tribstar_censure}.",
+  "Forum: the League of Women Voters of Vigo County held a candidate forum on Sept. 29, 2026 at the Vigo County Public Library {wthi_forum_notice}{tribstar_forum}. The five District 1 and District 5 candidates took part; Norris and Warner, who are unopposed, are not mentioned in the coverage {tribstar_forum}.",
+  "Key differences: LaBella, Nattkemper and Burger support Option 6.2, Holman says he needs more facts, and Scott opposes combining North and South {tribstar_forum}. Most candidates said community trust in the board is low, while Burger asked voters to judge the board's record {tribstar_forum}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Carey Labella",
+   "seat": "District 1-1",
+   "summary": "Incumbent and board president seeking a second term {tribstar_contested}.",
+   "website": null,
+   "background": [
+    "Oversees collection development at the Vigo County Public Library, where she has worked since 2013, per her district bio {vcsc_meetboard}.",
+    "Parent of students in the district {tribstar_contested}.",
+    "Took office in January 2023 after a judge ruled her 2022 opponent ineligible under the district residency requirement {tribstar_labella_2023}.",
+    "Served on the Vigo County Oversight Board that reviewed the facilities plan {tribstar_forum}."
+   ],
+   "path_to_ballot": [
+    "Filed without declaring a party affiliation; listed as Nonpartisan {tribstar_filing}{in_list}."
+   ],
+   "positions": [
+    {"topic": "Facilities", "items": ["Supports Option 6.2 but wants the placement of West Vigo sixth graders reviewed, saying 'I don't think any door has closed on editing that plan' {tribstar_forum}{tribstar_contested}."]},
+    {"topic": "Transparency & community input", "items": ["Said 'there has been a struggle with trust in the community' and that her approach is to 'always first listen' {tribstar_forum}."]},
+    {"topic": "School safety", "items": ["On emergency planning near the carbon project, said 'As a parent, it's terrifying to think about' {tribstar_forum}."]}
+   ],
+   "on_incumbent": [
+    "Is a current board member {vcsc_meetboard}.",
+    "As a policy committee member, said 'I did lack follow up' and named 'telling our story' as her priority {tribstar_forum}.",
+    "On the Warner censure, said 'It's our only legally allowed step' to state publicly that the board does not condone the comments {wthi_censure}."
+   ],
+   "plans": [
+    "Lists student achievement, sustainable finances, facility planning, support for teachers and transparency as priorities {tribstar_contested}."
+   ],
+   "endorsements_finance": [],
+   "gaps": [
+    "The ballot list spells her name 'Labella'; the district and Tribune-Star use 'LaBella'.",
+    "No campaign website, endorsements or campaign finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Chase C. Nattkemper",
+   "seat": "District 1-1",
+   "summary": "Republican challenger and Terre Haute native who supports the Option 6.2 facilities plan {tribstar_contested}.",
+   "website": null,
+   "background": [
+    "Indiana University political science graduate who runs a political consulting business and works at First Financial Bank; attended Vigo County schools {tribstar_contested}."
+   ],
+   "path_to_ballot": [
+    "Filed as a Republican {tribstar_contested}{in_list}."
+   ],
+   "positions": [
+    {"topic": "Facilities", "items": ["Supports Option 6.2 'very strongly', saying it protects western schools and keeps a small high school option {tribstar_forum}."]},
+    {"topic": "Transparency & community input", "items": ["Said trust and transparency are 'at an all-time low' and pledged 'I'll be an open book' {tribstar_forum}."]},
+    {"topic": "School safety", "items": ["Called an emergency and evacuation plan 'absolutely' a priority and criticized the decision to locate the carbon project in the county {tribstar_forum}."]},
+    {"topic": "Academics", "items": ["Lists students' academic and emotional well-being, including extracurriculars and mental health, as his top issue {tribstar_forum}."]}
+   ],
+   "on_incumbent": [
+    "Says the board does not ask the administration enough questions; on his campaign Facebook page he wrote, 'We need to be able to ask the hard questions first and earlier' {tribstar_forum}{tribstar_contested}.",
+    "Called Warner's comments 'awful' and favored censure {tribstar_statement}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign website found; his Facebook page was not reviewed directly.",
+    "No endorsements or campaign finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Imer Damar Holman",
+   "seat": "District 1-1",
+   "summary": "College student and Terre Haute South graduate challenging for the District 1 seat {tribstar_contested}.",
+   "website": null,
+   "background": [
+    "Terre Haute South Vigo graduate and DePauw University junior studying political science and peace and conflict studies {tribstar_contested}."
+   ],
+   "path_to_ballot": [
+    "Filed without declaring a party affiliation; listed as Nonpartisan {tribstar_contested}{in_list}."
+   ],
+   "positions": [
+    {"topic": "Facilities", "items": ["Neither for nor against Option 6.2; wants more facts and answers first {tribstar_forum}."]},
+    {"topic": "Teachers & staff", "items": ["Lists support for educators as his priority, saying they 'feel as if they are not being listened to' {tribstar_forum}."]},
+    {"topic": "School safety", "items": ["Said 'Safety is the number one priority, always' {tribstar_forum}."]},
+    {"topic": "Transparency & community input", "items": ["Said 'there is little to no trust with the board right now' and wants leaders to 'show up and meet people where they are' {tribstar_forum}."]}
+   ],
+   "on_incumbent": [
+    "Said he would 'unequivocally support censure' of Warner {tribstar_statement}."
+   ],
+   "plans": [
+    "Lists academic excellence, retaining educators, responsible spending, facilities, transparency and expanded career and technical education as priorities {tribstar_contested}."
+   ],
+   "endorsements_finance": [],
+   "gaps": [
+    "No coverage found beyond the Tribune-Star forum and race articles.",
+    "No campaign website, endorsements or campaign finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Jenny Norris",
+   "seat": "District 2",
+   "summary": "Unopposed candidate for the open District 2 seat, covering Sugar Creek and Fayette townships {tribstar_filing}.",
+   "website": null,
+   "background": [
+    "Licensed clinical therapist and assistant director for the Terre Haute region at Firefly Children and Family Alliance {tribstar_filing}.",
+    "Terre Haute South graduate with a bachelor's degree and a master's in social work from Indiana State University {tribstar_filing}.",
+    "Parent of students in the district {tribstar_filing}."
+   ],
+   "path_to_ballot": [
+    "Filed without declaring a party affiliation; listed as Nonpartisan {tribstar_filing}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [
+    "Says she is 'passionate about protecting and advocating for our youth' and wants to advocate for children and families on a larger scale {tribstar_filing}."
+   ],
+   "endorsements_finance": [],
+   "gaps": [
+    "Uncontested; no forum appearance, questionnaire or stated positions on board issues found.",
+    "No campaign website, endorsements or campaign finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Ken Warner",
+   "seat": "District 4",
+   "summary": "Incumbent District 4 member, unopposed, whom the board censured on Oct. 2, 2026 {tribstar_censure}.",
+   "website": null,
+   "background": [
+    "On the board since 2023; serves on the Bond Oversight, Finance, Building Trade Council and CTE Advisory committees {vcsc_meetboard}."
+   ],
+   "path_to_ballot": [
+    "Filed as a Republican {tribstar_filing}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {vcsc_meetboard}.",
+    "On the censure, he said he was defending a church congregation he felt was being unfairly attacked, not the defendant, and was pointing out that possession of child sexual abuse material is a different felony level than child abuse; he said his comments were taken out of context {tribstar_censure}{tribstar_statement}.",
+    "The board voted 6–0 to censure him, saying his comments did not meet the Indiana School Boards Association code of ethics; members Amy Lore, Stacy Killion and Carey LaBella said individually that he should resign {tribstar_censure}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No 2026 campaign statements, forum appearance or stated policy positions found; his district bio lists no background.",
+    "Seen only in search snippets (unverified): an earlier, undated apology for other social media posts.",
+    "A 2022 Tribune-Star profile of his first race could not be loaded.",
+    "No campaign website, endorsements or campaign finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Richard (Rick) Burger",
+   "seat": "District 5",
+   "summary": "Incumbent District 5 member seeking a second term; supports the Option 6.2 facilities plan he helped develop {tribstar_contested}.",
+   "website": null,
+   "background": [
+    "District manager for Duke Energy for the Terre Haute area {vcsc_meetboard}{tribstar_contested}.",
+    "Served eight years on the Lafayette School Board and as a Vigo County Council at-large member {tribstar_contested}; his district bio gives his council service as 2012–2016 {vcsc_meetboard}.",
+    "Past chairman of the Terre Haute Chamber of Commerce and the Terre Haute Economic Development Corporation {vcsc_meetboard}."
+   ],
+   "path_to_ballot": [
+    "Filed as an independent {tribstar_filing}{in_list}."
+   ],
+   "positions": [
+    {"topic": "Facilities", "items": ["Says he is '100% behind 6.2' after '2 1/2 years' of work and expects the County Council to approve funding: 'I believe we will get there' {tribstar_forum}."]},
+    {"topic": "School safety", "items": ["Calls safety a 'top priority' {tribstar_forum}."]},
+    {"topic": "Academics", "items": ["Wants a trade school and more business partnerships {tribstar_forum}."]},
+    {"topic": "Transparency & community input", "items": ["Says attendance at community meetings has been disappointing and wants more parent involvement {tribstar_forum}."]}
+   ],
+   "on_incumbent": [
+    "Is a current board member {vcsc_meetboard}.",
+    "Cites improved academic scores and attendance and asks voters to 'judge us on what we've done in the last four years' {tribstar_forum}.",
+    "Asked at the forum whether he would support censuring Warner, said 'I probably would. Yes.' {tribstar_statement}"
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "Sources differ on his Duke Energy tenure (46th year per the district bio; 49 years per the Tribune-Star).",
+    "No campaign website, endorsements or campaign finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Rosemarie Scott",
+   "seat": "District 5",
+   "summary": "Former District 5 board member (2019–2022) challenging the incumbent; opposes combining North and South high schools {tribstar_contested}.",
+   "website": null,
+   "background": [
+    "Served on the board for District 5 from 2019 to 2022 and ran in District 1 in 2024 {tribstar_contested}.",
+    "Described by the Tribune-Star in 2026 as a retired educator {tribstar_contested}; in 2024 it reported she had worked as a childbirth instructor and lactation consultant and was a past PTO member {tribstar_2024_d1}."
+   ],
+   "path_to_ballot": [
+    "Filed as an independent {tribstar_contested}{in_list}."
+   ],
+   "positions": [
+    {"topic": "Facilities", "items": ["Opposes a consolidated North–South high school, which she believes would be too large; favors keeping and renovating both, with partial new construction {tribstar_contested}{tribstar_forum}."]},
+    {"topic": "Academics", "items": ["Cites concerns about dropout rates and teen mental health {tribstar_contested}."]},
+    {"topic": "School safety", "items": ["Called the carbon capture project 'a nightmare' for the community {tribstar_forum}."]},
+    {"topic": "Transparency & community input", "items": ["Said 'I don't think there is any trust between the school board and the community' and that trust is built 'one-on-one'; wants better communication with parents {tribstar_forum}."]}
+   ],
+   "on_incumbent": [
+    "Said she would vote to censure Warner and thinks he should resign {tribstar_statement}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "Her occupation is described differently in 2024 and 2026 Tribune-Star coverage.",
+    "No campaign website, endorsements or campaign finance reports found."
+   ]
+  }
+ ],
+ "sources": {
+  "tribstar_filing": ["Four people, including three incumbents, have filed for Vigo County School Board", "Tribune-Star", "2026-06-15", "https://www.tribstar.com/news/local_news/four-people-including-three-incumbents-have-filed-for-vigo-county-school-board/article_8317968e-e439-4305-8b72-d7f59056ea17.html"],
+  "tribstar_contested": ["Two Vigo County School Board seats contested in general election", "Tribune-Star (via Yahoo News)", "2026-10-08", "https://www.yahoo.com/news/politics/articles/two-vigo-county-school-board-035900506.html"],
+  "tribstar_forum": ["Facilities, community trust and more discussed at schools forum", "Tribune-Star (via Yahoo News)", "2026-09-30", "https://www.yahoo.com/news/articles/facilities-community-trust-more-discussed-231700078.html"],
+  "tribstar_statement": ["Vigo County School Board members say statement coming", "Tribune-Star (via Yahoo News)", "2026-09-30", "https://www.yahoo.com/news/politics/articles/vigo-county-school-board-members-035900655.html"],
+  "tribstar_censure": ["Vigo school board censures member Ken Warner", "Tribune-Star (via Yahoo News)", "2026-10-03", "https://www.yahoo.com/news/us/articles/vigo-school-board-censures-member-035900761.html"],
+  "wthi_censure": ["Vigo County School Board unanimously votes to censure member Ken Warner", "WTHI", "2026-10-02", "https://www.wthitv.com/2026/10/02/vigo-county-school-board-unanimously-votes-censure-member-ken-warner/"],
+  "wthi_forum_notice": ["League of Women Voters to host Vigo County school board candidate forum", "WTHI", "2026-09-28", "https://www.wthitv.com/2026/09/28/league-women-voters-host-vigo-county-school-board-candidate-forum/"],
+  "wthi_commissioners": ["Vigo County commissioners approve new east side high school plan: County Council vote up next", "WTHI", "2026-08-13", "https://www.wthitv.com/2026/08/13/vigo-county-commissioners-approve-new-east-side-high-school-plan-county-council-vote-up-next/"],
+  "wthi_council": ["Vigo County Council meeting goes 4.5 hours as school consolidation discussion continues", "WTHI", "2026-09-02", "https://www.wthitv.com/2026/09/02/vigo-county-council-meeting-goes-45-hours-school-consolidation-discussion-continues/"],
+  "ipm_plan": ["Vigo County Schools proposes $222 million building to consolidate North and South high schools", "WFIU/WTIU News (Indiana Public Media)", "2026-02-13", "https://www.ipm.org/news/2026-02-13/vigo-county-schools-proposes-222-million-building-to-consolidate-north-and-south-high-schools"],
+  "wtwo_funding": ["Vigo County Council denies school request", "WTWO (via Yahoo News)", "2025-10-15", "https://www.yahoo.com/news/articles/vigo-county-council-denies-school-013715275.html"],
+  "vcsc_meetboard": ["Meet the Board", "Vigo County School Corporation", "2026-10", "https://site.vigoschools.org/meetboard"],
+  "vcsc_site": ["Vigo County School Corporation home page", "Vigo County School Corporation", "2026-10", "https://site.vigoschools.org/"],
+  "wiki_vcsc": ["Vigo County School Corporation", "Wikipedia", "2026-10", "https://en.wikipedia.org/wiki/Vigo_County_School_Corporation"],
+  "tribstar_2024_d1": ["Four contend for two seats in District 1 Vigo School Board race", "Tribune-Star", "2024-10-09", "https://www.tribstar.com/news/local_news/four-contend-for-two-seats-in-district-1-vigo-school-board-race/article_2f2c309a-84eb-11ef-9264-af8c9778cd65.html"],
+  "tribstar_labella_2023": ["Judge: Graves ineligible for Vigo school board District 1 seat; LaBella sworn in", "Tribune-Star", "2023-01-09", "https://www.tribstar.com/news/local_news/update-2-judge-graves-ineligible-for-vigo-school-board-district-1-seat-labella-sworn-in/article_cfe6a80a-905d-11ed-9910-d70925559232.html"]
+ }
+}

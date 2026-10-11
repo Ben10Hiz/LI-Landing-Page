@@ -1,0 +1,341 @@
+# Indiana School Board Member — 2026 race profile
+
+_Researched 2026-10-10 · status: draft._ Pending editorial review.
+
+## About the office
+
+A school board is the elected or appointed governing body of a public school corporation, the legal unit that runs a local school district [1, 2]. The board hires and evaluates the superintendent, adopts policies, and approves the annual budget, while the superintendent and staff run schools day to day [3]. Most boards have five or seven members serving staggered four-year terms [3]. Starting in 2026, candidates may list a political party, run as independents, or list no affiliation on the ballot, and there is no primary for these seats [2, 4].
+
+- **Term:** 4 years, with elections staggered so part of the board is chosen every two years [3]
+- **Elected:** At the November general election (November 3, 2026, or November 2028 for some seats); depending on the local organization plan, members represent the whole school corporation (at large) or a district within it, and some boards are wholly or partly appointed [2]
+- **Ballot label:** Each candidate chooses a party label, 'Independent', or no affiliation, shown next to the name; no primary and no straight-ticket voting for these races [2, 4]
+- **Pay:** Set by board resolution: an annual amount of no more than 10% of the lowest starting teacher salary in the school corporation, plus a capped per diem [5]
+- **On the 2026 ballot:** 632 races in 299 school corporations; 1,039 candidates [6]
+
+### What the office does
+
+- Hires, evaluates and can dismiss the superintendent, and approves the hiring and firing of principals, teachers and other staff recommended by the superintendent [1, 7, 3].
+- Adopts the annual budget, appropriates funds and oversees school finances [1, 3].
+- Decides whether to ask voters to approve an operating referendum (an extra property tax levy); the board adopts the resolution and the Department of Local Government Finance reviews the ballot language for compliance with state law [8].
+- Approves contracts, buys and sells property, and decides on construction, repair and demolition of school buildings [1].
+- Bargains with the teachers' union over salary, wages and wage-related benefits such as health insurance and retirement; state law excludes teacher evaluation procedures from those bargaining subjects [9].
+- Writes and updates policies and rules for schools, often in a policy handbook, including the student handbook [1, 3].
+- Buys curricular materials, provides them to students without charge, and runs programs such as student transportation and school lunch [1].
+- Must adopt a process for parents and residents to ask that library material be removed as obscene or harmful to minors, review requests at public meetings and keep a public catalog of library materials [10].
+- Hears written appeals of student expulsions, unless the board has voted not to hear them [11].
+- Must take official action openly; Indiana's Open Door Law says public agencies' official action is to be conducted openly so the people may be fully informed [12, 13].
+- A school board member must have lived in the school corporation (and, for a district seat, the district) for at least one year before the election, and a teacher or other employee of the school corporation may not serve on its board [2].
+- What the board does not control: the State Board of Education adopts statewide academic standards [14], the General Assembly sets the state school funding formula in the state budget [15], and voucher (Choice Scholarship) eligibility is set by state law [16].
+
+### Recent changes to the office
+
+- 2025: Senate Enrolled Act 287 allowed school board candidates to declare a party affiliation; the Indiana School Boards Association opposed the change, and a supporter quoted by WNDU, a Noblesville school board member, said it adds transparency [17].
+- 2026: Candidates choose a party, 'Independent' or no affiliation on their nominating petition, and that choice appears on the ballot; a candidate claiming the Democratic or Republican party must have voted in that party's primary in the two most recent primaries they voted in, or have certification from the county party chair, or can be challenged and removed from the ballot [2].
+- July 2026: Chalkbeat reported, citing Indiana School Boards Association data, that 524 of 1,044 candidates chose a party, about 72% of them Republicans [18]; the Indiana Election Division's 2026 guidance and the wording of the law differ on the primary-voting test, a question county election boards decide [19].
+- February 2026: Senate Enrolled Act 25 set the order of school board candidates on the ballot, grouped by party, with candidates who list no affiliation placed after the party and independent candidates [20].
+- 2025: Senate Enrolled Act 1, a property tax law, limits how much operating revenue districts can raise through taxes and restricts school referendums to statewide general elections in even-numbered years [21, 22].
+- 2025: The same law requires districts to share operating revenue with brick-and-mortar charter schools that enroll their students, statewide starting in 2028 [21, 22].
+- 2025: The state budget opened Choice Scholarship vouchers to all Indiana families starting in June 2026 [16].
+- 2026: The Indianapolis Public Education Corporation, rather than the Indianapolis Public Schools board, now certifies Indianapolis Public Schools referendum questions for the ballot [20].
+- 2023: Senate Enrolled Act 391 changed the so-called $1 law so the Indiana Department of Education can order districts that lost at least 10% of enrollment over five years to close schools under 60% capacity and offer them to charter schools [23].
+- 2023: House Enrolled Act 1447 required school districts to set up procedures for complaints that library material is obscene or harmful to minors [10].
+
+## This race
+
+- Center Grove Community School Corporation, based in Greenwood, serves White River Township in Johnson County, with one high school, two middle schools and six elementary schools; its 2027 budget estimates 9,617 students (fall 2026) and 1,632 employees [24, 25, 26].
+- Dr. Erin Stalbaum became superintendent after Dr. William Long retired effective June 30, 2026; the board accepted Long's retirement Jan. 15, 2026 and chose Stalbaum after a search with the University Search Team and a community survey [27].
+- The board has five members: Jack Russell (president), Scott Alexander (vice president), Jane Dunigan-Smith (secretary), Amy Counts and Rob Daniels [26]. The ballot lists the race as At Large [6].
+- Seats on the 2026 ballot: the state list shows one at-large contest, vote for 1, with eight candidates [6]. Dunigan-Smith's appointed term runs through December 2026, and she and Russell (elected 2010) are both on the ballot; Alexander (elected 2010) is not [26, 28, 29]. Whether more than one seat is being filled could not be confirmed from fetched sources.
+- 2026 is the first cycle in which Indiana school board candidates may list a party, identify as independent or run nonpartisan [30]; on the Center Grove ballot three candidates are listed as Republican, four as Independent and one as Nonpartisan [6].
+- Budget: the district reports a balanced 2027 budget, no referendum fund, a 3.7% drop in certified assessed value and a tax rate of $1.1044 per $100; its debt service plan says the rate will rise to make up revenue lost to tax caps [24].
+- Budget: the 2027 plan assumes enrollment down 30 students, raises of 1.85% for teachers and 1.6% for administrators and support staff, three added classroom teachers, and new bonds for building and technology projects; the posted schedule lists a Sept. 17 public hearing and Oct. 29, 2026 adoption [24].
+- Forums: no 2026 forum or questionnaire could be read; four candidates (Russell, Dunigan-Smith, Goodpaster and Kemp) published paid campaign profiles in the Towne Post in September-October 2026 [29, 28, 31, 32].
+
+## Angie Buergler Teed — At Large
+
+Candidate for an at-large seat; listed on the state ballot list as Republican [6].
+
+### Background
+
+- No background was found in fetched sources [6].
+
+### Path to the ballot
+
+- Listed on the ballot as Republican [6].
+
+### Endorsements & fundraising
+
+- No endorsements or campaign finance report were found in fetched sources.
+
+### What we couldn't verify
+
+- No candidate website, questionnaire, forum remarks, endorsements or finance report was found in fetched sources.
+- The Daily Journal (Franklin), the main local paper covering Center Grove, blocks automated access; its 2026 candidate coverage and forum reports could not be read.
+- A search-result snippet (unverified) describes a Teed as a licensed teacher and lifelong Center Grove-area resident who applied for a board vacancy; not confirmed on a fetched page.
+
+## Jack L. Russell — At Large
+
+Incumbent; board president, first elected in 2010; listed on the state ballot list as Republican [26, 6].
+
+### Background
+
+- A 1974 Center Grove High School graduate with a Purdue degree in elementary education; he later taught full time and ran a family real estate business, according to the district [26].
+- Elected to the board in 2010; has served in leadership roles including president in 2013, and is board president in 2026 [26].
+- His campaign says he has more than 35 years of education experience, served six years with the Indiana School Boards Association and completed Leadership Johnson County in 2015-16 [29].
+
+### Path to the ballot
+
+- Listed on the ballot as Republican [6].
+
+### On the current officeholder
+
+- Is a current board member.
+- As board president he said in 2026 that the community survey showed families want “a strong focus on student outcomes and a genuine community connection” in the next superintendent, and that Dr. Erin Stalbaum met those priorities [27].
+
+### How they say they'd run the office
+
+- His campaign says his goal is to keep Center Grove a top-tier school and continue its forward direction [29].
+
+### Endorsements & fundraising
+
+- His campaign ran paid content in the Towne Post in October 2026; no endorsements were listed [29].
+- No campaign finance report was found.
+
+### What we couldn't verify
+
+- No questionnaire or forum remarks were found.
+- The Daily Journal (Franklin), the main local paper covering Center Grove, blocks automated access; its 2026 candidate coverage and forum reports could not be read.
+
+## Jane Dunigan-Smith — At Large
+
+Incumbent; appointed in August 2024 to fill Gary Robinson's seat, with a term through December 2026; listed on the state ballot list as Independent [26, 6].
+
+### Background
+
+- Senior vice president and chief strategy officer at BioCrossroads, with accounting/finance and MBA degrees from Indiana University's Kelley School of Business, according to the district [26].
+- Served on the Center Grove Education Foundation board, including a term as president, and took part in the CG Ambassadors program (2022-23 class) [28, 25].
+- Parent of recent Center Grove graduates [28].
+
+### Path to the ballot
+
+- Appointed by the board in 2024 from 25 applicants; is seeking a full four-year term [28].
+- Listed on the ballot as Independent [6].
+
+### Positions & plans
+
+**Budget & taxes**
+
+- Her campaign says board decisions should weigh current needs against long-term financial and operational impact, with questions that test the numbers and assumptions behind recommendations [28].
+
+**Academics**
+
+- Her campaign says students should leave school with the knowledge, skills and confidence to support themselves and contribute to the community [28].
+
+### On the current officeholder
+
+- Is a current board member.
+- Her campaign argues that continuity on the board matters because of the learning curve involved [28].
+
+### Endorsements & fundraising
+
+- Her campaign ran paid content in the Towne Post; no endorsements were listed [28].
+- No campaign finance report was found.
+
+### What we couldn't verify
+
+- No questionnaire or forum remarks were found.
+- The Daily Journal (Franklin), the main local paper covering Center Grove, blocks automated access; its 2026 candidate coverage and forum reports could not be read.
+
+## Jennifer K. Quesenberry — At Large
+
+Candidate for an at-large seat; listed on the state ballot list as Independent [6].
+
+### Background
+
+- No background was found in fetched sources [6].
+
+### Path to the ballot
+
+- Listed on the ballot as Independent [6].
+
+### Endorsements & fundraising
+
+- No endorsements or campaign finance report were found in fetched sources.
+
+### What we couldn't verify
+
+- No candidate website, questionnaire, forum remarks, endorsements or finance report was found in fetched sources.
+- The Daily Journal (Franklin), the main local paper covering Center Grove, blocks automated access; its 2026 candidate coverage and forum reports could not be read.
+
+## Kathryn Minor Reed — At Large
+
+Candidate for an at-large seat; listed on the state ballot list as Independent [6].
+
+### Background
+
+- A Kathryn Minor-Reed is listed in the district's 2024-25 CG Ambassadors class, a program giving residents an inside view of the school corporation [25].
+
+### Path to the ballot
+
+- Listed on the ballot as Independent [6].
+
+### Endorsements & fundraising
+
+- No endorsements or campaign finance report were found in fetched sources.
+
+### What we couldn't verify
+
+- No candidate website, questionnaire, forum remarks, endorsements or finance report was found in fetched sources.
+- The Daily Journal (Franklin), the main local paper covering Center Grove, blocks automated access; its 2026 candidate coverage and forum reports could not be read.
+- Search-result snippets (unverified) say a Kathryn Minor-Reed was among eight finalists for the 2024 board vacancy.
+- The district page hyphenates the surname (Minor-Reed); the ballot list does not.
+
+## Matt Goodpaster — At Large
+
+Candidate for an at-large seat; a former Center Grove Education Foundation president; listed on the state ballot list as Independent [31, 6].
+
+### Background
+
+- A 2001 Center Grove graduate with degrees from Franklin College and Stetson University College of Law, according to his campaign [31].
+- Coached basketball in the district for nine years and served as president of the Center Grove Education Foundation [31]; listed in the 2023-24 CG Ambassadors class [25].
+- Parent of students in the district [31].
+
+### Path to the ballot
+
+- Listed on the ballot as Independent [6].
+
+### Positions & plans
+
+**Teachers & staff**
+
+- His campaign says supporting, equipping and resourcing teachers and staff is essential to student success [31].
+
+**Transparency & community input**
+
+- His campaign says the district should engage parents and hold community conversations to support informed decisions [31].
+
+### How they say they'd run the office
+
+- His campaign cites experience managing budgets and leading renovation and building projects, and says students should remain the primary focus of every decision [31].
+
+### Endorsements & fundraising
+
+- His campaign ran paid content in the Towne Post; no endorsements were listed [31].
+- No campaign finance report was found.
+
+### What we couldn't verify
+
+- No questionnaire or forum remarks were found; no statements on the current board's specific decisions were found.
+- The Daily Journal (Franklin), the main local paper covering Center Grove, blocks automated access; its 2026 candidate coverage and forum reports could not be read.
+
+## Michael Overpeck — At Large
+
+Candidate for an at-large seat; listed on the state ballot list as Republican [6].
+
+### Background
+
+- A Michael Overpeck is listed in the district's 2024-25 CG Ambassadors class [25].
+
+### Path to the ballot
+
+- Listed on the ballot as Republican [6].
+
+### Endorsements & fundraising
+
+- No endorsements or campaign finance report were found in fetched sources.
+
+### What we couldn't verify
+
+- No candidate website, questionnaire, forum remarks, endorsements or finance report was found in fetched sources.
+- The Daily Journal (Franklin), the main local paper covering Center Grove, blocks automated access; its 2026 candidate coverage and forum reports could not be read.
+- Search-result snippets (unverified) say a Mike Overpeck was among eight finalists for the 2024 board vacancy and said he applied to help 'cultivate and refine the excellence' of Center Grove.
+
+## Nicole Kemp — At Large
+
+Candidate for an at-large seat who also ran in 2024; listed on the state ballot list as Nonpartisan [32, 6].
+
+Campaign website: https://nicolekempforcentergrove.com
+
+### Background
+
+- A Center Grove graduate, former substitute teacher, classroom volunteer and parent of a student with an IEP, according to her campaign [32].
+- Her campaign says she helped launch Every Kid Eats Johnson County to address student lunch debt and, through the PTO, created book fair certificates for students receiving free or reduced-price lunch [32, 33].
+- Listed in the district's 2025-26 CG Ambassadors class [25].
+
+### Path to the ballot
+
+- Ran for the board in 2024, when two seats were on the ballot [33].
+- Running as Nonpartisan, which her campaign says is different from Independent [32].
+
+### Positions & plans
+
+**Teachers & staff**
+
+- Lists teacher retention and compensation as a 2026 priority [32].
+
+**School safety**
+
+- Lists student safety and mental health as priorities; her website says she is running for “the children who feel unsafe at school due to harassment or assault” [32, 34].
+
+**Special education**
+
+- Lists special education as a priority; her website says she is running for “the parents fighting tirelessly for their children’s IEPs” [32, 34].
+
+**Budget & taxes**
+
+- Lists responsible budgeting as a priority; no specific budget proposals were found [32].
+
+**Transparency & community input**
+
+- Lists stronger community communication as a priority [32].
+
+### On the current officeholder
+
+- Her website calls for a board that puts “education before politics, and students before partisanship”; no statements on specific board decisions were found [34].
+
+### Endorsements & fundraising
+
+- Her campaign lists endorsements from GoodParty.org and IPACE, support from the Center Grove Teachers Association, and recognition from Moms Demand Action and Mental Health Now [32].
+- No campaign finance report was found.
+
+### What we couldn't verify
+
+- No questionnaire or forum remarks were found.
+- The Daily Journal (Franklin), the main local paper covering Center Grove, blocks automated access; its 2026 candidate coverage and forum reports could not be read.
+
+## Sources
+
+1. [Indiana Code 20-26-5-4: Specific powers of governing body](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-5-4/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+2. [2026 Indiana Candidate Guide (School Board Offices)](https://www.in.gov/dA/1eada35c3e/2026-Candidate-Guide.FINAL.pdf) — Indiana Election Division, accessed 2026-10-10
+3. [800 school board seats are up for election in Indiana](https://chalkbeat.org/indiana/2024/06/13/school-board-seats-up-for-election-in-indiana-in-2024) — Chalkbeat Indiana / WFYI, 2024-06-13
+4. [Why there are no education elections on your primary ballot](https://www.chalkbeat.org/indiana/2026/04/07/primary-election-ballot-changes-exclude-education-races-and-referendums/) — Chalkbeat Indiana, 2026-04-07
+5. [Indiana Code 20-26-4-7: Compensation of governing body members](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-4-7/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+6. [2026 General Election Candidate List](https://www.in.gov/sos/elections/candidate-information/) — Indiana Election Division, 2026-09-22
+7. [Indiana Code 20-26-5-4.5: Selection and discharge of employees](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-26-5-4-5/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+8. [School Tax Levy Referendum](https://www.in.gov/dlgf/referendum-information/school-tax-levy-referendum/) — Indiana Department of Local Government Finance, accessed 2026-10-10
+9. [Indiana Code 20-29-6-4: Subjects of collective bargaining](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-29-6-4/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+10. [Obscene, or just objectionable? Here's how Indiana schools are tackling library book complaints](https://arnoltcenter.org/?p=1345) — Arnolt Center for Investigative Journalism / Indiana Capital Chronicle, 2024-02-05
+11. [Indiana Code 20-33-8-19: Expulsion appeals](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-33-8-19/) — FindLaw (Indiana Code), accessed 2026-10-10
+12. [Indiana Code 5-14-1.5-1: Open Door Law policy](https://codes.findlaw.com/in/title-5-state-and-local-administration/in-code-sect-5-14-1-5-1/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+13. [What We Do](https://www.in.gov/pac/about-us/what-we-do/) — Indiana Public Access Counselor, accessed 2026-10-10
+14. [Indiana Code 20-31-3-1: State academic standards](https://codes.findlaw.com/in/title-20-education/in-code-sect-20-31-3-1/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-10
+15. [Indiana K-12 State Tuition Support Annual Report FY2023](https://www.in.gov/doe/files/2023-Tuition-Support-Report.pdf) — Indiana Department of Education, 2023
+16. [Indiana lawmakers expand voucher eligibility, increase school funding in budget](https://chalkbeat.org/indiana/2025/04/24/vouchers-for-all-start-in-2026-budget-year) — Chalkbeat Indiana, 2025-04-24
+17. [Indiana school board candidates split 50-50 on affiliating with a party](https://www.wndu.com/2026/07/20/indiana-school-board-candidates-split-50-50-affiliating-with-party/) — WNDU, 2026-07-20
+18. [5 takeaways from Chalkbeat's panel on Indiana's changes to school board elections and referendums](https://www.chalkbeat.org/indiana/2026/07/10/indiana-school-board-elections-partisan-referendums-takeaways/) — Chalkbeat Indiana, 2026-07-10
+19. [Confusion on partisan school board law puts two IPS candidates' spots at risk](https://www.chalkbeat.org/indiana/2026/07/27/confusion-on-partisan-schoolboard-threatens-ips-ballot-spots/) — Chalkbeat Indiana, 2026-07-27
+20. [2026 Indiana Election Legislation Summary](https://www.in.gov/dA/d13ecb1f55/2026-Indiana-Election-Legislation-Summary.FINAL.pdf) — Indiana Election Division, 2026
+21. [Indiana school referendum elections: Districts seek funding for teacher pay, class size, buses](https://www.chalkbeat.org/indiana/2025/10/27/schools-property-tax-referendum-election-2025) — Chalkbeat Indiana, 2025-10-27
+22. [Indiana school district referendum guide 2026: What to know about your district's requested tax increase](https://www.wvxu.org/2026-08-17/indiana-school-district-referendum-guide-2026-what-to-know-about-your-districts-requested-tax-increase) — WFYI and Chalkbeat Indiana (via WVXU), 2026-08-17
+23. [Indiana charter schools could now have an easier path to acquiring district buildings](https://www.chalkbeat.org/indiana/2023/6/11/23755769/indiana-charters-acquire-traditional-public-school-buildings-underutilized-enrollment) — Chalkbeat Indiana, 2023-06-11
+24. [2027 Budget](https://www.centergrove.k12.in.us/departments/budget-and-finance/2027budget) — Center Grove Community School Corporation, 2026-10
+25. [Center Grove Ambassadors](https://centergrove.k12.in.us/community/center-grove-ambassadors) — Center Grove Community School Corporation, 2026-10
+26. [School Board](https://www.centergrove.k12.in.us/community/school-board) — Center Grove Community School Corporation, 2026-10
+27. [Superintendent Search](https://www.centergrove.k12.in.us/district/superintendent-search) — Center Grove Community School Corporation, 2026
+28. [Jane Dunigan-Smith for Center Grove School Board (paid campaign content)](https://townepost.com/indiana/center-grove/jane-dunigan-smith-for-center-grove-school-board/) — Towne Post Network, 2026-09-29
+29. [Jack L. Russell for Center Grove School Board (paid campaign content)](https://townepost.com/indiana/center-grove/jack-l-russell-for-center-grove-school-board/) — Towne Post Network, 2026-10-08
+30. [15 candidates for 5 seats: See who's running for school board at IPS and other Indianapolis area districts](https://www.chalkbeat.org/indiana/2026/06/18/candidates-and-political-affiliation-for-school-board-november-2026/) — Chalkbeat Indiana, 2026-06-18
+31. [Matt Goodpaster for Center Grove School Board (paid campaign content)](https://townepost.com/indiana/center-grove/matt-goodpaster-for-center-grove-school-board/) — Towne Post Network, 2026-10-05
+32. [Nicole Kemp Returns to the Ballot in Center Grove (paid campaign content)](https://townepost.com/indiana/center-grove/nicole-kemp-returns-to-the-ballot-in-center-grove/) — Towne Post Network, 2026-09-24
+33. [Candidate Spotlight: Nicole Kemp for Center Grove School Board (paid campaign content)](https://townepost.com/?p=117560) — Towne Post Network, 2024-09
+34. [Nicole Kemp for Center Grove School Board](https://nicolekempforcentergrove.com) — Nicole Kemp campaign, 2026-10

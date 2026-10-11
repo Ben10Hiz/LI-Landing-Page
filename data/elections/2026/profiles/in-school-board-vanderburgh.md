@@ -157,7 +157,6 @@ Challenger for one of the two District 2 seats; a local business owner who has c
 ### What we couldn't verify
 
 - Did not respond to WNIN's interview requests, per WNIN; positions here come from WNIN's summary and his own Telegram posts, which carry no calendar dates.
-- WNIN's article also reports that he and his podcast co-host were removed from the state and county Republican Party and that he faces a recent bench warrant related to an attempt to file as a Republican in another race; this guide could not confirm the details from court or party records.
 - No campaign website, endorsements or campaign finance reports found.
 
 ## Lindsey Patterson — District 2

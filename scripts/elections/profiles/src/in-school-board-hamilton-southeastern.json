@@ -1,0 +1,732 @@
+{
+ "race_id": "in-school-board-hamilton-southeastern",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Hamilton Southeastern Schools (HSE) serves Fishers and surrounding areas of Hamilton County. The district counted 19,885 students on Sept. 1, 2026 (unofficial), its first count under 20,000 in a decade and the seventh straight year of decline {lif_enroll}. Superintendent Matt Kegley, a longtime HSE administrator, was named in April 2026 after Patrick Mapes resigned {lif_kegley}.",
+  "The seven-member Board of School Trustees has four seats elected from numbered districts (terms ending December 2026) and three township seats for Fall Creek, Wayne and Delaware townships (terms ending December 2028) {hse_board}. In district races, voters vote only in the district where they live {lif_districts}.",
+  "Four seats are on the Nov. 3, 2026 ballot, one per district. None of the incumbents is running: District 1 Tiffany Pascoe (president), District 2 Juanita Albright, District 3 Dawn Lang (vice president) and District 4 Ben Orr {hse_board} {lif_turnover}. Albright is the Republican nominee for state Senate District 31 {lif_turnover}. Stephanie Braden is unopposed in District 4 {lif_slate}.",
+  "2026 is the first HSE election in which candidates may list a party; there are no school board primaries {lif_slate}. Of nine candidates, two filed as Republicans, one as a Libertarian, one as an independent and five with no party {lif_slate}.",
+  "Referendum: the board voted 6-0 on June 10, 2026 (Pascoe abstaining) to place a replacement operating referendum on the ballot, up to 36 cents per $100 of assessed value for eight years, replacing the 2023 referendum approved with about 70% {lif_ref_vote} {hse_referendum}. District officials say the 2025 property tax law (SEA 1) shrinks the base the 2023 rate applies to and project losing about $45.3 million from 2026 through 2031 without a new levy; the first-year rate recommended is 22 cents, a projected $26 increase for the median homeowner, though state-required ballot language cites $700 a year on a $400,000 home {lif_ref_noopp} {hse_referendum}. No organized local opposition had formed as of Sept. 23 {lif_ref_noopp}.",
+  "Budget and staffing: in spring 2026 the district issued reduction-in-force notices to 18 teachers and adjusted nearly 60 positions; all 18 were later rehired through attrition, and a budget task force identified about $7.8 million in cuts {lif_rif} {lif_ref_vote} {lif_cfo}. The proposed 2027 budget is $323.9 million, about $15 million below 2026; the board votes Oct. 28 {lif_budget2027}. Teachers received no raises the prior year and contract bargaining began in September {lif_budget2027}.",
+  "Leadership turnover: HSE has had several superintendent changes since 2023 (Yvonne Stokes resigned in 2023, Patrick Mapes was hired in 2024 and resigned effective April 2026) {lif_kegley}.",
+  "Facilities: the board approved new attendance boundaries for 2026-27, driven by the expansion of Fishers Elementary from 450 to 700 seats and crowding at some east-side schools {hse_redistricting}.",
+  "Board divisions: at an Aug. 12, 2026 meeting, members voted 5-2 to send proposed wording for a homeless-student policy back to committee after disagreeing over terminology, and two trustees criticized President Pascoe's social media post inviting reports of political content in classrooms; Pascoe called the criticism \"false accusations\" {lif_board_split}.",
+  "Academics: on the redesigned 2025-26 ILEARN, the district reported 68.1% math and 66.4% English proficiency in grades 3-8 versus about 42% statewide; the state calls 2026 a new baseline {lif_ilearn}.",
+  "Forums and coverage: LarryInFishers.com ran a podcast interview series with candidates; by Oct. 9 it had posted episodes with Wren, Maqsood, Wright, Keck, Perry, Turk and Fullhart {lif_wren} {lif_maqsood} {lif_wright} {lif_keck} {lif_perry_pod} {lif_turk} {lif_fulhart}. No joint candidate forum was found in reviewed coverage. All candidates who discussed the referendum except Wren said they support it; Wren said he is torn and wants an audit first {lif_wren} {lif_keck} {lif_perry_pod} {lif_maqsood} {lif_wright} {lif_turk} {lif_fulhart}.",
+  "Endorsements: the HSE Education Association endorsed Maqsood, Keck, Fullhart and Braden; Fishers Mayor Scott Fadness endorsed Perry and Turk {lif_hsea} {lif_fadness_perry} {reporter_turk_fadness}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Anthony Jason Wren",
+   "seat": "District HSE 1",
+   "summary": "Libertarian candidate and HSE parent whose top priority is school security {lif_wren}.",
+   "website": null,
+   "background": [
+    "Parent of an HSE graduate {lif_wren}.",
+    "Served as vice president and then president of student government in college {lif_wren}."
+   ],
+   "path_to_ballot": [
+    "Filed June 17, 2026, as a Libertarian, the first third-party candidate in the HSE field {lif_libertarian} {lif_slate}. Listed on the state list as Libertarian {in_list}.",
+    "Said he left the Republican Party because he was frustrated with both major parties {lif_wren}.",
+    "Not an incumbent; the District 1 seat is open because board president Tiffany Pascoe is not running {lif_turnover} {hse_board}."
+   ],
+   "positions": [
+    {
+     "topic": "School safety",
+     "items": [
+      "Said news of guns in schools, including incidents in Noblesville and at North Central High School in Indianapolis, pushed him to run {lif_wren}.",
+      "Main proposal: weapons-detection scanners at every entrance of every HSE school, like those at the Fishers Event Center; eventually a district police department instead of relying on Fishers Police school resource officers {lif_wren}."
+     ]
+    },
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Said he is torn on the operating referendum and wants an audit of district finances before more money is requested; questioned whether HSE applies for grants. Interviewer Larry Lannan noted the district regularly applies for grants and that most Hamilton County districts are pursuing referendums after state property tax changes {lif_wren}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Wants more focus on reading, writing and arithmetic, including handwriting and cursive {lif_wren}.",
+      "Said teachers he has spoken with feel they have lost control of their classrooms, while acknowledging his examples came from outside HSE {lif_wren}."
+     ]
+    },
+    {
+     "topic": "Student health & conduct",
+     "items": [
+      "Would require students to keep phones in lockers and have school Wi-Fi block social media, while supporting the medical and disability exemptions in state law {lif_wren}.",
+      "Raised concerns about folic acid in enriched flour in school meals, citing online personality Gary Brecka; LarryInFishers noted federal agencies have required folic acid in enriched grain since 1998 to help prevent neural tube birth defects {lif_wren}."
+     ]
+    }
+   ],
+   "on_incumbent": [],
+   "plans": [
+    "Said he has met with the HSE superintendent to discuss his safety concerns {lif_wren}."
+   ],
+   "endorsements_finance": [],
+   "gaps": [
+    "No Hamilton County campaign finance reports were reviewed; fundraising is unknown.",
+    "No candidate forum or written questionnaire (e.g., VOTE411, Current in Fishers) was reviewed; Current in Fishers pages returned 403.",
+    "Occupation was not reported in reviewed coverage.",
+    "LarryInFishers reported he had no findable campaign web presence as of June 18; none was found in this review."
+   ]
+  },
+  {
+   "ballot_name": "Faiza Maqsood",
+   "seat": "District HSE 1",
+   "summary": "Twenty-year Fishers resident with nonprofit finance experience, running with no party label; endorsed by the HSE teachers association {lif_slate} {lif_maqsood} {lif_hsea}.",
+   "website": null,
+   "background": [
+    "Fishers resident for about 20 years; her three children graduated from HSE {lif_maqsood}.",
+    "Background in nonprofit finances, revenue management and data analysis {lif_maqsood}.",
+    "Has held leadership and treasurer roles with organizations supporting students and families, including IPS Sidener Academy, the Julian Center and Wheeler Mission {lif_slate}."
+   ],
+   "path_to_ballot": [
+    "Among the first to file (by May 20, 2026), with no party designation {lif_early2}. Listed on the state list as Nonpartisan {in_list}.",
+    "Not an incumbent; the District 1 seat is open because board president Tiffany Pascoe is not running {lif_turnover} {hse_board}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Supports the operating referendum, pointing to teacher retention and student programs as priorities {lif_maqsood}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Discussed teacher morale; said she made no commitments to receive the teachers association's endorsement {lif_maqsood}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Says schools should help teachers and students learn to use artificial intelligence effectively {lif_maqsood}."
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "Supports continued student mental health services {lif_maqsood}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Said attending board meetings left her feeling parents and educators were speaking but not being heard, which led her to run {lif_maqsood}."
+   ],
+   "plans": [
+    "Explained running without a party label and said listening to people with different views is an important part of serving on the board {lif_maqsood}."
+   ],
+   "endorsements_finance": [
+    "Endorsed by the Hamilton Southeastern Education Association (HSEA), the local teachers union {lif_hsea}."
+   ],
+   "gaps": [
+    "No Hamilton County campaign finance reports were reviewed; fundraising is unknown.",
+    "No candidate forum or written questionnaire (e.g., VOTE411, Current in Fishers) was reviewed; Current in Fishers pages returned 403.",
+    "A campaign Facebook page appeared in search results but was not reviewed; no campaign website was found.",
+    "The LarryInFishers podcast write-up summarizes topics (spending if the referendum fails, academic performance, cell phones) without reporting her specific answers."
+   ]
+  },
+  {
+   "ballot_name": "Greg Wright",
+   "seat": "District HSE 1",
+   "summary": "Dentist and small-business owner running as a Republican; supports the November referendum {lif_slate} {lif_wright}.",
+   "website": "https://wrightforhse.com",
+   "background": [
+    "Dentist practicing in Indianapolis and Lapel; owns his own practice {lif_wright} {wright_site}.",
+    "Parent of three HSE graduates; has coached junior varsity lacrosse {lif_wright}.",
+    "Son of two retired Indiana public school teachers {lif_wright} {wright_site}."
+   ],
+   "path_to_ballot": [
+    "Filed as a Republican by May 26, 2026 {lif_early3}. Listed on the state list as Republican {in_list}.",
+    "Said he chose the party label on the advice of people he trusts and pledged: \"You have my word that I will not make decisions based on politics\" {lif_wright}.",
+    "Not an incumbent; the District 1 seat is open because board president Tiffany Pascoe is not running {lif_turnover} {hse_board}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Supports the referendum; estimates it will cost the average homeowner about $20 to $30 a year; his site says the new levy replaces, not adds to, the 2023 referendum {lif_wright} {wright_ref}.",
+      "Said the district should keep more than the state-minimum cash reserve because the legislature is \"unpredictable,\" but cannot rely on reserves for recurring costs {lif_wright}.",
+      "Calls for a public-facing budget any resident can read and staffing decisions tied to a multi-year enrollment plan {wright_priorities}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "If the referendum fails, cuts should protect classroom instruction and teachers first {lif_wright}.",
+      "Proposes a teacher-retention review using anonymous exit-interview data and says cuts in any future reduction in force should start as far from the classroom as possible {wright_priorities}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Would protect AP, IB, dual-credit and career-technical pathways and publish post-graduation outcomes by school each year {wright_priorities}."
+     ]
+    },
+    {
+     "topic": "Special education",
+     "items": [
+      "Calls for a staffed plan for special education services through the SEA 1 transition {wright_priorities}."
+     ]
+    },
+    {
+     "topic": "Enrollment & school choice",
+     "items": [
+      "Wants HSE to \"tell our story\" better to attract students as enrollment shifts, and to be a destination for teachers {lif_wright}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Proposes neighborhood listening sessions, plain-language summaries of each board meeting, and a published timeline for public comment before major decisions {wright_priorities}.",
+      "Sees the board's role as oversight: \"We only have one employee, and that's the superintendent\" {lif_wright}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Has expressed confidence in Superintendent Matt Kegley, calling his appointment \"the icing on the cake\" {lif_wright} {wright_ref}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "Said HSEA told him it did not endorse him only because he runs under a party label, and that there is \"no bad blood\" {lif_wright}. His campaign site's endorsements page said endorsements were \"coming soon\" {wright_endorse}."
+   ],
+   "gaps": [
+    "No Hamilton County campaign finance reports were reviewed; fundraising is unknown.",
+    "No candidate forum or written questionnaire (e.g., VOTE411, Current in Fishers) was reviewed; Current in Fishers pages returned 403."
+   ]
+  },
+  {
+   "ballot_name": "Cyrus Keck",
+   "seat": "District HSE 2",
+   "summary": "HSE parent and regular board-meeting attendee, running with no party label; endorsed by the HSE teachers association {lif_slate} {lif_hsea}.",
+   "website": null,
+   "background": [
+    "Parent of two sons in HSE schools (Harrison Parkway Elementary) {lif_slate} {lif_keck}.",
+    "Has been a regular attendee of school board meetings {lif_slate}."
+   ],
+   "path_to_ballot": [
+    "Filed with no party; said he did so because \"our school board should not be about politics\" {lif_slate}. Listed on the state list as Nonpartisan {in_list}.",
+    "Not an incumbent; the District 2 seat is open because Juanita Albright is not running (she is the Republican nominee for state Senate District 31) {lif_turnover}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Strongly supports the operating referendum, urging listeners to vote for it even if they choose another board candidate; acknowledged he would need deeper understanding of district expenses before specific spending decisions {lif_keck}.",
+      "Running on financial accountability and administrative oversight {lif_slate}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Says compensation, benefits and a culture that values educators are key to retention; protecting teaching positions would be his first priority in any further cuts {lif_keck}."
+     ]
+    },
+    {
+     "topic": "Enrollment & school choice",
+     "items": [
+      "Not fundamentally opposed to charter schools, but before supporting one would want a clearly identified problem, evidence a charter is a better solution and an understanding of the financial impact on other students {lif_keck}.",
+      "LarryInFishers reported he cited concerns over the district's charter-school rollout {lif_slate}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Would evaluate the superintendent on budget performance, student outcomes and staff satisfaction, with clear annual goals and regular progress reviews {lif_keck}.",
+      "Said: \"I think we need to get back to the school board just being kind of boring\" {lif_keck}."
+     ]
+    }
+   ],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "Endorsed by HSEA; said he made no promises of specific pay or benefit increases and would use his own judgment if he disagreed with the association {lif_hsea} {lif_keck}."
+   ],
+   "gaps": [
+    "No Hamilton County campaign finance reports were reviewed; fundraising is unknown.",
+    "No candidate forum or written questionnaire (e.g., VOTE411, Current in Fishers) was reviewed; Current in Fishers pages returned 403.",
+    "Occupation was not reported in reviewed coverage.",
+    "No campaign website was found.",
+    "The 'charter-school rollout' concern was reported without detail on which HSE decision he meant."
+   ]
+  },
+  {
+   "ballot_name": "Ferras B. Abdalla",
+   "seat": "District HSE 2",
+   "summary": "Filed late in the window with no party label; little public information is available {lif_slate}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Among the final filers before the June 18, 2026 deadline, with no party affiliation {lif_slate} {lif_districts}. Listed on the state list as Nonpartisan {in_list}.",
+    "Not an incumbent; the District 2 seat is open because Juanita Albright is not running {lif_turnover}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No background, positions or campaign web presence were found; LarryInFishers reported none was findable as of June 18, and he had not appeared in its candidate podcast series as of Oct. 10.",
+    "No Hamilton County campaign finance reports were reviewed; fundraising is unknown.",
+    "No candidate forum or written questionnaire (e.g., VOTE411, Current in Fishers) was reviewed; Current in Fishers pages returned 403."
+   ]
+  },
+  {
+   "ballot_name": "Josh Perry",
+   "seat": "District HSE 2",
+   "summary": "HSE graduate, HSE parent and insurance underwriting manager running with no party label; endorsed by Fishers Mayor Scott Fadness {lif_perry_file} {lif_fadness_perry}.",
+   "website": "https://www.perryforhse.com",
+   "background": [
+    "Commercial underwriting manager at Indiana Farm Bureau Insurance, leading a team of 15 {lif_perry_file}.",
+    "2007 Hamilton Southeastern High School graduate; Purdue agricultural education degree (2011); formerly an instructional assistant in the emotional and behavioral disabilities program at Carmel Clay Schools {lif_fadness_perry}.",
+    "Parent of two Harrison Parkway Elementary students; lives in West Fishers {lif_perry_file}.",
+    "Member of the 2026-27 HSEngaged community cohort {lif_fadness_perry}."
+   ],
+   "path_to_ballot": [
+    "Filed June 1, 2026, as a nonpartisan candidate {lif_perry_file}. Listed on the state list as Nonpartisan {in_list}.",
+    "Not an incumbent; the District 2 seat is open because Juanita Albright is not running {lif_turnover}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Says that because of SEA 1 the referendum is necessary for financial stability \"with as little impact as possible to our property taxes\" {perry_site}.",
+      "If the referendum fails, would prioritize a competitive teacher compensation package and examine long-term enrollment projections before changing staffing, programs or building use {lif_perry_pod}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Says retention depends on pay, benefits and workplace culture, and that less board infighting would help {lif_perry_pod}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Supports the HSE Network Model and expanding trades and direct-to-workforce pathways; \"A welding certification and an AP class deserve equal respect\" {perry_site}.",
+      "Favors teaching students to use AI as a tool and to recognize when its answers are wrong {lif_perry_pod}."
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "Calls school safety \"a fundamental obligation of this board\" {perry_site}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Says members should be able to vote differently and explain themselves respectfully, then help carry out decisions {lif_perry_pod}.",
+      "Says the board should set vision and policy and trust administrators and teachers to execute {perry_site}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Calls political division within the schools \"a serious problem that often distracts from the work that matters most\" {perry_site}."
+   ],
+   "plans": [
+    "Says voters should judge him after a year on following through on commitments, collaboration and progress toward a strategic plan {lif_perry_pod}."
+   ],
+   "endorsements_finance": [
+    "Endorsed by Fishers Mayor Scott Fadness {lif_fadness_perry}. His site also lists endorsements from Delaware Township Trustee Debbie Driskell and two former HSE educators {perry_site}. Asked about the mayor's endorsement, he said his responsibility would be to do what is best for the schools {lif_perry_pod}."
+   ],
+   "gaps": [
+    "No Hamilton County campaign finance reports were reviewed; fundraising is unknown.",
+    "No candidate forum or written questionnaire (e.g., VOTE411, Current in Fishers) was reviewed; Current in Fishers pages returned 403."
+   ]
+  },
+  {
+   "ballot_name": "David Turk",
+   "seat": "District HSE 3",
+   "summary": "Real estate developer and HSE parent running as a Republican, focused on special education, teacher retention and budgeting; endorsed by Fishers Mayor Scott Fadness {reporter_turk_file} {reporter_turk_fadness}.",
+   "website": "https://turkforhse.com",
+   "background": [
+    "Real estate developer who restores older downtown buildings; previously worked in food safety and quality assurance {lif_turk}.",
+    "Grew up in Hamilton County, graduated from Noblesville High School, earned a Purdue biology degree {lif_turk}.",
+    "Parent of three Brooks School Elementary students; says his family moved to Fishers in 2021 largely for HSE and its special education services {reporter_turk_file} {lif_turk}."
+   ],
+   "path_to_ballot": [
+    "Filed May 19, 2026, as a Republican {reporter_turk_file}. Listed on the state list as Republican {in_list}.",
+    "Said he has always voted Republican and would have felt he was \"hiding behind a nonpartisan label\" otherwise, while pledging to keep politics out of board decisions {lif_turk}.",
+    "Not an incumbent; the District 3 seat is open because vice president Dawn Lang is not running {lif_turnover} {hse_board}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Says he is \"absolutely pro-referendum,\" citing teacher pay lagging inflation and state property tax changes; if it passes he would rely on district projections when setting the annual rate; if it fails, across-the-board cuts and larger classes would be on the table {lif_turk}."
+     ]
+    },
+    {
+     "topic": "Special education",
+     "items": [
+      "First campaign priority is protecting and strengthening HSE's special needs and special education programs {turk_site} {reporter_turk_fadness}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Wants to keep teachers through competitive pay and a budget that reflects their value {turk_site} {reporter_turk_fadness}."
+     ]
+    },
+    {
+     "topic": "Enrollment & school choice",
+     "items": [
+      "Supports HSE accepting transfer students from other districts and wants families made more aware of that option {lif_turk}."
+     ]
+    }
+   ],
+   "on_incumbent": [],
+   "plans": [
+    "Says voters should judge his first year on whether the board kept its focus on students and kept the drama out {lif_turk}."
+   ],
+   "endorsements_finance": [
+    "Endorsed by Fishers Mayor Scott Fadness (announced Oct. 5, 2026) {reporter_turk_fadness}."
+   ],
+   "gaps": [
+    "No Hamilton County campaign finance reports were reviewed; fundraising is unknown.",
+    "No candidate forum or written questionnaire (e.g., VOTE411, Current in Fishers) was reviewed; Current in Fishers pages returned 403."
+   ]
+  },
+  {
+   "ballot_name": "Michelle Fullhart",
+   "seat": "District HSE 3",
+   "summary": "Former two-term HSE board member and board president, running with no party label; endorsed by the HSE teachers association {lif_slate} {lif_hsea}.",
+   "website": null,
+   "background": [
+    "First elected to the HSE board in 2014; served two terms and was board president in 2019 {lif_slate}. She led the board during the COVID-19 pandemic {lif_fulhart}.",
+    "Described by LarryInFishers as a longtime district educator {lif_slate}."
+   ],
+   "path_to_ballot": [
+    "Filed in mid-June 2026 with no party affiliation {lif_takeshape}. Listed on the state list as Nonpartisan {in_list}.",
+    "Not an incumbent; the District 3 seat is open because vice president Dawn Lang is not running {lif_turnover} {hse_board}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Supports the referendum, saying state funding has not kept up with inflation; if it fails, HSE would still have the 2023 referendum but would face \"hard decisions\" such as bigger classes {lif_fulhart}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Wants 360-degree evaluations so teachers can evaluate principals, and exit interviews for departing teachers {lif_fulhart}.",
+      "Said teachers \"feel disrespected\" by the recent teacher contract {lif_slate}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Pointed to the district's former balanced-literacy reading program as a case where teacher concerns went unheard too long {lif_fulhart}."
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "Backs funding for student mental health services {lif_fulhart}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Said: \"I've watched the board for the last four years, seeing a lot of division on the board, the partisanship, and I don't think it has served our district well\" {lif_fulhart}.",
+    "Defended pandemic-era decisions, saying state law required HSE to follow the Fishers Health Department {lif_fulhart}.",
+    "Expressed confidence in Superintendent Matt Kegley {lif_fulhart}."
+   ],
+   "plans": [
+    "Would handle disagreements with fellow members privately and respectfully: \"Everybody on that board is duly elected, and their voice should be heard\" {lif_fulhart}."
+   ],
+   "endorsements_finance": [
+    "Endorsed by HSEA; said she made no promises to get it {lif_hsea} {lif_fulhart}.",
+    "Says she is paying for her own campaign so she won't be \"beholden to any one person or one party\" {lif_fulhart}."
+   ],
+   "gaps": [
+    "No Hamilton County campaign finance reports were reviewed; fundraising is unknown.",
+    "No candidate forum or written questionnaire (e.g., VOTE411, Current in Fishers) was reviewed; Current in Fishers pages returned 403.",
+    "Spelling varies: the state list and most filings use \"Fullhart\"; a LarryInFishers headline uses \"Fulhart.\"",
+    "No campaign website was found."
+   ]
+  },
+  {
+   "ballot_name": "Stephanie Braden",
+   "seat": "District HSE 4",
+   "summary": "Registered nurse and Army Reserve member; unopposed for the District 4 seat {lif_braden} {lif_slate}.",
+   "website": null,
+   "background": [
+    "Registered nurse for more than 16 years, including as a charge nurse {lif_braden}.",
+    "Member of the U.S. Army Reserve for more than 25 years {lif_braden}.",
+    "Parent whose children have all attended HSE; has volunteered as an elementary math tutor and classroom volunteer {lif_braden}."
+   ],
+   "path_to_ballot": [
+    "Announced her candidacy June 9, 2026, and is the only candidate in District 4 {lif_braden} {lif_slate}. Listed on the state list as Independent {in_list}.",
+    "Not an incumbent; the District 4 seat is open because Ben Orr is not running {lif_turnover} {hse_board}."
+   ],
+   "positions": [
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Wants to focus on keeping and recruiting strong teachers: \"Strong teacher support and community investment are essential to maintaining the academic excellence that attracts families to our district\" {lif_braden}."
+     ]
+    },
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Lists fiscal responsibility and investing in public schools among her priorities {lif_braden}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Says she would seek input from families, students, staff, taxpayers and community leaders, and calls for \"transparent and honest leadership that values diverse perspectives\" {lif_braden}."
+     ]
+    }
+   ],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "Endorsed by HSEA {lif_hsea}."
+   ],
+   "gaps": [
+    "No Hamilton County campaign finance reports were reviewed; fundraising is unknown.",
+    "No candidate forum or written questionnaire (e.g., VOTE411, Current in Fishers) was reviewed; Current in Fishers pages returned 403.",
+    "Ballot label discrepancy: LarryInFishers filing lists (June) showed her as 'No Party'; the state list and later coverage show 'Independent'.",
+    "No campaign website was found.",
+    "Unopposed; she has not appeared in the LarryInFishers candidate podcast series."
+   ]
+  }
+ ],
+ "sources": {
+  "hse_board": [
+   "Board of School Trustees",
+   "Hamilton Southeastern Schools",
+   "2026-10",
+   "https://www.hseschools.org/board/board-of-school-trustees"
+  ],
+  "hse_referendum": [
+   "Referendum 2026",
+   "Hamilton Southeastern Schools",
+   "2026-10",
+   "https://www.hseschools.org/community/referendum-2026"
+  ],
+  "hse_redistricting": [
+   "Redistricting",
+   "Hamilton Southeastern Schools",
+   "2026-10",
+   "https://www.hseschools.org/community/redistricting"
+  ],
+  "lif_slate": [
+   "Final HSE School Board Slate Set: Nine Candidates, Four Seats — and One Already Decided",
+   "LarryInFishers.com",
+   "2026-06-18",
+   "https://www.larryinfishers.com/2026/06/18/final-hse-school-board-slate-set-nine-candidates-four-seats-and-one-already-decided/"
+  ],
+  "lif_takeshape": [
+   "HSE School Board Race Takes Shape as Filing Deadline Nears — and Party Labels Appear for the First Time",
+   "LarryInFishers.com",
+   "2026-06-17",
+   "https://www.larryinfishers.com/2026/06/17/hse-school-board-race-takes-shape-as-filing-deadline-nears-and-party-labels-appear-for-the-first-time/"
+  ],
+  "lif_libertarian": [
+   "Libertarian Enters HSE District 1 Race as Filing Deadline Hits Noon Thursday",
+   "LarryInFishers.com",
+   "2026-06-17",
+   "https://www.larryinfishers.com/2026/06/17/libertarian-enters-hse-district-1-race-as-filing-deadline-hits-noon-thursday/"
+  ],
+  "lif_early2": [
+   "Only Two Candidates File So Far for HSE School Board Races",
+   "LarryInFishers.com",
+   "2026-05-20",
+   "https://www.larryinfishers.com/2026/05/20/only-two-candidates-file-so-far-for-hse-school-board-races/"
+  ],
+  "lif_early3": [
+   "Three candidates file early for HSE School Board races",
+   "LarryInFishers.com",
+   "2026-05-26",
+   "https://www.larryinfishers.com/2026/05/26/three-candidates-file-early-for-hse-school-board-races/"
+  ],
+  "lif_turnover": [
+   "HSE board turnover among the races ahead in Fishers' 2026 election",
+   "LarryInFishers.com",
+   "2026-09-13",
+   "https://www.larryinfishers.com/2026/09/13/hse-board-turnover-among-the-races-ahead-in-fishers-2026-election/"
+  ],
+  "lif_districts": [
+   "Which HSE School Board district are you in? Here's how to find out",
+   "LarryInFishers.com",
+   "2026-09-27",
+   "https://www.larryinfishers.com/2026/09/27/hse-school-board-district-2026-election/"
+  ],
+  "lif_hsea": [
+   "HSEA endorses four candidates for Hamilton Southeastern School Board",
+   "LarryInFishers.com",
+   "2026-08-18",
+   "https://www.larryinfishers.com/2026/08/18/hsea-school-board-endorsements-2026/"
+  ],
+  "lif_ref_vote": [
+   "HSE Schools to put new referendum before voters in November; no teacher layoffs coming",
+   "LarryInFishers.com",
+   "2026-06-10",
+   "https://www.larryinfishers.com/2026/06/10/hse-schools-to-put-new-referendum-before-voters-in-november-no-teacher-layoffs-coming/"
+  ],
+  "lif_ref_noopp": [
+   "With early voting two weeks away, HSE referendum faces no organized opposition",
+   "LarryInFishers.com",
+   "2026-09-23",
+   "https://www.larryinfishers.com/2026/09/23/with-early-voting-two-weeks-away-hse-referendum-faces-no-organized-opposition/"
+  ],
+  "lif_cfo": [
+   "Podcast: HSE CFO Tim Brown on the District's Finances, SEA 1, and the November Referendum",
+   "LarryInFishers.com",
+   "2026-06-16",
+   "https://www.larryinfishers.com/2026/06/16/podcast-hse-cfo-tim-brown-on-the-districts-finances-sea-1-and-the-november-referendum/"
+  ],
+  "lif_rif": [
+   "HSE Issues RIF Notices to 18 Teachers as Enrollment Declines; Nearly 60 Positions Affected Districtwide",
+   "LarryInFishers.com",
+   "2026-05-04",
+   "https://www.larryinfishers.com/2026/05/04/hse-teachers-receive-rif-notices-as-enrollment-declines-state-law-drives-process/"
+  ],
+  "lif_enroll": [
+   "HSE enrollment drops below 20,000 for first time in a decade",
+   "LarryInFishers.com",
+   "2026-09-03",
+   "https://www.larryinfishers.com/2026/09/03/hse-schools-enrollment-drop-2027-budget/"
+  ],
+  "lif_budget2027": [
+   "HSE proposes $323.9 million budget for 2027, about $15 million below 2026",
+   "LarryInFishers.com",
+   "2026-09-23",
+   "https://www.larryinfishers.com/2026/09/23/hse-2027-budget/"
+  ],
+  "lif_kegley": [
+   "Kegley to be named superintendent of Hamilton Southeastern Schools",
+   "LarryInFishers.com",
+   "2026-04-29",
+   "https://www.larryinfishers.com/2026/04/29/kegley-to-be-named-superintendent-of-hamilton-southeastern-schools/"
+  ],
+  "lif_board_split": [
+   "HSE board splits over how to describe homeless students — and over president's social media post",
+   "LarryInFishers.com",
+   "2026-08-12",
+   "https://www.larryinfishers.com/2026/08/12/hse-board-homeless-students-language-classroom-signage/"
+  ],
+  "lif_ilearn": [
+   "HSE ILEARN results top state averages as redesigned test sets new baseline",
+   "LarryInFishers.com",
+   "2026-09-25",
+   "https://www.larryinfishers.com/2026/09/25/hse-ilearn-results-top-state-averages-as-redesigned-test-sets-new-baseline/"
+  ],
+  "lif_wren": [
+   "Podcast: HSE School Board candidate Anthony Wren makes school security his top priority",
+   "LarryInFishers.com",
+   "2026-09-22",
+   "https://www.larryinfishers.com/2026/09/22/podcast-hse-school-board-candidate-anthony-wren-makes-school-security-his-top-priority/"
+  ],
+  "lif_maqsood": [
+   "Podcast: HSE School Board candidate Faiza Maqsood discusses her priorities",
+   "LarryInFishers.com",
+   "2026-09-24",
+   "https://www.larryinfishers.com/2026/09/24/podcast-hse-school-board-candidate-faiza-maqsood-discusses-her-priorities/"
+  ],
+  "lif_wright": [
+   "Greg Wright, Republican candidate in HSE District 1, says he is running \"with gratitude, not an agenda\"",
+   "LarryInFishers.com",
+   "2026-09-28",
+   "https://www.larryinfishers.com/2026/09/28/greg-wright-hse-school-board-district-1-podcast/"
+  ],
+  "wright_site": [
+   "Dr. Greg Wright for HSE School Board, District 1",
+   "Committee to Elect Greg Wright",
+   "2026-10",
+   "https://wrightforhse.com/"
+  ],
+  "wright_priorities": [
+   "Priorities",
+   "Committee to Elect Greg Wright",
+   "2026-10",
+   "https://wrightforhse.com/priorities/"
+  ],
+  "wright_ref": [
+   "The November referendum",
+   "Committee to Elect Greg Wright",
+   "2026-10",
+   "https://wrightforhse.com/referendum/"
+  ],
+  "wright_endorse": [
+   "Endorsements",
+   "Committee to Elect Greg Wright",
+   "2026-10",
+   "https://wrightforhse.com/endorsements/"
+  ],
+  "lif_keck": [
+   "Podcast: HSE school board candidate Cyrus Keck discusses teachers, finances and board leadership",
+   "LarryInFishers.com",
+   "2026-09-20",
+   "https://www.larryinfishers.com/2026/09/20/podcast-hse-school-board-candidate-cyrus-keck-discusses-teachers-finances-and-board-leadership/"
+  ],
+  "lif_perry_file": [
+   "Josh Perry files for HSE School Board District 2",
+   "LarryInFishers.com",
+   "2026-06-01",
+   "https://www.larryinfishers.com/2026/06/01/josh-perry-files-for-hse-school-board-district-2/"
+  ],
+  "lif_perry_pod": [
+   "Podcast: Josh Perry discusses HSE school board candidacy, teacher retention and collaboration",
+   "LarryInFishers.com",
+   "2026-09-20",
+   "https://www.larryinfishers.com/2026/09/20/podcast-josh-perry-discusses-hse-school-board-candidacy-teacher-retention-and-collaboration/"
+  ],
+  "lif_fadness_perry": [
+   "Fadness endorses Josh Perry in HSE School Board race",
+   "LarryInFishers.com",
+   "2026-09-16",
+   "https://www.larryinfishers.com/2026/09/16/josh-perry-hse-school-board-fadness-endorsement/"
+  ],
+  "perry_site": [
+   "Josh Perry for HSE District 2",
+   "Friends of Josh Perry",
+   "2026-10",
+   "https://www.perryforhse.com/"
+  ],
+  "lif_turk": [
+   "HSE School Board candidate David Turk says special education experience drove his campaign",
+   "LarryInFishers.com",
+   "2026-10-09",
+   "https://www.larryinfishers.com/2026/10/09/hse-school-board-candidate-david-turk-says-special-education-experience-drove-his-campaign/"
+  ],
+  "reporter_turk_file": [
+   "David Turk files to run for HSE School Board District 3",
+   "The Reporter",
+   "2026-05-27",
+   "https://readthereporter.com/david-turk-files-to-run-for-hse-school-board-district-3/"
+  ],
+  "reporter_turk_fadness": [
+   "Fishers Mayor Scott Fadness endorses David Turk for HSE School Board District 3",
+   "The Reporter",
+   "2026-10-06",
+   "https://readthereporter.com/fishers-mayor-scott-fadness-endorses-david-turk-for-hse-school-board-district-3/"
+  ],
+  "turk_site": [
+   "David Turk for HSE School Board District 3",
+   "David Turk campaign",
+   "2026-10",
+   "https://turkforhse.com/"
+  ],
+  "lif_fulhart": [
+   "Former HSE board president Michelle Fulhart seeks return in District 3",
+   "LarryInFishers.com",
+   "2026-10-04",
+   "https://www.larryinfishers.com/2026/10/04/former-hse-board-president-michelle-fulhart-seeks-return-in-district-3/"
+  ],
+  "lif_braden": [
+   "Stephanie Braden Enters Race for Hamilton Southeastern School Board, District 4",
+   "LarryInFishers.com",
+   "2026-06-09",
+   "https://www.larryinfishers.com/2026/06/09/stephanie-braden-enters-race-for-hamilton-southeastern-school-board-district-4/"
+  ]
+ }
+}

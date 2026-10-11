@@ -1,342 +1,533 @@
 {
- "race_id": "in-school-board-vanderburgh",
- "reviewed": "2026-10-10",
- "status": "draft",
- "status_note": "Pending editorial review.",
- "office": "@in_school_board",
- "incumbent": null,
- "race_context": [
-  "The Evansville Vanderburgh School Corporation (EVSC) serves Evansville and Vanderburgh County; WNIN describes it as serving more than 21,000 students and as Indiana's third-largest district {wnin_officers}. The district lists 22 elementary, 8 middle and 7 high schools plus district-wide programs {evsc_board}.",
-  "The board has seven members, elected by voters across Evansville and Vanderburgh County {wnin_officers}. Seats are designated by district (District 1, District 2, etc.) or at large, and WNIN reports that voters across the county vote in the District 2 race {wnin_d2_challengers}.",
-  "Board president Mike Duckworth said the board hired superintendent Darla Hoover, who started in July 2025 {wnin_d2_incumbents}. In January 2026 the board chose Duckworth as president, Melissa Moore as vice president and Amy DeVries as secretary {wnin_officers}.",
-  "Four seats are on the 2026 ballot, with 10 candidates on the ballot after the June 18 filing deadline {wnin_ballot}. The state list shows District 2 as 'vote for 1', but WNIN reports that two District 2 seats are up and that voters will choose two of the four District 2 candidates {wnin_ballot}{wnin_d2_challengers}.",
-  "District 1: incumbent Chris Kiefer is unopposed {wnin_ballot}. District 2: incumbents Mike Duckworth and David Hollingsworth are running for reelection against Lindsey Patterson and Ken Colbert {wnin_d2_challengers}. At Large: incumbent Melissa Moore faces Steve Ary, Andy Guarino, Brian Murphy and Alan Goad {wnin_atlarge}.",
-  "Partisan labels: Steve Ary is the only candidate listed with a party (Republican) and WNIN describes him as the first partisan EVSC board candidate under a new state law; the other nine filed as nonpartisan {wnin_ballot}{wnin_atlarge}. A second Republican filer, Ryan Owens, withdrew during the grace period {wnin_ballot}.",
-  "Safety audit (December 2025): on Dec. 15, 2025 the board approved a $215,000 district-wide security assessment of all 40 EVSC buildings, policies and crisis procedures by National School Safety and Security Services, the first district-wide study since 2008 {wnin_audit}.",
-  "Property-tax law (2025–2026): WNIN reported that EVSC 'will lose millions of dollars' under the 2025 property-tax law (SEA 1) {wnin_atlarge}. This guide did not find an EVSC budget document stating the amount.",
-  "Student devices (2025–2026): candidates discussed the state-required limits on cell phones and other devices in schools {wnin_atlarge}{wnin_d2_challengers}.",
-  "Forums and interviews: WNIN published interviews with the at-large candidates (Sept. 23), the District 2 incumbents (Oct. 1) and the District 2 challengers (Oct. 2) {wnin_atlarge}{wnin_d2_incumbents}{wnin_d2_challengers}. This guide did not find a 2026 candidate forum or newspaper questionnaire for this race.",
-  "Key differences: at-large challengers differ on priorities, from safety and device limits (Ary, Goad) to career education and employee health benefits (Murphy) and enrollment and teacher pay (Guarino) {wnin_atlarge}. In District 2 the incumbents point to their records, while Colbert criticizes the board on transparency and Patterson says she would first learn how the board works {wnin_d2_incumbents}{wnin_d2_challengers}."
- ],
- "candidates": [
-  {
-   "ballot_name": "Christopher A. Kiefer",
-   "seat": "District 1",
-   "summary": "Incumbent District 1 trustee running unopposed {wnin_ballot}.",
-   "website": null,
-   "background": [
-    "BallotReady lists him as faculty program chair for criminal justice at Ivy Tech Community College {ballotready_kiefer}.",
-    "BallotReady lists his current District 1 term as running through Dec. 31, 2026, and shows him as a candidate for the same seat in 2022 {ballotready_kiefer}."
-   ],
-   "path_to_ballot": [
-    "Filed as a nonpartisan candidate and has no opponent on the ballot {wnin_ballot}{in_list}."
-   ],
-   "positions": [
-    {"topic": "School safety", "items": ["Speaking about the district-wide security study in December 2025, he said its aim is to prevent incidents and that a comprehensive study helps the district respond quickly if a serious situation occurs {wnin_audit}."]}
-   ],
-   "on_incumbent": [
-    "Is a current board member {evsc_board}."
-   ],
-   "plans": [],
-   "endorsements_finance": [],
-   "gaps": [
-    "No 2026 interview, questionnaire or campaign website found; WNIN's candidate coverage did not profile the uncontested District 1 race.",
-    "Seen only in search snippets (unverified): a Courier & Press report that the withdrawn Republican filer was running for District 1.",
-    "No campaign finance reports found."
-   ]
-  },
-  {
-   "ballot_name": "David Hollingsworth",
-   "seat": "District 2",
-   "summary": "Incumbent District 2 trustee seeking a third term {wnin_d2_incumbents}.",
-   "website": null,
-   "background": [
-    "Retired ironworker who also drives a school bus part-time for EVSC {wnin_d2_incumbents}.",
-    "PTA area council president and former vice president; he says he has received PTA awards, including a lifetime achievement award {wnin_d2_incumbents}.",
-    "Has served two terms (eight years) on the board {wnin_d2_challengers}."
-   ],
-   "path_to_ballot": [
-    "Filed as a nonpartisan candidate {wnin_ballot}{in_list}."
-   ],
-   "positions": [
-    {"topic": "School safety", "items": ["Says safety is his first priority {wnin_d2_incumbents}."]},
-    {"topic": "Academics", "items": ["Wants reading scores to rise; says the district has met some goals but must improve {wnin_d2_incumbents}."]},
-    {"topic": "Transparency & community input", "items": ["Says he wants to keep politics out of schools and does not want to be labeled as one party's member {wnin_d2_incumbents}."]}
-   ],
-   "on_incumbent": [
-    "Is a current board member {evsc_board}.",
-    "Says the board has 'achieved some of our goals' but 'we need to get better,' and that his record 'speaks for itself' {wnin_d2_incumbents}."
-   ],
-   "plans": [
-    "Says he would continue his PTA work and use the board seat to talk with students, staff and bus drivers in district buildings {wnin_d2_incumbents}."
-   ],
-   "endorsements_finance": [],
-   "gaps": [
-    "WNIN's interview did not cover his views on the budget, the 2025 property-tax law, staffing or the device policy.",
-    "No campaign website, endorsements or campaign finance reports found."
-   ]
-  },
-  {
-   "ballot_name": "Ken Colbert",
-   "seat": "District 2",
-   "summary": "Challenger for one of the two District 2 seats; a local business owner who has criticized the board on transparency {wnin_d2_challengers}.",
-   "website": null,
-   "background": [
-    "Owns a consignment shop in Evansville and co-founded the Indiana Freedom Caucus, according to WNIN {wnin_d2_challengers}.",
-    "Co-hosts the podcast 'Republicans in Bad Standing' {wnin_d2_challengers}."
-   ],
-   "path_to_ballot": [
-    "Filed as a nonpartisan candidate {wnin_ballot}{in_list}."
-   ],
-   "positions": [
-    {"topic": "Transparency & community input", "items": [
-     "WNIN reported that he criticizes the board for lacking transparency and says his public-records requests have gone unanswered for years {wnin_d2_challengers}.",
-     "In posts signed with his name on the Telegram channel 'ColbertReport', he says he backs 'Complete Transparency and a #studentfirst agenda' and says the current administration is not transparent about federal funding {colbert_telegram}."
-    ]},
-    {"topic": "Academics", "items": ["In a post on the same channel, he linked falling ACT scores to the board's past curriculum votes {colbert_telegram}."]}
-   ],
-   "on_incumbent": [
-    "WNIN reported he argued that incumbents benefit from name recognition {wnin_d2_challengers}.",
-    "His channel's posts urge voters to replace current board members whom he calls 'career politicians' {colbert_telegram}."
-   ],
-   "plans": [],
-   "endorsements_finance": [],
-   "gaps": [
-    "Did not respond to WNIN's interview requests, per WNIN; positions here come from WNIN's summary and his own Telegram posts, which carry no calendar dates.",
-    "WNIN's article also reports that he and his podcast co-host were removed from the state and county Republican Party and that he faces a recent bench warrant related to an attempt to file as a Republican in another race; this guide could not confirm the details from court or party records.",
-    "No campaign website, endorsements or campaign finance reports found."
-   ]
-  },
-  {
-   "ballot_name": "Lindsey Patterson",
-   "seat": "District 2",
-   "summary": "First-time candidate and EVSC graduate challenging for one of the two District 2 seats {wnin_d2_challengers}.",
-   "website": null,
-   "background": [
-    "Born and raised in Evansville; attended Delaware, Evans and North schools {wnin_d2_challengers}.",
-    "Parent of students in the district, including a North High School senior {wnin_d2_challengers}."
-   ],
-   "path_to_ballot": [
-    "Filed as a nonpartisan candidate {wnin_ballot}{in_list}."
-   ],
-   "positions": [
-    {"topic": "School safety", "items": ["Called the district's security study a good idea {wnin_d2_challengers}."]},
-    {"topic": "Curriculum & library policy", "items": ["On the state-required device policy, said the district's 'hands are probably tied a little bit' because it is state law {wnin_d2_challengers}."]},
-    {"topic": "Transparency & community input", "items": ["Says she is running nonpartisan because 'politics needs to stay out of public education' {wnin_d2_challengers}."]}
-   ],
-   "on_incumbent": [
-    "Told WNIN she needs more information before forming opinions on specific board policies {wnin_d2_challengers}."
-   ],
-   "plans": [
-    "Her first priority would be learning how the board works and getting to know the superintendent and community {wnin_d2_challengers}."
-   ],
-   "endorsements_finance": [],
-   "gaps": [
-    "No stated positions found on the budget, the 2025 property-tax law, staffing or academics.",
-    "No campaign website, endorsements or campaign finance reports found."
-   ]
-  },
-  {
-   "ballot_name": "Michael J. Duckworth, Sr.",
-   "seat": "District 2",
-   "summary": "Incumbent District 2 trustee and board president, with 26 non-consecutive years on the board {wnin_officers}{wnin_d2_incumbents}.",
-   "website": null,
-   "background": [
-    "Retired from the sheriff's department in 1997, later worked as a local representative for U.S. Senators Richard Lugar and Dan Coats, and held city posts including water superintendent {wnin_d2_incumbents}.",
-    "Was a Little League commissioner for 35 years {wnin_d2_incumbents}.",
-    "Chosen board president in January 2026, his sixth time in the role {wnin_officers}."
-   ],
-   "path_to_ballot": [
-    "Filed as a nonpartisan candidate {wnin_ballot}{in_list}."
-   ],
-   "positions": [
-    {"topic": "Budget & taxes", "items": ["Describes the district's budget as 'about a third of a billion dollar budget' and says careful use of taxpayer money is important {wnin_d2_incumbents}."]},
-    {"topic": "School safety", "items": ["Calls safety a 'main priority' and says the district works with city and county police {wnin_d2_incumbents}."]},
-    {"topic": "Facilities", "items": [
-     "Says the district is studying its facilities so it can spend money appropriately, and cites the Bosse High School overpass and athletic upgrades as accomplishments {wnin_d2_incumbents}.",
-     "Wants to study redistricting and bus routes, saying early-morning and late-afternoon rides in the dark are 'dangerous' {wnin_d2_incumbents}."
-    ]},
-    {"topic": "Academics", "items": ["Points to the district's focus on students reading by third grade {wnin_d2_incumbents}."]},
-    {"topic": "Transparency & community input", "items": ["Says he has always run nonpartisan and that politics should be kept separate from the board; says vacancies should be filled by the board rather than party committees {wnin_d2_incumbents}."]}
-   ],
-   "on_incumbent": [
-    "Is a current board member {evsc_board}.",
-    "Says the board's main job is hiring the superintendent and setting policy, and that he does not micromanage {wnin_d2_incumbents}."
-   ],
-   "plans": [
-    "Wants to review technology policies in light of state cell-phone rules {wnin_d2_incumbents}."
-   ],
-   "endorsements_finance": [],
-   "gaps": [
-    "No stated position found on the 2025 property-tax law (SEA 1) or a referendum.",
-    "No campaign website, endorsements or campaign finance reports found."
-   ]
-  },
-  {
-   "ballot_name": "Alan Wayne Goad",
-   "seat": "At Large",
-   "summary": "Military veteran and maintenance supervisor challenging the at-large incumbent {wnin_atlarge}.",
-   "website": null,
-   "background": [
-    "Served 14 years in the military; works as a maintenance tech supervisor for a property management company {wnin_atlarge}."
-   ],
-   "path_to_ballot": [
-    "Filed as a nonpartisan candidate {wnin_ballot}{in_list}."
-   ],
-   "positions": [
-    {"topic": "School safety", "items": ["Says 'District security studies I'm all for and agree with' and raised concerns about safety in special-needs classrooms {wnin_atlarge}."]},
-    {"topic": "Teachers & staff", "items": ["Wants better pay and support for teachers, who he says 'aren't being taken care of good enough' {wnin_atlarge}."]},
-    {"topic": "Curriculum & library policy", "items": ["Supports the cell phone and gaming device ban, with medical exceptions {wnin_atlarge}."]}
-   ],
-   "on_incumbent": [
-    "Says families feel unheard and that some trustees 'weren't paying attention' {wnin_atlarge}."
-   ],
-   "plans": [],
-   "endorsements_finance": [],
-   "gaps": [
-    "Answered WNIN's questions by email; no recorded interview, campaign website or other coverage found.",
-    "No stated positions found on the budget or the 2025 property-tax law.",
-    "No endorsements or campaign finance reports found."
-   ]
-  },
-  {
-   "ballot_name": "Andy Guarino",
-   "seat": "At Large",
-   "summary": "Former EVSC trustee and retired principal seeking to return to the board {wnin_atlarge}.",
-   "website": null,
-   "background": [
-    "Was a principal for 17 years and an assistant principal for 10; holds master's degrees in adult education and special education {wnin_atlarge}.",
-    "Served on the EVSC board for about nine years, leaving four years ago; has served on the EVSC Foundation board and as president of Evansville Retired Teachers {wnin_atlarge}.",
-    "Has worked as a substitute in EVSC for more than 115 days over the past four years {wnin_atlarge}."
-   ],
-   "path_to_ballot": [
-    "Filed as a nonpartisan candidate {wnin_ballot}{in_list}."
-   ],
-   "positions": [
-    {"topic": "Curriculum & library policy", "items": ["Lists the cell phone policy as his first priority {wnin_atlarge}."]},
-    {"topic": "Enrollment & school choice", "items": ["Wants to 'make sure we don't lose any kids' amid competition from vouchers and charter schools {wnin_atlarge}."]},
-    {"topic": "Teachers & staff", "items": ["Points to past board action removing a $60,000 salary cap, which he calls 'the biggest pay raise EVSC had ever given teachers at one time' {wnin_atlarge}."]},
-    {"topic": "School safety", "items": ["Supports the outside security review, saying 'I thought it was a good study' {wnin_atlarge}."]}
-   ],
-   "on_incumbent": [
-    "Calls incumbent Melissa Moore 'a very good person' and says he is running to return to the board, not against her {wnin_atlarge}."
-   ],
-   "plans": [],
-   "endorsements_finance": [],
-   "gaps": [
-    "WNIN's article gives his past tenure both as two terms plus a partial year and as 'nine years' without reconciling them.",
-    "No stated positions found on the budget or the 2025 property-tax law.",
-    "No campaign website, endorsements or campaign finance reports found."
-   ]
-  },
-  {
-   "ballot_name": "Brian Murphy",
-   "seat": "At Large",
-   "summary": "Home builder and Marine Corps veteran focused on career education and employee benefits {wnin_atlarge}.",
-   "website": null,
-   "background": [
-    "Has lived in Evansville since 2000; served in the U.S. Marine Corps; runs a family home-building business and has done real estate development {wnin_atlarge}.",
-    "Taught career trades in the Dallas area and works on EVSC construction projects {wnin_atlarge}."
-   ],
-   "path_to_ballot": [
-    "Filed as a nonpartisan candidate {wnin_ballot}{in_list}."
-   ],
-   "positions": [
-    {"topic": "Budget & taxes", "items": ["Says the 2025 property-tax law (SEA 1) will 'severely limit and restrict' school funding and expects referendums to be the likely response {wnin_atlarge}."]},
-    {"topic": "Academics", "items": [
-     "Wants to expand career education and the Southwest Indiana Career and Technical Center {wnin_atlarge}.",
-     "Criticizes IREAD and ILEARN testing for pushing teachers to 'teach to a test' {wnin_atlarge}."
-    ]},
-    {"topic": "Teachers & staff", "items": ["Wants equal health-care options for all EVSC employees, including custodians and paraprofessionals {wnin_atlarge}."]},
-    {"topic": "School safety", "items": ["Supports the comprehensive safety study {wnin_atlarge}."]},
-    {"topic": "Curriculum & library policy", "items": ["Supports no screens in classrooms and would extend limits to Chromebooks {wnin_atlarge}."]}
-   ],
-   "on_incumbent": [
-    "Says he offers 'a fresh perspective' and that board members may not fully understand construction projects {wnin_atlarge}."
-   ],
-   "plans": [
-    "Wants the board to listen more to students {wnin_atlarge}."
-   ],
-   "endorsements_finance": [],
-   "gaps": [
-    "No campaign website, endorsements or campaign finance reports found."
-   ]
-  },
-  {
-   "ballot_name": "Melissa Cheri Moore",
-   "seat": "At Large",
-   "summary": "Incumbent at-large trustee and board vice president, first elected in 2022 {wnin_officers}.",
-   "website": null,
-   "background": [
-    "Navy veteran and life coach; Evansville native and Bosse High School graduate {wnin_atlarge}.",
-    "Elected to the board in 2022; board vice president since January 2026 {wnin_officers}."
-   ],
-   "path_to_ballot": [
-    "Filed as a nonpartisan candidate {wnin_ballot}{in_list}."
-   ],
-   "positions": [
-    {"topic": "Academics", "items": ["Lists student success and literacy as priorities, citing 'increasing of literacy scores' {wnin_atlarge}."]},
-    {"topic": "Transparency & community input", "items": ["Says she objected by email to a short graduation ceremony at one school and that this year's ceremonies were longer and more inclusive {wnin_atlarge}."]}
-   ],
-   "on_incumbent": [
-    "Is a current board member {evsc_board}.",
-    "Says she is running again 'because the work is not done' and that new members need time to get acclimated to the role {wnin_atlarge}."
-   ],
-   "plans": [],
-   "endorsements_finance": [
-    "WNIN reported that the county Republican Party has criticized county Democrats for supporting her {wnin_atlarge}."
-   ],
-   "gaps": [
-    "WNIN's interview did not cover her views on the budget, the 2025 property-tax law, safety or staffing.",
-    "No campaign website or campaign finance reports found."
-   ]
-  },
-  {
-   "ballot_name": "Steven (Steve) Ary",
-   "seat": "At Large",
-   "summary": "Republican challenger for the at-large seat; WNIN calls him the first partisan EVSC board candidate {wnin_ballot}.",
-   "website": null,
-   "background": [
-    "Says he is a foster parent whose children attend EVSC schools {wnin_atlarge}.",
-    "Says he previously ran for county party chairman {wnin_atlarge}."
-   ],
-   "path_to_ballot": [
-    "Filed as a Republican under a new state law allowing party labels in school board races {wnin_ballot}{in_list}.",
-    "Explaining the label, he said, 'I believe it's important for people to know where you stand' {wnin_atlarge}."
-   ],
-   "positions": [
-    {"topic": "School safety", "items": ["Lists safety as his top priority and wants policy based on the district's safety audit; supports weapons detection systems while saying 'It's not a solution to everything' {wnin_atlarge}."]},
-    {"topic": "Curriculum & library policy", "items": [
-     "Says he is '100-percent for the banning of those devices' {wnin_atlarge}.",
-     "Wants 'social issues' kept out of classrooms {wnin_atlarge}."
-    ]},
-    {"topic": "Academics", "items": ["Says foster children often arrive unable to read and 'We have to do better' {wnin_atlarge}."]}
-   ],
-   "on_incumbent": [
-    "Criticizes the status quo, saying 'if you always do what you've always done, you'll always get what you've always got' {wnin_atlarge}."
-   ],
-   "plans": [
-    "Wants to help foster children and students facing bullying, academic struggles and safety issues {wnin_atlarge}."
-   ],
-   "endorsements_finance": [
-    "County Republican Chair Kyhle Moers said the party plans to support his campaign with door knocking, phone banking and mail {wnin_ballot}."
-   ],
-   "gaps": [
-    "How the party label was obtained (petition or party certification) was not described in sources found.",
-    "No stated positions found on the budget or the 2025 property-tax law.",
-    "No campaign website or campaign finance reports found."
-   ]
+  "race_id": "in-school-board-vanderburgh",
+  "reviewed": "2026-10-10",
+  "status": "draft",
+  "status_note": "Pending editorial review.",
+  "office": "@in_school_board",
+  "incumbent": null,
+  "race_context": [
+    "The Evansville Vanderburgh School Corporation (EVSC) serves Evansville and Vanderburgh County; WNIN describes it as serving more than 21,000 students and as Indiana's third-largest district {wnin_officers}. The district lists 22 elementary, 8 middle and 7 high schools plus district-wide programs {evsc_board}.",
+    "The board has seven members, elected by voters across Evansville and Vanderburgh County {wnin_officers}. Seats are designated by district (District 1, District 2, etc.) or at large, and WNIN reports that voters across the county vote in the District 2 race {wnin_d2_challengers}.",
+    "Board president Mike Duckworth said the board hired superintendent Darla Hoover, who started in July 2025 {wnin_d2_incumbents}. In January 2026 the board chose Duckworth as president, Melissa Moore as vice president and Amy DeVries as secretary {wnin_officers}.",
+    "Four seats are on the 2026 ballot, with 10 candidates on the ballot after the June 18 filing deadline {wnin_ballot}. The state list shows District 2 as 'vote for 1', but WNIN reports that two District 2 seats are up and that voters will choose two of the four District 2 candidates {wnin_ballot}{wnin_d2_challengers}.",
+    "District 1: incumbent Chris Kiefer is unopposed {wnin_ballot}. District 2: incumbents Mike Duckworth and David Hollingsworth are running for reelection against Lindsey Patterson and Ken Colbert {wnin_d2_challengers}. At Large: incumbent Melissa Moore faces Steve Ary, Andy Guarino, Brian Murphy and Alan Goad {wnin_atlarge}.",
+    "Partisan labels: Steve Ary is the only candidate listed with a party (Republican) and WNIN describes him as the first partisan EVSC board candidate under a new state law; the other nine filed as nonpartisan {wnin_ballot}{wnin_atlarge}. A second Republican filer, Ryan Owens, withdrew during the grace period {wnin_ballot}.",
+    "Safety audit (December 2025): on Dec. 15, 2025 the board approved a $215,000 district-wide security assessment of all 40 EVSC buildings, policies and crisis procedures by National School Safety and Security Services, the first district-wide study since 2008 {wnin_audit}.",
+    "Property-tax law (2025–2026): WNIN reported that EVSC 'will lose millions of dollars' under the 2025 property-tax law (SEA 1) {wnin_atlarge}. This guide did not find an EVSC budget document stating the amount.",
+    "Student devices (2025–2026): candidates discussed the state-required limits on cell phones and other devices in schools {wnin_atlarge}{wnin_d2_challengers}.",
+    "Forums and interviews: WNIN published interviews with the at-large candidates (Sept. 23), the District 2 incumbents (Oct. 1) and the District 2 challengers (Oct. 2) {wnin_atlarge}{wnin_d2_incumbents}{wnin_d2_challengers}. This guide did not find a 2026 candidate forum or newspaper questionnaire for this race.",
+    "Key differences: at-large challengers differ on priorities, from safety and device limits (Ary, Goad) to career education and employee health benefits (Murphy) and enrollment and teacher pay (Guarino) {wnin_atlarge}. In District 2 the incumbents point to their records, while Colbert criticizes the board on transparency and Patterson says she would first learn how the board works {wnin_d2_incumbents}{wnin_d2_challengers}."
+  ],
+  "candidates": [
+    {
+      "ballot_name": "Christopher A. Kiefer",
+      "seat": "District 1",
+      "summary": "Incumbent District 1 trustee running unopposed {wnin_ballot}.",
+      "website": null,
+      "background": [
+        "BallotReady lists him as faculty program chair for criminal justice at Ivy Tech Community College {ballotready_kiefer}.",
+        "BallotReady lists his current District 1 term as running through Dec. 31, 2026, and shows him as a candidate for the same seat in 2022 {ballotready_kiefer}."
+      ],
+      "path_to_ballot": [
+        "Filed as a nonpartisan candidate and has no opponent on the ballot {wnin_ballot}{in_list}."
+      ],
+      "positions": [
+        {
+          "topic": "School safety",
+          "items": [
+            "Speaking about the district-wide security study in December 2025, he said its aim is to prevent incidents and that a comprehensive study helps the district respond quickly if a serious situation occurs {wnin_audit}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Is a current board member {evsc_board}."
+      ],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "No 2026 interview, questionnaire or campaign website found; WNIN's candidate coverage did not profile the uncontested District 1 race.",
+        "Seen only in search snippets (unverified): a Courier & Press report that the withdrawn Republican filer was running for District 1.",
+        "No campaign finance reports found."
+      ]
+    },
+    {
+      "ballot_name": "David Hollingsworth",
+      "seat": "District 2",
+      "summary": "Incumbent District 2 trustee seeking a third term {wnin_d2_incumbents}.",
+      "website": null,
+      "background": [
+        "Retired ironworker who also drives a school bus part-time for EVSC {wnin_d2_incumbents}.",
+        "PTA area council president and former vice president; he says he has received PTA awards, including a lifetime achievement award {wnin_d2_incumbents}.",
+        "Has served two terms (eight years) on the board {wnin_d2_challengers}."
+      ],
+      "path_to_ballot": [
+        "Filed as a nonpartisan candidate {wnin_ballot}{in_list}."
+      ],
+      "positions": [
+        {
+          "topic": "School safety",
+          "items": [
+            "Says safety is his first priority {wnin_d2_incumbents}."
+          ]
+        },
+        {
+          "topic": "Academics",
+          "items": [
+            "Wants reading scores to rise; says the district has met some goals but must improve {wnin_d2_incumbents}."
+          ]
+        },
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "Says he wants to keep politics out of schools and does not want to be labeled as one party's member {wnin_d2_incumbents}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Is a current board member {evsc_board}.",
+        "Says the board has 'achieved some of our goals' but 'we need to get better,' and that his record 'speaks for itself' {wnin_d2_incumbents}."
+      ],
+      "plans": [
+        "Says he would continue his PTA work and use the board seat to talk with students, staff and bus drivers in district buildings {wnin_d2_incumbents}."
+      ],
+      "endorsements_finance": [],
+      "gaps": [
+        "WNIN's interview did not cover his views on the budget, the 2025 property-tax law, staffing or the device policy.",
+        "No campaign website, endorsements or campaign finance reports found."
+      ]
+    },
+    {
+      "ballot_name": "Ken Colbert",
+      "seat": "District 2",
+      "summary": "Challenger for one of the two District 2 seats; a local business owner who has criticized the board on transparency {wnin_d2_challengers}.",
+      "website": null,
+      "background": [
+        "Owns a consignment shop in Evansville and co-founded the Indiana Freedom Caucus, according to WNIN {wnin_d2_challengers}.",
+        "Co-hosts the podcast 'Republicans in Bad Standing' {wnin_d2_challengers}."
+      ],
+      "path_to_ballot": [
+        "Filed as a nonpartisan candidate {wnin_ballot}{in_list}."
+      ],
+      "positions": [
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "WNIN reported that he criticizes the board for lacking transparency and says his public-records requests have gone unanswered for years {wnin_d2_challengers}.",
+            "In posts signed with his name on the Telegram channel 'ColbertReport', he says he backs 'Complete Transparency and a #studentfirst agenda' and says the current administration is not transparent about federal funding {colbert_telegram}."
+          ]
+        },
+        {
+          "topic": "Academics",
+          "items": [
+            "In a post on the same channel, he linked falling ACT scores to the board's past curriculum votes {colbert_telegram}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "WNIN reported he argued that incumbents benefit from name recognition {wnin_d2_challengers}.",
+        "His channel's posts urge voters to replace current board members whom he calls 'career politicians' {colbert_telegram}."
+      ],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "Did not respond to WNIN's interview requests, per WNIN; positions here come from WNIN's summary and his own Telegram posts, which carry no calendar dates.",
+        "No campaign website, endorsements or campaign finance reports found."
+      ]
+    },
+    {
+      "ballot_name": "Lindsey Patterson",
+      "seat": "District 2",
+      "summary": "First-time candidate and EVSC graduate challenging for one of the two District 2 seats {wnin_d2_challengers}.",
+      "website": null,
+      "background": [
+        "Born and raised in Evansville; attended Delaware, Evans and North schools {wnin_d2_challengers}.",
+        "Parent of students in the district, including a North High School senior {wnin_d2_challengers}."
+      ],
+      "path_to_ballot": [
+        "Filed as a nonpartisan candidate {wnin_ballot}{in_list}."
+      ],
+      "positions": [
+        {
+          "topic": "School safety",
+          "items": [
+            "Called the district's security study a good idea {wnin_d2_challengers}."
+          ]
+        },
+        {
+          "topic": "Curriculum & library policy",
+          "items": [
+            "On the state-required device policy, said the district's 'hands are probably tied a little bit' because it is state law {wnin_d2_challengers}."
+          ]
+        },
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "Says she is running nonpartisan because 'politics needs to stay out of public education' {wnin_d2_challengers}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Told WNIN she needs more information before forming opinions on specific board policies {wnin_d2_challengers}."
+      ],
+      "plans": [
+        "Her first priority would be learning how the board works and getting to know the superintendent and community {wnin_d2_challengers}."
+      ],
+      "endorsements_finance": [],
+      "gaps": [
+        "No stated positions found on the budget, the 2025 property-tax law, staffing or academics.",
+        "No campaign website, endorsements or campaign finance reports found."
+      ]
+    },
+    {
+      "ballot_name": "Michael J. Duckworth, Sr.",
+      "seat": "District 2",
+      "summary": "Incumbent District 2 trustee and board president, with 26 non-consecutive years on the board {wnin_officers}{wnin_d2_incumbents}.",
+      "website": null,
+      "background": [
+        "Retired from the sheriff's department in 1997, later worked as a local representative for U.S. Senators Richard Lugar and Dan Coats, and held city posts including water superintendent {wnin_d2_incumbents}.",
+        "Was a Little League commissioner for 35 years {wnin_d2_incumbents}.",
+        "Chosen board president in January 2026, his sixth time in the role {wnin_officers}."
+      ],
+      "path_to_ballot": [
+        "Filed as a nonpartisan candidate {wnin_ballot}{in_list}."
+      ],
+      "positions": [
+        {
+          "topic": "Budget & taxes",
+          "items": [
+            "Describes the district's budget as 'about a third of a billion dollar budget' and says careful use of taxpayer money is important {wnin_d2_incumbents}."
+          ]
+        },
+        {
+          "topic": "School safety",
+          "items": [
+            "Calls safety a 'main priority' and says the district works with city and county police {wnin_d2_incumbents}."
+          ]
+        },
+        {
+          "topic": "Facilities",
+          "items": [
+            "Says the district is studying its facilities so it can spend money appropriately, and cites the Bosse High School overpass and athletic upgrades as accomplishments {wnin_d2_incumbents}.",
+            "Wants to study redistricting and bus routes, saying early-morning and late-afternoon rides in the dark are 'dangerous' {wnin_d2_incumbents}."
+          ]
+        },
+        {
+          "topic": "Academics",
+          "items": [
+            "Points to the district's focus on students reading by third grade {wnin_d2_incumbents}."
+          ]
+        },
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "Says he has always run nonpartisan and that politics should be kept separate from the board; says vacancies should be filled by the board rather than party committees {wnin_d2_incumbents}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Is a current board member {evsc_board}.",
+        "Says the board's main job is hiring the superintendent and setting policy, and that he does not micromanage {wnin_d2_incumbents}."
+      ],
+      "plans": [
+        "Wants to review technology policies in light of state cell-phone rules {wnin_d2_incumbents}."
+      ],
+      "endorsements_finance": [],
+      "gaps": [
+        "No stated position found on the 2025 property-tax law (SEA 1) or a referendum.",
+        "No campaign website, endorsements or campaign finance reports found."
+      ]
+    },
+    {
+      "ballot_name": "Alan Wayne Goad",
+      "seat": "At Large",
+      "summary": "Military veteran and maintenance supervisor challenging the at-large incumbent {wnin_atlarge}.",
+      "website": null,
+      "background": [
+        "Served 14 years in the military; works as a maintenance tech supervisor for a property management company {wnin_atlarge}."
+      ],
+      "path_to_ballot": [
+        "Filed as a nonpartisan candidate {wnin_ballot}{in_list}."
+      ],
+      "positions": [
+        {
+          "topic": "School safety",
+          "items": [
+            "Says 'District security studies I'm all for and agree with' and raised concerns about safety in special-needs classrooms {wnin_atlarge}."
+          ]
+        },
+        {
+          "topic": "Teachers & staff",
+          "items": [
+            "Wants better pay and support for teachers, who he says 'aren't being taken care of good enough' {wnin_atlarge}."
+          ]
+        },
+        {
+          "topic": "Curriculum & library policy",
+          "items": [
+            "Supports the cell phone and gaming device ban, with medical exceptions {wnin_atlarge}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Says families feel unheard and that some trustees 'weren't paying attention' {wnin_atlarge}."
+      ],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "Answered WNIN's questions by email; no recorded interview, campaign website or other coverage found.",
+        "No stated positions found on the budget or the 2025 property-tax law.",
+        "No endorsements or campaign finance reports found."
+      ]
+    },
+    {
+      "ballot_name": "Andy Guarino",
+      "seat": "At Large",
+      "summary": "Former EVSC trustee and retired principal seeking to return to the board {wnin_atlarge}.",
+      "website": null,
+      "background": [
+        "Was a principal for 17 years and an assistant principal for 10; holds master's degrees in adult education and special education {wnin_atlarge}.",
+        "Served on the EVSC board for about nine years, leaving four years ago; has served on the EVSC Foundation board and as president of Evansville Retired Teachers {wnin_atlarge}.",
+        "Has worked as a substitute in EVSC for more than 115 days over the past four years {wnin_atlarge}."
+      ],
+      "path_to_ballot": [
+        "Filed as a nonpartisan candidate {wnin_ballot}{in_list}."
+      ],
+      "positions": [
+        {
+          "topic": "Curriculum & library policy",
+          "items": [
+            "Lists the cell phone policy as his first priority {wnin_atlarge}."
+          ]
+        },
+        {
+          "topic": "Enrollment & school choice",
+          "items": [
+            "Wants to 'make sure we don't lose any kids' amid competition from vouchers and charter schools {wnin_atlarge}."
+          ]
+        },
+        {
+          "topic": "Teachers & staff",
+          "items": [
+            "Points to past board action removing a $60,000 salary cap, which he calls 'the biggest pay raise EVSC had ever given teachers at one time' {wnin_atlarge}."
+          ]
+        },
+        {
+          "topic": "School safety",
+          "items": [
+            "Supports the outside security review, saying 'I thought it was a good study' {wnin_atlarge}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Calls incumbent Melissa Moore 'a very good person' and says he is running to return to the board, not against her {wnin_atlarge}."
+      ],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "WNIN's article gives his past tenure both as two terms plus a partial year and as 'nine years' without reconciling them.",
+        "No stated positions found on the budget or the 2025 property-tax law.",
+        "No campaign website, endorsements or campaign finance reports found."
+      ]
+    },
+    {
+      "ballot_name": "Brian Murphy",
+      "seat": "At Large",
+      "summary": "Home builder and Marine Corps veteran focused on career education and employee benefits {wnin_atlarge}.",
+      "website": null,
+      "background": [
+        "Has lived in Evansville since 2000; served in the U.S. Marine Corps; runs a family home-building business and has done real estate development {wnin_atlarge}.",
+        "Taught career trades in the Dallas area and works on EVSC construction projects {wnin_atlarge}."
+      ],
+      "path_to_ballot": [
+        "Filed as a nonpartisan candidate {wnin_ballot}{in_list}."
+      ],
+      "positions": [
+        {
+          "topic": "Budget & taxes",
+          "items": [
+            "Says the 2025 property-tax law (SEA 1) will 'severely limit and restrict' school funding and expects referendums to be the likely response {wnin_atlarge}."
+          ]
+        },
+        {
+          "topic": "Academics",
+          "items": [
+            "Wants to expand career education and the Southwest Indiana Career and Technical Center {wnin_atlarge}.",
+            "Criticizes IREAD and ILEARN testing for pushing teachers to 'teach to a test' {wnin_atlarge}."
+          ]
+        },
+        {
+          "topic": "Teachers & staff",
+          "items": [
+            "Wants equal health-care options for all EVSC employees, including custodians and paraprofessionals {wnin_atlarge}."
+          ]
+        },
+        {
+          "topic": "School safety",
+          "items": [
+            "Supports the comprehensive safety study {wnin_atlarge}."
+          ]
+        },
+        {
+          "topic": "Curriculum & library policy",
+          "items": [
+            "Supports no screens in classrooms and would extend limits to Chromebooks {wnin_atlarge}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Says he offers 'a fresh perspective' and that board members may not fully understand construction projects {wnin_atlarge}."
+      ],
+      "plans": [
+        "Wants the board to listen more to students {wnin_atlarge}."
+      ],
+      "endorsements_finance": [],
+      "gaps": [
+        "No campaign website, endorsements or campaign finance reports found."
+      ]
+    },
+    {
+      "ballot_name": "Melissa Cheri Moore",
+      "seat": "At Large",
+      "summary": "Incumbent at-large trustee and board vice president, first elected in 2022 {wnin_officers}.",
+      "website": null,
+      "background": [
+        "Navy veteran and life coach; Evansville native and Bosse High School graduate {wnin_atlarge}.",
+        "Elected to the board in 2022; board vice president since January 2026 {wnin_officers}."
+      ],
+      "path_to_ballot": [
+        "Filed as a nonpartisan candidate {wnin_ballot}{in_list}."
+      ],
+      "positions": [
+        {
+          "topic": "Academics",
+          "items": [
+            "Lists student success and literacy as priorities, citing 'increasing of literacy scores' {wnin_atlarge}."
+          ]
+        },
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "Says she objected by email to a short graduation ceremony at one school and that this year's ceremonies were longer and more inclusive {wnin_atlarge}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Is a current board member {evsc_board}.",
+        "Says she is running again 'because the work is not done' and that new members need time to get acclimated to the role {wnin_atlarge}."
+      ],
+      "plans": [],
+      "endorsements_finance": [
+        "WNIN reported that the county Republican Party has criticized county Democrats for supporting her {wnin_atlarge}."
+      ],
+      "gaps": [
+        "WNIN's interview did not cover her views on the budget, the 2025 property-tax law, safety or staffing.",
+        "No campaign website or campaign finance reports found."
+      ]
+    },
+    {
+      "ballot_name": "Steven (Steve) Ary",
+      "seat": "At Large",
+      "summary": "Republican challenger for the at-large seat; WNIN calls him the first partisan EVSC board candidate {wnin_ballot}.",
+      "website": null,
+      "background": [
+        "Says he is a foster parent whose children attend EVSC schools {wnin_atlarge}.",
+        "Says he previously ran for county party chairman {wnin_atlarge}."
+      ],
+      "path_to_ballot": [
+        "Filed as a Republican under a new state law allowing party labels in school board races {wnin_ballot}{in_list}.",
+        "Explaining the label, he said, 'I believe it's important for people to know where you stand' {wnin_atlarge}."
+      ],
+      "positions": [
+        {
+          "topic": "School safety",
+          "items": [
+            "Lists safety as his top priority and wants policy based on the district's safety audit; supports weapons detection systems while saying 'It's not a solution to everything' {wnin_atlarge}."
+          ]
+        },
+        {
+          "topic": "Curriculum & library policy",
+          "items": [
+            "Says he is '100-percent for the banning of those devices' {wnin_atlarge}.",
+            "Wants 'social issues' kept out of classrooms {wnin_atlarge}."
+          ]
+        },
+        {
+          "topic": "Academics",
+          "items": [
+            "Says foster children often arrive unable to read and 'We have to do better' {wnin_atlarge}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Criticizes the status quo, saying 'if you always do what you've always done, you'll always get what you've always got' {wnin_atlarge}."
+      ],
+      "plans": [
+        "Wants to help foster children and students facing bullying, academic struggles and safety issues {wnin_atlarge}."
+      ],
+      "endorsements_finance": [
+        "County Republican Chair Kyhle Moers said the party plans to support his campaign with door knocking, phone banking and mail {wnin_ballot}."
+      ],
+      "gaps": [
+        "How the party label was obtained (petition or party certification) was not described in sources found.",
+        "No stated positions found on the budget or the 2025 property-tax law.",
+        "No campaign website or campaign finance reports found."
+      ]
+    }
+  ],
+  "sources": {
+    "wnin_ballot": [
+      "EVSC Board ballot settled: one withdrawal, one partisan candidate, nine non-partisan",
+      "WNIN",
+      "2026-06-25",
+      "https://news.wnin.org/election-2026/2026-06-25/evsc-board-ballot-settled-one-withdrawal-one-partisan-candidate-nine-non-partisan"
+    ],
+    "wnin_atlarge": [
+      "Meet the Candidates running for the at-large seat on the EVSC School Board",
+      "WNIN",
+      "2026-09-23",
+      "https://news.wnin.org/election-2026/2026-09-23/meet-the-candidates-running-for-the-at-large-seat-on-the-evsc-school-board"
+    ],
+    "wnin_d2_incumbents": [
+      "EVSC District 2 race: two challengers vs two incumbents — Duckworth and Hollingsworth",
+      "WNIN",
+      "2026-10-01",
+      "https://news.wnin.org/election-2026/2026-10-01/evsc-district-2-race-two-challengers-vs-two-incumbents-duckworth-and-hollingsworth"
+    ],
+    "wnin_d2_challengers": [
+      "EVSC District 2 race: against 34 years of incumbent tenure are two challengers",
+      "WNIN",
+      "2026-10-02",
+      "https://news.wnin.org/election-2026/2026-10-02/evsc-district-2-race-against-34-years-of-incumbent-tenure-are-two-challengers"
+    ],
+    "wnin_officers": [
+      "Duckworth to Lead EVSC Board Again",
+      "WNIN",
+      "2026-01-13",
+      "https://news.wnin.org/2026-01-13/duckworth-to-lead-evsc-board-again"
+    ],
+    "wnin_audit": [
+      "EVSC initiating $215K district-wide safety audit",
+      "WNIN",
+      "2025-12-16",
+      "https://news.wnin.org/2025-12-16/evsc-initiating-215k-district-wide-safety-audit"
+    ],
+    "evsc_board": [
+      "Board of School Trustees",
+      "Evansville Vanderburgh School Corporation",
+      "2026-10",
+      "https://www.evscschools.com/about-us/leadership/board-of-school-trustees"
+    ],
+    "ballotready_kiefer": [
+      "Christopher A. Kiefer",
+      "BallotReady",
+      "2026-10",
+      "https://www.ballotready.org/people/christopher-a-kiefer"
+    ],
+    "colbert_telegram": [
+      "ColbertReport (Telegram channel)",
+      "Ken Colbert (candidate's own posts)",
+      "2026-10",
+      "https://t.me/s/ColbertReport/2146"
+    ]
   }
- ],
- "sources": {
-  "wnin_ballot": ["EVSC Board ballot settled: one withdrawal, one partisan candidate, nine non-partisan", "WNIN", "2026-06-25", "https://news.wnin.org/election-2026/2026-06-25/evsc-board-ballot-settled-one-withdrawal-one-partisan-candidate-nine-non-partisan"],
-  "wnin_atlarge": ["Meet the Candidates running for the at-large seat on the EVSC School Board", "WNIN", "2026-09-23", "https://news.wnin.org/election-2026/2026-09-23/meet-the-candidates-running-for-the-at-large-seat-on-the-evsc-school-board"],
-  "wnin_d2_incumbents": ["EVSC District 2 race: two challengers vs two incumbents — Duckworth and Hollingsworth", "WNIN", "2026-10-01", "https://news.wnin.org/election-2026/2026-10-01/evsc-district-2-race-two-challengers-vs-two-incumbents-duckworth-and-hollingsworth"],
-  "wnin_d2_challengers": ["EVSC District 2 race: against 34 years of incumbent tenure are two challengers", "WNIN", "2026-10-02", "https://news.wnin.org/election-2026/2026-10-02/evsc-district-2-race-against-34-years-of-incumbent-tenure-are-two-challengers"],
-  "wnin_officers": ["Duckworth to Lead EVSC Board Again", "WNIN", "2026-01-13", "https://news.wnin.org/2026-01-13/duckworth-to-lead-evsc-board-again"],
-  "wnin_audit": ["EVSC initiating $215K district-wide safety audit", "WNIN", "2025-12-16", "https://news.wnin.org/2025-12-16/evsc-initiating-215k-district-wide-safety-audit"],
-  "evsc_board": ["Board of School Trustees", "Evansville Vanderburgh School Corporation", "2026-10", "https://www.evscschools.com/about-us/leadership/board-of-school-trustees"],
-  "ballotready_kiefer": ["Christopher A. Kiefer", "BallotReady", "2026-10", "https://www.ballotready.org/people/christopher-a-kiefer"],
-  "colbert_telegram": ["ColbertReport (Telegram channel)", "Ken Colbert (candidate's own posts)", "2026-10", "https://t.me/s/ColbertReport/2146"]
- }
 }

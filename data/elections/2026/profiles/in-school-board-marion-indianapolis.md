@@ -47,48 +47,48 @@ A school board is the elected or appointed governing body of a public school cor
 - Five seats are on the Nov. 3, 2026 ballot, each electing one member: the regularly scheduled District 3, District 5 and one at-large seat, plus Districts 2 and 4, which were filled by appointment after resignations [27]. The state list's "vote for 1" for the at-large race matches this [6].
 - Incumbents: District 2, Hasaan Rashid (appointed March 2026 after Gayle Cosby resigned); District 3, board president Hope Duke Star; District 4, Chris Bultman (appointed June 2026 after Allissa Impink resigned); District 5, vice president Nicole Carey; at-large, Angelia Lois Moore. All five are seeking election [26, 27]. The District 4 winner serves the rest of Impink's term through 2028 [28].
 - 2026 is the first election in which Indiana school board candidates may list a party; school board races are not part of straight-ticket voting, and candidates of the same party can run against each other [27].
-- Governance change: under a 2025 state law, the mayor-appointed Indianapolis Public Education Corporation (IPEC) took over buildings, transportation and the power to place a tax measure on the ballot for IPS and city charter schools; the elected board sets policy and goals, makes some financial decisions, and hires and oversees the superintendent [26, 27].
+- Governance change: under a state law passed in early 2026, the mayor-appointed Indianapolis Public Education Corporation (IPEC) took over buildings, transportation and the power to place a tax measure on the ballot for IPS and city charter schools; the elected board sets policy and goals, makes some financial decisions, and hires and oversees the superintendent [29, 25, 27].
 - Budget: WFYI reported in June 2026 a projected deficit of roughly $40 million and about $24 million already cut [26]. IPS expects about $20 million more in cuts even if the November referendum passes, and $40 million to $45 million in cuts, plus possible state intervention, if it fails [25].
 - Referendum: IPEC placed a four-year operating referendum of up to about 37 cents per $100 of assessed value on the Nov. 3 ballot, expected to raise about $95 million a year, split roughly half to IPS and half among about 60 participating charters; it would replace IPS's 2018 referendum, which expires this year [25]. The Indianapolis Education Association voted not to support it because IPS would still face cuts [25]. Chalkbeat noted the 2025 state property tax changes limit future district revenue [25].
 - Enrollment: IPS's 2025-26 decline was its largest since the pandemic, according to Chalkbeat's analysis of state data [24].
-- Ballot-access dispute (District 4): the county election board removed Lindsey Cornett in August over her Democratic affiliation; a Marion Superior Court judge restored her on Sept. 11 without a party label [29, 30].
+- Ballot-access dispute (District 4): the county election board removed Lindsey Cornett in August over her Democratic affiliation; a Marion Superior Court judge restored her on Sept. 11 without a party label [30, 31].
 - Forums: Chalkbeat Indiana and WFYI will host a candidate forum Oct. 19 at the Indianapolis Public Library Central Branch; they also sent all candidates survey questions for their Sept. 10 voter guide [27].
-- Points of difference in reviewed coverage include views on IPEC (Duarte and Cornett emphasize holding it accountable; Star cites guiding its implementation), charter-district relations (Bultman and Rashid stress collaboration across school types; Carey raised a conflict concern about Bultman's charter employer), and party labels (Redelman and Houston chose independent status) [26, 28, 31].
+- Points of difference in reviewed coverage include views on IPEC (Duarte and Cornett emphasize holding it accountable; Star cites guiding its implementation), charter-district relations (Bultman and Rashid stress collaboration across school types; Carey raised a conflict concern about Bultman's charter employer), and party labels (Redelman and Houston chose independent status) [26, 28, 32].
 
 ## Bryan Duarte — District 2
 
-Assistant professor at the Purdue University College of Education, running as a Democrat; he was runner-up when the board filled the vacant District 2 seat in March 2026 [26, 32].
+Assistant professor at the Purdue University College of Education, running as a Democrat; he was runner-up when the board filled the vacant District 2 seat in March 2026 [26, 33].
 
 ### Background
 
-- Assistant professor of educational leadership and policy at Purdue University; he has said his comments and interest in the seat do not reflect the university [33].
-- Former teacher with an educational research background [33].
+- Assistant professor of educational leadership and policy at Purdue University; he has said his comments and interest in the seat do not reflect the university [29].
+- Former teacher with an educational research background [29].
 - First in his family born in the U.S. and to attend college [26].
 
 ### Path to the ballot
 
 - Listed on the state candidate list as a Democrat [6]. He said he filed as a Democrat because it most closely aligns with how he votes, though he does not believe school board races should be partisan [26].
-- Applied for the District 2 vacancy in March 2026; the board chose Hasaan Rashid 4-2, with Allissa Impink and Nicole Carey voting for Duarte [32].
+- Applied for the District 2 vacancy in March 2026; the board chose Hasaan Rashid 4-2, with Allissa Impink and Nicole Carey voting for Duarte [33].
 
 ### Positions & plans
 
 **Budget & taxes**
 
 - Said the biggest challenge facing IPS is that its fiscal future "falls at the mercy of the mayor-appointed IPEC," which he described as made up of people with a stake in schools not fully run by IPS [26].
-- Said IPS has been good stewards of taxpayer dollars, that state legislation has adversely affected the district, and that the district must ensure budget cuts do not worsen inequalities [33].
+- Said IPS has been good stewards of taxpayer dollars, that state legislation has adversely affected the district, and that the district must ensure budget cuts do not worsen inequalities [29].
 
 **Enrollment & school choice**
 
-- Told the board he would set aside differences between school types and focus on student outcomes [33].
-- Said: "I'm unwilling to compromise on meeting the needs of the people who have historically been left out of choice" [33].
+- Told the board he would set aside differences between school types and focus on student outcomes [29].
+- Said: "I'm unwilling to compromise on meeting the needs of the people who have historically been left out of choice" [29].
 
 **Transparency & community input**
 
-- Has advocated in public meetings for a fully elected school board and questioned the creation of the Indianapolis Public Education Corporation [33].
+- Has advocated in public meetings for a fully elected school board and questioned the creation of the Indianapolis Public Education Corporation [29].
 
 ### On the current officeholder
 
-- Has questioned the state law that created IPEC and moved powers away from the elected board [33, 32].
+- Has questioned the state law that created IPEC and moved powers away from the elected board [29, 33].
 
 ### How they say they'd run the office
 
@@ -96,7 +96,7 @@ Assistant professor at the Purdue University College of Education, running as a 
 
 ### Endorsements & fundraising
 
-- Chalkbeat reported that in the March appointment, Duarte was backed by traditional public school supporters; he cited his work with the IPS Parent Council [32].
+- Chalkbeat reported that in the March appointment, Duarte was backed by traditional public school supporters; he cited his work with the IPS Parent Council [33].
 
 ### What we couldn't verify
 
@@ -107,24 +107,24 @@ Assistant professor at the Purdue University College of Education, running as a 
 
 ## Hasaan Rashid — District 2
 
-Incumbent. Appointed to the District 2 seat in March 2026 after Gayle Cosby resigned; running as a Democrat [26, 32].
+Incumbent. Appointed to the District 2 seat in March 2026 after Gayle Cosby resigned; running as a Democrat [26, 33].
 
 ### Background
 
 - Works for Utility Pipe Sales in the water and sewer industry [26].
-- Founder of the annual Brendon Park Live Music Festival, which offers scholarships to graduating seniors [33].
+- Founder of the annual Brendon Park Live Music Festival, which offers scholarships to graduating seniors [29].
 - Ran for the District 2 seat in 2024 and lost to Gayle Cosby [26].
 
 ### Path to the ballot
 
-- Appointed by the board on a 4-2 vote on March 26, 2026; Angelia Moore, Ashley Thomas, Deandra Thompson and Hope Duke Star voted for him [32].
+- Appointed by the board on a 4-2 vote on March 26, 2026; Angelia Moore, Ashley Thomas, Deandra Thompson and Hope Duke Star voted for him [33].
 - Listed on the state candidate list as a Democrat [6].
 
 ### Positions & plans
 
 **Budget & taxes**
 
-- In his March 2026 board interview, said property tax caps lawmakers adopted in 2010 have limited district revenue, and: "Some things are going to have to be cut and we have to be clear and concise on what is best for the students" [33].
+- In his March 2026 board interview, said property tax caps lawmakers adopted in 2010 have limited district revenue, and: "Some things are going to have to be cut and we have to be clear and concise on what is best for the students" [29].
 
 **Academics**
 
@@ -133,15 +133,15 @@ Incumbent. Appointed to the District 2 seat in March 2026 after Gayle Cosby resi
 **Enrollment & school choice**
 
 - In 2024 said charter growth should be driven by quality, not expansion "for expansion's sake" [26].
-- Told the board in March 2026 he would set aside differences between school types and focus on student outcomes [33].
+- Told the board in March 2026 he would set aside differences between school types and focus on student outcomes [29].
 
 ### On the current officeholder
 
-- Is a current board member (appointed March 2026) [32]. No statement from him assessing the board's recent record was found.
+- Is a current board member (appointed March 2026) [33]. No statement from him assessing the board's recent record was found.
 
 ### Endorsements & fundraising
 
-- In 2024 he was endorsed by Stand for Children Indiana and RISE Indy, according to Chalkbeat [33]. Chalkbeat reported he drew support from school choice advocates [32].
+- In 2024 he was endorsed by Stand for Children Indiana and RISE Indy, according to Chalkbeat [29]. Chalkbeat reported he drew support from school choice advocates [33].
 
 ### What we couldn't verify
 
@@ -239,8 +239,8 @@ Incumbent and board president, on the board since January 2023; running as a Dem
 
 ### On the current officeholder
 
-- Is a current board member and the board president [26]. In the June 2026 District 4 appointment, she voted for Chris Bultman, saying "a year from now, we will need some stability on the board," and said she expects all members to prioritize IPS even in gray areas [31].
-- Voted for Hasaan Rashid in the March 2026 District 2 appointment [32].
+- Is a current board member and the board president [26]. In the June 2026 District 4 appointment, she voted for Chris Bultman, saying "a year from now, we will need some stability on the board," and said she expects all members to prioritize IPS even in gray areas [32].
+- Voted for Hasaan Rashid in the March 2026 District 2 appointment [33].
 
 ### What we couldn't verify
 
@@ -286,7 +286,7 @@ Attorney and IPS parent running as a Democrat [26].
 
 ## Chris Bultman — District 4
 
-Incumbent. Appointed to the District 4 seat in June 2026 after Allissa Impink resigned; running as a Democrat [31, 26].
+Incumbent. Appointed to the District 4 seat in June 2026 after Allissa Impink resigned; running as a Democrat [32, 26].
 
 ### Background
 
@@ -295,8 +295,8 @@ Incumbent. Appointed to the District 4 seat in June 2026 after Allissa Impink re
 
 ### Path to the ballot
 
-- Appointed by the board 5-1 on June 25, 2026; Nicole Carey voted for Lindsey Cornett [31].
-- Listed on the state candidate list as a Democrat [6]. A challenge to his Democratic affiliation was rejected by the Marion County Election Board, which found he had voted in Democratic primaries in 2020 and 2026 [29, 30].
+- Appointed by the board 5-1 on June 25, 2026; Nicole Carey voted for Lindsey Cornett [32].
+- Listed on the state candidate list as a Democrat [6]. A challenge to his Democratic affiliation was rejected by the Marion County Election Board, which found he had voted in Democratic primaries in 2020 and 2026 [30, 31].
 
 ### Positions & plans
 
@@ -314,8 +314,8 @@ Incumbent. Appointed to the District 4 seat in June 2026 after Allissa Impink re
 
 ### On the current officeholder
 
-- Is a current board member (appointed June 2026) [31]. No statement from him assessing the board's record was found.
-- At his appointment, board member Nicole Carey said she was concerned about the professional conflict he could face because his employer aims to enroll students living within IPS boundaries; board president Hope Duke Star said she expects all members, including Bultman, to prioritize IPS [31]. Chalkbeat did not hear back from Bultman for its September story on the ballot dispute [30].
+- Is a current board member (appointed June 2026) [32]. No statement from him assessing the board's record was found.
+- At his appointment, board member Nicole Carey said she was concerned about the professional conflict he could face because his employer aims to enroll students living within IPS boundaries; board president Hope Duke Star said she expects all members, including Bultman, to prioritize IPS [32]. Chalkbeat did not hear back from Bultman for its September story on the ballot dispute [31].
 
 ### What we couldn't verify
 
@@ -326,7 +326,7 @@ Incumbent. Appointed to the District 4 seat in June 2026 after Allissa Impink re
 
 ## Lindsey Cornett — District 4
 
-Writer/editor at Englewood Community Development Corporation, former teacher and IPS parent; on the ballot without a party label after a court order [28, 30].
+Writer/editor at Englewood Community Development Corporation, former teacher and IPS parent; on the ballot without a party label after a court order [28, 31].
 
 ### Background
 
@@ -335,9 +335,9 @@ Writer/editor at Englewood Community Development Corporation, former teacher and
 
 ### Path to the ballot
 
-- Filed as a Democrat; her paperwork was initially denied over a filing-deadline dispute, then accepted in late June [28, 31].
-- On Aug. 10, 2026, the Marion County Election Board removed her from the ballot after a challenge showed she had voted in only one Indiana Democratic primary [29]. She filed for judicial review and as a write-in candidate [34].
-- On Sept. 11, 2026, Marion Superior Court Judge John M.T. Chavis II ordered her restored to the ballot without a party affiliation, writing that the school board candidate law should have been applied and that state Election Division guidance is "advisory only" [30]. The state list shows her as Nonpartisan [6].
+- Filed as a Democrat; her paperwork was initially denied over a filing-deadline dispute, then accepted in late June [28, 32].
+- On Aug. 10, 2026, the Marion County Election Board removed her from the ballot after a challenge showed she had voted in only one Indiana Democratic primary [30]. She filed for judicial review and as a write-in candidate [34].
+- On Sept. 11, 2026, Marion Superior Court Judge John M.T. Chavis II ordered her restored to the ballot without a party affiliation, writing that the school board candidate law should have been applied and that state Election Division guidance is "advisory only" [31]. The state list shows her as Nonpartisan [6].
 
 ### Positions & plans
 
@@ -356,11 +356,11 @@ Writer/editor at Englewood Community Development Corporation, former teacher and
 
 ### On the current officeholder
 
-- Argued the election board applied the law unfairly and that neither she nor Bultman should be listed as a Democrat [30].
+- Argued the election board applied the law unfairly and that neither she nor Bultman should be listed as a Democrat [31].
 
 ### Endorsements & fundraising
 
-- Former District 4 commissioner Allissa Impink spoke in support of her during the June appointment interviews [28]. Board member Nicole Carey voted for her appointment [31].
+- Former District 4 commissioner Allissa Impink spoke in support of her during the June appointment interviews [28]. Board member Nicole Carey voted for her appointment [32].
 
 ### What we couldn't verify
 
@@ -394,7 +394,7 @@ Incumbent and board vice president, on the board since January 2023; running as 
 
 ### On the current officeholder
 
-- Is a current board member and vice president [26]. She voted for Bryan Duarte in the March 2026 District 2 appointment [32] and was the only member to vote for Lindsey Cornett in June, citing concern about the professional conflict Chris Bultman could face as a charter-organization employee [31].
+- Is a current board member and vice president [26]. She voted for Bryan Duarte in the March 2026 District 2 appointment [33] and was the only member to vote for Lindsey Cornett in June, citing concern about the professional conflict Chris Bultman could face as a charter-organization employee [32].
 
 ### What we couldn't verify
 
@@ -493,7 +493,7 @@ Incumbent at-large commissioner, on the board since January 2023; running as a D
 
 ### On the current officeholder
 
-- Is a current board member [26]. Voted for Hasaan Rashid in the March 2026 District 2 appointment [32] and for Chris Bultman in the June District 4 appointment [31].
+- Is a current board member [26]. Voted for Hasaan Rashid in the March 2026 District 2 appointment [33] and for Chris Bultman in the June District 4 appointment [32].
 
 ### What we couldn't verify
 
@@ -585,13 +585,13 @@ Assistant professor of medicine at the IU School of Medicine and IPS parent, run
 22. [Indiana school district referendum guide 2026: What to know about your district's requested tax increase](https://www.wvxu.org/2026-08-17/indiana-school-district-referendum-guide-2026-what-to-know-about-your-districts-requested-tax-increase) — WFYI and Chalkbeat Indiana (via WVXU), 2026-08-17
 23. [Indiana charter schools could now have an easier path to acquiring district buildings](https://www.chalkbeat.org/indiana/2023/6/11/23755769/indiana-charters-acquire-traditional-public-school-buildings-underutilized-enrollment) — Chalkbeat Indiana, 2023-06-11
 24. [IPS experiences biggest enrollment loss since pandemic, state records show](https://www.chalkbeat.org/indiana/2026/01/20/student-enrollment-declines-at-indianapolis-public-schools-and-charters/) — Chalkbeat Indiana, 2026-01-20
-25. [IPS and charter funding tax referendum, explained](https://www.chalkbeat.org/indiana/2026/09/02/ips-charter-fundingtax-referendum-explained/) — Chalkbeat Indiana, 2026-09-02
+25. [2026 IPS referendum guide: costs, tax impact, and what's at stake for district and charter schools](https://www.chalkbeat.org/indiana/2026/09/02/ips-charter-fundingtax-referendum-explained/) — Chalkbeat Indiana, 2026-09-02
 26. [Here are the 15 candidates running for the Indianapolis Public Schools Board in 2026](https://www.wfyi.org/education/2026-06-22/ips-school-board-candidates-2026-five-seats-partisan-election) — WFYI, 2026-06-22
 27. [Voter guide 2026: Meet the 15 candidates vying for 5 seats on the Indianapolis Public Schools board](https://www.chalkbeat.org/indiana/2026/09/10/voter-guide-indianapolis-public-schools-school-board-2026/) — Chalkbeat Indiana / WFYI, 2026-09-10
 28. [IPS school board interviews 2 applicants for District 4 vacancy](https://www.chalkbeat.org/indiana/2026/06/25/indianapolis-public-schools-board-interviews-finalists-for-district-4-vacancy/) — Chalkbeat Indiana, 2026-06-25
-29. [Marion County Election Board removes Lindsey Cornett from IPS school board ballot after challenge](https://www.wfyi.org/education/2026-08-11/marion-county-election-board-removes-lindsey-cornett-from-ips-school-board-ballot-after-challenge) — WFYI, 2026-08-11
-30. [Court order: Lindsey Cornett is back on the ballot for IPS school board](https://www.chalkbeat.org/indiana/2026/09/12/lindsey-cornett-on-the-ballot-for-ips-school-board/) — Chalkbeat Indiana, 2026-09-12
-31. [Indianapolis Public Schools board taps Chris Bultman to represent District 4](https://www.chalkbeat.org/indiana/2026/06/26/indianapolis-public-schools-board-appoints-chris-bultman/) — Chalkbeat Indiana, 2026-06-26
-32. [Indianapolis Public Schools board taps Hasaan Rashid to fill vacant seat](https://www.chalkbeat.org/indiana/2026/03/27/indianapolis-public-school-board-selects-rashid-for-vacant-seat/) — Chalkbeat Indiana, 2026-03-27
-33. [IPS school board interviews applicants for vacant District 2 seat](https://www.chalkbeat.org/indiana/2026/03/25/indianapolis-public-school-board-interviews-two-applicants-for-vacant-seat/) — Chalkbeat Indiana, 2026-03-25
+29. [IPS school board interviews applicants for vacant District 2 seat](https://www.chalkbeat.org/indiana/2026/03/25/indianapolis-public-school-board-interviews-two-applicants-for-vacant-seat/) — Chalkbeat Indiana, 2026-03-25
+30. [Marion County Election Board removes Lindsey Cornett from IPS school board ballot after challenge](https://www.wfyi.org/education/2026-08-11/marion-county-election-board-removes-lindsey-cornett-from-ips-school-board-ballot-after-challenge) — WFYI, 2026-08-11
+31. [Court order: Lindsey Cornett is back on the ballot for IPS school board](https://www.chalkbeat.org/indiana/2026/09/12/lindsey-cornett-on-the-ballot-for-ips-school-board/) — Chalkbeat Indiana, 2026-09-12
+32. [Indianapolis Public Schools board taps Chris Bultman to represent District 4](https://www.chalkbeat.org/indiana/2026/06/26/indianapolis-public-schools-board-appoints-chris-bultman/) — Chalkbeat Indiana, 2026-06-26
+33. [Indianapolis Public Schools board taps Hasaan Rashid to fill vacant seat](https://www.chalkbeat.org/indiana/2026/03/27/indianapolis-public-school-board-selects-rashid-for-vacant-seat/) — Chalkbeat Indiana, 2026-03-27
 34. [After being removed from the ballot, Lindsey Cornett is still running for IPS school board](https://www.wfyi.org/education/2026-08-24/after-being-removed-from-the-ballot-lindsey-cornett-is-still-running-for-ips-school-board) — WFYI, 2026-08-24
