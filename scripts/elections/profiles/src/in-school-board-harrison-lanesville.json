@@ -1,0 +1,316 @@
+{
+ "race_id": "in-school-board-harrison-lanesville",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Lanesville Community School Corporation serves Franklin Township in Harrison County. Its board candidates appear on the ballot only in Franklin Township precincts 08-12 {hc_list}{hc_ballot}. It has two schools, Lanesville Elementary and Lanesville Junior-Senior High. NCES data show 733 students in 2024-25 (400 elementary, 333 high school) {plain_lcsc}. The superintendent is Dr. Ryan Apple {lcsc_min_0519}.",
+  "The board has five members, elected at large in staggered years: two seats were on the 2022 ballot and three in 2024 {hc_2022}{hc_2024}. Current members: Ryan Lind (president), Sharon Rothrock (vice president), Tim Bridges (secretary), Donnie Hussung and Margaret Meyer {lcsc_min_0818}.",
+  "Seats on the 2026 ballot: two at-large seats. The state list shows 'vote for 1', but the county candidate list and the Franklin Township sample ballot both say 'vote for not more than two' {in_list}{hc_list}{hc_ballot}. These are the seats won in 2022 by Ryan Lind (719 votes) and Tara S. Smith (612 votes) {hc_2022}.",
+  "Neither 2026 seat has an incumbent on the ballot. The Corydon Democrat's candidate list marked no Lanesville candidate as an incumbent {cd_cands}. Lind is not on the ballot {in_list}. Smith announced at the July 21, 2026 meeting that she had bought a home outside the county and would leave the board {lcsc_min_0721}. On Aug. 4 the board voted 3-1 to appoint Margaret Meyer to serve through Dec. 31, 2026, and made Tim Bridges secretary {lcsc_min_0804}. Meyer was a 2022 board candidate {hc_2022}. She is not on the 2026 ballot {in_list}.",
+  "All three candidates are listed as Republicans {hc_list}{in_list}. John T. (Tom) Walter announced in September that he is no longer an active candidate, but his name stays on the ballot {cd_walter}. In practice, Keith Baird and Doug Burbrink are the two active candidates for two seats {cd_walter}.",
+  "Building capacity: in February 2026 the board looked at a referendum for a new elementary school. A 'bare bones' project would cost about $45 million and roughly double property taxes for district homeowners {nt_options}. At a Feb. 11 public work session Apple presented tax-rate estimates for $45 million, $55 million and $65 million projects. He also described options to add space at the current campus, including a first mortgage bond of up to about $5.46 million (1% of assessed value) {lcsc_min_0211}. On Feb. 17 the board agreed to drop the referendum and move forward with improvements to the existing school. Hussung said the tax impact was too high and building should wait, and Bridges said plans would be drawn up {lcsc_min_0217}{nt_ref}.",
+  "Air quality: an Aug. 31, 2026 Indiana Department of Health inspection, done after a citizen complaint, found no mold problem. It found carbon dioxide above the state limit in every room measured, and the department recommended increasing outdoor air {isdh_iaq}{cd_air}. At the Sept. 15 meeting Apple said every classroom will get a CO2 sensor, with readings posted for parents. Hussung suggested bidding out a complete HVAC replacement rather than repairing the 36-year-old unit, which could cost about $1.5 million. The Corydon Democrat reported that the corporation could bond up to about $4 million under its current obligations {cd_air}.",
+  "2027 budget: the proposed budget includes an education fund of $7,861,625, an operations fund of $3,206,940, a debt service fund of $763,750 and a referendum fund of $550,000. The board is expected to adopt it on Oct. 20, 2026 {cd_air}{lcsc_budget27}. The budget notice estimates $140,900 in property tax cap credits for 2027 {lcsc_budget27}.",
+  "Other 2026 actions: the board hired Stephanie Tostaine as elementary principal after April Holder resigned {lcsc_min_0624}{lcsc_agenda_0616}. It approved 2026-27 teacher contracts and a memorandum of understanding with the Harrison County Sheriff's Department for a school reserve officer {lcsc_min_0721}.",
+  "No reporting was found on SEA 1's specific effect on Lanesville. No candidate forum was found; the Corydon Democrat published questionnaires from all three candidates on Sept. 9, 2026 {cd_q}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Doug Burbrink",
+   "seat": "At Large",
+   "summary": "Retired Indiana Farm Bureau agency manager running for an open at-large seat; he ran for this board once before, in 2000 {cd_q_burbrink}.",
+   "website": null,
+   "background": [
+    "Retired after 43 years with Indiana Farm Bureau as agency manager for Harrison, Floyd, Crawford and Orange counties; part-time agent for Reedy Insurance {cd_q_burbrink}.",
+    "Graduate of Seymour High School (1976); attended IU Southeast {cd_q_burbrink}.",
+    "Previously served on the St. John's Lutheran School Board {cd_q_burbrink}.",
+    "Age 68 {cd_q_burbrink}."
+   ],
+   "path_to_ballot": [
+    "Listed as a Republican on the county and state candidate lists {hc_list}{in_list}.",
+    "Ran for the Lanesville Community School Board in 2000 {cd_q_burbrink}."
+   ],
+   "positions": [
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Says it is important to have \"accountability, responsibility and clear transparency\" among parents, teachers, administration, the school board and taxpayers {cd_q_burbrink}."
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "Says his top priority would be supporting students \"in a way that is conducive in learning and excelling in a safe environment\" {cd_q_burbrink}."
+     ]
+    },
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Lists creating and managing operational budgets in his career as a qualification {cd_q_burbrink}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "No statements found about the current board's decisions."
+   ],
+   "plans": [
+    "Top priority: support students in a safe learning environment and improve accountability, responsibility and transparency among parents, teachers, administrators and the community {cd_q_burbrink}."
+   ],
+   "endorsements_finance": [
+    "Walter, who stopped campaigning, said in a Facebook post that he supports both other candidates \"100%\" {cd_walter}."
+   ],
+   "gaps": [
+    "No statements found on the facility-capacity decision, the air-quality issue, the 2027 budget or SEA 1.",
+    "No campaign website or finance filing found."
+   ]
+  },
+  {
+   "ballot_name": "John T (Tom) Walter",
+   "seat": "At Large",
+   "summary": "Former Lanesville town council member; announced in September 2026 that he is no longer an active candidate, though his name stays on the ballot {cd_q_walter}{cd_walter}.",
+   "website": null,
+   "background": [
+    "Retired after 25 years with Fiserv Inc.; semi-retired and works part time as a laborer for the Town of Lanesville {cd_q_walter}.",
+    "Lanesville High School graduate (1976); computer science studies at Computer Career Center {cd_q_walter}.",
+    "Has grandchildren attending Lanesville schools {cd_q_walter}.",
+    "Age 68 {cd_q_walter}."
+   ],
+   "path_to_ballot": [
+    "Listed as a Republican on the county and state candidate lists {hc_list}{in_list}.",
+    "Served as an at-large Lanesville town council member from 2020 to 2026. He says he stepped aside to avoid a conflict of interest with his town laborer job and to run for this office {cd_q_walter}.",
+    "After his questionnaire ran on Sept. 9, he announced on Facebook that he would no longer be an active candidate, citing a non-life-threatening health issue. The July 15 withdrawal deadline had passed, so his name remains on the ballot {cd_walter}."
+   ],
+   "positions": [
+    {
+     "topic": "Enrollment & school choice",
+     "items": [
+      "Names campus growth as a main concern, given Franklin Township's expected population growth. Wants steps to prevent overcrowding from out-of-district attendance {cd_q_walter}.",
+      "Says he believes \"every child should have the opportunity to attend the school of their choice,\" but that the board and administration must manage it to stay within building and staffing limits {cd_q_walter}."
+     ]
+    },
+    {
+     "topic": "Facilities",
+     "items": [
+      "Calls for analysis of needed facilities before growth decisions are made {cd_q_walter}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Proposes a workshop-style planning session that would bring parents, staff, administration and local and state government into oversight and financial planning {cd_q_walter}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Says the board needs members willing to speak up and not be \"just another 'yes' member,\" and that the board must \"challenge and correct ineffective decisions\" {cd_q_walter}."
+   ],
+   "plans": [
+    "Workshop-style planning session with parents, staff, administrators and government for facility and financial planning {cd_q_walter}."
+   ],
+   "endorsements_finance": [
+    "Said of the other two candidates: \"Both of the other gentlemen in this race are more than qualified as candidates and will do an excellent job and I support them 100%\" {cd_walter}."
+   ],
+   "gaps": [
+    "His questionnaire says he served 10 years as the town's chief law enforcement officer; no details were found.",
+    "No finance filing found.",
+    "Unclear whether he would serve if elected."
+   ]
+  },
+  {
+   "ballot_name": "Keith Baird",
+   "seat": "At Large",
+   "summary": "Parent of four Lanesville students and a first-time candidate, running for an open at-large seat {cd_q_baird}.",
+   "website": null,
+   "background": [
+    "Retired from Norfolk Southern Railway in 2004 {cd_q_baird}.",
+    "Clarksville High School graduate (1997) {cd_q_baird}.",
+    "Parent of four daughters at Lanesville Community School. Volunteers with the PTSO and school events, and has volunteered in classrooms and on field trips {cd_q_baird}.",
+    "Says he has regularly attended Lanesville school board meetings for the past six years {cd_q_baird}.",
+    "Age 47 {cd_q_baird}."
+   ],
+   "path_to_ballot": [
+    "Listed as a Republican on the county and state candidate lists {hc_list}{in_list}.",
+    "First-time candidate for public office {cd_q_baird}."
+   ],
+   "positions": [
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Wants to strengthen communication between the board and the public and to \"bridge the gap\" between the community, board members and administrators {cd_q_baird}.",
+      "Says the community \"deserves to understand not only what decisions are being made, but why they are being made\" {cd_q_baird}."
+     ]
+    },
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Says he will weigh the long-term impact of financial decisions and ask questions to make sure resources go to uses that best benefit students and teachers {cd_q_baird}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "No direct statements found about specific board decisions. His stated top priority is \"building greater trust\" among the board, administration, teachers, parents and the community {cd_q_baird}."
+   ],
+   "plans": [
+    "Better communication and transparency; parents, teachers and residents should \"feel heard\"; careful review of spending {cd_q_baird}."
+   ],
+   "endorsements_finance": [
+    "Walter, who stopped campaigning, said in a Facebook post that he supports both other candidates \"100%\" {cd_walter}."
+   ],
+   "gaps": [
+    "No statements found on the facility-capacity decision, the air-quality issue, the 2027 budget or SEA 1.",
+    "No campaign website or finance filing found.",
+    "Aug. 18, 2026 minutes record public comment by a 'Kevin Baird'; whether this is the candidate was not confirmed, so it is not used."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "plain_lcsc": [
+   "Lanesville Community School Corp (NCES Common Core of Data, 2024-25)",
+   "PlainSchools",
+   "2026-10",
+   "https://plainschools.com/districts/lanesville-community-school-corp-in"
+  ],
+  "hc_list": [
+   "Candidate List - Abbreviated, 2026 General Election",
+   "Harrison County Clerk",
+   "2026",
+   "https://secure.in.gov/counties/harrison/files/2026generalelectioncandidates/Candidate_List_2026_General_Harp.pdf"
+  ],
+  "hc_ballot": [
+   "2026 General Election Sample Ballot: Franklin Township",
+   "Harrison County Clerk",
+   "2026",
+   "https://secure.in.gov/counties/harrison/files/2026generalelectionsampleballots/Franklin.pdf"
+  ],
+  "hc_2022": [
+   "Cumulative Results Report, 2022 General Election (unofficial)",
+   "Harrison County Clerk",
+   "2022-11-14",
+   "https://secure.in.gov/counties/harrison/files/Cumulative-Results-11-14-2022-09-32-10-AM.pdf"
+  ],
+  "hc_2024": [
+   "Cumulative Results Report, 2024 General Election",
+   "Harrison County Clerk",
+   "2024-11",
+   "https://secure.in.gov/counties/harrison/files/2024generalresults/Cumulative_Results.pdf"
+  ],
+  "cd_cands": [
+   "School board candidates announced",
+   "The Corydon Democrat",
+   "2026-07-01",
+   "https://www.madisoncourier.com/corydon_democrat/news/school-board-candidates-announced/article_83418f1e-fda1-547f-b26e-683578af5c60.html"
+  ],
+  "cd_q": [
+   "Baird, Burbrink and Walter seek Lanesville school board seat",
+   "The Corydon Democrat",
+   "2026-09-09",
+   "https://www.madisoncourier.com/corydon_democrat/news/baird-burbrink-and-walter-seek-lanesville-school-board-seat/article_78ba14a3-8d5f-5529-8601-a6a572d15384.html"
+  ],
+  "cd_q_baird": [
+   "Baird, Burbrink and Walter seek Lanesville school board seat (Keith Baird questionnaire)",
+   "The Corydon Democrat",
+   "2026-09-09",
+   "https://www.madisoncourier.com/corydon_democrat/news/baird-burbrink-and-walter-seek-lanesville-school-board-seat/article_40a4793c-6cc8-5841-8b3f-3c7bde55a4f3.html"
+  ],
+  "cd_q_burbrink": [
+   "Baird, Burbrink and Walter seek Lanesville school board seat (Doug Burbrink questionnaire)",
+   "The Corydon Democrat",
+   "2026-09-09",
+   "https://www.madisoncourier.com/corydon_democrat/news/baird-burbrink-and-walter-seek-lanesville-school-board-seat/article_30cab5f5-419b-5c53-a2be-c15a1dc3d244.html"
+  ],
+  "cd_q_walter": [
+   "Baird, Burbrink and Walter seek Lanesville school board seat (John T. (Tom) Walter questionnaire)",
+   "The Corydon Democrat",
+   "2026-09-09",
+   "https://www.madisoncourier.com/corydon_democrat/news/baird-burbrink-and-walter-seek-lanesville-school-board-seat/article_447872c1-5ec6-5588-b33f-54e0d623d48b.html"
+  ],
+  "cd_walter": [
+   "Walter no longer active Lanesville school board candidate",
+   "The Corydon Democrat",
+   "2026-09-16",
+   "https://www.madisoncourier.com/corydon_democrat/news/walter-no-longer-active-lanesville-school-board-candidate/article_08089a1e-0a60-5d9e-b0df-bb24cc0a941a.html"
+  ],
+  "cd_air": [
+   "Lanesville schools to provide air quality data",
+   "The Corydon Democrat",
+   "2026-09-23",
+   "https://www.madisoncourier.com/corydon_democrat/news/education/lanesville-schools-to-provide-air-quality-data/article_893958bc-eb3a-5795-9424-0ac6a90289eb.html"
+  ],
+  "nt_options": [
+   "Referendum for new Lanesville Elementary among options officials considering",
+   "News and Tribune",
+   "2026-02-16",
+   "https://www.newsandtribune.com/news/referendum-for-new-lanesville-elementary-among-options-officials-considering/article_85d07d45-6903-4f62-a16e-bed264a1803e.html"
+  ],
+  "nt_ref": [
+   "Lanesville board decides against $45 million referendum for new elementary school",
+   "News and Tribune",
+   "2026-02-19",
+   "https://www.newsandtribune.com/news/lanesville-board-decides-against-45-million-referendum-for-new-elementary-school/article_dfe8e939-38fa-4407-90bf-c8cbb5ed9e2d.html"
+  ],
+  "lcsc_min_0211": [
+   "Board of Trustees minutes, Feb. 11, 2026 (executive meeting and public work session)",
+   "Lanesville Community School Corporation",
+   "2026-02-11",
+   "https://lanesville.k12.in.us/wp-content/uploads/2026/03/02-11-2026_minutes.pdf"
+  ],
+  "lcsc_min_0217": [
+   "Board of Trustees minutes, Feb. 17, 2026",
+   "Lanesville Community School Corporation",
+   "2026-02-17",
+   "https://lanesville.k12.in.us/wp-content/uploads/2026/03/02-17-2026_minutes.pdf"
+  ],
+  "lcsc_min_0519": [
+   "Board of Trustees minutes, May 19, 2026",
+   "Lanesville Community School Corporation",
+   "2026-05-19",
+   "https://lanesville.k12.in.us/wp-content/uploads/2026/06/05-2026_minutes.pdf"
+  ],
+  "lcsc_agenda_0616": [
+   "Board of Trustees agenda, June 16, 2026",
+   "Lanesville Community School Corporation",
+   "2026-06-16",
+   "https://lanesville.k12.in.us/wp-content/uploads/2026/08/2026-06-agenda1.pdf"
+  ],
+  "lcsc_min_0624": [
+   "Board of Trustees special meeting minutes, June 24, 2026",
+   "Lanesville Community School Corporation",
+   "2026-06-24",
+   "https://lanesville.k12.in.us/wp-content/uploads/2026/08/Kami-Export-boardoftrusteesjune24.pdf"
+  ],
+  "lcsc_min_0721": [
+   "Board of Trustees minutes, July 21, 2026",
+   "Lanesville Community School Corporation",
+   "2026-07-21",
+   "https://lanesville.k12.in.us/wp-content/uploads/2026/08/Kami-Export-july21meeting.pdf"
+  ],
+  "lcsc_min_0804": [
+   "Board of Trustees special meeting minutes, Aug. 4, 2026",
+   "Lanesville Community School Corporation",
+   "2026-08-04",
+   "https://lanesville.k12.in.us/wp-content/uploads/2026/08/Kami-Export-boardoftrusteesaugust4.pdf"
+  ],
+  "lcsc_min_0818": [
+   "Board of Trustees minutes, Aug. 18, 2026",
+   "Lanesville Community School Corporation",
+   "2026-08-18",
+   "https://lanesville.k12.in.us/wp-content/uploads/2026/09/Kami-Export-Augustminutes.pdf"
+  ],
+  "lcsc_budget27": [
+   "Notice to Taxpayers, 2027 budget (Budget Form 3)",
+   "Lanesville Community School Corporation",
+   "2026-09-01",
+   "https://lanesville.k12.in.us/wp-content/uploads/2026/09/2027-3160-Lanesville-Budget-Form3.pdf"
+  ],
+  "isdh_iaq": [
+   "Indoor air quality evaluation letter to Lanesville Community Schools",
+   "Indiana Department of Health",
+   "2026-09-10",
+   "https://lanesville.k12.in.us/wp-content/uploads/2026/09/Lanesville-Community-School-Corporation-08_31_26.pdf"
+  ]
+ }
+}
