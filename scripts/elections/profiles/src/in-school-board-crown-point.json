@@ -1,0 +1,108 @@
+{
+ "race_id": "in-school-board-crown-point",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The Crown Point Community School Corporation is a PreK–12 district serving about 9,000 students from Crown Point and parts of Winfield and Cedar Lake {cpcsc_ilearn}. Residents of Center and Winfield townships may speak at board meetings {cpcsc_board}. It runs seven elementary schools, two middle schools (Col. Wheeler and Taft) and Crown Point High School {cpcsc_board}{wiki_cpcsc}. Dr. Todd Terrill has been superintendent since July 2020 {cpcsc_admin}{wiki_cpcsc}.",
+  "The board has five members: two elected at large and one each from Districts 1, 2 and 3 {lc_directory}. Every voter in the district votes in all of the board races on the ballot, as the county's sample ballots for both Crown Point and Winfield Township precincts show {lc_sample_cp}{lc_sample_wt}. The current members are President Brian Smith, Vice President Danielle Bazin, Scott Angel, Secretary David Warne and Tom Hoffman {cpcsc_board}.",
+  "Seats on the 2026 ballot: one at-large seat and the District 1 seat, each 'Vote For One (1) Only,' which matches the state list {lc_sample_cp}. Both seats were last filled in 2022, when Timothy Vassar won at large and Danielle Bazin won District 1 {lc_results_2022}{lc_directory}.",
+  "At-large seat: after Vassar resigned, the board appointed former member Thomas Hoffman on June 22, 2026 to serve through Dec. 31, 2026 {cpcsc_recap_jun26}. Hoffman is not on the 2026 candidate list {lc_candidates}. The candidates are Bazin, who now holds District 1, and Bill Muha {lc_sample_cp}.",
+  "District 1 seat: Bazin is running at large instead of for reelection in District 1, so Anne Annie Equihua is the only District 1 candidate {lc_candidates}{lc_sample_cp}. Whichever race Bazin wins or loses, the board will have at least one new member in January 2027.",
+  "Not on this ballot: Smith (at large), Warne (District 2) and Angel (District 3) won their seats in 2024, and their terms run through 2028 {lc_results_2024}{lc_directory}.",
+  "Operating referendum on the same ballot (2026): on June 22, 2026 the board voted to put an operating referendum on the November ballot to make up revenue lost under Senate Enrolled Act 1 {cpcsc_recap_jun26}. The ballot question asks for up to 38.7 cents per $100 of assessed value and up to $19,750,000 a year for eight years, and states that the annual bill on a $350,000 median home would rise $648 {lc_sample_cp}. The district says the new rate would replace the 18-cent referendum voters approved in 2025, not add to it. It projects that the actual bill on a $317,000 median home would rise $7 in 2027 and fall $265 in 2028 as SEA 1 deductions grow {cpcsc_recap_sep26}.",
+  "Budget and SEA 1 (2025–2026): the district says SEA 1 cost it about $2 million in 2025 and nearly $4 million in 2026, and projects nearly $5 million by 2029 {cpcsc_recap_sep26}. It says it made $7.3 million in cuts last year, including about $2.1 million from the state taking over curricular-materials funding and more than $5 million from a special education operating loss, as special education enrollment grew more than 34% in five years {cpcsc_recap_sep26}. If the referendum fails, the district projects cutting an estimated 50–60 certified positions plus 10–15 referendum-funded positions in the first year, along with cuts to transportation {cpcsc_recap_sep26}. The advertised 2027 maximum budget is $140,789,316 {cpcsc_recap_sep26}.",
+  "Fund transfers (2025–2026): the board approved moving $1 million from the Rainy Day Fund in December 2025 and $2.5 million in May 2026, which left a projected Rainy Day balance of about $5.3 million {cpcsc_recap_dec25}{cpcsc_recap_may26}. In July 2026 it made a one-time transfer of $1.8 million from debt service to operations, allowed by a 2025 state law (HEA 1210) {cpcsc_recap_jul26}.",
+  "Facilities (2026): in July 2026 the board approved issuing $5 million in general obligation bonds for HVAC work, transportation and buses {cpcsc_recap_jul26}.",
+  "Academics (2026): the district reports that among Indiana's 30 traditional public districts with at least 4,000 students in grades 3–8, it ranked fourth in math and sixth in English/language arts on 2026 ILEARN results {cpcsc_ilearn}.",
+  "Other 2025–2026 board items: in December 2025 parents raised concerns about class sizes and a land swap at 129th Avenue and Iowa Street, and board members responded that the land decisions followed required legal processes {cpcsc_recap_dec25}. In May 2026 the board adopted a policy, required by a new state law, that personal devices be powered off and stored during the school day {cpcsc_recap_may26}. In June 2026 it approved a three-year strategic plan framework {cpcsc_recap_jun26}.",
+  "Forums: this guide found no candidate forums, questionnaires or news coverage of the 2026 Crown Point race. The Times of Northwest Indiana (nwitimes.com) could not be read for this guide."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Bill Muha",
+   "seat": "At Large",
+   "summary": "Candidate for the at-large seat; not a current board member {lc_candidates}{cpcsc_board}.",
+   "website": null,
+   "background": [
+    "No background information found."
+   ],
+   "path_to_ballot": [
+    "Filed June 15, 2026 without a party affiliation; listed as Nonpartisan {lc_candidates}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "Position on the operating referendum on the same ballot not found."
+   ]
+  },
+  {
+   "ballot_name": "Danielle Bazin",
+   "seat": "At Large",
+   "summary": "Incumbent board vice president who holds the District 1 seat and is running for the at-large seat {cpcsc_board}{lc_directory}{lc_candidates}.",
+   "website": null,
+   "background": [
+    "Won the District 1 seat in 2022 with 45.69% of the vote against two opponents {lc_results_2022}. Her District 1 term expires Dec. 31, 2026 {lc_directory}.",
+    "Board vice president {cpcsc_board}."
+   ],
+   "path_to_ballot": [
+    "Filed May 19, 2026 without a party affiliation; listed as Nonpartisan {lc_candidates}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {cpcsc_board}.",
+    "Serves on the board that voted in June 2026 to put the operating referendum on the November ballot {cpcsc_recap_jun26}; the district's summaries do not list individual votes or statements by her."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "No public explanation found for why she is running at large instead of for reelection in District 1.",
+    "Occupation and other background not found."
+   ]
+  },
+  {
+   "ballot_name": "Anne Annie Equihua",
+   "seat": "District 1",
+   "summary": "The only candidate for the District 1 seat, which incumbent Danielle Bazin is leaving to run at large {lc_candidates}{lc_sample_cp}.",
+   "website": null,
+   "background": [
+    "No background information found."
+   ],
+   "path_to_ballot": [
+    "Filed May 19, 2026 and is listed as a Democrat {lc_candidates}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "District 1 boundaries and residency requirement not confirmed."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "cpcsc_board": ["Board of School Trustees", "Crown Point Community School Corporation", "2026-10", "https://www.cps.k12.in.us/leadership/board"],
+  "cpcsc_admin": ["District Administration", "Crown Point Community School Corporation", "2026-10", "https://www.cps.k12.in.us/leadership/district-administration"],
+  "wiki_cpcsc": ["Crown Point Community School Corporation", "Wikipedia", "2026-10", "https://en.wikipedia.org/wiki/Crown_Point_Community_School_Corporation"],
+  "cpcsc_ilearn": ["CPCSC ranks among Indiana's top-performing large public school districts", "Crown Point Community School Corporation", "2026-09-25", "https://www.cps.k12.in.us/about/district-news/details/~board/cpcsc-news/post/cpcsc-ranks-among-indianas-top-performing-large-public-school-districts"],
+  "cpcsc_recap_sep26": ["Board Meeting Recap - September 2026", "Crown Point Community School Corporation", "2026-09-29", "https://www.cps.k12.in.us/about/district-news/details/~board/cpcsc-news/post/board-meeting-recap-september-2026-1790704677597"],
+  "cpcsc_recap_jul26": ["Board Meeting Recap - July 2026", "Crown Point Community School Corporation", "2026-07-28", "https://www.cps.k12.in.us/about/district-news/details/~board/cpcsc-news/post/board-meeting-recap-july-2026-1785267740239"],
+  "cpcsc_recap_jun26": ["Board Meeting Recap - June 2026", "Crown Point Community School Corporation", "2026-06-23", "https://www.cps.k12.in.us/about/district-news/details/~board/cpcsc-news/post/board-meeting-recap-june-2026-1782244162086"],
+  "cpcsc_recap_may26": ["Board Meeting Recap - May 2026", "Crown Point Community School Corporation", "2026-05-20", "https://www.cps.k12.in.us/about/district-news/details/~board/cpcsc-news/post/board-meeting-recap-may-2026-1779307833355"],
+  "cpcsc_recap_dec25": ["Board Meeting Recap - December 2025", "Crown Point Community School Corporation", "2025-12-16", "https://www.cps.k12.in.us/about/district-news/details/~board/cpcsc-news/post/board-meeting-recap-december-2025-1765921428403"],
+  "lc_directory": ["2026 Lake County Public Officials Directory (School Corporations, p. 36)", "Lake County, Indiana", "2026-08-13", "https://lakecountyin.gov/dA/8ee74908-61bf-46b8-8c34-a648d6d3ed59/pdfFile/2026%2008%2013%20LAKE%20COUNTY%20PUBLIC%20OFFICIALS%20DIRECTORY.pdf"],
+  "lc_candidates": ["2026 General Election Candidate List (as of Aug. 11, 2026)", "Lake County Board of Elections and Registration", "2026-08-11", "https://lakecountyin.gov/departments/voters/election-candidates/2026_General_Candidate_List_08_11_26.xlsx"],
+  "lc_sample_cp": ["2026 General Election sample ballot, Precinct 025-CP 02 (Crown Point)", "Lake County Board of Elections and Registration", "2026-09-18", "https://lakecountyin.gov/departments/voters/2026-ELECTION/2026-General-Election-Sample-Ballots/Pct%20025-CP%2002%20Act%2001-GENERAL.pdf"],
+  "lc_sample_wt": ["2026 General Election sample ballot, Precinct 328-WT 01 (Winfield Township)", "Lake County Board of Elections and Registration", "2026-09-18", "https://lakecountyin.gov/departments/voters/2026-ELECTION/2026-General-Election-Sample-Ballots/Pct%20328-WT%2001%20Act%2001-GENERAL.pdf"],
+  "lc_results_2022": ["2022 General Election Summary", "Lake County Board of Elections and Registration", "2022-11", "https://lakecountyin.gov/departments/voters/election-results-c/2022GeneralElectionResults/Lake_ElecSumm_All.htm"],
+  "lc_results_2024": ["2024 General Election Summary", "Lake County Board of Elections and Registration", "2024-11", "https://lakecountyin.gov/departments/voters/election-results-c/2024GeneralElectionResults/Lake_ElecSumm_All.htm"]
+ }
+}

@@ -1,0 +1,167 @@
+{
+  "race_id": "in-school-board-laporte",
+  "reviewed": "2026-10-10",
+  "status": "draft",
+  "status_note": "Pending editorial review.",
+  "office": "@in_school_board",
+  "incumbent": null,
+  "race_context": [
+    "La Porte Community School Corp. (LPCSC) serves the La Porte area of LaPorte County. The superintendent is Dr. Sandra Wood {hd_sea1}{hd_dest}. No current enrollment figure was found in the sources reviewed.",
+    "The board has seven members, all elected at large, with staggered terms. Four seats are elected in one cycle and three in the next: county records show the LPCSC at-large race as 'Vote for 4' in 2018 and 2022 and 'Vote for 3' in 2024 {lpc_2018res}{lpc_2022cand}{lpc_2024res}. The 2026 members are Ryan Seaburg (president), Tucker King (vice president), Monica Beaty (secretary), Jim Arnold, Jennifer Farlie, Nate Loucks and Amy Jackson {lpcsc_board}{hd_officers}.",
+    "Seats on the 2026 ballot: the state list says vote for 1, but four at-large seats are up. The Herald-Dispatch reported that the seat Loucks fills 'along with three other LPCSC school board seats' will be on the November ballot {hd_loucks}{in_list}. These are the four seats elected in 2022, when seven candidates ran and Farlie, Justin Holmquest, Jackson and Seaburg were on the ballot {lpc_2022cand}. Arnold, King and Beaty won the other three seats in 2024 and are not up this year {lpc_2024res}.",
+    "Who is running: incumbents Amy Jackson, Jennifer Farlie, Ryan Seaburg and Nate Loucks, plus newcomer Wendy (Swanson) Noren. That makes five candidates for four seats, all listed as Nonpartisan {in_list}{lpcsc_board}.",
+    "Board vacancy: Holmquest left the board after being named director of finance at New Prairie United School Corp. and resigned on Jan. 29, 2026 {hd_holmquest}{hd_loucks}. The board then picked Nate Loucks to fill the seat {hd_loucks}.",
+    "Budget and SEA 1: in September 2025 the Herald-Dispatch reported that LPCSC would lose an estimated $1.9 million because of the 2025 property-tax law (SEA 1) {hd_sea1}. In October 2026 the district set goals of becoming a 'destination district' and the highest-paying school district in Northwest Indiana by 2032 {hd_dest}.",
+    "Enrollment: on June 8, 2026, the board unanimously approved a resolution letting out-of-state students enroll {hd_outofstate}.",
+    "Policies: on March 9, 2026, the board unanimously approved buying Yondr cell phone pouches for the high, middle and intermediate schools for 2026-27 {hd_phones}.",
+    "Facilities and partnerships: on July 20, 2026, the board unanimously approved an updated easement agreement with Microsoft tied to its data center campus, and a lease agreement with Ivy Tech Community College; Jackson was absent {hd_msft}{hd_ivy}. A feasibility study on historic Kiwanis Field, done with Preserve Historic La Porte, was completed in September 2026 {hd_kiwanis}.",
+    "The Indiana School Boards Association gave the board an Exemplary Governance Award for 2024 {hd_isba}.",
+    "Forums: no 2026 LPCSC school board forum or questionnaire was found. The League of Women Voters of La Porte County announced two general-election candidate forums, but the coverage reviewed does not say whether school board candidates were included {hd_lwv}. A local group held an LPCSC candidate forum in 2024 {htn_2024}.",
+    "Coverage of these candidates is sparse. The local daily, the Herald-Dispatch, is paywalled past the opening of each article. No candidate statements on issues were found for any of the five candidates."
+  ],
+  "candidates": [
+    {
+      "ballot_name": "Amy Jackson",
+      "seat": "At Large",
+      "summary": "Incumbent board member, holds one of the four seats elected in 2022 and is running for one of four at-large seats {lpcsc_board}{lpc_2022cand}.",
+      "website": null,
+      "background": [
+        "Current board member {lpcsc_board}."
+      ],
+      "path_to_ballot": [
+        "Ran in the 2022 at-large race for four seats as Amy C. Jackson {lpc_2022cand}.",
+        "Listed as Nonpartisan on the 2026 state candidate list {in_list}."
+      ],
+      "positions": [],
+      "on_incumbent": [
+        "Is a current board member {lpcsc_board}. She was absent from the July 20, 2026 meeting where the Microsoft easement and Ivy Tech lease were approved {hd_msft}{hd_ivy}. No statement from her about the board's record was found."
+      ],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "Occupation and background were not available in the sources reviewed.",
+        "No 2026 campaign statements, questionnaire or forum answers were found.",
+        "No campaign finance reports were located."
+      ]
+    },
+    {
+      "ballot_name": "Jennifer \"Farlie\" Farlie",
+      "seat": "At Large",
+      "summary": "Incumbent board member, holds one of the four seats elected in 2022 and is running for one of four at-large seats {lpcsc_board}{lpc_2022cand}.",
+      "website": null,
+      "background": [
+        "Current board member {lpcsc_board}."
+      ],
+      "path_to_ballot": [
+        "Ran in the 2022 at-large race for four seats {lpc_2022cand}.",
+        "Listed as Nonpartisan on the 2026 state candidate list {in_list}."
+      ],
+      "positions": [],
+      "on_incumbent": [
+        "Is a current board member {lpcsc_board}. No statement from her about the board's record was found."
+      ],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "The state list shows her ballot name as Jennifer \"Farlie\" Farlie, with the surname repeated as the nickname; this may be a listing error.",
+        "Occupation and background were not available in the sources reviewed.",
+        "No 2026 campaign statements, questionnaire or forum answers were found.",
+        "No campaign finance reports were located."
+      ]
+    },
+    {
+      "ballot_name": "Nathan (Nate) Loucks",
+      "seat": "At Large",
+      "summary": "Incumbent. The board appointed him in February 2026 to the seat Justin Holmquest left. He is president and CEO of the Pax Center, a La Porte nonprofit that fights food insecurity {hd_loucks}{hd_pax}{hd_paxdonation}.",
+      "website": null,
+      "background": [
+        "President and CEO of the Pax Center, which the Herald-Dispatch describes as a La Porte-based nonprofit that fights food insecurity in LaPorte County {hd_pax}{hd_paxdonation}.",
+        "Led the Pax Center's 2025 Giving Tuesday campaign, which raised $84,157 against a $50,000 goal {hd_paxgt}."
+      ],
+      "path_to_ballot": [
+        "Chosen by the board to fill the vacancy created by Holmquest's Jan. 29, 2026 resignation {hd_loucks}.",
+        "Listed as Nonpartisan on the 2026 state candidate list {in_list}."
+      ],
+      "positions": [],
+      "on_incumbent": [
+        "Is a current board member {lpcsc_board}. No statement from him about the board's record was found."
+      ],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "Search-result snippets (not verified on a readable page) said the appointment vote was unanimous after public interviews of four applicants, that he is lead pastor of State Street Community Church in La Porte, and that he has children in the district.",
+        "No 2026 campaign statements, questionnaire or forum answers were found.",
+        "No campaign finance reports were located."
+      ]
+    },
+    {
+      "ballot_name": "Ryan Seaburg",
+      "seat": "At Large",
+      "summary": "Incumbent board president, holds one of the four seats elected in 2022 and is running for one of four at-large seats {hd_officers}{lpc_2022cand}.",
+      "website": null,
+      "background": [
+        "Elected board president for 2026 at the Jan. 12, 2026 reorganization meeting {hd_officers}."
+      ],
+      "path_to_ballot": [
+        "Ran in the 2022 at-large race for four seats as Ryan G. Seaburg {lpc_2022cand}.",
+        "Listed as Nonpartisan on the 2026 state candidate list {in_list}."
+      ],
+      "positions": [],
+      "on_incumbent": [
+        "Is a current board member and president {lpcsc_board}{hd_officers}. During his 2026 term as president, the board unanimously approved cell phone pouches (March 9) and out-of-state enrollment (June 8) {hd_phones}{hd_outofstate}. No campaign statement from him about the board's record was found."
+      ],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "Occupation and background were not available in the sources reviewed.",
+        "No 2026 campaign statements, questionnaire or forum answers were found.",
+        "No campaign finance reports were located."
+      ]
+    },
+    {
+      "ballot_name": "Wendy (Swanson) Noren",
+      "seat": "At Large",
+      "summary": "First-time candidate for the board; she is not a current member {in_list}{lpcsc_board}.",
+      "website": null,
+      "background": [
+        "No published background information was found."
+      ],
+      "path_to_ballot": [
+        "Listed as Nonpartisan on the 2026 state candidate list {in_list}."
+      ],
+      "positions": [],
+      "on_incumbent": [],
+      "plans": [],
+      "endorsements_finance": [],
+      "gaps": [
+        "No news coverage, candidate website, questionnaire or forum answers were found.",
+        "Occupation, community roles and ties to the schools are unknown.",
+        "Whether she applied for the February 2026 board vacancy was not confirmed.",
+        "No campaign finance reports were located."
+      ]
+    }
+  ],
+  "review_flags": [],
+  "sources": {
+    "lpcsc_board": ["2026 Board of School Trustees", "La Porte Community School Corp.", "2026", "https://docs.google.com/document/d/1i5c5xKDg3lBtRZDwigKlOFXiCGMvUnwLiq9ISNwbMIk/edit?usp=sharing"],
+    "hd_loucks": ["Loucks selected to fill LP school board seat", "The Herald-Dispatch", "2026-02-16", "https://www.lpheralddispatch.com/news/local/loucks-selected-to-fill-lp-school-board-seat/article_0b5d9447-0fe3-5958-af5f-152733823d48.html"],
+    "hd_holmquest": ["Holmquest named Director of Finance at New Prairie, steps down from LPCSC board", "The Herald-Dispatch", "2026-02-02", "https://www.lpheralddispatch.com/news/local/holmquest-named-director-of-finance-at-new-prairie-steps-down-from-lpcsc-board/article_f1c3b137-27d2-5959-82f2-3c41bb16dfc4.html"],
+    "hd_officers": ["LP school board elects new officers", "The Herald-Dispatch", "2026-01-26", "https://www.lpheralddispatch.com/news/local/lp-school-board-elects-new-officers/article_126083af-35f4-56fb-9574-e5a9852c7092.html"],
+    "hd_sea1": ["LP Schools to see $1.9M loss in budget", "The Herald-Dispatch", "2025-09-17", "https://www.lpheralddispatch.com/news/local/lp-schools-to-see-1-9m-loss-in-budget/article_90708a60-04ab-591d-a0cc-c92cecb48ad4.html"],
+    "hd_dest": ["LP schools seeks to be destination district", "The Herald-Dispatch", "2026-10-01", "https://www.lpheralddispatch.com/news/local/lp-schools-seeks-to-be-destination-district/article_781d064a-d24d-528c-aa66-5bd2f0f49d6d.html"],
+    "hd_outofstate": ["LP schools OK enrollment for out-of-state students", "The Herald-Dispatch", "2026-06-25", "https://www.lpheralddispatch.com/news/local/lp-schools-ok-enrollment-for-out-of-state-students/article_d69b018b-e70d-50e4-92bd-6447794022b1.html"],
+    "hd_phones": ["Cell phone pouches coming to LP schools", "The Herald-Dispatch", "2026-04-01", "https://www.lpheralddispatch.com/news/local/cell-phone-pouches-coming-to-lp-schools/article_655ccaf8-23db-5b44-a327-3047bb948ef1.html"],
+    "hd_msft": ["LP schools enters into easement agreement with Microsoft", "The Herald-Dispatch", "2026-08-07", "https://www.lpheralddispatch.com/news/local/lp-schools-enters-into-easement-agreement-with-microsoft/article_5320b077-87ff-5955-b96a-e79308d9a601.html"],
+    "hd_ivy": ["LP schools expands partnership with Ivy Tech", "The Herald-Dispatch", "2026-08-12", "https://www.lpheralddispatch.com/news/local/lp-schools-expands-partnership-with-ivy-tech/article_7b832db5-8e78-5c5c-8c2a-3a4a0d26819b.html"],
+    "hd_kiwanis": ["Study proposes renovations for Kiwanis Field", "The Herald-Dispatch", "2026-09-07", "https://www.lpheralddispatch.com/news/local/study-proposes-renovations-for-kiwanis-field/article_ebe413d6-7145-5162-af51-dbfe0d454152.html"],
+    "hd_isba": ["LPCSC Board of School Trustees honored by ISBA", "The Herald-Dispatch", "2025-06-04", "https://www.lpheralddispatch.com/features/people_and_places/lpcsc-board-of-school-trustees-honored-by-isba/article_640aea93-5b02-5a99-89f3-152f9c1bb29c.html"],
+    "hd_pax": ["Pax Center launches Giving Tuesday campaign", "The Herald-Dispatch", "2025-11-19", "https://www.lpheralddispatch.com/news/local/pax-center-launches-giving-tuesday-campaign/article_232ba3af-4cbf-5d0c-918c-ea457c2f98c3.html"],
+    "hd_paxgt": ["Pax Center exceeds Giving Tuesday goal", "The Herald-Dispatch", "2025-12-10", "https://www.lpheralddispatch.com/news/local/pax-center-exceeds-giving-tuesday-goal/article_a282bf80-11c1-5b12-ae88-3d217ff2d703.html"],
+    "hd_paxdonation": ["Pax Center receives donation in honor of Doctors' Day", "The Herald-Dispatch", "2026-05-07", "https://www.lpheralddispatch.com/features/health/pax-center-receives-donation-in-honor-of-doctors-day/article_f65c0784-fe49-500e-8e10-4a0f40238f3c.html"],
+    "hd_lwv": ["League of Women Voters to hold candidate forums", "The Herald-Dispatch", "2026-09-16", "https://www.lpheralddispatch.com/news/local/league-of-women-voters-to-hold-candidate-forums/article_0090d6d2-dee0-5fcb-b5c6-dff3be0a5b98.html"],
+    "htn_2024": ["La Porte School Board Candidates", "Hometown News Now", "2024-10", "https://hometownnewsnow.com/pages/school-board-candidates"],
+    "lpc_2018res": ["2018 General Election Summary Report", "La Porte County", "2018-11", "https://laporteco.in.gov/Elections/ElectionResults/2018General/LaporteElecSumm%20.htm"],
+    "lpc_2022cand": ["2022 General Election Candidates", "La Porte County", "2022-09", "https://laporteco.in.gov/wp-content/uploads/2022/09/2022-09-09-2.pdf"],
+    "lpc_2024res": ["2024 General Election Summary Report", "La Porte County", "2024-11-16", "https://laporteco.in.gov/Elections/ElectionResults/2024General/Laporte_ElecSumm_All.htm"]
+  }
+}

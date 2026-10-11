@@ -1,0 +1,276 @@
+{
+ "race_id": "in-school-board-greater-clark",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Greater Clark County Schools serves southern and eastern Clark County, including Jeffersonville, Utica, Charlestown, New Washington and parts of Clarksville, with three high schools (Jeffersonville, Charlestown and New Washington Middle/High) {wiki_gccs}. The district's CFO estimated enrollment at 10,350 students for 2025 budgeting {nt_gc_budget26}. Mark Laughner is superintendent {nt_gc_budget26}{nt_iread}.",
+  "The board has seven members, one from each of seven districts, serving staggered four-year terms {gccs_board}{clark_districts}. Current members: John Buckwalter (president, District 3), Teresa Bottorff Perkins (vice president, District 7), Keith Freeman (secretary, District 6), Brian Jones (District 1), Katie Hutchinson (District 2), Tammy Mustain (District 4) and Chelsea Crump (District 5) {gccs_board}. The district describes members as elected at large by voters in specified geographic districts {gccs_board}.",
+  "Three seats are on the 2026 ballot, each 'vote for one', matching the state list {clark_sb}{in_list}: District 1 (Washington, Bethlehem, Owen and Oregon townships), District 3 (Utica Township) and District 4 (a western part of Jeffersonville Township) {clark_districts}. All three incumbents whose terms end in 2026 (Jones, Buckwalter and Mustain) filed for re-election {gccs_board}{nt_filed}. Only District 1 is contested: Jones faces Margot Davidson and Zachary Silverstein; Buckwalter and Mustain are unopposed {nt_filed}{lpm_running}.",
+  "Party labels: 2026 is the first Indiana election in which school board candidates could declare a party; Silverstein is the only Greater Clark candidate listed with one (Libertarian) {nt_filed}{lpm_running}. In March 2026, board members including Buckwalter and Perkins spoke against the law at a meeting {nt_gc_phone}.",
+  "Budget and SEA 1: in October 2025 the board unanimously adopted a $207.4 million 2026 budget; the CFO said the district's tax rate, steady at $1.10, would rise to about $1.15 because of the 2025 property-tax law (Senate Enrolled Act 1), and that a study projected it could reach $1.56 within a decade {nt_gc_budget26}{nt_gc_budget_pres}. The operations fund was expected to be hit hardest {nt_gc_budget_pres}. Reporting on the 2027 budget was not found.",
+  "Teacher contract: in October 2025 the board adopted a two-year agreement through June 30, 2027 raising starting teacher pay to $52,000 {nt_gc_budget26}.",
+  "Facilities: projects in 2025-2026 include a new Founders Point Elementary on Salem-Noble Road, a 45,000-square-foot addition at Charlestown High and a Jeffersonville High parking lot {nt_gc_budget26}{nt_gc_phone}; in July 2026 the Jeffersonville Redevelopment Commission voted 3-2 to give the district $200,000 toward a renovated lobby at Jeffersonville High's arena {nt_jrdc}.",
+  "Test scores: 84.7% of third graders passed IREAD in 2026 {nt_iread}. In 2025 ILEARN, the district had 37% proficiency in English and 37.5% in math; Laughner said the district was still a little below state averages {nt_ilearn}.",
+  "Other 2025-2026 items: the district lost the federally funded GEAR UP college-prep program in September 2025, and Laughner said SEA 1 left no room to replace it {nt_gearup}; the board was writing a policy in spring 2026 for the state's school-day phone ban {nt_gc_phone}.",
+  "Forums: no 2026 candidate forum or questionnaire for Greater Clark races was found in fetched sources."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Brian Jones",
+   "seat": "District 1",
+   "summary": "Incumbent; term began in 2023 {nt_filed}{gccs_board}.",
+   "website": null,
+   "background": [
+    "No occupation or community background was found in fetched sources."
+   ],
+   "path_to_ballot": [
+    "Filed for re-election; listed without party (nonpartisan) {nt_filed}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {gccs_board}. No account by him of the board's record was found in fetched sources."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsement for 2026 was found in fetched sources."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire, forum remarks or interview found; how he first won the seat in 2022 was not confirmed."
+   ]
+  },
+  {
+   "ballot_name": "Margot Davidson",
+   "seat": "District 1",
+   "summary": "Challenger; former Greater Clark paraeducator {nt_filed}.",
+   "website": null,
+   "background": [
+    "Former paraeducator for Greater Clark County Schools, according to the News and Tribune {nt_filed}."
+   ],
+   "path_to_ballot": [
+    "Filed for the District 1 seat; listed without party (nonpartisan) {nt_filed}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsement for 2026 was found in fetched sources."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire, forum remarks or interview found; no stated positions found."
+   ]
+  },
+  {
+   "ballot_name": "Zachary Silverstein",
+   "seat": "District 1",
+   "summary": "Challenger, listed as Libertarian; works for Catalyst Rescue Mission {nt_filed}{in_list}.",
+   "website": null,
+   "background": [
+    "Works for Catalyst Rescue Mission in Clark County, according to the News and Tribune {nt_filed}."
+   ],
+   "path_to_ballot": [
+    "Filed for District 1 as a Libertarian, the only Libertarian school board candidate in Clark and Floyd counties {nt_filed}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsement for 2026 was found in fetched sources."
+   ],
+   "gaps": [
+    "Search results (CivicSearch transcripts) indicate a Zach Silverstein spoke during public comment at Greater Clark board meetings on Jan. 28 and May 27, 2025; the content of his remarks could not be read and is unverified.",
+    "No candidate website, questionnaire, forum remarks or interview found."
+   ]
+  },
+  {
+   "ballot_name": "John Buckwalter",
+   "seat": "District 3",
+   "summary": "Incumbent and board president, running unopposed {nt_filed}{gccs_board}.",
+   "website": null,
+   "background": [
+    "In 2018 he was a STEM teacher educator and career and technical education instructor at IUPUI after 27 years as a K-12 teacher and administrator, all with Greater Clark, per the News and Tribune {nt_2018_d3}.",
+    "Holds a master's degree in education and a bachelor's degree in engineering technology education {nt_2018_d3}."
+   ],
+   "path_to_ballot": [
+    "Filed for re-election; listed without party (nonpartisan) {nt_filed}{in_list}. In May 2026 he said he had not decided whether to declare a party {nt_partisan}.",
+    "First ran for District 3 in 2018, when the seat was open {nt_2018_d3}{hyphen_2018}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "In May 2026 said he worried challengers could use taxes or Senate Bill 1 as political leverage {nt_partisan}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "At a 2018 forum, said earlier teacher surveys had not been acted on and that the board should address that {hyphen_2018}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Has objected to the 2025 law letting school board candidates run with party labels, including its rule that a party caucus fills a vacancy left by a member elected with that party label: \"The school board has nothing to say about it\" {nt_partisan}{nt_gc_phone}.",
+      "Said his colleagues hold a range of views but are \"really about the kids first and foremost\" {nt_partisan}."
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "In March 2026 said the district expected an \"away-for-the-day\" approach to the state's phone ban: \"bottom line is it's state law\" {nt_gc_phone}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member and the board president {gccs_board}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsement for 2026 was found in fetched sources."
+   ],
+   "gaps": [
+    "Current occupation not confirmed for 2026; background details date from 2018.",
+    "No 2026 campaign platform found (he is unopposed)."
+   ]
+  },
+  {
+   "ballot_name": "Tamara Tammy Yenawine Mustain",
+   "seat": "District 4",
+   "summary": "Incumbent, running unopposed {nt_filed}{gccs_board}.",
+   "website": null,
+   "background": [
+    "No occupation or community background was found in fetched sources."
+   ],
+   "path_to_ballot": [
+    "Filed for re-election; listed without party (nonpartisan) {nt_filed}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member; her term runs 2023-2026 {gccs_board}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsement for 2026 was found in fetched sources."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire or interview found; how she first joined the board was not confirmed."
+   ]
+  }
+ ],
+ "review_flags": [
+  {
+   "person": "Greater Clark board incl. Brian Jones, John Buckwalter, Tamara Tammy Yenawine Mustain",
+   "category": "personnel action",
+   "status": "held",
+   "summary": "In December 2025 the board voted 6-0 (Chelsea Crump recused) against the administration's recommendation to fire a Riverside Elementary physical education teacher who had been arrested in Kentucky on Sept. 6, 2025 and had not reported the arrest as district policy requires; he remained employed. Mustain said she voted no because the board did not have 'enough credible evidence to terminate his contract.' Buckwalter and Vice President Teresa Bottorff Perkins did not respond to requests for comment {nt_gc_teacher}.",
+   "note": "A board decision on an employee's criminal charges and an earlier warning about his conduct; voters may weigh it, but it involves a third party's charges. The article does not list each member's vote, but with six voting and one recused, it implies all three 2026 incumbents voted no."
+  }
+ ],
+ "sources": {
+  "nt_filed": [
+   "School board candidates for Clark, Floyd counties are in. Who's running in 2026",
+   "News and Tribune",
+   "2026-06-30",
+   "https://www.newsandtribune.com/news/school-board-candidates-for-clark-floyd-counties-are-in-whos-running-in-2026/article_f70583a6-c025-4768-b4dc-7ce503ce098a.html"
+  ],
+  "lpm_running": [
+   "Here's who's running for local seats in Clark and Floyd counties",
+   "Louisville Public Media",
+   "2026-07-17",
+   "https://www.lpm.org/news/2026-07-17/heres-whos-running-for-local-seats-in-clark-and-floyd-counties"
+  ],
+  "gccs_board": [
+   "Board of School Trustees",
+   "Greater Clark County Schools",
+   "2026-10",
+   "https://gccschools.com/home/our-district/school-board"
+  ],
+  "clark_sb": [
+   "Sample Ballots, November 2026 General Election",
+   "Clark County Clerk",
+   "2026",
+   "https://www.in.gov/counties/clarkcountyclerkofcourts/voting-and-elections/files/Sample-Ballots-November-2026.pdf"
+  ],
+  "clark_districts": [
+   "School Board Districts and Boundaries",
+   "Clark County Clerk",
+   "2026-10",
+   "https://secure.in.gov/counties/clarkcountyclerkofcourts/voting-and-elections/school-board-districts-and-boundaries"
+  ],
+  "wiki_gccs": [
+   "Greater Clark County Schools",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/Greater_Clark_County_Schools"
+  ],
+  "nt_gc_budget26": [
+   "Greater Clark County Schools approves budget with tax increase",
+   "News and Tribune",
+   "2025-10-15",
+   "https://www.newsandtribune.com/news/greater-clark-county-schools-approves-budget-with-tax-increase/article_99a30629-0b09-472a-841d-fa562350a635.html"
+  ],
+  "nt_gc_budget_pres": [
+   "Greater Clark presents 2026 budget, higher tax rate proposed",
+   "News and Tribune",
+   "2025-08-28",
+   "https://www.newsandtribune.com/news/greater-clark-presents-2026-budget-higher-tax-rate-proposed/article_a8d8dc4b-efe3-427c-97b5-6f05c1d75583.html"
+  ],
+  "nt_gc_phone": [
+   "Greater Clark school board grappling with school cell phone bans, changes to elections",
+   "News and Tribune",
+   "2026-04-20",
+   "https://www.newsandtribune.com/news/greater-clark-school-board-grappling-with-school-cell-phone-bans-changes-to-elections/article_34858c7d-29ca-4beb-8b57-66d3239e3e46.html"
+  ],
+  "nt_partisan": [
+   "'Going to hurt our kids': Local school board leaders unhappy with partisan elections",
+   "News and Tribune",
+   "2026-05-15",
+   "https://www.newsandtribune.com/news/going-to-hurt-our-kids-local-school-board-leaders-unhappy-with-partisan-elections/article_18f40008-b92c-4d59-9890-83cac61485af.html"
+  ],
+  "nt_gc_teacher": [
+   "Greater Clark board votes against terminating teacher contract",
+   "News and Tribune",
+   "2025-12-10",
+   "https://www.newsandtribune.com/news/greater-clark-board-votes-against-terminating-teacher-contract/article_78f5b446-ba07-497c-8e31-ab0845355cb5.html"
+  ],
+  "nt_gearup": [
+   "Greater Clark college prep program to end after federal funding cut",
+   "News and Tribune",
+   "2025-09-30",
+   "https://www.newsandtribune.com/news/greater-clark-college-prep-program-to-end-after-federal-funding-cut/article_ec27c49e-60d6-4fa5-ba1c-e347d26a1b31.html"
+  ],
+  "nt_ilearn": [
+   "Southern Indiana school officials analyze ILEARN results",
+   "News and Tribune",
+   "2025-07-21",
+   "https://www.newsandtribune.com/news/southern-indiana-school-officials-analyze-ilearn-results/article_c7fd459c-2ac1-486b-a514-029d4dc35e99.html"
+  ],
+  "nt_iread": [
+   "Local school districts see more gains in reading scores, following in state's footsteps",
+   "News and Tribune",
+   "2026-08-14",
+   "https://www.newsandtribune.com/news/local-school-districts-see-more-gains-in-reading-scores-following-in-states-footsteps/article_b83fa2b9-cffe-4694-a696-94a842b02057.html"
+  ],
+  "nt_jrdc": [
+   "Jeffersonville Redevelopment approves school funding request in 3-2 vote",
+   "News and Tribune",
+   "2026-07-30",
+   "https://www.newsandtribune.com/news/jeffersonville-redevelopment-approves-school-funding-request-in-3-2-vote/article_1b4ef3e6-b946-466b-b1d0-97663ea69966.html"
+  ],
+  "nt_2018_d3": [
+   "Three newcomers eye Greater Clark County Schools District 3 seat",
+   "News and Tribune",
+   "2018-10",
+   "https://www.newsandtribune.com/news/clark_county/three-newcomers-eye-greater-clark-county-schools-district-3-seat/article_b95e5ad0-d16a-11e8-a124-c34fec86f691.html"
+  ],
+  "hyphen_2018": [
+   "Meet the Candidates: Greater Clark County School Board",
+   "The Hyphen",
+   "2018-11-02",
+   "https://thehyphennews.com/2018/11/02/meet-the-candidates-greater-clark-county-school-board/"
+  ]
+ }
+}

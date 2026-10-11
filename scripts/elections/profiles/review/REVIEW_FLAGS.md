@@ -34,6 +34,13 @@ Sensitive items held for a second, careful editorial pass (criminal cases, misco
   Note: Board-approved firing as Irwin STEM principal, with his account. Previously shown in the public profile.
   - [Fort Wayne school board candidate axed from principal post](https://www.journalgazette.net/local/schools/fort-wayne-school-board-candidate-axed-from-principal-post/article_f52aa56a-d5da-4bb9-a95e-a198c82f14a5.html) — The Journal Gazette, 2026-09-28
 
+## Indiana School Board Member (`in-school-board-greater-clark`)
+
+- **Greater Clark board incl. Brian Jones, John Buckwalter, Tamara Tammy Yenawine Mustain** — personnel action — _held_
+  In December 2025 the board voted 6-0 (Chelsea Crump recused) against the administration's recommendation to fire a Riverside Elementary physical education teacher who had been arrested in Kentucky on Sept. 6, 2025 and had not reported the arrest as district policy requires; he remained employed. Mustain said she voted no because the board did not have 'enough credible evidence to terminate his contract.' Buckwalter and Vice President Teresa Bottorff Perkins did not respond to requests for comment.
+  Note: A board decision on an employee's criminal charges and an earlier warning about his conduct; voters may weigh it, but it involves a third party's charges. The article does not list each member's vote, but with six voting and one recused, it implies all three 2026 incumbents voted no.
+  - [Greater Clark board votes against terminating teacher contract](https://www.newsandtribune.com/news/greater-clark-board-votes-against-terminating-teacher-contract/article_78f5b446-ba07-497c-8e31-ab0845355cb5.html) — News and Tribune, 2025-12-10
+
 ## Indiana School Board Member (`in-school-board-hammond`)
 
 - **Carlotta Blake King** — remark — _held_
