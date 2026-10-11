@@ -1,0 +1,152 @@
+{
+ "race_id": "in-school-board-sheridan",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The 'Sheridan School Board' seats belong to Sheridan Community Schools, based in Sheridan in northwestern Hamilton County; the district's boundaries cover parts of both Hamilton and Boone counties {wfyi_2026}{nces_sheridan}. Federal data list 1,169 students in three schools in 2024-25 {nces_sheridan}. Dr. Dave Mundy is superintendent {reporter_ref_2026}.",
+  "The Board of Trustees has five members {reporter_2023}. Seats carry area labels: two Adams Township seats and an at-large seat were on the 2022 ballot, and two Marion Township (Boone County) seats were on the 2024 ballot, held then by Dan Fleming and John Hunt {hc_2022}{wfyi_2024}. Tyler Henning is board president {reporter_ref_2026}. This guide did not find the district's written election plan or a current board roster on the district website, which did not load during research.",
+  "Seats on the 2026 ballot: WFYI reports two Adams Township seats and one At Large seat, all three held by incumbents who are running again {wfyi_2026}. The state list shows the Adams Township race as 'vote for 1' {in_list}, but in 2022 the Hamilton County ballot listed it as 'vote for 2' {hc_2022}. If two Adams Township seats are elected, as WFYI reports, both Adams Township candidates would be seated.",
+  "2022 results (Hamilton County portion only): in Adams Township (vote for 2), Kim Zachery received 1,048 votes and Tyler Henning 826, and both were seated as new members {hc_2022}{reporter_2023}. In the At Large race, Nancy Boone received 686 votes, Cheri Hume 466 and Drew J Carlisle 290 {hc_2022}. The Reporter described Boone as representing Marion Township in Boone County and said 2022 was her second-term win {reporter_2023}. Boone County's share of the vote was not checked.",
+  "Party labels: 2026 is the first Hamilton County school board election under a state law that lets candidates list a party, list as independent or list no affiliation on the ballot {wfyi_2026}. Henning is listed as Independent; Zachery and Boone are listed as Nonpartisan on the state list and as 'no party' by WFYI {in_list}{wfyi_2026}.",
+  "Operating referendum on the same ballot (Nov. 3, 2026): Sheridan Community School Corporation asks voters to approve a property tax rate of up to $0.40 per $100 of assessed value for up to eight years, with a maximum annual levy of $2.9 million, to fund 'educational and operational stability in response to reductions in property tax revenue,' including teacher and staff retention, academic programs and operating costs {dlgf_sheridan}. The ballot question says a median residence of $250,000 would pay $454 more per year if it passes, and notes that the district's 2023 operating referendum passed {dlgf_sheridan}. The state approved the ballot language June 10, 2026 {dlgf_sheridan}.",
+  "Budget and SEA 1 (2025 property-tax law): in a district announcement, board president Henning said the new referendum 'was not part of our original long-range financial planning' and was needed because of Senate Enrolled Act 1; the district said the new rate would replace, not add to, the 2023 referendum rate and aims to keep the same level of referendum funding voters approved in 2023 {reporter_ref_2026}. The district said the 2023 referendum passed with about 84 percent support and that cost-saving measures had already cut several hundred thousand dollars this budget cycle {reporter_ref_2026}. That announcement gives the current and proposed rates per $1,000 of assessed value, while the state's ballot-language ruling states the proposed maximum as $0.40 per $100 {reporter_ref_2026}{dlgf_sheridan}.",
+  "Forums: this guide found no 2026 candidate forum, questionnaire or news coverage of the candidates' views."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Kim Zachery",
+   "seat": "Adams Township",
+   "summary": "Incumbent seeking a second term in Adams Township, listed with the Nonpartisan label {wfyi_2026}{in_list}.",
+   "website": null,
+   "background": [
+    "Before joining the board, worked 22 years with the superintendent and school board at Westfield Washington Schools and then worked for an educational nonprofit, according to The Reporter in January 2023 {reporter_2023}."
+   ],
+   "path_to_ballot": [
+    "Filed for an Adams Township seat with the Nonpartisan label {in_list}; WFYI lists her as an incumbent with no party {wfyi_2026}.",
+    "First elected in 2022, when she and Tyler Henning ran for the two Adams Township seats {hc_2022}{reporter_2023}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {wfyi_2026}. When seated in January 2023 she told The Reporter, 'The Sheridan community is growing and changing' {reporter_2023}. No statement on the board's recent decisions, including the 2026 referendum, was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, social media page, questionnaire, forum remarks or 2026 news coverage of this campaign were found.",
+    "Current occupation could not be confirmed beyond the 2023 description.",
+    "Hamilton and Boone County campaign finance filings were not available online and were not checked."
+   ]
+  },
+  {
+   "ballot_name": "Tyler Henning",
+   "seat": "Adams Township",
+   "summary": "Incumbent and current board president seeking a second term in Adams Township, listed as Independent {wfyi_2026}{reporter_ref_2026}.",
+   "website": null,
+   "background": [
+    "Senior geologist for a global engineering company, focusing on investigating and redeveloping commercial and industrial properties, according to The Reporter in January 2023 {reporter_2023}.",
+    "Board president as of June 2026 {reporter_ref_2026}."
+   ],
+   "path_to_ballot": [
+    "Filed for an Adams Township seat as an Independent {in_list}{wfyi_2026}.",
+    "First elected in 2022 in the two-seat Adams Township race {hc_2022}{reporter_2023}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "As board president, backed the 2026 operating referendum, saying it is needed after SEA 1 and is about 'maintaining what we have built together as a community' {reporter_ref_2026}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member and the board's president {reporter_ref_2026}. In the district's June 2026 referendum announcement he said, 'This referendum is about maintaining what we have built together as a community,' and that the referendum was not part of the long-range financial plan the district began four years earlier {reporter_ref_2026}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, social media page, questionnaire, forum remarks or news coverage of this campaign were found.",
+    "His statements found are made as board president in a district announcement, not as a candidate.",
+    "Hamilton and Boone County campaign finance filings were not available online and were not checked."
+   ]
+  },
+  {
+   "ballot_name": "Nancy Boone",
+   "seat": "At Large",
+   "summary": "Incumbent seeking reelection to the At Large seat, unopposed, listed with the Nonpartisan label {wfyi_2026}{in_list}.",
+   "website": null,
+   "background": [
+    "The Reporter described her in 2023 as representing Marion Township in Boone County {reporter_2023}. No occupation or other background was found."
+   ],
+   "path_to_ballot": [
+    "Filed for the At Large seat with the Nonpartisan label {in_list}; WFYI lists her as an incumbent with no party {wfyi_2026}.",
+    "Won the At Large seat in 2022 over Cheri Hume and Drew J Carlisle; The Reporter called it her second term {hc_2022}{reporter_2023}. She is unopposed in 2026 {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {wfyi_2026}. No statement on the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, social media page, questionnaire, forum remarks or news coverage of this campaign were found.",
+    "Occupation, community roles and ties to the schools could not be confirmed.",
+    "When she first joined the board was not confirmed.",
+    "Hamilton and Boone County campaign finance filings were not available online and were not checked."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "wfyi_2026": [
+   "Here's who's running for Hamilton County school boards — some chose a political party",
+   "WFYI Public Media",
+   "2026-07-01",
+   "https://www.wfyi.org/education/2026-07-01/hamilton-county-school-board-candidates-2026-election"
+  ],
+  "wfyi_2024": [
+   "Hamilton County school board elections: candidates for November 2024",
+   "WFYI Public Media",
+   "2024-06-26",
+   "https://www.wfyi.org/news/articles/hamilton-county-school-board-elections-candidates-november-2024"
+  ],
+  "nces_sheridan": [
+   "District Directory Information: Sheridan Community Schools",
+   "National Center for Education Statistics",
+   "2026-10",
+   "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?Search=1&details=1&InstName=Sheridan&State=18&ID2=1806480"
+  ],
+  "reporter_2023": [
+   "Sheridan welcomes new school board members & thanks those who served",
+   "The Reporter",
+   "2023-01-13",
+   "https://readthereporter.com/?p=91385"
+  ],
+  "reporter_ref_2026": [
+   "Sheridan Community Schools seeks referendum renewal in November",
+   "The Reporter (submitted by Sheridan Community Schools)",
+   "2026-06-26",
+   "https://readthereporter.com/?p=196544"
+  ],
+  "hc_2022": [
+   "2022 General Election Summary Report",
+   "Hamilton County Election Office",
+   "2022-11-18",
+   "https://secure2.hamiltoncounty.in.gov/Elections/2022G/results/ElectionSummary.htm"
+  ],
+  "dlgf_sheridan": [
+   "Findings and Final Determination on Proposed Question, No. 26-003-REF (Sheridan Community School Corporation)",
+   "Indiana Department of Local Government Finance",
+   "2026-06-10",
+   "https://www.in.gov/dlgf/files/referendum-documentation2/2026-november-referendum-documents/26-003-Sheridan-Community-School-Corporation-Operating-Determination.pdf"
+  ]
+ }
+}

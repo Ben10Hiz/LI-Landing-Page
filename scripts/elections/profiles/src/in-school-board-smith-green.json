@@ -1,0 +1,167 @@
+{
+ "race_id": "in-school-board-smith-green",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The 'Smith-Green School Board' seats belong to Smith-Green Community Schools, based in Churubusco, which serves Smith Township in Whitley County and Green Township in Noble County {nces_sg}{wc_sb_2024}{wiki_sg}. Federal data list 1,103 students in two schools in 2024-25 {nces_sg}. Dr. Paul Voigt is superintendent {sg_admin}.",
+  "The board has five members: three district seats (Districts 1 and 2 in Smith Township, District 3 in Green Township), elected in 2020, 2024 and 2028, and two at-large seats, elected in 2018, 2022 and 2026 {wc_sb_2024}. Every member is elected by voters in both townships {wc_sb_2024}. Under the county's filing guide, at-large members can live in any district, but the two at-large members cannot live in the same district {wc_sb_2024}.",
+  "Current members: Emily Putt (District 1), Brian Clark (District 2) and Jermiah Johnson (District 3), with terms to Dec. 31, 2028; and Kassie Taksey ('District 1 At Large') and Jeremy Hart ('District 2 At Large'), with terms ending Dec. 31, 2026 {sg_board}. Putt, Clark and Johnson were elected unopposed in 2024 {wc_2024}.",
+  "Seats on the 2026 ballot: both at-large seats, listed by Whitley County as 'Smith Green Community School Board – At Large (2)' {wc_2026_offices}. The state list shows the race as 'vote for 1' {in_list}; this guide could not confirm how the two seats appear on the ballot. Three candidates are running: incumbent Kassie Taksey and newcomers David Schafer and Marcus B Elam; incumbent Jeremy Hart is not on the ballot {in_list}{sg_board}.",
+  "2022 results (Whitley County portion only): Whitley County listed the races as Smith-Green 'SB District 1', 'District 2' and 'District 3' {wc_2022}. Kassie Jo Taksey won District 1 with 783 votes to 629 for Brice Lee Winget, and Jeremy A. Hart won District 2 with 907 votes to 440 for Steven Thomas {wc_2022}. Noble County's share of the vote was not checked.",
+  "Party labels: Schafer and Taksey are listed as Republicans and Elam as an Independent {in_list}. Candidates filed in the Whitley County Clerk's office from May 19 to noon June 18, 2026 {wc_2026_offices}.",
+  "Operating referendum on the same ballot (Nov. 3, 2026): the district asks voters to continue its operating referendum for up to eight years, changing the current maximum rate of $0.6280 to no more than $0.4988 per $100 of assessed value, with a maximum annual levy of $2,176,300 {dlgf_sg}. The ballot question says it responds to 'reductions in property tax revenue' and would fund health and safety, teacher and staff retention, class sizes, transportation and academic programs; it renews the referendum voters passed in 2018 {dlgf_sg}. The district's spending plan budgets about 52% ($1,131,676) for teachers, staff and class sizes and about 16% each for health and safety, transportation, and academic and support programs {sg_spending}.",
+  "Tax figures in the ballot question: it states that if the question is not approved, the tax bill on a median residence of $200,000 would decrease by $431 a year; the state's ruling separately records a county-certified increase of $566 for the median household if it passes {dlgf_sg}. The state approved the ballot language July 23, 2026 {dlgf_sg}. This guide found no news reporting on the referendum or on how the 2025 property-tax law (SEA 1) affects the district's budget.",
+  "Forums: this guide found no 2026 candidate forum, questionnaire or news coverage of the candidates' views. Board agendas and minutes are posted on the district's online meeting portal {sg_agendas}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "David Schafer",
+   "seat": "At Large",
+   "summary": "Candidate for an at-large seat, listed with the Republican label; this guide found no public information about the campaign {in_list}.",
+   "website": null,
+   "background": [
+    "No campaign biography was found; see gaps."
+   ],
+   "path_to_ballot": [
+    "Filed for an at-large seat with the Republican label {in_list}. Smith-Green candidates file petitions with at least 10 signatures at the Whitley County Clerk's office {wc_sb_2024}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, social media page, questionnaire, forum remarks or news coverage of this campaign were found.",
+    "Occupation, community roles, ties to the schools and which district he lives in could not be confirmed.",
+    "Whitley and Noble County campaign finance filings were not available online and were not checked.",
+    "This guide could not tie any online record to this candidate; other people share the name."
+   ]
+  },
+  {
+   "ballot_name": "Kassie Taksey",
+   "seat": "At Large",
+   "summary": "Incumbent seeking a second term in an at-large seat, listed with the Republican label {sg_board}{in_list}.",
+   "website": null,
+   "background": [
+    "Current board member whose term ends Dec. 31, 2026 {sg_board}. No occupation or other background was found."
+   ],
+   "path_to_ballot": [
+    "Filed for an at-large seat with the Republican label {in_list}.",
+    "Elected in 2022 as Kassie Jo Taksey, defeating Brice Lee Winget in the race Whitley County listed as Smith-Green 'SB District 1' {wc_2022}; the district lists her seat as 'District 1 At Large' {sg_board}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {sg_board}. No statement from her on the board's record, including the 2026 referendum, was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, social media page, questionnaire, forum remarks or news coverage of this campaign were found.",
+    "Occupation, community roles and ties to the schools could not be confirmed.",
+    "Whitley and Noble County campaign finance filings were not available online and were not checked."
+   ]
+  },
+  {
+   "ballot_name": "Marcus B Elam",
+   "seat": "At Large",
+   "summary": "Candidate for an at-large seat, listed as Independent; this guide found no public information about the campaign {in_list}.",
+   "website": null,
+   "background": [
+    "No campaign biography was found; see gaps."
+   ],
+   "path_to_ballot": [
+    "Filed for an at-large seat as an Independent {in_list}. Smith-Green candidates file petitions with at least 10 signatures at the Whitley County Clerk's office {wc_sb_2024}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement on the current board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, social media page, questionnaire, forum remarks or news coverage of this campaign were found.",
+    "Occupation, community roles, ties to the schools and which district he lives in could not be confirmed.",
+    "Whitley and Noble County campaign finance filings were not available online and were not checked."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "nces_sg": [
+   "District Directory Information: Smith-Green Community Schools",
+   "National Center for Education Statistics",
+   "2026-10",
+   "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?Search=1&details=1&InstName=Smith-Green&State=18&ID2=1810230"
+  ],
+  "wiki_sg": [
+   "Smith–Green Community Schools",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/Smith%E2%80%93Green_Community_Schools"
+  ],
+  "sg_admin": [
+   "Administration",
+   "Smith-Green Community Schools",
+   "2026-10",
+   "https://www.sgcs.k12.in.us/administration"
+  ],
+  "sg_board": [
+   "Board Members (Board Member Terms of Office)",
+   "Smith-Green Community Schools",
+   "2026-10",
+   "https://www.sgcs.k12.in.us/190273_3"
+  ],
+  "sg_agendas": [
+   "Current Agendas and Minutes",
+   "Smith-Green Community Schools",
+   "2026-10",
+   "https://www.sgcs.k12.in.us/190274_3"
+  ],
+  "wc_sb_2024": [
+   "School Board Elections (2024 filing guide)",
+   "Whitley County, Indiana",
+   "2024-05",
+   "https://www.whitleycounty.in.gov/egov/documents/1715867192_96251.pdf"
+  ],
+  "wc_2026_offices": [
+   "Offices on the Ballot in 2026",
+   "Whitley County, Indiana",
+   "2025-07",
+   "https://www.whitleycounty.in.gov/egov/documents/1752175172_94185.pdf"
+  ],
+  "wc_2022": [
+   "2022 General Election Summary Report",
+   "Whitley County, Indiana",
+   "2022-11-18",
+   "https://www.whitleycounty.in.gov/egov/documents/1668797942_61787.pdf"
+  ],
+  "wc_2024": [
+   "2024 General Election Summary Report",
+   "Whitley County, Indiana",
+   "2024-11-05",
+   "https://www.whitleycounty.in.gov/egov/documents/1730854006_61602.pdf"
+  ],
+  "dlgf_sg": [
+   "Findings and Final Determination on Proposed Question, No. 26-042-REF (Smith-Green Community Schools)",
+   "Indiana Department of Local Government Finance",
+   "2026-07-23",
+   "https://www.in.gov/dlgf/files/referendum-documentation2/2026-november-referendum-documents/26-042-Smith-Green-Community-Schools-Operating.pdf"
+  ],
+  "sg_spending": [
+   "Smith-Green Community Schools Proposed Revenue Spending Plan",
+   "Smith-Green Community Schools (via Indiana DLGF)",
+   "2026-07",
+   "https://www.in.gov/dlgf/files/referendum-documentation2/2026-november-referendum-documents/Smith-Green-Spending-Plan.pdf"
+  ]
+ }
+}
