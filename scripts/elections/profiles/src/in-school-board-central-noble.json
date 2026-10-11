@@ -1,0 +1,272 @@
+{
+ "race_id": "in-school-board-central-noble",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The district: Central Noble Community School Corporation is based in Albion in Noble County. Its schools are Central Noble Primary, Central Noble Elementary and Central Noble Jr/Sr High, which is in Albion {cn_ws251103}{cn_min260119}. The business manager's August 2026 budget estimates used an enrollment of 1,084 {cn_min260817}. Dr. Barry Younghans became superintendent when the board voted 5-0 on Dec. 15, 2025 to hire him {cn_min251215}.",
+  "Board: five members. The seats are Albion Township, Noble Township, Jefferson Township, York Township and one at-large seat {noble_2022}{noble_2024}. The 2026 sample ballot shows voters in a York Township precinct voting in all three 2026 races, so voters across the district elect each seat while the township seats are tied to residence {noble_sb26}. In January 2026 the members were Amanda Lock (president), Jared Knipper (vice president), Tyler Schuller (secretary), Brian Geiger and Jason Schoeff {cn_min260119}.",
+  "Seats on the 2026 ballot: three seats, one per race, matching the state list's \"vote for 1\" in each {noble_sb26}{in_list}. Albion Township: Jason Schoeff won it unopposed in 2022 {noble_2022}. He left the board in May 2026, citing out-of-state work, and on June 15, 2026 the board voted 4-0 to appoint Lisa Anglin {cn_min260518}{cn_min260615}. Anglin is running against Dalton Jellison {in_list}. Noble Township: Brian Geiger won it unopposed in 2022 {noble_2022}. He is not on the ballot, and Heather Thompson is the only candidate {in_list}{noble_sb26}. At large: Jared Knipper won it in 2022, defeating incumbent Eric Custer {noble_2022}. He is not on the ballot; Andrew McGill and Bernie Lawson are running {in_list}.",
+  "Other board change: on Aug. 17, 2026 the board accepted the resignation of Tyler Schuller (York Township), whose seat is not up until 2028 {cn_min260817}{noble_2024}. Board president Lock said the seat would be filled by appointment, with a recommendation planned for September {cn_min260817}. The Sept. 14, 2026 agenda listed the seat as vacant and included an item to appoint a board member {cn_ag260914}. The district's board-members page now lists five members: Lisa Anglin, Brian Geiger, Jared Knipper, Bernadette Lawson and Amanda Lock (president) {cn_board}. No fetched minutes record a September appointment, and no fetched source says which seat Bernadette Lawson holds.",
+  "Party labels: on the state list, Andrew McGill, Bernie Lawson and Heather Thompson are Republican, and Dalton Jellison and Lisa Anglin are Nonpartisan {in_list}. The Noble County sample ballot shows the same labels and says a straight-party vote does not count in these races {noble_sb26}.",
+  "Failed referendum (May 2025): on May 6, 2025 voters rejected an operating referendum that would have added 19 cents per $100 of net assessed value {wboi_ref}. The district said it had lost more than $2.4 million in state funding because of declining enrollment and the voucher program {wboi_ref}. It also cited SEA 1 and said staff cuts, school closures and larger classes were possible results {wboi_ref}.",
+  "Superintendent turnover: on Nov. 3, 2025 Superintendent Robby Morgan read a letter about the difficulties of the job and resigned effective Dec. 5, 2025; the board accepted the resignation 4-0 on Nov. 10 {cn_ss251103}{cn_ss251110}. At the Dec. 15 hearing on the new superintendent's contract, a resident asked why the job had not been posted to outside applicants {cn_min251215}. The board then hired Younghans 5-0 {cn_min251215}.",
+  "Four-day week: on Nov. 17, 2025 the board voted 5-0 to apply for a state waiver to move to a four-day school week {cn_min251117}. On Feb. 16, 2026 Younghans reported that the state would not consider the district's HEA 1003 waiver, and the board dropped the item {cn_min260216}.",
+  "Budget and SEA 1: in March 2026 Younghans told the board that the effects of SB1 [SEA 1] reach every public school in the state {cn_min260316}. He said the last referendum cost the district about $89,000 and that a referendum \"isn't a lifesaver, just a help\" {cn_min260316}. In June 2026 the business manager put the state's supplemental homestead credit to offset SB1 losses at a maximum of about $77,520 {cn_min260615}.",
+  "Building consolidation: at a public work session on March 30, 2026, staff and community groups gave input on consolidating buildings and on a possible referendum {cn_ws260330}{cn_wsinfo260330}. The district's summary said participants saw community support for a 2026 referendum as \"unlikely at this time\" {cn_wsinfo260330}. On April 27, 2026 the board voted 3-2 to consolidate Central Noble Primary onto the Albion campus by fall 2027 {cn_min260427ss}. The minutes do not record how each member voted {cn_min260427ss}. At the same meeting, Knipper moved to pursue a referendum in fall 2026; no member seconded it, so it failed {cn_min260427ss}. Teachers who spoke at the work session were split: some asked for a phased move or another year at the Primary, and one urged moving ahead {cn_min260427ws}.",
+  "Accountability and other items: in May 2026 Jr/Sr High administrators briefed the board on Indiana's new accountability rules and school grades {cn_min260518}. In 2025-26 the district also worked to replace a school resource officer and dealt with a shortage of bus drivers {cn_min260119}{cn_min260216}.",
+  "Forums: no candidate forum, questionnaire or news profile for the 2026 Central Noble races was found. KPC Media (the local newspaper group) covered board meetings, but no 2026 candidate coverage turned up in searches {cn_min260817}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Lisa Anglin",
+   "seat": "Albion Township",
+   "summary": "Incumbent by appointment: the board appointed her to the Albion Township seat on June 15, 2026 to replace Jason Schoeff. Listed as Nonpartisan {cn_min260615}{in_list}.",
+   "website": null,
+   "background": [
+    "The board appointed her 4-0 on June 15, 2026, on the recommendation of board president Amanda Lock. Lock said there were three applicants, that she checked references for all three, and that she decided public interviews were not needed {cn_min260615}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Nonpartisan for the Albion Township seat {in_list}{noble_sb26}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member, appointed in June 2026 {cn_min260615}{cn_board}. The fetched minutes from July and August 2026 record no comments from her on board decisions {cn_min260720}{cn_min260817}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No occupation, biography, campaign statement, website or questionnaire was found.",
+    "Her votes since joining the board were not reviewed item by item beyond the July and August 2026 minutes."
+   ]
+  },
+  {
+   "ballot_name": "Dalton Jellison",
+   "seat": "Albion Township",
+   "summary": "Challenger for the Albion Township seat now held by appointee Lisa Anglin; listed as Nonpartisan {in_list}{cn_min260615}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Nonpartisan for the Albion Township seat {in_list}{noble_sb26}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement about the current board's decisions was found in fetched sources."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No biography, occupation, statement, website, questionnaire or forum appearance was found.",
+    "Fetched sources do not say whether he was one of the three applicants for the Albion Township appointment in June 2026."
+   ]
+  },
+  {
+   "ballot_name": "Bernie Lawson",
+   "seat": "At Large",
+   "summary": "Candidate for the open at-large seat (incumbent Jared Knipper is not on the ballot); listed as Republican {in_list}{noble_2022}.",
+   "website": null,
+   "background": [
+    "In public comment at the July 20, 2026 board meeting, she said she is on the ballot for the at-large seat and spoke about her background, including service on County Council, according to the minutes {cn_min260720}. She attended again on Aug. 17, 2026 and said she was there to see what the meetings are about {cn_min260817}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Republican for the at-large seat {in_list}{noble_sb26}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement about the current board's decisions was found in fetched sources."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "The minutes do not say which county council she served on, or when; a search did not confirm it.",
+    "The district's board-members page lists a 'Bernadette Lawson' as a current board member, and the Sept. 14, 2026 agenda included appointing someone to the vacant York Township seat. No fetched source confirms that this is the same person, or that she was appointed.",
+    "No occupation, campaign statement, website or questionnaire was found."
+   ]
+  },
+  {
+   "ballot_name": "Andrew McGill",
+   "seat": "At Large",
+   "summary": "Candidate for the open at-large seat (incumbent Jared Knipper is not on the ballot); listed as Republican {in_list}{noble_2022}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Republican for the at-large seat {in_list}{noble_sb26}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement about the current board's decisions was found in fetched sources."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No biography, occupation, statement, website, questionnaire or forum appearance was found."
+   ]
+  },
+  {
+   "ballot_name": "Heather Thompson",
+   "seat": "Noble Township",
+   "summary": "Unopposed candidate for the Noble Township seat, where incumbent Brian Geiger is not on the ballot; listed as Republican {in_list}{noble_sb26}{noble_2022}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Republican for the Noble Township seat; she is the only candidate {in_list}{noble_sb26}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement about the current board's decisions was found in fetched sources."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No biography, occupation, statement, website, questionnaire or forum appearance was found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "cn_board": [
+   "Board Members",
+   "Central Noble Community School Corporation",
+   "2026-10",
+   "https://www.centralnoble.k12.in.us/cncsc/school-board/board-members"
+  ],
+  "cn_ss251103": [
+   "Board of Education special session minutes, Nov. 3, 2025",
+   "Central Noble Community School Corporation",
+   "2025-11-03",
+   "https://www.centralnoble.k12.in.us/document-library-list-view/central-noble-school-board-documents/minutes/2025-1/1299-november-3-2025-special-session/file"
+  ],
+  "cn_ws251103": [
+   "Board of Education work session minutes, Nov. 3, 2025",
+   "Central Noble Community School Corporation",
+   "2025-11-03",
+   "https://www.centralnoble.k12.in.us/document-library-list-view/central-noble-school-board-documents/minutes/2025-1/1300-november-3-2025-work-session-1/file"
+  ],
+  "cn_ss251110": [
+   "Board of Education special session minutes, Nov. 10, 2025",
+   "Central Noble Community School Corporation",
+   "2025-11-10",
+   "https://www.centralnoble.k12.in.us/document-library-list-view/central-noble-school-board-documents/minutes/2025-1/1302-november-10-2025-special-session/file"
+  ],
+  "cn_min251117": [
+   "Board of Education meeting minutes, Nov. 17, 2025",
+   "Central Noble Community School Corporation",
+   "2025-11-17",
+   "https://www.centralnoble.k12.in.us/document-library-list-view/central-noble-school-board-documents/minutes/2025-1/1314-november-17-2025-1/file"
+  ],
+  "cn_min251215": [
+   "Board of Education meeting minutes, Dec. 15, 2025",
+   "Central Noble Community School Corporation",
+   "2025-12-15",
+   "https://www.centralnoble.k12.in.us/document-library-list-view/central-noble-school-board-documents/minutes/2025-1/1318-december-15-2025-1/file"
+  ],
+  "cn_min260119": [
+   "Board of Education reorganization meeting minutes, Jan. 19, 2026",
+   "Central Noble Community School Corporation",
+   "2026-01-19",
+   "https://www.centralnoble.k12.in.us/document-library-list-view/central-noble-school-board-documents/minutes/2026/1327-january-19-2026/file"
+  ],
+  "cn_min260216": [
+   "Board of Education meeting minutes, Feb. 16, 2026",
+   "Central Noble Community School Corporation",
+   "2026-02-16",
+   "https://www.centralnoble.k12.in.us/document-library-list-view/central-noble-school-board-documents/minutes/2026/1335-february-16-2026-1/file"
+  ],
+  "cn_min260316": [
+   "Board of Education meeting minutes, March 16, 2026",
+   "Central Noble Community School Corporation",
+   "2026-03-16",
+   "https://www.centralnoble.k12.in.us/document-library-list-view/central-noble-school-board-documents/minutes/2026/1343-march-16-2026-1/file"
+  ],
+  "cn_ws260330": [
+   "Board of Education public work session minutes, March 30, 2026",
+   "Central Noble Community School Corporation",
+   "2026-03-30",
+   "https://www.centralnoble.k12.in.us/document-library-list-view/central-noble-school-board-documents/minutes/2026/1344-march-30-2026-public-work-session/file"
+  ],
+  "cn_wsinfo260330": [
+   "March 30, 2026 Public Work Session Info Review",
+   "Central Noble Community School Corporation",
+   "2026-03",
+   "https://www.centralnoble.k12.in.us/document-library-list-view/central-noble-school-board-documents/minutes/2026/1340-march-30-2026-public-work-session-info-review/file"
+  ],
+  "cn_min260427ws": [
+   "Board of Education public work session minutes, April 27, 2026",
+   "Central Noble Community School Corporation",
+   "2026-04-27",
+   "https://www.centralnoble.k12.in.us/document-library-list-view/central-noble-school-board-documents/minutes/2026/1359-april-27-2026-public-work-session-1/file"
+  ],
+  "cn_min260427ss": [
+   "Board of Education special session minutes, April 27, 2026",
+   "Central Noble Community School Corporation",
+   "2026-04-27",
+   "https://www.centralnoble.k12.in.us/document-library-list-view/central-noble-school-board-documents/minutes/2026/1360-april-27-2026-special-session-1/file"
+  ],
+  "cn_min260518": [
+   "Board of Education meeting minutes, May 18, 2026",
+   "Central Noble Community School Corporation",
+   "2026-05-18",
+   "https://www.centralnoble.k12.in.us/document-library-list-view/central-noble-school-board-documents/minutes/2026/1378-may-18-2026-1/file"
+  ],
+  "cn_min260615": [
+   "Board of Education meeting minutes, June 15, 2026",
+   "Central Noble Community School Corporation",
+   "2026-06-15",
+   "https://www.centralnoble.k12.in.us/document-library-list-view/central-noble-school-board-documents/minutes/2026/1386-june-15-2026-1/file"
+  ],
+  "cn_min260720": [
+   "Board of Education meeting minutes, July 20, 2026",
+   "Central Noble Community School Corporation",
+   "2026-07-20",
+   "https://www.centralnoble.k12.in.us/document-library-list-view/central-noble-school-board-documents/minutes/2026/1399-july-20-2026-1/file"
+  ],
+  "cn_min260817": [
+   "Board of Education meeting minutes, Aug. 17, 2026",
+   "Central Noble Community School Corporation",
+   "2026-08-17",
+   "https://www.centralnoble.k12.in.us/document-library-list-view/central-noble-school-board-documents/minutes/2026/1405-august-17-2026-1/file"
+  ],
+  "cn_ag260914": [
+   "Board of Education meeting agenda, Sept. 14, 2026",
+   "Central Noble Community School Corporation",
+   "2026-09-10",
+   "https://www.centralnoble.k12.in.us/document-library-list-view/central-noble-school-board-documents/agendas/2026-1/1404-september-14-2026/file"
+  ],
+  "wboi_ref": [
+   "Central Noble schools referendum fails",
+   "89.1 WBOI (Northeast Indiana Public Radio)",
+   "2025-05-07",
+   "https://www.wboi.org/education/2025-05-07/central-noble-schools-referendum-fails"
+  ],
+  "noble_2022": [
+   "2022 General Election results",
+   "Noble County, Indiana",
+   "2022-11",
+   "https://www.in.gov/counties/noble/election-info/historical-election-info/2022-general-election/"
+  ],
+  "noble_2024": [
+   "2024 General Election results",
+   "Noble County, Indiana",
+   "2024-11",
+   "https://www.in.gov/counties/noble/election-info/historical-election-info/2024-general-election/"
+  ],
+  "noble_sb26": [
+   "2026 General Election sample ballot, Precinct 08-York 8",
+   "Noble County, Indiana",
+   "2026-10",
+   "https://www.in.gov/counties/noble/files/2026-general-election-sample-balllots/P8.pdf"
+  ]
+ }
+}

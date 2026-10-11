@@ -1,0 +1,190 @@
+{
+ "race_id": "in-school-board-decatur-county",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The 'Decatur County School Board' races on the state list are for Decatur County Community Schools, whose central office is at 2020 N. Montgomery Rd. in Greensburg {dccs_min_20260812}. The district says nearly 1,800 students attend its schools {dccs_who}. It runs four schools: North Decatur Elementary, South Decatur Elementary, North Decatur Jr.-Sr. High and South Decatur Jr.-Sr. High {dccs_who}{dccs_dir}. The state list labels each race '(Decatur, Shelby)', meaning the district's voters include part of Shelby County {in_list}.",
+  "The superintendent is Dr. Jarrod Burns {dccs_central}.",
+  "The board has seven elected members {dccs_board}. The district lists them as Todd Mauer (president), Matt Hoeing (vice president), Lizette Bell (secretary), Nick Anderson, Elizabeth Hochstedler, Alison Ortman and Cory Ross {dccs_board}.",
+  "Seats on the 2026 ballot: four seats, District A (At Large), District B, District C and District D, each electing one member {in_list}{incitizen_list}. The same four seats were filled in November 2022. The Greensburg Daily News results listed one candidate in each race: Cory Ross (At Large), Todd W. Mauer (District B), Lizette Bell (District C) and Matthew J. (Matt) Hoering (District D) {gdn_2022_results}. The district's own records spell the last name Hoeing {dccs_board}.",
+  "Who is running again: Mauer (District B), Bell (District C) and Hoeing (District D) are on the 2026 ballot for the seats they won in 2022. Mauer and Bell each face a challenger {in_list}{gdn_2022_results}. Cory Ross, who won the at-large seat in 2022, is not on the 2026 ballot, so Rob G Smith is the only candidate for the open at-large seat {in_list}{gdn_2022_results}.",
+  "Budget and taxes (September 2025): the board adopted its 2026 budget at its September 2025 meeting. The Greensburg Daily News reported an Education Fund of $15,328,000, an Operations Fund of $6,200,000 (tax rate 0.44) and a Debt Service Fund of $3,943,000 (tax rate 0.46) {gdn_budget_2025}.",
+  "2025 property-tax law (July 2026): on July 8, 2026, the board voted unanimously to approve a 'Transfer from Debt Service to Operations for the New Supplemental Homestead Credit' {dccs_min_20260708}. The minutes do not give the dollar amount.",
+  "2027 budget (August 2026): business manager Melissa Leap presented the proposed 2027 budget, capital projects plan and bus replacement plan on Aug. 12, 2026 {dccs_min_20260812}. At the Aug. 26 hearing, the minutes record no questions or comments {dccs_min_20260826}. Decatur County Community Schools is not on the state's list of districts with a referendum on the November 2026 ballot {dlgf_ref_2026}.",
+  "Teachers (September 2025): the board agreed to a request from the Decatur County Education Association that the district not apply for the state Teacher Appreciation Grant. In a letter, association president Betsy Schwering said that under the redesigned program only 28 of 142 teachers could receive grants {gdn_budget_2025}. In August 2026 the board approved a supplemental payment of $500 per semester for the three teachers and one substitute teacher who travel between the North and South buildings {dccs_min_20260812}. The district has posted a teacher contract covering 2025-2026 and 2026-2027 {dccs_board}.",
+  "Facilities (February 2025): the board unanimously approved the Poole Group as construction manager for a transportation project {dccs_min_20250219}.",
+  "Forums: this guide found no candidate forum, questionnaire or news profile for any of these races. In the July and August 2026 meeting minutes, no public comment is recorded {dccs_min_20260708}{dccs_min_20260812}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Rob G Smith",
+   "seat": "District A, At Large",
+   "summary": "Unopposed candidate for the open at-large seat, which Cory Ross won in 2022; this guide found no public statements from him {in_list}{gdn_2022_results}.",
+   "website": null,
+   "background": [
+    "This guide found no published biography for this candidate."
+   ],
+   "path_to_ballot": [
+    "Filed for the District A, At Large seat; The Indiana Citizen's copy of the state candidate list gives May 21, 2026 as his filing date {incitizen_list}. The state lists him as Nonpartisan {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "This guide found no statement from this candidate about the current board's decisions."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire, forum appearance, news profile or campaign finance report was found; occupation and stated positions could not be confirmed.",
+    "District board minutes from April 2025 list a 'Rob Smith' as principal of North Decatur Elementary School; the district's current directory lists a different principal there. This guide could not confirm whether the candidate is the same person, so that is not used in the profile."
+   ]
+  },
+  {
+   "ballot_name": "David Henderson",
+   "seat": "District B",
+   "summary": "Challenger to board president Todd Mauer for the District B seat; this guide found no public statements from him {in_list}.",
+   "website": null,
+   "background": [
+    "This guide found no published biography for this candidate."
+   ],
+   "path_to_ballot": [
+    "Filed for District B; The Indiana Citizen's copy of the state candidate list gives June 17, 2026 as his filing date {incitizen_list}. The state lists him as Nonpartisan {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "This guide found no statement from this candidate about the current board's decisions."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire, forum appearance, news profile or campaign finance report was found; occupation and stated positions could not be confirmed."
+   ]
+  },
+  {
+   "ballot_name": "Todd Mauer",
+   "seat": "District B",
+   "summary": "Incumbent and board president, seeking another term in District B {dccs_board}{in_list}.",
+   "website": null,
+   "background": [
+    "Is president of the Decatur County Community Schools board {dccs_board}. Minutes show him presiding over meetings in 2025 and 2026 {dccs_min_20250409}{dccs_min_20260812}."
+   ],
+   "path_to_ballot": [
+    "Won the District B seat in November 2022; the Greensburg Daily News results listed him as the only candidate, with 2,682 votes {gdn_2022_results}.",
+    "Filed for reelection on June 17, 2026, according to The Indiana Citizen's copy of the state list {incitizen_list}. The state lists him as Nonpartisan {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. The minutes this guide reviewed record no statements from him on board decisions; the actions they record, including the July 2026 homestead-credit fund transfer and the 2027 budget steps, passed unanimously or 7-0 {dccs_min_20260708}{dccs_min_20260812}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire, forum appearance or news profile was found; occupation and stated positions could not be confirmed.",
+    "Most 2026 minutes are posted as scanned images; this guide reviewed the July 8, Aug. 12 and Aug. 26, 2026 minutes and selected 2025 minutes only."
+   ]
+  },
+  {
+   "ballot_name": "Lizette R Billieu Bell",
+   "seat": "District C",
+   "summary": "Incumbent and board secretary, seeking another term in District C against Nicholas Messer {dccs_board}{in_list}.",
+   "website": null,
+   "background": [
+    "Is secretary of the Decatur County Community Schools board, listed by the district as Lizette Bell {dccs_board}. She attended the Aug. 12 and Aug. 26, 2026 meetings virtually {dccs_min_20260812}{dccs_min_20260826}."
+   ],
+   "path_to_ballot": [
+    "Won the District C seat in November 2022 as Lizette Bell; the Greensburg Daily News results listed her as the only candidate, with 2,542 votes {gdn_2022_results}.",
+    "Filed for reelection on June 18, 2026, according to The Indiana Citizen's copy of the state list {incitizen_list}. The state lists her as Nonpartisan {in_list}."
+   ],
+   "positions": [
+    {"topic": "Facilities", "items": ["In February 2025 she seconded the motion, which passed unanimously, to hire the Poole Group as construction manager for the district's transportation project {dccs_min_20250219}."]}
+   ],
+   "on_incumbent": [
+    "Is a current board member. The minutes this guide reviewed record her motions and votes but no statements from her on board decisions {dccs_min_20250219}{dccs_min_20260708}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire, forum appearance or news profile was found; occupation and stated positions could not be confirmed."
+   ]
+  },
+  {
+   "ballot_name": "Nicholas Messer",
+   "seat": "District C",
+   "summary": "Challenger to board secretary Lizette Bell for the District C seat; this guide found no public statements from him {in_list}.",
+   "website": null,
+   "background": [
+    "This guide found no published biography for this candidate."
+   ],
+   "path_to_ballot": [
+    "Filed for District C; The Indiana Citizen's copy of the state candidate list gives May 19, 2026 as his filing date {incitizen_list}. The state lists him as Nonpartisan {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "This guide found no statement from this candidate about the current board's decisions."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire, forum appearance, news profile or campaign finance report was found; occupation and stated positions could not be confirmed.",
+    "District board minutes from April 2025 list a 'Nick Messer' as principal of North Decatur Jr.-Sr. High School; the district's current directory lists a different principal there. This guide could not confirm whether the candidate is the same person, so that is not used in the profile."
+   ]
+  },
+  {
+   "ballot_name": "Matthew J Hoeing",
+   "seat": "District D",
+   "summary": "Incumbent and board vice president, unopposed for another term in District D {dccs_board}{in_list}.",
+   "website": null,
+   "background": [
+    "Is vice president of the Decatur County Community Schools board, listed by the district as Matt Hoeing {dccs_board}."
+   ],
+   "path_to_ballot": [
+    "Won the District D seat in November 2022; the Greensburg Daily News results listed him, spelled 'Matthew J. (Matt) Hoering', as the only candidate, with 2,783 votes {gdn_2022_results}.",
+    "Filed for reelection on June 12, 2026, according to The Indiana Citizen's copy of the state list {incitizen_list}. The state lists him as Nonpartisan {in_list}."
+   ],
+   "positions": [
+    {"topic": "Budget & taxes", "items": ["On July 8, 2026, he made the motion, which passed unanimously, to approve the transfer from debt service to operations for the new supplemental homestead credit {dccs_min_20260708}."]},
+    {"topic": "Teachers & staff", "items": ["On Aug. 12, 2026, he seconded the motion, which passed unanimously, to pay $500 per semester to the teachers who travel between the North and South buildings {dccs_min_20260812}."]},
+    {"topic": "Facilities", "items": ["In February 2025 he made the motion, which passed unanimously, to hire the Poole Group as construction manager for the transportation project {dccs_min_20250219}."]}
+   ],
+   "on_incumbent": [
+    "Is a current board member. The minutes this guide reviewed record his motions and votes but no statements from him on board decisions {dccs_min_20260708}{dccs_min_20260812}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire, forum appearance or news profile was found; occupation and stated positions could not be confirmed.",
+    "The 2022 Greensburg Daily News results spell his last name 'Hoering'; the state list and district records use 'Hoeing'."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "dccs_board": ["School Board", "Decatur County Community Schools", "2026-10", "https://www.decaturco.k12.in.us/school-board"],
+  "dccs_central": ["Central Office Administration", "Decatur County Community Schools", "2026-10", "https://www.decaturco.k12.in.us/central-office-administration"],
+  "dccs_who": ["Who We Are", "Decatur County Community Schools", "2026-10", "https://www.decaturco.k12.in.us/who-we-are"],
+  "dccs_dir": ["School Directory", "Decatur County Community Schools", "2026-10", "https://www.decaturco.k12.in.us/school-directory"],
+  "dccs_min_20260708": ["Minutes of a Regular Meeting of the Board of School Trustees, July 8, 2026", "Decatur County Community Schools", "2026-07-08", "https://ecs-cluster-bucket-wsos-prod-two.s3.us-west-2.amazonaws.com/uploads/sites/120/July-8-2026-Minutes.pdf"],
+  "dccs_min_20260812": ["Minutes of a Regular Meeting of the Board of School Trustees, August 12, 2026", "Decatur County Community Schools", "2026-08-12", "https://ecs-cluster-bucket-wsos-prod-two.s3.us-west-2.amazonaws.com/uploads/sites/120/August-12-2026-Minutes.pdf"],
+  "dccs_min_20260826": ["Minutes of a Special Session of the Board of School Trustees (budget hearing), August 26, 2026", "Decatur County Community Schools", "2026-08-26", "https://ecs-cluster-bucket-wsos-prod-two.s3.us-west-2.amazonaws.com/uploads/sites/120/August-26-2026-Minutes.pdf"],
+  "dccs_min_20250409": ["Minutes of a Regular Meeting of the Board of School Trustees, April 9, 2025", "Decatur County Community Schools", "2025-04-09", "https://www.decaturco.k12.in.us/accnt_347491/site_347492/Documents/April-9-2025-Minutes.pdf"],
+  "dccs_min_20250219": ["Minutes of a Regular Meeting of the Board of School Trustees, February 19, 2025", "Decatur County Community Schools", "2025-02-19", "https://www.decaturco.k12.in.us/accnt_347491/site_347492/Documents/February-19-2025-Minutes.pdf"],
+  "gdn_budget_2025": ["Decatur County School Board OKs budget", "Greensburg Daily News", "2025-09-17", "https://www.greensburgdailynews.com/news/local_news/decatur-county-school-board-oks-budget/article_c1a0a834-19ef-4708-994b-ef4ac5dd4d6e.html"],
+  "gdn_2022_results": ["Decatur Co. election results", "Greensburg Daily News (via Yahoo News)", "2022-11-10", "https://www.yahoo.com/news/decatur-co-election-results-012000879.html"],
+  "incitizen_list": ["2026 Indiana General Election School Board Candidate List", "The Indiana Citizen", "2026-08", "https://indianacitizen.org/2026-indiana-general-election-school-board-candidate-list/"],
+  "dlgf_ref_2026": ["Referendum Information (November 2026 referendum documents)", "Indiana Department of Local Government Finance", "2026-10", "https://www.in.gov/dlgf/referendum-information/"]
+ }
+}

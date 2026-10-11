@@ -1,0 +1,252 @@
+{
+ "race_id": "in-school-board-dekalb-garrett-keyser-butler",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The district: Garrett-Keyser-Butler Community School District (GKB) serves the city of Garrett and Keyser and Butler townships in DeKalb County. Its schools are J.E. Ober Elementary, Garrett Middle School and Garrett High School {gkb_board}{kpc_ground26}. Superintendent Dan Durrwachter reported fall enrollment of 1,636 in January 2026, describing it as a slow decrease over the past few years {kpc_fin26}. Durrwachter, previously assistant superintendent at Peru Community Schools, has led the district since July 1, 2024 under a contract running through June 30, 2027 {kpc_supt24}.",
+  "Board: five members, each with a residence area. Mark Thrush (president, Butler Township, term ends 12/31/28), Brent Weller (vice president, Keyser Township, 12/31/28), Dottie Fuentes (secretary, Garrett City, 12/31/28), Matt Freeze (Garrett City, 12/31/26) and Luke Ice (at large, 12/31/26) {gkb_board}. The 2026 sample ballot for a Keyser Township precinct includes both the at-large and the City of Garrett races, so voters across the district elect these seats {dk_sb26}. In January 2026 the board re-elected Thrush as president over Freeze, 4-1 {rc_org26}.",
+  "Seats on the 2026 ballot: two seats, one per race, matching the state list's \"vote for 1\" {dk_sb26}{in_list}. At large: incumbent Luke Ice is running against Steven James Kelham {gkb_board}{in_list}. City of Garrett: the seat held by Matt Freeze, who is not on the ballot. Brianne F. Haiflich, Cherrie L. B. Wells and Travis Lee Gaar are running for it {gkb_board}{in_list}{dk_sb26}. In 2022 Ice challenged and Freeze ran for the open city seat, and both now hold those seats {kpc_town22}{gkb_board}.",
+  "Party labels: all five candidates are listed as Nonpartisan on the state list {in_list}.",
+  "New elementary school: in July 2025 the board approved lease, construction-fund and general obligation bond resolutions to build a new J.E. Ober Elementary {kpc_lease25}. Ground was broken May 22, 2026, and interior demolition was under way by July 2026 {kpc_ground26}{kpc_jul26}. During construction, fifth graders are moving to the middle school for two years starting in fall 2026 {kpc_mar26}.",
+  "Budget and SEA 1: the board held hearings Sept. 22, 2025 and adopted the 2026 budget on Oct. 27, 2025. It totals $24.5 million, with an estimated $2.9 million maximum operations levy and an estimated $317,400 property-tax-cap credit {kpc_budhear25}{kpc_bud25}. In March 2026 the board hired Policy Analytics for an $11,000 parcel study. Durrwachter said the study would include the effects of Senate Bill 1 on property taxes and operations funding, and would help time the bond sales for the elementary project {kpc_mar26}. In July 2026 the board used a state supplemental homestead credit to move $131,296 from debt service to operations, which Durrwachter tied to SEA 1 revenue losses {kpc_jul26}.",
+  "Other items: at the Sept. 22, 2025 hearing a retired teacher questioned the district's decision to end a swim-instruction partnership with the local JAM Center {kpc_budhear25}. New principals were hired for the high school (Kyle Wood, April 2026) and J.E. Ober (Kyle George, May 2026) {kpc_wood26}{kpc_george26}. The district also resurfaced its track in 2026, and the work was nearly finished by mid-July {kpc_mar26}{kpc_jul26}.",
+  "Forums: no 2026 candidate forum or questionnaire was found. In 2022, Garrett High School students held a town hall for that year's candidates, which KPC Media covered {kpc_town22}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Luke Christopher Ice",
+   "seat": "At Large",
+   "summary": "Incumbent at-large member, first elected in 2022 after challenging incumbent Tami Best; listed as Nonpartisan {gkb_board}{kpc_town22}{in_list}.",
+   "website": null,
+   "background": [
+    "In 2022 KPC Media described him as a parent of students in Garrett schools and a coach of youth teams {kpc_town22}.",
+    "He was elected secretary of the district's board of finance in January 2026 and serves on the school calendar committee {kpc_fin26}{kpc_mar26}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Nonpartisan for the at-large seat {in_list}{dk_sb26}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "At the 2022 candidate town hall, KPC Media reported that he suggested \"trimming the fat\" from the budget to increase funds {kpc_town22}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "In 2022 he said he saw no major program gap, would build on existing programs, and agreed that a personal finance course covering taxes and accounting could be a good addition {kpc_town22}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member {gkb_board}.",
+    "In Oct. 2025, at his request, a $96,617 Dekko Foundation grant for teacher training in child development was pulled from the list of accepted grants pending further discussion. Fellow member Dottie Fuentes objected, saying teachers' development was being put on hold, and argued the matter did not belong in an executive session. Ice replied that \"it probably should be an executive session\" and said he was open to questions {kpc_bud25}.",
+    "On the 2027-28 and 2028-29 calendars approved in March 2026, he said, \"It's not perfect but its pretty good\" {kpc_mar26}.",
+    "In 2022, as a challenger, he praised the then-board, superintendent and administrators: \"You've done a great job\" {kpc_town22}."
+   ],
+   "plans": [
+    "In 2022 he said, \"We are a good school system — I think we can be a great school system\" {kpc_town22}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No 2026 campaign statement, website or questionnaire was found; his positions above are from 2022.",
+    "How he voted on the Dekko grant when it returned to the board was not found."
+   ]
+  },
+  {
+   "ballot_name": "Steven James Kelham",
+   "seat": "At Large",
+   "summary": "Challenger to incumbent Luke Ice for the at-large seat; listed as Nonpartisan {in_list}{gkb_board}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Nonpartisan for the at-large seat {in_list}{dk_sb26}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement about the current board's decisions was found in fetched sources."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No biography, occupation, statement, website, questionnaire or forum appearance was found."
+   ]
+  },
+  {
+   "ballot_name": "Brianne F. Haiflich",
+   "seat": "City",
+   "summary": "Candidate for the City of Garrett seat now held by Matt Freeze, who is not on the ballot; she also ran for the city seat in 2022. Listed as Nonpartisan {in_list}{gkb_board}{kpc_town22}.",
+   "website": null,
+   "background": [
+    "In 2022 KPC Media described her as an accountant and a parent of students in Garrett schools who volunteered in many parts of the school {kpc_town22}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Nonpartisan for the City of Garrett seat {in_list}{dk_sb26}.",
+    "She ran for the city seat in 2022, when Matt Freeze, who holds it now, was also a candidate {kpc_town22}{gkb_board}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "In 2022 she said she would work to make the district's dollars \"go as far as they can,\" as KPC Media paraphrased her {kpc_town22}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "In 2022 she said GKB gives students a strong foundation and suggested improving true college readiness, questioning whether students earning dual credits are ready for college-level courses {kpc_town22}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "In 2022 she said she believed in the school system and had chosen it for her children {kpc_town22}. No 2026 statement about the current board was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No 2026 campaign statement, website or questionnaire was found; her positions above are from 2022.",
+    "A 2025 KPC photo caption names a 'Bree Haiflich' as a choir booster parent; whether this is the candidate was not confirmed."
+   ]
+  },
+  {
+   "ballot_name": "Cherrie L. B. Wells",
+   "seat": "City",
+   "summary": "Candidate for the City of Garrett seat now held by Matt Freeze, who is not on the ballot; listed as Nonpartisan {in_list}{gkb_board}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Nonpartisan for the City of Garrett seat {in_list}{dk_sb26}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement about the current board's decisions was found in fetched sources."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No biography, occupation, statement, website, questionnaire or forum appearance was found.",
+    "The county sample ballot prints her name as 'CHERRIE L.B. WELLS'."
+   ]
+  },
+  {
+   "ballot_name": "Travis Lee Gaar",
+   "seat": "City",
+   "summary": "Candidate for the City of Garrett seat now held by Matt Freeze, who is not on the ballot; listed as Nonpartisan {in_list}{gkb_board}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state ballot list as Nonpartisan for the City of Garrett seat {in_list}{dk_sb26}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statement about the current board's decisions was found in fetched sources."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found in fetched sources."
+   ],
+   "gaps": [
+    "No biography, occupation, statement, website, questionnaire or forum appearance was found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "gkb_board": [
+   "School Board",
+   "Garrett-Keyser-Butler Community School District",
+   "2026-10",
+   "https://www.gkb.k12.in.us/page/school-board"
+  ],
+  "dk_sb26": [
+   "2026 General Election sample ballot, Precinct 11-Keyser 1",
+   "DeKalb County, Indiana",
+   "2026-10",
+   "https://www.co.dekalb.in.us/egov/apps/document/center.egov?view=item&id=10148"
+  ],
+  "kpc_town22": [
+   "Candidates speak at town hall event",
+   "KPC Media (The Star)",
+   "2022-10-27",
+   "https://www.kpcnews.com/thestar/article_d0fbdf61-dd64-5626-a3de-e3563e72aa0a.html"
+  ],
+  "kpc_supt24": [
+   "Garrett hires new superintendent",
+   "KPC Media (The Star)",
+   "2024-05-22",
+   "https://www.kpcnews.com/thestar/article_15b51d6f-1b9e-534e-b9a0-f09c53abe8c7.html"
+  ],
+  "kpc_lease25": [
+   "Resolutions approved for elementary school lease",
+   "KPC Media (The Star)",
+   "2025-08-05",
+   "https://www.kpcnews.com/thestar/article_2841a7a6-6224-4eb5-b7f2-f8dafc695e41.html"
+  ],
+  "kpc_budhear25": [
+   "GKB holds budget, capital improvement project hearings",
+   "KPC Media (Garrett Clipper)",
+   "2025-09-30",
+   "https://www.kpcnews.com/garrettclipper/article_37865b1c-981a-466e-9570-9433ceb5f322.html"
+  ],
+  "kpc_bud25": [
+   "School passes 2026 budget, tables Dekko grant",
+   "KPC Media (Garrett Clipper)",
+   "2025-11-04",
+   "https://www.kpcnews.com/garrettclipper/article_93307c7e-a7de-4f02-814f-a0a9b02867be.html"
+  ],
+  "rc_org26": [
+   "Garrett School Board Sets 2026 Leadership",
+   "Real Country 106.7",
+   "2026-01-13",
+   "https://realcountry1067.com/view_article.php?id=1165"
+  ],
+  "kpc_fin26": [
+   "GKB board hears enrollment report",
+   "KPC Media (The Star)",
+   "2026-01-29",
+   "https://www.kpcnews.com/thestar/article_93d69a2a-4876-4398-b74e-5eab9ccbf7eb.html"
+  ],
+  "kpc_mar26": [
+   "Garrett says goodbye to administrator, readies for spring break",
+   "KPC Media (Garrett Clipper)",
+   "2026-03-24",
+   "https://www.kpcnews.com/garrettclipper/article_46407605-9e44-4f38-a806-a19c96d99b3a.html"
+  ],
+  "kpc_wood26": [
+   "Garrett hires Wood as high school principal",
+   "KPC Media (The Star)",
+   "2026-04-28",
+   "https://www.kpcnews.com/thestar/article_c7d5763f-64a4-4396-aac3-131bc5dbba2d.html"
+  ],
+  "kpc_george26": [
+   "George hired as J.E. Ober Principal",
+   "KPC Media (Garrett Clipper)",
+   "2026-05-19",
+   "https://www.kpcnews.com/garrettclipper/article_6070b3f4-419c-4bb9-9466-aa3bc884156d.html"
+  ],
+  "kpc_ground26": [
+   "Garrett breaks ground for new school",
+   "KPC Media (The Star)",
+   "2026-05-26",
+   "https://www.kpcnews.com/thestar/article_c9ec72d4-6df7-4374-83c4-6016cdabc185.html"
+  ],
+  "kpc_jul26": [
+   "Garrett school board hears building progress",
+   "KPC Media (The Star)",
+   "2026-07-14",
+   "https://www.kpcnews.com/thestar/article_beecf2d0-a4e2-4f00-8346-88a9db73cc40.html"
+  ]
+ }
+}

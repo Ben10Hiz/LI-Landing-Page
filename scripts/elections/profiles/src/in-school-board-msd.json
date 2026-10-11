@@ -1,0 +1,266 @@
+{
+ "race_id": "in-school-board-msd",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Confirmed: the township names match the Metropolitan School District of Warren County, which state election results list as 'Msd Of Warren County' for the Liberty & Pine, Pike & Jordan and Steuben & Kent seats {enr_2022}. The district is based in Williamsport and runs Pine Village Elementary, Warren Central Elementary, Williamsport Elementary and Seeger Memorial Junior-Senior High School in West Lebanon {msdwc_home}{wiki_msdwc}. Federal data list 1,332 students in 2024-25 {nces_msdwc}.",
+  "Superintendent: the district's posted administrative contracts show a superintendent contract running through June 30, 2028 at $126,000 a year but do not give a name {msdwc_contracts}. Wikipedia lists Ralph Shrader as superintendent; this guide did not find a current district page confirming it {wiki_msdwc}.",
+  "The district website lists five board members: Dr. Gary Greenwood (president, member since July 1998), Dan Duchemin (vice president, since August 2015), Dr. Brooke Max (secretary, since January 2019), Shawn Allison (since December 2021) and Sharon Grady (since January 2013) {msdwc_board}. Each seat is tied to a group of townships; Duchemin (Adams & Warren Twps) and Grady (Washington Twp) were last elected in 2024 {enr_2020}{enr_2024}.",
+  "Seats on the 2026 ballot: three seats, one member each, matching the state list's 'vote for 1' {in_list}{enr_2018}{enr_2022}. Liberty & Pine Twps: incumbent Brooke Max is running against Mark DeGolyer. Pike & Jordan Twps: incumbent Gary D. Greenwood is running against Caleb Austin Winger. Steuben & Kent Twps: incumbent Shawn Allison is not on the 2026 list, so the seat is open between Kaitlin (Pence) Nigh and Timothy Fowler {msdwc_board}{enr_2022}{in_list}.",
+  "Party labels: five of the six candidates are listed as Republicans; Greenwood is listed as Nonpartisan {in_list}. In 2018 and 2022 all three of these seats were won by single, unopposed candidates on nonpartisan ballots {enr_2018}{enr_2022}.",
+  "Building project and possible petition: on Sept. 9, 2026 the board made a preliminary determination to issue bonds and enter lease agreements for renovations and improvements to facilities throughout the district, plus buses, equipment and technology, with an estimated principal of $65 million, a maximum annual lease rental of $5 million over up to 26 years, and estimated interest of $43,952,816 {msdwc_pd_notice}. The notice estimates the debt service tax rate would rise from $0.4818 to about $0.6930 from 2030, a net increase of $0.2112 {msdwc_pd_notice}. Under state law, if a valid petition is filed within 30 days of the notice's first publication, the project must go to voters in a local public question {msdwc_pd_notice}. The two required hearings were on the Aug. 10 and Sept. 9 agendas, and the board held a July work-session discussion with Ice Miller, Baker Tilly and Lancer Associates {msdwc_ag_20260810}{msdwc_ag_20260909}{msdwc_ag_20260715}.",
+  "Budget and staffing: the board's 2026 agendas included a bond refunding discussion in February, a staffing and budget review in June, a review of staffing and projected enrollment in August, and a hearing on the 2027 budget, capital projects plan and bus replacement plan on Sept. 9, with adoption set for Oct. 7 {msdwc_ag_20260211}{msdwc_ag_20260608}{msdwc_ag_20260810}{msdwc_ag_20260909}{msdwc_ag_20261007}. The Oct. 7 agenda also sought authorization to apply for additional appropriations for the Education Fund and possibly the Operations Fund {msdwc_ag_20261007}. This guide found no reporting on how the 2025 property-tax law (SEA 1) affects the district or on any operating referendum.",
+  "Records and forums: the district posts agendas and keeps meeting videos online for 90 days; older agendas and minutes are available on request {msdwc_board}{msdwc_ag_20261007}. This guide found no 2026 candidate forum, questionnaire, candidate website or news coverage of the candidates' views."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Brooke Max",
+   "seat": "Liberty & Pine Twps",
+   "summary": "Incumbent and board secretary, a member since January 2019; listed as a Republican {msdwc_board}{in_list}.",
+   "website": null,
+   "background": [
+    "Won the Liberty & Pine Twps seat unopposed in 2018 (1,935 votes) and 2022 (1,617 votes) {enr_2018}{enr_2022}.",
+    "The district lists her as Dr. Brooke Max, board secretary, member since January 2019 {msdwc_board}."
+   ],
+   "path_to_ballot": [
+    "Listed as a Republican on the state list, which gives a filing date of June 1, 2026 {in_list}.",
+    "Her 2018 and 2022 races were on nonpartisan ballots {enr_2018}{enr_2022}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. No campaign statement from her on the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, questionnaire, forum remarks or news coverage of the 2026 campaign were found.",
+    "Occupation and ties to the schools beyond board service could not be confirmed.",
+    "Board minutes are not posted online, so her votes and statements could not be reviewed.",
+    "Warren County campaign finance reports were not found online."
+   ]
+  },
+  {
+   "ballot_name": "Mark DeGolyer",
+   "seat": "Liberty & Pine Twps",
+   "summary": "Challenger for the Liberty & Pine Twps seat; listed as a Republican {in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed as a Republican on the state list, which gives a filing date of June 8, 2026 {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements about the current board's decisions were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, questionnaire, forum remarks or news coverage of the 2026 campaign were found.",
+    "No information on occupation, community roles or ties to the schools was found.",
+    "Warren County campaign finance reports were not found online."
+   ]
+  },
+  {
+   "ballot_name": "Caleb Austin Winger",
+   "seat": "Pike & Jordan Twps",
+   "summary": "Challenger for the Pike & Jordan Twps seat; listed as a Republican {in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed as a Republican on the state list, which gives a filing date of May 19, 2026 {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements about the current board's decisions were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, questionnaire, forum remarks or news coverage of the 2026 campaign were found.",
+    "No information on occupation, community roles or ties to the schools was found.",
+    "Warren County campaign finance reports were not found online."
+   ]
+  },
+  {
+   "ballot_name": "Gary D Greenwood",
+   "seat": "Pike & Jordan Twps",
+   "summary": "Incumbent and board president, a member since July 1998; listed as Nonpartisan {msdwc_board}{in_list}.",
+   "website": null,
+   "background": [
+    "The district lists him as Dr. Gary Greenwood, board president, member since July 1998 {msdwc_board}.",
+    "Won the Pike & Jordan Twps seat unopposed in 2018 (2,031 votes) and 2022 (1,690 votes) {enr_2018}{enr_2022}."
+   ],
+   "path_to_ballot": [
+    "Listed as Nonpartisan on the state list, which gives a filing date of June 8, 2026 {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member and the board president. No campaign statement from him on the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, questionnaire, forum remarks or news coverage of the 2026 campaign were found.",
+    "Unverified (search snippet only): a Greenwood Veterinary Clinic operates in West Lebanon; whether he is connected to it was not confirmed.",
+    "Board minutes are not posted online, so his votes and statements could not be reviewed.",
+    "Warren County campaign finance reports were not found online."
+   ]
+  },
+  {
+   "ballot_name": "Kaitlin (Pence) Nigh",
+   "seat": "Steuben & Kent Twps",
+   "summary": "Candidate for the open Steuben & Kent Twps seat; listed as a Republican {in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed as a Republican on the state list, which gives a filing date of May 21, 2026 {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements about the current board's decisions were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, questionnaire, forum remarks or news coverage of the 2026 campaign were found.",
+    "No information on occupation, community roles or ties to the schools was found.",
+    "Warren County campaign finance reports were not found online."
+   ]
+  },
+  {
+   "ballot_name": "Timothy Fowler",
+   "seat": "Steuben & Kent Twps",
+   "summary": "Candidate for the open Steuben & Kent Twps seat; listed as a Republican {in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed as a Republican on the state list, which gives a filing date of May 19, 2026 {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements about the current board's decisions were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, questionnaire, forum remarks or news coverage of the 2026 campaign were found.",
+    "No information on occupation, community roles or ties to the schools was found.",
+    "Warren County campaign finance reports were not found online."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "msdwc_home": [
+   "MSD of Warren County (home page)",
+   "Metropolitan School District of Warren County",
+   "2026-10",
+   "https://www.msdwarco.k12.in.us/"
+  ],
+  "msdwc_board": [
+   "School Board Members",
+   "Metropolitan School District of Warren County",
+   "2026-10",
+   "https://www.msdwarco.k12.in.us/page/school-board-members"
+  ],
+  "msdwc_contracts": [
+   "Posting of Administrative Contracts (2025-28)",
+   "Metropolitan School District of Warren County",
+   "2025-07",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/2609/Msdwarco/77cc7ad9-f564-4e97-a7a0-91b4fe1e67f5/WarrenCountyAdministrativeContracts2025_28.pdf"
+  ],
+  "msdwc_pd_notice": [
+   "Notice of Adoption of Preliminary Determination - 2026 Lease",
+   "Metropolitan School District of Warren County",
+   "2026-09-10",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/2609/Msdwarco/e0d6e647-2fbd-442b-bfb6-b6e4d0bb0f44/Warren-County-MSD---Notice-of-Adoption-of-Preliminary-Determination---2026-Lease-for-publication.pdf"
+  ],
+  "msdwc_ag_20260211": [
+   "Board agenda, Feb. 11, 2026",
+   "Metropolitan School District of Warren County",
+   "2026-02-11",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/2609/Msdwarco/a57800cb-9d9e-4cf6-9f6f-59f9a2812754/BoardAgenda-Feb-11-2026.pdf"
+  ],
+  "msdwc_ag_20260608": [
+   "Board agenda, June 8, 2026",
+   "Metropolitan School District of Warren County",
+   "2026-06-08",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/2609/Msdwarco/2fa8320a-292e-4565-8345-e4327fb5b7d3/BoardAgenda-June8_2026.pdf"
+  ],
+  "msdwc_ag_20260715": [
+   "Board agenda, July 15, 2026",
+   "Metropolitan School District of Warren County",
+   "2026-07-15",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/2609/Msdwarco/ff7e1eeb-c7c1-4dea-a0c6-adcdb41bbaea/BoardAgenda-July-15_2026.pdf"
+  ],
+  "msdwc_ag_20260810": [
+   "Board agenda, Aug. 10, 2026",
+   "Metropolitan School District of Warren County",
+   "2026-08-10",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/2609/Msdwarco/1d93ea38-4deb-4a43-b542-7793c014530c/Board-Agenda---Aug.-10%2C-2026.pdf"
+  ],
+  "msdwc_ag_20260909": [
+   "Board agenda, Sept. 9, 2026",
+   "Metropolitan School District of Warren County",
+   "2026-09-09",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/2609/Msdwarco/300c18e6-96ab-42ac-96d5-291284827363/Board-Agenda---Sept.-9%2C-2026.pdf"
+  ],
+  "msdwc_ag_20261007": [
+   "Board agenda, Oct. 7, 2026",
+   "Metropolitan School District of Warren County",
+   "2026-10-07",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/2609/Msdwarco/2812b869-9f19-4e17-8793-b6c137777008/Board-Agenda---Oct.-7%2C-2026.pdf"
+  ],
+  "nces_msdwc": [
+   "District detail: MSD Warren County",
+   "National Center for Education Statistics",
+   "2026-10",
+   "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?Search=1&details=1&ID2=1806080"
+  ],
+  "wiki_msdwc": [
+   "Metropolitan School District of Warren County",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/Metropolitan_School_District_of_Warren_County"
+  ],
+  "enr_2018": [
+   "2018 General Election results, School Board Member (Warren County)",
+   "Indiana Election Division",
+   "2018-11",
+   "https://enr.indianavoters.in.gov/archive/2018General/index.html"
+  ],
+  "enr_2020": [
+   "2020 General Election results, School Board Member (Warren County)",
+   "Indiana Election Division",
+   "2020-11",
+   "https://enr.indianavoters.in.gov/archive/2020General/index.html"
+  ],
+  "enr_2022": [
+   "2022 General Election results, School Board Member (Warren County)",
+   "Indiana Election Division",
+   "2022-11",
+   "https://enr.indianavoters.in.gov/archive/2022General/index.html"
+  ],
+  "enr_2024": [
+   "2024 General Election results, School Board Member (Warren County)",
+   "Indiana Election Division",
+   "2024-11",
+   "https://enr.indianavoters.in.gov/archive/2024General/index.html"
+  ]
+ }
+}

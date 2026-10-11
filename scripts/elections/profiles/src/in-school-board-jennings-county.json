@@ -1,0 +1,381 @@
+{
+ "race_id": "in-school-board-jennings-county",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Jennings County School Corporation, based in North Vernon, serves Jennings County with six elementary schools (Brush Creek, Graham Creek, Hayden, North Vernon, Sand Creek and Scipio), Jennings County Middle School, Jennings County High School, an educational center and Panther Online Academy {jcsc_home}. Federal data list 3,800 students in 2024-25 {nces_jcsc}; Superintendent Dr. Nicole Johnson reported enrollment of 3,659 in February 2025 and 3,486 in August 2026 {jcsc_min_20250213}{jcsc_min_20260820}.",
+  "The board has seven members serving four-year terms {jcsc_po0141}{jcsc_po0142_1}{jcsc_board}. State election results show the seats are elected as District 1, District 2 and District 3 (one member each, last elected in 2024), District 4 (two members) and At Large (two members) {enr_2018}{enr_2022}{enr_2024}. The board elected Dr. Amy Pettit president in January 2026; the district lists Cheryl Miller as vice president and Pat Sullivan as secretary {jcsc_min_20260122}{jcsc_board}.",
+  "Seat counts differ from the state list: the state's 2026 list shows 'vote for 1' in both the District 4 and At Large races {in_list}, but in 2018 the District 4 race and in 2022 both the District 4 race and the At Large race each elected two members, which is the cycle on the ballot again in 2026 {enr_2018}{enr_2022}. (The 2022 state results label the District 4 race only as 'School Board'.) If two seats are filled in each race, the two District 4 candidates would both be elected and voters would pick two of the four At Large candidates. Voters should check their ballot for the number to vote for.",
+  "Who holds the seats now: Amy Pettit and Mary Lynn Whitcomb won the two District 4 seats in 2022 (3,685 and 3,561 votes; Anna Morgan had 3,498), and both are running again {enr_2022}{in_list}. Pettit was first elected in District 4 in 2018 {enr_2018}. Cheryl L. Miller and Travis D. Shepherd won the two At Large seats in 2022 {enr_2022}. Shepherd, first elected at large in 2018, is running again; Miller is not on the 2026 list {enr_2018}{in_list}.",
+  "Other members: Chelsea Morrison (District 1) and Patrick Sullivan (District 3) were elected in 2024 {enr_2024}. The board appointed Curt Nieman in June 2025 to the District 2 seat, whose term runs through Dec. 31, 2028, choosing him after interviews scored with a rubric {jcsc_min_20250619}.",
+  "Enrollment decline and cost cutting: at a December 2025 work session Johnson said the district had lost an average of 100 students a year for 15 years, that a demographer projects continued decline over the next seven years, and that 'we will have to continue with cost containment' given enrollment loss and what she called flat-lined state funding {jcsc_min_20251209}. In February 2026 she said the district would absorb 13 certified positions, including moving from building-level instructional coaches to three district-wide coaches, cut five classified positions, and offer early-retirement incentives, and that it did not expect a reduction in force for certified staff {jcsc_min_20260226}.",
+  "Facility, capacity and enrollment study: in February 2026 Johnson said the district would study redistricting and school capacity, would not close a school for 2026-27, but that a closure 'would be a possibility in the future' if enrollment kept falling {jcsc_min_20260226}. On April 23, 2026 the board voted 7-0 to hire Comprehensive Systems for Support for Schools, LLC to review facilities and resources against enrollment, including 'possible recommended action steps such as redistricting or school closure(s)' {jcsc_min_20260423}. At the Sept. 17, 2026 meeting Johnson said no decisions had been made and Pettit encouraged community involvement {jcsc_min_20260917}. The district posts the study and its cost-reduction documents online {jcsc_study}.",
+  "Budget and property taxes: the board heard a presentation on state property-tax changes and their effect on schools from Policy Analytics in July 2025 {jcsc_min_20250724}. The Plain Dealer-Sun reported that in October 2026 Johnson tied the study to 'Senate Bill One's effects' combined with enrollment loss {pds_metal}. The 2027 budget notice lists a $35 million Education Fund, a $15.5 million Operations Fund with a maximum operating levy of $10,736,518 (up 6.01% from the current levy), and an estimated $1,293,100 in property-tax cap credits {jcsc_budget2027}. Johnson said in August 2026 that the district has no referendums {jcsc_min_20260820}. The 2027 budget, capital projects plan and bus replacement plan were set for adoption Oct. 1, 2026 {jcsc_agenda_20261001}, and the Plain Dealer-Sun reported they were adopted {pds_metal}.",
+  "Pre-K: after the state cut Pre-K voucher funding for 2026-27, the board in February 2026 approved consolidating Pre-K at one site, North Vernon Elementary, with tuition of $150 a week {jcsc_min_20251113}{jcsc_min_20260226}.",
+  "School safety and facilities: Johnson described three bonds in December 2025, including one for secured entries and safety and one for HVAC work at two elementary schools {jcsc_min_20251209}. In October 2026 the district chose OpenGate weapons-detection systems for its schools, with training set for after fall break, according to the Plain Dealer-Sun {pds_metal}. In April 2026 the board approved a facility assessment by Garmann Miller to guide future use of bonds {jcsc_min_20260423}.",
+  "Academics and planning: Johnson reported a high school graduation rate of 95.93% in January 2026 {jcsc_min_20260108}. The district's new strategic plan, BLUEprint 2030, has five action areas, including academic achievement and fiscal responsibility {jcsc_min_20260423}. The Plain Dealer-Sun reported the board approved an agreement with SOAR for a middle school grant of $600,000 in a planning year and $5 million in each of three later years {pds_metal}.",
+  "Forums and coverage: this guide found no 2026 candidate forum, questionnaire, candidate website or news coverage of the candidates' views for either race. The local paper (the Plain Dealer-Sun) could be searched only in part."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Amy Pettit",
+   "seat": "District 4",
+   "summary": "Incumbent and current board president, first elected in District 4 in 2018 and re-elected in 2022 {enr_2018}{enr_2022}{jcsc_min_20260122}.",
+   "website": null,
+   "background": [
+    "Board member since winning a District 4 seat in 2018; she placed first in the 2022 District 4 race with 3,685 votes {enr_2018}{enr_2022}.",
+    "Elected board president in January 2026 by a 7-0 vote; June 2025 minutes also identify her as board president {jcsc_min_20260122}{jcsc_min_20250619}. Minutes refer to her as Dr. Pettit {jcsc_min_20251209}."
+   ],
+   "path_to_ballot": [
+    "Listed as Nonpartisan on the state list, which gives a filing date of June 16, 2026 {in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "School safety",
+     "items": [
+      "Responding to a public comment about bullying in April 2025, she said the board is 'deeply committed to all Jennings County students' having a safe learning environment, that it takes allegations of bullying 'very seriously,' and urged parents to report concerns to teachers, counselors, administrators, ParentSquare or the anonymous website tool, or to Central Office if a concern is not addressed {jcsc_min_20250410}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "At the Sept. 17, 2026 meeting she encouraged the community to stay involved in the facility, capacity and enrollment study, saying the district wants the community's input {jcsc_min_20260917}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member and the board president. No campaign statement from her on the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, questionnaire, forum remarks or news coverage of the 2026 campaign were found.",
+    "Occupation, the field of her doctorate and ties to the schools beyond board service could not be confirmed.",
+    "Jennings County campaign finance reports were not found online."
+   ]
+  },
+  {
+   "ballot_name": "Mary Lynn Whitcomb",
+   "seat": "District 4",
+   "summary": "Incumbent, elected to a District 4 seat in 2022 {enr_2022}.",
+   "website": null,
+   "background": [
+    "Won the second of two District 4 seats in 2022 with 3,561 votes, 63 more than Anna Morgan {enr_2022}.",
+    "At board meetings she made the motions to approve a facility assessment by Garmann Miller (April 2026) and the updated personal-communication-device policy for 2026-27 (July 2026), both approved unanimously {jcsc_min_20260423}{jcsc_min_20260709}. She also moved to approve a package of policy updates in March 2026, including the board's revised bylaw on election and eligibility to serve, approved 7-0 {jcsc_min_20260312}."
+   ],
+   "path_to_ballot": [
+    "Listed as Nonpartisan on the state list, which gives a filing date of June 1, 2026 {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. No campaign statement from her on the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, questionnaire, forum remarks or news coverage of the 2026 campaign were found.",
+    "Occupation and ties to the schools beyond board service could not be confirmed.",
+    "Jennings County campaign finance reports were not found online."
+   ]
+  },
+  {
+   "ballot_name": "Jeanie (Jeanetta) Koelmel",
+   "seat": "At Large",
+   "summary": "Candidate for an At Large seat; not a current board member {in_list}{jcsc_board}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed as Nonpartisan on the state list, which gives a filing date of June 10, 2026 {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements about the current board's decisions were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, questionnaire, forum remarks or news coverage of the 2026 campaign were found.",
+    "No information on occupation, community roles or ties to the schools was found.",
+    "Jennings County campaign finance reports were not found online."
+   ]
+  },
+  {
+   "ballot_name": "Robert (Robbie) Russ, Jr.",
+   "seat": "At Large",
+   "summary": "Candidate for an At Large seat; not a current board member {in_list}{jcsc_board}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed as Nonpartisan on the state list, which gives a filing date of June 3, 2026 {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements about the current board's decisions were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, questionnaire, forum remarks or news coverage of the 2026 campaign were found.",
+    "No information on occupation, community roles or ties to the schools was found.",
+    "Jennings County campaign finance reports were not found online."
+   ]
+  },
+  {
+   "ballot_name": "Shelby Delynn Long",
+   "seat": "At Large",
+   "summary": "Candidate for an At Large seat; not a current board member {in_list}{jcsc_board}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed as Nonpartisan on the state list, which gives no filing date for her {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements about the current board's decisions were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, questionnaire, forum remarks or news coverage of the 2026 campaign were found.",
+    "No information on occupation, community roles or ties to the schools was found.",
+    "The state list leaves her filing date blank; how she qualified could not be confirmed.",
+    "Jennings County campaign finance reports were not found online."
+   ]
+  },
+  {
+   "ballot_name": "Travis D. Shepherd",
+   "seat": "At Large",
+   "summary": "Incumbent, elected at large in 2018 and re-elected in 2022 {enr_2018}{enr_2022}.",
+   "website": null,
+   "background": [
+    "Won At Large seats in 2018 and 2022; in 2022 he finished second of six candidates for two seats with 2,563 votes, 43 ahead of Josh Yeager {enr_2018}{enr_2022}."
+   ],
+   "path_to_ballot": [
+    "Listed as Nonpartisan on the state list, which gives a filing date of June 8, 2026 {in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "In August 2025 he asked whether a stipend for two CDL-program adjunct instructors was for planning or teaching; told it was for planning, he cast the only no vote in a 6-1 approval {jcsc_min_20250807}.",
+      "In June 2025 he asked for confirmation that the District 2 appointee, Curt Nieman, had scored highest on the interview rubric before the board voted 6-0 to appoint him {jcsc_min_20250619}."
+     ]
+    },
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "In January 2026 he asked whether a buy-back payment is always required when schools leave the Southeastern Career Center cooperative; the board then approved the related resolution 7-0 {jcsc_min_20260108}."
+     ]
+    },
+    {
+     "topic": "Enrollment & school choice",
+     "items": [
+      "At an August 2025 enrollment update he asked whether an increase in kindergarten numbers was across the board; Johnson said she would provide the detail {jcsc_min_20250821}."
+     ]
+    },
+    {
+     "topic": "Curriculum & library policy",
+     "items": [
+      "When the board approved a new personal-communication-device policy for 2026-27 in July 2026, he asked whether there were plans for when the rule is broken; Johnson said there are procedures {jcsc_min_20260709}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member. No campaign statement from him on the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, questionnaire, forum remarks or news coverage of the 2026 campaign were found.",
+    "Occupation and ties to the schools beyond board service could not be confirmed.",
+    "Jennings County campaign finance reports were not found online."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "jcsc_home": [
+   "Jennings County School Corporation (home page)",
+   "Jennings County School Corporation",
+   "2026-10",
+   "https://www.jcsc.org/"
+  ],
+  "jcsc_board": [
+   "Board of School Trustees",
+   "Jennings County School Corporation",
+   "2026-10",
+   "https://www.jcsc.org/board"
+  ],
+  "jcsc_study": [
+   "District Facility, Capacity, and Enrollment Study",
+   "Jennings County School Corporation",
+   "2026-10",
+   "https://www.jcsc.org/district-facility-capacity-enrollment-study"
+  ],
+  "jcsc_po0141": [
+   "Bylaw 0141 - Number",
+   "Jennings County School Corporation (Neola policy manual)",
+   "2024-02-22",
+   "https://go.neola.com/jenning-in/policy/policy-manual/po0141"
+  ],
+  "jcsc_po0142_1": [
+   "Bylaw 0142.1 - Term",
+   "Jennings County School Corporation (Neola policy manual)",
+   "2024-02-22",
+   "https://go.neola.com/jenning-in/policy/policy-manual/po0142.1"
+  ],
+  "nces_jcsc": [
+   "District detail: Jennings County School Corporation",
+   "National Center for Education Statistics",
+   "2026-10",
+   "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?Search=1&details=1&ID2=1805190"
+  ],
+  "enr_2018": [
+   "2018 General Election results, School Board Member (Jennings County)",
+   "Indiana Election Division",
+   "2018-11",
+   "https://enr.indianavoters.in.gov/archive/2018General/index.html"
+  ],
+  "enr_2022": [
+   "2022 General Election results, School Board Member (Jennings County)",
+   "Indiana Election Division",
+   "2022-11",
+   "https://enr.indianavoters.in.gov/archive/2022General/index.html"
+  ],
+  "enr_2024": [
+   "2024 General Election results, School Board Member (Jennings County)",
+   "Indiana Election Division",
+   "2024-11",
+   "https://enr.indianavoters.in.gov/archive/2024General/index.html"
+  ],
+  "jcsc_budget2027": [
+   "Notice to Taxpayers, 2027 budget (Budget Form 3)",
+   "Jennings County School Corporation",
+   "2026-09-03",
+   "https://wsos-cdn.s3.us-west-2.amazonaws.com/uploads/sites/255/JCSC-2027-Budget-Notice-Form-3-Website.pdf"
+  ],
+  "jcsc_agenda_20261001": [
+   "Regular board meeting agenda, Oct. 1, 2026",
+   "Jennings County School Corporation",
+   "2026-10-01",
+   "https://wsos-cdn.s3.us-west-2.amazonaws.com/uploads/sites/255/October-1-2026-Agenda.pdf"
+  ],
+  "pds_metal": [
+   "Metal detectors to be in schools after fall break",
+   "Plain Dealer-Sun (Madison Courier)",
+   "2026-10-04",
+   "https://www.madisoncourier.com/north_vernon/metal-detectors-to-be-in-schools-after-fall-break/article_9359f6d9-4f7d-56aa-95f4-fe60e021cfd4.html"
+  ],
+  "jcsc_min_20250213": [
+   "Board of School Trustees minutes, Feb. 13, 2025",
+   "Jennings County School Corporation",
+   "2025-02-13",
+   "https://wsos-cdn.s3.us-west-2.amazonaws.com/uploads/sites/255/February-13-2025-Minutes.pdf"
+  ],
+  "jcsc_min_20250410": [
+   "Board of School Trustees minutes, April 10, 2025",
+   "Jennings County School Corporation",
+   "2025-04-10",
+   "https://wsos-cdn.s3.us-west-2.amazonaws.com/uploads/sites/255/April-10-2025-Minutes.pdf"
+  ],
+  "jcsc_min_20250619": [
+   "Board of School Trustees minutes, June 19, 2025",
+   "Jennings County School Corporation",
+   "2025-06-19",
+   "https://wsos-cdn.s3.us-west-2.amazonaws.com/uploads/sites/255/June-19-2025-Minutes.pdf"
+  ],
+  "jcsc_min_20250724": [
+   "Board of School Trustees minutes, July 24, 2025",
+   "Jennings County School Corporation",
+   "2025-07-24",
+   "https://wsos-cdn.s3.us-west-2.amazonaws.com/uploads/sites/255/July-24-2025-Minutes.pdf"
+  ],
+  "jcsc_min_20250807": [
+   "Board of School Trustees minutes, Aug. 7, 2025",
+   "Jennings County School Corporation",
+   "2025-08-07",
+   "https://wsos-cdn.s3.us-west-2.amazonaws.com/uploads/sites/255/August-7-2025-Minutes.pdf"
+  ],
+  "jcsc_min_20250821": [
+   "Board of School Trustees minutes, Aug. 21, 2025",
+   "Jennings County School Corporation",
+   "2025-08-21",
+   "https://wsos-cdn.s3.us-west-2.amazonaws.com/uploads/sites/255/August-21-2025-Minutes.pdf"
+  ],
+  "jcsc_min_20251113": [
+   "Board of School Trustees minutes, Nov. 13, 2025",
+   "Jennings County School Corporation",
+   "2025-11-13",
+   "https://wsos-cdn.s3.us-west-2.amazonaws.com/uploads/sites/255/November-13-2025-Minutes.pdf"
+  ],
+  "jcsc_min_20251209": [
+   "Board of School Trustees minutes, Dec. 9, 2025 (work session)",
+   "Jennings County School Corporation",
+   "2025-12-09",
+   "https://wsos-cdn.s3.us-west-2.amazonaws.com/uploads/sites/255/December-9-2025-Minutes.pdf"
+  ],
+  "jcsc_min_20260108": [
+   "Board of School Trustees minutes, Jan. 8, 2026",
+   "Jennings County School Corporation",
+   "2026-01-08",
+   "https://wsos-cdn.s3.us-west-2.amazonaws.com/uploads/sites/255/January-8-2026-Minutes.pdf"
+  ],
+  "jcsc_min_20260122": [
+   "Board of School Trustees minutes, Jan. 22, 2026",
+   "Jennings County School Corporation",
+   "2026-01-22",
+   "https://wsos-cdn.s3.us-west-2.amazonaws.com/uploads/sites/255/January-22-2026-Minutes.pdf"
+  ],
+  "jcsc_min_20260226": [
+   "Board of School Trustees minutes, Feb. 26, 2026",
+   "Jennings County School Corporation",
+   "2026-02-26",
+   "https://wsos-cdn.s3.us-west-2.amazonaws.com/uploads/sites/255/February-26-2026-Minutes.pdf"
+  ],
+  "jcsc_min_20260312": [
+   "Board of School Trustees minutes, March 12, 2026",
+   "Jennings County School Corporation",
+   "2026-03-12",
+   "https://wsos-cdn.s3.us-west-2.amazonaws.com/uploads/sites/255/March-12-2026-Minutes.pdf"
+  ],
+  "jcsc_min_20260423": [
+   "Board of School Trustees minutes, April 23, 2026",
+   "Jennings County School Corporation",
+   "2026-04-23",
+   "https://wsos-cdn.s3.us-west-2.amazonaws.com/uploads/sites/255/April-23-2026-Minutes.pdf"
+  ],
+  "jcsc_min_20260709": [
+   "Board of School Trustees minutes, July 9, 2026",
+   "Jennings County School Corporation",
+   "2026-07-09",
+   "https://wsos-cdn.s3.us-west-2.amazonaws.com/uploads/sites/255/July-9-2026-Minutes.pdf"
+  ],
+  "jcsc_min_20260820": [
+   "Board of School Trustees minutes, Aug. 20, 2026",
+   "Jennings County School Corporation",
+   "2026-08-20",
+   "https://wsos-cdn.s3.us-west-2.amazonaws.com/uploads/sites/255/August-20-2026-Minutes.pdf"
+  ],
+  "jcsc_min_20260917": [
+   "Board of School Trustees minutes, Sept. 17, 2026",
+   "Jennings County School Corporation",
+   "2026-09-17",
+   "https://wsos-cdn.s3.us-west-2.amazonaws.com/uploads/sites/255/September-17-2026-Minutes.pdf"
+  ]
+ }
+}
