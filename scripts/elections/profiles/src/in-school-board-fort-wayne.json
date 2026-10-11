@@ -1,0 +1,533 @@
+{
+  "race_id": "in-school-board-fort-wayne",
+  "reviewed": "2026-10-10",
+  "status": "draft",
+  "status_note": "Pending editorial review.",
+  "office": "@in_school_board",
+  "incumbent": null,
+  "race_context": [
+    "Fort Wayne Community Schools is Indiana's largest school district, with about 28,200 students; its 2026 budget is $419 million across 62 buildings, 50 of them schools, and its superintendent is Mark Daniel {jg_jan}.",
+    "The seven-member Board of School Trustees has five members elected from residence districts and two elected at large {fwcs_board}.",
+    "District 1 (the northwest side, including Northrop High and Shawnee Middle) pits four-term incumbent Julie Hollingsworth against Jeannette Jaquish, a rematch of 2022 {jg_d1}.",
+    "District 4 incumbent Antonette Payne, appointed in 2024, is unopposed {jg_filing}.",
+    "Two at-large seats are on the 2026 ballot, although the state candidate list shows the at-large race as vote for 1; at-large member Maria Norman did not file for reelection, and Noah Smith, appointed to the other at-large seat in May 2026, is running {jg_filing}{jg_atlarge}{in_list}.",
+    "In spring 2026 the board voted to stagger the at-large terms: of the two winners, the one with less board seniority (or, if neither has served, fewer votes) will serve two years, so one at-large seat is elected each cycle from 2028 {jg_atlarge}.",
+    "2026 is the first year Indiana school board candidates could list a party; in this race only Crummey (American Solidarity) and Jaquish (Libertarian) are listed with a party, while others are listed as Independent or Nonpartisan {jg_filing}{in_list}.",
+    "Budget and SEA 1: property tax caps under the 2025 law were estimated to cut the district's $70.9 million operations fund levy by nearly $11 million, about 15%, leaving roughly $3.6 million less property tax revenue than in 2025 (reported January 2026) {jg_jan}.",
+    "Budget cuts: in March 2025 Superintendent Daniel said the district's six-year budget projection had fallen from about $55 million to about $18 million, and the board announced that more than 20 positions were eliminated, saving about $3 million {wpta_budget}.",
+    "Building closure: in November 2025 FWCS announced South Wayne Elementary will close at the end of the 2025-26 school year, citing the cost to repair or replace the building and upcoming funding reductions; most students move to Abbett or Fairfield elementary {wpta_southwayne}.",
+    "Board appointments: in May 2026 the board moved President Noah Smith from District 3 to a vacant at-large seat without an application process, drawing a complaint to the board and the Indiana Department of Education {wpta_smith}. Willie Burton was later appointed to District 3 through 2028 {fwcs_board}.",
+    "Personnel: in September 2026 the board approved the termination of at-large candidate Brandon Foster as Irwin STEM Magnet School principal, effective in May {jg_foster}.",
+    "No 2026 candidate forum for FWCS was found; the Journal Gazette published questionnaire responses from all contested candidates in October 2026 {jg_atlarge}{jg_d1}.",
+    "Key differences in the questionnaires: on state advocacy, Daly would press to redirect voucher money to public schools, Crummey to seek more local autonomy, Foster to have the state take over leadership of districts with multiple D or F schools, and Jaquish said she would not seek more per-student funding for FWCS; on enrollment, Crummey, Jaquish and Foster called for the district to compete harder or change leadership, while Smith, Follo, Jordan and Hollingsworth emphasized building on and publicizing existing programs {jg_atlarge}{jg_d1}."
+  ],
+  "candidates": [
+    {
+      "ballot_name": "Jeannette Rose Jaquish",
+      "seat": "District 1",
+      "summary": "Independent playwright and children's theater director who filed as a Libertarian; she has been the only challenger to District 1 incumbent Julie Hollingsworth since 2011 and ran for the seat in 2022 {jg_d1}.",
+      "website": null,
+      "background": [
+        "Independent playwright and children's theater director; formerly ran The Firehouse Theater in Fort Wayne {jg_d1}.",
+        "Lives in Fort Wayne; age 68 {jg_d1}.",
+        "Says her children attended FWCS schools, citing Northwood Middle and Franke Park Elementary {jg_d1}.",
+        "Ran unsuccessfully for an at-large FWCS seat in 2014 and for the board in 2022 {jg_d1}."
+      ],
+      "path_to_ballot": [
+        "Filed as a Libertarian for the District 1 seat {jg_filing}{in_list}.",
+        "2026 is the first year Indiana school board candidates could declare a party; the state list shows her as Libertarian {jg_d1}{in_list}."
+      ],
+      "positions": [
+        {
+          "topic": "Budget & taxes",
+          "items": [
+            "Said she would not advocate for FWCS to receive more state funding per student than other public schools, arguing the district's size lets it spend less per pupil through bulk purchasing and shared resources {jg_d1}.",
+            "Proposed that school funding be based on a blend of daily attendance and enrollment rather than the state's twice-yearly count days, and said funding should follow students who transfer {jg_d1}."
+          ]
+        },
+        {
+          "topic": "Enrollment & school choice",
+          "items": [
+            "Said FWCS should compete with charter and voucher schools rather than criticize them, and should use its size to offer families more choices and then compare outcomes {jg_d1}."
+          ]
+        },
+        {
+          "topic": "Curriculum & library policy",
+          "items": [
+            "Proposed that, where possible, contested policies be applied by classroom, building or school so parents can opt their children in or out; her examples included sex education, restroom policies, cellphones in class, history curricula, dress codes, masks and armed teachers {jg_d1}."
+          ]
+        },
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "Said board members should visit schools unannounced and listen to complaints, and that the board should survey parents before adopting new policies {jg_d1}.",
+            "Said she would listen and investigate concerns within the board's chain-of-command bylaw, adding that a board member has \"no power except persuasion\" {jg_d1}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Listed problems she says her children reported or she has heard about, including no air conditioning upstairs at Northwood Middle School, short lunch periods at Franke Park Elementary, bullying, and teachers leaving over student discipline, and asked whether they have been fixed {jg_d1}."
+      ],
+      "plans": [
+        "Said she wants to influence FWCS policy to teach job skills and work ethic, and said she supports tax-funded public schools where families have choices {jg_d1}."
+      ],
+      "endorsements_finance": [
+        "The Journal Gazette's October 2026 race coverage does not report endorsements or fundraising for this race {jg_d1}."
+      ],
+      "gaps": [
+        "No campaign website or social media page found.",
+        "No forum appearances found; positions come from a single Journal Gazette questionnaire.",
+        "Her 2022 vote share was not reported in the article read; Hollingsworth won with 71% that year.",
+        "No campaign finance filings were reviewed (Allen County filings page returned 403)."
+      ]
+    },
+    {
+      "ballot_name": "Julia (Julie) Hollingsworth",
+      "seat": "District 1",
+      "summary": "Incumbent. Retired FWCS teacher and coach who has represented District 1 since 2011 and is seeking a fifth term {jg_d1}.",
+      "website": null,
+      "background": [
+        "Retired educator; the FWCS board page says she spent 32 years in public education, 30 with FWCS, as a high school math teacher, coach and Elmhurst athletic director {fwcs_board}.",
+        "Lives in Fort Wayne; age 73 {jg_d1}.",
+        "Joined the board in 2011 after defeating two other candidates and has served four terms; won reelection in 2022 with 71% of the vote {jg_d1}."
+      ],
+      "path_to_ballot": [
+        "Filed for reelection to District 1 and left the party field blank; the state list shows her as Nonpartisan {jg_filing}{jg_d1}{in_list}."
+      ],
+      "positions": [
+        {
+          "topic": "Teachers & staff",
+          "items": [
+            "Said keeping FWCS attractive to families requires emphasis on recruiting, hiring and developing teachers and supporting them with resources, which she said becomes harder with continued cuts to public education {jg_d1}."
+          ]
+        },
+        {
+          "topic": "Enrollment & school choice",
+          "items": [
+            "Supports continuing the district's clubs, arts programs and athletics and communicating with families on issues important to them {jg_d1}."
+          ]
+        },
+        {
+          "topic": "Facilities",
+          "items": [
+            "Said the district must continue to provide clean, safe, educationally appropriate buildings {jg_d1}."
+          ]
+        },
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "Said the board always considers the opinions of parents, students, staff, taxpayers and community members, that board contact information is public, and that FWCS may form focus groups for district planning {jg_d1}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Is a current board member {fwcs_board}.",
+        "Described board members' role at the state level as staying informed on education law and bills, informing parents and the community, communicating with legislators and testifying, and highlighting district programs and student and staff successes {jg_d1}."
+      ],
+      "plans": [
+        "Did not describe specific new initiatives in the Journal Gazette questionnaire {jg_d1}."
+      ],
+      "endorsements_finance": [
+        "The Journal Gazette's October 2026 race coverage does not report endorsements or fundraising for this race {jg_d1}."
+      ],
+      "gaps": [
+        "No campaign website found.",
+        "No forum appearances found; positions come from a single Journal Gazette questionnaire.",
+        "No record of specific board votes attributed to her was found in the sources read.",
+        "No campaign finance filings were reviewed (Allen County filings page returned 403)."
+      ]
+    },
+    {
+      "ballot_name": "Antonette Louise Payne",
+      "seat": "District 4",
+      "summary": "Incumbent, running unopposed. Ivy Tech legal studies program chair and attorney who joined the board by appointment in 2024 and serves as board secretary {jg_filing}{fwcs_board}.",
+      "website": null,
+      "background": [
+        "Program chair of legal studies at Ivy Tech Community College and a practicing attorney; previously a substitute teacher, according to the FWCS board page {fwcs_board}.",
+        "Board secretary as of January 2026 {jg_jan}."
+      ],
+      "path_to_ballot": [
+        "Was appointed to the board to fill the District 4 seat vacated by Rohli Booker, who resigned to join the Fort Wayne City Council; the Journal Gazette reported in June 2026 that she joined the board by appointment two years earlier {jg_jan}{jg_filing}.",
+        "Filed for District 4 unopposed and listed no party; the state list shows her as Nonpartisan {jg_filing}{in_list}."
+      ],
+      "positions": [],
+      "on_incumbent": [
+        "Is a current board member {fwcs_board}."
+      ],
+      "plans": [],
+      "endorsements_finance": [
+        "No reporting on endorsements or fundraising was found for this uncontested race {jg_filing}."
+      ],
+      "gaps": [
+        "No candidate questionnaire, interview, campaign website or forum appearance was found; the race is uncontested and the Journal Gazette's October candidate previews read did not cover it.",
+        "No statements of her positions on budget, academics or other board issues were found.",
+        "The FWCS board page lists her term as 2023-2026, the term she was appointed to complete."
+      ]
+    },
+    {
+      "ballot_name": "Brandon J Foster",
+      "seat": "At Large",
+      "summary": "Educational consultant and former FWCS elementary principal whose termination the board approved in September 2026; he filed as an independent {jg_atlarge}{jg_foster}{jg_filing}.",
+      "website": null,
+      "background": [
+        "Educational consultant; age 41; lives in Fort Wayne; first-time candidate {jg_atlarge}.",
+        "Was hired as principal of Irwin STEM Magnet School in summer 2024 {jg_foster}.",
+        "The FWCS board approved his termination as part of its consent agenda in September 2026, effective May 22; the district's May 14 termination letter said it had lost confidence in his leadership and cited \"a pattern of concerns, including but not limited to employee complaints,\" the climate and culture of the school and \"violation of written directives\" {jg_foster}.",
+        "Foster told the Journal Gazette he attributed the firing to missed work during a family matter and to his questions about Black students' standardized test scores {jg_foster}."
+      ],
+      "path_to_ballot": [
+        "Filed for the at-large race as an independent; the state list shows him as Independent {jg_filing}{in_list}."
+      ],
+      "positions": [
+        {
+          "topic": "Academics",
+          "items": [
+            "Said a board member's job is to ensure taxpayers get a return on their investment, and that children are \"stuck year after year\" in schools rated D or F {jg_atlarge}.",
+            "Proposed that the state be able to take over the responsibilities of a superintendent and district leadership when a district has multiple schools rated D or F {jg_atlarge}."
+          ]
+        },
+        {
+          "topic": "Teachers & staff",
+          "items": [
+            "Said improving enrollment starts with hiring the best superintendent and leadership team, who then hire the best principals and teachers, and said FWCS should hire and promote based on qualifications and results {jg_atlarge}."
+          ]
+        },
+        {
+          "topic": "Enrollment & school choice",
+          "items": [
+            "Said good schools drive enrollment, citing 180 nonresident transfer requests approved by Southwest Allen County Schools this year, and said enrollment will not improve without new district leadership {jg_atlarge}."
+          ]
+        },
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "Said he would treat public input as evidence and require data and results before approving initiatives {jg_atlarge}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Said the district has school closures families cannot plan around and buildings some families do not feel are safe, and called for new leadership at the top of the district {jg_atlarge}.",
+        "Described an exchange in which he says a district leader dismissed setting higher proficiency targets, and said he intends to root out what he called a deficit mindset in district leadership {jg_atlarge}."
+      ],
+      "plans": [
+        "Would push the state to adopt accountability measures for district leadership tied to school grades {jg_atlarge}."
+      ],
+      "endorsements_finance": [
+        "The Journal Gazette's October 2026 race coverage does not report endorsements or fundraising for this race {jg_atlarge}."
+      ],
+      "gaps": [
+        "No campaign website or social media page found.",
+        "No district response to Foster's account of his firing was reported beyond the termination letter; the Journal Gazette article does not mention an appeal.",
+        "No forum appearances found.",
+        "No campaign finance filings were reviewed (Allen County filings page returned 403)."
+      ]
+    },
+    {
+      "ballot_name": "Giovanna Follo",
+      "seat": "At Large",
+      "summary": "Professor and FWCS parent making a first run for the board; she listed no party {jg_atlarge}{jg_filing}.",
+      "website": null,
+      "background": [
+        "Professor; age 56; lives in Fort Wayne; first-time candidate {jg_atlarge}.",
+        "Parent of students in the district {jg_atlarge}."
+      ],
+      "path_to_ballot": [
+        "Filed for the at-large race and left the party field blank; the state list shows her as Nonpartisan {jg_filing}{in_list}."
+      ],
+      "positions": [
+        {
+          "topic": "Academics",
+          "items": [
+            "Proposed career-path exploration in grades K-5, a focus on English language arts, algebra and science in middle school with study tables and tutoring, and attendance efforts, wellness-team involvement and PSAT/SAT after-school tutoring in high school {jg_atlarge}."
+          ]
+        },
+        {
+          "topic": "Teachers & staff",
+          "items": [
+            "Said the district stays attractive to families by giving teachers a supportive work environment {jg_atlarge}."
+          ]
+        },
+        {
+          "topic": "Enrollment & school choice",
+          "items": [
+            "Said FWCS must continue supporting its career-path programming and wide range of electives {jg_atlarge}."
+          ]
+        },
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "Said the board should explain the reasoning for its decisions, communicate openly and give the public a role in decision-making, and that she would talk with constituents whether or not they voted for her {jg_atlarge}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Said communication by the board has been improving and must continue to improve {jg_atlarge}."
+      ],
+      "plans": [
+        "Said she would advocate at the state level for FWCS and public education, speaking as a board member, parent and educator, while not speaking for the board unless directed {jg_atlarge}."
+      ],
+      "endorsements_finance": [
+        "The Journal Gazette's October 2026 race coverage does not report endorsements or fundraising for this race {jg_atlarge}."
+      ],
+      "gaps": [
+        "No campaign website or social media page found.",
+        "Her academic employer and field were not stated in the sources read.",
+        "No forum appearances found.",
+        "No campaign finance filings were reviewed (Allen County filings page returned 403)."
+      ]
+    },
+    {
+      "ballot_name": "Joe Jordan",
+      "seat": "At Large",
+      "summary": "President and CEO of the Boys & Girls Clubs of Northeast Indiana making a first run for the board; he listed himself as nonpartisan {jg_atlarge}{jg_filing}.",
+      "website": null,
+      "background": [
+        "President and CEO of the Boys & Girls Clubs of Northeast Indiana; age 65; lives in Fort Wayne; first-time candidate {jg_atlarge}."
+      ],
+      "path_to_ballot": [
+        "Filed for the at-large race listing himself as nonpartisan; the state list shows him as Nonpartisan {jg_filing}{in_list}."
+      ],
+      "positions": [
+        {
+          "topic": "Academics",
+          "items": [
+            "Would support a district-wide focus on academic excellence, student safety, extracurricular opportunities, career readiness and family engagement {jg_atlarge}."
+          ]
+        },
+        {
+          "topic": "Enrollment & school choice",
+          "items": [
+            "Said the district should give families reasons to choose and stay in FWCS and should better publicize its programs and student achievements, while not chasing enrollment only for the funding {jg_atlarge}."
+          ]
+        },
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "Said he would seek input through community meetings, school visits and conversations, and would base decisions on students' long-term interests rather than the loudest opinions, explaining his reasoning when people disagree {jg_atlarge}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Did not comment on specific decisions of the current board in the Journal Gazette questionnaire {jg_atlarge}."
+      ],
+      "plans": [
+        "Would build relationships with state legislators and present district needs using data and firsthand accounts from students, families and educators, supporting helpful bills and voicing concerns about others {jg_atlarge}."
+      ],
+      "endorsements_finance": [
+        "The Journal Gazette's October 2026 race coverage does not report endorsements or fundraising for this race {jg_atlarge}."
+      ],
+      "gaps": [
+        "No campaign website found; a GoodParty.org listing surfaced in search but was not reviewed.",
+        "No forum appearances found.",
+        "No campaign finance filings were reviewed (Allen County filings page returned 403)."
+      ]
+    },
+    {
+      "ballot_name": "Lee J Daly",
+      "seat": "At Large",
+      "summary": "Retired FWCS elementary teacher making a first run for the board; he filed as an independent {jg_atlarge}{jg_filing}.",
+      "website": null,
+      "background": [
+        "Retired FWCS elementary teacher; age 63; lives in Fort Wayne; first-time candidate {jg_atlarge}."
+      ],
+      "path_to_ballot": [
+        "Filed for the at-large race as an independent; the state list shows him as Independent {jg_filing}{in_list}."
+      ],
+      "positions": [
+        {
+          "topic": "Budget & taxes",
+          "items": [
+            "Said he would try to convince legislators that money spent on the state voucher program, which he put at more than $700 million, would be better used to improve public schools; he said he is not against the program but considers it mismanaged {jg_atlarge}."
+          ]
+        },
+        {
+          "topic": "Enrollment & school choice",
+          "items": [
+            "Said FWCS should show that its students outperform private and parochial school students academically and that its graduates land strong jobs and careers {jg_atlarge}."
+          ]
+        },
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "Said he would prioritize listening to teachers and parents and be as transparent as possible so decisions do not surprise the public {jg_atlarge}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Did not comment on specific decisions of the current board in the Journal Gazette questionnaire {jg_atlarge}."
+      ],
+      "plans": [
+        "Said he has no political aspirations beyond the board {jg_atlarge}."
+      ],
+      "endorsements_finance": [
+        "The Journal Gazette's October 2026 race coverage does not report endorsements or fundraising for this race {jg_atlarge}."
+      ],
+      "gaps": [
+        "No campaign website or social media page found.",
+        "No forum appearances found.",
+        "No campaign finance filings were reviewed (Allen County filings page returned 403)."
+      ]
+    },
+    {
+      "ballot_name": "Matthew J Crummey",
+      "seat": "At Large",
+      "summary": "Engineer making a first run for the board; he is the only at-large candidate listed with a party, the American Solidarity Party {jg_atlarge}{in_list}.",
+      "website": null,
+      "background": [
+        "Engineer; age 44; lives in Fort Wayne; first-time candidate {jg_atlarge}."
+      ],
+      "path_to_ballot": [
+        "Filed for the at-large race; the county filing listed his party as \"other\" and the state list shows American Solidarity {jg_filing}{in_list}.",
+        "His GoodParty.org profile was unclaimed as of this review and lists no positions {gp_crummey}."
+      ],
+      "positions": [
+        {
+          "topic": "Enrollment & school choice",
+          "items": [
+            "Said FWCS can no longer be content as the \"last option\" for families and must compete for students {jg_atlarge}.",
+            "Proposed opening FWCS to part-time students, alternative education models and value-based educational initiatives {jg_atlarge}."
+          ]
+        },
+        {
+          "topic": "School safety",
+          "items": [
+            "Said parents want a safe, disciplined and non-disruptive learning environment {jg_atlarge}."
+          ]
+        },
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "Said parents have the final say over their children's values and education, that the board and administration must listen when parents speak, and that he would hear residents' concerns though he cannot promise to agree with every recommendation {jg_atlarge}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Said shutting parents out is why the district loses their trust and enrollment {jg_atlarge}."
+      ],
+      "plans": [
+        "Would push for more local autonomy for FWCS at the state level and work with legislators of both major parties {jg_atlarge}."
+      ],
+      "endorsements_finance": [
+        "The Journal Gazette's October 2026 race coverage does not report endorsements or fundraising for this race {jg_atlarge}."
+      ],
+      "gaps": [
+        "No campaign website found.",
+        "No forum appearances found.",
+        "No campaign finance filings were reviewed (Allen County filings page returned 403)."
+      ]
+    },
+    {
+      "ballot_name": "Noah Smith",
+      "seat": "At Large",
+      "summary": "Incumbent and board president. Commercial banker who represented District 3 from 2021 until May 2026, when the board appointed him to a vacant at-large seat; this is his first at-large campaign {jg_atlarge}{jg_jan}.",
+      "website": null,
+      "background": [
+        "Commercial banker; age 55; lives in Fort Wayne {jg_atlarge}. The FWCS board page says he is an FWCS graduate who owns BOD Financial Group, which helps lenders and small businesses with SBA loans, and serves on the Indiana School Boards Association legislative committee {fwcs_board}.",
+        "Appointed to the board in 2021 and elected in 2024 for District 3, the Snider High School area {jg_atlarge}.",
+        "Elected board president in January 2026, succeeding Maria Norman {jg_jan}."
+      ],
+      "path_to_ballot": [
+        "On May 11, 2026, resigned his District 3 seat and was appointed by the board to the at-large seat vacated by Anne Duff, who moved out of the district {jg_filing}{wpta_smith}.",
+        "Filed for the at-large race and left the party field blank; the state list shows him as Nonpartisan {jg_filing}{in_list}."
+      ],
+      "positions": [
+        {
+          "topic": "Budget & taxes",
+          "items": [
+            "Said the board must act as responsible stewards for taxpayers {jg_atlarge}."
+          ]
+        },
+        {
+          "topic": "Enrollment & school choice",
+          "items": [
+            "Supports varied educational programming that meets students' and families' goals and proactively sharing district achievements while being transparent about challenges {jg_atlarge}."
+          ]
+        },
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "Said he evaluates decisions by their effect on student growth and whether they align with community priorities {jg_atlarge}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Is a current board member and the board president {fwcs_board}.",
+        "Former Allen County councilwoman Sheila Curry Campbell criticized the board for appointing Smith without first opening the at-large seat to applicants and filed a complaint with the board and the Indiana Department of Education; Smith responded that he believes board members would have chosen him through an open application process as well {wpta_smith}."
+      ],
+      "plans": [
+        "Said he would keep up dialogue with state legislators about how their policies affect FWCS, relaying feedback from community stakeholders {jg_atlarge}."
+      ],
+      "endorsements_finance": [
+        "The Journal Gazette's October 2026 race coverage does not report endorsements or fundraising for this race {jg_atlarge}."
+      ],
+      "gaps": [
+        "No campaign website found.",
+        "The outcome of the complaint filed over his appointment was not found.",
+        "No forum appearances found.",
+        "No campaign finance filings were reviewed (Allen County filings page returned 403)."
+      ]
+    }
+  ],
+  "sources": {
+    "jg_atlarge": [
+      "Six vie for two at-large Fort Wayne Community Schools seats",
+      "The Journal Gazette",
+      "2026-10-02",
+      "https://www.journalgazette.net/elections/six-vie-for-two-at-large-fort-wayne-community-schools-seats/article_bae571f8-0307-4f4a-8d64-b699834779ef.html"
+    ],
+    "jg_d1": [
+      "Incumbent faces repeat challenger for Fort Wayne Community Schools board seat",
+      "The Journal Gazette",
+      "2026-10-02",
+      "https://www.journalgazette.net/elections/incumbent-faces-repeat-challenger-for-fort-wayne-community-schools-board-seat/article_fe57b689-db54-4b53-ad2c-afbd9a6be444.html"
+    ],
+    "jg_filing": [
+      "School board hopefuls file for candidacy in Allen County",
+      "The Journal Gazette",
+      "2026-06-18",
+      "https://www.journalgazette.net/local/schools/school-board-hopefuls-file-for-candidacy-in-allen-county/article_cad8d648-3b19-4981-8734-0d9f923f423c.html"
+    ],
+    "jg_jan": [
+      "New board leader picked at Fort Wayne Community Schools",
+      "The Journal Gazette",
+      "2026-01-13",
+      "https://www.journalgazette.net/local/schools/new-board-leader-picked-at-fort-wayne-community-schools/article_cc2d6c41-9d03-4df3-9740-8fc9f3048771.html"
+    ],
+    "jg_foster": [
+      "Fort Wayne school board candidate axed from principal post",
+      "The Journal Gazette",
+      "2026-09-28",
+      "https://www.journalgazette.net/local/schools/fort-wayne-school-board-candidate-axed-from-principal-post/article_f52aa56a-d5da-4bb9-a95e-a198c82f14a5.html"
+    ],
+    "wpta_smith": [
+      "FWCS board president addresses critics' questions on approach to filling vacant seats",
+      "WPTA 21Alive",
+      "2026-05-12",
+      "https://www.21alivenews.com/2026/05/12/fwcs-board-president-addresses-critics-questions-approach-filling-vacant-seats/"
+    ],
+    "wpta_southwayne": [
+      "FWCS: South Wayne Elementary to close at end of school year",
+      "WPTA 21Alive",
+      "2025-11-04",
+      "https://www.21alivenews.com/2025/11/04/fwcs-south-wayne-elementary-close-end-school-year/"
+    ],
+    "wpta_budget": [
+      "FWCS leaders speak on future budget, Snider football stadium",
+      "WPTA 21Alive",
+      "2025-03-24",
+      "https://www.21alivenews.com/2025/03/25/fwcs-leaders-speak-future-budget-snider-football-stadium/"
+    ],
+    "fwcs_board": [
+      "Board of School Trustees",
+      "Fort Wayne Community Schools",
+      "2026-10",
+      "https://www.fortwayneschools.org/about-us/board-of-school-trustees"
+    ],
+    "gp_crummey": [
+      "Matthew Crummey — Candidate for Fort Wayne School Board - At Large",
+      "GoodParty.org",
+      "2026-10",
+      "https://goodparty.org/people/matthew-crummey-08e3927f"
+    ]
+  }
+}

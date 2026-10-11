@@ -1,0 +1,514 @@
+{
+  "race_id": "in-school-board-elkhart-goshen",
+  "reviewed": "2026-10-10",
+  "status": "draft",
+  "status_note": "Pending editorial review.",
+  "office": "@in_school_board",
+  "incumbent": null,
+  "race_context": [
+    "Goshen Community Schools is the second-largest district in Elkhart County, serving about 6,000 students from pre-K through 12th grade with about 1,100 staff at 10 school sites {wsbt_meet}.",
+    "The superintendent is Jim DuBois, previously superintendent of Baugo Community Schools for 11 years {wsbt_yoder}.",
+    "The seven-member board has four members elected by district and three at large, all to four-year terms {wsbt_meet}.",
+    "District 1 is open: incumbent Ryan Glick moved to District 3 and is running there {wsbt_1on1}{gcs_board}.",
+    "District 3 incumbent José Elizalde is not seeking reelection {wsbt_1on1}.",
+    "WSBT reports two at-large seats are open, although the state candidate list shows the at-large race as vote for 1. The two at-large members whose terms end in 2026 are Mario Garber and Roger Nafziger; Garber filed but told WSBT he will not run, and Nafziger is not on the ballot {wsbt_meet}{gcs_board}{in_list}.",
+    "All four races are contested, and all seven candidates are listed as Republican or Democratic. These are the first partisan school board races under Senate Enrolled Act 287 (2025), which requires candidates to declare a party, independent status or non-disclosure {wsbt_meet}{in_list}.",
+    "Budget and SEA 1: in February 2025 DuBois estimated the property tax bill could cost the district up to $3.8 million in 2026, $4.6 million in 2027 and $5.4 million in 2028 {gn_sea1}. WSBT's questionnaire described the district as facing declining enrollment, less per-pupil funding and staff wage concerns {wsbt_krider}.",
+    "Referendum: WSBT asked each candidate whether the district should pursue a referendum. Krider, Glick and Yoder said no; Davis called it a last resort; Harms said relationship-building should come first; Murphy and Rodriguez-McMasters said it could be an option with a clear case and community involvement {wsbt_krider}{wsbt_glick}{wsbt_yoder}{wsbt_davis}{wsbt_harms}{wsbt_murphy}{wsbt_mcmasters}.",
+    "Academics: WSBT reported the district's 2026 IREAD pass rate as 85%, its highest ever; candidates cited a rise from 70.7% in 2024 {wsbt_glick}.",
+    "The seats held by Garber, Elizalde and Nafziger are all on the 2026 ballot, and none of the three is running {gcs_board}{wsbt_meet}.",
+    "No 2026 Goshen candidate forum was found. WSBT 22 published written questionnaire responses from all seven candidates and one-on-one video interviews in October 2026 {wsbt_meet}{wsbt_1on1}.",
+    "Key differences: all three Republican candidates oppose an operating referendum and stress administrative cost review; the Democratic candidates put more emphasis on staff pay, state funding policy and community engagement. Krider, Glick, Yoder, Harms and Rodriguez-McMasters said they would retain Superintendent DuBois, while Davis and Murphy said they would wait to decide {wsbt_krider}{wsbt_glick}{wsbt_yoder}{wsbt_harms}{wsbt_mcmasters}{wsbt_davis}{wsbt_murphy}."
+  ],
+  "candidates": [
+    {
+      "ballot_name": "Brian Benjamin Krider",
+      "seat": "District 1",
+      "summary": "Goshen business owner and Goshen High School graduate running for the open District 1 seat as a Republican; he is a first-time candidate {wsbt_krider}{wsbt_meet}.",
+      "website": null,
+      "background": [
+        "Lifelong Goshen resident and Goshen High School graduate; co-founder and CEO of Live Large Distribution and Ben's Soft Pretzels {wsbt_krider}.",
+        "Parent of students in the district {wsbt_krider}."
+      ],
+      "path_to_ballot": [
+        "Running as a Republican for the open District 1 seat {wsbt_meet}{in_list}.",
+        "Said he chose to list a party for transparency about the principles he brings, while saying national party politics has no place in classrooms {wsbt_krider}."
+      ],
+      "positions": [
+        {
+          "topic": "Budget & taxes",
+          "items": [
+            "Opposes the district pursuing a property tax referendum, citing the cost of living for families, small businesses and seniors {wsbt_krider}.",
+            "Would trim central administrative overhead before classroom spending, review all outside vendor contracts, professional services and software subscriptions line by line, and stop relying on cash reserves to cover structural deficits {wsbt_krider}.",
+            "Wants plain-language financial reporting before major budget decisions, and private-sector sponsorships to offset costs for athletic, arts and vocational programs {wsbt_krider}."
+          ]
+        },
+        {
+          "topic": "Teachers & staff",
+          "items": [
+            "Would protect pay and benefits for teachers, classroom aides, bus drivers and support staff {wsbt_krider}."
+          ]
+        },
+        {
+          "topic": "Academics",
+          "items": [
+            "Prioritizes reading, math, science and trade skills; on early literacy, supports evidence-based phonics instruction, small-group reading specialists and aides in grades K-2, and bilingual reading resources for families {wsbt_krider}."
+          ]
+        },
+        {
+          "topic": "Enrollment & school choice",
+          "items": [
+            "Would survey families who leave the district, market programs such as Dual Language Immersion, International Baccalaureate and career-technical pathways, and emphasize classroom discipline and academics to retain families {wsbt_krider}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Said current district leadership is moving in a positive direction but that past fiscal missteps must be corrected, and that the previous administration and board left a communication gap {wsbt_krider}.",
+        "Said board members involved in breaking campaign finance laws should have resigned {wsbt_krider}.",
+        "Said he fully supports Superintendent Jim DuBois and would vote to keep him, while wanting administrative costs aligned with enrollment and higher math and reading results in upper grades {wsbt_krider}."
+      ],
+      "plans": [
+        "Would set the budget to protect classroom spending, conduct vendor and contract audits, and seek business partnerships for programs {wsbt_krider}."
+      ],
+      "endorsements_finance": [
+        "WSBT's October 2026 coverage does not report endorsements or fundraising {wsbt_1on1}."
+      ],
+      "gaps": [
+        "No campaign website or social media page reviewed.",
+        "No 2026 candidate forum was found; positions come from the WSBT 22 written questionnaire.",
+        "No campaign finance reports were reviewed (Elkhart County clerk documents returned errors)."
+      ]
+    },
+    {
+      "ballot_name": "Sallie Landis Davis",
+      "seat": "District 1",
+      "summary": "Substitute teacher, PTO president and business owner running for the open District 1 seat as a Democrat; she is a first-time candidate {wsbt_davis}{wsbt_meet}.",
+      "website": null,
+      "background": [
+        "Has lived in District 1 for 30 years and attended West Goshen Elementary {wsbt_davis}.",
+        "Substitute teacher and president of the West Goshen Elementary PTO; runs a family storage, delivery and warehousing business; holds a bachelor's degree in business {wsbt_davis}.",
+        "Parent of students in the district {wsbt_davis}."
+      ],
+      "path_to_ballot": [
+        "Running as a Democrat for the open District 1 seat {wsbt_meet}{in_list}.",
+        "Said she aligned with that party because it best matched her support for public schools {wsbt_davis}."
+      ],
+      "positions": [
+        {
+          "topic": "Budget & taxes",
+          "items": [
+            "Described a combination of declining enrollment, the end of an existing referendum and reduced state funding as the district's main budget challenge {wsbt_davis}.",
+            "Said a referendum should be a last resort because Goshen property tax rates already burden residents {wsbt_davis}."
+          ]
+        },
+        {
+          "topic": "Teachers & staff",
+          "items": [
+            "Said the board should request an analysis of wages with a plan for adjustment, arguing that raising current teachers' pay to match new-hire pay could reduce recruiting and training costs {wsbt_davis}."
+          ]
+        },
+        {
+          "topic": "Academics",
+          "items": [
+            "Wants the board to learn from teachers what drove recent IREAD gains, and suggested better publicizing the district's Title I preschool and encouraging library use to support early literacy {wsbt_davis}."
+          ]
+        },
+        {
+          "topic": "Enrollment & school choice",
+          "items": [
+            "Would ask for a strategic analysis of district programs to attract students based on existing strengths such as the arts, with minimal additional investment {wsbt_davis}."
+          ]
+        },
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "Said board meetings follow standard practice, but the board should communicate more with the community before and after meetings, and that the district's biggest challenge is a lack of trusted communication {wsbt_davis}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Noted that the current board is made up of seven men and said she would bring a fresh perspective {wsbt_davis}.",
+        "Said Superintendent Jim DuBois has brought a hopeful, growth-minded approach and that she would want to work with him before deciding on his continued tenure {wsbt_davis}."
+      ],
+      "plans": [
+        "Would seek partnerships connecting schools with parents, community members and organizations to stretch resources {wsbt_davis}."
+      ],
+      "endorsements_finance": [
+        "WSBT's October 2026 coverage does not report endorsements or fundraising {wsbt_1on1}."
+      ],
+      "gaps": [
+        "No campaign website or social media page reviewed.",
+        "Her statement that an existing referendum is ending was not independently verified; the referendum's type and expiration date were not confirmed.",
+        "No 2026 candidate forum was found; positions come from the WSBT 22 written questionnaire.",
+        "No campaign finance reports were reviewed (Elkhart County clerk documents returned errors)."
+      ]
+    },
+    {
+      "ballot_name": "Cynthia Murphy",
+      "seat": "District 3",
+      "summary": "Retired IU South Bend student services counselor running for the open District 3 seat as a Democrat; she is a first-time candidate {wsbt_murphy}{wsbt_1on1}.",
+      "website": null,
+      "background": [
+        "Lifelong Elkhart County resident who has lived in District 3 for 27 years {wsbt_murphy}.",
+        "Retired from Indiana University South Bend after 20 years in student services, including as a success center counselor, academic coach and bilingual recruitment and retention counselor; previously worked more than a decade at LaCasa of Goshen; works part-time at the Goshen Public Library {wsbt_murphy}.",
+        "Her two adult children graduated from Goshen Community Schools {wsbt_murphy}."
+      ],
+      "path_to_ballot": [
+        "Running as a Democrat for District 3, whose incumbent José Elizalde is not seeking reelection {wsbt_1on1}{in_list}.",
+        "Said she was elected a delegate to the 2026 Indiana Democratic state convention {wsbt_murphy}."
+      ],
+      "positions": [
+        {
+          "topic": "Budget & taxes",
+          "items": [
+            "Said the state's SEA 1 property tax changes, combined with funding lost to vouchers and school choice, move resources out of local public schools, and that legislators must fix the law {wsbt_murphy}.",
+            "Said districts should use all available tools in the short term, including a referendum when the school makes a clear case to the public {wsbt_murphy}."
+          ]
+        },
+        {
+          "topic": "Teachers & staff",
+          "items": [
+            "Named teacher retention and continued pay increases for school staff as her top priority {wsbt_murphy}."
+          ]
+        },
+        {
+          "topic": "Enrollment & school choice",
+          "items": [
+            "Attributed enrollment decline largely to falling birth rates, noted a 1.9% enrollment drop that she said would be larger without growing Latino and immigrant student populations, and said strong programs and teacher support will keep families in the district {wsbt_murphy}."
+          ]
+        },
+        {
+          "topic": "Academics",
+          "items": [
+            "Praised the return to a teaching-teams model focused on literacy, and supports the strategic plan's goal of one percentage point of improvement a year on key metrics {wsbt_murphy}."
+          ]
+        },
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "Said board meetings see little public comment or discussion, and proposed community focus groups, discussion circles and town halls {wsbt_murphy}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Said she would defer judgment on retaining Superintendent DuBois until she has a working relationship with him, while praising his offer to meet with residents about school finances {wsbt_murphy}."
+      ],
+      "plans": [
+        "Said the board should prepare for changes to SNAP and Medicaid eligibility that could affect the federal provision allowing free meals for all students {wsbt_murphy}."
+      ],
+      "endorsements_finance": [
+        "WSBT's October 2026 coverage does not report endorsements or fundraising {wsbt_1on1}."
+      ],
+      "gaps": [
+        "No campaign website or social media page reviewed.",
+        "No 2026 candidate forum was found; positions come from the WSBT 22 written questionnaire.",
+        "No campaign finance reports were reviewed (Elkhart County clerk documents returned errors)."
+      ]
+    },
+    {
+      "ballot_name": "Ryan M Glick",
+      "seat": "District 3",
+      "summary": "Incumbent board member elected from District 1 in 2022 who moved to District 3 and is running there as a Republican {wsbt_glick}{wvpe_charged}{gcs_board}.",
+      "website": "https://www.ryanforgsb.com/",
+      "background": [
+        "Owns and operates Crafted Generations, a 3D modeling and product visualization company; has worked in construction, data management and agriculture {wsbt_glick}.",
+        "Won the District 1 seat in 2022 over Andrea Johnson; his current term runs 2023-2026 {wvpe_charged}{gcs_board}.",
+        "His campaign site says the Indiana School Boards Association recognized him as a Commendable School Board Member in 2025 {glick_site}."
+      ],
+      "path_to_ballot": [
+        "Running as a Republican for District 3 after moving there; he continues to serve the rest of his District 1 term {wsbt_1on1}{in_list}.",
+        "Said he chose to run as a Republican to be transparent about his governing approach on fiscal responsibility, transparency, parental involvement and academic achievement {wsbt_glick}."
+      ],
+      "positions": [
+        {
+          "topic": "Budget & taxes",
+          "items": [
+            "Said he would vote against pursuing another operating referendum and that the district should be right-sized to operate within recurring revenue {wsbt_glick}.",
+            "If revenue tightens, would delay discretionary capital projects, examine administrative staffing, consolidate or end programs not producing enough value, and reduce reliance on debt for predictable needs {wsbt_glick}."
+          ]
+        },
+        {
+          "topic": "Teachers & staff",
+          "items": [
+            "Would protect classroom instruction and pay employees appropriately, but said recurring raises must be backed by recurring revenue {wsbt_glick}."
+          ]
+        },
+        {
+          "topic": "Academics",
+          "items": [
+            "Cited the district's IREAD-3 pass rate rising from 70.7% in 2024 to 85.1% in 2026, and said the next step is consistent implementation of existing academic systems rather than new programs {wsbt_glick}.",
+            "Supports expanding career and technical education {wsbt_glick}."
+          ]
+        },
+        {
+          "topic": "Enrollment & school choice",
+          "items": [
+            "Would continue reviewing enrollment and transfer data and gather direct feedback from families {wsbt_glick}."
+          ]
+        },
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "His campaign site says he pushed to end the routine use of closed executive sessions {glick_site}.",
+            "Wants more board-led deliberation and better use of work sessions on major financial and strategic issues {wsbt_glick}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Is a current board member {gcs_board}.",
+        "Said he first ran in 2022 over concerns about academics, finances, transparency and governance, and credits the board's work since then with new district leadership, record IREAD-3 scores, improved attendance and stabilized finances {wsbt_glick}.",
+        "His campaign site says he opposed what it calls the unilateral decision to close Chandler Elementary and credits him with helping bring about a 2026 strategic plan {glick_site}.",
+        "Said Superintendent Jim DuBois is doing an excellent job and he supports retaining him {wsbt_glick}."
+      ],
+      "plans": [
+        "Wants the board to set measurable goals and build accountability into district systems so progress does not depend on particular individuals {wsbt_glick}."
+      ],
+      "endorsements_finance": [
+        "His campaign site is paid for by the Ryan Glick for Goshen School Board Committee and solicits donations; no totals were found {glick_site}."
+      ],
+      "gaps": [
+        "No 2026 candidate forum was found; positions come from the WSBT 22 written questionnaire.",
+        "No campaign finance reports were reviewed (Elkhart County clerk documents returned errors).",
+        "The progress claims on his campaign site (rising proficiency, stable budget) are his own and were not independently checked."
+      ]
+    },
+    {
+      "ballot_name": "Loanne Harms",
+      "seat": "At Large",
+      "summary": "Retired teacher and former bookstore owner who taught in Goshen schools for 14 years, running for an at-large seat as a Democrat {wsbt_harms}{wsbt_meet}.",
+      "website": null,
+      "background": [
+        "Retired teacher who taught in the Goshen school system for 14 years; former toy and bookstore owner; holds bachelor's and master's degrees in education from IU South Bend {wsbt_harms}.",
+        "Grew up in Elkhart County; has served on nonprofit boards {wsbt_harms}."
+      ],
+      "path_to_ballot": [
+        "Running as a Democrat for an at-large seat {wsbt_meet}{in_list}."
+      ],
+      "positions": [
+        {
+          "topic": "Budget & taxes",
+          "items": [
+            "Said the board should follow the administration's five-year financial plan while staying flexible, and that any positions cut as enrollment declines should be eliminated through retirements {wsbt_harms}.",
+            "Said extensive relationship-building with the community should come before any referendum is considered {wsbt_harms}."
+          ]
+        },
+        {
+          "topic": "Enrollment & school choice",
+          "items": [
+            "Would support innovative courses, college-credit classes, internships, arts, athletics and business-backed job training to attract students {wsbt_harms}."
+          ]
+        },
+        {
+          "topic": "Academics",
+          "items": [
+            "Supports the district's 1% annual improvement goal and activities that put books in children's hands {wsbt_harms}."
+          ]
+        },
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "Said current meetings emphasize efficiency with little discussion of agenda items, and proposed holding some meetings in schools and listening sessions outside the administration building {wsbt_harms}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Praised Superintendent DuBois and said she would vote to keep him, while saying the district has not fully communicated its plans; noted his eventual retirement will be an issue {wsbt_harms}.",
+        "Credited past board members with leaving the district a sound foundation and financial security {wsbt_harms}.",
+        "Said there should be women on the board {wsbt_harms}."
+      ],
+      "plans": [
+        "Wants the incoming board to set shared goals and clearly defined priorities given the large turnover in membership {wsbt_harms}."
+      ],
+      "endorsements_finance": [
+        "WSBT's October 2026 coverage does not report endorsements or fundraising {wsbt_1on1}."
+      ],
+      "gaps": [
+        "No campaign website or social media page reviewed.",
+        "No 2026 candidate forum was found; positions come from the WSBT 22 written questionnaire.",
+        "No campaign finance reports were reviewed (Elkhart County clerk documents returned errors)."
+      ]
+    },
+    {
+      "ballot_name": "Rickardo (Rick) Yoder",
+      "seat": "At Large",
+      "summary": "Financial advisor and former school counselor and assistant principal running for an at-large seat as a Republican {wsbt_yoder}{wsbt_meet}.",
+      "website": null,
+      "background": [
+        "Financial advisor with Edward Jones in Goshen for 13 years; previously spent 17 years in education as a guidance counselor and assistant principal; holds a master's degree in school counseling and an Indiana principal license {wsbt_yoder}.",
+        "Has lived in Goshen for 35 years; his three adult children graduated from Goshen Community Schools {wsbt_yoder}."
+      ],
+      "path_to_ballot": [
+        "Running as a Republican for an at-large seat {wsbt_meet}{in_list}.",
+        "Said he identifies with principles of fiscal responsibility, accountability, local decision-making and parental involvement, while saying education should not be partisan {wsbt_yoder}."
+      ],
+      "positions": [
+        {
+          "topic": "Budget & taxes",
+          "items": [
+            "Does not support a tax referendum; would first examine administrative costs, programs, contracts and facility use while protecting instruction, safety and staff retention {wsbt_yoder}.",
+            "Would advocate at the state level for a school-funding structure that reflects public schools' finances {wsbt_yoder}."
+          ]
+        },
+        {
+          "topic": "Academics",
+          "items": [
+            "Named student achievement as his top priority; on literacy, supports evidence-based instruction, early identification, targeted intervention and teacher training {wsbt_yoder}."
+          ]
+        },
+        {
+          "topic": "Enrollment & school choice",
+          "items": [
+            "Would survey families who transfer out, examine enrollment trends by grade and school, and compare outcomes with competing options {wsbt_yoder}."
+          ]
+        },
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "Wants agendas and supporting materials available and understandable before meetings and major financial decisions explained in plain language {wsbt_yoder}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Said he met with Superintendent DuBois for about two hours, cited the IREAD pass rate rising from 70.7% in 2023-24 to 85.1% in 2025-26, and would vote to keep him {wsbt_yoder}."
+      ],
+      "plans": [
+        "Would evaluate the superintendent on achievement, enrollment, attendance, finances, staff retention, school climate and communication {wsbt_yoder}."
+      ],
+      "endorsements_finance": [
+        "WSBT's October 2026 coverage does not report endorsements or fundraising {wsbt_1on1}."
+      ],
+      "gaps": [
+        "No campaign website or social media page reviewed.",
+        "No 2026 candidate forum was found; positions come from the WSBT 22 written questionnaire.",
+        "No campaign finance reports were reviewed (Elkhart County clerk documents returned errors)."
+      ]
+    },
+    {
+      "ballot_name": "Sandra Rodriguez-McMasters",
+      "seat": "At Large",
+      "summary": "Social worker at Oaklawn and former Elkhart County Board of Health member running for an at-large seat as a Democrat {wsbt_mcmasters}{wsbt_meet}.",
+      "website": null,
+      "background": [
+        "Works at Oaklawn Psychiatric Center; holds bachelor's and master's degrees in social work {wsbt_mcmasters}.",
+        "Has lived in Goshen for 28 years; ran for Goshen City Council at large in 2023 and served on the Elkhart County Board of Health from August 2024 to July 2026 {wsbt_mcmasters}."
+      ],
+      "path_to_ballot": [
+        "Running as a Democrat for an at-large seat {wsbt_meet}{in_list}."
+      ],
+      "positions": [
+        {
+          "topic": "Budget & taxes",
+          "items": [
+            "Said some positions will inevitably be eliminated as enrollment declines, and that if needed a referendum could be proposed with community involvement, citing the discussion process for the Goshen Intermediate School referendum {wsbt_mcmasters}."
+          ]
+        },
+        {
+          "topic": "Enrollment & school choice",
+          "items": [
+            "Said housing costs push some families out of the district and the board can advocate for affordable housing {wsbt_mcmasters}."
+          ]
+        },
+        {
+          "topic": "Transparency & community input",
+          "items": [
+            "Wants board members to be more visible and engaged with the community, including through activities with students {wsbt_mcmasters}."
+          ]
+        }
+      ],
+      "on_incumbent": [
+        "Said she would vote to keep Superintendent DuBois, credited him with making teacher raises possible, and said the district should better publicize what it does well {wsbt_mcmasters}."
+      ],
+      "plans": [
+        "Named collaboration among board members to build understanding of the board's duties as her top priority {wsbt_mcmasters}."
+      ],
+      "endorsements_finance": [
+        "WSBT's October 2026 coverage does not report endorsements or fundraising {wsbt_1on1}."
+      ],
+      "gaps": [
+        "No campaign website or social media page reviewed.",
+        "No 2026 candidate forum was found; positions come from the WSBT 22 written questionnaire.",
+        "No campaign finance reports were reviewed (Elkhart County clerk documents returned errors)."
+      ]
+    }
+  ],
+  "sources": {
+    "wsbt_meet": [
+      "Operation Education: Meet the candidates running for Goshen School Board",
+      "WSBT 22",
+      "2026-10-05",
+      "https://wsbt.com/news/local/voters-decide-school-board-early-voting-goshen-community-schools-indiana-ballot-election-contested-at-large-district-democrat-republican-partisan-enrollment-finances-academic-education-cast-political-party-competing"
+    ],
+    "wsbt_1on1": [
+      "Operation Education: Goshen School Board candidates one-on-one with WSBT",
+      "WSBT 22",
+      "2026-10-07",
+      "https://wsbt.com/news/operation-education/goshen-school-board-candidates-interview-one-on-one-elkhart-county-school-district-four-races-contested-finances-student-education-cast-ballot-vote-questions-answers-running-background"
+    ],
+    "wsbt_krider": [
+      "School Board Candidate Profile — Brian Benjamin Krider (questionnaire)",
+      "WSBT 22",
+      "2026-10",
+      "https://wsbt.com/resources/pdf/33e47e62-9f2f-46aa-9bca-00b592de3c9c-SchoolBoardCandidateProfileKriderFORWEB.pdf"
+    ],
+    "wsbt_davis": [
+      "School Board Candidate Profile — Sallie Landis Davis (questionnaire)",
+      "WSBT 22",
+      "2026-10",
+      "https://wsbt.com/resources/pdf/11f21c12-555d-4c47-85cf-71a38799abd6-SchoolBoardCandidateProfileDavisFORWEB.pdf"
+    ],
+    "wsbt_glick": [
+      "School Board Candidate Profile — Ryan Glick (questionnaire)",
+      "WSBT 22",
+      "2026-10",
+      "https://wsbt.com/resources/pdf/6101d637-971d-4723-8b56-78cbbf17bce9-SchoolBoardCandidateProfileGlickFORWEB.pdf"
+    ],
+    "wsbt_murphy": [
+      "School Board Candidate Profile — Cynthia Murphy (questionnaire)",
+      "WSBT 22",
+      "2026-10",
+      "https://wsbt.com/resources/pdf/9e38c0c4-3e93-4ed9-bf09-26f07f7c6489-SchoolBoardCandidateProfileMurphyFORWEB.pdf"
+    ],
+    "wsbt_harms": [
+      "School Board Candidate Profile — Loanne Harms (questionnaire)",
+      "WSBT 22",
+      "2026-10",
+      "https://wsbt.com/resources/pdf/1ca1fb1a-eb3f-49c1-ba03-f3a5441b31e0-SchoolBoardCandidateProfileHarmsFORWEB.pdf"
+    ],
+    "wsbt_yoder": [
+      "School Board Candidate Profile — Rickardo Yoder (questionnaire)",
+      "WSBT 22",
+      "2026-10",
+      "https://wsbt.com/resources/pdf/ba422f3c-4914-4e75-9d1e-873a17b8564c-SchoolBoardCandidateProfileYoderFORWEB.pdf"
+    ],
+    "wsbt_mcmasters": [
+      "School Board Candidate Profile — Sandra Rodriguez-McMasters (questionnaire)",
+      "WSBT 22",
+      "2026-10",
+      "https://wsbt.com/resources/pdf/11d9dcb8-4883-45e2-8b63-425a054a43b2-SchoolBoardCandidateProfileMcMastersFORWEB.pdf"
+    ],
+    "gcs_board": [
+      "Board Members",
+      "Goshen Community Schools",
+      "2026-10",
+      "https://www.goshenschools.org/boardmembers"
+    ],
+    "glick_site": [
+      "Ryan Glick for Goshen School Board",
+      "Ryan Glick for Goshen School Board Committee",
+      "2026-10",
+      "https://www.ryanforgsb.com/"
+    ],
+    "gn_sea1": [
+      "Goshen School Board centers in on impactful legislation",
+      "The Goshen News",
+      "2025-02-12",
+      "https://www.yahoo.com/news/goshen-school-board-centers-impactful-161800407.html"
+    ],
+    "wvpe_charged": [
+      "Four Goshen School Board members criminally charged with campaign finance violations",
+      "WVPE",
+      "2024-02-21",
+      "https://www.wvpe.org/wvpe-news/2024-02-21/four-goshen-school-board-members-criminally-charged-with-campaign-finance-violations"
+    ]
+  }
+}

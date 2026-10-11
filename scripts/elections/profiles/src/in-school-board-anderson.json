@@ -1,0 +1,573 @@
+{
+ "race_id": "in-school-board-anderson",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Anderson Community Schools serves most of the city of Anderson in Madison County plus Country Club Heights, Edgewood, River Forest, Woodlawn Heights and most of Chesterfield {wiki_acs}; the district lists 12 schools and centers, including one high school, Anderson High School {acs_home}{acs_ref}. A current enrollment figure was not found in fetched sources.",
+  "Joe Cronk has been superintendent since March 2020 (interim, then permanent from 2021) and plans to retire effective June 30, 2027 {hb_supt_search}.",
+  "The board has seven members elected to four-year terms in even-year November elections from South, East and Central districts and at large {acs_board}. Current members are Mandy Webb (president, South), Patrick Hill (vice president, East), Holly Renz (East), Rodney Chamberlain (at large), Martha Green (South), Robert Bookhart (Central) and JoAnna Collette (at large) {acs_board}{hb_webb_pres}.",
+  "Four seats are on the 2026 ballot, matching the state list's four vote-for-1 contests: incumbents JoAnna Collette (at large), Robert Bookhart (Central) and Patrick Hill (East) are running, while Mandy Webb did not file for her South District seat, leaving it open {hb_15filed}{acs_board}.",
+  "2026 is the first Indiana election in which school board candidates could declare a party affiliation; in Anderson, two candidates filed as Democrats, one as a Republican and one as an Independent {hb_9filed}{hb_partylabels}.",
+  "Budget and referendum: on June 8, 2026 the board voted unanimously to ask voters Nov. 3 to renew the 2018 operating referendum at up to $0.1077 per $100 of assessed value for 2027-2034, raising about $2.9 million a year {hb_ref_june}{acs_ref}. The district attributes its shortfall to state property tax caps, inflation and state funding levels and says the renewal alone will not close it {acs_ref}; at a Sept. 24, 2026 meeting officials put the deficit at $5.5 million without the referendum and $2.6 million with it {hb_ref_sept25}.",
+  "Superintendent contract and search: in September 2025 the board voted 4-3 to extend Cronk's contract through 2026-27 after public comment from supporters and critics, including criticism of test scores {hb_cronk_ext}; in September 2026 the board reported 699 survey responses and five town halls and said the job posting had closed Sept. 8 {hb_supt_search}.",
+  "Test scores: ACS's IREAD-3 pass rate fell 3.5% in 2026 results while the statewide pass rate was 88.7%, according to the Herald Bulletin {hb_iread}.",
+  "Meeting access: after complaints about a 4 p.m. special meeting on June 22, 2026, the board adopted an interim policy in July 2026 holding meetings at 6 p.m. unless there is an emergency {hb_june22}.",
+  "The board's leadership vote in January 2026 split 4-3 (Webb, Hill, Green and Renz for Webb; Bookhart, Collette and Chamberlain for Collette), the same alignment as the 2025 contract-extension vote {hb_webb_pres}{hb_cronk_ext}.",
+  "Forums: no 2026 candidate forum or questionnaire was found in fetched sources. A Herald Bulletin columnist reported in September 2026 that several candidates have the support of board member Holly Renz and that social media posts have urged defeat of the referendum {hb_negative}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Aufwiedersehen (Veda) Morris-May",
+   "seat": "At Large",
+   "summary": "Challenger for the at-large seat held by JoAnna Collette; listed on the state ballot list as Democratic {in_list}{hb_15filed}.",
+   "website": null,
+   "background": [
+    "The Herald Bulletin's filing list identifies her as Veda Morris-May; no further background was found in fetched sources {hb_15filed}."
+   ],
+   "path_to_ballot": [
+    "Filed at the Madison County Clerk's office before the June 2026 deadline and declared a Democratic affiliation {hb_oneweek}{hb_15filed}.",
+    "Listed on the ballot as Democratic {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsements were found in fetched sources."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire response, forum remarks or campaign finance report was found in fetched sources; coverage found so far is limited to Herald Bulletin filing lists."
+   ]
+  },
+  {
+   "ballot_name": "JoAnna G Collette",
+   "seat": "At Large",
+   "summary": "Incumbent at-large board member seeking a second term; listed on the state ballot list as Nonpartisan {hb_15filed}{in_list}.",
+   "website": null,
+   "background": [
+    "Holds the at-large seat whose term ends in December 2026 {acs_board}.",
+    "Gave the board's June 8, 2026 presentation on the district's finances and the proposed operating referendum renewal {hb_ref_june}."
+   ],
+   "path_to_ballot": [
+    "Was among the first candidates to file in May 2026 and did not declare a party {hb_filingstarts}{hb_15filed}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "In her June 2026 presentation she said the district faces a $6.1 million annual deficit and projected losses of at least $23.8 million over eight years, including at least $11 million from state property tax reductions and at least $12.8 million from required charter school revenue sharing {hb_ref_june}.",
+      "Said of the referendum: “The referendum is not a magic fix. It’s not a blank check, and it’s not a way to avoid hard decisions. It’s one part of a responsible plan to keep current local support in place, while this district also has to make reductions.” {hb_ref_june}"
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "In July 2026 she said a June 22 special meeting was needed to fill principal vacancies so appointees could prepare for the school year; the board then unanimously adopted an interim policy holding meetings at 6 p.m. unless there is an emergency {hb_june22}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member.",
+    "In August 2025 she moved to postpone a vote on Superintendent Joe Cronk's contract, citing the need for more time to consider public comments {hb_cronk_retire}.",
+    "Voted against the one-year extension of Cronk's contract, which passed 4-3 in September 2025 {hb_cronk_ext}.",
+    "Received three votes for board president in January 2026; the board elected Mandy Webb 4-3 {hb_webb_pres}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsements were found in fetched sources."
+   ],
+   "gaps": [
+    "No 2026 campaign website, questionnaire or forum remarks were found.",
+    "A Herald Bulletin column (June 27, 2026) refers to a past bid for another local office; that detail was left out under the party-label rule.",
+    "The state list spells her name JoAnna; Herald Bulletin filing lists use Joanna, and one Sept. 2026 article uses 'Colette'."
+   ]
+  },
+  {
+   "ballot_name": "Margie Harvey",
+   "seat": "At Large",
+   "summary": "Challenger for the at-large seat; listed on the state ballot list as Nonpartisan {in_list}{hb_15filed}.",
+   "website": null,
+   "background": [
+    "No background was found in fetched sources {hb_15filed}."
+   ],
+   "path_to_ballot": [
+    "Filed by the June 18, 2026 deadline without declaring a party {hb_15filed}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsements were found in fetched sources."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire response, forum remarks or campaign finance report was found in fetched sources; coverage found so far is limited to Herald Bulletin filing lists."
+   ]
+  },
+  {
+   "ballot_name": "Neal Alan Prange",
+   "seat": "At Large",
+   "summary": "Challenger for the at-large seat; listed on the state ballot list as Nonpartisan {in_list}{hb_15filed}.",
+   "website": null,
+   "background": [
+    "No background was found in fetched sources {hb_15filed}."
+   ],
+   "path_to_ballot": [
+    "Filed by the June 18, 2026 deadline without declaring a party {hb_15filed}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsements were found in fetched sources."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire response, forum remarks or campaign finance report was found in fetched sources; coverage found so far is limited to Herald Bulletin filing lists."
+   ]
+  },
+  {
+   "ballot_name": "Olunda K Hunt",
+   "seat": "At Large",
+   "summary": "Challenger for the at-large seat; listed on the state ballot list as Democratic {in_list}{hb_partylabels}.",
+   "website": null,
+   "background": [
+    "No background beyond a family connection (omitted under editorial rules) was found in fetched sources {hb_partylabels}."
+   ],
+   "path_to_ballot": [
+    "Filed by the June 18, 2026 deadline and declared a Democratic affiliation {hb_15filed}{hb_partylabels}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsements were found in fetched sources."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire response, forum remarks or campaign finance report was found in fetched sources; coverage found so far is limited to Herald Bulletin filing lists.",
+    "The Herald Bulletin's June 19 filing list prints the name as 'Olivia K. Hunt'; its June 27 column uses 'Olunda Hunt', matching the state list."
+   ]
+  },
+  {
+   "ballot_name": "Jonathan Trick",
+   "seat": "Central District, Position 2",
+   "summary": "Challenger to incumbent Robert Bookhart in the Central District; listed on the state ballot list as Nonpartisan {in_list}{hb_15filed}.",
+   "website": null,
+   "background": [
+    "No background was found in fetched sources {hb_15filed}."
+   ],
+   "path_to_ballot": [
+    "Had filed by June 12, 2026 without declaring a party {hb_oneweek}{hb_partylabels}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsements were found in fetched sources."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire response, forum remarks or campaign finance report was found in fetched sources; coverage found so far is limited to Herald Bulletin filing lists."
+   ]
+  },
+  {
+   "ballot_name": "Robert (Buckie) Bookhart",
+   "seat": "Central District, Position 2",
+   "summary": "Incumbent Central District board member seeking re-election; listed on the state ballot list as Nonpartisan {hb_15filed}{in_list}.",
+   "website": null,
+   "background": [
+    "Holds the Central District seat whose term ends in December 2026 {acs_board}."
+   ],
+   "path_to_ballot": [
+    "Had not filed as of June 5, 2026 but was on the filing list by June 12 {hb_9filed}{hb_oneweek}.",
+    "Did not declare a party {hb_partylabels}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member.",
+    "Voted to postpone the August 2025 vote on Superintendent Cronk's contract and voted against the 4-3 extension in September 2025 {hb_cronk_retire}{hb_cronk_ext}.",
+    "Voted for JoAnna Collette for board president in January 2026 {hb_webb_pres}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsements were found in fetched sources."
+   ],
+   "gaps": [
+    "No 2026 campaign statements, questionnaire, forum remarks or finance reports were found.",
+    "Herald Bulletin articles spell his nickname both 'Buckie' and 'Bucky'.",
+    "Search snippets refer to earlier board service and a past campaign; not verified on fetched pages."
+   ]
+  },
+  {
+   "ballot_name": "Laura Crenshaw",
+   "seat": "East District, Position 1",
+   "summary": "Challenger to incumbent Patrick Hill in the East District; listed on the state ballot list as Nonpartisan {in_list}{hb_15filed}.",
+   "website": null,
+   "background": [
+    "No background was found in fetched sources {hb_15filed}."
+   ],
+   "path_to_ballot": [
+    "Had filed by June 5, 2026 without declaring a party {hb_9filed}{hb_15filed}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsements were found in fetched sources."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire response, forum remarks or campaign finance report was found in fetched sources; coverage found so far is limited to Herald Bulletin filing lists."
+   ]
+  },
+  {
+   "ballot_name": "Lindsay Brown",
+   "seat": "East District, Position 1",
+   "summary": "Challenger to incumbent Patrick Hill in the East District; ran for the board in 2024; listed on the state ballot list as Nonpartisan {in_list}{hb_15filed}{hb_2024_priorities}.",
+   "website": null,
+   "background": [
+    "In 2022 he co-led a citizens committee urging ACS to apply for a federal Next Generation School Improvement Grant; the Herald Bulletin then described him as a frequent critic of the district {hb_2022_committee}{hb_2022_grants}.",
+    "Ran unsuccessfully for the East District seat held by Holly Renz in 2024 {hb_2024_priorities}{hb_webb_pres}.",
+    "Said in 2024, “I’m a product of ACS.” {hb_2024_change}"
+   ],
+   "path_to_ballot": [
+    "Filed by the June 18, 2026 deadline without declaring a party {hb_15filed}."
+   ],
+   "positions": [
+    {
+     "topic": "Academics",
+     "items": [
+      "In his 2024 campaign he expressed concern about ACS ILEARN scores, saying, “If you do not accept your failure, how do you know how to fix it?” and that he wanted teachers “given the tools to be successful” {hb_2024_priorities}."
+     ]
+    },
+    {
+     "topic": "Enrollment & school choice",
+     "items": [
+      "In 2024 he said ACS had lost 1,000 students since 2018 and that the district should report why families leave and adjust to retain them {hb_2024_change}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "In June 2022 he emailed the board and superintendent proposing a meeting of administrators, board members, union representatives and educators to plan for the next round of grants {hb_2022_grants}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "In 2024 he said change starts with the school board, which must ensure everyone is treated fairly and equally {hb_2024_change}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "Did not file a campaign finance report in the 2024 race, according to the Herald Bulletin {hb_2024_finance}.",
+    "No 2026 finance report or endorsements were found."
+   ],
+   "gaps": [
+    "All position statements found are from his 2024 campaign or 2022 advocacy; no 2026 statements were found.",
+    "A June 27, 2026 Herald Bulletin column describes a party-organization role; left out under the party-label rule.",
+    "Identity across 2022, 2024 and 2026 coverage is inferred from the same name and East District candidacy."
+   ]
+  },
+  {
+   "ballot_name": "Nickolas W Freeman",
+   "seat": "East District, Position 1",
+   "summary": "Challenger to incumbent Patrick Hill in the East District; listed on the state ballot list as Republican {in_list}{hb_15filed}.",
+   "website": null,
+   "background": [
+    "No background was found in fetched sources {hb_filingstarts}."
+   ],
+   "path_to_ballot": [
+    "Was among the first candidates to file in May 2026 and declared a Republican affiliation {hb_filingstarts}.",
+    "Listed on the ballot as Republican {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsements were found in fetched sources."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire response, forum remarks or campaign finance report was found in fetched sources; coverage found so far is limited to Herald Bulletin filing lists.",
+    "Herald Bulletin articles spell his first name both 'Nickolas' and 'Nicholas'."
+   ]
+  },
+  {
+   "ballot_name": "Olivia M Reyes",
+   "seat": "East District, Position 1",
+   "summary": "Challenger to incumbent Patrick Hill in the East District; listed on the state ballot list as Independent {in_list}{hb_15filed}.",
+   "website": null,
+   "background": [
+    "No background was found in fetched sources {hb_15filed}."
+   ],
+   "path_to_ballot": [
+    "Filed by the June 18, 2026 deadline and declared as an Independent {hb_15filed}{hb_partylabels}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsements were found in fetched sources."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire response, forum remarks or campaign finance report was found in fetched sources; coverage found so far is limited to Herald Bulletin filing lists."
+   ]
+  },
+  {
+   "ballot_name": "Patrick Hill",
+   "seat": "East District, Position 1",
+   "summary": "Incumbent East District board member and board vice president, seeking re-election; listed on the state ballot list as Nonpartisan {hb_15filed}{hb_webb_pres}{in_list}.",
+   "website": null,
+   "background": [
+    "Served nine terms as board president before Mandy Webb was elected president in January 2026; he was then chosen vice president {hb_webb_pres}.",
+    "Holds an East District seat whose term ends in December 2026 {acs_board}."
+   ],
+   "path_to_ballot": [
+    "Had not filed or said whether he would run as of June 5, 2026; was on the final filing list on June 19 {hb_9filed}{hb_15filed}.",
+    "Did not declare a party {hb_15filed}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member.",
+    "Opposed postponing the August 2025 vote on Superintendent Cronk's contract and voted for the 4-3 extension in September 2025 {hb_cronk_retire}{hb_cronk_ext}.",
+    "Voted for Mandy Webb for board president in January 2026 {hb_webb_pres}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsements were found in fetched sources."
+   ],
+   "gaps": [
+    "No 2026 campaign statements, questionnaire, forum remarks or finance reports were found."
+   ]
+  },
+  {
+   "ballot_name": "Cathy Hodson",
+   "seat": "South District, Position 2",
+   "summary": "Candidate for the open South District seat being vacated by board president Mandy Webb; listed on the state ballot list as Nonpartisan {in_list}{hb_15filed}.",
+   "website": null,
+   "background": [
+    "No background beyond a family connection to a former board member (omitted under editorial rules) was found in fetched sources {hb_partylabels}."
+   ],
+   "path_to_ballot": [
+    "Filed by the June 18, 2026 deadline without declaring a party {hb_15filed}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsements were found in fetched sources."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire response, forum remarks or campaign finance report was found in fetched sources; coverage found so far is limited to Herald Bulletin filing lists.",
+    "The Herald Bulletin's June 19 filing list prints the name as 'Cathy Hobson'; its June 27 column uses 'Hodson', matching the state list."
+   ]
+  },
+  {
+   "ballot_name": "Eric T Davis",
+   "seat": "South District, Position 2",
+   "summary": "Candidate for the open South District seat; listed on the state ballot list as Nonpartisan {in_list}{hb_15filed}.",
+   "website": null,
+   "background": [
+    "No background was found in fetched sources {hb_15filed}."
+   ],
+   "path_to_ballot": [
+    "Filed by the June 18, 2026 deadline without declaring a party {hb_15filed}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsements were found in fetched sources."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire response, forum remarks or campaign finance report was found in fetched sources; coverage found so far is limited to Herald Bulletin filing lists."
+   ]
+  },
+  {
+   "ballot_name": "Mary Baker-Boudissa",
+   "seat": "South District, Position 2",
+   "summary": "Candidate for the open South District seat; listed on the state ballot list as Nonpartisan {in_list}{hb_15filed}.",
+   "website": null,
+   "background": [
+    "In 2022 she co-led a citizens committee urging ACS to apply for a federal Next Generation School Improvement Grant, and said she trained teachers on culturally responsive practices {hb_2022_committee}{hb_2022_grants}."
+   ],
+   "path_to_ballot": [
+    "Filed by the June 18, 2026 deadline without declaring a party {hb_15filed}."
+   ],
+   "positions": [
+    {
+     "topic": "Academics",
+     "items": [
+      "In a March 2022 email to the superintendent and board, she asked for further conversation about support for “those schools that continue to perform far below their peers around the state” {hb_2022_grants}."
+     ]
+    }
+   ],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsements were found in fetched sources."
+   ],
+   "gaps": [
+    "No 2026 campaign website, questionnaire, forum remarks or finance report was found; statements above are from 2022 advocacy."
+   ]
+  },
+  {
+   "ballot_name": "Sheila (Shay) Fakhreddine",
+   "seat": "South District, Position 2",
+   "summary": "Candidate for the open South District seat; listed on the state ballot list as Nonpartisan {in_list}{hb_15filed}.",
+   "website": null,
+   "background": [
+    "No background was found in fetched sources {hb_15filed}."
+   ],
+   "path_to_ballot": [
+    "Filed by the June 18, 2026 deadline without declaring a party {hb_15filed}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "No campaign finance report or endorsements were found in fetched sources."
+   ],
+   "gaps": [
+    "No candidate website, questionnaire response, forum remarks or campaign finance report was found in fetched sources; coverage found so far is limited to Herald Bulletin filing lists.",
+    "Herald Bulletin coverage spells the name 'Shelia Shay Fakhreddin' and 'Sheila Shay Fakhreddin'; the state list uses 'Fakhreddine'."
+   ]
+  }
+ ],
+ "sources": {
+  "hb_15filed": [
+   "15 people seeking ACS board seats in November election",
+   "The Herald Bulletin",
+   "2026-06-19",
+   "https://www.heraldbulletin.com/news/local_news/15-people-seeking-acs-board-seats-in-november-election/article_3a9740ea-45c6-4901-97d9-9d4f6a74376c.html"
+  ],
+  "hb_9filed": [
+   "9 candidates file for school board seats in Madison County",
+   "The Herald Bulletin",
+   "2026-06-09",
+   "https://www.heraldbulletin.com/news/9-candidates-file-for-school-board-seats-in-madison-county/article_8fff2fe3-5b73-48b5-9d2b-6e52b256dfe9.html"
+  ],
+  "hb_filingstarts": [
+   "Filing starts for school board elections",
+   "The Herald Bulletin",
+   "2026-05-21",
+   "https://www.heraldbulletin.com/news/local_news/filing-starts-for-school-board-elections/article_d3f696fe-c4b8-42a2-bd2e-67070a4e4b81.html"
+  ],
+  "hb_oneweek": [
+   "One week remaining to file for school board elections",
+   "The Herald Bulletin",
+   "2026-06-12",
+   "https://www.heraldbulletin.com/news/local_news/one-week-remaining-to-file-for-school-board-elections/article_2f621501-4bb4-4570-b6f8-68661a982250.html"
+  ],
+  "hb_partylabels": [
+   "Ken de la Bastide column: Will party labels impact local school board elections?",
+   "The Herald Bulletin",
+   "2026-06-27",
+   "https://www.heraldbulletin.com/opinion/columns/ken-de-la-bastide-column-will-party-labels-impact-local-school-board-elections/article_23c30b74-0e8c-49c7-a985-e3d5d4c2b8cf.html"
+  ],
+  "hb_negative": [
+   "Ken de la Bastide column: Negative campaigning starts for fall election cycle",
+   "The Herald Bulletin",
+   "2026-09-26",
+   "https://www.heraldbulletin.com/opinion/columns/ken-de-la-bastide-column-negative-campaigning-starts-for-fall-election-cycle/article_0fa7c770-e0d1-48cd-969c-bec85f087338.html"
+  ],
+  "hb_webb_pres": [
+   "Webb elected new ACS Board of Trustees president",
+   "The Herald Bulletin",
+   "2026-01-13",
+   "https://www.heraldbulletin.com/news/local_news/webb-elected-new-acs-board-of-trustees-president/article_cdd099fe-437e-47f7-a71f-bc1b905de06a.html"
+  ],
+  "acs_board": [
+   "Meet the Board Members",
+   "Anderson Community Schools",
+   "2026-10",
+   "https://www.acsc.net/apps/pages/index.jsp?uREC_ID=619475&type=d&pREC_ID=1094440"
+  ],
+  "acs_home": [
+   "Anderson Community Schools home page",
+   "Anderson Community Schools",
+   "2026-10",
+   "https://www.acsc.net/"
+  ],
+  "wiki_acs": [
+   "Anderson Community School Corporation",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/Anderson_Community_School_Corporation"
+  ],
+  "acs_ref": [
+   "Operating Referendum Renewal",
+   "Anderson Community Schools",
+   "2026-10",
+   "https://www.acsc.net/apps/pages/index.jsp?uREC_ID=614802&type=d&pREC_ID=2745723"
+  ],
+  "hb_ref_june": [
+   "ACS board OK's referendum tax levy for November ballot",
+   "The Herald Bulletin",
+   "2026-06-09",
+   "https://www.heraldbulletin.com/news/local_news/acs-board-oks-referendum-tax-levy-for-november-ballot/article_610c8e65-9ee6-4a89-b46b-3d82b7e48634.html"
+  ],
+  "hb_ref_sept25": [
+   "ACS officials stress need for referendum renewal",
+   "The Herald Bulletin",
+   "2026-09-25",
+   "https://www.heraldbulletin.com/news/local_news/acs-officials-stress-need-for-referendum-renewal/article_4a96d1a6-6aea-44b0-bcc1-dfdf93ac585e.html"
+  ],
+  "hb_supt_search": [
+   "ACS board gives update on superintendent search",
+   "The Herald Bulletin",
+   "2026-09-15",
+   "https://www.heraldbulletin.com/news/local_news/acs-board-gives-update-on-superintendent-search/article_5c3a4cfb-899b-4332-9828-0881478965b5.html"
+  ],
+  "hb_cronk_retire": [
+   "Anderson schools boss plans to retire in 2027",
+   "The Herald Bulletin",
+   "2025-09-10",
+   "https://www.heraldbulletin.com/news/local_news/anderson-schools-boss-plans-to-retire-in-2027/article_ef7ec9a4-998c-4b84-80a4-0106e51b9d52.html"
+  ],
+  "hb_cronk_ext": [
+   "Anderson school board votes to extend Superintendent Cronk's contract",
+   "The Herald Bulletin",
+   "2025-09-23",
+   "https://www.heraldbulletin.com/news/local_news/anderson-school-board-votes-to-extend-superintendent-cronks-contract/article_7c9f0c29-0521-4c43-a913-f81c54a7e253.html"
+  ],
+  "hb_june22": [
+   "Anderson School Board fields complaints about June 22 meeting to appoint administrators",
+   "The Herald Bulletin",
+   "2026-07-14",
+   "https://www.heraldbulletin.com/news/anderson-school-board-fields-complaints-about-june-22-meeting-to-appoint-administrators/article_ddf56172-96d4-4c44-b707-bdbf33c94c6f.html"
+  ],
+  "hb_iread": [
+   "Some local districts' IREAD scores show improvement while others acknowledge work to do",
+   "The Herald Bulletin",
+   "2026-08-26",
+   "https://www.heraldbulletin.com/news/local_news/some-local-districts-iread-scores-show-improvement-while-others-acknowledge-work-to-do/article_c3576d96-9bcb-4c62-a1f2-6fda5241e20d.html"
+  ],
+  "hb_2024_priorities": [
+   "Test scores, school security among priorities for ACS board candidates",
+   "The Herald Bulletin",
+   "2024-10-12",
+   "https://www.heraldbulletin.com/news/local_news/test-scores-school-security-among-priorities-for-acs-board-candidates/article_440234d4-87e2-11ef-b4ce-4f9b7ad2063b.html"
+  ],
+  "hb_2024_change": [
+   "ACS candidates want change",
+   "The Herald Bulletin",
+   "2024-08-23",
+   "https://www.heraldbulletin.com/news/local_news/acs-candidates-want-change/article_c2865418-6152-11ef-8702-9b522a979ecc.html"
+  ],
+  "hb_2024_finance": [
+   "ACS candidates have spent nearly $13K on campaign",
+   "The Herald Bulletin",
+   "2024-10-28",
+   "https://www.heraldbulletin.com/news/local_news/acs-candidates-have-spent-nearly-13k-on-campaign/article_391769f6-9555-11ef-ba0c-3b8c239e6d41.html"
+  ],
+  "hb_2022_committee": [
+   "Why citizens committee leaders care about Anderson schools",
+   "The Herald Bulletin",
+   "2022-06-23",
+   "https://www.heraldbulletin.com/news/education/why-citizens-committee-leaders-care-about-anderson-schools/article_da3063f6-e81e-11ec-ad64-ebdbf259b92d.html"
+  ],
+  "hb_2022_grants": [
+   "Citizens group still fighting for Anderson schools to pursue up to $18 million in grants",
+   "The Herald Bulletin",
+   "2022-06-23",
+   "https://www.heraldbulletin.com/news/education/citizens-group-still-fighting-for-anderson-schools-to-pursue-up-to-18-million-in-grants/article_a9e0053c-e81c-11ec-8d6a-37e48dcf2d01.html"
+  ]
+ }
+}
