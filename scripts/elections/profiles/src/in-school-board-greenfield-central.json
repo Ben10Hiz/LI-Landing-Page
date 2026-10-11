@@ -1,0 +1,184 @@
+{
+ "race_id": "in-school-board-greenfield-central",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Greenfield-Central Community School Corporation serves Greenfield and surrounding central Hancock County; it reported 4,181 students in 2025, down from a peak of 4,611 in 2011 {gcsc_deck}.",
+  "The superintendent is Dr. Harold Olin {gcsc_deck}{gcsc_discover}.",
+  "The Board of School Trustees has five members serving overlapping four-year terms: four must live in a geographic district (quadrants divided by I-70 and State Road 9) and one seat is at-large, but every voter in the corporation votes in every board race {gcsc_board}{gcsc_boardinfo}.",
+  "Two seats are on the 2026 ballot, each electing one member: District 2 (northeast) and District 3 (southwest) {gcsc_board}{in_list}.",
+  "District 2: the district lists Trent Taylor as the current member, for a term ending December 31, 2026; he is running as an Independent against David F. Long, a Republican {gcsc_board}{in_list}. Clark Smith was listed as the District 2 member in November 2025, and the board's January 12, 2026 organizational meeting agenda included the oath of office for appointed board members {gcsc_deck}{gcsc_jan26}.",
+  "District 3: the seat is held by John Rihm, a member since January 2019, who is not on the ballot; Rebekah Cerqua (nonpartisan) and S. Katie Sanford Evanoff (Republican) are running {gcsc_board}{in_list}.",
+  "2026 is the first Indiana election in which school board candidates may run with a party label, as independents or without affiliation {chalkbeat_run}.",
+  "School restructuring (2025-2027): the board voted in April 2025 to move fourth grade back to the elementary schools starting in 2025-26, and on November 10, 2025 approved three recommendations: combine the two intermediate schools at Maxwell, combine Weston and Harris elementaries at the Harris/Greenfield Intermediate site, and move all preschool classes to Weston {gcsc_reconfig}{gcsc_deck}. The administration estimated savings of about $786,000 a year from the intermediate merger and up to $1 million a year from the elementary merger {gcsc_deck}.",
+  "The intermediate schools merged into Maxwell Intermediate School on August 3, 2026, and construction of added classrooms at Maxwell began September 1, 2026 {gcsc_reconfig}.",
+  "Enrollment and choice: the district's November 2025 presentation attributed declining enrollment to smaller kindergarten classes, homebuyers without school-age children, open enrollment, online and home schooling, and expanded vouchers {gcsc_deck}.",
+  "Property taxes (SEA 1): a September 2025 Policy Analytics study for the district projected that the 2025 state property tax law would slow growth in net assessed value and raise property tax cap (circuit breaker) losses from about $229,000 in 2025 to roughly $970,000 or more a year starting in 2026 {gcsc_sea1}.",
+  "Bonds (2026): at a September 8, 2026 preliminary determination hearing, the district proposed up to $18 million in bonds for maintenance, facility upgrades, programs and safety/security work, projected to cause no net increase over the 2026 debt service levy {gcsc_prelim}.",
+  "The board held public hearings on the 2027 budget, capital projects plan, bus replacement plan and collective bargaining on September 14, 2026 {gcsc_sep26}.",
+  "No candidate forum or published candidate questionnaire was found in sources that could be read."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "David F. Long",
+   "seat": "District 2",
+   "summary": "Challenger running as a Republican against District 2 board member Trent Taylor {in_list}{gcsc_board}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the ballot as the Republican candidate for District 2 {in_list}.",
+    "Indiana school board candidates file a petition with about 10 voter signatures with the county; claiming a major-party label requires having voted in that party's last two primaries or approval from the county party chair {chalkbeat_run}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports for this race were found in the sources reviewed."
+   ],
+   "gaps": [
+    "A Daily Reporter (Greenfield) article on the race (September 26, 2026) could not be retrieved (site blocked automated access); details seen only in its search-result snippet are listed here as unverified.",
+    "Unverified (Daily Reporter snippet): first run for political office; lists communication, transparency and fiscal responsibility as top issues; has criticized the district's communication with the public.",
+    "No occupation, campaign website or questionnaire was found.",
+    "No campaign finance filings were found."
+   ]
+  },
+  {
+   "ballot_name": "Trent Taylor",
+   "seat": "District 2",
+   "summary": "Incumbent District 2 board member and board assistant secretary, running as an Independent {gcsc_board}{gcsc_discover}{in_list}.",
+   "website": null,
+   "background": [
+    "Listed by the district as the District 2 (northeast) member and as the board's assistant secretary for 2026 {gcsc_board}{gcsc_discover}."
+   ],
+   "path_to_ballot": [
+    "Listed on the ballot as an Independent {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {gcsc_board}. No public statement from him on the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports for this race were found in the sources reviewed."
+   ],
+   "gaps": [
+    "A Daily Reporter (Greenfield) article on the race (September 26, 2026) could not be retrieved (site blocked automated access); details seen only in its search-result snippet are listed here as unverified.",
+    "Unverified (Daily Reporter snippet): joined the board to fill a vacancy at the start of 2026. District records show Clark Smith in the seat in November 2025 and an oath for appointed members on the January 12, 2026 agenda, but no source read names Taylor as the appointee.",
+    "His votes on the restructuring decisions are unknown; the November 2025 approval predates his listing on the board.",
+    "No occupation, campaign website or questionnaire was found.",
+    "No campaign finance filings were found."
+   ]
+  },
+  {
+   "ballot_name": "Rebekah Cerqua",
+   "seat": "District 3",
+   "summary": "Candidate without party affiliation for the open District 3 seat, held by John Rihm, who is not on the ballot {in_list}{gcsc_board}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the ballot as nonpartisan {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports for this race were found in the sources reviewed."
+   ],
+   "gaps": [
+    "A Daily Reporter (Greenfield) article on the race (September 26, 2026) could not be retrieved (site blocked automated access); details seen only in its search-result snippet are listed here as unverified.",
+    "Unverified (Daily Reporter snippet): first-time candidate; former English and science teacher and cheer coach at Greenfield-Central High School; now works in higher education; top priority would be protecting district funding and directing resources responsibly; wants a long-term, data-informed plan for district growth.",
+    "No campaign website or questionnaire was found.",
+    "No campaign finance filings were found."
+   ]
+  },
+  {
+   "ballot_name": "S. Katie Sanford Evanoff",
+   "seat": "District 3",
+   "summary": "Republican candidate for the open District 3 seat, held by John Rihm, who is not on the ballot {in_list}{gcsc_board}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the ballot as a Republican {in_list}.",
+    "Claiming a major-party label requires having voted in that party's last two primaries or approval from the county party chair {chalkbeat_run}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports for this race were found in the sources reviewed."
+   ],
+   "gaps": [
+    "A Daily Reporter (Greenfield) article on the race (September 26, 2026) could not be retrieved (site blocked automated access); details seen only in its search-result snippet are listed here as unverified.",
+    "Unverified (Daily Reporter snippet): first-time candidate. No details of her background or platform were visible.",
+    "No occupation, campaign website or questionnaire was found.",
+    "No campaign finance filings were found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "gcsc_board": [
+   "School Board",
+   "Greenfield-Central Community School Corporation",
+   "2026-10",
+   "https://www.gcsc.k12.in.us/school-board/"
+  ],
+  "gcsc_boardinfo": [
+   "Board Information",
+   "Greenfield-Central Community School Corporation",
+   "2026-10",
+   "https://www.gcsc.k12.in.us/board-information/"
+  ],
+  "gcsc_deck": [
+   "Potential Restructuring for Greenfield-Central Schools (public presentation)",
+   "Greenfield-Central Community School Corporation",
+   "2025-11-04",
+   "https://www.gcsc.k12.in.us/wp-content/uploads/2025/11/GC-Restructuring-Presentation-Public.pdf"
+  ],
+  "gcsc_reconfig": [
+   "Restructuring Conversation and Collection of Resources from Consultants",
+   "Greenfield-Central Community School Corporation",
+   "2026-10",
+   "https://www.gcsc.k12.in.us/reconfiguration-community-information/"
+  ],
+  "gcsc_sea1": [
+   "Senate Enrolled Act 1 Impacts (Policy Analytics study)",
+   "Greenfield-Central Community School Corporation",
+   "2025-09",
+   "https://www.gcsc.k12.in.us/wp-content/uploads/2025/11/SB1_Greenfield.pdf"
+  ],
+  "gcsc_prelim": [
+   "Preliminary Determination hearing presentation",
+   "Greenfield-Central Community School Corporation",
+   "2026-09-08",
+   "https://www.gcsc.k12.in.us/wp-content/uploads/2026/09/Preliminary-Determination-9-8-26.pdf"
+  ],
+  "gcsc_jan26": [
+   "Regular and organizational meeting agenda, January 12, 2026",
+   "Greenfield-Central Community School Corporation",
+   "2026-01-12",
+   "https://www.gcsc.k12.in.us/wp-content/uploads/2026/01/Advertised-Agenda-January-12-2026.pdf"
+  ],
+  "gcsc_sep26": [
+   "Regular meeting agenda, September 14, 2026",
+   "Greenfield-Central Community School Corporation",
+   "2026-09-14",
+   "https://www.gcsc.k12.in.us/wp-content/uploads/2026/09/Advertised-Meeting-Agenda-9.14.2026.pdf"
+  ],
+  "gcsc_discover": [
+   "Discover (district newsletter), July 2026",
+   "Greenfield-Central Community School Corporation",
+   "2026-07",
+   "https://www.gcsc.k12.in.us/wp-content/uploads/2026/09/Discover-July2026.pdf"
+  ],
+  "chalkbeat_run": [
+   "FAQ: How to run for school board in Indiana",
+   "Chalkbeat Indiana",
+   "2026-05-11",
+   "https://www.chalkbeat.org/indiana/2026/05/11/how-to-run-for-school-board/"
+  ]
+ }
+}

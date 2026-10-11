@@ -1,0 +1,203 @@
+{
+ "race_id": "in-school-board-hobart",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The School City of Hobart serves most of the city of Hobart in Lake County and runs six schools: Hobart High School, Hobart Middle School, three elementary schools (Joan Martin, Liberty and Veterans at Mundell) and the Early Learning Center at George Earle {wiki_hobart}{hob_buildings}. Enrollment was 4,088 in 2019–20, the latest district-wide figure this guide found {wiki_hobart}. Dr. Peggy Buffington is superintendent {hob_supt}.",
+  "The board has seven members, all elected at large: four seats were filled in 2022 and three in 2024 {lc_results_2022}{lc_results_2024}{hob_board}. The current members are President Rikki Guthrie, Vice President Sandra J. Hillan, Secretary Frank Porras, Donald H. Rogers, Stuart B. Schultz, Bradley Keehn and David Kostbade {hob_board}.",
+  "Seats on the 2026 ballot: four at-large seats. The county's sample ballot reads 'Vote for not more than Four (4),' not one as the state list shows {lc_sample_ho02}{in_list}. The four candidates are the four incumbents elected in 2022: Guthrie, Hillan, Rogers and Schultz {lc_sample_ho02}{lc_results_2022}. With four candidates for four seats, the race is uncontested.",
+  "Not on this ballot: Porras, Keehn and Kostbade, who ran unopposed for three at-large seats in 2024 {lc_results_2024}.",
+  "Budget and SEA 1 (2025): in September 2025 the Post-Tribune reported that the board had approved an engagement letter with the financial adviser Stifel, Nicolaus & Co. to advise on possible bond refunding and other relief from circuit-breaker (tax-cap) losses, and that the district was retaining Policy Analytics LLC to forecast future tax revenue {posttrib_sea1}. The paper reported that Hobart already loses about 80% of its tax levy to the property-tax caps, and quoted Buffington describing SEA 1 as a second circuit breaker: 'We have to engage with our financial planners to be able to look at the devastation the legislation did' {posttrib_sea1}.",
+  "Operating referendum (2017 and 2025): voters first approved an eight-year operating levy of up to 24.6 cents per $100 of assessed value in November 2017 {dlgf_hob_2017}{dlgf_hist}. The board's Resolution 2024-39 asked voters to renew the levy at the same rate for 2026 through 2033 {dlgf_hob_res}. On May 6, 2025, voters approved the renewal 1,188 to 274 (81.3%) {lc_results_2025}. The district's spending plan projects about $2.8 million a year, mostly for transportation ($2.7 million) with $75,000 for school safety {dlgf_hob_plan}.",
+  "Charter schools (2025): two charter schools, Neighbors' New Vistas High School and Discovery Charter School, chose to share in the referendum revenue, at a projected $13,504 and $2,813 a year {dlgf_hob_res}{dlgf_hob_plan}.",
+  "No school referendum on the 2026 ballot: the only public questions on the Hobart sample ballot are two statewide constitutional amendments {lc_sample_ho02}.",
+  "Forums: this guide found no candidate forums, questionnaires or news coverage of the 2026 Hobart race. The district's online board minutes (hosted on ic-board.com) could not be opened, so board decisions in 2025–2026 could not be reviewed {hob_meetings}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Donald H Rogers",
+   "seat": "At Large",
+   "summary": "Incumbent; on the board since February 5, 2009, according to the district {hob_board}. One of four candidates for four at-large seats {lc_sample_ho02}.",
+   "website": null,
+   "background": [
+    "The district's board page gives no occupation or other biographical information {hob_board}."
+   ],
+   "path_to_ballot": [
+    "Filed as a nonpartisan candidate; the county lists a filing date of June 3, 2026 {lc_candidates}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {hob_board}. Won reelection in 2022 with 3,081 votes (19.8%) in a six-candidate race for four at-large seats {lc_results_2022}. No statements found describing the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "Occupation and community roles not found on any page this guide could read."
+   ]
+  },
+  {
+   "ballot_name": "Rikki Guthrie",
+   "seat": "At Large",
+   "summary": "Incumbent and board president; on the board since January 1, 2011, according to the district {hob_board}. One of four candidates for four at-large seats {lc_sample_ho02}.",
+   "website": null,
+   "background": [
+    "The district's board page gives no occupation or other biographical information {hob_board}."
+   ],
+   "path_to_ballot": [
+    "Filed as a nonpartisan candidate; the county lists a filing date of June 11, 2026 {lc_candidates}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {hob_board}. Won reelection in 2022 with 2,752 votes (17.7%) in a six-candidate race for four at-large seats {lc_results_2022}. No statements found describing the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "Occupation and community roles not found on any page this guide could read."
+   ]
+  },
+  {
+   "ballot_name": "Sandra Hillan",
+   "seat": "At Large",
+   "summary": "Incumbent and board vice president; on the board since January 3, 2019, according to the district {hob_board}. One of four candidates for four at-large seats {lc_sample_ho02}.",
+   "website": null,
+   "background": [
+    "The district's board page gives no occupation or other biographical information {hob_board}."
+   ],
+   "path_to_ballot": [
+    "Filed as a nonpartisan candidate; the county lists a filing date of June 15, 2026 {lc_candidates}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {hob_board}. Won reelection in 2022 with 3,238 votes (20.8%) in a six-candidate race for four at-large seats {lc_results_2022}. No statements found describing the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "Occupation and community roles not found on any page this guide could read.",
+    "A 2019 Post-Tribune article (seen only as a search snippet; the page would not open) reportedly described Hillan as a 1981 Hobart High School graduate and retired school administrator in Hammond and Merrillville who replaced William Bigler on the board. Unverified."
+   ]
+  },
+  {
+   "ballot_name": "Stuart Schultz",
+   "seat": "At Large",
+   "summary": "Incumbent; on the board since January 9, 2010, according to the district {hob_board}. One of four candidates for four at-large seats {lc_sample_ho02}.",
+   "website": null,
+   "background": [
+    "The district's board page gives no occupation or other biographical information {hob_board}."
+   ],
+   "path_to_ballot": [
+    "Filed as a nonpartisan candidate; the county lists a filing date of June 16, 2026 {lc_candidates}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {hob_board}. Won reelection in 2022 with 2,532 votes (16.3%) in a six-candidate race for four at-large seats {lc_results_2022}. No statements found describing the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "Occupation and community roles not found on any page this guide could read."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "hob_board": [
+   "Board of School Trustees",
+   "School City of Hobart",
+   "2026-10",
+   "https://www.hobart.k12.in.us/our-district/school-board/board-of-school-trustees"
+  ],
+  "hob_meetings": [
+   "School Board Meetings",
+   "School City of Hobart",
+   "2026-10",
+   "https://www.hobart.k12.in.us/our-district/school-board/school-board-meetings"
+  ],
+  "hob_supt": [
+   "Dr. Buffington's Podcast: The Brickie Experience",
+   "School City of Hobart",
+   "2026-10",
+   "https://www.hobart.k12.in.us/our-district/superintendent-s-brickie-network"
+  ],
+  "hob_buildings": [
+   "Schools & Offices",
+   "School City of Hobart",
+   "2026-10",
+   "https://www.hobart.k12.in.us/our-district/building-information"
+  ],
+  "wiki_hobart": [
+   "School City of Hobart",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/School_City_of_Hobart"
+  ],
+  "lc_candidates": [
+   "2026 General Election Candidate List (as of Aug. 11, 2026)",
+   "Lake County Board of Elections and Registration",
+   "2026-08-11",
+   "https://lakecountyin.gov/departments/voters/election-candidates/2026_General_Candidate_List_08_11_26.xlsx"
+  ],
+  "lc_sample_ho02": [
+   "2026 General Election sample ballot, Precinct 197-HO 02 (Hobart)",
+   "Lake County Board of Elections and Registration",
+   "2026-09",
+   "https://lakecountyin.gov/departments/voters/2026-ELECTION/2026-General-Election-Sample-Ballots/Pct%20197-HO%2002%20Act%2001-GENERAL.pdf"
+  ],
+  "lc_results_2022": [
+   "2022 General Election Summary",
+   "Lake County Board of Elections and Registration",
+   "2022-11",
+   "https://lakecountyin.gov/departments/voters/election-results-c/2022GeneralElectionResults/Lake_ElecSumm_All.htm"
+  ],
+  "lc_results_2024": [
+   "2024 General Election Summary",
+   "Lake County Board of Elections and Registration",
+   "2024-11",
+   "https://lakecountyin.gov/departments/voters/election-results-c/2024GeneralElectionResults/Lake_ElecSumm_All.htm"
+  ],
+  "lc_results_2025": [
+   "2025 Special Election Summary (May 6, 2025)",
+   "Lake County Board of Elections and Registration",
+   "2025-05-06",
+   "https://lakecountyin.gov/departments/voters/election-results-c/2025SpecialElectionResults/Lake_ElecSumm_All.htm"
+  ],
+  "posttrib_sea1": [
+   "Indiana schools preparing for tax reform law's 'devastation' (Post-Tribune, by Carole Carlson; republished)",
+   "Chicago Tribune / Post-Tribune via solwd.net",
+   "2025-09-11",
+   "https://solwd.net/indiana-schools-preparing-for-tax-reform-laws-devastation/"
+  ],
+  "dlgf_hob_2017": [
+   "Findings and Final Determination on Proposed Question, School City of Hobart (No. 17-010-REF)",
+   "Indiana Department of Local Government Finance",
+   "2017-07-03",
+   "https://www.in.gov/dlgf/files/Referendum-Determination-Operating-School-City-of-Hobart.pdf"
+  ],
+  "dlgf_hob_res": [
+   "Referendum Tax Levy Resolution (Resolution 2024-39), School City of Hobart",
+   "Indiana Department of Local Government Finance",
+   "2025",
+   "https://www.in.gov/dlgf/files/referendum-documentation2/Referendum-Resolution-Operating-School-City-of-Hobart.pdf"
+  ],
+  "dlgf_hob_plan": [
+   "Revenue Spending Plan (Exhibit A-1), School City of Hobart",
+   "Indiana Department of Local Government Finance",
+   "2025",
+   "https://www.in.gov/dlgf/files/referendum-documentation2/Referendum-Spending-Plan-Operating-School-City-of-Hobart.pdf"
+  ],
+  "dlgf_hist": [
+   "Historic School Tax Levy Referenda",
+   "Indiana Department of Local Government Finance",
+   "2026-10",
+   "https://www.in.gov/dlgf/referendum-information/historic-school-tax-levy-referenda/"
+  ]
+ }
+}

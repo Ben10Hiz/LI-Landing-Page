@@ -74,6 +74,15 @@ Sensitive items held for a second, careful editorial pass (criminal cases, misco
   Note: This concerns a district employee, not a candidate. It may matter for board oversight of finances during the referendum campaign. The charge is unresolved. No candidate statement on the audit findings was found. Editor: relevant as a district-level overview item (top of the district's ballot section), not a candidate item. Further study: identify who oversees the area involved (board members and administrators responsible for finance/internal controls) and how the board responded to the audit.
   - [School Official Allegedly Misused Funds](https://hometownnewsnow.com/local-news/934759) — Hometown News Now, 2026-10-05
 
+## Indiana School Board Member (`in-school-board-morgan-mooresville`)
+
+- **Mooresville school board (incl. incumbents Dave Oberle and Matt Saner); appointee Deon Brimmage** — other — _held_
+  On November 25, 2024, the board met in executive session on a board vacancy, then voted unanimously in public to appoint Deon Brimmage without public comment or discussion. The Morgan County Correspondent filed a complaint with the Public Access Counselor and sued in December 2024 (Morgan County, case 55D03-2412-PL-002692). In a formal opinion reported in March 2025, Public Access Counselor Luke Britt found the board did not comply with the Open Door Law on either allegation (decision made in executive session; no invitation for public comment); the district denied wrongdoing and pointed to an unused public-comment sign-up sheet. In a settlement finalized in May 2025, the board amended its vacancy-filling and public-participation policies (requiring public interviews of finalists, open discussion and public comment before final action) and agreed to pay more than $6,000 in attorney fees; the newspaper dismissed the suit.
+  Note: Concerns the process by which a current candidate was appointed and votes of board members now on the ballot. The newspaper that brought the complaint also publishes the county voter guide. The individual votes of members were not itemized in the sources; whether the appointment itself was revisited was not stated.
+  - [Morgan County Correspondent v. Board of Education of the Mooresville Consolidated School Corporation](https://www.rcfp.org/litigation/morgan-county-correspondent-v-board-of-ed/) — Reporters Committee for Freedom of the Press, 2024-12
+  - [PAC: school board noncompliant](https://morgancountycorrespondent.com/2025/03/06/pac-school-board-noncompliant/) — Morgan County Correspondent, 2025-03-06
+  - [Newspaper's lawsuit prompts Indiana school board to adopt transparency reforms](https://www.rcfp.org/?p=74978) — Reporters Committee for Freedom of the Press, 2025-06-06
+
 ## Indiana School Board Member (`in-school-board-vanderburgh`)
 
 - **Ken Colbert** — other — _held_

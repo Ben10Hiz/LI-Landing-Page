@@ -1,0 +1,335 @@
+{
+ "race_id": "in-school-board-morgan-mooresville",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Mooresville Consolidated School Corporation serves the Town of Mooresville and Brown, Madison and Harrison townships in northern Morgan County, southwest of Indianapolis {wiki_mhs}.",
+  "The district runs Mooresville High School, Paul Hadley Middle School and five elementary schools (Neil Armstrong, Newby, North Madison, Northwood and Waverly) {mcsc_board}; Mooresville High School enrolled about 1,380 students in 2023-24 {wiki_mhs}. A district-wide enrollment figure was not found.",
+  "The superintendent is Dr. Jake Allen, who describes himself as a 20-year employee of the district {mcsc_supt}.",
+  "The Board of School Trustees has five members; the district website lists seats by area: Tim Cummins (president, Harrison Township), Jen Reed (vice president, Madison Township), Matt Saner (secretary, Brown Township), Dave Oberle (Town of Mooresville) and Deon Brimmage (at-large) {mcsc_board}.",
+  "In February 2025 Indiana State Board of Education staff recommended approval of a change to the corporation's governing body plan that the school board had initiated by resolution {sboe_memo}. The memo reviewed does not describe the new seat structure.",
+  "Three seats are on the 2026 ballot, each electing one member: District 1, where board member Dave Oberle is unopposed; District 2, where board member Matt Saner is unopposed; and District 5 (listed by the state as At Large, District 5), where appointed board member Deon Brimmage faces Sharon (France) Atwood and Lea Sharp {mcc_filed}{in_list}.",
+  "All five 2026 candidates are listed as Republicans; 2026 is the first Indiana election in which school board candidates may run with a party label, and no primary is held, so several candidates of one party can run for the same seat {mcc_filed}{chalkbeat_run}{in_list}.",
+  "Brimmage was appointed to the board at the end of 2024 to fill the vacancy left by the death of board member Dr. Bill Roberson {mcc_filed}{mcc_pac}.",
+  "Budget (2027): the district advertised a 2027 budget of $61.5 million, including $34.1 million for the education fund, $16.2 million for operations and $9.1 million for debt service, with a public hearing on September 8, 2026 and adoption set for October 6, 2026; the notice estimates $845,400 in property tax cap credits {mcsc_budget27}.",
+  "Borrowing (2026): in June 2026 the board preliminarily determined to issue up to $6 million in bonds for renovations and improvements across the district, including site and athletic work, technology, buses and equipment {mcsc_bond26}; in September 2026 it preliminarily determined to issue up to $5.5 million in bonds to refinance Series 2019 building corporation bonds {mcsc_refi}.",
+  "Career programs (December 2025): the board approved an agreement with the Mooresville Redevelopment Commission to establish a Paxton-Patterson career center at Paul Hadley Middle School starting in 2026-27 {mcc_lab}.",
+  "Board meetings: regular meetings are generally held the second Tuesday of each month at the Education Center, with recordings posted on demand {mcsc_meetings}.",
+  "No candidate forum was found. The Morgan County Correspondent's October 2026 voter guide published questionnaire answers from Brimmage and Sharp for District 5; Atwood did not respond, and the uncontested District 1 and 2 races were not included {mcc_guide}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "David Oberle",
+   "seat": "District 1",
+   "summary": "Incumbent board member (listed by the district as Dave Oberle, Town of Mooresville seat), running unopposed as a Republican {mcc_filed}{mcsc_board}{in_list}.",
+   "website": null,
+   "background": [
+    "Serves on the board in the seat the district lists as Town of Mooresville; he held the same seat in January 2024 {mcsc_board}{mcsc_blast2024}."
+   ],
+   "path_to_ballot": [
+    "Filed for reelection in District 1 by the June 2026 deadline and is the only candidate for the seat {mcc_filed}.",
+    "Listed on the ballot as a Republican {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {mcsc_board}. No public statement from him on the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports for this race were found in the sources reviewed."
+   ],
+   "gaps": [
+    "No occupation, campaign website, questionnaire or interview was found; the Morgan County Correspondent voter guide covered only the contested District 5 race.",
+    "The year he first joined the board was not confirmed.",
+    "No campaign finance filings were found."
+   ]
+  },
+  {
+   "ballot_name": "Matt Saner",
+   "seat": "District 2",
+   "summary": "Incumbent board member and current board secretary, running unopposed as a Republican {mcc_filed}{mcsc_board}{in_list}.",
+   "website": null,
+   "background": [
+    "Is board secretary; the district website lists him in the Brown Township seat {mcsc_board}.",
+    "Was board president, listed in an at-large seat, in January 2024 {mcsc_blast2024}."
+   ],
+   "path_to_ballot": [
+    "Filed for reelection in District 2 by the June 2026 deadline and is the only candidate for the seat {mcc_filed}.",
+    "Listed on the ballot as a Republican {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {mcsc_board}. No public statement from him on the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports for this race were found in the sources reviewed."
+   ],
+   "gaps": [
+    "No occupation, campaign website, questionnaire or interview was found.",
+    "Why the district lists him in a different seat (Brown Township) than in January 2024 (at-large) was not explained in the sources reviewed; it may relate to the 2025 governing body plan change.",
+    "A search snippet listed a Matt Saner as president of the Mooresville town park board in 2024; this was not verified or tied to this candidate.",
+    "No campaign finance filings were found."
+   ]
+  },
+  {
+   "ballot_name": "Deon Brimmage",
+   "seat": "At Large, District 5",
+   "summary": "Incumbent appointed to the board at the end of 2024, running in his first school board election as a Republican; works as a strategic deployment specialist at Franciscan Health {mcc_filed}{mcc_guide}{in_list}.",
+   "website": null,
+   "background": [
+    "Strategic deployment specialist at Franciscan Health; says he leads lean and rapid-improvement projects and manages projects to keep leaders on deadline {mcc_guide}.",
+    "Bachelor of science in business administration, University of Indianapolis, 1998 {mcc_guide}.",
+    "Volunteer coach for Mooresville wrestling; has a child in the district's schools {mcc_guide}."
+   ],
+   "path_to_ballot": [
+    "Appointed by the board in late 2024 to fill a vacancy; this is his first board election {mcc_filed}{mcc_pac}.",
+    "Listed on the ballot as a Republican {in_list}. Said he does not believe partisan school board races are necessary because board members must represent all families, and that he chose his affiliation because it reflects his personal values {mcc_guide}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Says referendums are \"required at times but only as a last resort,\" and that schools should show they have been financially responsible and tried cost-saving measures before asking taxpayers for more {mcc_guide}.",
+      "Lists effective allocation of resources with fiscal accountability as a core board duty {mcc_guide}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Says SAT scores are not the only measure of success but that periodically offering test-preparation resources or classes would help raise scores {mcc_guide}.",
+      "Supports AI in schools \"only as a tool to assist in the learning process,\" with students taught to use it responsibly and ethically {mcc_guide}."
+     ]
+    },
+    {
+     "topic": "Enrollment & school choice",
+     "items": [
+      "To attract families, would continue strong academic and extracurricular programs, safe schools and career-focused pathways, and highlight student success {mcc_guide}."
+     ]
+    },
+    {
+     "topic": "Facilities",
+     "items": [
+      "His top priority for a large donor-funded project would be a career and innovation center offering hands-on work in technology, skilled trades, engineering, health care and advanced manufacturing {mcc_guide}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Says the board \"does an excellent job of transparency,\" noting meetings are published in advance, open to the public and open to public comment {mcc_guide}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member {mcsc_board}. Describes the board's transparency positively and says he wants to build stronger relationships with staff and faculty {mcc_guide}."
+   ],
+   "plans": [
+    "Says he would advocate for policies that keep schools safe and supportive for students and staff {mcc_guide}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports for this race were found in the sources reviewed."
+   ],
+   "gaps": [
+    "No campaign website or social media page was found.",
+    "No campaign finance filings were found."
+   ]
+  },
+  {
+   "ballot_name": "Lea Sharp",
+   "seat": "At Large, District 5",
+   "summary": "Payroll specialist in the Mooresville school district's business office and first-time board candidate, running as a Republican {mcc_guide}{mcc_filed}{in_list}.",
+   "website": null,
+   "background": [
+    "Payroll specialist; lists 16 years as a Mooresville schools employee (payroll) and says she works in the district's business office {mcc_guide}.",
+    "Retired from UPS, where she was a part-time safety supervisor; also describes herself as a business owner/operator {mcc_guide}.",
+    "Associate degree from ITT Technical Institute, with additional business courses at the University of Indianapolis; has lived in the Mooresville area for more than 40 years {mcc_guide}."
+   ],
+   "path_to_ballot": [
+    "Filed by the June 2026 deadline to challenge Brimmage for the District 5 seat {mcc_filed}.",
+    "Listed on the ballot as a Republican {in_list}. Said she has voted Republican because the party best represents her beliefs, but that politics should be kept \"in the Civic class\" {mcc_guide}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "On referendums, says voter decisions could help or hinder the district and that transparency about where tax money goes, and what would happen if state funds are lost, would help voters decide {mcc_guide}.",
+      "Cites her work on district finances as a qualification for overseeing budgets, contracts and expenditures {mcc_guide}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "To raise SAT scores, would identify learning gaps, provide academic support and give students access to effective test preparation {mcc_guide}.",
+      "Says AI can be positive but warns against students becoming dependent on computers and not thinking for themselves {mcc_guide}."
+     ]
+    },
+    {
+     "topic": "Enrollment & school choice",
+     "items": [
+      "Says parents should have a voice in choosing their child's school, and suggests a community questionnaire to learn why families do not choose Mooresville {mcc_guide}."
+     ]
+    },
+    {
+     "topic": "Facilities",
+     "items": [
+      "For a large donor-funded project, would create a dedicated technology classroom with trained teachers {mcc_guide}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Says she is running because she has \"witnessed and experienced voices ignored in a past school board meeting\" {mcc_guide}.",
+      "Says board meetings offer chances to be heard, but the board should encourage more involvement and build trust by being more transparent about decisions and spending {mcc_guide}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Says voices were ignored at a past board meeting and that the board needs more transparency about how decisions are made and how taxpayer dollars are spent; she did not name specific decisions {mcc_guide}."
+   ],
+   "plans": [
+    "Would base decisions on facts and work with administrators and fellow board members even when opinions differ {mcc_guide}."
+   ],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports for this race were found in the sources reviewed."
+   ],
+   "gaps": [
+    "The sources reviewed did not say whether she would keep her district payroll job if elected or how any conflict of interest would be handled.",
+    "Her business was not named.",
+    "No campaign website or social media page was found.",
+    "A GoodParty.org profile under her name was seen only in search results and was not reviewed.",
+    "No campaign finance filings were found."
+   ]
+  },
+  {
+   "ballot_name": "Sharon (France) Atwood",
+   "seat": "At Large, District 5",
+   "summary": "Candidate challenging Brimmage for the District 5 seat as a Republican; did not respond to the Morgan County Correspondent's voter guide {mcc_filed}{mcc_guide}{in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Filed by the June 2026 deadline for the District 5 seat {mcc_filed}.",
+    "Listed on the ballot as a Republican {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports for this race were found in the sources reviewed."
+   ],
+   "gaps": [
+    "Did not respond to the Morgan County Correspondent voter guide; no occupation, background, positions, website or interview were found.",
+    "No campaign finance filings were found."
+   ]
+  }
+ ],
+ "review_flags": [
+  {
+   "person": "Mooresville school board (incl. incumbents Dave Oberle and Matt Saner); appointee Deon Brimmage",
+   "category": "other",
+   "status": "held",
+   "summary": "On November 25, 2024, the board met in executive session on a board vacancy, then voted unanimously in public to appoint Deon Brimmage without public comment or discussion {rcfp_case}. The Morgan County Correspondent filed a complaint with the Public Access Counselor and sued in December 2024 (Morgan County, case 55D03-2412-PL-002692) {rcfp_case}. In a formal opinion reported in March 2025, Public Access Counselor Luke Britt found the board did not comply with the Open Door Law on either allegation (decision made in executive session; no invitation for public comment); the district denied wrongdoing and pointed to an unused public-comment sign-up sheet {mcc_pac}. In a settlement finalized in May 2025, the board amended its vacancy-filling and public-participation policies (requiring public interviews of finalists, open discussion and public comment before final action) and agreed to pay more than $6,000 in attorney fees; the newspaper dismissed the suit {rcfp_settle}.",
+   "note": "Concerns the process by which a current candidate was appointed and votes of board members now on the ballot. The newspaper that brought the complaint also publishes the county voter guide. The individual votes of members were not itemized in the sources; whether the appointment itself was revisited was not stated."
+  }
+ ],
+ "sources": {
+  "mcsc_board": [
+   "Members",
+   "Mooresville Schools",
+   "2026-10",
+   "https://www.mooresvilleschools.org/board/members"
+  ],
+  "mcsc_supt": [
+   "Office of Superintendent",
+   "Mooresville Schools",
+   "2026-10",
+   "https://www.mooresvilleschools.org/departments/office_of_superintendent"
+  ],
+  "mcsc_meetings": [
+   "Public Announcements (board meeting schedule)",
+   "Mooresville Schools",
+   "2026-10",
+   "https://www.mooresvilleschools.org/board/public_announcements"
+  ],
+  "mcsc_blast2024": [
+   "Pioneer Blast, January 11, 2024",
+   "Mooresville Schools",
+   "2024-01-11",
+   "https://www.mooresvilleschools.org/UserFiles/Servers/Server_23651958/File/News/2024/Pioneer%20Blast%20Jan%2011%202024.pdf"
+  ],
+  "mcsc_budget27": [
+   "Notice to Taxpayers, 2027 Budget (Budget Form 3)",
+   "Mooresville Consolidated School Corporation",
+   "2026-08-25",
+   "https://www.mooresvilleschools.org/UserFiles/Servers/Server_23651958/File/Board/Form%203%20Budget%20Notice%20F2026%20for%202027.pdf"
+  ],
+  "mcsc_bond26": [
+   "Notice of Determination: 2026 general obligation bonds",
+   "Mooresville Consolidated School Corporation",
+   "2026-06-17",
+   "https://www.mooresvilleschools.org/UserFiles/Servers/Server_23651958/File/2026%20GOB%20Bonds%20-%20notice%20of%20determination%20-%206-10-26.pdf"
+  ],
+  "mcsc_refi": [
+   "Notice of Determination: refinancing of Series 2019 bonds",
+   "Mooresville Consolidated School Corporation",
+   "2026-09-16",
+   "https://www.mooresvilleschools.org/UserFiles/Servers/Server_23651958/File/Board/MOORESVILLE%20SCHOOL%20-%20Notice%20of%20Determination%20-%202026%20Ref%20(2019).pdf"
+  ],
+  "mcc_filed": [
+   "Morgan County school board candidates set for general election",
+   "Morgan County Correspondent",
+   "2026-06-25",
+   "https://morgancountycorrespondent.com/2026/06/25/morgan-county-school-board-candidates-set-for-general-election/"
+  ],
+  "mcc_guide": [
+   "2026 Election Voter Guide: Mooresville School Board, District 5 (page V6)",
+   "Morgan County Correspondent",
+   "2026-10-05",
+   "https://morgancountycorrespondent.com/wp-content/uploads/2026/10/MCC-0924-C01-C-2.pdf"
+  ],
+  "mcc_pac": [
+   "PAC: school board noncompliant",
+   "Morgan County Correspondent",
+   "2025-03-06",
+   "https://morgancountycorrespondent.com/2025/03/06/pac-school-board-noncompliant/"
+  ],
+  "mcc_lab": [
+   "Mooresville school board approves college and career lab",
+   "Morgan County Correspondent",
+   "2025-12-18",
+   "https://morgancountycorrespondent.com/2025/12/18/mooresville-school-board-approves-college-and-career-lab/"
+  ],
+  "rcfp_case": [
+   "Morgan County Correspondent v. Board of Education of the Mooresville Consolidated School Corporation",
+   "Reporters Committee for Freedom of the Press",
+   "2024-12",
+   "https://www.rcfp.org/litigation/morgan-county-correspondent-v-board-of-ed/"
+  ],
+  "rcfp_settle": [
+   "Newspaper's lawsuit prompts Indiana school board to adopt transparency reforms",
+   "Reporters Committee for Freedom of the Press",
+   "2025-06-06",
+   "https://www.rcfp.org/?p=74978"
+  ],
+  "sboe_memo": [
+   "Approval of Governing Body Change - Mooresville Consolidated School Corporation",
+   "Indiana State Board of Education",
+   "2025-02-06",
+   "https://www.in.gov/sboe/files/Approval-MCSC-BoardMemo.pdf"
+  ],
+  "wiki_mhs": [
+   "Mooresville High School (Indiana)",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/Mooresville_High_School_(Indiana)"
+  ],
+  "chalkbeat_run": [
+   "FAQ: How to run for school board in Indiana",
+   "Chalkbeat Indiana",
+   "2026-05-11",
+   "https://www.chalkbeat.org/indiana/2026/05/11/how-to-run-for-school-board/"
+  ]
+ }
+}

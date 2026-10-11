@@ -1,0 +1,33 @@
+{
+ "race_id": "in-school-board-morgan-mooresville",
+ "office": "Indiana School Board Member",
+ "flags": [
+  {
+   "person": "Mooresville school board (incl. incumbents Dave Oberle and Matt Saner); appointee Deon Brimmage",
+   "category": "other",
+   "status": "held",
+   "summary": "On November 25, 2024, the board met in executive session on a board vacancy, then voted unanimously in public to appoint Deon Brimmage without public comment or discussion. The Morgan County Correspondent filed a complaint with the Public Access Counselor and sued in December 2024 (Morgan County, case 55D03-2412-PL-002692). In a formal opinion reported in March 2025, Public Access Counselor Luke Britt found the board did not comply with the Open Door Law on either allegation (decision made in executive session; no invitation for public comment); the district denied wrongdoing and pointed to an unused public-comment sign-up sheet. In a settlement finalized in May 2025, the board amended its vacancy-filling and public-participation policies (requiring public interviews of finalists, open discussion and public comment before final action) and agreed to pay more than $6,000 in attorney fees; the newspaper dismissed the suit.",
+   "note": "Concerns the process by which a current candidate was appointed and votes of board members now on the ballot. The newspaper that brought the complaint also publishes the county voter guide. The individual votes of members were not itemized in the sources; whether the appointment itself was revisited was not stated.",
+   "sources": [
+    {
+     "title": "Morgan County Correspondent v. Board of Education of the Mooresville Consolidated School Corporation",
+     "publisher": "Reporters Committee for Freedom of the Press",
+     "date": "2024-12",
+     "url": "https://www.rcfp.org/litigation/morgan-county-correspondent-v-board-of-ed/"
+    },
+    {
+     "title": "PAC: school board noncompliant",
+     "publisher": "Morgan County Correspondent",
+     "date": "2025-03-06",
+     "url": "https://morgancountycorrespondent.com/2025/03/06/pac-school-board-noncompliant/"
+    },
+    {
+     "title": "Newspaper's lawsuit prompts Indiana school board to adopt transparency reforms",
+     "publisher": "Reporters Committee for Freedom of the Press",
+     "date": "2025-06-06",
+     "url": "https://www.rcfp.org/?p=74978"
+    }
+   ]
+  }
+ ]
+}
