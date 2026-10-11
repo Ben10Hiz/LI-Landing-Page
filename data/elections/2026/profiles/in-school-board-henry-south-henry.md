@@ -120,7 +120,7 @@ Incumbent. She has represented Dudley Township since winning in 2022 and is runn
 
 ### On the current officeholder
 
-- Is a current board member [32]. In June 2026 she made the motion to approve the superintendent contract for Chris Stilwell, which passed 4-0 [29]. She also voted with the rest of the board in 2026 on the budget, facilities and policy items described above [40, 41].
+- Is a current board member [32]. In June 2026 she made the motion to approve the superintendent contract for Chris Stilwell, which passed 4-0 [29]. She moved the March 2026 motion setting the date for accepting out-of-district transfer students and seconded the June 2026 motion setting transfer-student numbers [40, 41].
 
 ### What we couldn't verify
 

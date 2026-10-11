@@ -1,0 +1,281 @@
+{
+ "race_id": "in-school-board-highland",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The School Town of Highland is the public school district for the town of Highland in Lake County, with its administration center at 9145 Kennedy Ave. {hl_meetings}{hl_min_jul26}. This guide did not verify a current enrollment figure. In July 2026 the district reported a 98% graduation rate and a 97% IREAD passing rate {hl_smith}.",
+  "The board has five members, all elected at large: President Patrick Krull, Vice President Robert Kuva, Secretary Erica Smith-Gomez, Victor A. Garcia and Richard Alyea {hl_board}{hl_min_jan26}. In 2022 voters filled three at-large seats, electing Garcia (3,931 votes), Smith-Gomez (3,782) and Kuva (3,584) over Carol Parker (2,820) and Richard (Rick) E Volbrecht Jr (2,491) {lc_2022}. In 2024 they filled two seats, electing Krull (4,099) and Rick Alyea (3,687) over Allencia Ballard (3,645) and Volbrecht (3,442) {lc_2024}.",
+  "Seats on the 2026 ballot: the Lake County sample ballot says 'Vote for not more than Three (3)' in the School Town of Highland at-large race. The state list shows 'vote for 1' {lc_sample_hl}{in_list}. The three seats are those won in 2022. All three incumbents, Garcia, Kuva and Smith-Gomez, are running again. The fourth candidate is Volbrecht, who ran unsuccessfully in 2022 and 2024 {lc_sample_hl}{lc_2022}{lc_2024}. Krull and Alyea are not on this ballot {lc_2024}. On the ballot, Garcia and Smith-Gomez are listed as Independent, Volbrecht as Republican, and Kuva with no party {lc_sample_hl}.",
+  "Superintendent turnover (2026): on July 2, 2026 the board accepted the resignation of Dr. Brian Smith, superintendent for 13 years, and named Assistant Superintendent Dr. Ryan Erdelac interim superintendent {hl_min_jul2}{hl_smith}. Erdelac resigned as assistant superintendent effective Aug. 20, 2026 {hl_min_aug18}. On Aug. 18, 2026 the board voted to appoint Dr. John Schwuchow, a former elementary school teacher who said he was glad to be returning to Highland, as interim superintendent retroactive to Aug. 11 {hl_min_aug18}. The board president said a new posting and a hearing were required before Schwuchow could be made permanent {hl_min_aug18}. A public notice set a Sept. 14, 2026 hearing on a proposed three-year superintendent contract running from Sept. 1, 2026 to June 30, 2029. It lists a $193,500 salary and $242,159.97 in total annual compensation and benefits {hl_supt_notice}. The district's staff directory now lists Schwuchow as superintendent {hl_staff}.",
+  "August 2026 storm: after a severe storm on Aug. 11, 2026, the administration center lost power and the board postponed an Aug. 17 special meeting on the superintendent contract {hl_postpone}. On Aug. 25 the board voted to keep paying eligible non-certified employees for their regular workdays from Aug. 11 to Aug. 21 {hl_min_aug25}. The first day of school was Aug. 25 {hl_firstday}{hl_min_aug18}.",
+  "Budget, property taxes and referendums: in May 2023 Highland voters rejected the district's operating referendum, 2,416 votes (52.25%) to 2,208 (47.75%) {lc_2023}. The district had said it was losing revenue to declining enrollment and changing demographics and had the lowest school tax rate in the area {hl_ref2023}. Members of the public raised a possible referendum at board meetings in January 2026 and raised the 2023 referendum's failure in August 2026 {hl_min_jan26}{hl_min_aug18}. In February 2026 Garcia reported meeting Highland's legislators about challenges the district expects from Senate Enrolled Act 1 {hl_min_feb26}. On April 21, 2026 the board hired Policy Analytics to study property tax impacts and revenue {hl_min_apr26}. On July 21, 2026 it approved transferring up to $528,581.51 from the Debt Service Fund to the Operations Fund in 2026 {hl_min_jul26}. There is no Highland school question on the Nov. 3, 2026 ballot {lc_sample_hl}.",
+  "Facilities and bonds: projects from the 2025 general obligation bond include high school and middle school gym bleachers and HVAC. In July 2026 the board hired The Skillman Corporation ($110,450) to manage that work and raised Schmidt Associates' architectural fee from $170,000 to $227,357 {hl_min_jul26}. In September 2026 the board held hearings on a new bond for facility, athletic, safety and security improvements and for buses, equipment and technology {hl_go_hearing}. Its notice of preliminary determination lists a maximum of $6,800,000 over five years and estimates no net increase in the debt service tax rate as existing debt matures {hl_pd_notice}.",
+  "Other 2025–2026 items: in July 2026 the board approved a high school handbook change putting in place the state's 'bell-to-bell' personal device ban (SEA 78) {hl_min_jul26}. It also approved a $109,348.64 agreement with the Town of Highland for a school resource officer {hl_min_jul26}. In February 2026 Smith-Gomez reported that state special education funding had been cut in every category for the year {hl_min_feb26}. Members of the public raised the enrollment of out-of-district students at meetings in August 2025 and January 2026 {hl_min_aug25b}{hl_min_jan26}.",
+  "Forums: this guide found no candidate forums, questionnaires or news coverage of the 2026 Highland race. Three of the four candidates are sitting board members whose motions and votes appear in the board minutes cited here."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Erica Smith-Gomez",
+   "seat": "At Large",
+   "summary": "Incumbent, first elected in 2022 and now board secretary. Listed as Independent {lc_2022}{hl_min_jan26}{lc_sample_hl}.",
+   "website": null,
+   "background": [
+    "Won an at-large seat in 2022 with 3,782 votes {lc_2022}. Elected board secretary in January 2026 {hl_min_jan26}.",
+    "Serves as Highland's representative on the board of the Northwest Indiana Special Education Cooperative (NISEC), which reelected her as its president in early 2026 {hl_min_feb26}."
+   ],
+   "path_to_ballot": [
+    "Listed as Independent on the state list and the Lake County sample ballot {in_list}{lc_sample_hl}."
+   ],
+   "positions": [
+    {
+     "topic": "Special education",
+     "items": [
+      "In board reports she said state special education funding was reduced in every category for the current year, and that 51 more students were in the severe category {hl_min_feb26}. She has also reported on NISEC's costs, its 2027 draft budget and its search for a new director {hl_min_may26}{hl_min_jun26}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member {hl_board}. On Aug. 18, 2026 she made the motion to appoint Dr. John Schwuchow interim superintendent, which passed unanimously {hl_min_aug18}. She seconded the July 2, 2026 motion accepting Dr. Brian Smith's resignation {hl_min_jul2}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign statements, website, questionnaire responses, forum appearances, endorsements or finance reports found.",
+    "Occupation and ties to the schools not found.",
+    "Position on the proposed 2026 bond issue or a future operating referendum not found."
+   ]
+  },
+  {
+   "ballot_name": "Richard (Rick) E Volbrecht, Jr",
+   "seat": "At Large",
+   "summary": "Candidate listed as Republican; not a current board member. He ran for the board in 2022 and 2024 and was not elected {lc_2022}{lc_2024}{lc_sample_hl}.",
+   "website": null,
+   "background": [
+    "Ran for the at-large board in 2022 (2,491 votes, fifth of five for three seats) and 2024 (3,442 votes, fourth of four for two seats) {lc_2022}{lc_2024}."
+   ],
+   "path_to_ballot": [
+    "Listed as Republican on the state list and the Lake County sample ballot {in_list}{lc_sample_hl}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "Occupation and ties to the schools not found.",
+    "Positions on the current board's decisions not found."
+   ]
+  },
+  {
+   "ballot_name": "Robert (Bob) Kuva",
+   "seat": "At Large",
+   "summary": "Incumbent, first elected in 2022 and now board vice president. No party label on the ballot {lc_2022}{hl_min_jan26}{lc_sample_hl}.",
+   "website": null,
+   "background": [
+    "Won an at-large seat in 2022 with 3,584 votes {lc_2022}. Elected board vice president and Board of Finance secretary in January 2026 {hl_min_jan26}.",
+    "Has also reported to the board on Northwest Indiana Special Education Cooperative meetings {hl_min_aug25b}{hl_min_apr26}."
+   ],
+   "path_to_ballot": [
+    "Listed as Nonpartisan on the state list; no party label on the Lake County sample ballot {in_list}{lc_sample_hl}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {hl_board}. He seconded the Aug. 18, 2026 motion to appoint Dr. John Schwuchow interim superintendent and moved to approve the Aug. 25, 2026 storm-pay measure {hl_min_aug18}{hl_min_aug25}. He seconded the April 2026 motion hiring Policy Analytics for the property tax study {hl_min_apr26}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign statements, website, questionnaire responses, forum appearances, endorsements or finance reports found.",
+    "Occupation and ties to the schools not found.",
+    "Position on the proposed 2026 bond issue or a future operating referendum not found."
+   ]
+  },
+  {
+   "ballot_name": "Victor A Garcia",
+   "seat": "At Large",
+   "summary": "Incumbent, first elected in 2022, when he led the field. Listed as Independent {lc_2022}{lc_sample_hl}.",
+   "website": null,
+   "background": [
+    "Won an at-large seat in 2022 with 3,931 votes, the most of any candidate {lc_2022}.",
+    "Serves as the board's legislative liaison and its liaison to the Highland/Griffith Chamber of Commerce. In November 2025 he spoke at a chamber meeting about challenges facing the SNAP food assistance program {hl_min_jan26}{hl_min_nov25}."
+   ],
+   "path_to_ballot": [
+    "Listed as Independent on the state list and the Lake County sample ballot {in_list}{lc_sample_hl}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "In February 2026 he reported meeting Highland's legislative delegation at the Statehouse about the challenges the district expects from Senate Enrolled Act 1 {hl_min_feb26}. He moved to approve the April 2026 property tax and revenue study and the July 2026 transfer from debt service to operations {hl_min_apr26}{hl_min_jul26}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member {hl_board}. He moved to accept Dr. Brian Smith's resignation and to name Dr. Ryan Erdelac interim superintendent on July 2, 2026 {hl_min_jul2}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign statements, website, questionnaire responses, forum appearances, endorsements or finance reports found.",
+    "Occupation and ties to the schools not found.",
+    "Position on the proposed 2026 bond issue or a future operating referendum not found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "lc_sample_hl": [
+   "2026 General Election Sample Ballot, Precinct 181-HL 03",
+   "Lake County Board of Elections and Registration",
+   "2026-10",
+   "https://lakecountyin.gov/departments/voters/2026-ELECTION/2026-General-Election-Sample-Ballots/Pct%20181-HL%2003%20Act%2001-GENERAL.pdf"
+  ],
+  "lc_2022": [
+   "2022 General Election Results, Election Summary",
+   "Lake County Board of Elections and Registration",
+   "2022-11",
+   "https://lakecountyin.gov/departments/voters/election-results-c/2022GeneralElectionResults/Lake_ElecSumm_all.htm"
+  ],
+  "lc_2024": [
+   "2024 General Election Results, Election Summary",
+   "Lake County Board of Elections and Registration",
+   "2024-11",
+   "https://lakecountyin.gov/departments/voters/election-results-c/2024GeneralElectionResults/Lake_ElecSumm_all.htm"
+  ],
+  "lc_2023": [
+   "2023 Primary Election Results, Election Summary",
+   "Lake County Board of Elections and Registration",
+   "2023-05",
+   "https://lakecountyin.gov/departments/voters/election-results-c/2023PrimaryElectionResults/Lake_ElecSumm_all.htm"
+  ],
+  "hl_board": [
+   "School Board",
+   "School Town of Highland",
+   "2026-10",
+   "https://www.highland.k12.in.us/page/school-board"
+  ],
+  "hl_meetings": [
+   "School Board Meeting Information",
+   "School Town of Highland",
+   "2026-10",
+   "https://www.highland.k12.in.us/page/school-board-meeting-information"
+  ],
+  "hl_staff": [
+   "Staff directory",
+   "School Town of Highland",
+   "2026-10",
+   "https://www.highland.k12.in.us/staff"
+  ],
+  "hl_smith": [
+   "Thank you, Dr. Smith!",
+   "School Town of Highland",
+   "2026-07-02",
+   "https://www.highland.k12.in.us/o/sth/article/3020982"
+  ],
+  "hl_firstday": [
+   "First Day of School - 8/25/2026",
+   "School Town of Highland",
+   "2026-08-24",
+   "https://www.highland.k12.in.us/o/sth/article/3084274"
+  ],
+  "hl_postpone": [
+   "Special Board Meeting Postponed - 8/17/2026",
+   "School Town of Highland",
+   "2026-08-17",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/1545/Sth/d75df498-ec24-481d-927e-620584342638/Postponement-Notice---Special-Board-Meeting-8.17.2026.pdf"
+  ],
+  "hl_supt_notice": [
+   "Notice - Superintendent Contract, Agenda, and Addendum",
+   "School Town of Highland",
+   "2026-09",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/1545/Sth/f2b11262-eeef-4c97-9665-8b14877fb9dc/NOTICE---Superintendent-Contract%2C-Agenda%2C-and-Addendum.pdf"
+  ],
+  "hl_go_hearing": [
+   "Notice of Hearings - 2026 GO",
+   "School Town of Highland",
+   "2026-09-02",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/1545/Sth/18ac5f06-bdf0-454d-bb97-9b4495074823/HIGHLAND-SCHOOL---Notice-of-Hearings---2026-GO-%284905-1249-4280.v1%29.pdf"
+  ],
+  "hl_pd_notice": [
+   "Notice of Adoption of Preliminary Determination",
+   "School Town of Highland",
+   "2026-09-30",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/1545/Sth/6521b45a-0e6d-4ae0-97fb-c30595b77d32/Notice-of-Adoption-of-Preliminary-Determination.pdf"
+  ],
+  "hl_ref2023": [
+   "Referendum 2023 Community Presentation",
+   "School Town of Highland",
+   "2023",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/1545/Sth/25514ab8-5a63-4f85-8107-188e5bfe34f3/Referendum_2023_CommPresent.pdf"
+  ],
+  "hl_min_aug25b": [
+   "Minutes, Aug. 19, 2025 regular meeting",
+   "School Town of Highland",
+   "2025-08-19",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/1545/Sth/5012ff51-33ed-494c-85bf-8977e0d32101/Minutes_of_8-19-2025.pdf"
+  ],
+  "hl_min_nov25": [
+   "Minutes, Nov. 18, 2025 regular meeting",
+   "School Town of Highland",
+   "2025-11-18",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/1545/Sth/cda68c34-026d-40bc-ba3e-75836875b468/Minutes_of_11-18-25.pdf"
+  ],
+  "hl_min_jan26": [
+   "Minutes, Jan. 13, 2026 regular meeting",
+   "School Town of Highland",
+   "2026-01-13",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/1545/Sth/42878b1d-b7b4-44e3-b4e6-f06f686a3651/Minutes-of-1-13-2026.pdf"
+  ],
+  "hl_min_feb26": [
+   "Minutes, Feb. 17, 2026 regular meeting",
+   "School Town of Highland",
+   "2026-02-17",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/1545/Sth/10167336-05b6-4332-81e5-73059479d8da/Minutes-of-2-17-2026.pdf"
+  ],
+  "hl_min_apr26": [
+   "Minutes, April 21, 2026 regular meeting",
+   "School Town of Highland",
+   "2026-04-21",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/1545/Sth/a4ac26b1-5ef0-458c-8d37-8eefd43f08ed/Minutes-of-4-21-26.pdf"
+  ],
+  "hl_min_may26": [
+   "Minutes, May 19, 2026 regular meeting",
+   "School Town of Highland",
+   "2026-05-19",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/1545/Sth/e684758a-b1fe-417c-a9e1-9dfdf819ecd0/Minutes-of-5-19-2026.pdf"
+  ],
+  "hl_min_jun26": [
+   "Minutes, June 16, 2026 regular meeting",
+   "School Town of Highland",
+   "2026-06-16",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/1545/Sth/9fdc9c88-6417-4d50-a921-d9fdef07b6d4/Minutes-of-6-16-26.pdf"
+  ],
+  "hl_min_jul2": [
+   "Minutes, July 2, 2026 special meeting",
+   "School Town of Highland",
+   "2026-07-02",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/1545/Sth/5cd24ade-27e7-4ca8-82b1-f7439271dba4/Minutes-of-7-02-2026-Spc-Mtg.pdf"
+  ],
+  "hl_min_jul26": [
+   "Minutes, July 21, 2026 regular meeting",
+   "School Town of Highland",
+   "2026-07-21",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/1545/Sth/ca7165aa-b3bd-4892-ba5c-4e1394bc5b57/Minutes-of-7-21-2026.pdf"
+  ],
+  "hl_min_aug18": [
+   "Minutes, Aug. 18, 2026 regular meeting",
+   "School Town of Highland",
+   "2026-08-18",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/1545/Sth/c10b3bb1-864a-4d57-a89f-969c1e7b2b2f/Minutes-of-8-18-26.pdf"
+  ],
+  "hl_min_aug25": [
+   "Minutes, Aug. 25, 2026 special meeting",
+   "School Town of Highland",
+   "2026-08-25",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/1545/Sth/fa2cd0c2-74bd-4d95-8389-192590a0c163/-8-25-2026-Spc-Mtg.pdf"
+  ]
+ }
+}
