@@ -1,0 +1,77 @@
+{
+ "race_id": "in-prosecuting-attorney-of-miami-county-51st-judicial-circuit",
+ "reviewed": "2026-10-11",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_prosecutor",
+ "incumbent": {
+  "name": "Jeff Sinkovics",
+  "party": "Republican",
+  "summary": "Miami County's website lists Jeff Sinkovics (R) as Prosecuting Attorney {miami_officials}. He is not one of the two nominees on the 2026 general-election ballot {in_list}, so the seat appears to be open; no source fetched for this profile explains why he is not running.",
+  "record": [
+   "May 3, 2022: Unopposed in the Republican primary for Prosecuting Attorney of the 51st Circuit with 2,183 votes; no Democratic candidate filed {miami_2022_primary}.",
+   "The county describes the office as enforcing the Indiana Criminal Code and handling child support orders, with a victim advocate who helps victims navigate the court system and seek restitution, and deferral programs for traffic tickets {miami_prosecutor_page}."
+  ]
+ },
+ "race_context": [
+  "Miami County (Peru) makes up Indiana's 51st Judicial Circuit. Two candidates are on the Nov. 3, 2026 ballot: Democrat Bryce J. Runkle and Republican Courtney B. Alwine {in_list}.",
+  "Neither candidate is the current prosecutor; the county lists Jeff Sinkovics in that office {miami_officials}, and Alwine is listed in the county directory as a deputy prosecuting attorney in his office {miami_directory_alwine}.",
+  "In the 2022 cycle the incumbent ran unopposed in the primary and no Democrat filed {miami_2022_primary}; 2026 is a contested general election {in_list}.",
+  "Local coverage of this race could not be read for this profile: the Kokomo Tribune's May 8, 2026 primary results story showed its results section in scrambled (subscriber-only) form, and other local coverage was behind a subscription wall. No forums, debates, candidate websites or campaign statements were found."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Bryce J. Runkle",
+   "summary": "Runkle is the Democratic nominee {in_list}. No campaign statements or news coverage of his 2026 candidacy could be verified for this profile.",
+   "website": null,
+   "background": [
+    "No background information on this candidate was confirmed on a fetched page; see gaps."
+   ],
+   "path_to_ballot": [
+    "Listed as the Democratic nominee on the official candidate list {in_list}. May 5, 2026 primary results could not be confirmed on a fetched page."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "No statements about the office's current direction were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "Unverified (search snippet only): an Avvo listing describes a Bryce Joseph Runkle as a criminal defense lawyer in Peru, Indiana, with a J.D. from the University of Texas School of Law (2002), a Texas license from 2003 and an Indiana license from 2017; the page returned 403 and could not be read.",
+    "Unverified (search snippet only): a 2018 Kokomo Tribune article headline refers to a Miami County Commissioner District 3 race between Fred Musselman and Bryce Runkle; the article could not be fetched (rate-limited). It has not been confirmed this is the same person.",
+    "No campaign website, social media page, forum appearance, endorsements or campaign finance reports were found.",
+    "No positions on caseloads, charging priorities, drugs, juvenile justice or office staffing were found."
+   ]
+  },
+  {
+   "ballot_name": "Courtney B. Alwine",
+   "summary": "Alwine is a deputy prosecuting attorney in the Miami County Prosecutor's Office, according to the county's staff directory {miami_directory_alwine}, and is the Republican nominee {in_list}.",
+   "website": null,
+   "background": [
+    "Deputy Prosecuting Attorney in the Miami County Prosecutor's Office, per the county staff directory {miami_directory_alwine}. Length of service and prior experience were not found."
+   ],
+   "path_to_ballot": [
+    "Listed as the Republican nominee on the official candidate list {in_list}. May 5, 2026 primary results could not be confirmed on a freely readable page."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Works in the incumbent prosecutor's office {miami_directory_alwine}; no statements about the office's direction were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "A Plain Dealer article (April 29, 2026) on Miami County's Republican primary appears to list Alwine as unopposed for prosecuting attorney, but the article is behind a subscription wall and was not used.",
+    "No campaign website, social media page, forum appearance, endorsements or campaign finance reports were found.",
+    "No positions on caseloads, charging priorities, drugs, juvenile justice or office staffing were found.",
+    "Whether incumbent Jeff Sinkovics has endorsed her was not found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "miami_officials": ["Miami County Officials", "Miami County, Indiana", "2026-10", "https://www.miamicountyin.gov/344/Miami-County-Officials"],
+  "miami_directory_alwine": ["Staff Directory: Courtney Alwine", "Miami County, Indiana", "2026-10", "https://www.miamicountyin.gov/directory.aspx?EID=116"],
+  "miami_prosecutor_page": ["Prosecutor", "Miami County, Indiana", "2026-10", "https://www.miamicountyin.gov/488/Prosecutor"],
+  "miami_2022_primary": ["2022 Primary Election Summary Report", "Miami County, Indiana", "2022-05-03", "https://www.miamicountyin.gov/DocumentCenter/View/2037/2022-Primary-Election-Summary-Report"]
+ }
+}

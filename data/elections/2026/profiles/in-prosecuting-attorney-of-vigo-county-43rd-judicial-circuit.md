@@ -1,0 +1,166 @@
+# Indiana Prosecuting Attorney — 2026 race profile
+
+_Researched 2026-10-11 · status: draft._ Pending editorial review.
+
+## About the office
+
+The prosecuting attorney is the elected lawyer who brings criminal cases on behalf of the State of Indiana, conducting all prosecutions for felonies, misdemeanors and infractions within the prosecutor's jurisdiction [1]. A prosecutor is elected in each judicial circuit rather than by county, and Indiana has 91 prosecuting attorneys [2, 3]. Candidates must be admitted to practice law in Indiana before the election [4]. Since July 2025, a state prosecutor review board can investigate complaints that a prosecutor is not following state law [5, 6].
+
+- **Term:** 4 years; prosecutors are elected in 2026, 2030, 2034 and every four years after that [2]
+- **Elected:** One prosecutor per judicial circuit, on the partisan November ballot; Democratic and Republican nominees are chosen in the May primary, while the Libertarian Party nominates prosecutor candidates at its state convention [2, 4]
+- **Term limit:** None; the office has a four-year term with no term limitations [7]
+- **Qualifications:** Must be admitted to the practice of law in Indiana before the election, be registered to vote in the election district by the candidate filing deadline, and file a statement of economic interest with the courts [4]
+- **Pay:** The state pays the minimum salary: for a full-time prosecutor, equal to the minimum salary of the circuit court judge in the same circuit, and 60% (66% in certain circuits) of that amount for other prosecutors [8]
+- **On the 2026 ballot:** 91 races; 11 contested [9]
+
+### What the office does
+
+- Conducts all prosecutions for felonies, misdemeanors and infractions within the prosecutor's jurisdiction, and performs other duties required by law [1].
+- Represents the state in criminal cases, conducts criminal investigations, and convenes and oversees grand juries [7].
+- Handles juvenile cases and prosecutes traffic and infraction violations [7].
+- Enforces child support orders entered in divorce and paternity cases; the Indiana Prosecuting Attorneys Council runs a statewide child support services program to support this work [7, 3].
+- Gives information and help to crime victims [7], and must notify the victim when the prosecutor withholds prosecution under a diversion agreement [10].
+- May withhold prosecution of a misdemeanor, Level 6 felony or Level 5 felony if the person agrees in writing to a pretrial diversion program, with conditions such as treatment, restitution, fees or staying away from the victim; the program is not available for certain drunk-driving charges [10].
+- Superintends lawsuits in which the county or certain trust funds have an interest [1].
+- Appoints a chief deputy and other deputy prosecutors; the state pays set salaries for certain deputies, and the county council appropriates money each year for other deputies, investigators, clerical staff and office expenses [11].
+- Works with the county sheriff, a separately elected officer who arrests suspects and runs the county jail, and with local police agencies [12, 13].
+- Receives training, manuals and legal research support from the Indiana Prosecuting Attorneys Council, a state judicial branch agency governed by a board of 10 elected prosecutors [3].
+- Since July 2025, can be the subject of a complaint to the state prosecutor review board, a board of five prosecuting attorneys that investigates whether a prosecutor is complying with state law and issues a report [6, 5].
+- What the prosecutor does not control: judges decide whether a defendant is released on bail [14]; the county council appropriates the county's share of the office budget [11]; and the state sets the prosecutor's minimum salary [8].
+
+### Recent changes to the office
+
+- March 2023: Senate Bill 284, which would have set up a procedure to appoint a special prosecutor when a prosecutor refuses to enforce a law, passed a House committee 9-4 and was sent to the Ways and Means Committee; the Indiana Prosecuting Attorneys Council supported that bill and the ACLU opposed it [15].
+- February 2025: As passed by the House 72-24, House Bill 1006 would have created a board to investigate prosecutors who categorically refuse to prosecute laws and required the Prosecuting Attorneys Council to withhold certain funding from a prosecutor labeled noncompliant; author Rep. Chris Jeter (R-Fishers) said it is lawmakers' job to make the law and prosecutors' job to enforce it, while Rep. Matt Pierce (D-Bloomington) said voters decide every four years how prosecutors use their resources [16].
+- May 2025: Gov. Mike Braun signed House Enrolled Act 1006 (Public Law 147-2025), which took effect July 1, 2025, and established the prosecutor review board [17, 5, 18].
+- July 2025: Mirror Indy reported that under the enacted law anyone can file a complaint, a board of five prosecuting attorneys investigates, and the law does not specify consequences beyond the board's report; Marion County Prosecutor Ryan Mears told Fox59 the law was deliberately targeted at his office, Jeter called it a step toward holding prosecutors accountable, and Chris Naylor of the Prosecuting Attorneys Council said his group did not oppose this version [6].
+- 2025: House Enrolled Act 1006 also requires that two members of the Indiana Commission on Court Appointed Attorneys be trial court judges [5].
+- November 2026: Public Question 1 asks voters whether to amend the Indiana Constitution so courts can deny bail, for offenses other than murder or treason, when the state proves by clear and convincing evidence that no release conditions will reasonably protect others or the community [19].
+- 2026: On the bail question, author Sen. Eric Koch (R-Bedford) said releasing some defendants before trial is too dangerous to public safety, while Samantha Bresnahan of the ACLU of Indiana said detention can cost someone their job, housing and custody of their children, and Zach Stock of the Indiana Public Defender Council raised concerns about jail overcrowding [14].
+
+## Current officeholder: Terry R. Modesitt (Republican)
+
+Terry R. Modesitt has been Vigo County prosecutor since January 1, 2007 [20] and is running for re-election [9]. In 2022 he defeated Democrat Johnny Edward Vaughn, his opponent again this year, with about 61% of the unofficial vote [21].
+
+- Before taking office: served as a deputy prosecutor [20]; in 2022 he said that when first elected he "was 49 and had been a trial deputy here at the Prosecutor's Office for 22 years" [22].
+- January 1, 2007: Took office as Vigo County prosecutor [20].
+- November 2022: Re-elected over Vaughn, 16,320 votes (60.89%) to 10,481 (39.11%), with 88 of 89 precincts reporting (final unofficial results) [21].
+- 2022: Said the job involved managing 50 employees and budgets for several departments, including Adult Protective Services and Victims' Assistance, and that the office's case backlog had grown to about 4,500 during the COVID-19 pandemic [22].
+- No 2025–2026 reporting on the office's caseloads, staffing or budget could be fetched for this profile.
+
+## This race
+
+- Rematch of 2022: incumbent Republican Terry Modesitt, prosecutor since 2007, again faces Democrat Johnny Vaughn, whom he defeated 60.89% to 39.11% in the 2022 general election (unofficial) [20, 21].
+- Modesitt filed on January 16, 2026 and Vaughn on January 30, 2026 [9, 23]. No May 5, 2026 primary results for this office were found.
+- Key differences in 2022: Vaughn proposed attending every initial hearing to review bond and said he would not prosecute small cannabis-use charges; Modesitt emphasized experience and managing the case backlog and jail population [22]. No 2026 statements by either candidate were found.
+- No 2026 forums or debates featuring this race were found.
+
+## Johnny E Vaughn
+
+Vaughn is a Terre Haute criminal-law attorney who was the Democratic nominee against Modesitt in 2022 and filed again in January 2026 [22, 23].
+
+### Background
+
+- Attended McLean Alternative High School in Terre Haute, Ivy Tech Community College and Indiana State University, and law school at IU's Indianapolis campus [22].
+- Practiced criminal law; in November 2022 he said, "I've been a criminal attorney for over a year now" [22].
+- Ran for prosecutor in 2022 as Johnny Edward Vaughn and received 10,481 votes (39.11%, unofficial) [21].
+
+### Path to the ballot
+
+- Filed as a Democrat for Vigo County prosecutor on January 30, 2026 [23, 9]; listed as the Democratic nominee [9]. Primary results were not found.
+
+### Positions & plans
+
+**Charging priorities**
+
+- In 2022 he said he would not prosecute small cannabis-use charges, in order to focus on violent crimes [22]. It was not found whether he holds the same position in 2026.
+
+**Caseloads & backlog**
+
+- In 2022 he said he would attend every initial hearing for defendants to check that bond is fair [22].
+
+### On the current officeholder
+
+- No 2026 statements by Vaughn about Modesitt's record were found. In 2022 he said his priority would be presence in the office and in public: "I will be in the courtrooms" [22].
+
+### How they say they'd run the office
+
+- 2022 plans: be present in courtrooms and the office, attend initial hearings to review bond, and redirect resources from small cannabis cases to violent crime [22]. No 2026 platform was found.
+
+### Endorsements & fundraising
+
+- No endorsements or campaign finance reports were found.
+
+### What we couldn't verify
+
+- All position statements found date from the 2022 campaign; no 2026 interview, website or questionnaire was found.
+- Search-result snippets (2022 coverage) said he proposed removing low-level marijuana cases in Terre Haute City Court and speeding trials by sending plea offers and discovery sooner, and that he worked as a public defender in CHINS cases; the full article could not be fetched, so these are unverified.
+- A lawyer directory in search results lists a Johnny Edward Vaughn with Vaughn Law LLC in Terre Haute; not confirmed on a fetched page.
+
+## Terry R. Modesitt
+
+Modesitt has been Vigo County prosecutor since January 1, 2007, after serving as a deputy prosecutor [20].
+
+### Background
+
+- Undergraduate degree from Indiana State University; J.D. from Indiana University in Indianapolis [20].
+- Trial deputy in the Vigo County Prosecutor's Office for 22 years before becoming prosecutor, by his own account in 2022 [22].
+- Vigo County prosecutor since January 1, 2007 [20].
+
+### Path to the ballot
+
+- Filed as a Republican on January 16, 2026, and is listed as the Republican nominee [9]. Primary results were not found.
+
+### Positions & plans
+
+**Caseloads & backlog**
+
+- In 2022 he said he aimed to keep managing a case backlog that grew to about 4,500 during COVID-19 and to keep prosecutions efficient to prevent jail overcrowding: "Let's try to be as efficient as possible moving forward even once we get in the new jail" [22].
+
+**Drugs & treatment**
+
+- In 2022 he said, "I support all the drug recovery programs here locally, those type of things too" [22].
+
+### On the current officeholder
+
+- Is the current officeholder. In 2022 he said lengthy legal experience is key to being prepared for the job [22]. No 2026 statements about Vaughn were found.
+
+### How they say they'd run the office
+
+- 2022 plans: continue managing the backlog and keep prosecutions efficient to limit jail overcrowding [22]. No 2026 platform was found.
+
+### Endorsements & fundraising
+
+- No endorsements or campaign finance reports were found.
+
+### What we couldn't verify
+
+- All position statements found date from the 2022 campaign; no 2026 interview, website or questionnaire was found.
+- Search-result snippets from undated WTHI stories said Modesitt described his office as about ten deputy prosecutors short of an ideal 29 and said salary increases helped recruiting; those pages returned 404 and the claims are unverified.
+- Search-result snippets from 2022 coverage quoted him opposing prosecutors choosing which laws to enforce and citing more than 100,000 cases prosecuted; not verified on a fetched page.
+
+## Sources
+
+1. [Indiana Code 33-39-1-5: Duties of prosecuting attorneys](https://codes.findlaw.com/in/title-33-courts-and-court-officers/in-code-sect-33-39-1-5/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-11
+2. [Indiana Code 3-10-2-12: Election of prosecuting attorneys](https://codes.findlaw.com/in/title-3-elections/in-code-sect-3-10-2-12/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-11
+3. [Indiana Prosecuting Attorneys Council](https://www.in.gov/ipac/) — Indiana Prosecuting Attorneys Council, accessed 2026-10-11
+4. [2026 Indiana Candidate Guide (Prosecuting Attorney)](https://www.in.gov/dA/1eada35c3e/2026-Candidate-Guide.FINAL.pdf) — Indiana Election Division, accessed 2026-10-11
+5. [Prosecutors (H.E.A. 1006, P.L. 147-2025)](https://legislativeupdate.courts.in.gov/2025/05/16/prosecutors-5/) — Indiana Legislative Update, Indiana Office of Court Services, 2025-05-16
+6. [How a new Indiana law about 'noncompliant prosecutors' could affect Indy](https://mirrorindy.org/marion-county-prosecutor-ryan-mears-bill-indianapolis/) — Mirror Indy, 2025-07-14
+7. [Prosecutor's Office](https://www.clarkcounty.in.gov/~ccounty/index.php/clark-county-indiana-government/clark-county-indiana-prosecutor-s-office) — Clark County, Indiana, accessed 2026-10-11
+8. [Indiana Code 33-39-6-5: Prosecuting attorney salaries](https://codes.findlaw.com/in/title-33-courts-and-court-officers/in-code-sect-33-39-6-5/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-11
+9. [2026 General Election Candidate List](https://www.in.gov/sos/elections/candidate-information/) — Indiana Election Division, 2026-09-22
+10. [Indiana Code 33-39-1-8: Pretrial diversion](https://codes.findlaw.com/in/title-33-courts-and-court-officers/in-code-sect-33-39-1-8/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-11
+11. [Indiana Code 33-39-6-2: Deputy prosecuting attorneys](https://codes.findlaw.com/in/title-33-courts-and-court-officers/in-code-sect-33-39-6-2/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-11
+12. [Indiana Code 36-2-13-5: Duties of sheriff](https://codes.findlaw.com/in/title-36-local-government/in-code-sect-36-2-13-5/) — FindLaw (Indiana Code, current as of 2026-01-01), accessed 2026-10-11
+13. [2026 ISA President Statement (Jeffrey A. Balon, Porter County Sheriff)](https://indianasheriffs.org/wp-content/uploads/2026/01/2026-ISA-President-Statement.pdf) — Indiana Sheriffs' Association, 2026-01
+14. [Amendment to deny bail to some offenders moves closer to November ballot](https://www.ipm.org/news/2026-02-11/amendment-to-deny-bail-to-some-offenders-moves-closer-to-november-ballot) — WFYI (via Indiana Public Media), 2026-02-11
+15. [Noncompliant prosecuting attorneys (SB 284)](https://legislativeupdate.courts.in.gov/2023/03/31/noncompliant-prosecuting-attorneys-2) — Indiana Legislative Update, Indiana Office of Court Services, 2023-03-31
+16. [Indiana House OKs bill that could give county prosecutors less discretion](https://theindianalawyer.com/?p=232394) — Indiana Capital Chronicle (via The Indiana Lawyer), 2025-02-20
+17. [IN HB1006 (2025): Prosecutors](https://www.billtrack50.com/billdetail/1781144) — BillTrack50, accessed 2026-10-11
+18. [Michiana-area lawmaker supports new bill aiming to hold prosecutors accountable](https://www.wndu.com/2025/08/04/michiana-area-lawmaker-supports-new-bill-aiming-hold-prosecutors-accountable) — WNDU, 2025-08-04
+19. [Indiana bail amendment clears General Assembly, sending detention question to November ballot](https://indypolitics.org/indiana-bail-amendment-clears-general-assembly-sending-detention-question-to-november-ballot/) — IndyPolitics.Org (reporting by Indiana Capital Chronicle), 2026-02-17
+20. [Vigo County Prosecutor Terry R. Modesitt](https://secure.in.gov/ipac/find-your-prosecutor/vigo-county-prosecutor-terry-r-modesitt/) — Indiana Prosecuting Attorneys Council, accessed 2026-10-11
+21. [2022 General Election Summary Report (final unofficial results)](https://vigocounty.in.gov/egov/documents/1667978694_39353.pdf) — Vigo County, Indiana, 2022-11-09
+22. [Vaughn, Modesitt face off in Vigo Co. Prosecutor race](https://digital-release.mywabashvalley.com/?p=1187430) — WTWO/WAWV (MyWabashValley.com), 2022-11-01
+23. [More candidates file for primary elections](https://www.tribstar.com/news/local_news/more-candidates-file-for-primary-elections/article_b62268de-4909-4513-b39c-68f4fb5fe815.html) — Tribune-Star, 2026-01-30
