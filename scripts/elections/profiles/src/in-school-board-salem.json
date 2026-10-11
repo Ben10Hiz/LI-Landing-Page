@@ -1,0 +1,227 @@
+{
+ "race_id": "in-school-board-salem",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Salem Community Schools is in Washington County. It serves Gibson, Jefferson, Monroe and Washington townships, and its schools share a campus on the northwest edge of Salem {wc_salem}. Its schools are Bradie Shrum Elementary, Salem Middle School and Salem High School {scs_board}. State counts show 1,655 students in 2023-24, 1,592 in 2024-25 and 1,551 in 2025-26 {idoe_enroll}.",
+  "Leadership: Luke Dean, a 2001 Salem High School graduate and former teacher, coach and administrator, is superintendent {scs_dean}. Dr. Terry Goodin served as interim superintendent from July 1, 2025 {scs_goodin}. May and June 2026 minutes still list Goodin as interim superintendent and Dean as associate superintendent, and the July 13, 2026 minutes list Dean as superintendent {scs_min_may}{scs_min_jun}{scs_min_jul}. The board hired Dr. April Holder as assistant superintendent on June 8, 2026 {scs_min_jun}{scs_holder}.",
+  "The board has seven members serving four-year terms; three seats are filled in one election and the other four two years later {scs_board}. In 2024 the county clerk's office listed four at-large Salem seats on the November ballot {wslm_2024_filing}. (The district's board page still says members are elected in the May primary; the 2024 seats were on the November ballot {scs_board}{wslm_2024_filing}.) Officers are Allison Ezzell (president), Becky Humphrey (vice president) and Rebecca White (secretary); the other members are Brent Minton, Ty Sweeney, Rodney Brough and Steve Motsinger {scs_board}. The district's pages for members elected in 2024, such as Ty Sweeney, list terms of Jan. 1, 2025 to Dec. 31, 2029 {scs_sweeney}.",
+  "Seats on the 2026 ballot: the district lists terms ending Dec. 31, 2026 for Rodney Brough, Steve Motsinger and Rebecca White, which points to three at-large seats {scs_brough}{scs_motsinger}{scs_white}. Brough is on the 2026 ballot; Motsinger and White are not, so at least two new members will join the board {in_list}. The state list shows 'vote for 1'; this guide did not find the Washington County sample ballot to confirm how many candidates voters may choose {in_list}.",
+  "Ballot labels: Aaron (Spud) Schocke, Tom Fultz and Tyler Hubbard are listed as Republicans, and LaShawna Spurgeon and Rodney Brough as Nonpartisan {in_list}.",
+  "Facilities and bond spending: in June and August 2026 the board approved payments from its 2021 and 2025 bonds. These covered roofing and lighting work, tennis court lights, a scoreboard, signs, prep and design work for a sports complex, and repayment for two buses bought in June 2026 {scs_min_jun}{scs_min_aug}. All passed 6-0. On June 8, 2026 the board also approved resolutions on a fourth lease amendment, its building corporation, construction bids and bond disclosures, after a public hearing at which no one spoke {scs_min_jun}.",
+  "Staffing: at the June 8, 2026 meeting a member of the audience raised staffing concerns with the board {scs_min_jun}. On Aug. 10, 2026, board member Brent Minton called the number of transportation resignations 'concerning' {scs_min_aug}. The board renewed LifeSpring contracts for a school-based mental health therapist and an on-campus health clinic for 2026-27 {scs_min_may}.",
+  "Academics: in 2025-26 Salem Middle School added an ILEARN prep period twice a week and an incentive program to raise test scores, the principal said {scs_ilearn}.",
+  "Safety: Salem received a $51,892 Secured School Safety Grant in 2025 {wslm_safety}. On Aug. 10, 2026 the board accepted the donation of a school resource officer vehicle from the City of Salem {scs_min_aug}.",
+  "Budget and taxes: on Aug. 10, 2026 the board approved advertising its budget timeline {scs_min_aug}. This guide found no reporting on how the 2025 property-tax law SEA 1 affects Salem's budget, and no Salem referendum.",
+  "Forums: this guide found no 2026 candidate forum, questionnaire or news coverage of this race."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Aaron (Spud) Schocke",
+   "seat": "At Large",
+   "summary": "Candidate for the Salem Community School Board, listed as a Republican {in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state candidate list as a Republican {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no news coverage, candidate website, questionnaire or forum answers for this candidate, and no stated positions on school issues.",
+    "No background details (occupation, ties to the schools) were found.",
+    "No campaign finance reports for this race were found online."
+   ]
+  },
+  {
+   "ballot_name": "LaShawna Spurgeon",
+   "seat": "At Large",
+   "summary": "Candidate for the Salem Community School Board, listed as Nonpartisan {in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state candidate list as Nonpartisan {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no news coverage, candidate website, questionnaire or forum answers for this candidate, and no stated positions on school issues.",
+    "No background details (occupation, ties to the schools) were found.",
+    "No campaign finance reports for this race were found online."
+   ]
+  },
+  {
+   "ballot_name": "Rodney Brough",
+   "seat": "At Large",
+   "summary": "Incumbent; seeking another term with no party label {scs_brough}{in_list}.",
+   "website": null,
+   "background": [
+    "Has served on the board since at least the term that ended in 2022 {wc_salem}. His current term runs Jan. 1, 2023 to Dec. 31, 2026 {scs_brough}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state list as Nonpartisan {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. In 2026 minutes he made or seconded motions that passed 6-0, including approval of claims, district policies, and 2025 bond payments for roofing, lighting and sports-complex work {scs_min_jun}{scs_min_aug}. He was absent from the May 11, 2026 meeting {scs_min_may}. No statements from him on the board's record were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign website, questionnaire answers or forum statements found.",
+    "Occupation not confirmed in the sources reviewed.",
+    "No campaign finance reports for this race were found online."
+   ]
+  },
+  {
+   "ballot_name": "Tom Fultz",
+   "seat": "At Large",
+   "summary": "Candidate for the Salem Community School Board, listed as a Republican {in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state candidate list as a Republican {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no news coverage, candidate website, questionnaire or forum answers for this candidate, and no stated positions on school issues.",
+    "No background details (occupation, ties to the schools) were found.",
+    "No campaign finance reports for this race were found online."
+   ]
+  },
+  {
+   "ballot_name": "Tyler Hubbard",
+   "seat": "At Large",
+   "summary": "Candidate for the Salem Community School Board, listed as a Republican {in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state candidate list as a Republican {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no news coverage, candidate website, questionnaire or forum answers for this candidate, and no stated positions on school issues.",
+    "No background details (occupation, ties to the schools) were found.",
+    "No campaign finance reports for this race were found online."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "scs_board": [
+   "About Our Board",
+   "Salem Community Schools",
+   "2026-10",
+   "https://www.salemschools.com/page/about-our-board"
+  ],
+  "scs_brough": [
+   "Rodney Brough (board member page)",
+   "Salem Community Schools",
+   "2026-10",
+   "https://www.salemschools.com/page/rodney-brough"
+  ],
+  "scs_motsinger": [
+   "Steve Motsinger (board member page)",
+   "Salem Community Schools",
+   "2026-10",
+   "https://www.salemschools.com/page/steve-motsinger"
+  ],
+  "scs_white": [
+   "Rebecca White (board member page)",
+   "Salem Community Schools",
+   "2026-10",
+   "https://www.salemschools.com/page/rebecca-white"
+  ],
+  "scs_sweeney": [
+   "Ty Sweeney (board member page)",
+   "Salem Community Schools",
+   "2026-10",
+   "https://www.salemschools.com/page/ty-sweeney"
+  ],
+  "scs_dean": [
+   "Superintendent Luke Dean",
+   "Salem Community Schools",
+   "2026-10",
+   "https://www.salemschools.com/page/superintendentdean"
+  ],
+  "scs_goodin": [
+   "Goodin to lead SCS as interim superintenent",
+   "Salem Community Schools",
+   "2025-07-28",
+   "https://www.salemschools.com/article/2326768"
+  ],
+  "scs_holder": [
+   "SCS welcomes new assistant superintendent",
+   "Salem Community Schools",
+   "2026-07-24",
+   "https://www.salemschools.com/article/3043663"
+  ],
+  "scs_ilearn": [
+   "SMS teachers, students and staff work together to improve scores",
+   "Salem Community Schools",
+   "2026-02-11",
+   "https://www.salemschools.com/article/2702607"
+  ],
+  "scs_min_may": [
+   "Minutes of the Board of School Trustees, May 11, 2026",
+   "Salem Community Schools",
+   "2026-05-11",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/1789/Scs/693da942-5777-4c2b-81a0-c142a5b95c5f/May-11th-Minutes.pdf"
+  ],
+  "scs_min_jun": [
+   "Minutes of the Board of School Trustees, June 8, 2026",
+   "Salem Community Schools",
+   "2026-06-08",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/1789/Scs/868d087c-0f05-4813-8d9f-15527002514e/June-8-Minutes.pdf"
+  ],
+  "scs_min_jul": [
+   "Minutes of the Board of School Trustees, July 13, 2026",
+   "Salem Community Schools",
+   "2026-07-13",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/1789/Scs/723179ef-b9a2-411a-b819-4547e76b214f/July-13-Minutes.pdf"
+  ],
+  "scs_min_aug": [
+   "Minutes of the Board of School Trustees, August 10, 2026",
+   "Salem Community Schools",
+   "2026-08-10",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/1789/Scs/a423fe65-5c6b-41fc-a403-a9e080b7bde0/August-10-Minutes.pdf"
+  ],
+  "wc_salem": [
+   "Salem Community School Corp",
+   "Washington County, Indiana",
+   "2018",
+   "https://washingtoncounty.in.gov/explore_washington_county/education/salem_community_school_corp.php"
+  ],
+  "wslm_2024_filing": [
+   "Deadline to Sign Up For School Board Election is June 20",
+   "WSLM",
+   "2024-06-10",
+   "https://wslmradio.com/2024/06/10/deadline-to-sign-up-for-school-board-election-is-june-20/"
+  ],
+  "wslm_safety": [
+   "County Schools Get More than $160,000 Matching Grants For Security",
+   "WSLM",
+   "2025-09-24",
+   "https://wslmradio.com/2025/09/24/county-schools-get-more-than-160000-matching-grants-for-security/"
+  ],
+  "idoe_enroll": [
+   "Corporation Enrollment by Grade Level, 2006-26",
+   "Indiana Department of Education",
+   "2026",
+   "https://www.in.gov/doe/files/corporation-enrollment-grade-2006-26.xlsx"
+  ]
+ }
+}

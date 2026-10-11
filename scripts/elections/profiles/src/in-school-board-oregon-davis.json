@@ -1,0 +1,311 @@
+{
+ "race_id": "in-school-board-oregon-davis",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Oregon-Davis School Corporation is based in Hamlet in Starke County and serves Oregon and Davis townships; board candidates must live in one of those two townships {wkvi_2024_deadline}{wkvi_2024_forum}. State counts show 532 students in 2023-24, 527 in 2024-25 and 503 in 2025-26 {idoe_enroll}. The superintendent is William (Bill) Bennett {od_office_dir}{wkvi_2023_reorg}.",
+  "The board has five members, all elected at large; three seats were filled in 2022 and two in 2024 {wkvi_2022_filing}{wkvi_2024_deadline}{wkvi_2023_reorg}. The district lists Lee Nagai (president), Kurt Hayes (vice president), Ben Lady (secretary), Kyle Hinds and Terry Minix as members {od_board_dir}. Nagai and Corey Benjamin (Ben) Lady won the two 2024 seats, and Nagai took his oath in December 2024 {wkvi_2024_filing}{wkvi_2024_sworn}.",
+  "Seats on the 2026 ballot: the three at-large seats won in November 2022 by Kurt A. Hayes, Terry Minix and Kyle J. Hinds {wkvi_2022_results}. Hayes and Hinds are on the 2026 ballot; Minix is not, so at least one new member will join the board {wkvi_ballot}{in_list}. The state list shows 'vote for 1', but the 2022 cycle filled three at-large seats; this guide did not find the 2026 sample ballot to confirm the vote-for number {wkvi_2022_filing}{in_list}.",
+  "Ballot labels: WKVI's list of Starke County ballots shows Kurt Hayes with no party, Kyle Burch and Bradley Hazelton as Independents, and Kyle James Hinds and Holly Leinbach Richwalski as Republicans, matching the state list {wkvi_ballot}{in_list}. Under a new state law, 2026 is the first year Indiana school board candidates could appear on the ballot with a party label, or as Independent or undisclosed; there is no primary for these seats and straight-party voting does not apply {wkvi_partisan_law}.",
+  "Operating referendum (Nov. 3, 2026): a resolution asking for a referendum was on the board's June 10, 2026 agenda {wkvi_june10}. The board approved a spending plan on June 16, 2026 (Resolution F02-26) to renew the operating referendum voters passed in 2018 at 29 cents {dlgf_od_plan}{dlgf_od_det}. The ballot question, approved by the state on June 22, 2026, asks to continue the levy for up to eight years at no more than $0.19 per $100 of assessed value and $800,000 a year for 'current educational and operational expenses' {dlgf_od_det}. The state's notice says a median $150,000 home's tax bill would fall by $173 a year if it fails {dlgf_od_det}. The district's plan puts all of the estimated $685,832 a year toward staff pay, benefits, recruitment and retention {dlgf_od_plan}.",
+  "Budget and property taxes: at a May 20, 2026 meeting the board and administration reviewed the district's operational needs, projected tax effects of Senate Bill 1 (the 2025 property-tax law), and options for an operating referendum, with time for public questions {wkvi_fin_outlook}. On July 15, 2026 the board considered a resolution on allocating the effects of the Supplemental Homestead Credit {wkvi_july15}.",
+  "Enrollment: in July 2026 the district opened a strategic planning survey, saying it wants to 'increase student enrollment' {od_survey}. The district advertises out-of-district transportation and free breakfast and lunch for all students {od_safety}.",
+  "Safety: Oregon-Davis received an $84,280 Secured School Safety Grant in 2026. The district says past grants and local money have paid for a crisis-alert system, visitor management, a dismissal system, a full-time school resource officer and the Oregon-Davis Police Department, and camera systems {wkvi_safety_grant}{od_safety}.",
+  "Forums: in 2024 the district and the Oregon-Davis Classroom Teachers Association held a candidate night for board candidates {od_candnight_2024}{wkvi_2024_forum}. This guide found no 2026 Oregon-Davis board forum. The Starke County Chamber of Commerce, the City of Knox, The Leader and WKVI are holding a general Meet the Candidates Night in Knox on Oct. 13, 2026; the announcement does not list which races will take part {wkvi_knox_forum}. No candidate statements on district issues were found."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Bradley Hazelton",
+   "seat": "At Large",
+   "summary": "Candidate for an at-large seat, listed as an Independent {wkvi_ballot}{in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state list and Starke County ballot as an Independent {in_list}{wkvi_ballot}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no news coverage, candidate website, questionnaire or forum answers for this candidate, and no stated positions on school issues.",
+    "WKVI has reported on a Brad Hazelton who was Hamlet-Davis Township fire chief and Starke County Council vice president in 2022. A Bradley J. Hazelton also ran for Starke County Council District 1 as a Democrat in 2014, 2018 and 2022. This guide could not confirm that either is the same person as this candidate, so neither fact is used here.",
+    "No campaign finance reports for this race were found online."
+   ]
+  },
+  {
+   "ballot_name": "Holly Leinbach Richwalski",
+   "seat": "At Large",
+   "summary": "Candidate for an at-large seat, listed as a Republican {wkvi_ballot}{in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state list and Starke County ballot as a Republican {in_list}{wkvi_ballot}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no news coverage, candidate website, questionnaire or forum answers for this candidate, and no stated positions on school issues.",
+    "No background details (occupation, ties to the schools) were found.",
+    "No campaign finance reports for this race were found online."
+   ]
+  },
+  {
+   "ballot_name": "Kurt Hayes",
+   "seat": "At Large",
+   "summary": "Incumbent and board vice president; seeking another term with no party label {od_board_dir}{wkvi_ballot}.",
+   "website": null,
+   "background": [
+    "Was on the board by December 2016 and was its secretary in 2019 {wkvi_2016_board}{wkvi_2019_sworn}. He did not run again in 2020 {wkvi_2020_filing}.",
+    "Came back to the board in the November 2022 election as one of the three top vote-getters for the at-large seats, and was named secretary in January 2023 {wkvi_2022_filing}{wkvi_2022_results}{wkvi_2023_reorg}. The district now lists him as vice president {od_board_dir}."
+   ],
+   "path_to_ballot": [
+    "Listed without a party on the Starke County ballot and as Nonpartisan on the state list {wkvi_ballot}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. In January 2023 the full board voted unanimously to give their board pay back to the school corporation's Operations Fund {wkvi_2023_reorg}. No statements from him on the board's record, the 2026 referendum or other issues were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign website, questionnaire answers or forum statements found.",
+    "Occupation not found in the sources reviewed.",
+    "No campaign finance reports for this race were found online."
+   ]
+  },
+  {
+   "ballot_name": "Kyle Burch",
+   "seat": "At Large",
+   "summary": "Candidate for an at-large seat, listed as an Independent {wkvi_ballot}{in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state list and Starke County ballot as an Independent {in_list}{wkvi_ballot}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "This guide found no news coverage, candidate website, questionnaire or forum answers for this candidate, and no stated positions on school issues.",
+    "No background details (occupation, ties to the schools) were found.",
+    "No campaign finance reports for this race were found online."
+   ]
+  },
+  {
+   "ballot_name": "Kyle James Hinds",
+   "seat": "At Large",
+   "summary": "Incumbent; seeking another term, listed as a Republican {od_board_dir}{wkvi_ballot}.",
+   "website": null,
+   "background": [
+    "Took his board seat in January 2019 and was board president in 2021 {wkvi_2019_sworn}{wkvi_2021_reorg}.",
+    "Was re-elected in November 2022 as one of the three top vote-getters for the at-large seats {wkvi_2022_filing}{wkvi_2022_results}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state list and Starke County ballot as a Republican {in_list}{wkvi_ballot}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. In January 2023 the full board voted unanimously to give their board pay back to the school corporation's Operations Fund {wkvi_2023_reorg}. No statements from him on the board's record, the 2026 referendum or other issues were found."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign website, questionnaire answers or forum statements found.",
+    "Occupation not found in the sources reviewed.",
+    "No campaign finance reports for this race were found online."
+   ]
+  }
+ ],
+ "review_flags": [
+  {
+   "person": "Terry Minix",
+   "category": "criminal case",
+   "status": "held",
+   "summary": "WKVI, republishing a WNDU report on June 25, 2025, said felony charges had been filed against sitting board member Terry Minix, including counts of official misconduct and fraud. According to court documents cited in the report, he was the only authorized user of a bank card issued to the athletic boosters group that ran the high school concession stand, and stand revenue fell after the boosters took it over from the school corporation. Superintendent William Bennett said the corporation was cooperating with law enforcement and the prosecutor and could not comment further; the report noted that suspects are presumed innocent {wkvi_minix_charges}. In February 2025, after members of the public raised concerns about how the boosters ran the stand, the board voted for the corporation to take back control of it {wkvi_concession}. Minix was appointed to the board in February 2022 and won the seat that November {wkvi_2022_appt}{wkvi_2022_results}.",
+   "note": "Minix is not a 2026 candidate, but his at-large seat is one of those on the ballot. This guide found no report on how the case was resolved and no response from Minix. The profile only says that he is not on the ballot."
+  }
+ ],
+ "sources": {
+  "od_board_dir": [
+   "School Board Directory",
+   "Oregon-Davis School Corporation",
+   "2026-10",
+   "https://www.odschools.org/page/school-board-directory"
+  ],
+  "od_office_dir": [
+   "Administrative Office Directory",
+   "Oregon-Davis School Corporation",
+   "2026-10",
+   "https://www.odschools.org/page/office-directory"
+  ],
+  "od_safety": [
+   "Oregon-Davis Awarded Secured School Safety Grant",
+   "Oregon-Davis School Corporation",
+   "2026-09-04",
+   "https://www.odschools.org/article/3113422"
+  ],
+  "od_survey": [
+   "Strategic Planning Survey",
+   "Oregon-Davis School Corporation",
+   "2026-07-08",
+   "https://www.odschools.org/article/3025651"
+  ],
+  "od_candnight_2024": [
+   "Meet the candiates",
+   "Oregon-Davis School Corporation",
+   "2024-10-01",
+   "https://www.odschools.org/article/1794210"
+  ],
+  "idoe_enroll": [
+   "Corporation Enrollment by Grade Level, 2006-26",
+   "Indiana Department of Education",
+   "2026",
+   "https://www.in.gov/doe/files/corporation-enrollment-grade-2006-26.xlsx"
+  ],
+  "wkvi_ballot": [
+   "Election Central: Candidates on Starke County General Election ballots",
+   "WKVI",
+   "2026-10-07",
+   "https://wkvi.com/election-central/"
+  ],
+  "wkvi_partisan_law": [
+   "Candidate filing open for Knox School Board",
+   "WKVI",
+   "2026-05-22",
+   "https://wkvi.com/2026/05/candidate-filing-open-for-knox-school-board/"
+  ],
+  "wkvi_2022_filing": [
+   "Starke County, Pulaski County Candidates File for School Board",
+   "WKVI",
+   "2022-08-29",
+   "https://wkvi.com/2022/08/starke-county-pulaski-county-candidates-file-for-school-board/"
+  ],
+  "wkvi_2022_results": [
+   "Republicans Come Up With Election Night Victories in Starke County",
+   "WKVI",
+   "2022-11-09",
+   "https://wkvi.com/2022/11/republicans-come-up-with-election-night-victories-in-starke-county-2/"
+  ],
+  "wkvi_2022_appt": [
+   "Oregon-Davis School Board Appoints New Board Member",
+   "WKVI",
+   "2022-02-24",
+   "https://wkvi.com/2022/02/oregon-davis-school-board-appoints-new-board-member/"
+  ],
+  "wkvi_2024_deadline": [
+   "Deadline to File for School Board Seats for November Election is June 20",
+   "WKVI",
+   "2024-06-14",
+   "https://wkvi.com/2024/06/deadline-to-file-for-school-board-seats-for-november-election-is-june-20/"
+  ],
+  "wkvi_2024_filing": [
+   "Candidates File Petitions for School Board Seats",
+   "WKVI",
+   "2024-06-24",
+   "https://wkvi.com/2024/06/candidates-file-petitions-for-school-board-seats/"
+  ],
+  "wkvi_2024_forum": [
+   "Meet the Oregon-Davis School Board Candidates Wednesday, October 9",
+   "WKVI",
+   "2024-10-08",
+   "https://wkvi.com/2024/10/meet-the-oregon-davis-school-board-candidates-wednesday-october-9/"
+  ],
+  "wkvi_2024_sworn": [
+   "Swearing in Ceremonies Held in Starke County",
+   "WKVI",
+   "2024-12-31",
+   "https://wkvi.com/2024/12/swearing-in-ceremonies-held-in-starke-county/"
+  ],
+  "wkvi_2023_reorg": [
+   "Oregon-Davis Reorganizes School Board",
+   "WKVI",
+   "2023-01-13",
+   "https://wkvi.com/2023/01/oregon-davis-reorganizes-school-board/"
+  ],
+  "wkvi_2019_sworn": [
+   "New Oregon-Davis School Board Members Sworn In, Lawrence Elected Board President",
+   "WKVI",
+   "2019-01-11",
+   "https://wkvi.com/2019/01/new-oregon-davis-school-board-members-sworn-in-lawrence-elected-board-president/"
+  ],
+  "wkvi_2021_reorg": [
+   "Oregon-Davis School Board Welcomes New Members, Chooses New President",
+   "WKVI",
+   "2021-01-28",
+   "https://wkvi.com/2021/01/oregon-davis-school-board-welcomes-new-members-chooses-new-president/"
+  ],
+  "wkvi_2020_filing": [
+   "Local School Boards Set to Get New Members, As Candidate Filing Comes to a Close",
+   "WKVI",
+   "2020-08-26",
+   "https://wkvi.com/2020/08/local-school-boards-set-to-get-new-members-as-candidate-filing-comes-to-a-close/"
+  ],
+  "wkvi_2016_board": [
+   "Oregon-Davis Schedules E-Learning Snow Makeup Days, Honors Outgoing School Board Member",
+   "WKVI",
+   "2016-12-28",
+   "https://wkvi.com/2016/12/oregon-davis-schedules-e-learning-snow-makeup-days-honors-outgoing-school-board-member/"
+  ],
+  "wkvi_fin_outlook": [
+   "Oregon-Davis School Corporation to discuss future financial outlook at upcoming Board meeting",
+   "WKVI",
+   "2026-05-19",
+   "https://wkvi.com/2026/05/oregon-davis-school-corporation-to-discuss-future-financial-outlook-at-upcoming-board-meeting/"
+  ],
+  "wkvi_june10": [
+   "Oregon-Davis School Board to meet tonight, June 10",
+   "WKVI",
+   "2026-06-10",
+   "https://wkvi.com/2026/06/oregon-davis-school-board-to-meet-tonight-june-10/"
+  ],
+  "wkvi_july15": [
+   "Oregon-Davis school board to meet this evening, Wednesday, July 15th",
+   "WKVI",
+   "2026-07-15",
+   "https://wkvi.com/2026/07/oregon-davis-school-board-to-meet-this-evening-wednesday-july-15th/"
+  ],
+  "wkvi_safety_grant": [
+   "Oregon-Davis announces $84,280 School Safety Grant",
+   "WKVI",
+   "2026-09-08",
+   "https://wkvi.com/2026/09/oregon-davis-announces-84280-school-safety-grant/"
+  ],
+  "wkvi_knox_forum": [
+   "Meet the Candidates Night in Knox October 13",
+   "WKVI",
+   "2026-09-21",
+   "https://wkvi.com/2026/09/meet-the-candidates-night-in-knox-october-13/"
+  ],
+  "wkvi_concession": [
+   "Oregon-Davis School Board Discusses High School Concession Stand",
+   "WKVI",
+   "2025-02-25",
+   "https://wkvi.com/2025/02/oregon-davis-school-board-discusses-high-school-concession-stand/"
+  ],
+  "wkvi_minix_charges": [
+   "Oregon-Davis School Board Member Facing Fraud, Official Misconduct Charges (WNDU report)",
+   "WKVI",
+   "2025-06-25",
+   "https://wkvi.com/2025/06/oregon-davis-school-board-member-facing-fraud-official-misconduct-charges/"
+  ],
+  "dlgf_od_det": [
+   "Findings and Final Determination on Proposed Question, No. 26-027-REF (Oregon-Davis School Corporation)",
+   "Indiana Department of Local Government Finance",
+   "2026-06-22",
+   "https://www.in.gov/dlgf/files/referendum-documentation2/2026-november-referendum-documents/26-027-Oregon-Davis-School-Corporation-Operating-Determination.pdf"
+  ],
+  "dlgf_od_plan": [
+   "Oregon-Davis School Corporation Proposed Revenue Spending Plan, 2026 Operating Referendum",
+   "Indiana Department of Local Government Finance",
+   "2026-06",
+   "https://www.in.gov/dlgf/files/referendum-documentation2/2026-november-referendum-documents/26-027-Oregon-Davis-School-Corporation-Operating-Spending-Plan.pdf"
+  ]
+ }
+}

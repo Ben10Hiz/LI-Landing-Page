@@ -151,6 +151,16 @@ Sensitive items held for a second, careful editorial pass (criminal cases, misco
   Note: An unspecified nepotism claim against current officials; the profile text keeps only his general management criticism.
   - [NH Jackson Township school board seat draws four (Chad Schenck questionnaire)](https://www.madisoncourier.com/the_clarion_news/news/nh-jackson-township-school-board-seat-draws-four/article_c86c6e80-b7a8-57df-918a-e41461f5fbe3.html) — The Corydon Democrat / Clarion News, 2026-09-23
 
+## Indiana School Board Member (`in-school-board-oregon-davis`)
+
+- **Terry Minix** — criminal case — _held_
+  WKVI, republishing a WNDU report on June 25, 2025, said felony charges had been filed against sitting board member Terry Minix, including counts of official misconduct and fraud. According to court documents cited in the report, he was the only authorized user of a bank card issued to the athletic boosters group that ran the high school concession stand, and stand revenue fell after the boosters took it over from the school corporation. Superintendent William Bennett said the corporation was cooperating with law enforcement and the prosecutor and could not comment further; the report noted that suspects are presumed innocent. In February 2025, after members of the public raised concerns about how the boosters ran the stand, the board voted for the corporation to take back control of it. Minix was appointed to the board in February 2022 and won the seat that November.
+  Note: Minix is not a 2026 candidate, but his at-large seat is one of those on the ballot. This guide found no report on how the case was resolved and no response from Minix. The profile only says that he is not on the ballot.
+  - [Oregon-Davis School Board Member Facing Fraud, Official Misconduct Charges (WNDU report)](https://wkvi.com/2025/06/oregon-davis-school-board-member-facing-fraud-official-misconduct-charges/) — WKVI, 2025-06-25
+  - [Oregon-Davis School Board Discusses High School Concession Stand](https://wkvi.com/2025/02/oregon-davis-school-board-discusses-high-school-concession-stand/) — WKVI, 2025-02-25
+  - [Oregon-Davis School Board Appoints New Board Member](https://wkvi.com/2022/02/oregon-davis-school-board-appoints-new-board-member/) — WKVI, 2022-02-24
+  - [Republicans Come Up With Election Night Victories in Starke County](https://wkvi.com/2022/11/republicans-come-up-with-election-night-victories-in-starke-county-2/) — WKVI, 2022-11-09
+
 ## Indiana School Board Member (`in-school-board-prairie-heights`)
 
 - **Todd Perkins (current Milford Township member; not a 2026 candidate)** — remark — _held_
