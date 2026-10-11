@@ -151,6 +151,8 @@ SEAT_OVERRIDES = {
     "Michigan City Area School Board, Civil City (LaPorte, Porter)": 3,  # LaPorte County records
     "LaPorte Community School Board, At Large": 4,             # LaPorte County records
     "Floyd County School Board, At Large": 2,                  # News and Tribune
+    "Hendricks Avon School Board, Washington Township": 2,     # Hendricks County ballot
+    "Hendricks Plainfield School Board, Guilford Township": 2, # Hendricks County ballot
 }
 
 

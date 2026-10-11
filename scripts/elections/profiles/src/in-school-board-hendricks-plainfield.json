@@ -1,0 +1,197 @@
+{
+ "race_id": "in-school-board-hendricks-plainfield",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Plainfield Community School Corporation covers Guilford Township in Hendricks County, including most of the town of Plainfield {wiki_pcsc}. It runs Plainfield High School, Plainfield Community Middle School, five elementary schools (Brentwood, Central, Clarks Creek, Guilford and Van Buren) and Little Quakers Academy preschool {pcsc_reorg}. An official current enrollment figure was not found in fetched sources.",
+  "Superintendent Andy Allen took office in January 2026, succeeding Scott Olinger, who led the district for 17 years; the board announced the hire on Aug. 7, 2025 {pcsc_supt}{pcsc_admin}. Allen was previously principal of Batesville High School from 2013 to 2025 {pcsc_admin}.",
+  "The board has five members: Jessica Elston (president, term January 2023–December 2026), Danielle Bell (1st vice president, 2025–2028), Jud Wolfe (2nd vice president, 2023–2026), Margaret Wielenberg (secretary, 2025–2028) and Brad Kuhn (parliamentarian, August 2025–December 2029) {pcsc_board}.",
+  "In August 2025 board member Brad DuBois resigned for personal reasons; Jud Wolfe, who had been appointed to a seat expiring Dec. 31, 2025, was moved to complete DuBois's term through December 2026, and Brad Kuhn, elected in November 2024 to the seat starting in 2026, joined five months early {pcsc_reorg}.",
+  "Two seats are on the 2026 ballot. The Hendricks County 2026 general ballot lists 'Plainfield School Board — Guilford' with vote for 2 and three candidates: Suzy L Bennett, Eric Carter and Linda J Todisco, all Republican {hc_ballot}; the state list's 'vote for 1' does not match the county ballot {in_list}{hc_ballot}. The seats expiring in December 2026 are held by Jessica Elston and Jud Wolfe {pcsc_board}, and neither is on the ballot {hc_ballot}, so both seats will be filled by newcomers.",
+  "2026 is the first year Indiana school board candidates may list a party on the ballot; all three Plainfield candidates chose the Republican label {in_guide}{chalkbeat_2026_primary}{hc_ballot}.",
+  "Enrollment and transfers: for 2025–26 the district accepted unlimited new non-resident transfer students in most grades but none in grades 4, 7 and 8, and none for its PRIDE Academy or Little Quakers Academy because of building capacity, saying the limits would help 'maintain reasonable class sizes' {pcsc_transfer}.",
+  "No local news coverage of the district's 2026 budget, the effect of SEA 1 or other recent board decisions was found during this review; the district's finance page links to state dashboards and a '2026 Budget Information' document {pcsc_budget}.",
+  "No candidate forums or questionnaires for this race were found. All three candidates posted statements on the Hendricks County candidate biography page {hc_pl_bios}. The statements focus on background and broad goals; none takes a position on a specific board decision {hc_pl_bios}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Eric Carter",
+   "seat": "Guilford (vote for 2)",
+   "summary": "Territory manager for Koch Air, former youth-ministry leader and parent of Plainfield High School students; running for an open seat {hc_pl_bios}.",
+   "website": null,
+   "background": [
+    "Territory manager for Koch Air {hc_pl_bios}.",
+    "Spent 20 years in youth ministry, including roles as director and executive pastor, according to his candidate statement {hc_pl_bios}.",
+    "Parent of three children at Plainfield High School {hc_pl_bios}.",
+    "Has volunteered as a mentor at Clarks Creek Elementary and previously served on the executive board of the Plainfield Youth Assistance Program {hc_pl_bios}.",
+    "Holds undergraduate and master's degrees focused on child and adolescent development and theology {hc_pl_bios}."
+   ],
+   "path_to_ballot": [
+    "Listed on the Hendricks County 2026 general ballot with the Republican label {hc_ballot}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [
+    "Says he is running 'because every child in Plainfield deserves leaders who know their community and are invested in their success' {hc_pl_bios}."
+   ],
+   "endorsements_finance": [],
+   "gaps": [
+    "No candidate forum, newspaper questionnaire or voter-guide entry for this race was found.",
+    "No campaign website, endorsements or campaign finance reports found; no news coverage of the candidacy found.",
+    "His candidate statement does not take positions on specific issues such as the budget, transfers or curriculum.",
+    "No statements found on the current board's decisions."
+   ]
+  },
+  {
+   "ballot_name": "Linda J Todisco",
+   "seat": "Guilford (vote for 2)",
+   "summary": "Retired dental hygienist and longtime Plainfield school volunteer; running for an open seat {hc_pl_bios}.",
+   "website": null,
+   "background": [
+    "Retired dental hygienist who practiced for 23 years after earning an associate degree in dental hygiene from Indiana University; earlier worked as an insurance agent {hc_pl_bios}.",
+    "Has lived in Plainfield since 1986; her children graduated from Plainfield High School and she has grandchildren in the district's schools {hc_pl_bios}.",
+    "Served as the first PTO president of the Plainfield Kindergarten Center and led a community program providing free dental screenings for elementary students {hc_pl_bios}.",
+    "Serves on the Plainfield Youth Assistance Program board {hc_pl_bios}."
+   ],
+   "path_to_ballot": [
+    "Listed on the Hendricks County 2026 general ballot with the Republican label {hc_ballot}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Says she is committed to 'responsible stewardship' {hc_pl_bios}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Lists 'supporting educators' among her commitments {hc_pl_bios}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Says she wants every student to graduate 'with the knowledge, character, confidence, and practical skills needed to succeed' {hc_pl_bios}."
+     ]
+    }
+   ],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No candidate forum, newspaper questionnaire or voter-guide entry for this race was found.",
+    "No campaign website, endorsements or campaign finance reports found; no news coverage of the candidacy found.",
+    "No statements found on the current board's decisions or on specific issues such as the budget or transfer policy."
+   ]
+  },
+  {
+   "ballot_name": "Suzy L Bennett",
+   "seat": "Guilford (vote for 2)",
+   "summary": "Former owner and operator of a day care for 30 years; running for an open seat {hc_pl_bios}.",
+   "website": null,
+   "background": [
+    "Owned and operated a day care for 30 years that cared for children of educators and other local families, according to her candidate statement {hc_pl_bios}.",
+    "Serves as a prayer minister leader at Westlake Church {hc_pl_bios}.",
+    "Lists roles as historian of the Avon American Legion Riders, precinct committeeman, and treasurer of the Hendricks County Republican Women's Club {hc_pl_bios}."
+   ],
+   "path_to_ballot": [
+    "Listed on the Hendricks County 2026 general ballot with the Republican label {hc_ballot}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Says she wants to 'advocate for responsible conservative budgeting' {hc_pl_bios}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Says she wants to 'support teachers with the resources they need' {hc_pl_bios}."
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "Says she wants every student to have 'a safe, supportive, and high-quality education' {hc_pl_bios}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Says she wants to 'strengthen communication between the board, parents, and the community' {hc_pl_bios}."
+     ]
+    }
+   ],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No candidate forum, newspaper questionnaire or voter-guide entry for this race was found.",
+    "No campaign website, endorsements or campaign finance reports found; no news coverage of the candidacy found.",
+    "No statements found on the current board's decisions or on specific issues such as the budget or transfer policy."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "pcsc_board": [
+   "Board of School Trustees",
+   "Plainfield Community School Corporation",
+   "2026-10",
+   "https://plainfieldin.sites.thrillshare.com/page/board-of-school-trustees"
+  ],
+  "pcsc_reorg": [
+   "School Board Reorganization Update",
+   "Plainfield Community School Corporation",
+   "2025-08-07",
+   "https://plainfieldin.sites.thrillshare.com/article/2344954"
+  ],
+  "pcsc_supt": [
+   "Announcing Mr. Andy Allen as the next Superintendent of Plainfield Schools",
+   "Plainfield Community School Corporation",
+   "2025-08-07",
+   "https://plainfieldin.sites.thrillshare.com/article/2344827"
+  ],
+  "pcsc_admin": [
+   "Administrative Team",
+   "Plainfield Community School Corporation",
+   "2026-10",
+   "https://plainfieldin.sites.thrillshare.com/page/administrative-team"
+  ],
+  "pcsc_transfer": [
+   "Important Policy Change: Non-Resident Transfer Students (2025-2026)",
+   "Plainfield Community School Corporation",
+   "2024-09-12",
+   "https://5il.co/356qq"
+  ],
+  "wiki_pcsc": [
+   "Plainfield Community School Corporation",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/Plainfield_Community_School_Corporation"
+  ],
+  "hc_ballot": [
+   "2026 General Ballot",
+   "Hendricks County Government",
+   "2026-08-14",
+   "https://www.co.hendricks.in.us/egov/documents/1786723157_12034.pdf"
+  ],
+  "hc_pl_bios": [
+   "Plainfield School Board Bios (candidate biographies)",
+   "Hendricks County Government",
+   "2026",
+   "https://www.co.hendricks.in.us/egov/apps/document/center.egov?view=item&id=9542"
+  ],
+  "pcsc_budget": [
+   "Budgets & Financial Information",
+   "Plainfield Community School Corporation",
+   "2026-10",
+   "https://plainfieldin.sites.thrillshare.com/page/budgets-and-financial-information"
+  ]
+ }
+}

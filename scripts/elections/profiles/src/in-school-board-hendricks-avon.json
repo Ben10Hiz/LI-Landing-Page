@@ -1,0 +1,132 @@
+{
+ "race_id": "in-school-board-hendricks-avon",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Avon Community School Corporation serves Avon and Washington Township in Hendricks County; the district describes its 2018 operating referendum as approved by 'Avon-Washington Township voters' {acsc_ref}. It operates Avon High School, Avon Academy, Avon Online, three middle schools (North, South and West), eight elementary schools and White Oak Early Learning Center {acsc_appreciation}.",
+  "Superintendent Scott Wyndham told WISH-TV in August 2024 that the district opened that school year with 'just about 11,000 students,' its largest enrollment to that point {wish_2024}; a current-year official enrollment figure was not found in fetched sources.",
+  "The board has five members: Sarah Parent (president), Mike Langford (vice president), Jennifer Smith (secretary), Kim Woodward and Josh Yoder {acsc_board}{acsc_appreciation}. Yoder joined the board in January 2026, when the board also honored retiring member Cindy Simmons {acsc_appreciation}.",
+  "Two seats are on the 2026 ballot. The Hendricks County 2026 general ballot lists 'Avon School Board — Washington' with vote for 2 and two candidates, Sarah Parent and Jennifer Smith, both with no party selection {hc_ballot}; the state list's 'vote for 1' does not match the county ballot {in_list}{hc_ballot}. Both candidates are the sitting board members who joined the board in 2023 {acsc_board}, and GoodParty.org lists both of their current terms as 2022–2026 {goodparty_avon}. With two candidates for two seats, the race is uncontested {hc_ballot}.",
+  "Budget and taxes: Avon voters approved an operating referendum in May 2018 and renewed it in November 2025 at a maximum rate of $0.33; the district set the 2026 rate at $0.31 and says the money funds smaller class sizes, educator hiring and retention, and student supports such as elementary counselors and multilingual learner specialists {acsc_ref}. The district says 2025's SEA 1 'gives homeowners an additional 10% tax credit (up to $300) over and above 1% tax cap savings' {acsc_ref}.",
+  "2027 budget: at an August 2026 working session the board reviewed 2027 budget assumptions and cited property tax caps, insurance cost increases and legislative changes to school funding as challenges, according to a meeting summary; public commenters questioned legal spending compared with instructional funding {govly_aug2026}. A budget hearing was scheduled for Sept. 30 and adoption for Oct. 26, 2026 {govly_aug2026}{acsc_board}.",
+  "Facilities and growth: in 2024 the district was building a third middle school, expanding Avon High School and its existing middle schools, and redistricting grades K–8 for 2025–26, moving fifth grade into elementary schools and sixth grade into middle schools {wish_2024}. At the August 2026 session the board voted 5-0 to keep using design-build for its 2027 capital improvement project {govly_aug2026}.",
+  "No candidate forums or questionnaires for this race were found. Only Sarah Parent had posted a statement on the county's candidate biography page as of this review {hc_avon_bios}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Sarah Parent",
+   "seat": "Washington (vote for 2)",
+   "summary": "Incumbent; president of the Avon Board of School Trustees, on the board since 2023 and a former Avon elementary teacher {acsc_board}{acsc_appreciation}.",
+   "website": null,
+   "background": [
+    "Vice president of client services at Ntracts {acsc_board}.",
+    "Long-time Avon elementary teacher and member of the Oriole Advocates, according to the district {acsc_board}.",
+    "Parent of students in Avon Schools {acsc_board}.",
+    "Joined the board in 2023; served as vice president in 2025 and was elected president for 2026 {acsc_board}{acsc_appreciation}."
+   ],
+   "path_to_ballot": [
+    "Listed on the Hendricks County 2026 general ballot for the Washington Township seats with no party selection {hc_ballot}."
+   ],
+   "positions": [
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "In her county candidate statement she says board service is about 'making thoughtful decisions, listening to our families and staff, supporting our educators' {hc_avon_bios}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member and the board's 2026 president {acsc_appreciation}. In her candidate statement she says she is running for re-election 'because I believe in the direction we're headed' and is proud of what the board has accomplished {hc_avon_bios}."
+   ],
+   "plans": [
+    "Lists her vision as a board member as: 'Set clear expectations,' 'Create conditions for success,' 'Hold ACSC accountable to the expectations' and 'Learn together as a board team' {hc_avon_bios}."
+   ],
+   "endorsements_finance": [],
+   "gaps": [
+    "No candidate forum, newspaper questionnaire or voter-guide entry for this race was found.",
+    "No endorsements or campaign finance reports found.",
+    "No statements found on specific issues such as the 2027 budget, the referendum or facilities.",
+    "A search-result snippet gave her job title as 'Director of Client Services'; the district page as fetched says 'Vice President of Client Services.'"
+   ]
+  },
+  {
+   "ballot_name": "Jennifer Smith",
+   "seat": "Washington (vote for 2)",
+   "summary": "Incumbent; secretary of the Avon Board of School Trustees, on the board since 2023 and an occupational therapist {acsc_board}{acsc_appreciation}.",
+   "website": null,
+   "background": [
+    "Occupational therapist for Franciscan VNS {acsc_board}.",
+    "Avon resident since 2017 and parent of two children in Avon Schools, where she volunteers {acsc_board}.",
+    "Joined the board in 2023 and is serving a second consecutive year as secretary in 2026 {acsc_board}{acsc_appreciation}."
+   ],
+   "path_to_ballot": [
+    "Listed on the Hendricks County 2026 general ballot for the Washington Township seats with no party selection {hc_ballot}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member and the board's secretary {acsc_appreciation}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No candidate forum, newspaper questionnaire or voter-guide entry for this race was found.",
+    "She had not posted a statement on the Hendricks County candidate biography page as of this review.",
+    "No campaign website, public statements on issues, endorsements or campaign finance reports found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "acsc_board": [
+   "Board of School Trustees",
+   "Avon Community School Corporation",
+   "2026-10",
+   "https://www.avon-schools.org/about/board-of-school-trustees"
+  ],
+  "acsc_appreciation": [
+   "School Board Appreciation Month",
+   "Avon Community School Corporation",
+   "2026-01-13",
+   "https://www.avon-schools.org/experience-avon/experience-avon/~board/acsc-posts/post/school-board-appreciation-month"
+  ],
+  "acsc_ref": [
+   "Operating Referendum (Referendum Progress Report, Winter 2026)",
+   "Avon Community School Corporation",
+   "2026",
+   "https://www.avon-schools.org/fs/pages/3249"
+  ],
+  "govly_aug2026": [
+   "Avon Community School Corporation board working session (meeting summary)",
+   "Govly",
+   "2026-08",
+   "https://app.govly.com/public/meetings/73770"
+  ],
+  "wish_2024": [
+   "The Morning Bell: Avon Schools superintendent discusses district growth and redistricting",
+   "WISH-TV",
+   "2024-08-01",
+   "https://wishtv.com/?p=1208134"
+  ],
+  "hc_ballot": [
+   "2026 General Ballot",
+   "Hendricks County Government",
+   "2026-08-14",
+   "https://www.co.hendricks.in.us/egov/documents/1786723157_12034.pdf"
+  ],
+  "hc_avon_bios": [
+   "Avon School Board Bios (candidate biographies)",
+   "Hendricks County Government",
+   "2026",
+   "https://www.co.hendricks.in.us/egov/apps/document/center.egov?view=item&id=9521"
+  ],
+  "goodparty_avon": [
+   "Local School Board in Avon Community School Corporation, Indiana",
+   "GoodParty.org",
+   "2026",
+   "https://goodparty.org/elections/in/avon-community-school-corporation/position/local-school-board"
+  ]
+ }
+}
