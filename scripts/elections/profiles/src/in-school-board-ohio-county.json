@@ -1,0 +1,98 @@
+{
+ "race_id": "in-school-board-ohio-county",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The office on the ballot, 'Ohio County Community School Board', is the board of the Rising Sun-Ohio County Community School Corporation, which runs Rising Sun High School, Rising Sun Middle School and Ohio County Elementary School in Rising Sun; Rising Sun High School is the only high school in Ohio County {in_list}{rso_home}{wiki_rshs}. State enrollment counts were 854 students in 2023-24, 831 in 2024-25 and 801 in 2025-26 {idoe_enroll}.",
+  "Superintendent: Dr. Branden Roeder {rso_home}{rso_min_20260113}.",
+  "The board has five members: Corey Potts, Renee Cole, Connie Smith, Gary Kinnett and Andrea Kirkpatrick {rso_board}{rso_min_20260113}. In January 2026 the board kept its 2025 officers: Potts as president, Cole as vice president and Smith as secretary {rso_min_20260113}. (The district's board page lists Kinnett, not Cole, as vice president {rso_board}.) Regular meetings are held on the second Tuesday of each month {rso_min_20260113}.",
+  "How seats are elected: Ohio County's official 2022 general-election results list 'Ohio County Community School Board Member District 4 - Vote for Two (2) Only'; Connie L. Smith was the only candidate and received 1,240 votes {oc_2022}. Gary Kinnett was already serving on the board in November 2022 and has served since {rso_min_20221108}{rso_min_20230110}. This guide did not find the district's board organization plan or a 2026 sample ballot, so the number of District 4 seats on the 2026 ballot is not confirmed.",
+  "Seats on the 2026 ballot: the state list shows one District 4 race, 'vote for 1', with two candidates, Connie Lou (Williams) Smith and Gary E Kinnett, both Nonpartisan {in_list}. Both are current board members {rso_board}{rso_min_20260113}. If District 4 again elects two members, as in 2022, both incumbents could be returned; if only one seat is on the ballot, the race pits two sitting members against each other {oc_2022}{in_list}.",
+  "Budget: after a public hearing with no public comments on Sept. 23, 2025, the board approved the 2026 budget, a 2026 capital projects plan and a 2026 bus replacement plan on Oct. 14, 2025 {rso_min_20250923}{rso_min_20251014}. In June 2026 it set a Sept. 15, 2026 public hearing and Sept. 29, 2026 adoption date for the 2027 budget {rso_min_20260609}. This guide found no reporting on how the 2025 property-tax law SEA 1 affects the corporation, and no referendum.",
+  "Building projects and borrowing: on Aug. 19, 2025 the board held a public hearing on general obligation (GO) bonds, heard no comments, and approved the bonds; the superintendent updated the board on a construction project and the gym floor at the same meeting {rso_min_20250819}. In April 2026 he described upcoming projects including a high school cafeteria HVAC project and replacing cafeteria refrigerators and freezers {rso_min_20260414}.",
+  "Staff pay: the 2025-26 teacher agreement, heard on Oct. 28, 2025 and approved Nov. 4, 2025, included a $700 raise, a $500 stipend and a $300 raise for teachers with the Early Literacy Endorsement {rso_min_20251028}{rso_min_20251104}. The board also approved a 1% raise and $250 stipend for qualifying classified staff, with all stipends paid from the Rainy Day Fund, and agreed to cover half (2.5%) of a 5% health insurance premium increase {rso_min_20251104}.",
+  "Administration: in April 2026 the board approved an administrative restructuring (a new high school principal, an assistant principal who is also corporation athletic director, and a dean of students) that minutes say would save about $100,000 a year {rso_min_20260414}.",
+  "Other decisions: in January 2026 the board approved a new Southeastern Career Center operating agreement and the addition of Madison Consolidated Schools as a member {rso_min_20260113}; in May 2026 it raised preschool and daycare fees to $30 a day for 2026-27 ($35 for children from outside the corporation) {rso_min_20260506}. In December 2025 the superintendent briefed the board on the state's new accountability model {rso_min_20251202}.",
+  "Forums: this guide found no 2026 candidate forum, questionnaire or news coverage of this race."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Connie Lou (Williams) Smith",
+   "seat": "District 4",
+   "summary": "Incumbent and board secretary; she was elected unopposed in District 4 in 2022 {oc_2022}{rso_min_20260113}.",
+   "website": null,
+   "background": [
+    "Has served on the board since at least November 2022 and was elected in District 4 in 2022 as Connie L. Smith, the only candidate on that ballot {rso_min_20221108}{oc_2022}.",
+    "Has been board secretary since at least 2024; the board kept her in that role for 2025 and 2026 {rso_min_20250114}{rso_min_20260113}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state's 2026 general-election list as Nonpartisan {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. Minutes from 2025-26 meetings reviewed by this guide show her voting yes, with no recorded dissent, on the 2026 budget, the GO bonds, the 2025-26 teacher contract and the administrative restructuring; she made the motion to approve the 2026 budget {rso_min_20250819}{rso_min_20251014}{rso_min_20251104}{rso_min_20260414}. No public statement from her on the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "Occupation and community roles not found.",
+    "No campaign website, questionnaire, forum remarks or news coverage were found.",
+    "County campaign finance filings were not checked.",
+    "Whether she and Kinnett are competing for one seat or both can win (District 4 elected two members in 2022) was not confirmed."
+   ]
+  },
+  {
+   "ballot_name": "Gary E Kinnett",
+   "seat": "District 4",
+   "summary": "Incumbent board member running in District 4 {in_list}{rso_min_20260113}.",
+   "website": null,
+   "background": [
+    "Has served on the board since at least November 2022 {rso_min_20221108}{rso_min_20230110}.",
+    "The district's board page lists him as vice president; January 2025 and January 2026 minutes record Renee Cole in that role {rso_board}{rso_min_20250114}{rso_min_20260113}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state's 2026 general-election list as Nonpartisan {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. Minutes from 2025-26 meetings reviewed by this guide show him voting yes, with no recorded dissent, on the 2026 budget, the 2025-26 teacher contract and the administrative restructuring; he made the motion to approve the GO bonds in August 2025 {rso_min_20250819}{rso_min_20251014}{rso_min_20251104}{rso_min_20260414}. No public statement from him on the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "Occupation and community roles not found.",
+    "How he joined the board (election or appointment) and which seat he holds were not confirmed; he was not on the 2022 District 4 ballot.",
+    "No campaign website, questionnaire, forum remarks or news coverage were found.",
+    "County campaign finance filings were not checked."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "rso_home": ["Rising Sun-Ohio County Community Schools home page", "Rising Sun-Ohio County Community School Corporation", "2026-10", "https://www.risingsun.k12.in.us/"],
+  "rso_board": ["School Board overview", "Rising Sun-Ohio County Community School Corporation", "2026-10", "https://www.risingsun.k12.in.us/school-board/overview"],
+  "wiki_rshs": ["Rising Sun High School (Indiana)", "Wikipedia", "2026-10", "https://en.wikipedia.org/wiki/Rising_Sun_High_School_(Indiana)"],
+  "idoe_enroll": ["Corporation Enrollment by Grade Level, 2006-26", "Indiana Department of Education", "2026", "https://www.in.gov/doe/files/corporation-enrollment-grade-2006-26.xlsx"],
+  "oc_2022": ["General Election Cumulative Results 2022", "Ohio County Clerk / Election Board", "2022-11", "https://ohiocountyin.gov/wp-content/uploads/2022/11/General-Election-Cumulative-Results-2022.pdf"],
+  "rso_min_20221108": ["Board minutes, Nov. 8, 2022", "Rising Sun-Ohio County Community School Corporation", "2022-11-08", "https://www.risingsun.k12.in.us/document-library-table-view/school-board/22-23-school-board-minutes/2418-november-8-2022/file"],
+  "rso_min_20230110": ["Board of Finance and board minutes, Jan. 10, 2023", "Rising Sun-Ohio County Community School Corporation", "2023-01-10", "https://www.risingsun.k12.in.us/document-library-table-view/school-board/22-23-school-board-minutes/2476-january-10-2023/file"],
+  "rso_min_20250114": ["Board of Finance and board minutes, Jan. 14, 2025", "Rising Sun-Ohio County Community School Corporation", "2025-01-14", "https://www.risingsun.k12.in.us/document-library-table-view/school-board/2024-2025-board-minutes/2979-january-14-2025/file"],
+  "rso_min_20250819": ["Board minutes, Aug. 19, 2025", "Rising Sun-Ohio County Community School Corporation", "2025-08-19", "https://www.risingsun.k12.in.us/document-library-table-view/school-board/2025-2026-board-minutes/3091-august-19-2025/file"],
+  "rso_min_20250923": ["Board minutes, Sept. 23, 2025", "Rising Sun-Ohio County Community School Corporation", "2025-09-23", "https://www.risingsun.k12.in.us/document-library-table-view/school-board/2025-2026-board-minutes/3092-september-23-2025/file"],
+  "rso_min_20251014": ["Board minutes, Oct. 14, 2025", "Rising Sun-Ohio County Community School Corporation", "2025-10-14", "https://www.risingsun.k12.in.us/document-library-table-view/school-board/2025-2026-board-minutes/3108-october-14-2025/file"],
+  "rso_min_20251028": ["Board minutes, Oct. 28, 2025", "Rising Sun-Ohio County Community School Corporation", "2025-10-28", "https://www.risingsun.k12.in.us/document-library-table-view/school-board/2025-2026-board-minutes/3109-october-28-2025/file"],
+  "rso_min_20251104": ["Board minutes, Nov. 4, 2025", "Rising Sun-Ohio County Community School Corporation", "2025-11-04", "https://www.risingsun.k12.in.us/document-library-table-view/school-board/2025-2026-board-minutes/3129-november-4-2025/file"],
+  "rso_min_20251202": ["Board minutes, Dec. 2, 2025", "Rising Sun-Ohio County Community School Corporation", "2025-12-02", "https://www.risingsun.k12.in.us/document-library-table-view/school-board/2025-2026-board-minutes/3148-december-2-2025/file"],
+  "rso_min_20260113": ["Board of Finance and board minutes, Jan. 13, 2026", "Rising Sun-Ohio County Community School Corporation", "2026-01-13", "https://www.risingsun.k12.in.us/document-library-table-view/school-board/2025-2026-board-minutes/3170-january-13-2026/file"],
+  "rso_min_20260414": ["Board minutes, April 14, 2026", "Rising Sun-Ohio County Community School Corporation", "2026-04-14", "https://www.risingsun.k12.in.us/document-library-table-view/school-board/2025-2026-board-minutes/3230-april-14-2026/file"],
+  "rso_min_20260506": ["Board minutes, May 6, 2026", "Rising Sun-Ohio County Community School Corporation", "2026-05-06", "https://www.risingsun.k12.in.us/document-library-table-view/school-board/2025-2026-board-minutes/3239-may-6-2026/file"],
+  "rso_min_20260609": ["Board minutes, June 9, 2026", "Rising Sun-Ohio County Community School Corporation", "2026-06-09", "https://www.risingsun.k12.in.us/document-library-table-view/school-board/2025-2026-board-minutes/3240-june-9-2026/file"]
+ }
+}

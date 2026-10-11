@@ -183,6 +183,7 @@ SEAT_OVERRIDES = {
     "Whiting School Board, At Large": 2,  # Lake County sample ballot
     "Northwestern School Board, At Large": 2,  # Howard County candidate list
     "Southwest Allen County School Board, At large": 2,  # SACS board page; Journal Gazette
+    "Randolph Southern School Board, At Large": 2,  # both terms end 2026; News-Gazette: all county school races uncontested
 }
 
 

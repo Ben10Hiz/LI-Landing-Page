@@ -3884,7 +3884,7 @@ school,School Board Member,"North West Hendricks School Board, Union Township",,
 school,School Board Member,"North White School Board, At Large",,At-large,1,1,0,,Nonpartisan
 school,School Board Member,"North White School Board, Monon Twp",,,1,1,0,,Nonpartisan
 school,School Board Member,"Northeastern Wayne Schools, District A",,,1,1,0,,Nonpartisan
-school,School Board Member,"Northwestern School Board, At Large",,At-large,1,2,0,yes,Nonpartisan; Republican
+school,School Board Member,"Northwestern School Board, At Large",,At-large,2,2,0,,Nonpartisan; Republican
 school,School Board Member,"Norwell School Board, At Large",,At-large,1,2,0,yes,Republican
 school,School Board Member,"Norwell School Board, Rockcreek Twp",,,1,1,0,,Nonpartisan
 school,School Board Member,"Norwell School Board, Union Twp",,,1,1,0,,Nonpartisan
@@ -3907,7 +3907,7 @@ school,School Board Member,"Randolph Eastern School Board, Wayne Township",,,1,1
 school,School Board Member,"Randolph Monroe Central School Board, At Large",,At-large,1,1,0,,Nonpartisan
 school,School Board Member,"Randolph Monroe Central School Board, Farmland",,,1,1,0,,Nonpartisan
 school,School Board Member,"Randolph Monroe Central School Board, Parker",,,1,1,0,,Nonpartisan
-school,School Board Member,"Randolph Southern School Board, At Large",,At-large,1,2,0,yes,Republican
+school,School Board Member,"Randolph Southern School Board, At Large",,At-large,2,2,0,,Republican
 school,School Board Member,"Richmond Community School Board, At Large",,At-large,2,5,0,yes,Independent; Nonpartisan; Republican
 school,School Board Member,"River Forest Community School Board, At Large",,At-large,1,1,0,,Nonpartisan
 school,School Board Member,"Rossville Consolidated School Board, At Large, (Carroll - Clinton)",,At-large,1,1,0,,Republican
@@ -3976,7 +3976,7 @@ school,School Board Member,"Western Wayne School Board At Large, District D",,At
 school,School Board Member,"Western Wayne School Board, District C",,,1,1,0,,Nonpartisan
 school,School Board Member,"Westview School Board, Newbury",,,1,1,0,,Republican
 school,School Board Member,"Westview School Board, Van Buren",,,1,1,0,,Independent
-school,School Board Member,"Whiting School Board, At Large",,At-large,1,2,0,yes,Democratic; Independent
+school,School Board Member,"Whiting School Board, At Large",,At-large,2,2,0,,Democratic; Independent
 school,School Board Member,"Zionsville Community School Board, At Large",,At-large,1,2,0,yes,Nonpartisan; Republican
 school,School Board Member,"Zionsville Community School Board, Eagle",,,1,2,0,yes,Nonpartisan; Republican
 school,School Board Member,"South Madison School Board, District 1, Adams",Adams,1,1,1,0,,Nonpartisan
@@ -3985,7 +3985,7 @@ school,School Board Member,"East Allen County School Board, District 2E",Allen,2
 school,School Board Member,"East Allen County School Board, District 3E",Allen,3,1,1,0,,Republican
 school,School Board Member,"Northwest Allen County School Board, District 3",Allen,3,1,1,0,,Nonpartisan
 school,School Board Member,"Northwest Allen County School Board, District 4",Allen,4,2,2,0,,Republican
-school,School Board Member,"Southwest Allen County School Board, At large",Allen,At-large,1,2,0,yes,Republican
+school,School Board Member,"Southwest Allen County School Board, At large",Allen,At-large,2,2,0,,Republican
 school,School Board Member,"Brown County School Board, District 1",Brown,1,1,3,0,yes,Nonpartisan; Republican
 school,School Board Member,"Brown County School Board, District 2",Brown,2,1,1,0,,Independent
 school,School Board Member,"Brown County School Board, District 3",Brown,3,1,2,0,yes,Nonpartisan; Republican
