@@ -155,6 +155,7 @@ SEAT_OVERRIDES = {
     "Hendricks Plainfield School Board, Guilford Township": 2, # Hendricks County ballot
     "Munster School Board, At Large": 2,                       # Lake County sample ballot
     "Warrick County School Board": 4,                          # VOTE411 / Ballot Brief
+    "Hobart School Board, At Large": 4,                        # Lake County sample ballot
 }
 
 

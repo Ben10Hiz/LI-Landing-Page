@@ -1,0 +1,206 @@
+{
+ "race_id": "in-school-board-duneland",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The Duneland School Corporation serves more than 5,800 students in Westchester, Jackson and Liberty townships and part of Pine Township in Porter County. Its 92-square-mile area includes Chesterton, Porter, Burns Harbor and Dune Acres {dsc_welcome}. It runs five K–4 elementary schools, two intermediate schools (grades 5–6), two middle schools (grades 7–8) and Chesterton High School {dsc_welcome}. Chesterton Middle School closed in 2024 {wiki_dsc}.",
+  "Superintendent: Dr. Chip Pettit, superintendent since 2019, left at the end of the 2025–26 school year; the district announced his departure on January 29, 2026 {dsc_soty}{dsc_news}. The district now lists Robert McDermott as superintendent and Dr. Benjamin Tonagel as assistant superintendent {dsc_admin}. On March 12, 2026 the board held the required public hearing on a three-year superintendent contract running July 1, 2026 to June 30, 2029, with a base salary of $210,000 {dsc_contract}.",
+  "The board has five elected members {dsc_welcome}. The current members are President Brandon Kroft, Vice President Alayna Lightfoot Pol, Secretary Beth Mehling, Jocelyn Hibshman and Kirk Redman {dsc_board}.",
+  "Seats on the 2026 ballot (per the state list): At Large, Liberty Township, and Westchester/Pine Township, one member each {in_list}. All three candidates who are current board members are running: Lightfoot Pol (At Large), Mehling (Liberty Township) and Kroft (Westchester/Pine) {in_list}{dsc_board}. Lightfoot Pol and Mehling won Duneland board seats in 2022 {lpm_2022}. The At Large and Liberty Township races are uncontested. In Westchester/Pine, Kroft faces Mitchell J. (Mitch) Reynolds, who is not a board member {in_list}{dsc_board}.",
+  "Not on this ballot: Hibshman and Redman {in_list}{dsc_board}.",
+  "Operating referendum (2025): on June 26, 2025 the board adopted a resolution to ask voters on November 4, 2025 for an eight-year operating levy of up to 39 cents per $100 of assessed value and up to $16,179,502 a year, citing 'reductions in property tax revenue.' The state approved the ballot language on July 16, 2025 {dlgf_dsc_det}{dlgf_dsc_plan}. The state's ballot-language findings put the increase at $707 a year on a $350,000 median home {dlgf_dsc_det}. The district's spending plan splits the money four ways: $8.1 million a year to maintain class sizes, $3.3 million to attract and retain teachers and staff, $2.4 million for academic programs and $2.38 million for student health and safety {dlgf_dsc_plan}. Earlier Duneland referendums passed in May 2012 and May 2019 {dlgf_hist}{dlgf_dsc_det}. This guide could not confirm the November 2025 result from an official source. The district's 2027 budget notice lists a current-year referendum-fund levy of $16,179,151, close to the requested maximum {dsc_form3}.",
+  "Budget (2026–2027): the district's notice for the 2027 budget proposes a 2027 budget of $98.95 million: Education $46.7 million, Operations $24 million, Debt Service $15.25 million and Referendum $13 million {dsc_form3}. The notice estimates the district's property-tax cap credit (revenue lost to the caps) at $2,279,400 {dsc_form3}. The budget hearing was set for October 12, 2026, with adoption on October 26, 2026 {dsc_form3}{dsc_meetings}.",
+  "Facilities: from 2022 to December 2024 the district built a new Yost Elementary School and renovated four other elementary schools and both intermediate/middle schools. It followed with 2025 projects including playground replacements, soccer stadium renovations and carpet replacement at Chesterton High School {dsc_capital}.",
+  "Other 2026 items: a phone-free policy took effect July 1, 2026 {dsc_home}.",
+  "Forums: this guide found no candidate forums, questionnaires or news coverage of the 2026 Duneland races. The district's BoardDocs agendas and minutes could not be opened, so individual board votes could not be reviewed {dsc_meetings}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Alayna Lightfoot Pol",
+   "seat": "At Large",
+   "summary": "Incumbent and board vice president {dsc_board}; the only candidate for the at-large seat {in_list}.",
+   "website": null,
+   "background": [
+    "Won a Duneland board seat in 2022 {lpm_2022}. The district's board page lists no occupation or biography {dsc_board}."
+   ],
+   "path_to_ballot": [
+    "Listed as a nonpartisan candidate for the at-large seat {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {dsc_board}. No statements found describing the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "The Porter County candidate list, 2026 sample ballots and campaign finance filings could not be retrieved, so filing dates and fundraising are not confirmed.",
+    "A search-result snippet from an Indiana Senate Democrats web page (which would not load) describes her as a teacher in Michigan City Area Schools. Unverified.",
+    "Which seat she won in 2022 is not confirmed by a source this guide could read."
+   ]
+  },
+  {
+   "ballot_name": "Beth M Mehling",
+   "seat": "Liberty Township",
+   "summary": "Incumbent and board secretary {dsc_board}; the only candidate for the Liberty Township seat {in_list}.",
+   "website": null,
+   "background": [
+    "Won a Duneland board seat in 2022 {lpm_2022}. The district's board page lists no occupation or biography {dsc_board}."
+   ],
+   "path_to_ballot": [
+    "Listed as a nonpartisan candidate for the Liberty Township seat {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {dsc_board}. As board secretary, she certified the board's June 26, 2025 referendum resolution {dlgf_dsc_plan}. No statements found describing the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "The Porter County candidate list, 2026 sample ballots and campaign finance filings could not be retrieved, so filing dates and fundraising are not confirmed.",
+    "Which seat she won in 2022 is not confirmed by a source this guide could read."
+   ]
+  },
+  {
+   "ballot_name": "Brandon John Kroft",
+   "seat": "Westchester / Pine Twp.",
+   "summary": "Current board member and board president {dsc_board}, running for the Westchester/Pine Township seat against Mitchell J. (Mitch) Reynolds {in_list}.",
+   "website": null,
+   "background": [
+    "The district's board page lists no occupation or biography {dsc_board}."
+   ],
+   "path_to_ballot": [
+    "Listed as a nonpartisan candidate for the Westchester/Pine Township seat {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {dsc_board}. No statements found describing the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "The Porter County candidate list, 2026 sample ballots and campaign finance filings could not be retrieved, so filing dates and fundraising are not confirmed.",
+    "Whether he now holds the Westchester/Pine seat, and when and how he joined the board (election or appointment), could not be confirmed; Porter County's past election results could not be retrieved."
+   ]
+  },
+  {
+   "ballot_name": "Mitchell J. (Mitch) Reynolds",
+   "seat": "Westchester / Pine Twp.",
+   "summary": "Challenger for the Westchester/Pine Township seat; not a current board member {in_list}{dsc_board}.",
+   "website": null,
+   "background": [
+    "No background information found."
+   ],
+   "path_to_ballot": [
+    "Listed as a nonpartisan candidate for the Westchester/Pine Township seat {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "The Porter County candidate list, 2026 sample ballots and campaign finance filings could not be retrieved, so filing dates and fundraising are not confirmed.",
+    "No information found on occupation, residence or ties to the schools."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "dsc_welcome": [
+   "Welcome to Duneland",
+   "Duneland School Corporation",
+   "2026-10",
+   "https://www.duneland.k12.in.us/about-us/welcome"
+  ],
+  "dsc_board": [
+   "Board Members",
+   "Duneland School Corporation",
+   "2026-10",
+   "https://www.duneland.k12.in.us/administration/school-board/board-members"
+  ],
+  "dsc_admin": [
+   "Administration Center (Central Administration)",
+   "Duneland School Corporation",
+   "2026-10",
+   "https://www.duneland.k12.in.us/administration/central-administration"
+  ],
+  "dsc_meetings": [
+   "Board Meetings",
+   "Duneland School Corporation",
+   "2026-10",
+   "https://www.duneland.k12.in.us/administration/school-board/board-meetings"
+  ],
+  "dsc_news": [
+   "News and Photos: DSC Announces Change in Leadership in 2026-2027",
+   "Duneland School Corporation",
+   "2026-01-29",
+   "https://www.duneland.k12.in.us/news/duneland-in-the-news"
+  ],
+  "dsc_soty": [
+   "Duneland School Superintendent is District I Superintendent of the Year",
+   "Duneland School Corporation",
+   "2025-04-24",
+   "https://www.duneland.k12.in.us/post-details/~board/24-25-dsc-news/post/duneland-school-superintendent-is-district-i-superintendent-of-the-year"
+  ],
+  "dsc_contract": [
+   "Notice of Hearing: Proposed Superintendent Contract",
+   "Duneland School Corporation",
+   "2026-03",
+   "https://www.duneland.k12.in.us/fs/pages/3408"
+  ],
+  "dsc_form3": [
+   "Notice to Taxpayers, 2027 Budget (Budget Form 3)",
+   "Duneland School Corporation",
+   "2026-10-02",
+   "https://www.duneland.k12.in.us/fs/resource-manager/view/ca841bf4-b0a8-4d90-9822-0fccc0487abd"
+  ],
+  "dsc_capital": [
+   "Long-Term Capital Improvements",
+   "Duneland School Corporation",
+   "2026-10",
+   "https://www.duneland.k12.in.us/administration/long-term-capital-improvements"
+  ],
+  "dsc_home": [
+   "Duneland School Corporation home page",
+   "Duneland School Corporation",
+   "2026-10",
+   "https://www.duneland.k12.in.us/"
+  ],
+  "wiki_dsc": [
+   "Duneland School Corporation",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/Duneland_School_Corporation"
+  ],
+  "dlgf_dsc_det": [
+   "Findings and Final Determination on Proposed Question, Duneland School Corporation (No. 25-011-REF)",
+   "Indiana Department of Local Government Finance",
+   "2025-07-16",
+   "https://www.in.gov/dlgf/files/referendum-documentation2/Referendum-Determination-Operating-Duneland-School-Corporation.pdf"
+  ],
+  "dlgf_dsc_plan": [
+   "Proposed Revenue Spending Plan and resolution certification, Duneland School Corporation",
+   "Indiana Department of Local Government Finance",
+   "2025-06-26",
+   "https://www.in.gov/dlgf/files/referendum-documentation2/Referendum-Spending-Plan-Operating-Duneland-School-Corporation.pdf"
+  ],
+  "dlgf_hist": [
+   "Historic School Tax Levy Referenda",
+   "Indiana Department of Local Government Finance",
+   "2026-10",
+   "https://www.in.gov/dlgf/referendum-information/historic-school-tax-levy-referenda/"
+  ],
+  "lpm_2022": [
+   "Porter County election results include some tight local races",
+   "Lakeshore Public Media",
+   "2022-11-09",
+   "https://www.lakeshorepublicmedia.org/2022-11-09/porter-county-election-results-include-some-tight-local-races"
+  ]
+ }
+}
