@@ -156,6 +156,15 @@ def same_person(a, b):
     return bool(a and b) and a[-1] == b[-1] and b[0] in a[:-1]
 
 
+# Office explainers shown for races of these kinds that have no race profile.
+OFFICE_EXPLAINERS = {
+    "Prosecuting Attorney": "in-office-prosecutor",
+    "County Sheriff": "in-office-sheriff",
+    "County Commissioner": "in-office-county-commissioner",
+    "County Council Member": "in-office-county-council",
+}
+
+
 def profile_incumbent(rid):
     """Officeholder named in a race profile, if any (statewide offices are
     not flagged in the state's candidate list)."""
@@ -179,6 +188,10 @@ def in_race(office_row, cands):
     if int(o["seats"]) > 1:
         desc = (desc + " " if desc else "") + f'Vote for up to {o["seats"]}.'
     profile_id = rid
+    explainer = OFFICE_EXPLAINERS.get(o["office_category"])
+    if explainer and not (PROFILES / f"{rid}.json").exists() \
+            and (PROFILES / f"{explainer}.json").exists():
+        profile_id = explainer  # office explainer until the race is researched
     if level == "school":
         # One profile per school corporation covers all its seats; until a
         # corporation is researched, its races point to the office explainer.

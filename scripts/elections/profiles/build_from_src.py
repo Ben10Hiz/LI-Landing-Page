@@ -30,6 +30,10 @@ SHARED = {
     "@in_senate": "_shared_in_senate_office.json",
     "@in_house": "_shared_in_house_office.json",
     "@in_school_board": "_shared_in_school_board_office.json",
+    "@in_prosecutor": "_shared_in_prosecutor_office.json",
+    "@in_sheriff": "_shared_in_sheriff_office.json",
+    "@in_county_commissioner": "_shared_in_county_commissioner_office.json",
+    "@in_county_council": "_shared_in_county_council_office.json",
 }
 
 
