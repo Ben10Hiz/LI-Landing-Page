@@ -1,0 +1,204 @@
+{
+ "race_id": "in-school-board-griffith",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "Griffith Public Schools serves most of the town of Griffith in Lake County {wiki_gps}. The district reports 1,995 students in three schools: Wadsworth Elementary (mainly grades PK–2), Beiriger Elementary (mainly grades 3–5) and Griffith Jr/Sr High School (grades 6–12) {gps_home}. Leah Dumezich is superintendent {lc_directory}{gps_min_sep26}.",
+  "The board has five members, all elected at large {lc_directory}. Its 2026 officers are President Emily Conner, 1st Vice President Jesse Adduci, 2nd Vice President Tina Adams, Secretary Kathy Ruesken and Assistant Secretary Jason Jaques {gps_board}{gps_min_sep26}.",
+  "Seats on the 2026 ballot: three at-large seats. The county's sample ballot says 'Vote for not more than Three (3)' {lc_sample_gr}; the state list's 'vote for 1' understates the number of seats. The three terms ending Dec. 31, 2026 belong to Adams, Adduci and Ruesken {lc_directory}. Adams and Ruesken are running again; Adduci is not on the candidate list {lc_candidates}.",
+  "In 2022 the three at-large winners were Adams (1,995 votes), Jennifer Gooldy (1,816) and Ruesken (1,769); Adduci finished fourth with 1,410 {lc_results_2022}. The 2026 county directory lists Adduci in a seat whose term ends in 2026 {lc_directory}. This guide did not confirm how he joined the board.",
+  "Not on this ballot: Conner and Jaques won the two at-large seats on the 2024 ballot, and their terms run through 2028 {lc_results_2024}{lc_directory}.",
+  "Candidates: Tina Adams, Lori A Rose and Kathy Ruesken are printed on the ballot, and Patrick Janke is a declared write-in candidate. That makes four candidates for three seats {lc_candidates}{lc_sample_gr}. The ballot says a write-in vote counts only if it is for a declared write-in candidate {lc_sample_gr}.",
+  "Operating referendum (2022): in May 2022 voters approved Griffith's operating referendum 1,309 to 796 {lc_results_p2022}. It runs for eight years at a rate of $0.3294 and was projected to raise about $2.29 million a year, $2.08 million of it for retaining and attracting teachers and staff {dlgf_gps_plan}. The district's website lists the staff salaries paid from referendum funds {gps_home}.",
+  "Budget (2025–2026): at the Oct. 9, 2025 meeting, which included the public hearing on the 2026 budget, Dumezich explained how the referendum and tax rate work and said the district 'will have to keep looking at reductions each year due to the tax rate' {gps_min_oct25}. At the Sept. 10, 2026 meeting, Chief Financial Officer Terri Chance reported that the budget is down $1.6 million from circuit-breaker tax caps, which will affect transportation and maintenance. She said the 2027 budget hearing would be held in September and the budget adopted in October {gps_min_sep26}. In July 2026 the board unanimously approved transfers from the Debt Service Fund and the Education Fund to the Operations Fund (Resolutions 2026-18 and 2026-19) {gps_min_jul26}. The minutes this guide read do not quantify the effect of the 2025 property-tax law (SEA 1).",
+  "Facilities (2025–2026): the Oct. 9, 2025 meeting also included a project hearing and a second preliminary determination hearing {gps_min_oct25}. In January 2026 Dumezich gave target completion dates of June 5, 2026 for the indoor athletic facility, July 14 for the football, soccer and track fields, and July 31 for the varsity locker rooms. She said the aquatic center would be finished at the end of September, with a public opening hoped for in the second week of October 2026 {gps_min_jan26}.",
+  "Storm recovery (2026): an Aug. 11, 2026 storm delayed the start of school, and the district had about $170,000 in insurance claims as of Sept. 10 {gps_min_sep26}. That month the board unanimously adopted resolutions declaring an emergency requiring mitigation and restoration, and authorizing pay for classified staff during unplanned emergency closures {gps_min_sep26}.",
+  "Other 2026 board items: the board unanimously kept the superintendent on a three-year contract in July 2026 {gps_min_jul26}. In January 2026 Dumezich reported that 26 students were enrolled in the district's online Region Virtual Academy, with a goal of 50 by the end of the school year, and described it as a way to bring in revenue {gps_min_jan26}. In September 2026 the board approved a peer tutoring course, a test security policy and an amended 2026–2027 strategic plan. Audience members that month questioned athletic pass prices and bus fees for fine arts trips {gps_min_sep26}.",
+  "Forums: this guide found no candidate forums, questionnaires or news coverage of the 2026 Griffith school board race."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Kathy Ruesken",
+   "seat": "At Large",
+   "summary": "Incumbent; elected at large in 2022 and now board secretary {lc_results_2022}{gps_board}.",
+   "website": null,
+   "background": [
+    "Has served on the board since winning an at-large seat in 2022 {lc_results_2022}. Was 1st vice president in 2025 and is secretary in 2026 {gps_min_oct25}{gps_board}. This guide found no information on her occupation."
+   ],
+   "path_to_ballot": [
+    "Filed May 19, 2026 without a party affiliation; no party appears under her name on the ballot {lc_candidates}{lc_sample_gr}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. In September 2026 she moved to approve the new peer tutoring course, the emergency mitigation resolution and the amended strategic plan, all of which passed unanimously {gps_min_sep26}. In January 2026 she moved to postpone the board's reorganization to February, when all members would be present {gps_min_jan26}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "Occupation and other background not found.",
+    "No stated positions on the budget, the 2022 referendum or facilities projects found."
+   ]
+  },
+  {
+   "ballot_name": "Lori A Rose",
+   "seat": "At Large",
+   "summary": "Candidate for one of three at-large seats; not a current board member {lc_candidates}{gps_board}.",
+   "website": null,
+   "background": [
+    "No background information found."
+   ],
+   "path_to_ballot": [
+    "Filed June 17, 2026 without a party affiliation; no party appears under her name on the ballot {lc_candidates}{lc_sample_gr}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "Occupation and ties to the schools not found."
+   ]
+  },
+  {
+   "ballot_name": "Patrick Janke",
+   "seat": "At Large",
+   "summary": "Declared write-in candidate for one of three at-large seats; not a current board member {lc_candidates}{gps_board}.",
+   "website": null,
+   "background": [
+    "No background information found."
+   ],
+   "path_to_ballot": [
+    "Filed Aug. 5, 2026 as a declared write-in candidate, listed by the county as 'Write-In (Independent)' {lc_candidates}{in_list}. His name is not printed on the ballot; voters must write it on the write-in line {lc_sample_gr}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "Occupation and ties to the schools not found."
+   ]
+  },
+  {
+   "ballot_name": "Tina Adams",
+   "seat": "At Large",
+   "summary": "Incumbent; was the top vote-getter in the 2022 at-large race and was board president in 2025 {lc_results_2022}{gps_min_oct25}.",
+   "website": null,
+   "background": [
+    "Won an at-large seat in 2022 as Tina G Adams, with the most votes in that race {lc_results_2022}. Was board president in 2025 and through the January 2026 meeting, and is 2nd vice president in 2026 {gps_min_oct25}{gps_min_jan26}{gps_board}. This guide found no information on her occupation."
+   ],
+   "path_to_ballot": [
+    "Filed May 19, 2026 as a Republican, and 'Republican Party' is printed under her name on the ballot {lc_candidates}{lc_sample_gr}{in_list}. In 2022 the county listed her as nonpartisan {lc_results_2022}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "At the Oct. 9, 2025 meeting, during a discussion of athletic fees, the minutes record that she 'agrees that parents are responsible to pay the fees, but students need to learn accountability and that there are ways to fundraise' {gps_min_oct25}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member. In July 2026 she moved to keep the superintendent on a three-year contract and to approve the transfer from the Debt Service Fund to the Operations Fund, and both passed unanimously {gps_min_jul26}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "Occupation and other background not found.",
+    "No stated position on the 2022 referendum's future or on SEA 1 found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "gps_home": [
+   "Griffith Public Schools home page (By the Numbers)",
+   "Griffith Public Schools",
+   "2026-10",
+   "https://www.griffithps.org/"
+  ],
+  "gps_board": [
+   "School Board",
+   "Griffith Public Schools",
+   "2026-10",
+   "https://www.griffithps.org/school-board"
+  ],
+  "wiki_gps": [
+   "Griffith Public Schools",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/Griffith_Public_Schools"
+  ],
+  "dlgf_gps_plan": [
+   "Griffith Public Schools Proposed Revenue Spending Plan (operating referendum, May 2022)",
+   "Indiana Department of Local Government Finance",
+   "2022-02",
+   "https://www.in.gov/dlgf/files/referendum-documentation2/Referendum-Revenue-Plan-Operating-Griffith-Public-School-Corporation.pdf"
+  ],
+  "gps_min_oct25": [
+   "Regular Board Meeting minutes, Oct. 9, 2025",
+   "Griffith Public Schools",
+   "2025-10-09",
+   "https://www.griffithps.org/fs/resource-manager/view/160e8be3-2ef1-411c-8e66-f89da371a7f6"
+  ],
+  "gps_min_jan26": [
+   "Regular Board Meeting minutes, Jan. 8, 2026",
+   "Griffith Public Schools",
+   "2026-01-08",
+   "https://www.griffithps.org/fs/resource-manager/view/c6bc2fbc-03e1-4160-aeeb-bfb9a20f4157"
+  ],
+  "gps_min_jul26": [
+   "Regular Board Meeting minutes, July 9, 2026",
+   "Griffith Public Schools",
+   "2026-07-09",
+   "https://www.griffithps.org/fs/resource-manager/view/58b6fde6-a5e2-481a-b6c8-278c2aba7662"
+  ],
+  "gps_min_sep26": [
+   "Regular Board Meeting minutes, Sept. 10, 2026",
+   "Griffith Public Schools",
+   "2026-09-10",
+   "https://www.griffithps.org/fs/resource-manager/view/1bbee66b-b10f-45e3-90a1-652561661005"
+  ],
+  "lc_directory": [
+   "2026 Lake County Public Officials Directory (School Corporations, p. 37)",
+   "Lake County, Indiana",
+   "2026-08-13",
+   "https://lakecountyin.gov/dA/8ee74908-61bf-46b8-8c34-a648d6d3ed59/pdfFile/2026%2008%2013%20LAKE%20COUNTY%20PUBLIC%20OFFICIALS%20DIRECTORY.pdf"
+  ],
+  "lc_candidates": [
+   "2026 General Election Candidate List (as of Aug. 11, 2026)",
+   "Lake County Board of Elections and Registration",
+   "2026-08-11",
+   "https://lakecountyin.gov/departments/voters/election-candidates/2026_General_Candidate_List_08_11_26.xlsx"
+  ],
+  "lc_sample_gr": [
+   "2026 General Election sample ballot, Precinct 128-GR 02 (Griffith)",
+   "Lake County Board of Elections and Registration",
+   "2026-09",
+   "https://lakecountyin.gov/departments/voters/2026-ELECTION/2026-General-Election-Sample-Ballots/Pct%20128-GR%2002%20Act%2001-GENERAL.pdf"
+  ],
+  "lc_results_p2022": [
+   "2022 Primary Election Summary",
+   "Lake County Board of Elections and Registration",
+   "2022-05",
+   "https://lakecountyin.gov/departments/voters/election-results-c/2022PrimaryElectionResults/Lake_ElecSumm_All.htm"
+  ],
+  "lc_results_2022": [
+   "2022 General Election Summary",
+   "Lake County Board of Elections and Registration",
+   "2022-11",
+   "https://lakecountyin.gov/departments/voters/election-results-c/2022GeneralElectionResults/Lake_ElecSumm_All.htm"
+  ],
+  "lc_results_2024": [
+   "2024 General Election Summary",
+   "Lake County Board of Elections and Registration",
+   "2024-11",
+   "https://lakecountyin.gov/departments/voters/election-results-c/2024GeneralElectionResults/Lake_ElecSumm_All.htm"
+  ]
+ }
+}

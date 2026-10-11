@@ -1,0 +1,178 @@
+{
+ "race_id": "in-school-board-frontier",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The 'Frontier School Board' seats belong to Frontier School Corporation, a rural district in White County with its office in Chalmers {nces_fr}{idoe_dir}. It runs two schools: Frontier Elementary (pre-K to grade 6) in Brookston and Frontier Jr-Sr High School (grades 7-12) in Chalmers {idoe_dir}. State data count 680 students in 2025-26, up from 666 in 2024-25 {idoe_enr}. The state's 2025-26 school directory, dated March 2026, lists Frederick Unsicker as superintendent {idoe_dir}; Daniel A. Sichting was superintendent through at least June 2024, per the state audit {sboa_fr_2024}.",
+  "How members are elected: county results show every Frontier board race since 2020 as a single at-large contest, with two members elected in 2020 and 2024 and three in 2022, which points to a five-member board elected at large in staggered four-year terms {wc_2020_results}{wc_2022_results}{wc_2024_results}. This guide could not reach the district's website to confirm the board's size or plan.",
+  "Seats on the 2026 ballot: three at-large seats; the county's candidate list names the race 'Frontier School Board, At Large (3 seats)' {wc_cand_2026}{in_list}. These appear to be the seats filled in 2022, when Laura A. Bell, Shelley Christopher and Jared Rosenbarger were the only three candidates for three seats {wc_2022_results}. The other two seats were filled in 2024, when David Rosenbarger (1,534 votes) and Stephanie Laorange (1,433) were elected unopposed for two seats {wc_2024_results}.",
+  "Who is running: four candidates for three seats. Laura Bell and Jared Rosenbarger, who won these seats in 2022, are running again; Shelley Christopher, the third member elected in 2022, is not on the 2026 list {wc_cand_2026}{wc_2022_results}. The newcomers are David Cosgray and Carlie Lehe {wc_cand_2026}. Cosgray and Rosenbarger filed as Republicans; Bell and Lehe filed with no party {wc_cand_2026}. This guide could not confirm the current board roster, so it is not certain that Bell and Rosenbarger still hold their seats.",
+  "Board leadership: the state audit lists Robert Andie Mears as board president in 2022, Shelley Christopher in 2023 and David Rosenbarger in 2024 {sboa_fr_2024}.",
+  "Issues: this guide found no news coverage, board minutes or district statements on Frontier's 2025-26 budget, the effect of the 2025 property-tax law (SEA 1), referendums, buildings or test scores. The district website did not load during research, and the board's BoardDocs pages, if any, could not be reached.",
+  "Forums: this guide found no 2026 candidate forum, questionnaire or news coverage of the candidates' views."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Carlie Lehe",
+   "seat": "At Large",
+   "summary": "First-time candidate for one of three at-large seats; filed with no party {wc_cand_2026}.",
+   "website": null,
+   "background": [
+    "This guide found no published information on her occupation, community roles or ties to the schools."
+   ],
+   "path_to_ballot": [
+    "Filed for 'Frontier School Board, At Large (3 seats)' on June 16, 2026, with no party listed {wc_cand_2026}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Not a current board member, based on the 2022 and 2024 election results {wc_2022_results}{wc_2024_results}. No statement from her on the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "Occupation, community roles and ties to the schools could not be found.",
+    "No campaign website, social media page, questionnaire, forum remarks or news coverage of this campaign were found.",
+    "No stated positions on the budget, academics, staffing, safety, facilities or policies were found.",
+    "White County campaign finance filings for school board candidates were not found online."
+   ]
+  },
+  {
+   "ballot_name": "David Cosgray",
+   "seat": "At Large",
+   "summary": "First-time candidate for one of three at-large seats; filed as a Republican {wc_cand_2026}.",
+   "website": null,
+   "background": [
+    "This guide found no published information on his occupation, community roles or ties to the schools."
+   ],
+   "path_to_ballot": [
+    "Filed for 'Frontier School Board, At Large (3 seats)' on June 12, 2026, with the Republican label {wc_cand_2026}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Not a current board member, based on the 2022 and 2024 election results {wc_2022_results}{wc_2024_results}. No statement from him on the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "Occupation, community roles and ties to the schools could not be found.",
+    "No campaign website, social media page, questionnaire, forum remarks or news coverage of this campaign were found.",
+    "No stated positions on the budget, academics, staffing, safety, facilities or policies were found.",
+    "White County campaign finance filings for school board candidates were not found online."
+   ]
+  },
+  {
+   "ballot_name": "Jared Rosenbarger",
+   "seat": "At Large",
+   "summary": "Incumbent, elected in 2022 to an at-large seat; running again as a Republican {wc_2022_results}{wc_cand_2026}.",
+   "website": null,
+   "background": [
+    "Won an at-large seat in November 2022 with 808 votes, one of three candidates for three seats {wc_2022_results}."
+   ],
+   "path_to_ballot": [
+    "Filed for 'Frontier School Board, At Large (3 seats)' on June 1, 2026, with the Republican label {wc_cand_2026}{in_list}. He ran without a party label in 2022, before party labels were allowed in school board races {wc_2022_results}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Was elected to the board in 2022 {wc_2022_results}. No statement from him on the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "This guide could not confirm from a current district roster that he still holds the seat.",
+    "Occupation, community roles and any board offices could not be found.",
+    "A different board member, David Rosenbarger, was elected in 2024 and was board president in 2024; this guide found no source on whether the two are related and does not assume so.",
+    "No campaign website, social media page, questionnaire, forum remarks or news coverage of this campaign were found.",
+    "No stated positions on the budget, academics, staffing, safety, facilities or policies were found.",
+    "White County campaign finance filings for school board candidates were not found online."
+   ]
+  },
+  {
+   "ballot_name": "Laura Bell",
+   "seat": "At Large",
+   "summary": "Incumbent, elected at large in 2022; running again with no party label {wc_2022_results}{wc_cand_2026}.",
+   "website": null,
+   "background": [
+    "Won an at-large seat in November 2022 as Laura A. Bell with 825 votes, the most of the three candidates for three seats {wc_2022_results}."
+   ],
+   "path_to_ballot": [
+    "Filed for 'Frontier School Board, At Large (3 seats)' on June 9, 2026, with no party listed {wc_cand_2026}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Was elected to the board in 2022 {wc_2022_results}. No statement from her on the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "This guide could not confirm from a current district roster that she still holds the seat; the match between 'Laura A. Bell' in past results and 'Laura Bell' on the 2026 list is by name only.",
+    "Occupation, community roles and any board offices could not be found.",
+    "Unverified (search-result snippet only): a 2018 White County results page appears to show Laura A. Bell winning a Frontier at-large seat in 2018; the page could not be opened, so her length of service was not confirmed.",
+    "No campaign website, social media page, questionnaire, forum remarks or news coverage of this campaign were found.",
+    "No stated positions on the budget, academics, staffing, safety, facilities or policies were found.",
+    "White County campaign finance filings for school board candidates were not found online."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "wc_cand_2026": [
+   "Candidate List - Abbreviated (2026 General Election)",
+   "White County Election Board",
+   "2026-10-07",
+   "https://www.in.gov/counties/white/files/general-election-2026/Candidate_List_GE26.pdf"
+  ],
+  "wc_2024_results": [
+   "2024 General Election Summary Report (certified)",
+   "White County Election Board",
+   "2024-11-15",
+   "https://www.in.gov/counties/white/files/previous-elections/SIGNED-2024-GEN-CERT-SUMM-RESULTS.pdf"
+  ],
+  "wc_2022_results": [
+   "2022 General Election Summary Report (certified)",
+   "White County Election Board",
+   "2022-11-18",
+   "https://www.in.gov/counties/white/files/previous-elections/Certified-2022-General-Summary-Report.pdf"
+  ],
+  "wc_2020_results": [
+   "2020 General Election Summary Report (certified)",
+   "White County Election Board",
+   "2020-11-13",
+   "https://www.in.gov/counties/white/files/previous-elections/2020-GENERAL-CERTIFIED-ELECTION-SUMMARY-REPORT.pdf"
+  ],
+  "idoe_dir": [
+   "2025-2026 School Directory",
+   "Indiana Department of Education",
+   "2026-03-23",
+   "https://www.in.gov/doe/files/2025-2026-school-directory-2026-03-23.xlsx"
+  ],
+  "idoe_enr": [
+   "Corporation Enrollment by Grade, 2006-2026",
+   "Indiana Department of Education",
+   "2026",
+   "https://www.in.gov/doe/files/corporation-enrollment-grade-2006-26.xlsx"
+  ],
+  "nces_fr": [
+   "District Details: Frontier School Corporation",
+   "National Center for Education Statistics, Common Core of Data",
+   "2026",
+   "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?Search=1&details=1&State=18&ID2=1803810"
+  ],
+  "sboa_fr_2024": [
+   "Financial Statement and Federal Compliance Audit Report of Frontier School Corporation, July 1, 2022 to June 30, 2024",
+   "Indiana State Board of Accounts",
+   "2025-03",
+   "https://www.in.gov/sboa/WebReports/10960A.pdf"
+  ]
+ }
+}

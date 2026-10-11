@@ -1,0 +1,221 @@
+{
+ "race_id": "in-school-board-hanover",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The Hanover Community School Corporation is based at 14525 Wicker Ave. in Cedar Lake {hcsc_board}. Its board races appear on ballots in Cedar Lake, in Hanover Township and in some St. John precincts {lc_sample_cl}{lc_sample_ht}{lc_sample_sj}. It runs Jane Ball, Lincoln and Red Cedars elementary schools, Hanover Central Middle School and Hanover Central High School {hcsc_agenda_oct26}. Federal (NCES) data compiled by Plain Schools show 2,831 students in 2024–25 {plainschools_hcsc}.",
+  "Superintendent (2026): Dr. Mary Tracy-MacAulay led the June 16, 2026 meeting, where board members thanked her as she left the district {hcsc_min_jun26}. By July 21, 2026, Phil Misecko, the former assistant superintendent, was superintendent and described the transition as 'a learning curve' {hcsc_min_jul26}{hcsc_admin}. Dr. John Zack became assistant superintendent of curriculum and instruction in July 2026 {hcsc_newstaff26}. The county's Aug. 13, 2026 officials directory still lists Tracy-MacAulay {lc_directory}.",
+  "The board has five members: one elected at large and two from each of Districts 1 and 2 {lc_directory}. The current members are President Tracy Haskell (at large), Vice President Scott Burdan (District 2), Secretary Aaron Kuzma (District 2), Tara Beilke (District 1) and Eric Valiska (District 1) {hcsc_board}{lc_directory}. Voters across the district vote in both district races: sample ballots for Cedar Lake, Hanover Township and St. John precincts all list District 1 and District 2 {lc_sample_cl}{lc_sample_ht}{lc_sample_sj}.",
+  "Seats on the 2026 ballot: one District 1 seat and one District 2 seat, each 'Vote For One (1) Only,' which matches the state list {lc_sample_cl}. Valiska holds the District 1 seat and Kuzma the District 2 seat, and both terms end Dec. 31, 2026 {lc_directory}. Both are running for reelection, each against one challenger {lc_candidates}.",
+  "Past results: in 2022 Valiska won District 1 with 1,834 votes, 31 more than Constance Sterkowitz (1,803), with Nichole Lebeter third (1,126). Kuzma won District 2 with 1,791 votes, ahead of Jeffrey Majewski (1,496) and three others {lc_results_2022}. Haskell (at large), Beilke (District 1) and Burdan (District 2) won in 2024, and their terms run through 2028 {lc_results_2024}{lc_directory}.",
+  "Operating referendum renewal (2025): on Nov. 4, 2025 voters approved renewing the district's operating referendum, 1,690 to 1,516 (52.71%) {lc_results_2025sp}. The renewal lasts eight years at a maximum rate of $0.29 and was projected to raise about $5.16 million a year. The planned uses are managing class sizes ($2.51 million), transportation ($1.48 million), student safety and security ($760,000) and teacher retention ($410,000). The levy was first approved in 2015 and extended in 2020 {dlgf_hcsc_plan}.",
+  "Bonds and 2027 budget (fall 2026): the board scheduled hearings for Sept. 8 and Oct. 13, 2026 on a preliminary determination to issue general obligation bonds. The bonds would pay for districtwide HVAC, boiler and chiller work, paving, flooring, building and athletic facility improvements, and buses {hcsc_notice_1028}. A related additional appropriation of $3,605,000 was set for the Oct. 13 hearing {hcsc_notice_approp}. The Oct. 13 agenda also includes the public hearing on the 2027 budget, levies and tax rates, the 2027–2029 capital projects plan and the 2027–2031 bus replacement plan {hcsc_agenda_oct26}. This guide found no district statement on the effect of the 2025 property-tax law (SEA 1).",
+  "Cell phones and discipline (June 2026): on June 16, 2026 the board voted 5–0 to adopt a replacement personal communication devices policy (5136). The minutes say the district 'took the lesser of the two options to make it easier on our children and their families.' Haskell said phones need to be allowed at school, especially for extracurricular activities, and Burdan said the matter was 'out of our control.' The board also revised its student discipline, suspension and expulsion, and search and seizure policies {hcsc_min_jun26}.",
+  "Other 2026 actions: in July 2026 the board approved a school resource officer agreement for 2026–27, the classified staff salary schedule and 2026–27 student fees. All votes were 3–0, with Beilke and Valiska not listed as present {hcsc_min_jul26}.",
+  "Forums: this guide found no candidate forums, questionnaires or news coverage of the 2026 Hanover school board races."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Eric Valiska",
+   "seat": "District 1",
+   "summary": "Incumbent; a social studies teacher at T.F. South High School, first elected in 2022 {hcsc_board}{lc_results_2022}.",
+   "website": null,
+   "background": [
+    "Has taught social studies at T.F. South High School since 2000 {hcsc_board}. Holds a bachelor's degree in history and secondary education from Illinois Wesleyan University and a master's degree in curriculum and instruction {hcsc_board}. Has lived in Cedar Lake since 2009 {hcsc_board}.",
+    "Serves as the board's liaison to the St. John Redevelopment Commission and the St. John Park Board {hcsc_agenda_oct26}."
+   ],
+   "path_to_ballot": [
+    "Filed May 20, 2026 as a Republican, and 'Republican Party' is printed under his name on the ballot {lc_candidates}{lc_sample_cl}{in_list}. In 2022 he was listed as nonpartisan and won the seat by 31 votes {lc_results_2022}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member. At the June 16, 2026 meeting he moved to accept a set of donations and seconded approval of summer pay rates for certified staff; both passed 5–0 {hcsc_min_jun26}. He also said how much Tracy-MacAulay cared about everyone {hcsc_min_jun26}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "No stated positions on the bond projects, the 2027 budget or SEA 1 found."
+   ]
+  },
+  {
+   "ballot_name": "Ryan C Eckart",
+   "seat": "District 1",
+   "summary": "Challenger for the District 1 seat; not a current board member {lc_candidates}{hcsc_board}.",
+   "website": null,
+   "background": [
+    "No background information found."
+   ],
+   "path_to_ballot": [
+    "Filed June 18, 2026 as nonpartisan; 'Non-Partisan' is printed under his name on the ballot {lc_candidates}{lc_sample_cl}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "Occupation and ties to the schools not found."
+   ]
+  },
+  {
+   "ballot_name": "Aaron Kuzma",
+   "seat": "District 2",
+   "summary": "Incumbent and board secretary; a union electrician foreman and registered nurse, first elected in 2022 {hcsc_board}{lc_results_2022}.",
+   "website": null,
+   "background": [
+    "Works as a foreman electrician with IBEW Local 701 in the Chicago area after completing its five-year apprenticeship {hcsc_board}. Holds an associate degree in nursing from Purdue University and is a licensed registered nurse {hcsc_board}. Is a U.S. Army infantry veteran and a 1992 graduate of Lake Central High School {hcsc_board}. Has lived in the Hanover community since 2011 {hcsc_board}.",
+    "Serves as the board's liaison to the St. John Town Council {hcsc_agenda_oct26}."
+   ],
+   "path_to_ballot": [
+    "Filed June 4, 2026 as a Republican, and 'Republican Party' is printed under his name on the ballot {lc_candidates}{lc_sample_cl}{in_list}. In 2022 he was listed as nonpartisan and won District 2 with 35.09% in a five-way race {lc_results_2022}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member and serves as secretary {hcsc_board}. In July 2026 he moved to approve the consent agenda and an overnight basketball camp, and both passed 3–0 {hcsc_min_jul26}. In June 2026 he thanked Tracy-MacAulay for her 'guidance and mentorship' {hcsc_min_jun26}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "No stated positions on the bond projects, the 2027 budget or SEA 1 found."
+   ]
+  },
+  {
+   "ballot_name": "Jeffrey (Juice) Majewski",
+   "seat": "District 2",
+   "summary": "Challenger for the District 2 seat; not a current board member {lc_candidates}{hcsc_board}.",
+   "website": null,
+   "background": [
+    "No background information found."
+   ],
+   "path_to_ballot": [
+    "Filed June 16, 2026 as a Republican, and 'Republican Party' is printed under his name on the ballot {lc_candidates}{lc_sample_cl}{in_list}.",
+    "County results list a Jeffrey Majewski who finished second in the 2022 District 2 race with 1,496 votes, and a Jeffrey Dale Majewski who lost the 2024 District 2 race to Scott Burdan, 4,451 to 3,953 {lc_results_2022}{lc_results_2024}. The name and seat match, but this guide did not confirm that these are the same person."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "Occupation and ties to the schools not found.",
+    "Not confirmed that he is the Jeffrey Majewski who ran in 2022 and 2024."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "hcsc_board": [
+   "Board of Trustees",
+   "Hanover Community School Corporation",
+   "2026-10",
+   "https://www.hanover.k12.in.us/our-district/board-of-trustees"
+  ],
+  "hcsc_admin": [
+   "Administration",
+   "Hanover Community School Corporation",
+   "2026-10",
+   "https://www.hanover.k12.in.us/departments-home/administration"
+  ],
+  "hcsc_newstaff26": [
+   "Welcome to Our New Staff at Hanover Schools for the 2026-2027 School Year",
+   "Hanover Community School Corporation",
+   "2026-08-13",
+   "https://www.hanover.k12.in.us/default-post-page/~board/hcsc-news/post/welcome-to-our-new-staff-at-hanover-schools-for-the-2026-2027-school-year"
+  ],
+  "hcsc_min_jun26": [
+   "Business Meeting Minutes, June 16, 2026",
+   "Hanover Community School Corporation",
+   "2026-06-16",
+   "https://www.hanover.k12.in.us/fs/resource-manager/view/06fd3d2a-c355-47f4-8785-bffef979c410"
+  ],
+  "hcsc_min_jul26": [
+   "Business Meeting Minutes, July 21, 2026",
+   "Hanover Community School Corporation",
+   "2026-07-21",
+   "https://www.hanover.k12.in.us/fs/resource-manager/view/f8135c24-db45-4627-b77a-16c5a2849426"
+  ],
+  "hcsc_agenda_oct26": [
+   "Business Meeting Agenda, Oct. 13, 2026",
+   "Hanover Community School Corporation",
+   "2026-10-09",
+   "https://www.hanover.k12.in.us/fs/resource-manager/view/0746095e-66ac-4a89-931d-baab1a192f94"
+  ],
+  "hcsc_notice_1028": [
+   "Notice of 1028/Preliminary Determination Public Hearings (2026 GO Bonds)",
+   "Hanover Community School Corporation",
+   "2026-08-19",
+   "https://www.hanover.k12.in.us/fs/resource-manager/view/b437700f-5072-4c11-9ac1-3cf8afe65714"
+  ],
+  "hcsc_notice_approp": [
+   "Notice of Additional Appropriation Hearing (2026 GO Bonds)",
+   "Hanover Community School Corporation",
+   "2026-08-19",
+   "https://www.hanover.k12.in.us/fs/resource-manager/view/d03ef0c4-dbcd-4353-be78-be01244f03de"
+  ],
+  "plainschools_hcsc": [
+   "Hanover Community School Corp (enrollment, NCES 2024-25)",
+   "Plain Schools",
+   "2026-10",
+   "https://plainschools.com/districts/hanover-community-school-corp-in"
+  ],
+  "dlgf_hcsc_plan": [
+   "Hanover Community School Corporation Proposed Revenue Spending Plan (operating referendum renewal, Nov. 2025)",
+   "Indiana Department of Local Government Finance",
+   "2025",
+   "https://www.in.gov/dlgf/files/referendum-documentation2/Referendum-Spending-Plan-Operating-Hanover-School-Corporation.pdf"
+  ],
+  "lc_results_2025sp": [
+   "2025 November Special Election Summary (Lake Central and Hanover)",
+   "Lake County Board of Elections and Registration",
+   "2025-11-17",
+   "https://lakecountyin.gov/departments/voters/election-results-c/2025LakeCentralAndHanoverElectionResults/Lake_ElecSumm_All.htm"
+  ],
+  "lc_directory": [
+   "2026 Lake County Public Officials Directory (School Corporations, p. 38)",
+   "Lake County, Indiana",
+   "2026-08-13",
+   "https://lakecountyin.gov/dA/8ee74908-61bf-46b8-8c34-a648d6d3ed59/pdfFile/2026%2008%2013%20LAKE%20COUNTY%20PUBLIC%20OFFICIALS%20DIRECTORY.pdf"
+  ],
+  "lc_candidates": [
+   "2026 General Election Candidate List (as of Aug. 11, 2026)",
+   "Lake County Board of Elections and Registration",
+   "2026-08-11",
+   "https://lakecountyin.gov/departments/voters/election-candidates/2026_General_Candidate_List_08_11_26.xlsx"
+  ],
+  "lc_sample_cl": [
+   "2026 General Election sample ballot, Precinct 015-CL 02 (Cedar Lake)",
+   "Lake County Board of Elections and Registration",
+   "2026-09",
+   "https://lakecountyin.gov/departments/voters/2026-ELECTION/2026-General-Election-Sample-Ballots/Pct%20015-CL%2002%20Act%2001-GENERAL.pdf"
+  ],
+  "lc_sample_ht": [
+   "2026 General Election sample ballot, Precinct 217-HT 01 (Hanover Township)",
+   "Lake County Board of Elections and Registration",
+   "2026-09",
+   "https://lakecountyin.gov/departments/voters/2026-ELECTION/2026-General-Election-Sample-Ballots/Pct%20217-HT%2001%20Act%2001-GENERAL.pdf"
+  ],
+  "lc_sample_sj": [
+   "2026 General Election sample ballot, Precinct 298-SJ 05 (St. John)",
+   "Lake County Board of Elections and Registration",
+   "2026-09",
+   "https://lakecountyin.gov/departments/voters/2026-ELECTION/2026-General-Election-Sample-Ballots/Pct%20298-SJ%2005%20Act%2001-GENERAL.pdf"
+  ],
+  "lc_results_2022": [
+   "2022 General Election Summary",
+   "Lake County Board of Elections and Registration",
+   "2022-11",
+   "https://lakecountyin.gov/departments/voters/election-results-c/2022GeneralElectionResults/Lake_ElecSumm_All.htm"
+  ],
+  "lc_results_2024": [
+   "2024 General Election Summary",
+   "Lake County Board of Elections and Registration",
+   "2024-11",
+   "https://lakecountyin.gov/departments/voters/election-results-c/2024GeneralElectionResults/Lake_ElecSumm_All.htm"
+  ]
+ }
+}
