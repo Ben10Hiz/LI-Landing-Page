@@ -1,0 +1,116 @@
+{
+ "race_id": "in-school-board-mitchell",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The district: Mitchell Community Schools, based in Mitchell in Lawrence County, runs Mitchell High School, Mitchell Junior High School, Burris and Hatfield elementary schools and the Bluejackets Virtual Academy {mcs_home}. State enrollment data show 1,432 students in 2026, down from 1,490 in 2022 {idoe_enroll}. Todd Tanksley is superintendent {mcs_home}. WBIW reports that he took the post in early 2025 {wbiw_realestate}.",
+  "Board: the Board of Trustees has five members. Patrick Redman, Steve Burton and Kyle Endris serve terms from January 1, 2025 to December 31, 2028. Christopher Shaw and Krystal Shetler serve terms from January 1, 2023 to December 31, 2026 {mcs_board}{wbiw_exec_sep}. Shetler is board president {wbiw_exec_aug27}. State results list seats by area: District 1 (Spice Valley South), District 2 (Marion Township) and District 3 (Bono Township) {enr_2024}.",
+  "Seats on the 2026 ballot: TWO seats, both in District 2 (Marion Township), the seats now held by Shetler and Shaw {wbiw_filing_jun15}{wbiw_filing_jun17}{mcs_board}. The state list shows 'vote for 1', but WBIW reported that two District 2 seats are up for election {in_list}{wbiw_filing_jun17}. Shetler and Shaw won both seats in 2022, when state results listed the race as 'Mitchell School Board' with two seats: Shetler had 1,801 votes and Shaw 1,246, ahead of three other candidates {enr_2022}. The state's 2024 results also list a two-seat District 2 race, with Steve Burton and Dwight Dunbar marked as winners. Dunbar is not on the current five-member board, and this guide could not reconcile the seat counts {enr_2024}{mcs_board}. Shetler is running for re-election and Shaw is not on the 2026 ballot {in_list}. Voters should check their sample ballot for how many candidates to choose.",
+  "Party labels: Shetler and Tim Stillions are listed as Republicans, and Danny E. Reynolds is listed without a party {in_list}{incitizen_list}. WBIW noted that 2026 is the first year Indiana school board candidates may run under a party label {wbiw_filing_jun17}. All 2022 Mitchell candidates ran without party labels {enr_2022}.",
+  "Budget: the board held a 2027 budget hearing on August 24, 2026 and approved the 2027 budget 5-0 on September 14, 2026 {mcs_min_2026_08_10}{mcs_min_2026_09_14}. In January 2026 it took up a financial consulting contract with Stifel, Nicolaus & Co., and in May 2026 it heard a presentation from a Stifel financial adviser on the district's finances {wbiw_reorg_jan2026}{wbiw_finance_may2026}. This guide found no public statement from the board on how the 2025 property-tax law (SEA 1) affects Mitchell's budget. Mitchell is not listed among districts with referendums on the November 2026 ballot {dlgf_ref}.",
+  "Academics: in October 2026 the Indiana Department of Education awarded Mitchell a Next Generation School Improvement Grant of $4.5 million, according to State Rep. Chris May. That is $500,000 for a 2026-27 planning year and $4 million over the following three years {wbiw_may_grant}. The program serves schools identified for Comprehensive or Targeted Support and Improvement, and Mitchell was one of four recipients out of 47 applicants {wbiw_may_grant}. The district says the grant will focus on literacy, math and teaching in grades K-8 {wbiw_nextgen}.",
+  "COSMOS partnership: Mitchell has been part of COSMOS, a partnership with Shoals and Orleans schools for shared courses, dual credit and career pathways {wbiw_cosmos_2026}. The board held a special session on July 27, 2026 to consider a COSMOS agreement {wbiw_cosmos_2026}. Shoals board minutes from August 2026 report that 'Mitchell School will be leaving COSMOS next year' {sh_min_2026_08_13}. At the September 14, 2026 meeting a parent spoke 'with concerns over an FFA and Cosmos program at MHS' {mcs_min_2026_09_14}. This guide did not find the Mitchell board's own record of its COSMOS decision.",
+  "Other 2026 decisions: the board held a March 2026 executive session on the possible purchase or lease of property {wbiw_realestate}. It voted in July 2026 on hiring a food-service management company {wbiw_food_jul2026}. In September 2026 it approved a new school bus under its bus replacement plan and a revised 2026-27 calendar {mcs_min_2026_09_14}.",
+  "Forums: this guide found no candidate forum, questionnaire or news profile for this race."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Danny E. Reynolds",
+   "seat": "District 2, Marion Township",
+   "summary": "Challenger for one of two District 2 seats, listed without a party {in_list}{wbiw_filing_jun17}.",
+   "website": null,
+   "background": [
+    "This guide found no campaign biography or news profile for this candidate."
+   ],
+   "path_to_ballot": [
+    "Filed on June 15, 2026, according to a list compiled from state filings {incitizen_list}.",
+    "Listed without a party on the state list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign website, questionnaire, forum answers or news coverage found.",
+    "Occupation, ties to the district and stated positions unknown.",
+    "No campaign finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Krystal Shetler",
+   "seat": "District 2, Marion Township",
+   "summary": "Incumbent and board president, elected in 2022 and listed as a Republican {mcs_board}{wbiw_exec_aug27}{enr_2022}{in_list}.",
+   "website": null,
+   "background": [
+    "Board member since January 1, 2023 {mcs_board}. As board president she issues meeting notices and chairs meetings {wbiw_exec_aug27}{mcs_min_2026_09_14}.",
+    "This guide found no other biography (occupation or community roles) in sources it could read."
+   ],
+   "path_to_ballot": [
+    "Elected in 2022 with the most votes (1,801) in a five-candidate race for two seats, listed as 'Krystal A Shetler' with no party label {enr_2022}.",
+    "Filed for re-election on May 19, 2026 and is listed as a Republican {incitizen_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member and its president {wbiw_exec_aug27}. This guide found no public statements from her about the board's record.",
+    "At the September 14, 2026 meeting, which she chaired, the board approved the 2027 budget, a school bus purchase and a revised school calendar, each by a 5-0 vote {mcs_min_2026_09_14}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign website, questionnaire, forum answers or news coverage found.",
+    "Occupation and community roles not found.",
+    "Her vote on the 2026 COSMOS agreement not found.",
+    "No campaign finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Tim Stillions",
+   "seat": "District 2, Marion Township",
+   "summary": "Challenger for one of two District 2 seats, listed as a Republican {in_list}{wbiw_filing_jun17}.",
+   "website": null,
+   "background": [
+    "This guide found no campaign biography or news profile for this candidate."
+   ],
+   "path_to_ballot": [
+    "Filed on June 12, 2026, according to a list compiled from state filings {incitizen_list}.",
+    "Listed as a Republican on the state list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign website, questionnaire, forum answers or news coverage found.",
+    "Occupation, ties to the district and stated positions unknown.",
+    "No campaign finance reports found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "mcs_home": ["Mitchell Community Schools home page", "Mitchell Community Schools", "2026-10", "https://www.mitchell.k12.in.us/"],
+  "mcs_board": ["Board of Education", "Mitchell Community Schools", "2026-10", "https://www.mitchell.k12.in.us/page/board-of-education"],
+  "mcs_min_2026_08_10": ["Regular Session agenda, August 10, 2026 (posted as Board Minutes)", "Mitchell Community Schools", "2026-08-10", "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/2411/Mcs/80977281-3644-4b83-99f9-d22e27719a78/Board-Minutes-for-8-10-26.pdf"],
+  "mcs_min_2026_09_14": ["Board Minutes, September 14, 2026 (awaiting board signatures)", "Mitchell Community Schools", "2026-09-14", "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/2411/Mcs/8b964557-9653-4f00-aaa1-0c5a142b6934/Board-Minutes-September-14%2C-2026.pdf"],
+  "sh_min_2026_08_13": ["Board Minutes, August 13, 2026", "Shoals Community School Corporation", "2026-08-13", "https://www.shoals.k12.in.us/fs/resource-manager/view/1dcd477b-c231-4cff-8aa5-a1722f4306f4"],
+  "idoe_enroll": ["Corporation Enrollment by Grade, 2006-2026", "Indiana Department of Education", "2026", "https://www.in.gov/doe/files/corporation-enrollment-grade-2006-26.xlsx"],
+  "enr_2022": ["2022 General Election Results (School Board Member)", "Indiana Election Division", "2022-11", "https://enr.indianavoters.in.gov/archive/2022General/index.html"],
+  "enr_2024": ["2024 General Election Results (School Board Member)", "Indiana Election Division", "2024-11", "https://enr.indianavoters.in.gov/archive/2024General/index.html"],
+  "incitizen_list": ["2026 Indiana General Election School Board Candidate List", "The Indiana Citizen", "2026-08", "https://indianacitizen.org/2026-indiana-general-election-school-board-candidate-list/"],
+  "wbiw_filing_jun15": ["Candidate filing deadline approaches for Lawrence County School Board seats", "WBIW", "2026-06-15", "https://www.wbiw.com/2026/06/15/candidate-filing-deadline-approaches-for-lawrence-county-school-board-seats/"],
+  "wbiw_filing_jun17": ["Filing deadline is Thursday for Lawrence County School Boards under new Indiana party affiliation law", "WBIW", "2026-06-17", "https://www.wbiw.com/2026/06/17/filing-deadline-is-thursday-for-lawrence-county-school-boards-under-new-indiana-party-affiliation-law/"],
+  "wbiw_exec_sep": ["Mitchell Community School Board schedules two September Executive Sessions", "WBIW", "2026-09-02", "https://www.wbiw.com/2026/09/02/mitchell-community-school-board-schedules-two-september-executive-sessions/"],
+  "wbiw_exec_aug27": ["Mitchell Community Schools Board of Trustees schedules executive session for August 27", "WBIW", "2026-08-26", "https://www.wbiw.com/2026/08/26/mitchell-community-schools-board-of-trustees-schedules-executive-session-for-august-27/"],
+  "wbiw_realestate": ["Mitchell School Board sets executive session for real estate strategy and legal counsel", "WBIW", "2026-03-12", "https://www.wbiw.com/2026/03/12/mitchell-school-board-sets-executive-session-for-real-estate-strategy-and-legal-counsel/"],
+  "wbiw_reorg_jan2026": ["Mitchell Community Schools Board of Trustees to undergo annual reorganization at Monday meeting", "WBIW", "2026-01-12", "https://www.wbiw.com/2026/01/12/mitchell-community-schools-board-of-trustees-to-undergo-annual-reorganization-at-monday-meeting/"],
+  "wbiw_finance_may2026": ["Mitchell Community Schools Board to discuss finances and personnel matters", "WBIW", "2026-05-13", "https://www.wbiw.com/2026/05/13/mitchell-community-schools-board-to-discuss-finances-and-personnel-matters/"],
+  "wbiw_food_jul2026": ["Mitchell Community Schools Board schedules special session and closed executive meeting for July 7", "WBIW", "2026-06-23", "https://www.wbiw.com/2026/06/23/mitchell-community-schools-board-schedules-special-session-and-closed-executive-meeting-for-july-7/"],
+  "wbiw_cosmos_2026": ["Mitchell Community Schools Board to hold special session July 27 to consider COSMOS agreement", "WBIW", "2026-07-21", "https://www.wbiw.com/2026/07/21/mitchell-community-schools-board-to-hold-special-session-july-27-to-consider-cosmos-agreement/"],
+  "wbiw_may_grant": ["Rep. May: State awards Mitchell Community Schools with improvement grant", "WBIW", "2026-10-02", "https://www.wbiw.com/2026/10/02/rep-may-state-awards-mitchell-community-schools-with-improvement-grant/"],
+  "wbiw_nextgen": ["Major Milestone for Mitchell Schools: District secures transformative state grant to shape future of K-8 education", "WBIW", "2026-10-09", "https://www.wbiw.com/2026/10/09/major-milestone-for-mitchell-schools-district-secures-transformative-state-grant-to-shape-future-of-k-8-education/"],
+  "dlgf_ref": ["Referendum Information", "Indiana Department of Local Government Finance", "2026-10", "https://www.in.gov/dlgf/referendum-information/"]
+ }
+}

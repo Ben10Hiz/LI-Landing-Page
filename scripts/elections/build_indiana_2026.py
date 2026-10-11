@@ -173,6 +173,7 @@ SEAT_OVERRIDES = {
     "Henry Blue River Valley School Board, At Large 2": 2,  # Henry County candidate list
     "Harrison Lanesville School Board, At Large": 2,  # Harrison County list / sample ballot
     "Nettle Creek School Board, At Large (Wayne-Henry)": 2,  # Western Wayne News
+    "Mitchell Community School Board, District 2, Marion Township": 2,  # WBIW
 }
 
 
