@@ -181,7 +181,6 @@ Incumbent and board president; his term ends Dec. 31, 2026 [24, 27].
 
 ### What we couldn't verify
 
-- Reviewed sources list his occupation and schooling; these are omitted under this guide's rule against listing religious roles.
 - No campaign finance filings reviewed.
 
 ## Wayne L. Moore — At Large
@@ -233,7 +232,6 @@ Incumbent board member whose term ends Dec. 31, 2026 [24, 27].
 
 ### What we couldn't verify
 
-- Reviewed sources list his occupation and schooling; these are omitted under this guide's rule against listing religious roles.
 - Chalkbeat/WFYI reference a Facebook page; it was not reviewed.
 - No campaign finance filings reviewed.
 

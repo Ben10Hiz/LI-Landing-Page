@@ -89,7 +89,6 @@ Incumbent and past board president, first elected in 2018, seeking a third term 
 
 ### What we couldn't verify
 
-- Professional background is not described here under the guide's rule against listing religious roles.
 - No campaign website found; no campaign finance totals found.
 
 ## Brandon Bowman — At Large
