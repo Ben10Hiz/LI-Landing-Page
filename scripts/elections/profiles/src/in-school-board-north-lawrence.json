@@ -1,0 +1,142 @@
+{
+ "race_id": "in-school-board-north-lawrence",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The district: North Lawrence Community Schools, based in Bedford, is the larger of Lawrence County's two school corporations {nl_home}{wbiw_filing_jun15}. It runs Bedford North Lawrence High School, the North Lawrence Career Center, Bedford Middle School, five elementary schools (Dollens, Lincoln, Needmore, Parkview and Shawswick), Playful Pathways and Gateway Academy {nl_home}. Bedford North Lawrence High School consolidated seven former high schools: Bedford, Tunnelton, Shawswick, Needmore, Fayetteville, Oolitic and Heltonville {wiki_bnl}. Federal data list 3,517 students in 2023–24 {acd_enroll}.",
+  "Superintendent: the district's board page lists Kevin Yancey as superintendent {nl_members}. A WBIW back-to-school story in August 2026 attributed the district's message to 'Superintendent Dr. Adam Hall' while captioning a photo of Yancey as superintendent; this guide could not confirm a change in leadership {wbiw_back}. The board bought out the contract of former superintendent Ty Mungle by a 5–2 vote in January 2023, less than two weeks after four of the members now up for election took office {tm_2023_buyout}{nl_members}.",
+  "The board has seven members serving staggered four-year terms, with three elected in presidential election years and four two years later {nl_districts}. Current members are Adam Parsley (president), Kirsten Collier (vice president), Justin Sokeland (secretary), Dr. Wendy Miller, Jeremy Gilbert, Barb Miller and Scott King; the terms of Parsley, Collier, Barb Miller and King end December 31, 2026 {nl_members}. Members are elected from numbered districts, and candidates file with signatures from registered voters in the school district where they live {wbiw_filing_jun17}{tm_2022_filing}.",
+  "Seats on the 2026 ballot: WBIW reported before the June 18 filing deadline that four seats were up, one each in Districts 1, 2, 3 and 5 {wbiw_filing_jun15}{wbiw_filing_jun17}. The state candidate list shows races only in Districts 2, 3 and 5, each electing one member, so this guide found no candidate on the ballot for District 1 {in_list}. In 2022, Adam P. Parsley filed in District 2 and Scott C. King in District 3 {tm_2022_filing}. Parsley is not on the 2026 ballot, so Carson Boady (Republican) is unopposed for District 2; King (Republican) is unopposed for re-election in District 3; and in District 5, Barbara Miller (Nonpartisan) faces Zachary 'Zac' Crane (Republican) {in_list}. This guide did not confirm which of the two remaining 2022-elected members, Collier and Barb Miller, represents District 1 and which District 5.",
+  "Budget and SEA 1: in an April 2025 statement after the property-tax law was signed, the board and administration said cuts would fall on the Operations Fund over the next three years, that the district's recent work on its finances left it 'perhaps better positioned than many school systems,' and that the superintendent would bring recommendations to the board with community input; increasing teacher pay was described as a primary board goal {wbiw_sb1}.",
+  "Facilities: the same statement reported a facilities study begun in March 2025 to be completed by October 1, 2025, and listed roof replacements at Shawswick, Lincoln, Parkview, Needmore and BNL, HVAC and lighting work, and 12 new buses {wbiw_sb1}. In July 2025 the district's building corporation met to approve a lease agreement and bond issue {wbiw_bond}.",
+  "Enrollment: the district reported a slight increase in 2024–25 after several years of decline, noting that the state-funded Education Fund depends on enrollment {wbiw_sb1}.",
+  "Other 2025–2026 board business: the board held a public work session on a district strategic plan in August 2025, held a public meeting in November 2025 on a tentative contract with the teachers' association, and scheduled October 2026 sessions on extracurricular pay contracts with the North Lawrence Education Association {wbiw_strategic}{wbiw_tentative}{wbiw_oct_meeting}.",
+  "Forums: this guide found no 2026 candidate forum, questionnaire or news profile for these races. The Times-Mail (Bedford) could not be accessed for this guide."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Carson Boady",
+   "seat": "District 2",
+   "summary": "Unopposed candidate for the District 2 seat held by board president Adam Parsley, who is not on the ballot {in_list}{tm_2022_filing}{nl_members}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Filed by petition for District 2 and is listed as a Republican on the state candidate list; Indiana has no school board primary {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "This guide found no statement from this candidate on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No news coverage, candidate forum, questionnaire, website or social media statements from this candidate were found.",
+    "Occupation, ties to the schools and reasons for running could not be confirmed."
+   ]
+  },
+  {
+   "ballot_name": "Scott King",
+   "seat": "District 3",
+   "summary": "Incumbent, unopposed for re-election in District 3 {nl_members}{tm_2022_filing}{in_list}.",
+   "website": null,
+   "background": [
+    "Filed for District 3 in 2022 as Scott C. King and has served on the board since January 2023 {tm_2022_filing}{nl_members}."
+   ],
+   "path_to_ballot": [
+    "Filed by petition for District 3 and is listed as a Republican on the state candidate list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {nl_members}. In January 2023 he made the motion to buy out superintendent Ty Mungle's contract, which passed 5–2; at that meeting he said, 'I don't want you to confuse my passion and being focused for this community as being emotional' {tm_2023_buyout}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No 2026 interview, forum, questionnaire or campaign statement was found.",
+    "Occupation and ties to the schools could not be confirmed.",
+    "His votes on 2025–2026 decisions (budget, teacher contract, facilities) were not reported in sources this guide could reach."
+   ]
+  },
+  {
+   "ballot_name": "Barbara Miller",
+   "seat": "District 5",
+   "summary": "Appears to be board member Barb Miller, whose term ends in 2026; running in District 5 against Zachary 'Zac' Crane {nl_members}{in_list}.",
+   "website": null,
+   "background": [
+    "The district lists Barb Miller as a board member with a term from January 1, 2023 to December 31, 2026 {nl_members}."
+   ],
+   "path_to_ballot": [
+    "Filed by petition for District 5 and is listed as Nonpartisan on the state candidate list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "If she is the sitting member, she is a current board member {nl_members}. This guide found no statement from her on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "This guide could not confirm from a fetched source that ballot candidate Barbara Miller is the same person as board member Barb Miller, or that Barb Miller holds the District 5 seat.",
+    "No news coverage, candidate forum, questionnaire, website or social media statements were found.",
+    "Occupation and ties to the schools could not be confirmed."
+   ]
+  },
+  {
+   "ballot_name": "Zachary \"Zac\" Crane",
+   "seat": "District 5",
+   "summary": "Challenger for the District 5 seat, running against Barbara Miller {in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Filed by petition for District 5 and is listed as a Republican on the state candidate list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "This guide found no statement from this candidate on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No news coverage, candidate forum, questionnaire, website or social media statements from this candidate were found.",
+    "Occupation, ties to the schools and reasons for running could not be confirmed."
+   ]
+  }
+ ],
+ "review_flags": [
+  {
+   "person": "Scott King",
+   "category": "other",
+   "status": "held",
+   "summary": "Former superintendent Ty Mungle sued North Lawrence Community Schools, the school board and then-board president Dr. Wendy Miller in Lawrence Superior Court on April 12, 2024, alleging breach of contract, defamation and violation of Indiana's blacklisting law; the complaint cited a May 11, 2023 board meeting at which Wendy Miller allegedly agreed with board member Scott King that terminating Mungle was the correct decision. The case was mediated May 16, 2025 and settled; terms were not in court documents {wbiw_mungle}. King made the January 2023 motion to buy out Mungle's contract {tm_2023_buyout}.",
+   "note": "King was not named as a defendant; the statements at issue are attributed to Wendy Miller, who is not on the 2026 ballot. The settlement was with the board, which included King and Barb Miller at the time. No response from King was found. Editors should decide whether any of this belongs in the profile."
+  }
+ ],
+ "sources": {
+  "nl_home": ["North Lawrence Community Schools home page", "North Lawrence Community Schools", "2026-10", "https://www.northlawrencecommunityschools.org/"],
+  "nl_members": ["School Board Members", "North Lawrence Community Schools", "2026-10", "https://www.northlawrencecommunityschools.org/school-board/school-board-members"],
+  "nl_districts": ["School Board Districts", "North Lawrence Community Schools", "2026-10", "https://www.northlawrencecommunityschools.org/school-board/school-board-districts"],
+  "wiki_bnl": ["Bedford North Lawrence High School", "Wikipedia", "2026-10", "https://en.wikipedia.org/wiki/Bedford_North_Lawrence_High_School"],
+  "acd_enroll": ["North Lawrence Com Schools (NCES Common Core of Data, 2023-24)", "AutoCalData", "2026-10", "https://autocaldata.com/calendars/us/indiana/north-lawrence-com-schools"],
+  "wbiw_filing_jun15": ["Candidate filing deadline approaches for Lawrence County School Board seats", "WBIW", "2026-06-15", "https://www.wbiw.com/2026/06/15/candidate-filing-deadline-approaches-for-lawrence-county-school-board-seats/"],
+  "wbiw_filing_jun17": ["Filing deadline is Thursday for Lawrence County School Boards under new Indiana party affiliation law", "WBIW", "2026-06-17", "https://www.wbiw.com/2026/06/17/filing-deadline-is-thursday-for-lawrence-county-school-boards-under-new-indiana-party-affiliation-law/"],
+  "wbiw_back": ["NLCS Superintendent welcomes students back for new school year", "WBIW", "2026-08-04", "https://www.wbiw.com/2026/08/04/nlcs-superintendent-welcomes-students-back-for-new-school-year/"],
+  "wbiw_oct_meeting": ["NLCS Board schedules public hearing, work session, and executive meeting for October", "WBIW", "2026-10-01", "https://www.wbiw.com/2026/10/01/nlcs-board-schedules-public-hearing-work-session-and-executive-meeting-for-october/"],
+  "wbiw_sb1": ["NLCS issues response to happenings in Indiana State Senate", "WBIW", "2025-04-25", "https://www.wbiw.com/2025/04/25/nlcs-issues-response-to-happenings-in-indiana-state-senate/"],
+  "wbiw_bond": ["North Lawrence Community Schools Board of Trustees will convene to discuss lease and bond approval", "WBIW", "2025-06-25", "https://www.wbiw.com/2025/06/25/north-lawrence-community-schools-board-of-trustees-will-convene-to-discuss-lease-and-bond-approval/"],
+  "wbiw_strategic": ["NLCS School Board to hold public work session on Strategic Plan and 2026-2027 Calendar", "WBIW", "2025-08-06", "https://www.wbiw.com/2025/08/06/nlcs-school-board-to-hold-public-work-session-on-strategic-plan-and-2026-2027-calendar/"],
+  "wbiw_tentative": ["NLCS Board to discuss tentative teachers' union bargaining agreement", "WBIW", "2025-11-04", "https://www.wbiw.com/2025/11/04/nlcs-board-to-discuss-tentative-teachers-union-bargaining-agreement/"],
+  "wbiw_mungle": ["Settlement reached in Dr. Thomas Mungle's lawsuit against North Lawrence Community School Corporation", "WBIW", "2025-06-09", "https://www.wbiw.com/2025/06/09/settlement-reached-in-dr-thomas-mungles-lawsuit-against-north-lawrence-community-school-corporation/"],
+  "tm_2022_filing": ["Four more file for upcoming school board races", "The Times-Mail (via Yahoo News)", "2022-08-08", "https://www.yahoo.com/news/four-more-file-upcoming-school-150140719.html"],
+  "tm_2023_buyout": ["North Lawrence school board votes to end contract of superintendent Ty Mungle", "The Times-Mail (via Yahoo News)", "2023-01-23", "https://www.yahoo.com/news/north-lawrence-school-board-votes-101910368.html"]
+ }
+}

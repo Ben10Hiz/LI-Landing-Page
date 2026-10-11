@@ -1,0 +1,141 @@
+{
+ "race_id": "in-school-board-north-knox",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The district: North Knox School Corporation serves northern Knox County, covering Busseron, Vigo, Washington and Widner townships and the towns of Bicknell, Bruceville, Edwardsport, Oaktown and Sandborn, with its offices on State Road 159 near Bicknell {wiki_nk}{nk_board}. It formed in the 1963–64 school year from the merger of schools in Bicknell, Freelandville, Bruceville, Oaktown, Edwardsport, Sandborn, Westphalia and Emison {sc_demo_mar}. It runs three schools (North Knox Primary, North Knox Intermediate and North Knox Junior/Senior High) and describes itself as serving about 1,100 students in grades K–12; Dr. Darrel Bobe is superintendent {nk_site}.",
+  "The board has five members: Elaine Pepmeier (president), Michael McKinley (vice president), Donnie Gilmore (secretary), Max Nickless and Dustin O'Hara {nk_board}. Members are elected from five lettered districts: District A (Busseron Township), District B (Widner Township) and District D (Washington Township) were on the ballot in 2022, and District C (Vigo Township outside Bicknell) and District E (Bicknell) in 2024 {sc_2022_seats}{sc_2024_filing}. Candidates file with 10 signatures from registered voters in their own district {sc_2022_seats}.",
+  "Seats on the 2026 ballot: three seats (Districts A, B and D), each electing one member, which matches the state list {in_list}{sc_2022_seats}. In 2022, McKinley (District A) and Pepmeier (District B) were re-elected without opposition and Gilmore won District D over incumbent Jared Saucerman {sc_2022_ballot}{sc_2022_results}. McKinley and Pepmeier are not on the 2026 ballot, so Districts A and B will have new members: Ashley Nicole Becher (Republican) is unopposed in District A, and Donald Osburn and Kara Chambers (both Republicans) are running in District B. Gilmore (Nonpartisan) is unopposed for re-election in District D {in_list}.",
+  "Budget and SEA 1 (2025–2026): in April 2025, Bobe told the board that the property-tax bill, as then written, would cut the Operations Fund by $243,000 in the first year, $259,000 in the second and $270,000 in the third, which he said would affect funding for projects such as roof and boiler replacements {sc_sb1_2025}. In August 2026 the board approved advertising a 2027 budget of about $19 million with a maximum tax rate of about $1.04 per $100 of assessed value; Bobe said the final rate is expected to be much closer to last year's 57 cents and that the district has about the seventh-lowest school tax rate in Indiana {sc_budget_aug}. Bobe said at the September 21 hearing that the state formula limits what the district can actually receive for operations to about $3.9 million; final adoption was scheduled for October 12 {sc_budget_sep}.",
+  "Enrollment: the 2027 education fund (about $10 million, at $7,868 per student) is budgeted on about 1,070 students, about 30 fewer than this year; Bobe called the decline part of a regional trend tied to homeschooling and online schooling, while noting the incoming kindergarten class is larger than the graduating class {sc_budget_aug}.",
+  "Facilities: a two-year renovation of the last original section of North Knox High School was ahead of schedule in February 2026 and will house expanded career programs, including welding, culinary arts, engineering, a law enforcement pathway and health-care careers with Good Samaritan Hospital {sc_construction}. The district's debt service fund pays for bonds that include the E-area renovation and the junior high gymnasium {sc_budget_sep}.",
+  "Former Edwardsport school (2026): the board approved a $319,898 low bid from Robinson Excavating in April to demolish the former North Knox East building, closed in 2011, and planned to transfer the land to the Town of Edwardsport {sc_demo_mar}{sc_demo_apr}. In August asbestos removal estimates rose by about $300,000; Bobe said 'I don't have $300,000 just to throw at it,' citing roofs and other obligations, and the board approved a mutual release from the contract, leaving the project on hold {sc_demo_aug}.",
+  "Release-time religious instruction (2026): after a May presentation by local organizers, the board in June approved a partnership with LifeWise Academy, a privately funded program that lets elementary students with parental permission leave campus during the school day for off-site religious instruction {sc_lifewise_may}{sc_lifewise_jun}.",
+  "Forums: this guide found no 2026 candidate forum, questionnaire or news profile for the North Knox races; the Vincennes Sun-Commercial had profiled candidates for the neighboring Vincennes Community School Corporation board by October 1 {sc_vcsc_profiles}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Ashley Nicole Becher",
+   "seat": "District A",
+   "summary": "Unopposed candidate for the District A (Busseron Township) seat now held by board vice president Michael McKinley, who is not on the ballot {in_list}{nk_board}{sc_2022_seats}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Filed by petition for District A and is listed as a Republican on the state candidate list; Indiana has no school board primary {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "This guide found no statement from this candidate on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No news coverage, candidate forum, questionnaire, website or social media statements from this candidate were found.",
+    "Occupation, ties to the schools and reasons for running could not be confirmed."
+   ]
+  },
+  {
+   "ballot_name": "Donald Osburn",
+   "seat": "District B",
+   "summary": "Candidate for the open District B (Widner Township) seat now held by board president Elaine Pepmeier, who is not on the ballot {in_list}{nk_board}{sc_2022_seats}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Filed by petition for District B and is listed as a Republican on the state candidate list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "This guide found no statement from this candidate on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No news coverage, candidate forum, questionnaire, website or social media statements from this candidate were found.",
+    "Occupation, ties to the schools and reasons for running could not be confirmed."
+   ]
+  },
+  {
+   "ballot_name": "Kara Chambers",
+   "seat": "District B",
+   "summary": "Candidate for the open District B (Widner Township) seat now held by board president Elaine Pepmeier, who is not on the ballot {in_list}{nk_board}{sc_2022_seats}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Filed by petition for District B and is listed as a Republican on the state candidate list {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "This guide found no statement from this candidate on the board's record."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No news coverage, candidate forum, questionnaire, website or social media statements from this candidate were found.",
+    "Occupation, ties to the schools and reasons for running could not be confirmed."
+   ]
+  },
+  {
+   "ballot_name": "Donnie Gilmore",
+   "seat": "District D",
+   "summary": "Incumbent and board secretary, unopposed for a second term in District D (Washington Township) {nk_board}{sc_2022_results}{in_list}.",
+   "website": null,
+   "background": [
+    "A 2006 graduate of North Knox High School and 2011 graduate of Butler University, where he studied mechanical engineering and mathematics and played football; plant manager at Sceptre, Inc. in Bicknell {sc_2022_gilmore}{sc_2022_results}.",
+    "Has also coached football, and said in 2022 that he had young children starting in the district's schools {sc_2022_gilmore}.",
+    "Won the District D seat in November 2022 with 61.7% of the vote, unseating incumbent Jared Saucerman; now serves as board secretary {sc_2022_results}{nk_board}."
+   ],
+   "path_to_ballot": [
+    "Filed by petition for District D and is listed as Nonpartisan on the state candidate list {in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "In 2022 he said one step toward easing the teacher shortage would be encouraging local high school students who plan to become teachers to return to North Knox: 'I don't know that I have the solution to the teacher shortage by any means, but I think encouraging the students coming up now, showing them the importance of coming back could be one step' {sc_2022_gilmore}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member and the board's secretary {nk_board}. As a 2022 challenger he said he was not seeking broad changes: 'it's more about a continuation of the hard work that the school corporation has done and carrying that on' {sc_2022_gilmore}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No 2026 interview, forum, questionnaire or campaign statement was found; the positions above are from his 2022 campaign.",
+    "His individual votes on 2025–2026 board decisions (budget, Edwardsport demolition, LifeWise Academy) were not reported."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "nk_site": ["North Knox School Corporation home page", "North Knox School Corporation", "2026-10", "https://www.nknox.k12.in.us/"],
+  "nk_board": ["Board of School Trustees", "North Knox School Corporation", "2026-10", "https://www.nknox.k12.in.us/nksc/board_of_school_trustees"],
+  "wiki_nk": ["North Knox School Corporation", "Wikipedia", "2026-10", "https://en.wikipedia.org/wiki/North_Knox_School_Corporation"],
+  "sc_2022_seats": ["Seven local school board seats up for grabs in 2022", "Vincennes Sun-Commercial", "2022-08-20", "https://www.suncommercial.com/news/article_41e4d6e6-7f7f-5e64-a7c9-d3a3bae4778e.html"],
+  "sc_2022_ballot": ["November ballot to see two school board races", "Vincennes Sun-Commercial", "2022-08-27", "https://www.suncommercial.com/news/article_39d252fd-9813-5059-b52a-136129d31ba5.html"],
+  "sc_2022_gilmore": ["Gilmore and Saucerman square off for NKSC board seat", "Vincennes Sun-Commercial", "2022-10-29", "https://www.suncommercial.com/news/article_3d2d83c0-fa71-5911-ae4d-8fbf31d18e05.html"],
+  "sc_2022_results": ["Bobe, Hutchison keep VCSC board seats", "Vincennes Sun-Commercial", "2022-11-09", "https://www.suncommercial.com/news/article_7c387237-96a2-5639-afb5-c4c08bd8c44e.html"],
+  "sc_2024_filing": ["Candidate filing now open", "Vincennes Sun-Commercial", "2024-01", "https://www.suncommercial.com/news/article_6b71f142-27e7-55dc-8ba5-5898525de13e.html"],
+  "sc_sb1_2025": ["NKSC approves summer schedules, talks impact of SB1", "Vincennes Sun-Commercial", "2025-04-16", "https://www.suncommercial.com/news/article_5f800ad0-9cc3-5a7d-bc52-b2d964e9610b.html"],
+  "sc_construction": ["Construction at North Knox High School ahead of schedule", "Vincennes Sun-Commercial", "2026-02-16", "https://www.suncommercial.com/news/article_8bceb1bb-b6e6-5a56-95d2-751be9109ab3.html"],
+  "sc_demo_mar": ["Edwardsport school to be demolished", "Vincennes Sun-Commercial", "2026-03-10", "https://www.suncommercial.com/news/article_eaa2731b-d356-51b3-bf3e-d485ecd3c301.html"],
+  "sc_demo_apr": ["NKSB awards demolition contract to lowest bidder", "Vincennes Sun-Commercial", "2026-04-15", "https://www.suncommercial.com/news/article_3d08666c-bc42-5066-84d9-4f8ca031df54.html"],
+  "sc_demo_aug": ["Demolition of old Edwardsport School delayed", "Vincennes Sun-Commercial", "2026-08-19", "https://www.suncommercial.com/news/article_76f6d780-560d-5ad1-a9a1-7dda25980dc2.html"],
+  "sc_lifewise_may": ["Religious education proposed to NKSB", "Vincennes Sun-Commercial", "2026-05-22", "https://www.suncommercial.com/news/article_29a312e4-ec27-5000-9fd5-c109f042af56.html"],
+  "sc_lifewise_jun": ["North Knox approves LifeWise Academy", "Vincennes Sun-Commercial", "2026-06-18", "https://www.suncommercial.com/article_eb0b941a-41c5-518a-9b63-ea79121b3180.html"],
+  "sc_budget_aug": ["NKSB approves advertising stable budget for 2027", "Vincennes Sun-Commercial", "2026-08-20", "https://www.suncommercial.com/news/article_6f3110cb-dfff-52b9-919a-00894a88a79d.html"],
+  "sc_budget_sep": ["North Knox moves forward with 2027 budget", "Vincennes Sun-Commercial", "2026-09-24", "https://www.suncommercial.com/news/article_e16b4d63-070f-56c1-aa8e-928f790607ae.html"],
+  "sc_vcsc_profiles": ["VCSC at-large candidates share why they are running", "Vincennes Sun-Commercial", "2026-10-01", "https://www.suncommercial.com/news/article_03292be7-0ff0-518c-864b-e654d2f2f1ad.html"]
+ }
+}

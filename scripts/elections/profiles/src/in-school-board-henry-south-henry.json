@@ -1,0 +1,229 @@
+{
+ "race_id": "in-school-board-henry-south-henry",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The South Henry School Corporation serves southern Henry County. It was formed in 1963 from schools in Dudley, Franklin and Spiceland townships {wiki_shsc}. Its office is in Lewisville, and it runs two schools, Tri Elementary and Tri Junior-Senior High, with all students from PreK through grade 12 on one campus {sh_home}. The district says about one-third of its students come from outside the district {sh_home}. Tri Junior-Senior High, in Straughn, serves Spiceland, Straughn, Lewisville, New Lisbon and Dunreith and enrolled 458 students in 2024–25, according to federal data cited by Wikipedia {wiki_tri}. This guide did not find a current districtwide enrollment figure.",
+  "Superintendent: Sarah Lynch was superintendent through spring 2026 {sh_min_jan26}{sh_min_apr23}. On June 22, 2026 the board voted 4-0 to approve a superintendent contract for Chris Stilwell, and he attended board meetings as superintendent from July 2026 {sh_min_jun22}{sh_min_jul26}. The district's staff directory lists Stilwell as superintendent {sh_staff}.",
+  "The board has seven members: President Beth Carr, Vice President Jonathan Willmore, Secretary Lisa Thompson, Randy Paul, Casey Carmichael, Debbie Hicks and Misty Jones {sh_board}{sh_min_jan26}. County election records show the seats are one at large, two for Dudley Township, two for Franklin Township and two for Spiceland Township (one of them a holdover seat) {hc_2022_results}{hc_2024_results}. Hayworth-Jones, Thompson, Carr and Carmichael won the Franklin and Spiceland seats in 2024 and are not on this ballot {hc_2024_results}.",
+  "At-large seat: Randy Paul won it in 2022, defeating Jeremiah Cummings 653 votes to 579 {hc_2022_results}. Paul is not on the 2026 candidate list, so the seat is open. The candidates are Cummings (listed as Republican) and Jason Marshall (no party) {hc_2026_list}{in_list}.",
+  "Dudley Township seats: in 2022 the Dudley Township race was 'Vote For 2,' and Debra Hicks (1,116 votes) and Jonathan Willmore (716) were the only two candidates {hc_2022_results}{hc_2022_candidates}. Both of those terms end this year. The 2026 county list names two Dudley candidates, Arther W. Claar and incumbent Debra Hicks, and Willmore is not on it {hc_2026_list}. The state list labels the race 'Dudley 2' with 'vote for 1' {in_list}. The 2022 setup suggests both Dudley seats are on the ballot, in which case both candidates would be elected. This guide did not find a 2026 sample ballot to confirm the number of seats.",
+  "Budget and property taxes (2025–2026): at the Sept. 9, 2025 meeting, Director of Finance and Business Amy Milner said that because of the coming tax caps and uncertainty over assessed values and state funding, the district had been 'reserving our cash to get us through the ’27 and ’28 budgets' {ct_sep25}. The board approved three resolutions moving money from the Education Fund to the Operations and Rainy Day funds and from the Rainy Day Fund to Operations {ct_sep25}. The district's 2027 budget notice lists a $11,314,743 total budget, with $6,268,557 for Education, $3,456,035 for Operations and $1,540,151 for Debt Service, plus a property tax cap credit estimate of $101,900. The notice set a public hearing for Sept. 22, 2026 and adoption for Oct. 13, 2026 {sh_budget27}.",
+  "Facilities (2025–2026): a cafeteria remodel was finished for the start of the 2025–26 school year, and the board used 2025 general obligation bond money for a wheelchair bus, a truck and elementary office HVAC work {ct_sep25}. A Feb. 26, 2026 work session also listed a bus barn, cafeteria HVAC and high school gym air conditioning under the 2025 bond, and a 2026 HELP loan for an activity bus and a 72-passenger bus {sh_min_feb26}. On April 23, 2026 the board approved buying classroom furniture with 2025 bond money {sh_min_apr23}.",
+  "Out-of-district students (2026): on March 10, 2026 the board set Feb. 1, 2027 as the date for accepting out-of-district transfer students for 2026–27 {sh_min_mar10}. On June 9, 2026 it approved the number of transfer students each building and grade will take for 2026–27 {sh_min_jun9}.",
+  "Policies (2026): on June 9, 2026 the board approved a large set of policy updates on second reading, including policies on personal communication devices and mandatory curriculum {sh_min_jun9}. At the same meeting, a representative of Grace Baptist Church in New Castle presented a proposed policy to allow release time for Bible instruction. The minutes record no board action on it {sh_min_jun9}.",
+  "School safety (2026): in June 2026 the board approved contracts for school resource officers Brent Grider and Ric McCorkle and an agreement with the Middletown Police Department {sh_min_jun9}.",
+  "Academics: in September 2025 the high school principal said ILEARN Checkpoint would replace NWEA for benchmark testing, and that the district would partner with Indiana Online so students can finish college credits {ct_sep25}.",
+  "Forums: this guide found no candidate forums, questionnaires or news coverage of the 2026 South Henry races."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Jeremiah Cummings",
+   "seat": "At Large",
+   "summary": "Candidate for the open at-large seat, listed as Republican. He ran for the same seat in 2022 and lost to Randy Paul {hc_2022_results}{hc_2026_list}.",
+   "website": null,
+   "background": [
+    "No occupational or community background found. He ran for the South Henry at-large seat in 2022 and received 579 votes (47%) {hc_2022_results}."
+   ],
+   "path_to_ballot": [
+    "Listed as Republican on the state and Henry County 2026 candidate lists {in_list}{hc_2026_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "Occupation and ties to the schools not found."
+   ]
+  },
+  {
+   "ballot_name": "Jason Marshall",
+   "seat": "At Large",
+   "summary": "Candidate for the open at-large seat, with no party affiliation. Not a current board member {hc_2026_list}{sh_board}.",
+   "website": null,
+   "background": [
+    "No background information found."
+   ],
+   "path_to_ballot": [
+    "Listed with no party affiliation ('No Party' on the county list, 'Nonpartisan' on the state list) {hc_2026_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, campaign statements, website, questionnaire responses, endorsements or finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Arther W. Claar",
+   "seat": "Dudley 2",
+   "summary": "Candidate for a Dudley Township seat, with no party affiliation. Not a current board member {hc_2026_list}{sh_board}.",
+   "website": null,
+   "background": [
+    "No background information found."
+   ],
+   "path_to_ballot": [
+    "Listed with no party affiliation on the county and state lists {hc_2026_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "Whether the Dudley race elects one or two members was not confirmed. If two, Claar and Hicks would both be elected."
+   ]
+  },
+  {
+   "ballot_name": "Debra Hicks",
+   "seat": "Dudley 2",
+   "summary": "Incumbent. She has represented Dudley Township since winning in 2022 and is running for reelection with no party affiliation {hc_2022_results}{hc_2026_list}.",
+   "website": null,
+   "background": [
+    "Won a Dudley Township seat in 2022 with 1,116 votes {hc_2022_results}. The board lists her as member Debbie Hicks {sh_board}.",
+    "District news releases from 2022 and 2023 identify her as board president at that time {sh_dm_2022}{sh_dm_2023}."
+   ],
+   "path_to_ballot": [
+    "Listed with no party affiliation on the county and state lists {hc_2026_list}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {sh_board}. In June 2026 she made the motion to approve the superintendent contract for Chris Stilwell, which passed 4-0 {sh_min_jun22}. She also voted with the rest of the board in 2026 on the budget, facilities and policy items described above {sh_min_mar10}{sh_min_jun9}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign statements, website, questionnaire responses, endorsements or finance reports found.",
+    "Occupation not found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "hc_2026_list": [
+   "2026 General Election Candidate List",
+   "Henry County Voter Registration",
+   "2026-08",
+   "https://www.henrycounty.in.gov/DocumentCenter/View/944/2026-GENERAL-ELECTION-CANDIDATE-LIST-PDF"
+  ],
+  "hc_2022_candidates": [
+   "2022 General Election Candidates",
+   "Henry County",
+   "2022",
+   "https://www.henrycounty.in.gov/DocumentCenter/View/645/2022-General-Election-Candidates-PDF"
+  ],
+  "hc_2022_results": [
+   "2022 General Election Official Results",
+   "Henry County",
+   "2022-11-18",
+   "https://www.henrycounty.in.gov/DocumentCenter/View/666/2022-General-Election-Results"
+  ],
+  "hc_2024_results": [
+   "2024 General Election Official Results",
+   "Henry County",
+   "2024-11-18",
+   "https://www.henrycounty.in.gov/DocumentCenter/View/809/2024-GENERAL-ELECTION-RESULTS-PDF"
+  ],
+  "sh_home": [
+   "South Henry School Corporation home page",
+   "South Henry School Corporation",
+   "2026-10",
+   "https://www.shenry.k12.in.us/"
+  ],
+  "sh_board": [
+   "School Board",
+   "South Henry School Corporation",
+   "2026-10",
+   "https://www.shenry.k12.in.us/page/school-board"
+  ],
+  "sh_staff": [
+   "Staff directory",
+   "South Henry School Corporation",
+   "2026-10",
+   "https://www.shenry.k12.in.us/staff"
+  ],
+  "wiki_shsc": [
+   "South Henry School Corporation",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/South_Henry_School_Corporation"
+  ],
+  "wiki_tri": [
+   "Tri Junior-Senior High School",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/Tri_Junior-Senior_High_School"
+  ],
+  "ct_sep25": [
+   "Tri schools preparing for the financial future",
+   "The Courier-Times",
+   "2025-09-12",
+   "https://www.thecouriertimes.com/news/tri-schools-preparing-for-the-financial-future/article_c9a732a2-a7be-5cfb-81f1-014859117574.html"
+  ],
+  "sh_budget27": [
+   "Notice to Taxpayers, 2027 Budget (Budget Form 3)",
+   "South Henry School Corporation",
+   "2026-09-09",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/2662/Shsc/3c9266d4-9d41-4b10-8b09-8c271b3b3a48/2027-Budget-Form-3.pdf"
+  ],
+  "sh_min_jan26": [
+   "Minutes, Jan. 13, 2026 reorganization and regular session",
+   "South Henry School Corporation",
+   "2026-01-13",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/2662/Shsc/8ea43503-9048-443d-810f-892736f0fded/1-13-26-Exec%2C-Reorganization%2C-Board-of-Finance-%26-Regular-Session-Minutes.pdf"
+  ],
+  "sh_min_feb26": [
+   "Minutes, Feb. 26, 2026 special and work session",
+   "South Henry School Corporation",
+   "2026-02-26",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/2662/Shsc/d8ae0c66-8305-4f7a-beb2-0c66ab3fbb25/2-26-26-Exec-%26-Regular-Session-Minutes.pdf"
+  ],
+  "sh_min_mar10": [
+   "Minutes, March 10, 2026 regular session",
+   "South Henry School Corporation",
+   "2026-03-10",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/2662/Shsc/b81b0534-f7c1-4af6-a1b5-6d3f1c5941ff/3-10-26-Exec-%26-Regular-Session-Minutes.pdf"
+  ],
+  "sh_min_apr23": [
+   "Minutes, April 23, 2026 work and special session",
+   "South Henry School Corporation",
+   "2026-04-23",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/2662/Shsc/ed0be429-6446-405a-9e88-38343456bd2f/4-23-26-Work-%26-Special-Session-Minutes.pdf"
+  ],
+  "sh_min_jun9": [
+   "Minutes, June 9, 2026 proposed superintendent contract hearing and regular session",
+   "South Henry School Corporation",
+   "2026-06-09",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/2662/Shsc/9720ce6e-3998-43ef-8829-ad975f80a9da/6-9-26-Exec%2C-Proposed-Supt-Contract-%26-Regular-Session-Minutes.pdf"
+  ],
+  "sh_min_jun22": [
+   "Minutes, June 22, 2026 special session",
+   "South Henry School Corporation",
+   "2026-06-22",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/2662/Shsc/ace3644c-d6fe-4e4c-a383-1ed0c2bf326a/6-22-26-Special-Session-Minutes.pdf"
+  ],
+  "sh_min_jul26": [
+   "Minutes, July 14, 2026 regular session",
+   "South Henry School Corporation",
+   "2026-07-14",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/2662/Shsc/b42ad222-dfaf-4659-8f1b-19818962e874/7-14-26-Exec-%26-Regular-Session-Minutes.pdf"
+  ],
+  "sh_dm_2022": [
+   "South Henry School Corporation Names \"Difference Makers of the Year\" for 2021-22",
+   "South Henry School Corporation",
+   "2022-06-02",
+   "https://www.shenry.k12.in.us/o/shsc/article/758533"
+  ],
+  "sh_dm_2023": [
+   "South Henry Names Difference Makers of the Year",
+   "South Henry School Corporation",
+   "2023-05-09",
+   "https://www.shenry.k12.in.us/o/shsc/article/1108612"
+  ]
+ }
+}

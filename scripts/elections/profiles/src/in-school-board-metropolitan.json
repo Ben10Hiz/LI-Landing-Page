@@ -1,0 +1,249 @@
+{
+ "race_id": "in-school-board-metropolitan",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The Metropolitan School District (MSD) of New Durham Township runs Westville Schools in Westville, LaPorte County {msdnd_home}. Westville Middle/High School serves grades 7-12 and had 427 students in 2023-24, according to Wikipedia; a district-wide enrollment figure was not found {wiki_whs}. Superintendent: Brian Ton {msdnd_home}{msdnd_min_20260114}.",
+  "The board is an elected five-member Board of School Trustees serving four-year terms, with three or two seats up every two years, according to the district {msdnd_board}. Current members listed by the district: Mark Parkman (president), Karen Jedrysek (vice president), Lynn Wilson (secretary), Phil Burdine (deputy secretary) and Wayne Hodge (member) {msdnd_board}. In January 2026 the board moved its regular meetings to the third Wednesday of each month at 6 p.m. {msdnd_reorg_2026}.",
+  "Past elections: in 2020 and 2024 the county ballot carried one district-wide at-large race electing two members (Karen Jedrysek alone in 2020; Philip Burdine and Karen Jedrysek, the only two candidates, in 2024) {lpc_2020}{lpc_2024}. In 2022 the only MSD race on ballots in the New Durham 01, New Durham 02 and Westville precincts was 'Metropolitan Sch Dist - New Durham At Lg', vote for one, between Wayne R. Hodge and Mark Parkman; Parkman led in all three precinct reports reviewed {lpc_2022_nd01}{lpc_2022_nd02}{lpc_2022_wv}.",
+  "Seats on the 2026 ballot (state list): 'Metropolitan School Board of New Durham' (Mark D. Parkman vs. Wayne R. Hodge), 'Metropolitan School Board, Northeast' (Matt Driscoll, unopposed) and 'Metropolitan School Board, Northwest' (Jeff D. Porter, unopposed), each vote for one {in_list}. Parkman and Hodge both sit on the current board, so the New Durham race is between two sitting members {msdnd_board}{in_list}. Neither Driscoll nor Porter is a current member {msdnd_board}.",
+  "Seat count and naming: three seats on the 2026 ballot matches the district's description of three or two seats per cycle {msdnd_board}. However, the Northeast and Northwest seats did not appear on 2022 county ballots, and the state list gives no county for those two offices, so it could not be confirmed that they belong to the MSD of New Durham Township or which current members, if any, hold them {in_list}{lpc_2022_nd01}{lpc_2022_wv}.",
+  "Party labels: Parkman and Hodge are listed as Nonpartisan and Driscoll and Porter as Republican on the state list; 2026 is the first year Indiana school board candidates could list a party {in_list}.",
+  "Building project and bonds (July–Oct. 2026): the board held a first preliminary determination hearing for a building project on July 22, 2026, when a resident asked about the nature of the projects; on July 28 it adopted the project, preliminary determination and reimbursement resolutions {msdnd_min_20260722}{msdnd_min_20260728}. The district's school building corporation and board scheduled Oct. 14, 2026 votes on a seventh amendment to the corporation's lease and on the issuance of bonds {msdnd_bc_20261014}{msdnd_ag_20261014}. The posted documents do not give the project's cost or scope.",
+  "Budget: a public hearing on the 2027 budget, capital projects plan and bus replacement plan was set for Sept. 30, 2026, with adoption of the 2027 budget on the Oct. 14, 2026 agenda {msdnd_ag_20260930}{msdnd_ag_20261014}. The district is not among those that filed for a November 2026 property tax referendum {dlgf_ref}.",
+  "Other 2025-26 board business: a 2025-2027 tentative agreement and master contract with the Westville Teachers Association (October–November 2025) {msdnd_ag_20251029}{msdnd_ag_20251113}; the student transfer policy and capacity for 2026-27 (April 2026) {msdnd_ag_20260415}; the superintendent's January 2026 briefing on state legislation including bell-to-bell student cell phone limits {msdnd_min_20260114}; regular updates on the district's solar installation {msdnd_min_20260722}; and an Oct. 14, 2026 resolution on employee pay for emergency school closures in August 2026 {msdnd_ag_20261014}.",
+  "No candidate forum, questionnaire or news coverage of this race was found, and none of the four candidates has a campaign committee on LaPorte County's 2026 campaign finance report list {lpc_finance}. Board agendas and minutes are posted on the district site {msdnd_agendas}."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Mark D. Parkman",
+   "seat": "New Durham",
+   "summary": "Incumbent board president. Parkman won the New Durham at-large race over Wayne R. Hodge in 2022 in each precinct report reviewed and now faces Hodge again {msdnd_board}{lpc_2022_nd01}{lpc_2022_nd02}{lpc_2022_wv}.",
+   "website": null,
+   "background": [
+    "Board president; he held that office in early 2022 and again in July 2026 {msdnd_ag_20220204}{msdnd_board}{msdnd_min_20260722}."
+   ],
+   "path_to_ballot": [
+    "Filed June 18, 2026, listed as Nonpartisan {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member and the board president {msdnd_board}. He chaired the July 22 and July 28, 2026 meetings at which the building project's preliminary determination hearings were held {msdnd_min_20260722}{msdnd_min_20260728}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "Occupation and community roles not found.",
+    "Countywide 2022 results were not available online; only three precinct reports were reviewed.",
+    "No candidate website, campaign social media page, news interview, questionnaire or forum appearance was found for the 2026 race.",
+    "No campaign committee for this candidate appears on LaPorte County's 2026 campaign finance report list."
+   ]
+  },
+  {
+   "ballot_name": "Wayne R. Hodge",
+   "seat": "New Durham",
+   "summary": "Current board member challenging board president Mark D. Parkman for the New Durham seat; Hodge also ran against Parkman for that seat in 2022 {msdnd_board}{in_list}{lpc_2022_nd02}.",
+   "website": null,
+   "background": [
+    "Board member; he was the board's deputy secretary in early 2022 {msdnd_ag_20220204}{msdnd_board}."
+   ],
+   "path_to_ballot": [
+    "Filed June 16, 2026, listed as Nonpartisan {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {msdnd_board}. In July 2026 he moved to adopt the building project's preliminary determination resolution and seconded the project and reimbursement resolutions, all of which carried {msdnd_min_20260728}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "Which seat Hodge holds now, and when its term ends, could not be confirmed; he remained on the board after the 2022 race.",
+    "Occupation and community roles not found.",
+    "No candidate website, campaign social media page, news interview, questionnaire or forum appearance was found for the 2026 race.",
+    "No campaign committee for this candidate appears on LaPorte County's 2026 campaign finance report list."
+   ]
+  },
+  {
+   "ballot_name": "Matt Driscoll",
+   "seat": "Northeast",
+   "summary": "Unopposed candidate for the Northeast seat; not a current board member {in_list}{msdnd_board}.",
+   "website": null,
+   "background": [
+    "No background information was found in district records, county records or news coverage reviewed."
+   ],
+   "path_to_ballot": [
+    "Filed June 16, 2026, listed as a Republican {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "The geographic area behind the 'Northeast' and 'Northwest' seat names, and who holds those seats now, could not be confirmed (see race context).",
+    "Occupation, community roles and ties to the schools not found.",
+    "No candidate website, campaign social media page, news interview, questionnaire or forum appearance was found for the 2026 race.",
+    "No campaign committee for this candidate appears on LaPorte County's 2026 campaign finance report list."
+   ]
+  },
+  {
+   "ballot_name": "Jeff D. Porter",
+   "seat": "Northwest",
+   "summary": "Unopposed candidate for the Northwest seat; not a current board member {in_list}{msdnd_board}.",
+   "website": null,
+   "background": [
+    "No background information was found in district records, county records or news coverage reviewed."
+   ],
+   "path_to_ballot": [
+    "Filed June 11, 2026, listed as a Republican {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "The geographic area behind the 'Northeast' and 'Northwest' seat names, and who holds those seats now, could not be confirmed (see race context).",
+    "Occupation, community roles and ties to the schools not found.",
+    "No candidate website, campaign social media page, news interview, questionnaire or forum appearance was found for the 2026 race.",
+    "No campaign committee for this candidate appears on LaPorte County's 2026 campaign finance report list."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "msdnd_home": [
+   "Westville Schools home page",
+   "MSD of New Durham Township",
+   "2026-10",
+   "https://www.westville.k12.in.us/"
+  ],
+  "msdnd_board": [
+   "Board Members",
+   "MSD of New Durham Township",
+   "2026-10",
+   "https://www.westville.k12.in.us/administration/school_board/board_members"
+  ],
+  "msdnd_agendas": [
+   "Meeting Agendas",
+   "MSD of New Durham Township",
+   "2026-10",
+   "https://www.westville.k12.in.us/administration/school_board/meeting_agendas"
+  ],
+  "msdnd_reorg_2026": [
+   "Reorganization Session Agenda, Jan. 14, 2026",
+   "MSD of New Durham Township School Board",
+   "2026-01-09",
+   "https://www.westville.k12.in.us/UserFiles/Servers/Server_20573175/File/1_14_2026%20Reorganization%20Session%20.docx%20(1)%20(1).pdf"
+  ],
+  "msdnd_min_20260114": [
+   "Minutes of January 14, 2026",
+   "MSD of New Durham Township School Board",
+   "2026-01-14",
+   "https://www.westville.k12.in.us/UserFiles/Servers/Server_20573175/File/Jan%202026%20Regular%20Session%20Signed%20Minutes.pdf"
+  ],
+  "msdnd_min_20260722": [
+   "Minutes of July 22, 2026",
+   "MSD of New Durham Township School Board",
+   "2026-07-22",
+   "https://www.westville.k12.in.us/UserFiles/Servers/Server_20573175/File/Signed%20July%2022.%202026%20Minutes.pdf"
+  ],
+  "msdnd_min_20260728": [
+   "Minutes of July 28, 2026 (special session)",
+   "MSD of New Durham Township School Board",
+   "2026-07-28",
+   "https://www.westville.k12.in.us/UserFiles/Servers/Server_20573175/File/Signed%20July%2028,%202026%20Minutes.pdf"
+  ],
+  "msdnd_ag_20251029": [
+   "Special Session Agenda, Oct. 29, 2025",
+   "MSD of New Durham Township School Board",
+   "2025-10",
+   "https://www.westville.k12.in.us/UserFiles/Servers/Server_20573175/File/10_29_2025%20Special%20Agenda.docx%20(3).pdf"
+  ],
+  "msdnd_ag_20251113": [
+   "Regular Session Agenda, Nov. 13, 2025",
+   "MSD of New Durham Township School Board",
+   "2025-11",
+   "https://www.westville.k12.in.us/UserFiles/Servers/Server_20573175/File/11-13-2025%20Agenda.pdf"
+  ],
+  "msdnd_ag_20260415": [
+   "Regular Session Agenda, April 15, 2026",
+   "MSD of New Durham Township School Board",
+   "2026-04",
+   "https://www.westville.k12.in.us/UserFiles/Servers/Server_20573175/File/4_15_2026%20Regular%20Session%20Agenda.docx.pdf"
+  ],
+  "msdnd_ag_20260930": [
+   "Special Session Agenda, Sept. 30, 2026",
+   "MSD of New Durham Township School Board",
+   "2026-09-25",
+   "https://www.westville.k12.in.us/UserFiles/Servers/Server_20573175/File/September%2030,%202026%20Special%20%20Session%20Agenda.docx.pdf"
+  ],
+  "msdnd_ag_20261014": [
+   "Regular Session Agenda, Oct. 14, 2026",
+   "MSD of New Durham Township School Board",
+   "2026-10-09",
+   "https://www.westville.k12.in.us/UserFiles/Servers/Server_20573175/File/October%2014,%202026%20Regular%20Session%20Agenda.docx.pdf"
+  ],
+  "msdnd_bc_20261014": [
+   "School Building Corporation Meeting Agenda, Oct. 14, 2026",
+   "MSD of New Durham Township School Board",
+   "2026-10-09",
+   "https://www.westville.k12.in.us/UserFiles/Servers/Server_20573175/File/October%2014%20,%202026%20Building%20Corp%20Agenda.docx.pdf"
+  ],
+  "msdnd_ag_20220204": [
+   "Regular Session Agenda, Feb. 9, 2022",
+   "MSD of New Durham Township School Board",
+   "2022-02-04",
+   "https://www.westville.k12.in.us/UserFiles/Servers/Server_20573175/File/Agenda%202-4-2022.pdf"
+  ],
+  "lpc_2022_nd01": [
+   "2022 General Election precinct results: 75-New Durham 01",
+   "LaPorte County Election Board",
+   "2022-11",
+   "https://laporteco.in.gov/Elections/ElectionResults/2022General/75-NEW%20DURHAM%2001.pdf"
+  ],
+  "lpc_2022_nd02": [
+   "2022 General Election precinct results: 76-New Durham 02",
+   "LaPorte County Election Board",
+   "2022-11",
+   "https://laporteco.in.gov/Elections/ElectionResults/2022General/76-NEW%20DURHAM%2002.pdf"
+  ],
+  "lpc_2022_wv": [
+   "2022 General Election precinct results: 92-Westville",
+   "LaPorte County Election Board",
+   "2022-11",
+   "https://laporteco.in.gov/Elections/ElectionResults/2022General/92-WESTVILLE.pdf"
+  ],
+  "lpc_2024": [
+   "2024 General Election summary results",
+   "LaPorte County Election Board",
+   "2024-11",
+   "https://laporteco.in.gov/Elections/ElectionResults/2024General/Laporte_ElecSumm_All.htm"
+  ],
+  "lpc_2020": [
+   "2020 General Election summary results",
+   "LaPorte County Election Board",
+   "2020-11",
+   "https://laporteco.in.gov/Elections/ElectionResults/2020General/Laporte_ElecSumm_All.htm"
+  ],
+  "lpc_finance": [
+   "2026 campaign finance reports",
+   "LaPorte County Election Board",
+   "2026",
+   "https://laporteco.in.gov/residents/elections/finance-reports/2026/"
+  ],
+  "wiki_whs": [
+   "Westville High School (Indiana)",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/Westville_High_School_(Indiana)"
+  ],
+  "dlgf_ref": [
+   "Referendum Information (November 2026 referendum documents)",
+   "Indiana Department of Local Government Finance",
+   "2026-10",
+   "https://www.in.gov/dlgf/referendum-information/"
+  ]
+ }
+}

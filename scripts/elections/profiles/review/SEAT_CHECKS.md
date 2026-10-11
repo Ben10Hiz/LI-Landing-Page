@@ -25,9 +25,11 @@ multi-seat but not yet confirmed from a 2026 county ballot:
 | Elwood School Board, At Large | 2 | 2022 filled 2; both winners running |
 | Fayette County School Board, District 3 | 2 | District 3 elects 2 every cycle |
 | Greene Linton Stockton (Districts 1, 2) | ? | board likely 2 seats per district + 1 at large |
+| Lawrenceburg School Board, District #2 | 2 | both D2 members' terms end 2026 (board page) |
 | Jay School Board, District 1 | 0 on ballot | seat due in 2026 but no one filed; how it is filled is unknown |
 
 Also confirm with county election offices:
 - Hammond At Large: Cristina McNeiley on the state list but not on the Lake County sample ballot.
 - Eastern Greene Center seat: state list "Jason Carmichael", Daily World "Jacob Carmichael".
+- "Metropolitan School Board, Northeast" and ", Northwest" (no county on the state list) are grouped with MSD of New Durham Township; not confirmed they belong to that district.
 - White River Valley: incumbent Brock Hostetter reported as a candidate but missing from the state list.
