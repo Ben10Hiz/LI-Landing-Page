@@ -153,6 +153,7 @@ SEAT_OVERRIDES = {
     "Floyd County School Board, At Large": 2,                  # News and Tribune
     "Hendricks Avon School Board, Washington Township": 2,     # Hendricks County ballot
     "Hendricks Plainfield School Board, Guilford Township": 2, # Hendricks County ballot
+    "Munster School Board, At Large": 2,                       # Lake County sample ballot
 }
 
 

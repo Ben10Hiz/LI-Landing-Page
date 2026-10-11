@@ -1,0 +1,190 @@
+{
+ "race_id": "in-school-board-munster",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The School Town of Munster serves the town of Munster in Lake County {munster_district}{wiki_munster}. It has about 4,100 students and about 525 staff in five schools: Eads, Elliott and Hammond elementary schools, Wilbur Wright Middle School and Munster High School {munster_district}.",
+  "Superintendent: Dr. Matthew Hicks, formerly superintendent of Northeastern Wayne Schools, introduces himself on the district website as Munster's superintendent {munster_supt}. He succeeded Dr. Bret Heller, who resigned effective June 30, 2025 to lead a Colorado district {nwib_heller_2025}. A Wayne County newspaper reported in July 2025 that Hicks planned to move to Munster {wwn_hicks_2025}. The county's August 2026 directory still lists Heller {lc_directory}.",
+  "The board has five members, all elected at large {lc_directory}. Members are Ingrid Schwarz Wolf (president), Amy Sinder (vice president), Kristen L. Smith (secretary), John Castro and Kyle Dempsey {munster_board}.",
+  "Seats on the 2026 ballot: two at-large seats. The state list says 'vote for 1,' but the county's sample ballot and results page say 'Vote for not more than Two (2)' {lc_sample_munster}{lc_results_2026}{in_list}. The two seats are held by Kyle Dempsey and Kristen Smith, whose terms expire Dec. 31, 2026 {lc_directory}. Both filed for reelection on May 19, 2026 with no party listed, and they are the only candidates, so both will win as long as each gets at least one vote {lc_candidates}{lc_sample_munster}.",
+  "Seats not on this ballot: Castro, Sinder and Schwarz Wolf won the three at-large seats on the 2024 ballot, and their terms run through 2028 {lc_results_2024}{lc_directory}.",
+  "2022: Dempsey (5,671 votes, 50.48%) and Smith (5,564, 49.52%) were the only two candidates for two at-large seats {lc_results_2022}.",
+  "Operating referendum (2023): the board asked voters to continue a referendum tax levy, first approved in 2017, for eight years at a rate of no more than $0.4196 per $100 of assessed value {dlgf_munster_2023}{lsp_referenda_2017}. Voters approved it on May 2, 2023, with 72.08% voting yes {lc_results_2023p}.",
+  "Construction (2023–2026): the district issued $62.6 million in bonds in 2023, putting about $11 million into classrooms, science labs, performing-arts space and new tennis courts {munster_capital}. The bonds also pay for a multi-purpose building with an indoor turf field and track, a weight room and a new administration center {munster_capital}. On Sept. 28, 2026 the board unanimously awarded the building contract to Hasse Construction for $32,046,900 {munster_recaps}. The district said the redesigned building cost about $1.6 million less than in the first round of bids, and that the contract needed no new borrowing because it is the second phase of the 2023 bond program {munster_recaps}.",
+  "Storm (2026): on Sept. 1, 2026 the board declared an emergency after an Aug. 11, 2026 storm caused extensive damage to district buildings, and it approved paying eligible classified staff during the closures {munster_recaps}. On Sept. 14 the board revised the 2026–27 calendar to make up seven of nine storm-canceled days. At the same meeting the assistant superintendent said the Operations Fund may need an additional appropriation, because storm cleanup and other unplanned costs may exceed 2026 expectations {munster_recaps}. The board approved advertising the 2027 budget, capital projects plan and bus replacement plan on Sept. 1 {munster_recaps}.",
+  "Arts center (2024): in March 2024 the board voted to formally express interest in buying the Center for Visual and Performing Arts, which drew objections from residents at a town council meeting {lsp_cvpa_2024}. In April 2024 the district suspended the purchase, saying the town needed more time to assess the property {nwib_cvpa_2024}.",
+  "Effect of the 2025 property-tax law (SEA 1) on Munster's budget: no district-specific figures were found.",
+  "Forums: this guide found no candidate forums, questionnaires or news coverage of the 2026 Munster race. The Times of Northwest Indiana (nwitimes.com) could not be read for this guide."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Kristen Smith",
+   "seat": "At Large",
+   "summary": "Incumbent and board secretary, on the board since 2023, seeking a second term; she and Dempsey are the only candidates for two seats {munster_board}{lc_candidates}{lc_sample_munster}.",
+   "website": null,
+   "background": [
+    "The district lists her as Kristen L. Smith, CAE. She works in nonprofit management and owns a nonprofit consulting firm and a fitness business {munster_board}.",
+    "Purdue University graduate in English and political science. She has held leadership roles with several PTOs and community education and booster groups {munster_board}.",
+    "Has lived in Munster for more than 23 years {munster_board}."
+   ],
+   "path_to_ballot": [
+    "Filed May 19, 2026 with no party listed {lc_candidates}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {munster_board}. No statement from her about the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No 2026 news coverage, candidate forum or questionnaire responses, campaign website, endorsements or campaign finance reports were found. The Times of Northwest Indiana (nwitimes.com) could not be read for this guide.",
+    "No public statements on the 2023 bond projects, the storm recovery or the budget were found."
+   ]
+  },
+  {
+   "ballot_name": "Kyle Dempsey",
+   "seat": "At Large",
+   "summary": "Incumbent, on the board since 2023 and its president in mid-2025, seeking a second term; he and Smith are the only candidates for two seats {munster_board}{nwib_heller_2025}{lc_candidates}.",
+   "website": null,
+   "background": [
+    "Works as a State Farm agent. He earned a bachelor's degree in education from Indiana University in 2001 {munster_board}.",
+    "Grew up in Munster and went through all 12 grades in Munster schools. He has served on booster, education foundation, basketball club and Little League boards {munster_board}.",
+    "Parent of students in the district {munster_board}."
+   ],
+   "path_to_ballot": [
+    "Filed May 19, 2026 with no party listed {lc_candidates}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {munster_board}.",
+    "As board president in June 2025, he said departing Superintendent Bret Heller 'has brought strong leadership, clarity of vision and a deep commitment to student success' {nwib_heller_2025}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No 2026 news coverage, candidate forum or questionnaire responses, campaign website, endorsements or campaign finance reports were found. The Times of Northwest Indiana (nwitimes.com) could not be read for this guide.",
+    "No public statements on the 2023 bond projects, the storm recovery, the budget or the superintendent search were found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "munster_district": [
+   "Our District",
+   "School Town of Munster",
+   "2026-10",
+   "https://www.munsterschools.gov/our-district"
+  ],
+  "munster_board": [
+   "Meet Our Board Members",
+   "School Town of Munster",
+   "2026-10",
+   "https://www.munsterschools.gov/board-of-trustees/meet-our-board-members"
+  ],
+  "munster_supt": [
+   "Message from the New Superintendent",
+   "School Town of Munster",
+   "2026-10",
+   "https://www.munsterschools.gov/our-district/message-the-new-superintendent"
+  ],
+  "munster_recaps": [
+   "Board Meeting Recaps (July 13 – Sept. 28, 2026)",
+   "School Town of Munster",
+   "2026-09-28",
+   "https://www.munsterschools.gov/board-of-trustees/board-meeting-recaps"
+  ],
+  "munster_capital": [
+   "Capital Improvement Projects",
+   "School Town of Munster",
+   "2026-10",
+   "https://www.munsterschools.gov/our-district/capital-improvement-projects"
+  ],
+  "wiki_munster": [
+   "School Town of Munster",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/School_Town_of_Munster"
+  ],
+  "nwib_heller_2025": [
+   "Munster launches superintendent search",
+   "Northwest Indiana Business Magazine",
+   "2025-06-27",
+   "https://nwindianabusiness.com/?p=74372"
+  ],
+  "wwn_hicks_2025": [
+   "Northeastern announces search for next superintendent",
+   "Western Wayne News",
+   "2025-07-17",
+   "https://westernwaynenews.com/?p=135260"
+  ],
+  "nwib_cvpa_2024": [
+   "School Town of Munster steps back from property purchase",
+   "Northwest Indiana Business Magazine",
+   "2024-04-17",
+   "https://nwindianabusiness.com/?p=63884"
+  ],
+  "lsp_cvpa_2024": [
+   "Munster Council hears concerns about school district's proposed arts center purchase",
+   "Lakeshore Public Media",
+   "2024-03-19",
+   "https://www.lakeshorepublicmedia.org/local-news/2024-03-19/munster-council-hears-concerns-about-school-districts-proposed-arts-center-purchase"
+  ],
+  "lsp_referenda_2017": [
+   "School Referenda Okayed In Munster, Lake Station But Rejected In East Chicago",
+   "Lakeshore Public Media",
+   "2017-05-03",
+   "https://www.lakeshorepublicmedia.org/local-news/2017-05-03/school-referenda-okayed-in-munster-lake-station-but-rejected-in-east-chicago"
+  ],
+  "dlgf_munster_2023": [
+   "Findings and Final Determination on Proposed Question, No. 23-005-REF (School Town of Munster)",
+   "Indiana Department of Local Government Finance",
+   "2023-01-24",
+   "https://www.in.gov/dlgf/files/referendum-documentation2/Referendum-Determination-Operating-School-Town-of-Munster.pdf"
+  ],
+  "lc_directory": [
+   "2026 Lake County Public Officials Directory (School Corporations, p. 42)",
+   "Lake County, Indiana",
+   "2026-08-13",
+   "https://lakecountyin.gov/dA/8ee74908-61bf-46b8-8c34-a648d6d3ed59/pdfFile/2026%2008%2013%20LAKE%20COUNTY%20PUBLIC%20OFFICIALS%20DIRECTORY.pdf"
+  ],
+  "lc_candidates": [
+   "2026 General Election Candidate List (as of Aug. 11, 2026)",
+   "Lake County Board of Elections and Registration",
+   "2026-08-11",
+   "https://lakecountyin.gov/departments/voters/election-candidates/2026_General_Candidate_List_08_11_26.xlsx"
+  ],
+  "lc_sample_munster": [
+   "2026 General Election sample ballot, Precinct 228-M 01 (Munster)",
+   "Lake County Board of Elections and Registration",
+   "2026-09-18",
+   "https://lakecountyin.gov/departments/voters/2026-ELECTION/2026-General-Election-Sample-Ballots/Pct%20228-M%2001%20Act%2001-GENERAL.pdf"
+  ],
+  "lc_results_2026": [
+   "2026 General Election Summary (results page, pre-election)",
+   "Lake County Board of Elections and Registration",
+   "2026-10",
+   "https://lakecountyin.gov/departments/voters/election-results-c/2026GeneralElectionResults/Lake_ElecSumm_All.htm"
+  ],
+  "lc_results_2024": [
+   "2024 General Election Summary",
+   "Lake County Board of Elections and Registration",
+   "2024-11",
+   "https://lakecountyin.gov/departments/voters/election-results-c/2024GeneralElectionResults/Lake_ElecSumm_All.htm"
+  ],
+  "lc_results_2022": [
+   "2022 General Election Summary",
+   "Lake County Board of Elections and Registration",
+   "2022-11",
+   "https://lakecountyin.gov/departments/voters/election-results-c/2022GeneralElectionResults/Lake_ElecSumm_All.htm"
+  ],
+  "lc_results_2023p": [
+   "2023 Primary Election Summary",
+   "Lake County Board of Elections and Registration",
+   "2023-05",
+   "https://lakecountyin.gov/departments/voters/election-results-c/2023PrimaryElectionResults/Lake_ElecSumm_All.htm"
+  ]
+ }
+}

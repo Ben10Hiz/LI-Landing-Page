@@ -1,0 +1,264 @@
+{
+ "race_id": "in-school-board-east-chicago",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The School City of East Chicago serves the city of East Chicago in Lake County; the district's website lists enrollment of 3,200 students and a 90.91% graduation rate for the 2025 school year {scec_home}. Dr. Stephen D. Bournés is superintendent {scec_home}{lc_directory}; he led the district at least as far back as July 2024 {lsp_hvac_2024}.",
+  "The board has five members: two elected at large and one each from Districts 1, 2 and 3 {lc_directory}. Voters choose only the district seat where they live: sample ballots for three East Chicago precincts each show a single school board race, District 1, 2 or 3, each marked 'Vote For One (1) Only' {lc_sample_ec1}{lc_sample_ec2}{lc_sample_ec3}.",
+  "Seats on the 2026 ballot: all three district seats, one member each, which matches the state list {lc_results_2026}{in_list}. The terms of District 1 member Joel Rodriguez, District 2 member Pattie Jo Gibson-King and District 3 member Diane Smith expire Dec. 31, 2026, and all three filed to run again {lc_directory}{lc_candidates}. District 1 is the only contested race: Rodriguez faces Jose Arteaga and Jesus Luis Ortiz, III, and all three are listed as Democrats {lc_candidates}{lc_sample_ec1}. Gibson King (no party listed) in District 2 and Smith (Democrat) in District 3 are unopposed {lc_candidates}{lc_results_2026}.",
+  "Seats not on this ballot: at-large members Maria Mercedez Mena-Taylor and Jesse Gomez serve terms through 2028 {lc_directory}. They won the two at-large seats in 2024 from a field of four {lc_results_2024}.",
+  "2022 results for these seats: Rodriguez was unopposed in District 1; Gibson-King won District 2 with 34.08% of the vote in a three-way race decided by 16 votes; Smith won District 3 with 53.00% against three opponents {lc_results_2022}.",
+  "Budget (2025): a Sept. 23, 2025 district presentation, 'Securing Our Financial Future: A Reduced Spending Plan,' put the FY26 budget at $48,175,043, or about $53.6 million with grants {scec_budget_2025}. It listed the 2025 property-tax law SEA 1, operations-fund sharing with charter schools and lower federal grants as pressures, and forecast a loss of about $850,000: $372,189 to charter schools, $350,000 in operations-fund revenue and $127,547 in federal grants {scec_budget_2025}. The plan proposed cutting six certified and three non-certified positions, a hiring pause and attrition, a 10% cut in operational spending, and 'closing and/or consolidating a building,' using a sample building cost of about $1.99 million a year {scec_budget_2025}.",
+  "Pre-K and buildings (2026): on April 28, 2026 the board approved a moving-company quote to help relocate Carrie Gosch staff, and it approved new Pre-Kindergarten classrooms and elementary playground renovations {scec_summaries}. The district's Sept. 16, 2026 town hall listed 'changes including Pre-K' among the issues it had communicated to families {scec_townhall}.",
+  "Bond and other 2026 actions: on April 28, 2026 the board passed resolutions advancing a $30 million bond for capital projects including HVAC at Central High School, voted to run its own food service, and approved transferring the administration building's deed to the City of East Chicago {scec_summaries}. In April and May it approved an energy-savings project and contracts meant to improve indoor air quality and offset rising utility costs {scec_summaries}.",
+  "Storm damage (2026): an Aug. 11, 2026 derecho, along with summer flash floods and power outages, closed the district from Aug. 12 to 21 and led to Lincoln Elementary's temporary relocation on Aug. 26 {scec_townhall}. A 2025 facility assessment quoted by the district said many of Lincoln's systems, in a building from 1971, 'have reached or are approaching the end of their useful life' {scec_townhall}. As of Oct. 9, 2026, the district reported transformer and sump-pump replacement finished and roof repairs nearly done, and said it was working toward reopening Lincoln {scec_home}{scec_lincoln}.",
+  "Earlier funding votes: in May 2017, East Chicago voters rejected an operating referendum, 561 yes to 2,010 no (78% no) {lsp_referenda_2017}.",
+  "Forums: this guide found no candidate forums, questionnaires or news coverage of the 2026 East Chicago races. The Times of Northwest Indiana (nwitimes.com) could not be read, and a January 2026 Lakeshore Public Media article on pre-K changes no longer loaded."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Jesus Luis Ortiz, III",
+   "seat": "District 1",
+   "summary": "Candidate for the District 1 seat; not a current board member {lc_directory}{lc_candidates}.",
+   "website": null,
+   "background": [
+    "No background information found."
+   ],
+   "path_to_ballot": [
+    "Filed June 8, 2026 and is listed as a Democrat {lc_candidates}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, candidate forum or questionnaire responses, campaign website, endorsements or campaign finance reports were found for this candidate. The Times of Northwest Indiana (nwitimes.com), the main daily covering East Chicago, could not be read for this guide.",
+    "Occupation, community roles and any ties to the schools not found."
+   ]
+  },
+  {
+   "ballot_name": "Joel Rodriguez",
+   "seat": "District 1",
+   "summary": "Incumbent; has been on the board since 2013 and chairs the National School Boards Association's Council of Urban Boards of Education for 2025–27 {nsba_cube_2025}{lc_directory}.",
+   "website": null,
+   "background": [
+    "Grew up in East Chicago {nsba_cube_2025}. Wrote in a September 2025 column that he joined the East Chicago school board in 2013 {nsba_cube_2025}.",
+    "Chairs the CUBE Steering Committee of the National School Boards Association for 2025–27. Before that he was a regional director of NSBA's National Hispanic Council and a CUBE steering committee member {nsba_cube_2025}.",
+    "Re-elected unopposed in District 1 in 2022 {lc_results_2022}."
+   ],
+   "path_to_ballot": [
+    "Filed June 18, 2026 and is listed as a Democrat {lc_candidates}{in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "In a July 2025 NSBA interview he said, 'Urban districts have always been a target for lack of funding, not only from the state level,' and, 'We're tightening our belts and figuring out other ways that we can survive' {nsba_advocate_2025}.",
+      "Said in the same interview that it is 'important for us to continue to advocate for that, to continue to fight for public education' {nsba_advocate_2025}."
+     ]
+    },
+    {
+     "topic": "Academics",
+     "items": [
+      "Said in July 2025, 'We've turned the tide a bit with our focus on student success' {nsba_advocate_2025}. Wrote that 'equitable access to quality education is the foundation for thriving communities' {nsba_cube_2025}."
+     ]
+    },
+    {
+     "topic": "Enrollment & school choice",
+     "items": [
+      "Said the 2016 lead and arsenic contamination in East Chicago 'equated to close to 382 children that we've actually lost in our school system' {nsba_advocate_2025}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member {lc_directory}.",
+    "In July 2025 he described the district as cutting costs to get by, and he spoke of arts programs as valuable but costly to keep {nsba_advocate_2025}."
+   ],
+   "plans": [
+    "As CUBE chair, wrote in September 2025 that his priorities include using data to find resource gaps at individual schools, expanding digital and hands-on learning, and building mentoring links between students and local professionals {nsba_cube_2025}. These were national goals for CUBE, not a plan for the East Chicago board."
+   ],
+   "endorsements_finance": [],
+   "gaps": [
+    "No 2026 campaign statements, forum answers, website, endorsements or finance reports found. The Times of Northwest Indiana could not be read for this guide.",
+    "Occupation: a search-result snippet from an NSBA page says he founded a consulting firm; not verified on a fetched page.",
+    "His votes on the 2025 reduced-spending plan and the Carrie Gosch pre-K center were not confirmed from a readable source.",
+    "Search-result snippets of Times of Northwest Indiana e-edition pages (not readable for this guide) say the board voted 3-2 to close Carrie Gosch Early Learning Center at the end of 2025-26, with trustees Gibson King and Gomez opposed and Mena-Taylor, Rodriguez and Smith in favor, and that the superintendent cited an estimated $2.3 million funding loss by 2028 from state property-tax changes. Unverified."
+   ]
+  },
+  {
+   "ballot_name": "Jose Arteaga",
+   "seat": "District 1",
+   "summary": "Candidate for the District 1 seat; not a current board member {lc_directory}{lc_candidates}.",
+   "website": null,
+   "background": [
+    "No background information found."
+   ],
+   "path_to_ballot": [
+    "Filed June 18, 2026 and is listed as a Democrat {lc_candidates}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, candidate forum or questionnaire responses, campaign website, endorsements or campaign finance reports were found for this candidate. The Times of Northwest Indiana (nwitimes.com), the main daily covering East Chicago, could not be read for this guide.",
+    "Occupation, community roles and any ties to the schools not found."
+   ]
+  },
+  {
+   "ballot_name": "Pattie Jo Gibson King",
+   "seat": "District 2",
+   "summary": "Incumbent, running unopposed for the District 2 seat she won in 2022 {lc_directory}{lc_results_2022}{lc_results_2026}.",
+   "website": null,
+   "background": [
+    "Won the District 2 seat in 2022 with 503 votes (34.08%), ahead of Anton Williams (487) and Wanda Vilma Cavazos (486) {lc_results_2022}. The county directory lists her as Pattie Jo Gibson-King, with a term expiring Dec. 31, 2026 {lc_directory}."
+   ],
+   "path_to_ballot": [
+    "Filed June 8, 2026 with no party listed {lc_candidates}{in_list}. She is listed without a party on the ballot {lc_sample_ec2}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {lc_directory}. No statement from her about the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, candidate forum or questionnaire responses, campaign website, endorsements or campaign finance reports were found for this candidate. The Times of Northwest Indiana (nwitimes.com), the main daily covering East Chicago, could not be read for this guide.",
+    "Occupation and community roles not found.",
+    "An AI-generated summary of a July 14, 2025 meeting on a civic-data website called her board president; not verified from official minutes.",
+    "Search-result snippets of Times of Northwest Indiana e-edition pages (not readable for this guide) say the board voted 3-2 to close Carrie Gosch Early Learning Center at the end of 2025-26, with trustees Gibson King and Gomez opposed and Mena-Taylor, Rodriguez and Smith in favor, and that the superintendent cited an estimated $2.3 million funding loss by 2028 from state property-tax changes. Unverified."
+   ]
+  },
+  {
+   "ballot_name": "Diane Smith",
+   "seat": "District 3",
+   "summary": "Incumbent, running unopposed for the District 3 seat she won in 2022 {lc_directory}{lc_results_2022}{lc_results_2026}.",
+   "website": null,
+   "background": [
+    "Won the District 3 seat in 2022 with 504 votes (53.00%), against Linda Celestin, Leonor V. Cheek and Latara Harris {lc_results_2022}. Her term expires Dec. 31, 2026 {lc_directory}."
+   ],
+   "path_to_ballot": [
+    "Filed June 16, 2026 and is listed as a Democrat {lc_candidates}{in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "Is a current board member {lc_directory}. No statement from her about the board's record was found."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No news coverage, candidate forum or questionnaire responses, campaign website, endorsements or campaign finance reports were found for this candidate. The Times of Northwest Indiana (nwitimes.com), the main daily covering East Chicago, could not be read for this guide.",
+    "Occupation and community roles not found. A Wikipedia infobox lists a Diane Smith as board vice president; the date of that information is not given.",
+    "Search-result snippets of Times of Northwest Indiana e-edition pages (not readable for this guide) say the board voted 3-2 to close Carrie Gosch Early Learning Center at the end of 2025-26, with trustees Gibson King and Gomez opposed and Mena-Taylor, Rodriguez and Smith in favor, and that the superintendent cited an estimated $2.3 million funding loss by 2028 from state property-tax changes. Unverified."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "scec_home": [
+   "School City of East Chicago (home page)",
+   "School City of East Chicago",
+   "2026-10",
+   "https://www.scec.k12.in.us/"
+  ],
+  "scec_lincoln": [
+   "Lincoln Facilities Update (October 9, 2026) / Town Hall Meeting Recap",
+   "School City of East Chicago",
+   "2026-10-09",
+   "https://www.scec.k12.in.us/our-district/board-posts/~board/admin-board/post/lincoln-facilities-update-october-9-2026"
+  ],
+  "scec_townhall": [
+   "Town Hall, September 16, 2026 (presentation)",
+   "School City of East Chicago",
+   "2026-09-16",
+   "https://drive.google.com/file/d/1quclrCfXXQnKIQFzpjqWjcfYn-EllHCf/view"
+  ],
+  "scec_summaries": [
+   "Board Meeting Summaries (April 14 – May 28, 2026)",
+   "School City of East Chicago",
+   "2026-05",
+   "https://www.scec.k12.in.us/fs/pages/4305"
+  ],
+  "scec_budget_2025": [
+   "Securing Our Financial Future: A Reduced Spending Plan (Budget Plan 25-26 SY)",
+   "School City of East Chicago",
+   "2025-09-23",
+   "https://docs.google.com/presentation/d/1qSnutXv0B6FLU4qDOKGvLVujuDkgLMOm7FJicMLEGmQ/edit"
+  ],
+  "lc_directory": [
+   "2026 Lake County Public Officials Directory (School Corporations, p. 36)",
+   "Lake County, Indiana",
+   "2026-08-13",
+   "https://lakecountyin.gov/dA/8ee74908-61bf-46b8-8c34-a648d6d3ed59/pdfFile/2026%2008%2013%20LAKE%20COUNTY%20PUBLIC%20OFFICIALS%20DIRECTORY.pdf"
+  ],
+  "lc_candidates": [
+   "2026 General Election Candidate List (as of Aug. 11, 2026)",
+   "Lake County Board of Elections and Registration",
+   "2026-08-11",
+   "https://lakecountyin.gov/departments/voters/election-candidates/2026_General_Candidate_List_08_11_26.xlsx"
+  ],
+  "lc_sample_ec1": [
+   "2026 General Election sample ballot, Precinct 064-EC 03 (East Chicago)",
+   "Lake County Board of Elections and Registration",
+   "2026-09-18",
+   "https://lakecountyin.gov/departments/voters/2026-ELECTION/2026-General-Election-Sample-Ballots/Pct%20064-EC%2003%20Act%2001-GENERAL.pdf"
+  ],
+  "lc_sample_ec2": [
+   "2026 General Election sample ballot, Precinct 070-EC 17 (East Chicago)",
+   "Lake County Board of Elections and Registration",
+   "2026-09-18",
+   "https://lakecountyin.gov/departments/voters/2026-ELECTION/2026-General-Election-Sample-Ballots/Pct%20070-EC%2017%20Act%2001-GENERAL.pdf"
+  ],
+  "lc_sample_ec3": [
+   "2026 General Election sample ballot, Precinct 078-EC 36 (East Chicago)",
+   "Lake County Board of Elections and Registration",
+   "2026-09-18",
+   "https://lakecountyin.gov/departments/voters/2026-ELECTION/2026-General-Election-Sample-Ballots/Pct%20078-EC%2036%20Act%2001-GENERAL.pdf"
+  ],
+  "lc_results_2026": [
+   "2026 General Election Summary (results page, pre-election)",
+   "Lake County Board of Elections and Registration",
+   "2026-10",
+   "https://lakecountyin.gov/departments/voters/election-results-c/2026GeneralElectionResults/Lake_ElecSumm_All.htm"
+  ],
+  "lc_results_2022": [
+   "2022 General Election Summary",
+   "Lake County Board of Elections and Registration",
+   "2022-11",
+   "https://lakecountyin.gov/departments/voters/election-results-c/2022GeneralElectionResults/Lake_ElecSumm_All.htm"
+  ],
+  "lc_results_2024": [
+   "2024 General Election Summary",
+   "Lake County Board of Elections and Registration",
+   "2024-11",
+   "https://lakecountyin.gov/departments/voters/election-results-c/2024GeneralElectionResults/Lake_ElecSumm_All.htm"
+  ],
+  "lsp_hvac_2024": [
+   "HVAC work may give School City of East Chicago teachers less time to prepare classrooms",
+   "Lakeshore Public Media",
+   "2024-07-31",
+   "https://www.lakeshorepublicmedia.org/local-news/2024-07-31/hvac-work-may-give-school-city-of-east-chicago-teachers-less-time-to-prepare-classrooms"
+  ],
+  "lsp_referenda_2017": [
+   "School Referenda Okayed In Munster, Lake Station But Rejected In East Chicago",
+   "Lakeshore Public Media",
+   "2017-05-03",
+   "https://www.lakeshorepublicmedia.org/local-news/2017-05-03/school-referenda-okayed-in-munster-lake-station-but-rejected-in-east-chicago"
+  ],
+  "nsba_cube_2025": [
+   "From the Steel City of East Chicago to the Council of Urban Boards of Education Chair (Joel Rodriguez, American School Board Journal)",
+   "National School Boards Association",
+   "2025-09-15",
+   "https://www.nsba.org/resources/october-2025-from-the-steel-city-of-east-chicago-to-the-council-of-urban-boards-of-education-chair"
+  ],
+  "nsba_advocate_2025": [
+   "Urban Advocate: Keep Fighting for the Same Goal (American School Board Journal)",
+   "National School Boards Association",
+   "2025-07-14",
+   "https://nsba.org/resources/august-2025-urban-advocate-keep-fighting-for-the-same-goal"
+  ]
+ }
+}
