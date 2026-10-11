@@ -1,0 +1,306 @@
+{
+ "race_id": "in-school-board-north-gibson",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The district: North Gibson School Corporation covers Patoka, Washington and White River townships in northern Gibson County and runs Princeton Community High, Middle, Intermediate and Primary schools, all in Princeton {wiki_ng}{ngsc_board}. It is a consolidation of the former Princeton, Patoka, Hazleton and Mount Olympus schools {pdc_atlarge}. Federal data list 1,864 students {nces_ng}. Dr. Eric Goggins is superintendent and Noah Velthouse assistant superintendent {ngsc_board}.",
+  "The board has five members: Joe Williams (president), Brock Sievers (vice president), Beth Davis (secretary), Michael Ice and Amy Michelle Bingham {ngsc_board}{pdc_officers}. Seats are tied to townships: two represent Patoka Township (Williams and Sievers), one Washington Township (Ice), one White River Township (Bingham), and one is at-large (Davis, a Patoka Township resident) {pdc_atlarge}. Members are paid $4,500 a year plus a per-meeting stipend, up from $2,000 in 2025 {pdc_officers}.",
+  "Seats on the 2026 ballot: two seats, one member each, matching the state list — District 1 (Washington Township) and District 2 (White River Township) {pdc_filing}{in_list}. Both incumbents are running: Ice is unopposed in District 1, and Bingham faces Trevor Cotterman in District 2 {pdc_slates}. In 2022 Ice and Bingham were each unopposed, according to the county's precinct results {gc_2022}.",
+  "Party labels: a 2025 state law lets school board candidates declare a party without running in a primary; in December 2025 the board updated its bylaws to drop the nonpartisan requirement and lower the minimum age for candidates from 21 to 18 {pdc_bylaws}. Ice and Bingham are listed as Republicans and Cotterman as nonpartisan {in_list}{pdc_slates}.",
+  "Board districts (December 2025): President Joe Williams proposed replacing the township-based seats with five at-large seats, saying 84% of the district's population lives in Patoka Township; he withdrew the proposal before the December 15 meeting after public feedback, saying it 'could unintentionally create division' {pdc_atlarge}. At that meeting Ice moved that the board not change voting districts unless state law required it, then withdrew the motion after the board's attorney said such a motion would not bind future boards {pdc_bylaws}.",
+  "Budget and SEA 1: in May 2025 Goggins projected a $296,334 drop in state funding over two years, tied to falling enrollment, and a loss of nearly $600,000 in property-tax revenue over three years under the state's property-tax law, while saying the district was better placed than many because a large tax-increment financing (TIF) district was ending {pdc_finance25}. With that TIF district expired in December 2025, the district's tax base rose by $195 million; the board approved a $32.89 million 2027 budget in September 2026, and Goggins said the combined tax rate was likely to stay under $1 per $100 of assessed value {pdc_av}{pdc_fy27}.",
+  "Facilities: in April 2025 the board unanimously adopted a plan to issue up to $40 million in bonds for campus projects, which consultants said would not raise the debt-service rate {pdc_bond25}. Projects include a new central office ($3.13 million bid), a fieldhouse, football stadium locker and concession buildings, Gil Hodges Field upgrades, a band tower and middle/intermediate school renovations; bonds sold at just under 4.25% interest, and the district expects about $900,000 in interest earnings on unspent proceeds {pdc_centraloffice}{pdc_bondint}{pdc_pcms}.",
+  "Staff pay: in October 2025 the board ratified a one-year teacher contract with a 1.25% raise to the salary base, a 2% stipend and a $45,000 starting salary {pdc_contract25}. In September 2026 Goggins reported a tentative new agreement with the teachers' association, with a public hearing set for October 14 {pdc_fy27}.",
+  "Marketing contract: the board voted 4–1 in May 2025 and again in May 2026, with Bingham dissenting both times, to renew a $7,000-a-month marketing contract; Goggins and Williams said it promotes the schools and supports enrollment, while Bingham questioned the cost {pdc_finance25}{pdc_marketing}.",
+  "Cell phones: Goggins told the board in April 2026 that the state's bell-to-bell student phone ban would take effect the next school year; board members disagreed over whether to restrict phones on school buses {pdc_cellphone}.",
+  "Academics: Velthouse reported in April 2026 that iLearn results showed positive results in math, with growth still to come in English/language arts {pdc_centraloffice}.",
+  "Forums: this guide found no candidate forum or questionnaire for the North Gibson race as of October 10, 2026."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Michael J. Ice",
+   "seat": "District 1",
+   "summary": "Incumbent who represents Washington Township on the board; unopposed for re-election {pdc_atlarge}{pdc_slates}.",
+   "website": null,
+   "background": [
+    "A former school bus driver, according to the Daily Clarion {pdc_cellphone}.",
+    "A Mount Olympus resident who volunteers at community events, including with the Lions Club {pdc_fishfry}."
+   ],
+   "path_to_ballot": [
+    "Filed for District 1 and is listed as a Republican {pdc_slates}{in_list}.",
+    "Was elected unopposed in District 1 in 2022 {gc_2022}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Supported the up-to-$40 million bond plan in April 2025, saying 'Things have been stable in large part due to the excellent bond rating that this school has,' that the district was 'well-protected' given the expiring TIF district, and that 'This will be the only time we can do that' {pdc_bond25}.",
+      "On the marketing contract in May 2025, said he needed to see a report of the work to judge whether the expense was worth supporting {pdc_finance25}."
+     ]
+    },
+    {
+     "topic": "School safety",
+     "items": [
+      "In the April 2026 discussion of the state's phone ban, said 'I'm definitely in favor of some sort of restriction on a bus,' warning that phone use can make for 'a very disruptive school bus' {pdc_cellphone}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Opposed converting the board to at-large seats and in December 2025 moved that the board not change voting districts unless state law required it, withdrawing the motion after the attorney said it would not be binding {pdc_bylaws}.",
+      "In January 2026 moved to develop a policy rotating board officer posts; the motion failed 3–2 {pdc_taxbase}."
+     ]
+    },
+    {
+     "topic": "Facilities",
+     "items": [
+      "Asked in September 2026 to see the middle/intermediate school renovation work while it is in progress {pdc_pcms}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member.",
+    "Called the board's April 2025 bond plan a sound use of the district's financial position: 'I think we've done a very, very good job of putting ourselves in the position where we can do this, and not put ourselves in a bind' {pdc_bond25}.",
+    "Was nominated for board vice president in January 2026 but lost 3–2 to Brock Sievers {pdc_officers}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, questionnaire or forum answers were found; he is unopposed.",
+    "Current occupation could not be confirmed.",
+    "Search-result snippets (unverified) show a Michael Ice as North Gibson board president in an earlier state audit period; his total years on the board could not be confirmed.",
+    "A 'Michael Ice' was among substitute bus drivers approved by the board in July 2026 (Daily Clarion); this guide could not confirm whether that is the same person."
+   ]
+  },
+  {
+   "ballot_name": "Amy Michele Bingham",
+   "seat": "District 2",
+   "summary": "Incumbent who represents White River Township on the board; faces Trevor Cotterman {pdc_atlarge}{pdc_slates}.",
+   "website": null,
+   "background": [
+    "Represents White River Township on the board {pdc_bylaws}."
+   ],
+   "path_to_ballot": [
+    "Filed for District 2 and is listed as a Republican {pdc_filing}{in_list}.",
+    "Was elected unopposed in District 2 in 2022 {gc_2022}."
+   ],
+   "positions": [
+    {
+     "topic": "Budget & taxes",
+     "items": [
+      "Voted against renewing the $7,000-a-month marketing contract in May 2025 and May 2026, saying 'I just feel like we don't have the extra money for that' and suggesting student classes could make some promotional material {pdc_finance25}{pdc_marketing}.",
+      "Asked during the April 2025 bond hearing whether projects could be paid with cash on hand or grants, and said 'Our property taxes are kind of high, and they'll never go down if we don't get this paid off' {pdc_bond25}.",
+      "Asked in September 2026 whether bus routes could be merged to save on rising fuel costs {pdc_fy27}."
+     ]
+    },
+    {
+     "topic": "Teachers & staff",
+     "items": [
+      "Said teachers spend nearly $800 of their own money on supplies, arguing in May 2026 that 'Every kid could have what they need' if the marketing money went to students and teachers; Goggins replied that the contract is paid from operations funds that could not be used for those purposes {pdc_marketing}.",
+      "Raised cafeteria workers' concerns about their jobs if food service were contracted out (October 2025) {pdc_contract25}."
+     ]
+    },
+    {
+     "topic": "Transparency & community input",
+     "items": [
+      "Proposed in January 2026 that board officers serve on a rotating basis; Ice's motion to develop the policy, which she seconded, failed 3–2 {pdc_officers}{pdc_taxbase}.",
+      "Questioned Williams in December 2025 about why the at-large proposal came up a second time {pdc_bylaws}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "Is a current board member.",
+    "Has dissented on the marketing contract, saying in May 2026 'This money, I kind of feel like this is being thrown away'; Williams called her estimate of total spending 'dramatic,' putting it at about $336,000 over four years, and Sievers said she was 'painting a false picture' about where the money could go {pdc_marketing}.",
+    "Was nominated for board secretary in January 2026 but lost 3–2 to Beth Davis {pdc_officers}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, questionnaire or forum answers were found.",
+    "Occupation and ties to the schools beyond board service could not be confirmed.",
+    "The state list spells her middle name 'Michele'; the Daily Clarion spells it 'Michelle' and the district website lists 'Amy Michelle Bingham'."
+   ]
+  },
+  {
+   "ballot_name": "Trevor Cotterman",
+   "seat": "District 2",
+   "summary": "Challenger for the White River Township seat held by Amy Bingham; an emergency dispatcher who lives in Hazleton {pdc_cotterman_lsn}{pdc_slates}.",
+   "website": null,
+   "background": [
+    "Emergency dispatcher with the Gibson County Sheriff's Department {pdc_cotterman_lsn}.",
+    "Lives in Hazleton; was White County's Lilly Endowment Community Scholar in 2007, earned a bachelor's degree from Purdue University, and was named to the 2026 Lilly Scholars Network leadership academy {pdc_cotterman_lsn}.",
+    "Parent of a Princeton Community Intermediate School student as of April 2025 {pdc_sro}."
+   ],
+   "path_to_ballot": [
+    "Filed for District 2 as a nonpartisan candidate {pdc_filing}{in_list}."
+   ],
+   "positions": [
+    {
+     "topic": "School safety",
+     "items": [
+      "Spoke during public comment in April 2025, asking the district to review its school resource officer policy and amend it to let the officer intervene with students {pdc_sro}."
+     ]
+    }
+   ],
+   "on_incumbent": [
+    "This guide found no statement from this candidate on the current board's record beyond his April 2025 public comment on school resource officer policy; the board did not discuss the issue further {pdc_sro}."
+   ],
+   "plans": [],
+   "endorsements_finance": [
+    "No endorsements or campaign finance reports were found."
+   ],
+   "gaps": [
+    "No campaign website, social media page, questionnaire or forum answers were found.",
+    "His reasons for running and positions on the budget, facilities and other board issues could not be found."
+   ]
+  }
+ ],
+ "review_flags": [],
+ "sources": {
+  "ngsc_board": [
+   "School Board Information",
+   "North Gibson School Corporation",
+   "2026-10",
+   "https://www.ngsc.k12.in.us/school-board-information"
+  ],
+  "wiki_ng": [
+   "North Gibson School Corporation",
+   "Wikipedia",
+   "2026-10",
+   "https://en.wikipedia.org/wiki/North_Gibson_School_Corporation"
+  ],
+  "nces_ng": [
+   "District detail: North Gibson School Corporation",
+   "National Center for Education Statistics, Common Core of Data",
+   "2026-10",
+   "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?Search=1&details=1&ID2=1807770"
+  ],
+  "gc_2022": [
+   "General Election 2022 Official Precinct Results",
+   "Gibson County",
+   "2022-11",
+   "https://gibsoncounty-in.gov/wp-content/uploads/2024/12/General-2022-Official-PBP.pdf"
+  ],
+  "pdc_filing": [
+   "Candidates file for township, school posts",
+   "Princeton Daily Clarion",
+   "2026-05-24",
+   "https://www.pdclarion.com/news/candidates-file-for-township-school-posts/article_c5d0f597-4cbd-5ee9-9d72-13b29793dade.html"
+  ],
+  "pdc_slates": [
+   "School board candidate slates set",
+   "Princeton Daily Clarion",
+   "2026-07-15",
+   "https://www.pdclarion.com/news/school-board-candidate-slates-set/article_175db57d-2d65-5a95-bd59-03cd892ccec2.html"
+  ],
+  "pdc_atlarge": [
+   "NGSC board president withdraws at-large board proposal",
+   "Princeton Daily Clarion",
+   "2025-12-15",
+   "https://www.pdclarion.com/news/ngsc-board-president-withdraws-at-large-board-proposal/article_73dfb27a-b535-5539-ba2f-b1f9053aad68.html"
+  ],
+  "pdc_bylaws": [
+   "NGSC school board candidates can declare political party, seek office at age 18",
+   "Princeton Daily Clarion",
+   "2025-12-17",
+   "https://www.pdclarion.com/news/ngsc-school-board-candidates-can-declare-political-party-seek-office-at-age-18/article_cba225db-e3e2-5fd6-9bbf-6ce2bfab9e7c.html"
+  ],
+  "pdc_officers": [
+   "Williams re-elected NGSC board president",
+   "Princeton Daily Clarion",
+   "2026-01-11",
+   "https://www.pdclarion.com/news/williams-re-elected-ngsc-board-president/article_9fe7e343-4ace-5ee6-a649-a97ee4dadda9.html"
+  ],
+  "pdc_taxbase": [
+   "Tax base boost drops NGSC's rate",
+   "Princeton Daily Clarion",
+   "2026-01-21",
+   "https://www.pdclarion.com/news/tax-base-boost-drops-ngscs-rate/article_1e847c85-e088-5aa5-8dbd-1e8e7dbe0993.html"
+  ],
+  "pdc_finance25": [
+   "Financial challenges ahead for NGSC, area schools",
+   "Princeton Daily Clarion",
+   "2025-05-23",
+   "https://www.pdclarion.com/news/local_news/financial-challenges-ahead-for-ngsc-area-schools/article_5ceec62d-739e-5a16-9a83-18f776984cd6.html"
+  ],
+  "pdc_bond25": [
+   "NGSC capital projects bond issue approved",
+   "Princeton Daily Clarion",
+   "2025-04-25",
+   "https://www.pdclarion.com/news/local_news/ngsc-capital-projects-bond-issue-approved/article_69d000d1-e080-55c6-9530-b27f0889bbe9.html"
+  ],
+  "pdc_contract25": [
+   "NGSC approves teacher contract, raises for non-union staff",
+   "Princeton Daily Clarion",
+   "2025-10-21",
+   "https://www.pdclarion.com/news/ngsc-approves-teacher-contract-raises-for-non-union-staff/article_09dd562f-8770-5c48-94fc-f4bd270dacbf.html"
+  ],
+  "pdc_marketing": [
+   "Getting the message out: NGSC renews marketing contract",
+   "Princeton Daily Clarion",
+   "2026-05-12",
+   "https://www.pdclarion.com/news/getting-the-message-out-ngsc-renews-marketing-contract/article_7f18ae5d-166f-5dfe-857b-6c6041d6b57b.html"
+  ],
+  "pdc_cellphone": [
+   "NGSC trustees brace for cell phone policy backlash",
+   "Princeton Daily Clarion",
+   "2026-04-26",
+   "https://www.pdclarion.com/news/ngsc-trustees-brace-for-cell-phone-policy-backlash/article_cd44a531-7dea-51a2-a099-cc5edfb8e572.html"
+  ],
+  "pdc_centraloffice": [
+   "NGSC awards bids for new central office, band tower",
+   "Princeton Daily Clarion",
+   "2026-04-26",
+   "https://www.pdclarion.com/news/ngsc-awards-bids-for-new-central-office-band-tower/article_e848c278-69f7-556b-86d9-58b99a556a47.html"
+  ],
+  "pdc_av": [
+   "AV increase allows NGSC to maintain lowest tax rate in years",
+   "Princeton Daily Clarion",
+   "2026-08-19",
+   "https://www.pdclarion.com/news/av-increase-allows-ngsc-to-maintain-lowest-tax-rate-in-years/article_e91f6b1d-88ec-51e8-b9cd-d44897e4b670.html"
+  ],
+  "pdc_bondint": [
+   "NGSC bond proceeds could generate $900K in interest",
+   "Princeton Daily Clarion",
+   "2026-08-19",
+   "https://www.pdclarion.com/news/ngsc-bond-proceeds-could-generate-900k-in-interest/article_5a165c1a-8560-5bc1-8999-9eda2d1c89a6.html"
+  ],
+  "pdc_fy27": [
+   "NGSC approves FY27 budget; schedules contract hearing",
+   "Princeton Daily Clarion",
+   "2026-09-23",
+   "https://www.pdclarion.com/news/ngsc-approves-fy27-budget-schedules-contract-hearing/article_1ac40996-6146-517e-89c3-5fa28e8cfa3d.html"
+  ],
+  "pdc_pcms": [
+   "NGSC lets bids for PCMS-PCIS upgrades",
+   "Princeton Daily Clarion",
+   "2026-09-23",
+   "https://www.pdclarion.com/news/ngsc-lets-bids-for-pcms-pcis-upgrades/article_dcdb3749-be22-564d-a64c-38bb4bfd6bd8.html"
+  ],
+  "pdc_fishfry": [
+   "Community projects get a boost from benefit dinners",
+   "Princeton Daily Clarion",
+   "2026-03-22",
+   "https://www.pdclarion.com/news/community-projects-get-a-boost-from-benefit-dinners/article_cc86d86a-8352-5af2-9130-38e194a47b22.html"
+  ],
+  "pdc_cotterman_lsn": [
+   "Cotterman named Lilly Scholars Network participant",
+   "Princeton Daily Clarion",
+   "2025-12-17",
+   "https://www.pdclarion.com/news/cotterman-named-lilly-scholars-network-participant/article_63828be6-4b1a-51c7-a0db-964f273f7141.html"
+  ],
+  "pdc_sro": [
+   "Multi-month search leads to Archer as new football coach",
+   "Princeton Daily Clarion",
+   "2025-04-18",
+   "https://www.pdclarion.com/news/local_news/multi-month-search-leads-to-archer-as-new-football-coach/article_ce2010aa-e1fe-5cbf-b0b3-4cf44285ff58.html"
+  ]
+ }
+}

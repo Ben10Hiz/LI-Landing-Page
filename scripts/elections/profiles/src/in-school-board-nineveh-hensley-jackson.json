@@ -1,0 +1,185 @@
+{
+ "race_id": "in-school-board-nineveh-hensley-jackson",
+ "reviewed": "2026-10-10",
+ "status": "draft",
+ "status_note": "Pending editorial review.",
+ "office": "@in_school_board",
+ "incumbent": null,
+ "race_context": [
+  "The district: the Nineveh-Hensley-Jackson United School Corporation runs Indian Creek Schools, four schools on one campus in Trafalgar {nhj_about}. Superintendent Matt Prusiecki told the board in August 2026 that enrollment was over 2,100 students {nhj_min_260811}. Prusiecki is superintendent {nhj_board}; in February 2026 the board voted 5-0 to amend his contract to provide additional compensation {nhj_min_260210}.",
+  "Board and elections: the board has five members {nhj_board}{nhj_min_260113}. Seats are tied to the three townships named in the corporation's name, plus at-large seats; the state list shows the 2026 races as a Jackson Township seat (Johnson and Morgan counties) and a Hensley Township seat (Johnson County), each vote for 1 {in_list}. This guide did not find the district's governing-body plan, so it could not confirm who may vote in each township race.",
+  "Current board (2026): Amy Woodrum (president), Brian Young (vice president), Cathy Cook (secretary), Ed Harvey and Kelly Neal {nhj_board}{nhj_min_260113}. The board meets at 7 p.m. on the second Tuesday of each month at Indian Creek Middle School {nhj_board}.",
+  "Seats on the 2026 ballot: Judy Misiniec and Amy Woodrum were sworn in as newly elected members in January 2023, so their terms end this year {nhj_min_230110}. After Misiniec died, the district advertised the vacancy in December 2025 and required applicants to have lived in Hensley Township for 2025 {nhj_vacancy}{nhj_spec_260109}. Kelly Neal was sworn in as the appointed member on Jan. 13, 2026 {nhj_min_260113}. That makes Neal the Hensley Township member; by elimination, Woodrum holds the Jackson Township seat. Neither Neal nor Woodrum is on the 2026 list, so both seats will go to new members {in_list}.",
+  "Facilities and bonds (2025-2026): at an April 2025 hearing, Prusiecki described a $16.5 million project covering classroom additions at Indian Creek Intermediate School; roofing, HVAC and other deferred maintenance; building or renovating the administration office; and buses, equipment and technology {nhj_min_250408}. The board voted 5-0 in May 2025 to issue bonds and enter a lease for the projects, and approved the lease in August 2025 {nhj_min_250513}{nhj_min_250812}. In April 2026 it awarded bids for the intermediate school renovation and the administration building {nhj_min_260414}.",
+  "Budget (2026): in July 2026 the board approved a 'Homestead Credit Waiver Transfers' resolution moving up to $288,326.69 from the Debt Service Fund to the Operations Fund. It also approved moving $1 million from the Education Fund to the Operations Fund for July to December 2026 {nhj_min_260714}. The board renewed a contract with Policy Analytics, which the business manager said analyzes the district's tax base, circuit-breaker changes and cash flow {nhj_min_260714}. No one spoke at the Sept. 8, 2026 public hearing on the 2027 budget, which was set for a vote in October {nhj_min_260908}.",
+  "Staff policy (2026): in September 2026 the board approved changes to the classified-staff handbook. They cover retirement leave days and paid and unpaid leave, and make employees who work under 29 hours ineligible for benefits {nhj_min_260908}. Prusiecki reported that month that enrollment was up and all staff positions were filled {nhj_min_260908}.",
+  "Administrative reassignments (June 2026): a proposed 'Administrative Reassignments' item was removed from the June 9, 2026 agenda. Five residents, including candidate Tessa Key, spoke about it during public comment. Prusiecki then read a statement saying he was disappointed with the comments made to board members and to him {nhj_min_260609}. The minutes do not say what the reassignments were or what speakers said.",
+  "Forums: this guide found no 2026 candidate forum, questionnaire or freely readable news coverage of these races. The local paper's (Daily Journal) pages could not be loaded."
+ ],
+ "candidates": [
+  {
+   "ballot_name": "Mark Appleton",
+   "seat": "Hensley Township",
+   "summary": "Candidate for the Hensley Township seat, listed on the state list as a Republican {in_list}. The seat is open: appointed member Kelly Neal is not on the ballot {nhj_min_260113}{in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state list as a Republican for the Hensley Township seat {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign website, questionnaire, forum answers or news coverage found; occupation and background not confirmed.",
+    "January 2026 board minutes record the hiring of a 'Mark Appleton' as a long-term substitute 3rd-grade teacher at Indian Creek Intermediate School; this guide could not confirm whether that is the candidate.",
+    "Unverified (search snippet only): a July 2026 Daily Journal article listing Johnson County candidates reportedly names Appleton as a Hensley Township candidate; the article could not be loaded.",
+    "No campaign finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Tessa Key",
+   "seat": "Hensley Township",
+   "summary": "Candidate for the Hensley Township seat, listed on the state list as Nonpartisan {in_list}. The seat is open: appointed member Kelly Neal is not on the ballot {nhj_min_260113}{in_list}.",
+   "website": null,
+   "background": [
+    "Board minutes list her as a Trafalgar resident {nhj_min_260609}."
+   ],
+   "path_to_ballot": [
+    "Listed on the state list as Nonpartisan for the Hensley Township seat {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [
+    "She was one of five residents who spoke during public comment at the June 9, 2026 board meeting on a proposed administrative reassignments item, which had been removed from the agenda. The minutes do not record what she said {nhj_min_260609}."
+   ],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No 2026 campaign website, questionnaire, forum answers or news coverage found.",
+    "Unverified (search snippets only): Daily Journal coverage reportedly says Key ran for an at-large seat in 2024, finished second in unofficial Johnson County results (about 29.6%), and did not take a seat because of a rule on township residency for at-large seats; the same coverage reportedly describes her as a small business owner. The articles could not be loaded.",
+    "Her occupation is not confirmed.",
+    "No campaign finance reports found."
+   ]
+  },
+  {
+   "ballot_name": "Jeremy Abraham",
+   "seat": "Jackson Township",
+   "summary": "The only candidate listed for the Jackson Township seat, listed on the state list as a Republican {in_list}. The seat is open: board president Amy Woodrum, elected in 2022, is not on the ballot {nhj_min_230110}{in_list}.",
+   "website": null,
+   "background": [],
+   "path_to_ballot": [
+    "Listed on the state list as a Republican, and is the only candidate listed for the Jackson Township seat {in_list}."
+   ],
+   "positions": [],
+   "on_incumbent": [],
+   "plans": [],
+   "endorsements_finance": [],
+   "gaps": [
+    "No campaign website, questionnaire, forum answers or news coverage found; occupation and background not confirmed.",
+    "Unverified (search snippet only): a July 2026 Daily Journal article reportedly lists Abraham as the Jackson Township candidate; the article could not be loaded.",
+    "No campaign finance reports found."
+   ]
+  }
+ ],
+ "review_flags": [
+  {
+   "person": "Kelly Neal (appointed board member; not a candidate)",
+   "category": "remark",
+   "status": "held",
+   "summary": "At the June 9, 2026 meeting, after public comment on a proposed administrative reassignments item that had been removed from the agenda, Neal said board members are human beings who should be treated with respect and kindness. According to the minutes, she said none of them should have been threatened, called names or shamed into voting one way or another, and that she appreciated those who raised concerns respectfully. Superintendent Prusiecki read a statement saying he was disappointed with the comments made to board members and to him {nhj_min_260609}.",
+   "note": "Candidate Tessa Key was among the five residents who spoke on the item. The minutes do not tie Neal's remark to any speaker and do not record what anyone said. Editors should decide whether the episode belongs in race context. The current text mentions only the removed item and the superintendent's statement."
+  }
+ ],
+ "sources": {
+  "nhj_board": [
+   "Administration/School Board",
+   "Nineveh-Hensley-Jackson United School Corporation (Indian Creek Schools)",
+   "2026-10",
+   "https://www.indiancreekschools.com/administration-school-board"
+  ],
+  "nhj_about": [
+   "About NHJ",
+   "Nineveh-Hensley-Jackson United School Corporation (Indian Creek Schools)",
+   "2026-10",
+   "https://www.indiancreekschools.com/about-nhj"
+  ],
+  "nhj_vacancy": [
+   "NHJ announces board opening",
+   "Nineveh-Hensley-Jackson United School Corporation (Indian Creek Schools)",
+   "2025-12-16",
+   "https://www.indiancreekschools.com/nhj-announces-board-opening"
+  ],
+  "nhj_spec_260109": [
+   "Special Session Agenda, January 9, 2026",
+   "NHJ United School Corporation Board of School Trustees",
+   "2026-01-09",
+   "https://cdn.zephyrcms.com/004a9f82-da5e-4480-95aa-ae7930696935/-/inline/yes/010926-special-session-agenda.pdf"
+  ],
+  "nhj_min_230110": [
+   "Regular Session Minutes, January 10, 2023",
+   "NHJ United School Corporation Board of School Trustees",
+   "2023-01-10",
+   "https://cdn.zephyrcms.com/ff803c5f-90eb-45eb-9402-4a2a471cf898/-/inline/yes/04.%20C.%202.%20011023%20SIGNED%20Regular%20Session%20Minutes.pdf"
+  ],
+  "nhj_min_250408": [
+   "Regular Session Minutes, April 8, 2025",
+   "NHJ United School Corporation Board of School Trustees",
+   "2025-04-08",
+   "https://cdn.zephyrcms.com/590b8cab-217e-4c7f-820a-7bf7142e300a/-/inline/yes/04.%20C.%202.%20040825%20SIGNED%20Regular%20Session%20Minutes%20(1).pdf"
+  ],
+  "nhj_min_250513": [
+   "Regular Session Minutes, May 13, 2025",
+   "NHJ United School Corporation Board of School Trustees",
+   "2025-05-13",
+   "https://cdn.zephyrcms.com/bad46fa3-ddf0-4a92-8797-1a4075936f53/-/inline/yes/04.%20C.%202.%20051325%20SIGNED%20Regular%20Session%20Minutes.pdf"
+  ],
+  "nhj_min_250812": [
+   "Regular Session Minutes, August 12, 2025",
+   "NHJ United School Corporation Board of School Trustees",
+   "2025-08-12",
+   "https://cdn.zephyrcms.com/b507a7fd-e2ab-42ce-8467-632103075948/-/inline/yes/04.%20C.%202.%20SIGNED%20081225%20Regular%20Session%20Minutes.pdf"
+  ],
+  "nhj_min_260113": [
+   "Regular Session Minutes, January 13, 2026",
+   "NHJ United School Corporation Board of School Trustees",
+   "2026-01-13",
+   "https://cdn.zephyrcms.com/94c1f5ba-ab45-4222-b8c8-7eb88a912d3a/-/inline/yes/04.%20C.%202.%20SIGNED%20011326%20Regular%20Session%20Minutes.pdf"
+  ],
+  "nhj_min_260210": [
+   "Regular Session Minutes, February 10, 2026",
+   "NHJ United School Corporation Board of School Trustees",
+   "2026-02-10",
+   "https://cdn.zephyrcms.com/267f4002-06f9-4da1-9e1a-65d11aeec403/-/inline/yes/04.%20C.%202.%20SIGNED%20021026%20Regular%20Session%20Minutes.pdf"
+  ],
+  "nhj_min_260414": [
+   "Regular Session Minutes, April 14, 2026",
+   "NHJ United School Corporation Board of School Trustees",
+   "2026-04-14",
+   "https://cdn.zephyrcms.com/4107fd05-bf50-415a-b9b6-1982f6b550a7/-/inline/yes/04.%20C.%202.%20SIGNED%20041426%20Regular%20Session%20Minutes.pdf"
+  ],
+  "nhj_min_260609": [
+   "Regular Session Minutes, June 9, 2026",
+   "NHJ United School Corporation Board of School Trustees",
+   "2026-06-09",
+   "https://cdn.zephyrcms.com/2e3581ac-4409-43b2-8ce9-e44446097657/-/inline/yes/04.%20C.%202.%20060926%20SIGNED%20Regular%20Session%20Minutes.pdf"
+  ],
+  "nhj_min_260714": [
+   "Regular Session Minutes, July 14, 2026",
+   "NHJ United School Corporation Board of School Trustees",
+   "2026-07-14",
+   "https://cdn.zephyrcms.com/37414e02-0aef-4648-a202-aeef6449a973/-/inline/yes/04.%20C.%202.%20071426%20SIGNED%20Regular%20Session%20Minutes.pdf"
+  ],
+  "nhj_min_260811": [
+   "Regular Session Minutes, August 11, 2026",
+   "NHJ United School Corporation Board of School Trustees",
+   "2026-08-11",
+   "https://cdn.zephyrcms.com/b4d8a5be-b435-4b28-9e1c-2dee83ba5cd7/-/inline/yes/04.%20C.%202.%20081126%20SIGNED%20Regualr%20Session%20Agenda.pdf"
+  ],
+  "nhj_min_260908": [
+   "Regular Session Minutes, September 8, 2026",
+   "NHJ United School Corporation Board of School Trustees",
+   "2026-09-08",
+   "https://cdn.zephyrcms.com/dee8db45-7fa6-4659-be09-b713b7baea80/-/inline/yes/04.%20C.%202.%20SIGNED%20090826%20Regular%20Session%20Minutes.pdf"
+  ]
+ }
+}

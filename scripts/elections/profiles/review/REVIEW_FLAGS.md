@@ -172,6 +172,13 @@ Sensitive items held for a second, careful editorial pass (criminal cases, misco
   - [PAC: school board noncompliant](https://morgancountycorrespondent.com/2025/03/06/pac-school-board-noncompliant/) — Morgan County Correspondent, 2025-03-06
   - [Newspaper's lawsuit prompts Indiana school board to adopt transparency reforms](https://www.rcfp.org/?p=74978) — Reporters Committee for Freedom of the Press, 2025-06-06
 
+## Indiana School Board Member (`in-school-board-nineveh-hensley-jackson`)
+
+- **Kelly Neal (appointed board member; not a candidate)** — remark — _held_
+  At the June 9, 2026 meeting, after public comment on a proposed administrative reassignments item that had been removed from the agenda, Neal said board members are human beings who should be treated with respect and kindness. According to the minutes, she said none of them should have been threatened, called names or shamed into voting one way or another, and that she appreciated those who raised concerns respectfully. Superintendent Prusiecki read a statement saying he was disappointed with the comments made to board members and to him.
+  Note: Candidate Tessa Key was among the five residents who spoke on the item. The minutes do not tie Neal's remark to any speaker and do not record what anyone said. Editors should decide whether the episode belongs in race context. The current text mentions only the removed item and the superintendent's statement.
+  - [Regular Session Minutes, June 9, 2026](https://cdn.zephyrcms.com/2e3581ac-4409-43b2-8ce9-e44446097657/-/inline/yes/04.%20C.%202.%20060926%20SIGNED%20Regular%20Session%20Minutes.pdf) — NHJ United School Corporation Board of School Trustees, 2026-06-09
+
 ## Indiana School Board Member (`in-school-board-north-harrison`)
 
 - **Charles (Chris) Bowyer** — remark — _held_
@@ -217,6 +224,15 @@ Sensitive items held for a second, careful editorial pass (criminal cases, misco
   Note: Source is an opinion letter, not news reporting; the remarks are not confirmed by the minutes (a meeting video on the board's YouTube channel was not reviewed). Perkins is not on the ballot; relevant only as context for the open Milford seat. Likely omit.
   - [Take time to watch PH board meeting (letter to the editor)](https://www.kpcnews.com/opinions/letters/kpcnews/article_236743a1-c479-487d-a5df-397796e880fb.html) — KPC News, 2025-11-13
   - [Board of Education minutes, November 6, 2025](https://www.ph.k12.in.us/school-board/minutes/2025-2026-school-year/937-school-board-meeting-minutes-november-6-2025/file) — Prairie Heights Community School Corporation, 2025-11-06
+
+## Indiana School Board Member (`in-school-board-shelbyville-central`)
+
+- **David Finkel (former board vice president; not a 2026 candidate)** — personnel action — _held_
+  FOX59 reported that FBI agents searched Finkel's Shelbyville home on June 5, 2025 in a federal investigation; the board asked him to resign, calling it 'a personal issue and not conduct involving the school district', and the superintendent confirmed his resignation on June 12, 2025. The board accepted the resignation and took applications for the vacancy, which it filled with Dr. Julie Ruschhaupt on June 26, 2025. The article reported no charges and no statement from Finkel.
+  Note: Explains how the District 4 seat now held by appointee Ruschhaupt became vacant (seat match inferred from 2022 results, not confirmed). The profile text refers only to a 'vacant seat'. Finkel is not on the 2026 ballot; no charge or outcome confirmed.
+  - [Shelbyville school board asks for David Finkel's resignation following FBI search](https://fox59.com/indiana-news/shelbyville-school-board-asks-for-david-finkels-resignation-following-fbi-search/) — FOX59, 2025-06-12
+  - [Friday, June 13, 2025 (Notebook)](https://addisontimes.substack.com/p/friday-june-13-2025) — The Addison Times, 2025-06-13
+  - [Friday, June 27, 2025 (Notebook)](https://addisontimes.substack.com/p/friday-june-27-2025) — The Addison Times, 2025-06-27
 
 ## Indiana School Board Member (`in-school-board-south-dearborn`)
 
